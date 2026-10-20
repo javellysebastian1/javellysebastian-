@@ -1,0 +1,25 @@
+{
+  "actualizado": "2026-10-20",
+  "lista": [
+    { "id": "t01", "numero": 1, "titulo": "Decisiones bajo presión", "para": "Criterio para decidir con información incompleta.", "estado": "en_curso",
+      "episodios": [
+        { "titulo": "Trece días para no acabar el mundo", "fecha": "2026-10-20" },
+        { "titulo": "Apolo 13: cómo meter un filtro cuadrado en un hueco redondo" },
+        { "titulo": "Tylenol 1982: retirar 31 millones de frascos para salvar la marca" },
+        { "titulo": "Kodak inventó la cámara digital en 1975 y la guardó" },
+        { "titulo": "Los estoicos ante la crisis" },
+        { "titulo": "Síntesis: tu manual para decidir bajo presión" }
+      ] },
+    { "id": "t02", "numero": 2, "titulo": "Cómo te manipulan", "para": "Pensamiento crítico y defensa contra la persuasión.", "estado": "pendiente", "episodios": [] },
+    { "id": "t03", "numero": 3, "titulo": "Cómo se construye una marca que dura", "para": "Estrategia y branding para tus propios proyectos.", "estado": "pendiente", "episodios": [] },
+    { "id": "t04", "numero": 4, "titulo": "Juicios que cambiaron el mundo", "para": "Derecho con historia y consecuencias.", "estado": "pendiente", "episodios": [] },
+    { "id": "t05", "numero": 5, "titulo": "El dinero que no te enseñaron", "para": "Finanzas personales aplicables.", "estado": "pendiente", "episodios": [] },
+    { "id": "t06", "numero": 6, "titulo": "México que no te contaron", "para": "Entender el país con contexto.", "estado": "pendiente", "episodios": [] },
+    { "id": "t07", "numero": 7, "titulo": "La ciencia de rendir", "para": "Salud y energía con evidencia.", "estado": "pendiente", "episodios": [] },
+    { "id": "t08", "numero": 8, "titulo": "Francia para entenderla", "para": "Cultura y francés con contexto.", "estado": "pendiente", "episodios": [] },
+    { "id": "t09", "numero": 9, "titulo": "Cómo piensa una IA", "para": "Usar la IA con criterio en tu trabajo.", "estado": "pendiente", "episodios": [] },
+    { "id": "t10", "numero": 10, "titulo": "Historias detrás de las obras", "para": "Arte que se recuerda.", "estado": "pendiente", "episodios": [] },
+    { "id": "t11", "numero": 11, "titulo": "Filosofía viva: los estoicos", "para": "Séneca, Marco Aurelio y Epicteto aplicados a decisiones reales.", "estado": "pendiente", "episodios": [] },
+    { "id": "t12", "numero": 12, "titulo": "Filosofía viva: Nietzsche", "para": "Ideas centrales aplicadas a la ambición, la moral y la creación.", "estado": "pendiente", "episodios": [] }
+  ]
+}

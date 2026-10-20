@@ -1,0 +1,303 @@
+{
+ "schemaVersion": 4,
+ "id": "auxo-2026-10-20",
+ "numero": 1,
+ "fecha": "2026-10-20",
+ "disponibleDesde": "2026-10-20T08:00:00-06:00",
+ "titulo": "Trece días para no acabar el mundo",
+ "temporada": {
+  "id": "t01",
+  "numero": 1,
+  "titulo": "Decisiones bajo presión",
+  "episodio": 1,
+  "totalEpisodios": 6
+ },
+ "calentamiento": [
+  {
+   "pregunta": "¿Por qué los muones sirven para ver dentro de una pirámide?",
+   "respuesta": "Atraviesan la roca y se detienen más en el material denso. Contar cuántos llegan desde cada dirección da un mapa de densidad.",
+   "origen": "AUXO 3.0"
+  },
+  {
+   "pregunta": "¿Para qué sirve el andon en una línea de producción?",
+   "respuesta": "Para detener el proceso en cuanto aparece un defecto, antes de que se repita en cada pieza.",
+   "origen": "AUXO 3.0"
+  },
+  {
+   "pregunta": "En « les amis », ¿cómo suena la unión entre las dos palabras?",
+   "respuesta": "«le-za-mi»: la s final suena como z porque la siguiente palabra empieza con vocal (liaison).",
+   "origen": "AUXO 3.0"
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n1",
+   "ambito": "jalisco",
+   "ambitoTexto": "Guadalajara",
+   "fecha": "2026-10-18",
+   "historiaEnCurso": {
+    "id": "agua-gdl",
+    "titulo": "Crisis del agua en Guadalajara",
+    "capitulo": 1,
+    "dondeIbamos": ""
+   },
+   "titular": "Guadalajara raciona el agua hasta marzo de 2027",
+   "quePaso": "Desde el 15 de octubre, el SIAPA aplica tandeos en 627 colonias, cerca del 42% de su cobertura, para atender la calidad del agua. Seguirán hasta marzo de 2027. El domingo 18 hubo una segunda marcha por agua limpia.",
+   "aMiQue": "Si vives o trabajas en la zona metropolitana, habrá días sin servicio según tu zona; parte de Zapopan (Sur-Poniente) está en la zona 6, sin agua lunes y viernes. Revisa tu dirección en rotaciondeserviciosiapa.jalisco.gob.mx. Para cualquier negocio que use agua, son cinco meses de costo y riesgo operativo.",
+   "contexto": "Las quejas por agua turbia vienen desde 2016. El 6 de octubre, el gobernador Pablo Lemus reconoció una crisis «como nunca antes» y suspendió seis meses el suministro de la presa Las Pintas por contaminación. La primera marcha, el 11 de octubre, terminó con gas lacrimógeno y detenidos; después Lemus reconoció uso excesivo de la fuerza.",
+   "queVigilar": "Si el SIAPA ajusta las zonas tras los primeros resultados, la investigación de la CNDH sobre el 11 de octubre y si aparece un plan de inversión para cambiar tuberías.",
+   "fuentes": [
+    {
+     "nombre": "El Informador: arrancan los tandeos",
+     "url": "https://www.informador.mx/jalisco/siapa-arrancan-tandeos-del-agua-en-el-area-metropolitana-de-guadalajara-primeras-colonias-afectadas-20261015-0047.html"
+    },
+    {
+     "nombre": "El Informador: cronología de la crisis",
+     "url": "https://www.informador.mx/jalisco/cronologia-de-la-crisis-de-agua-en-guadalajara-asi-empezo-en-2025-20261013-0131.html"
+    },
+    {
+     "nombre": "El Informador: segunda marcha y CNDH",
+     "url": "https://www.informador.mx/jalisco/segunda-marcha-por-el-agua-en-guadalajara-cndh-llama-a-las-autoridades-a-respetar-a-los-manifestantes-20261018-0053.html"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-10-20",
+   "titular": "La economía mexicana habría crecido 3.7% anual en septiembre",
+   "quePaso": "El INEGI estimó, con su indicador oportuno de actividad económica, que la economía creció 3.7% frente a septiembre del año pasado y 0.1% frente a agosto.",
+   "aMiQue": "La demanda sigue firme, lo que es buena señal para vender. Pero el avance mensual de 0.1% es casi plano: no conviene planear como si la economía se estuviera acelerando.",
+   "contexto": "Este indicador es una estimación adelantada; el dato oficial llega semanas después y puede corregirlo. El dato anual compara contra el mismo mes del año anterior y el mensual contra el mes previo: cuentan historias distintas.",
+   "queVigilar": "La estimación oportuna del PIB del tercer trimestre, que el INEGI suele publicar a fin de mes, y si confirma o corrige este ritmo.",
+   "fuentes": [
+    {
+     "nombre": "Reuters vía GBM",
+     "url": "https://gbm.com/media/noticia/actividad-economica-de-mexico-crece-un-3-7-interanual-en-septiembre-indicador-preliminar"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-10-20",
+   "titular": "Ataques a plantas petroleras sauditas suben el crudo y presionan al peso",
+   "quePaso": "Tras reportes de nuevos ataques a plantas petroleras de Arabia Saudita, el Brent superó brevemente los 111 dólares por barril y luego bajó a cerca de 106.7. El peso abrió el martes con una caída de 0.26%, cerca de 18.47 por dólar.",
+   "aMiQue": "Un petróleo caro encarece transporte, empaques y energía, y suele presionar la inflación. Si importas insumos o tu producto depende mucho de la logística, es buen momento para revisar precios y tu exposición al tipo de cambio.",
+   "contexto": "La región vive meses de tensión. Irán y Estados Unidos negocian sin acuerdo, y los rebeldes hutíes de Yemen atacaron un campo de entrenamiento del gobierno yemení: 58 muertos. Arabia Saudita pospuso su conferencia anual de inversión.",
+   "queVigilar": "Si el Brent se sostiene arriba de los 105 dólares y si el peso rebasa los 18.50 por dólar.",
+   "fuentes": [
+    {
+     "nombre": "La Jornada: el peso retrocede",
+     "url": "https://www.jornada.com.mx/noticia/2026/10/20/economia/peso-retrocede-mientras-la-tension-aumenta-en-los-mercados"
+    },
+    {
+     "nombre": "Just Security: resumen del 20 de octubre",
+     "url": "https://www.justsecurity.org/161419/early-edition-october-20-2026/"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "En 1962, los militares le pedían a Kennedy bombardear Cuba. ¿Qué crees que hizo?",
+    "contexto": "Octubre de 1962. Estados Unidos descubre misiles nucleares soviéticos en Cuba, a unos 150 km de Florida. Los jefes militares le recomiendan a Kennedy bombardear e invadir.",
+    "pregunta": "¿Qué crees que hizo?",
+    "opciones": [
+     "Bombardeó los misiles por sorpresa",
+     "Rodeó la isla con barcos y esperó",
+     "Negoció en secreto sin hacer nada en público"
+    ]
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Catorce de octubre",
+    "texto": "El 14 de octubre de 1962, un avión espía U-2 fotografía plataformas de misiles en construcción en Cuba. Las imágenes llegan a la Casa Blanca en cuestión de horas. Desde ahí, buena parte de Estados Unidos queda a minutos de un ataque nuclear.\n\nKennedy reúne a sus asesores más cercanos. Todos los jefes del Estado Mayor proponen un ataque aéreo seguido de una invasión. Otros prefieren solo advertencias firmes.\n\nEl 22 de octubre, Kennedy elige un punto intermedio: rodea Cuba con barcos para impedir que lleguen más armas. No lo llama «bloqueo», porque legalmente un bloqueo supone un estado de guerra. Lo llama «cuarentena», y ese nombre además le ayuda a conseguir el apoyo de la Organización de Estados Americanos."
+   },
+   {
+    "tipo": "giro",
+    "titulo": "Responder a la carta correcta",
+    "texto": "El 26 de octubre llega un mensaje de Jruschov: retirará los misiles si Estados Unidos promete no invadir Cuba. Al día siguiente llega otro, más duro: también exige retirar los misiles estadounidenses de Turquía. Ese mismo día, un U-2 es derribado sobre Cuba y muere su piloto.\n\nKennedy responde al primer mensaje e ignora el segundo. En público acepta no invadir Cuba. En privado, su hermano Robert le dice al embajador soviético que los misiles de Turquía se irán, sin que forme parte de un acuerdo público.\n\nEl 28 de octubre, Jruschov anuncia que retira los misiles. Ambos pueden decir que no cedieron.\n\nEse mismo 27 de octubre, la marina estadounidense acorraló al submarino soviético B-59, que llevaba un torpedo nuclear que Estados Unidos desconocía. Según el relato de un oficial a bordo, el capitán quiso prepararlo y el oficial Vasili Arkhipov lo convenció de salir a la superficie. Ese testimonio se conoció décadas después y algunos lo ponen en duda."
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "El puente de plata",
+    "texto": "«A enemigo que huye, puente de plata.» Cuando acorralas a alguien sin salida, solo le queda pelear.\n\nUna buena decisión bajo presión hace dos cosas. Primero, compra tiempo con una acción reversible: la cuarentena se podía endurecer o retirar; un bombardeo no se podía deshacer. Segundo, le deja al otro una salida que pueda aceptar sin perder la cara."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Dónde más aparece",
+    "texto": "En una negociación comercial, un distribuidor que ya anunció un precio no lo bajará si eso lo hace quedar mal ante su equipo. Si le ofreces otra forma de ganar, como volumen, exclusividad o plazos, puede decir que sí sin retroceder.\n\nEn el trabajo, corregir en privado a alguien que se equivocó en público le permite cambiar de postura sin humillarse."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "Piensa en una negociación o desacuerdo que tengas abierto. ¿Qué salida le estás dejando a la otra parte para decir que sí sin perder la cara? ¿Cuál de tus opciones todavía es reversible?"
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Ganar no es acorralar al otro: es dejarle una salida que también le convenga."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "JFK Library: el 27 de octubre de 1962, hora por hora",
+   "url": "https://microsites.jfklibrary.org/cmc/oct27/",
+   "minutos": 10
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Qué dos cosas hizo bien Kennedy en la crisis de los misiles?",
+    "respuesta": "Eligió una acción reversible (la cuarentena) para ganar tiempo y le dejó a Jruschov una salida digna."
+   },
+   {
+    "pregunta": "¿Qué significa «a enemigo que huye, puente de plata»?",
+    "respuesta": "Si acorralas al otro sin salida, solo le queda pelear. Dale una salida que pueda aceptar."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Office of the Historian",
+    "url": "https://history.state.gov/milestones/1961-1968/cuban-missile-crisis"
+   },
+   {
+    "nombre": "JFK Library",
+    "url": "https://microsites.jfklibrary.org/cmc/oct27/"
+   },
+   {
+    "nombre": "National Security Archive",
+    "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB399/"
+   }
+  ]
+ },
+ "rapido": {
+  "area": "ciencia",
+  "areaTexto": "Ciencia",
+  "titulo": "Por qué los aviones no vuelan en línea recta",
+  "dato": "En un mapa plano, la ruta de un avión de Ciudad de México a Tokio se ve como una curva que sube hacia el norte, no como una línea recta.",
+  "porque": "Sobre una esfera, el camino más corto entre dos puntos es un arco llamado círculo máximo. Los mapas planos más comunes estiran las zonas cercanas a los polos, así que ese arco, que en el globo es lo más directo, en el papel parece un rodeo.",
+  "conexion": "Todo mapa es un modelo y todo modelo deforma algo. Con las cifras pasa lo mismo: antes de juzgar si algo se ve grande o grave, pregunta qué proyección estás usando."
+ },
+ "frances": {
+  "frase": "Ça te dit d'aller prendre un café ?",
+  "traduccion": "¿Se te antoja ir por un café?",
+  "pronunciacion": "sa te di da-lé prandr un ka-fé",
+  "uso": "Informal, entre amigos o colegas de confianza. En formal: « Cela vous dirait de… ? »",
+  "variante": "Ça te dit de dîner ce soir ? (¿Se te antoja cenar hoy?)",
+  "repaso": {
+   "pregunta": "¿Qué significa « Ça te dit de… ? » y cuándo se usa?",
+   "respuesta": "«¿Se te antoja…?». Es informal, para amigos o colegas de confianza."
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Por qué Kennedy llamó «cuarentena» al bloqueo naval?",
+   "opciones": [
+    "Porque sonaba menos agresivo en la prensa",
+    "Porque legalmente un bloqueo supone un estado de guerra",
+    "Porque solo duraría cuarenta días"
+   ],
+   "correcta": 1,
+   "explicacion": "Llamarlo cuarentena mantenía la presión sin dar a entender que había una guerra declarada, y facilitó el apoyo de la OEA."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Hasta cuándo planea el SIAPA mantener los tandeos de agua en Guadalajara?",
+   "opciones": [
+    "Hasta diciembre de 2026",
+    "Hasta marzo de 2027",
+    "Solo durante octubre"
+   ],
+   "correcta": 1,
+   "explicacion": "La primera etapa de tandeos empezó el 15 de octubre y seguirá de forma ininterrumpida hasta marzo de 2027."
+  },
+  {
+   "origen": "materias",
+   "pregunta": "Ganas $40 de cada $100 y das 10% de descuento. ¿Cuánto más debes vender para ganar lo mismo?",
+   "opciones": [
+    "33% más",
+    "10% más",
+    "25% más"
+   ],
+   "correcta": 0,
+   "explicacion": "El margen baja de $40 a $30 por pieza; 40 ÷ 30 = 1.33, o sea 33% más."
+  }
+ ],
+ "libro": null,
+ "proximo": "Apolo 13: cómo meter un filtro cuadrado en un hueco redondo",
+ "materias": [
+  {
+   "materia": "Filosofía para vivir",
+   "formato": "dilema",
+   "titulo": "¿Imaginar lo peor o visualizar el éxito?",
+   "contexto": "Vas a lanzar un producto nuevo. Un amigo te dice que visualices el éxito todos los días. Séneca te diría lo contrario.",
+   "pregunta": "¿Qué preparación te sirve más antes de un proyecto importante?",
+   "opciones": [
+    "Visualizar el éxito todos los días",
+    "Imaginar con detalle qué podría salir mal"
+   ],
+   "revelacion": "Los estoicos practicaban la premeditatio malorum: pensar por adelantado en las desgracias posibles. No era para angustiarse, sino para que nada los tomara por sorpresa y ya tuvieran un plan. Séneca lo recomienda en sus Cartas a Lucilio.\n\nLa psicología moderna le da parte de razón. En 2011, Heather Kappes y Gabriele Oettingen publicaron cuatro experimentos: imaginar un futuro ideal redujo la energía de las personas más que otras formas de pensar en el futuro. Fantasear con el éxito se siente bien, pero baja el impulso para lograrlo.\n\nEn las empresas existe una versión práctica: el pre-mortem, que Gary Klein describió en Harvard Business Review en 2007. Antes de empezar, el equipo imagina que el proyecto ya fracasó y escribe por qué.",
+   "idea": "Imagina el éxito para saber a dónde vas; imagina el fracaso para saber cómo llegar.",
+   "fuente": {
+    "nombre": "Kappes y Oettingen (2011), Journal of Experimental Social Psychology",
+    "url": "https://researchonline.lse.ac.uk/id/eprint/46284"
+   },
+   "repaso": {
+    "pregunta": "¿Qué es la premeditatio malorum y qué encontró Oettingen sobre fantasear con el éxito?",
+    "respuesta": "Pensar por adelantado en lo que puede salir mal para no ser sorprendido. Oettingen encontró que fantasear con un futuro ideal reduce la energía para lograrlo."
+   }
+  },
+  {
+   "materia": "Economía, dinero y negocios",
+   "formato": "sigueDinero",
+   "titulo": "El costo escondido de un descuento",
+   "contexto": "Vendes un producto a $100. Te cuesta $60, así que ganas $40 por pieza. Decides hacer un 10% de descuento: ahora lo vendes a $90.",
+   "pregunta": "¿Cuánto más tienes que vender para ganar lo mismo que antes?",
+   "opciones": [
+    "10% más",
+    "25% más",
+    "33% más"
+   ],
+   "correcta": 2,
+   "revelacion": "Con el descuento ya no ganas $40 por pieza, sino $30, porque el costo sigue siendo $60. Para volver a ganar lo mismo necesitas vender 40 ÷ 30 = 1.33 veces: un 33% más de piezas.\n\nUn descuento chico en el precio se come una parte grande del margen. Por eso las marcas premium casi no hacen descuentos: además de cuidar la imagen, cada punto de descuento les cuesta mucho más volumen del que parece.",
+   "idea": "Antes de bajar el precio, calcula cuánto más tendrías que vender. Casi siempre es más de lo que crees.",
+   "repaso": {
+    "pregunta": "Si ganas $40 de cada $100 y das 10% de descuento, ¿cuánto más debes vender para ganar lo mismo?",
+    "respuesta": "33% más: el margen baja de $40 a $30 por pieza y 40 ÷ 30 = 1.33."
+   }
+  },
+  {
+   "materia": "Ciencia, tecnología e IA",
+   "formato": "comoFunciona",
+   "titulo": "Tu GPS necesita a Einstein",
+   "contexto": "Los satélites GPS llevan relojes atómicos. Tu teléfono calcula dónde estás midiendo cuánto tarda en llegar la señal de varios satélites. La luz recorre unos 300 metros en una millonésima de segundo, así que cada microsegundo cuenta.",
+   "pregunta": "¿Qué le pasa al reloj de un satélite GPS comparado con uno en la Tierra?",
+   "opciones": [
+    "Va más lento",
+    "Va más rápido",
+    "Va exactamente igual"
+   ],
+   "correcta": 1,
+   "revelacion": "Pasan dos cosas a la vez. Por la velocidad del satélite, la relatividad especial hace que su reloj se atrase unos 7 microsegundos al día. Por estar lejos de la gravedad de la Tierra, la relatividad general hace que se adelante unos 45. El resultado: se adelanta unos 38 microsegundos cada día.\n\nSi nadie lo corrigiera, la posición se desviaría unos 10 kilómetros por día. Por eso el sistema compensa esa diferencia.",
+   "idea": "Una teoría que parece abstracta puede ser la diferencia entre llegar a tu destino o perderte.",
+   "fuente": {
+    "nombre": "TechForSpace: GPS y relatividad",
+    "url": "https://www.techforspace.com/missions/galileo/gps-and-relativity/"
+   },
+   "repaso": {
+    "pregunta": "¿Por qué el GPS tiene que corregir la relatividad?",
+    "respuesta": "Los relojes de los satélites se adelantan unos 38 microsegundos al día; sin corrección, la posición se desviaría unos 10 km diarios."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "Factfulness",
+  "autor": "Hans Rosling, Ola Rosling y Anna Rosling Rönnlund",
+  "tramo": "Sigue desde donde te quedaste. Si no lo recuerdas, anota abajo la página o el capítulo y mañana AUXO retoma desde ahí.",
+  "antes": "Piensa en una noticia de esta semana que te pareció alarmante, como la crisis del agua o el petróleo caro. Mientras lees, pregúntate: ¿qué dato necesitaría para saber si es tan grave como se siente?",
+  "fijate": "Fíjate en cómo el libro separa lo que da miedo de lo que realmente es peligroso."
+ }
+}
