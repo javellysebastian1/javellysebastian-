@@ -105,7 +105,7 @@
    {
     "tipo": "adivina",
     "gancho": "En 1962, los militares le pedían a Kennedy bombardear Cuba. ¿Qué crees que hizo?",
-    "contexto": "Octubre de 1962. Estados Unidos descubre misiles nucleares soviéticos en Cuba, a unos 150 km de Florida. Los jefes militares le recomiendan a Kennedy bombardear e invadir.",
+    "contexto": "Octubre de 1962. Estados Unidos descubre misiles nucleares soviéticos en Cuba, a unos 150 km de Florida. Los jefes militares le recomiendan a [[Kennedy|John F. Kennedy, presidente de Estados Unidos de 1961 a 1963.]] bombardear e invadir.",
     "pregunta": "¿Qué crees que hizo?",
     "opciones": [
      "Bombardeó los misiles por sorpresa",
@@ -116,17 +116,23 @@
    {
     "tipo": "historia",
     "titulo": "Catorce de octubre",
-    "texto": "El 14 de octubre de 1962, un avión espía U-2 fotografía plataformas de misiles en construcción en Cuba. Las imágenes llegan a la Casa Blanca en cuestión de horas. Desde ahí, buena parte de Estados Unidos queda a minutos de un ataque nuclear.\n\nKennedy reúne a sus asesores más cercanos. Todos los jefes del Estado Mayor proponen un ataque aéreo seguido de una invasión. Otros prefieren solo advertencias firmes.\n\nEl 22 de octubre, Kennedy elige un punto intermedio: rodea Cuba con barcos para impedir que lleguen más armas. No lo llama «bloqueo», porque legalmente un bloqueo supone un estado de guerra. Lo llama «cuarentena», y ese nombre además le ayuda a conseguir el apoyo de la Organización de Estados Americanos."
+    "texto": "El 14 de octubre de 1962, un avión espía [[U-2|Avión de reconocimiento estadounidense que volaba a más de 20 km de altura para fotografiar territorio enemigo.]] fotografía plataformas de misiles en construcción en Cuba. Las imágenes llegan a la Casa Blanca en cuestión de horas. Desde ahí, buena parte de Estados Unidos queda a minutos de un ataque nuclear.\n\nKennedy reúne a sus asesores más cercanos en un comité que se conocerá como **ExComm**. Todos los jefes del Estado Mayor proponen un ataque aéreo seguido de una invasión; otros prefieren solo advertencias firmes. Durante días discuten a puerta cerrada, sin que el público sepa nada.\n\nEl 22 de octubre, Kennedy elige un punto intermedio: rodea Cuba con barcos para impedir que lleguen más armas. No lo llama «bloqueo», porque legalmente un bloqueo supone un estado de guerra. Lo llama «cuarentena», y ese nombre además le ayuda a conseguir el apoyo de la [[OEA|Organización de Estados Americanos, fundada en 1948, que reúne a los países del continente.]].",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Cuba_Missile_Crisis.jpg?width=900",
+     "alt": "Fotografía aérea de una base de misiles en Cuba",
+     "pie": "Una de las fotografías de reconocimiento que desataron la crisis",
+     "credito": "Wikimedia Commons"
+    }
    },
    {
     "tipo": "giro",
     "titulo": "Responder a la carta correcta",
-    "texto": "El 26 de octubre llega un mensaje de Jruschov: retirará los misiles si Estados Unidos promete no invadir Cuba. Al día siguiente llega otro, más duro: también exige retirar los misiles estadounidenses de Turquía. Ese mismo día, un U-2 es derribado sobre Cuba y muere su piloto.\n\nKennedy responde al primer mensaje e ignora el segundo. En público acepta no invadir Cuba. En privado, su hermano Robert le dice al embajador soviético que los misiles de Turquía se irán, sin que forme parte de un acuerdo público.\n\nEl 28 de octubre, Jruschov anuncia que retira los misiles. Ambos pueden decir que no cedieron.\n\nEse mismo 27 de octubre, la marina estadounidense acorraló al submarino soviético B-59, que llevaba un torpedo nuclear que Estados Unidos desconocía. Según el relato de un oficial a bordo, el capitán quiso prepararlo y el oficial Vasili Arkhipov lo convenció de salir a la superficie. Ese testimonio se conoció décadas después y algunos lo ponen en duda."
+    "texto": "El 26 de octubre llega un mensaje de [[Jruschov|Nikita Jruschov, líder de la Unión Soviética de 1953 a 1964.]]: retirará los misiles si Estados Unidos promete no invadir Cuba. Al día siguiente llega otro, más duro: también exige retirar los misiles estadounidenses de Turquía. Ese mismo día, un U-2 es derribado sobre Cuba y muere su piloto.\n\nKennedy responde al primer mensaje e ignora el segundo. En público acepta no invadir Cuba. En privado, su hermano Robert le dice al embajador soviético que los misiles de Turquía se irán, sin que forme parte de un acuerdo público.\n\nEl 28 de octubre, Jruschov anuncia que retira los misiles. Ambos pueden decir que no cedieron.\n\nEse mismo 27 de octubre, la marina estadounidense acorraló al submarino soviético B-59, que llevaba un torpedo nuclear que Estados Unidos desconocía. Según el relato de un oficial a bordo, el capitán quiso prepararlo y el oficial Vasili Arkhipov lo convenció de salir a la superficie. Ese testimonio se conoció décadas después y algunos lo ponen en duda."
    },
    {
     "tipo": "herramienta",
     "nombre": "El puente de plata",
-    "texto": "«A enemigo que huye, puente de plata.» Cuando acorralas a alguien sin salida, solo le queda pelear.\n\nUna buena decisión bajo presión hace dos cosas. Primero, compra tiempo con una acción reversible: la cuarentena se podía endurecer o retirar; un bombardeo no se podía deshacer. Segundo, le deja al otro una salida que pueda aceptar sin perder la cara."
+    "texto": "«A enemigo que huye, puente de plata.» Cuando acorralas a alguien sin salida, solo le queda pelear.\n\nUna buena decisión bajo presión hace dos cosas. Primero, compra tiempo con una **acción reversible**: la cuarentena se podía endurecer o retirar; un bombardeo no se podía deshacer. Segundo, le deja al otro **una salida que pueda aceptar sin perder la cara**.\n\nLos negociadores lo llaman salvar las apariencias: la gente cede con más facilidad cuando puede contar la historia como una decisión propia y no como una derrota."
    },
    {
     "tipo": "dondeMas",
@@ -135,7 +141,8 @@
    },
    {
     "tipo": "llevaloATuVida",
-    "pregunta": "Piensa en una negociación o desacuerdo que tengas abierto. ¿Qué salida le estás dejando a la otra parte para decir que sí sin perder la cara? ¿Cuál de tus opciones todavía es reversible?"
+    "pregunta": "Piensa en una negociación o desacuerdo que tengas abierto. ¿Qué salida le estás dejando a la otra parte para decir que sí sin perder la cara?",
+    "texto": "Y al revés: ¿cuál de tus opciones todavía es reversible? Esa suele ser la que conviene tomar primero."
    },
    {
     "tipo": "paraRecordar",
@@ -216,24 +223,53 @@
   },
   {
    "origen": "materias",
-   "pregunta": "Ganas $40 de cada $100 y das 10% de descuento. ¿Cuánto más debes vender para ganar lo mismo?",
+   "pregunta": "¿Qué obra de Stravinsky provocó un escándalo en su estreno en París en 1913?",
    "opciones": [
-    "33% más",
-    "10% más",
-    "25% más"
+    "El pájaro de fuego",
+    "La consagración de la primavera",
+    "El lago de los cisnes"
    ],
-   "correcta": 0,
-   "explicacion": "El margen baja de $40 a $30 por pieza; 40 ÷ 30 = 1.33, o sea 33% más."
+   "correcta": 1,
+   "explicacion": "«La consagración de la primavera», con los Ballets Rusos y coreografía de Nijinsky. Su ritmo y su baile rompieron con todo lo esperado."
   }
  ],
  "libro": null,
  "proximo": "Apolo 13: cómo meter un filtro cuadrado en un hueco redondo",
  "materias": [
   {
+   "materia": "Música",
+   "formato": "miraEscucha",
+   "titulo": "La noche en que París abucheó una obra maestra",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Igor_Stravinsky_LOC_32392u.jpg?width=900",
+    "alt": "Retrato de Igor Stravinsky",
+    "pie": "Igor Stravinsky",
+    "credito": "Biblioteca del Congreso de EE. UU. · Wikimedia Commons"
+   },
+   "contexto": "29 de mayo de 1913, Théâtre des Champs-Élysées, París. Los [[Ballets Rusos|Compañía de ballet de Serguéi Diáguilev, la más audaz de Europa a inicios del siglo XX.]] estrenan «La consagración de la primavera», con música de Igor Stravinsky y coreografía de Vaslav Nijinsky. A los pocos minutos, el público empieza a gritar, silbar y discutir a golpes.",
+   "pregunta": "¿Qué crees que provocó el escándalo?",
+   "opciones": [
+    "La música y el baile rompían con todo lo que el público esperaba",
+    "La orquesta tocó mal por falta de ensayos",
+    "La obra duraba más de cuatro horas"
+   ],
+   "correcta": 0,
+   "revelacion": "La obra abre con un fagot tocando en un registro tan agudo que muchos no reconocían el instrumento. Después llegan acordes que chocan entre sí y golpes rítmicos con acentos irregulares, imposibles de prever. Nijinsky hizo que los bailarines se movieran con las rodillas hacia dentro y pisotones, lo opuesto al ballet elegante.\n\nLas crónicas hablan de gritos, peleas y hasta objetos lanzados; los historiadores discuten cuánto se exageró. Lo cierto es que un año después la obra se tocó en concierto en París y fue un éxito. Hoy es una de las piezas más influyentes del siglo XX.\n\nPara escucharla: busca «Danza de los adolescentes», hacia el minuto 3. Fíjate en el mismo acorde repetido y en cómo cambian los acentos.",
+   "idea": "Lo que hoy es clásico casi siempre fue, en su día, un escándalo.",
+   "fuente": {
+    "nombre": "La consagración de la primavera (Wikipedia)",
+    "url": "https://es.wikipedia.org/wiki/La_consagraci%C3%B3n_de_la_primavera"
+   },
+   "repaso": {
+    "pregunta": "¿Qué obra provocó un escándalo en su estreno en París en 1913 y de quién era la música?",
+    "respuesta": "«La consagración de la primavera», de Igor Stravinsky, con los Ballets Rusos y coreografía de Nijinsky."
+   }
+  },
+  {
    "materia": "Filosofía para vivir",
    "formato": "dilema",
    "titulo": "¿Imaginar lo peor o visualizar el éxito?",
-   "contexto": "Vas a lanzar un producto nuevo. Un amigo te dice que visualices el éxito todos los días. Séneca te diría lo contrario.",
+   "contexto": "Vas a lanzar un producto nuevo. Un amigo te dice que visualices el éxito todos los días. [[Séneca|Filósofo estoico romano (c. 4 a. C.–65 d. C.), consejero del emperador Nerón.]] te diría lo contrario.",
    "pregunta": "¿Qué preparación te sirve más antes de un proyecto importante?",
    "opciones": [
     "Visualizar el éxito todos los días",
@@ -251,29 +287,10 @@
    }
   },
   {
-   "materia": "Economía, dinero y negocios",
-   "formato": "sigueDinero",
-   "titulo": "El costo escondido de un descuento",
-   "contexto": "Vendes un producto a $100. Te cuesta $60, así que ganas $40 por pieza. Decides hacer un 10% de descuento: ahora lo vendes a $90.",
-   "pregunta": "¿Cuánto más tienes que vender para ganar lo mismo que antes?",
-   "opciones": [
-    "10% más",
-    "25% más",
-    "33% más"
-   ],
-   "correcta": 2,
-   "revelacion": "Con el descuento ya no ganas $40 por pieza, sino $30, porque el costo sigue siendo $60. Para volver a ganar lo mismo necesitas vender 40 ÷ 30 = 1.33 veces: un 33% más de piezas.\n\nUn descuento chico en el precio se come una parte grande del margen. Por eso las marcas premium casi no hacen descuentos: además de cuidar la imagen, cada punto de descuento les cuesta mucho más volumen del que parece.",
-   "idea": "Antes de bajar el precio, calcula cuánto más tendrías que vender. Casi siempre es más de lo que crees.",
-   "repaso": {
-    "pregunta": "Si ganas $40 de cada $100 y das 10% de descuento, ¿cuánto más debes vender para ganar lo mismo?",
-    "respuesta": "33% más: el margen baja de $40 a $30 por pieza y 40 ÷ 30 = 1.33."
-   }
-  },
-  {
    "materia": "Ciencia, tecnología e IA",
    "formato": "comoFunciona",
    "titulo": "Tu GPS necesita a Einstein",
-   "contexto": "Los satélites GPS llevan relojes atómicos. Tu teléfono calcula dónde estás midiendo cuánto tarda en llegar la señal de varios satélites. La luz recorre unos 300 metros en una millonésima de segundo, así que cada microsegundo cuenta.",
+   "contexto": "Los satélites GPS llevan [[relojes atómicos|Relojes que miden el tiempo con la vibración de los átomos; se atrasan menos de un segundo en millones de años.]]. Tu teléfono calcula dónde estás midiendo cuánto tarda en llegar la señal de varios satélites. La luz recorre unos 300 metros en una millonésima de segundo, así que cada microsegundo cuenta.",
    "pregunta": "¿Qué le pasa al reloj de un satélite GPS comparado con uno en la Tierra?",
    "opciones": [
     "Va más lento",
@@ -290,14 +307,130 @@
    "repaso": {
     "pregunta": "¿Por qué el GPS tiene que corregir la relatividad?",
     "respuesta": "Los relojes de los satélites se adelantan unos 38 microsegundos al día; sin corrección, la posición se desviaría unos 10 km diarios."
+   },
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/GPS_Satellite_NASA_art-iif.jpg?width=900",
+    "alt": "Ilustración de un satélite GPS en órbita",
+    "pie": "Satélite GPS de bloque IIF (ilustración)",
+    "credito": "NASA · Wikimedia Commons"
    }
   }
  ],
  "lectura": {
-  "libro": "Factfulness",
-  "autor": "Hans Rosling, Ola Rosling y Anna Rosling Rönnlund",
-  "tramo": "Sigue desde donde te quedaste. Si no lo recuerdas, anota abajo la página o el capítulo y mañana AUXO retoma desde ahí.",
-  "antes": "Piensa en una noticia de esta semana que te pareció alarmante, como la crisis del agua o el petróleo caro. Mientras lees, pregúntate: ¿qué dato necesitaría para saber si es tan grave como se siente?",
-  "fijate": "Fíjate en cómo el libro separa lo que da miedo de lo que realmente es peligroso."
+  "libro": "Meditaciones",
+  "autor": "Marco Aurelio",
+  "capitulo": {
+   "numero": 1,
+   "total": 6,
+   "titulo": "Un emperador que escribía para sí mismo"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marcus_Aurelius_Glyptothek_Munich.jpg?width=900",
+   "alt": "Busto de mármol de Marco Aurelio",
+   "pie": "Marco Aurelio, busto romano",
+   "credito": "Gliptoteca de Múnich · Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "Imagina al hombre más poderoso del mundo en una tienda de campaña, de noche, junto a un río helado en la frontera del Danubio. Afuera hay guerra. Adentro, escribe en griego unas notas que nunca piensa publicar.\n\nEse hombre es Marco Aurelio, emperador de Roma del año 161 al 180. Pasó buena parte de su reinado en campañas militares contra pueblos germanos. En medio de esas guerras llenó cuadernos con recordatorios para sí mismo: cómo tratar a la gente difícil, cómo no dejarse arrastrar por el enojo, cómo aceptar que la vida es corta.\n\nAl final de uno de esos cuadernos anotó dónde estaba: «entre los cuados, junto al río Granua». Hoy ese río está en Eslovaquia."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Un diario, no un libro"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Lo que hoy llamamos *Meditaciones* no tenía título para publicar. Los manuscritos lo llaman algo así como «Para sí mismo». No hay introducción ni orden de capítulos: son pensamientos sueltos, a veces de una línea, a veces de una página, que se repiten porque su autor necesitaba volver a oírlos.\n\nMarco Aurelio seguía el [[estoicismo|Escuela filosófica fundada en Atenas por Zenón de Citio hacia el año 300 a. C. Enseña a distinguir lo que depende de ti de lo que no, y a actuar con virtud en ambos casos.]]. Para los estoicos, la filosofía no era teoría: era un entrenamiento diario, como el de un atleta."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Así empieza el segundo libro. Léelo despacio:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Al comenzar el día, dite a ti mismo: hoy me encontraré con el entrometido, el ingrato, el insolente, el traicionero, el envidioso y el egoísta. Todo eso les pasa porque no saben distinguir el bien del mal.",
+    "fuente": "Meditaciones, II, 1"
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Para qué crees que Marco Aurelio se decía esto cada mañana?",
+    "opciones": [
+     "Para desconfiar de todo el mundo",
+     "Para que las ofensas no lo tomaran por sorpresa y pudiera responder con calma",
+     "Para justificar los castigos que imponía"
+    ],
+    "correcta": 1,
+    "explicacion": "Es el mismo ejercicio del dilema de hoy: anticipar lo difícil para no reaccionar en caliente. No es pesimismo. Quien ya esperaba al ingrato no pierde el día cuando aparece."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Lo que sigue en ese mismo pasaje es lo más interesante. Marco Aurelio no concluye que la gente difícil sea su enemiga. Concluye lo contrario:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Ninguno de ellos puede dañarme de verdad, ni puedo enojarme con alguien de mi misma naturaleza. Hemos nacido para colaborar, como los pies, las manos, los párpados, como las hileras de dientes de arriba y de abajo.",
+    "fuente": "Meditaciones, II, 1"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La imagen es física a propósito: los dientes de arriba y los de abajo parecen enfrentarse, pero solo sirven juntos. Para un emperador rodeado de intrigas, era una forma de no volverse cínico."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El retiro que siempre está disponible"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Los hombres buscan retirarse a casas en el campo, a la orilla del mar, a las montañas. Pero en ningún lugar encuentra uno más tranquilidad que dentro de su propia mente.",
+    "fuente": "Meditaciones, IV, 3"
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según Marco Aurelio, ¿dónde está el mejor lugar para descansar?",
+    "opciones": [
+     "En una casa de campo lejos de Roma",
+     "En la propia mente, ordenando los pensamientos",
+     "En el campo de batalla, cumpliendo el deber"
+    ],
+    "correcta": 1,
+    "explicacion": "Para él, el retiro no es un lugar sino una práctica: unos minutos para volver a lo esencial. Lo puede hacer cualquiera, en cualquier parte, sin pagar una casa en la costa."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Saber más: ¿cómo llegó este diario hasta nosotros?",
+    "texto": "Durante siglos el texto circuló en pocas copias. La primera edición impresa apareció en Zúrich en 1559, a partir de un manuscrito que después se perdió. Desde entonces lo han leído emperadores, presidentes y empresarios. Es uno de los pocos libros de la Antigüedad que se lee hoy como si se hubiera escrito ayer."
+   }
+  ],
+  "paraLlevar": [
+   "Marco Aurelio escribió las *Meditaciones* para sí mismo, en plena guerra, sin intención de publicarlas.",
+   "Anticipar a la gente difícil no es pesimismo: es prepararse para responder con calma.",
+   "El mejor retiro está disponible siempre: unos minutos de orden en la propia mente."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Quién escribió las *Meditaciones*, cuándo reinó y para quién las escribía?",
+    "respuesta": "Marco Aurelio, emperador de Roma del 161 al 180. Las escribía para sí mismo, no para publicarlas."
+   },
+   {
+    "pregunta": "¿Con qué imagen explica Marco Aurelio que hemos nacido para colaborar?",
+    "respuesta": "Como los pies, las manos, los párpados y las hileras de dientes de arriba y de abajo."
+   }
+  ],
+  "proximo": "Capítulo 2: Lo que depende de ti, y lo que no",
+  "fuentes": [
+   {
+    "nombre": "Meditaciones, traducción de George Long (1862), Proyecto Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/2680"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la versión de dominio público de George Long (1862)."
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/EXCOMM_meeting,_Cuban_Missile_Crisis,_29_October_1962.jpg?width=900",
+  "alt": "Kennedy reunido con su comité de crisis en la Casa Blanca",
+  "pie": "El comité de crisis de Kennedy, 29 de octubre de 1962",
+  "credito": "Cecil Stoughton, Casa Blanca · Wikimedia Commons"
  }
 }

@@ -1,25 +1,121 @@
 {
-  "actualizado": "2026-10-20",
-  "lista": [
-    { "id": "t01", "numero": 1, "titulo": "Decisiones bajo presión", "para": "Criterio para decidir con información incompleta.", "estado": "en_curso",
-      "episodios": [
-        { "titulo": "Trece días para no acabar el mundo", "fecha": "2026-10-20" },
-        { "titulo": "Apolo 13: cómo meter un filtro cuadrado en un hueco redondo" },
-        { "titulo": "Tylenol 1982: retirar 31 millones de frascos para salvar la marca" },
-        { "titulo": "Kodak inventó la cámara digital en 1975 y la guardó" },
-        { "titulo": "Los estoicos ante la crisis" },
-        { "titulo": "Síntesis: tu manual para decidir bajo presión" }
-      ] },
-    { "id": "t02", "numero": 2, "titulo": "Cómo te manipulan", "para": "Pensamiento crítico y defensa contra la persuasión.", "estado": "pendiente", "episodios": [] },
-    { "id": "t03", "numero": 3, "titulo": "Cómo se construye una marca que dura", "para": "Estrategia y branding para tus propios proyectos.", "estado": "pendiente", "episodios": [] },
-    { "id": "t04", "numero": 4, "titulo": "Juicios que cambiaron el mundo", "para": "Derecho con historia y consecuencias.", "estado": "pendiente", "episodios": [] },
-    { "id": "t05", "numero": 5, "titulo": "El dinero que no te enseñaron", "para": "Finanzas personales aplicables.", "estado": "pendiente", "episodios": [] },
-    { "id": "t06", "numero": 6, "titulo": "México que no te contaron", "para": "Entender el país con contexto.", "estado": "pendiente", "episodios": [] },
-    { "id": "t07", "numero": 7, "titulo": "La ciencia de rendir", "para": "Salud y energía con evidencia.", "estado": "pendiente", "episodios": [] },
-    { "id": "t08", "numero": 8, "titulo": "Francia para entenderla", "para": "Cultura y francés con contexto.", "estado": "pendiente", "episodios": [] },
-    { "id": "t09", "numero": 9, "titulo": "Cómo piensa una IA", "para": "Usar la IA con criterio en tu trabajo.", "estado": "pendiente", "episodios": [] },
-    { "id": "t10", "numero": 10, "titulo": "Historias detrás de las obras", "para": "Arte que se recuerda.", "estado": "pendiente", "episodios": [] },
-    { "id": "t11", "numero": 11, "titulo": "Filosofía viva: los estoicos", "para": "Séneca, Marco Aurelio y Epicteto aplicados a decisiones reales.", "estado": "pendiente", "episodios": [] },
-    { "id": "t12", "numero": 12, "titulo": "Filosofía viva: Nietzsche", "para": "Ideas centrales aplicadas a la ambición, la moral y la creación.", "estado": "pendiente", "episodios": [] }
-  ]
+ "actualizado": "2026-10-20",
+ "lista": [
+  {
+   "id": "t01",
+   "numero": 1,
+   "titulo": "Decisiones bajo presión",
+   "para": "Criterio para decidir con información incompleta.",
+   "estado": "en_curso",
+   "episodios": [
+    {
+     "titulo": "Trece días para no acabar el mundo",
+     "fecha": "2026-10-20"
+    },
+    {
+     "titulo": "Apolo 13: cómo meter un filtro cuadrado en un hueco redondo"
+    },
+    {
+     "titulo": "Tylenol 1982: retirar 31 millones de frascos para salvar la marca"
+    },
+    {
+     "titulo": "Kodak inventó la cámara digital en 1975 y la guardó"
+    },
+    {
+     "titulo": "Los estoicos ante la crisis"
+    },
+    {
+     "titulo": "Síntesis: tu manual para decidir bajo presión"
+    }
+   ]
+  },
+  {
+   "id": "t02",
+   "numero": 2,
+   "titulo": "Florencia: la ciudad que inventó el Renacimiento",
+   "para": "Arte, poder y dinero en la ciudad de los Medici.",
+   "estado": "pendiente",
+   "episodios": []
+  },
+  {
+   "id": "t03",
+   "numero": 3,
+   "titulo": "Cómo te manipulan",
+   "para": "Pensamiento crítico y defensa contra la persuasión.",
+   "estado": "pendiente",
+   "episodios": []
+  },
+  {
+   "id": "t04",
+   "numero": 4,
+   "titulo": "El arte de la mesa",
+   "para": "Vino, cocina y los oficios detrás del buen gusto.",
+   "estado": "pendiente",
+   "episodios": []
+  },
+  {
+   "id": "t05",
+   "numero": 5,
+   "titulo": "Juicios que cambiaron el mundo",
+   "para": "Derecho con historia y consecuencias.",
+   "estado": "pendiente",
+   "episodios": []
+  },
+  {
+   "id": "t06",
+   "numero": 6,
+   "titulo": "París: cómo se hizo la capital del gusto",
+   "para": "Moda, perfume, urbanismo y cultura francesa.",
+   "estado": "pendiente",
+   "episodios": []
+  },
+  {
+   "id": "t07",
+   "numero": 7,
+   "titulo": "Cómo se construye una marca que dura",
+   "para": "Las casas de lujo y lo que enseñan sobre el valor.",
+   "estado": "pendiente",
+   "episodios": []
+  },
+  {
+   "id": "t08",
+   "numero": 8,
+   "titulo": "La música que hay que conocer",
+   "para": "Obras y compositores que conviene saber escuchar.",
+   "estado": "pendiente",
+   "episodios": []
+  },
+  {
+   "id": "t09",
+   "numero": 9,
+   "titulo": "México que no te contaron",
+   "para": "Entender el país con contexto.",
+   "estado": "pendiente",
+   "episodios": []
+  },
+  {
+   "id": "t10",
+   "numero": 10,
+   "titulo": "Historias detrás de las obras",
+   "para": "Los secretos de las pinturas más famosas.",
+   "estado": "pendiente",
+   "episodios": []
+  },
+  {
+   "id": "t11",
+   "numero": 11,
+   "titulo": "Edificios que cambiaron cómo vivimos",
+   "para": "Arquitectura que se recuerda, de Roma a Barragán.",
+   "estado": "pendiente",
+   "episodios": []
+  },
+  {
+   "id": "t12",
+   "numero": 12,
+   "titulo": "Mitos griegos que seguimos viviendo",
+   "para": "Los relatos que explican nuestras palabras y obsesiones.",
+   "estado": "pendiente",
+   "episodios": []
+  }
+ ]
 }

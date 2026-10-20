@@ -194,6 +194,33 @@ textarea,input[type=text]{width:100%;padding:12px 14px;border:1px solid var(--li
 .season-ep:first-of-type{border-top:0}
 .notice{padding:14px 16px;border-radius:14px;background:var(--chip);color:var(--chip-fg);font-size:14px}
 .empty{padding:28px 20px;text-align:center;display:flex;flex-direction:column;gap:10px;align-items:center}
+/* Imágenes */
+.fig{margin:0;display:flex;flex-direction:column;gap:6px}
+.fig img{width:100%;max-height:340px;object-fit:cover;border-radius:16px;display:block;background:var(--sunken);color:transparent;min-height:120px}
+.fig figcaption{font-size:12px;line-height:1.4;color:var(--muted)}
+.deep .fig figcaption,.hero .fig figcaption{color:var(--deep-muted)}
+.hero .fig img{max-height:220px}
+/* Palabras con explicación */
+.term{border:0;background:none;padding:0;font:inherit;color:inherit;cursor:pointer;text-decoration:underline dotted 2px;text-decoration-color:var(--accent);text-underline-offset:4px}
+.deep .term{text-decoration-color:#CBBEE6}
+.sheet{position:fixed;left:0;right:0;bottom:0;z-index:40;padding:0 max(16px,env(safe-area-inset-right,0px)) calc(16px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px))}
+.sheet-in{max-width:560px;margin:0 auto;background:var(--surface);color:var(--fg);border-radius:20px;padding:18px 20px;box-shadow:0 -8px 30px rgba(0,0,0,.25);display:flex;flex-direction:column;gap:8px}
+.sheet-in b{font-family:var(--serif);font-weight:400;font-size:24px}
+/* Lector */
+.lect{display:flex;flex-direction:column;gap:20px}
+.lect .txt{font-size:18px;line-height:1.75;display:flex;flex-direction:column;gap:16px}
+.lect .cita{margin:8px 0;padding:8px 4px;text-align:center;display:flex;flex-direction:column;gap:10px}
+.lect .cita p{font-family:var(--serif);font-style:italic;font-size:26px;line-height:1.3}
+.lect .cita span{font-size:13px;color:var(--muted)}
+.lect details{background:var(--surface);border-radius:16px;padding:14px 18px}
+.lect summary{cursor:pointer;font-weight:600;min-height:28px}
+.lect details[open] summary{margin-bottom:8px}
+.chap{display:flex;gap:6px;flex-wrap:wrap}
+.llevar{background:var(--deep);color:#FFFFFF;border-radius:20px;padding:20px;display:flex;flex-direction:column;gap:10px}
+.llevar .eyebrow{color:var(--deep-muted)}
+.llevar ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:8px;color:var(--deep-soft)}
+.hoy-chips{display:flex;flex-wrap:wrap;gap:6px}
+.hoy-chips span{padding:4px 10px;border-radius:12px;background:var(--deep-2);color:var(--deep-soft);font-size:12px;font-weight:600}
 @media (prefers-reduced-motion: reduce){*{scroll-behavior:auto!important;transition:none!important}}
 </style>
 
@@ -204,6 +231,7 @@ textarea,input[type=text]{width:100%;padding:12px 14px;border:1px solid var(--li
 <nav class="nav" aria-label="Principal"><div class="nav-in" id="nav"></div></nav>
 <div id="player" class="player" hidden></div>
 <div id="flow" class="flow" hidden></div>
+<div id="sheet" class="sheet" hidden></div>
 
 <script>
 (function(){
@@ -213,10 +241,10 @@ var INTERVALOS=[1,3,7,21];
 var PASOS={
   calentamiento:{t:'Calentamiento',min:2},
   noticias:{t:'Lo que importa hoy',min:5},
-  historia:{t:'La historia del día',min:10},
-  materias:{t:'Ronda de materias',min:6},
+  historia:{t:'La historia del día',min:9},
+  materias:{t:'Gabinete de materias',min:6},
   rapido:{t:'El rápido',min:3},
-  lectura:{t:'Lectura',min:8},
+  lectura:{t:'Lectura',min:9},
   cierre:{t:'Francés y cierre',min:4},
   libro:{t:'Libro',min:15}
 };
@@ -244,7 +272,18 @@ var ICON={
 };
 
 function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
-function paras(s){return String(s||'').split(/\n\s*\n/).map(function(p){return '<p>'+esc(p).replace(/\n/g,'<br>')+'</p>';}).join('');}
+function enriquecer(h){
+  return h.replace(/\[\[([^|\]]+)\|([^\]]+)\]\]/g,function(m,a,b){return '<button type="button" class="term" data-term="'+a+'" data-def="'+b+'">'+a+'</button>';})
+          .replace(/\*\*([^*]+)\*\*/g,'<b>$1</b>')
+          .replace(/\*([^*\s][^*]*)\*/g,'<i>$1</i>');
+}
+function paras(s){return String(s||'').split(/\n\s*\n/).map(function(p){return '<p>'+enriquecer(esc(p)).replace(/\n/g,'<br>')+'</p>';}).join('');}
+function linea(s){return enriquecer(esc(s));}
+function figura(img){
+  if(!img||!img.url)return '';
+  return '<figure class="fig"><img src="'+esc(img.url)+'" alt="'+esc(img.alt||'')+'" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.hidden=true">'+
+    ((img.pie||img.credito)?'<figcaption>'+esc(img.pie||'')+(img.credito?(img.pie?' · ':'')+esc(img.credito):'')+'</figcaption>':'')+'</figure>';
+}
 function hoy(){return new Intl.DateTimeFormat('en-CA',{timeZone:TZ,year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());}
 function sumarDias(f,n){var d=new Date(f+'T12:00:00Z');d.setUTCDate(d.getUTCDate()+n);return d.toISOString().slice(0,10);}
 function lunes(f){var d=new Date(f+'T12:00:00Z');var w=(d.getUTCDay()+6)%7;return sumarDias(f,-w);}
@@ -399,11 +438,12 @@ function vistaHoy(){
   var adivina=(ed.historia&&ed.historia.tarjetas||[]).find(function(c){return c.tipo==='adivina';});
   var cta=S.prog.completada?'Repasar la ruta':(sig?(Object.keys(hechos).length?'Continuar':'Empezar')+' · '+total+' min':'Empezar · '+total+' min');
   var html=encabezado()+aviso+
-  '<section class="hero" aria-labelledby="ep-t">'+
+  '<section class="hero" aria-labelledby="ep-t">'+figura(ed.portada)+
     '<div class="row" style="justify-content:space-between;align-items:center"><span class="eyebrow">Temporada '+esc(t.numero||1)+' · Episodio '+esc(t.episodio||1)+'</span><div class="ticks" aria-label="Episodio '+esc(t.episodio||1)+' de '+esc(t.totalEpisodios||6)+'">'+ticks+'</div></div>'+
     '<p class="small" style="color:var(--deep-muted)">'+esc(t.titulo||'')+'</p>'+
     '<h1 id="ep-t">'+esc(ed.titulo)+'</h1>'+
     (adivina?'<p>'+esc(adivina.gancho||adivina.pregunta)+'</p>':'')+
+    '<div class="hoy-chips">'+(ed.noticias&&ed.noticias.length?'<span>'+ed.noticias.length+' noticias</span>':'')+'<span>1 historia</span>'+(ed.materias&&ed.materias.length?'<span>'+ed.materias.length+' materias</span>':'')+(ed.lectura?'<span>'+esc(ed.lectura.libro)+(ed.lectura.capitulo?' · cap. '+esc(ed.lectura.capitulo.numero):'')+'</span>':'')+(ed.frances?'<span>Francés</span>':'')+'</div>'+
     '<button type="button" class="btn btn-light btn-block" data-act="start">'+ICON.play+esc(cta)+'</button>'+
     '<button type="button" class="btn btn-outline-deep btn-block" data-act="podcast">'+ICON.head+'Escuchar como podcast</button>'+
   '</section>'+
@@ -518,12 +558,12 @@ function pasoNoticias(){
     var open=i===ab;
     var chips='<div class="chips">'+(n.historiaEnCurso?'<span class="chip">Historia en curso · Capítulo '+esc(n.historiaEnCurso.capitulo)+'</span>':'')+'<span class="chip plain">'+esc(n.ambitoTexto||n.ambito||'')+'</span></div>';
     return '<article class="news"><button type="button" class="news-head" data-news="'+i+'" aria-expanded="'+open+'"><span class="h">'+chips+'<b>'+esc(n.titular)+'</b></span>'+(open?'':ICON.chev)+'</button>'+
-      (open?'<div class="news-body">'+
+      (open?'<div class="news-body">'+figura(n.imagen)+
         (n.historiaEnCurso&&n.historiaEnCurso.dondeIbamos?'<p class="prev"><b>Dónde íbamos:</b> '+esc(n.historiaEnCurso.dondeIbamos)+'</p>':'')+
-        '<div class="blk"><span class="eyebrow">Qué pasó</span><p>'+esc(n.quePaso)+'</p></div>'+
-        '<div class="blk amq"><span class="eyebrow">¿Y a mí qué?</span><p>'+esc(n.aMiQue)+'</p></div>'+
-        '<div class="blk"><span class="eyebrow">Contexto en 30 segundos</span><p>'+esc(n.contexto)+'</p></div>'+
-        '<div class="blk"><span class="eyebrow">Qué vigilar</span><p>'+esc(n.queVigilar)+'</p></div>'+
+        '<div class="blk"><span class="eyebrow">Qué pasó</span><p>'+linea(n.quePaso)+'</p></div>'+
+        '<div class="blk amq"><span class="eyebrow">¿Y a mí qué?</span><p>'+linea(n.aMiQue)+'</p></div>'+
+        '<div class="blk"><span class="eyebrow">Contexto en 30 segundos</span><p>'+linea(n.contexto)+'</p></div>'+
+        '<div class="blk"><span class="eyebrow">Qué vigilar</span><p>'+linea(n.queVigilar)+'</p></div>'+
         '<p class="src">'+(n.fuentes||[]).map(function(f){return '<a href="'+esc(f.url)+'" target="_blank" rel="noopener">'+esc(f.nombre)+'</a>';}).join(' · ')+(n.fecha?' · '+esc(fechaLarga(n.fecha)):'')+'</p>'+
       '</div>':'')+
     '</article>';
@@ -540,14 +580,14 @@ function pasoHistoria(){
   var segs='<div class="bar" style="grid-template-columns:repeat('+T.length+',minmax(0,1fr))" aria-label="Tarjeta '+(k+1)+' de '+T.length+'">'+T.map(function(x,j){return '<span class="'+(j<=k?'on':'')+'"></span>';}).join('')+'</div>';
   var b='';
   if(c.tipo==='adivina'){
-    b='<p>'+esc(c.contexto||'')+'</p><h3>'+esc(c.pregunta)+'</h3><div style="display:flex;flex-direction:column;gap:10px">'+(c.opciones||[]).map(function(o,i){return '<button type="button" class="opt" data-guess="'+i+'" aria-pressed="'+(S.prog.adivina===i)+'">'+esc(o)+'</button>';}).join('')+'</div><p class="small" style="color:var(--deep-muted)">No se califica. Lo descubres más adelante.</p>';
+    b='<p>'+linea(c.contexto||'')+'</p><h3>'+linea(c.pregunta)+'</h3><div style="display:flex;flex-direction:column;gap:10px">'+(c.opciones||[]).map(function(o,i){return '<button type="button" class="opt" data-guess="'+i+'" aria-pressed="'+(S.prog.adivina===i)+'">'+esc(o)+'</button>';}).join('')+'</div><p class="small" style="color:var(--deep-muted)">No se califica. Lo descubres más adelante.</p>';
   }else if(c.tipo==='giro'){
     var a=(T.find(function(x){return x.tipo==='adivina';})||{});
     b=(typeof S.prog.adivina==='number'&&a.opciones?'<p class="recall">Tú pensaste: <b>'+esc(a.opciones[S.prog.adivina])+'</b></p>':'')+'<h3>'+esc(c.titulo||'El giro')+'</h3>'+paras(c.texto);
   }else if(c.tipo==='herramienta'){
     b='<h3>'+esc(c.nombre)+'</h3>'+paras(c.texto);
   }else if(c.tipo==='llevaloATuVida'){
-    b='<h3>'+esc(c.pregunta)+'</h3><div class="field"><label for="vida" style="color:var(--deep-soft)">Tu respuesta (opcional)</label><textarea id="vida" rows="4" placeholder="Escribe una línea">'+esc(S.prog.vida||'')+'</textarea></div>';
+    b='<p class="small" style="color:var(--deep-muted)">Piénsalo diez segundos antes de seguir</p><h3>'+linea(c.pregunta)+'</h3>'+(c.texto?paras(c.texto):'');
   }else if(c.tipo==='paraRecordar'){
     b='<p class="quote">'+esc(c.frase)+'</p>';
     if(S.modo==='largo'&&ed.historia.paraProfundizar){var pp=ed.historia.paraProfundizar;b+='<p><b>Para profundizar:</b> <a href="'+esc(pp.url)+'" target="_blank" rel="noopener">'+esc(pp.titulo)+'</a>'+(pp.minutos?' · '+esc(pp.minutos)+' min':'')+'</p>';}
@@ -555,6 +595,7 @@ function pasoHistoria(){
   }else{
     b=(c.titulo?'<h3>'+esc(c.titulo)+'</h3>':'')+paras(c.texto);
   }
+  b=figura(c.imagen)+b;
   var ask='';
   if(S.sample){
     var A=F.ask;
@@ -580,7 +621,7 @@ function pasoRapido(){
 }
 function pasoMaterias(){
   var M=S.edition.materias||[],st=S.prog.materias||{};
-  return '<p class="eyebrow">Ronda de materias</p><h2>'+M.length+' materias, 2 minutos cada una</h2>'+
+  return '<p class="eyebrow">Gabinete de materias</p><h2>'+M.length+' materias, 2 minutos cada una</h2>'+
   M.map(function(m,i){
     var s=st[i]||{};var eleg=typeof s.eleccion==='number';var hayCorrecta=typeof m.correcta==='number';
     var visto=s.visto||(eleg&&true);
@@ -590,9 +631,10 @@ function pasoMaterias(){
       return '<button type="button" class="qopt'+cls+'" data-mopt="'+i+'" data-o="'+j+'"'+(eleg?' disabled':'')+'><span>'+esc(o)+'</span>'+(eleg&&((hayCorrecta&&j===m.correcta)||(!hayCorrecta&&j===s.eleccion))?ICON.check:'')+'</button>';
     }).join('');
     return '<article class="card qz"><div class="chips"><span class="chip">'+esc(m.materia)+'</span><span class="chip plain">'+esc(FORMATOS[m.formato]||m.formato||'')+'</span></div>'+
+      figura(m.imagen)+
       '<h3 class="serif" style="font-size:26px;line-height:1.12">'+esc(m.titulo)+'</h3>'+
       (m.contexto?paras(m.contexto):'')+
-      (m.pregunta?'<p class="t1">'+esc(m.pregunta)+'</p>':'')+ops+
+      (m.pregunta?'<p class="t1">'+linea(m.pregunta)+'</p>':'')+ops+
       (visto?'<div class="feedback" style="display:flex;flex-direction:column;gap:10px">'+(eleg&&hayCorrecta?'<b>'+(s.eleccion===m.correcta?'Correcto.':'Casi.')+'</b>':'')+paras(m.revelacion)+
         (m.idea?'<p style="padding:12px 14px;border-radius:12px;background:var(--surface)"><span class="eyebrow" style="display:block;margin-bottom:4px">La idea</span>'+esc(m.idea)+'</p>':'')+
         (m.fuente&&m.fuente.url?'<p class="src">Fuente: <a href="'+esc(m.fuente.url)+'" target="_blank" rel="noopener">'+esc(m.fuente.nombre)+'</a></p>':'')+'</div>'
@@ -601,14 +643,38 @@ function pasoMaterias(){
   }).join('')+pieSiguiente();
 }
 function pasoLectura(){
-  var L=S.edition.lectura||{},lp=S.prog.lectura||{};
-  return '<p class="eyebrow">Lectura · libro del mes</p><h2>'+esc(L.libro)+'</h2><p class="muted">'+esc(L.autor||'')+'</p>'+
-    (L.tramo?'<div class="card"><span class="eyebrow">Hoy</span><p>'+esc(L.tramo)+'</p></div>':'')+
-    '<div class="card"><span class="eyebrow">Antes de leer</span><p class="t1" style="font-size:18px">'+esc(L.antes)+'</p>'+(L.fijate?'<p class="muted small">'+esc(L.fijate)+'</p>':'')+'</div>'+
-    '<div class="notice">Lee unos 10 minutos en tu libro o Kindle y vuelve aquí.</div>'+
-    '<div class="card"><div class="field"><label for="lpag">¿En qué página o capítulo vas?</label><input type="text" id="lpag" value="'+esc(lp.pagina||'')+'" placeholder="Ej. página 112 o capítulo 4"></div>'+
-    '<div class="field"><label for="lidea">La idea que te llevas (entra a tu repaso)</label><textarea id="lidea" rows="3" placeholder="En tus palabras">'+esc(lp.idea||'')+'</textarea></div></div>'+
+  var L=S.edition.lectura||{},resp=(S.prog.lecturaResp)||{},cap=L.capitulo||{};
+  if(!L.secciones){
+    return '<p class="eyebrow">Lectura</p><h2>'+esc(L.libro||'')+'</h2><div class="card">'+paras(L.antes||L.tramo||'')+'</div>'+pieSiguiente();
+  }
+  var q=0;
+  var body=L.secciones.map(function(s){
+    if(s.tipo==='cita')return '<blockquote class="cita"><p>«'+esc(s.texto)+'»</p>'+(s.fuente?'<span>'+esc(s.fuente)+'</span>':'')+'</blockquote>';
+    if(s.tipo==='imagen')return figura(s);
+    if(s.tipo==='nota')return '<details><summary>'+esc(s.titulo||'Saber más')+'</summary><div class="txt" style="font-size:16px">'+paras(s.texto)+'</div></details>';
+    if(s.tipo==='subtitulo')return '<h3 class="serif" style="font-size:28px;line-height:1.1">'+esc(s.texto)+'</h3>';
+    if(s.tipo==='pregunta'){
+      var i=q++;var r=resp[i];var ans=typeof r==='number';
+      return '<div class="card qz"><span class="eyebrow">Pausa para pensar</span><p class="t1" style="font-size:18px">'+linea(s.pregunta)+'</p>'+
+        s.opciones.map(function(o,j){var cls='';if(ans){if(typeof s.correcta==='number'){if(j===s.correcta)cls=' right';else if(j===r)cls=' wrong';}else if(j===r)cls=' right';}
+          return '<button type="button" class="qopt'+cls+'" data-lq="'+i+'" data-o="'+j+'"'+(ans?' disabled':'')+'><span>'+esc(o)+'</span></button>';}).join('')+
+        (ans?'<div class="feedback">'+paras(s.explicacion)+'</div>':'')+'</div>';
+    }
+    return '<div class="txt">'+paras(s.texto)+'</div>';
+  }).join('');
+  return '<p class="eyebrow">Lectura · '+esc(L.libro)+'</p>'+
+    '<h2>'+esc(cap.titulo||L.libro)+'</h2>'+
+    '<div class="chap"><span class="chip">Capítulo '+esc(cap.numero||1)+(cap.total?' de '+esc(cap.total):'')+'</span><span class="chip plain">'+esc(L.autor||'')+'</span><span class="chip plain">'+esc(L.minutos||9)+' min</span></div>'+
+    figura(L.imagen)+
+    '<div class="lect">'+body+'</div>'+
+    (L.paraLlevar&&L.paraLlevar.length?'<div class="llevar"><span class="eyebrow">Para llevarte</span><ul>'+L.paraLlevar.map(function(x){return '<li>'+linea(x)+'</li>';}).join('')+'</ul></div>':'')+
+    (L.proximo?'<p class="muted small">Mañana: '+esc(L.proximo)+'</p>':'')+
     pieSiguiente();
+}
+function mostrarTermino(t,d){
+  var el=document.getElementById('sheet');
+  el.innerHTML='<div class="sheet-in" role="dialog" aria-label="'+esc(t)+'"><b>'+esc(t)+'</b><p>'+esc(d)+'</p><button type="button" class="btn btn-ghost" data-act="sheetclose">Entendido</button></div>';
+  el.hidden=false;
 }
 function sembrarExtras(p){
   if(!S.db||!S.edition)return;
@@ -617,8 +683,8 @@ function sembrarExtras(p){
     (ed.materias||[]).forEach(function(m,i){if(m.repaso)items.push({id:'m-'+ed.fecha+'-'+i,r:m.repaso});});
     S.prog.materiasSembradas=true;
   }
-  if(p==='lectura'&&S.prog.lectura&&S.prog.lectura.idea&&!S.prog.lecturaSembrada){
-    items.push({id:'l-'+ed.fecha,r:{pregunta:'¿Qué idea te llevaste de '+(ed.lectura.libro||'tu lectura')+' el '+fechaLarga(ed.fecha)+'?',respuesta:S.prog.lectura.idea}});
+  if(p==='lectura'&&ed.lectura&&!S.prog.lecturaSembrada){
+    (ed.lectura.repaso||[]).forEach(function(r,i){items.push({id:'l-'+ed.fecha+'-'+i,r:r});});
     S.prog.lecturaSembrada=true;
   }
   items.forEach(function(it){
@@ -635,7 +701,6 @@ function pasoCierre(){
     html+='<div class="fr"><span class="eyebrow">Frase del día</span><p class="phrase" lang="fr">« '+esc(fr.frase)+' »</p><p>'+esc(fr.traduccion)+'</p>'+
       '<button type="button" class="btn btn-ghost" data-act="sayfr">'+ICON.speak+'Escuchar en francés</button>'+
       '<p class="small"><b>Pronunciación:</b> '+esc(fr.pronunciacion)+'</p><p class="small"><b>Uso:</b> '+esc(fr.uso)+'</p>'+(fr.variante?'<p class="small"><b>Cámbiala:</b> <span lang="fr">'+esc(fr.variante)+'</span></p>':'')+'</div>';
-    html+='<div class="card"><div class="field"><label for="expl">Explica la historia de hoy en una frase (opcional)</label><textarea id="expl" rows="2" placeholder="Sin mirar">'+esc(S.prog.explicacion||'')+'</textarea></div></div>';
   }
   html+=Q.map(function(q,i){
     var r=resp[i];var answered=typeof r==='number';
@@ -646,13 +711,6 @@ function pasoCierre(){
       }).join('')+
       (answered?'<div class="feedback" role="status"><b>'+(r===q.correcta?'Correcto.':'Casi.')+'</b> '+esc(q.explicacion)+'</div>':'')+'</div>';
   }).join('');
-  if(S.modo!=='rescate'){
-    var bt=S.prog.bitacora||{};
-    html+='<details class="card"><summary class="t1" style="cursor:pointer;min-height:28px">Bitácora (opcional)</summary>'+
-      '<div class="field"><label for="b1">Lo más relevante de hoy</label><textarea id="b1" rows="2">'+esc(bt.relevante||'')+'</textarea></div>'+
-      '<div class="field"><label for="b2">Una conexión</label><textarea id="b2" rows="2">'+esc(bt.conexion||'')+'</textarea></div>'+
-      '<div class="field"><label for="b3">Una acción pequeña</label><textarea id="b3" rows="2">'+esc(bt.accion||'')+'</textarea></div></details>';
-  }
   return html+pieSiguiente();
 }
 function pasoLibro(){
@@ -692,6 +750,10 @@ function colaPodcast(){
     q.push({t:ETQ[c.tipo]||'Historia',x:x});
   });
   (ed.materias||[]).forEach(function(m){q.push({t:m.materia,x:m.materia+'. '+m.titulo+'. '+(m.contexto||'')+' '+(m.pregunta||'')+' Piénsalo. '+(m.revelacion||'')+' La idea: '+(m.idea||'')});});
+  if(ed.lectura&&ed.lectura.secciones){
+    var lt=ed.lectura.secciones.filter(function(s){return s.tipo==='texto'||s.tipo==='cita'||s.tipo==='subtitulo';}).map(function(s){return String(s.texto).replace(/\[\[([^|\]]+)\|[^\]]+\]\]/g,'$1').replace(/\*\*/g,'');}).join(' ');
+    q.push({t:'Lectura',x:'La lectura de hoy: '+ed.lectura.libro+'. '+(ed.lectura.capitulo&&ed.lectura.capitulo.titulo||'')+'. '+lt});
+  }
   if(ed.rapido&&S.modo==='largo')q.push({t:'El rápido',x:'El rápido. '+ed.rapido.dato+' '+ed.rapido.porque+' '+ed.rapido.conexion});
   if(ed.frances){q.push({t:'Francés',x:'La frase en francés de hoy significa: '+ed.frances.traduccion});q.push({t:'Francés',x:ed.frances.frase,l:'fr'});}
   q.push({t:'Fin',x:'Eso es todo. Abre AUXO para responder las tres preguntas del cierre.'});
@@ -749,6 +811,14 @@ document.addEventListener('click',function(ev){
   if(d.goto){abrirFlow(d.goto);return;}
   if(d.news!==undefined){var n=+d.news;S.flow.abierta=(S.flow.abierta===n?-1:n);renderFlow();return;}
   if(d.know!==undefined){var C=S.flow.cal;var card=C.cards[C.i];responderTarjeta(card,d.know==='1');C.i++;C.show=false;renderFlow();return;}
+  if(d.def!==undefined){mostrarTermino(d.term,d.def);return;}
+  if(d.act==='sheetclose'){var sh=document.getElementById('sheet');sh.hidden=true;sh.innerHTML='';return;}
+  if(d.lq!==undefined){
+    S.prog.lecturaResp=S.prog.lecturaResp||{};
+    if(typeof S.prog.lecturaResp[d.lq]==='number')return;
+    S.prog.lecturaResp[d.lq]=+d.o;guardarProg();
+    var ly=document.getElementById('flow').scrollTop;renderFlow();document.getElementById('flow').scrollTop=ly;return;
+  }
   if(d.mopt!==undefined||d.mrev!==undefined){
     var mi=+(d.mopt!==undefined?d.mopt:d.mrev);
     S.prog.materias=S.prog.materias||{};var ms=S.prog.materias[mi]||{};
