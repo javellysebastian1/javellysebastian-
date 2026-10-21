@@ -243,14 +243,14 @@ var PASOS={
   noticias:{t:'Lo que importa hoy',min:5},
   historia:{t:'La historia del día',min:9},
   materias:{t:'Gabinete de materias',min:6},
-  rapido:{t:'El rápido',min:3},
+  rapido:{t:'Dato curioso',min:2},
   lectura:{t:'Lectura',min:9},
   cierre:{t:'Francés y cierre',min:4},
   libro:{t:'Libro',min:15}
 };
 var MODOS={
   rescate:{t:'Rescate',s:'10 min',pasos:['calentamiento','historia','cierre']},
-  base:{t:'Base',s:'35 min',pasos:['calentamiento','noticias','historia','materias','lectura','cierre']},
+  base:{t:'Base',s:'37 min',pasos:['calentamiento','noticias','historia','materias','rapido','lectura','cierre']},
   largo:{t:'Largo',s:'40 min +',pasos:['calentamiento','noticias','historia','materias','rapido','lectura','cierre','libro']}
 };
 var FORMATOS={adivinaNumero:'Adivina el número',queHarias:'¿Qué harías?',dilema:'Dilema',mitoRealidad:'¿Mito o realidad?',diaQueCambio:'El día que cambió todo',sigueDinero:'Sigue el dinero',elCaso:'El caso',comoFunciona:'Cómo funciona',miraEscucha:'Mira o escucha',desarmado:'Desarmado'};
@@ -614,10 +614,13 @@ function pasoHistoria(){
 }
 function pasoRapido(){
   var r=S.edition.rapido||{};
-  return '<p class="eyebrow">El rápido · '+esc(r.areaTexto||r.area||'')+'</p><h2>'+esc(r.titulo||'Una curiosidad')+'</h2>'+
-    '<div class="card"><span class="eyebrow">El dato</span><p>'+esc(r.dato)+'</p></div>'+
-    '<div class="card"><span class="eyebrow">Por qué es así</span><p>'+esc(r.porque)+'</p></div>'+
-    '<div class="card"><span class="eyebrow">La conexión</span><p>'+esc(r.conexion)+'</p></div>'+pieSiguiente();
+  return '<p class="eyebrow">Dato curioso'+(r.areaTexto||r.area?' · '+esc(r.areaTexto||r.area):'')+'</p><h2>'+esc(r.titulo||'Una curiosidad')+'</h2>'+
+    figura(r.imagen)+
+    '<div class="card"><span class="eyebrow">El dato</span><p class="t1" style="font-size:18px;font-weight:500">'+linea(r.dato)+'</p></div>'+
+    '<div class="card"><span class="eyebrow">La historia completa</span>'+paras(r.porque)+'</div>'+
+    '<div class="card"><span class="eyebrow">Para la conversación</span>'+paras(r.conexion)+'</div>'+
+    (r.fuente&&r.fuente.url?'<p class="src">Fuente: <a href="'+esc(r.fuente.url)+'" target="_blank" rel="noopener">'+esc(r.fuente.nombre)+'</a></p>':'')+
+    pieSiguiente();
 }
 function pasoMaterias(){
   var M=S.edition.materias||[],st=S.prog.materias||{};
@@ -754,7 +757,7 @@ function colaPodcast(){
     var lt=ed.lectura.secciones.filter(function(s){return s.tipo==='texto'||s.tipo==='cita'||s.tipo==='subtitulo';}).map(function(s){return String(s.texto).replace(/\[\[([^|\]]+)\|[^\]]+\]\]/g,'$1').replace(/\*\*/g,'');}).join(' ');
     q.push({t:'Lectura',x:'La lectura de hoy: '+ed.lectura.libro+'. '+(ed.lectura.capitulo&&ed.lectura.capitulo.titulo||'')+'. '+lt});
   }
-  if(ed.rapido&&S.modo==='largo')q.push({t:'El rápido',x:'El rápido. '+ed.rapido.dato+' '+ed.rapido.porque+' '+ed.rapido.conexion});
+  if(ed.rapido&&S.modo!=='rescate')q.push({t:'Dato curioso',x:'Dato curioso. '+String(ed.rapido.dato+' '+ed.rapido.porque+' '+ed.rapido.conexion).replace(/\[\[([^|\]]+)\|[^\]]+\]\]/g,'$1').replace(/\*/g,'')});
   if(ed.frances){q.push({t:'Francés',x:'La frase en francés de hoy significa: '+ed.frances.traduccion});q.push({t:'Francés',x:ed.frances.frase,l:'fr'});}
   q.push({t:'Fin',x:'Eso es todo. Abre AUXO para responder las tres preguntas del cierre.'});
   return q;
@@ -767,7 +770,7 @@ function podcastPlay(){
 }
 function siguientePodcast(){
   if(!P.on)return;
-  if(P.i>=P.q.length){P.on=false;marcarPaso('noticias');marcarPaso('historia');if(S.edition.materias){marcarPaso('materias');sembrarExtras('materias');}if(S.modo==='largo')marcarPaso('rapido');sembrarRepaso();mostrarPlayer(null);render();return;}
+  if(P.i>=P.q.length){P.on=false;marcarPaso('noticias');marcarPaso('historia');if(S.edition.materias){marcarPaso('materias');sembrarExtras('materias');}if(S.edition.rapido&&S.modo!=='rescate')marcarPaso('rapido');sembrarRepaso();mostrarPlayer(null);render();return;}
   var it=P.q[P.i];mostrarPlayer(it.t);
   decir(it.x,it.l,function(){if(!P.on||P.paused)return;P.i++;setTimeout(siguientePodcast,600);});
 }

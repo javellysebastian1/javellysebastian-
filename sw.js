@@ -1,5 +1,5 @@
 /* AUXO: funciona sin conexión con la última edición descargada. */
-var VERSION='auxo-v2';
+var VERSION='auxo-v3';
 var BASE=['./','index.html','manifest.webmanifest','icons/icon-192.png','icons/icon-512.png','icons/apple-touch-icon.png'];
 self.addEventListener('install',function(e){
   e.waitUntil(caches.open(VERSION).then(function(c){return c.addAll(BASE);}).then(function(){return self.skipWaiting();}));
