@@ -1,121 +1,122 @@
 {
- "actualizado": "2026-10-20",
- "lista": [
-  {
-   "id": "t01",
-   "numero": 1,
-   "titulo": "Decisiones bajo presión",
-   "para": "Criterio para decidir con información incompleta.",
-   "estado": "en_curso",
-   "episodios": [
+  "actualizado": "2026-10-21",
+  "lista": [
     {
-     "titulo": "Trece días para no acabar el mundo",
-     "fecha": "2026-10-20"
+      "episodios": [
+        {
+          "fecha": "2026-10-20",
+          "titulo": "Trece días para no acabar el mundo"
+        },
+        {
+          "fecha": "2026-10-21",
+          "titulo": "Apolo 13: cómo meter un filtro cuadrado en un hueco redondo"
+        },
+        {
+          "titulo": "Tylenol 1982: retirar 31 millones de frascos para salvar la marca"
+        },
+        {
+          "titulo": "Kodak inventó la cámara digital en 1975 y la guardó"
+        },
+        {
+          "titulo": "Los estoicos ante la crisis"
+        },
+        {
+          "titulo": "Síntesis: tu manual para decidir bajo presión"
+        }
+      ],
+      "estado": "en_curso",
+      "id": "t01",
+      "numero": 1,
+      "para": "Criterio para decidir con información incompleta.",
+      "titulo": "Decisiones bajo presión"
     },
     {
-     "titulo": "Apolo 13: cómo meter un filtro cuadrado en un hueco redondo"
+      "episodios": [],
+      "estado": "pendiente",
+      "id": "t02",
+      "numero": 2,
+      "para": "Arte, poder y dinero en la ciudad de los Medici.",
+      "titulo": "Florencia: la ciudad que inventó el Renacimiento"
     },
     {
-     "titulo": "Tylenol 1982: retirar 31 millones de frascos para salvar la marca"
+      "episodios": [],
+      "estado": "pendiente",
+      "id": "t03",
+      "numero": 3,
+      "para": "Pensamiento crítico y defensa contra la persuasión.",
+      "titulo": "Cómo te manipulan"
     },
     {
-     "titulo": "Kodak inventó la cámara digital en 1975 y la guardó"
+      "episodios": [],
+      "estado": "pendiente",
+      "id": "t04",
+      "numero": 4,
+      "para": "Vino, cocina y los oficios detrás del buen gusto.",
+      "titulo": "El arte de la mesa"
     },
     {
-     "titulo": "Los estoicos ante la crisis"
+      "episodios": [],
+      "estado": "pendiente",
+      "id": "t05",
+      "numero": 5,
+      "para": "Derecho con historia y consecuencias.",
+      "titulo": "Juicios que cambiaron el mundo"
     },
     {
-     "titulo": "Síntesis: tu manual para decidir bajo presión"
+      "episodios": [],
+      "estado": "pendiente",
+      "id": "t06",
+      "numero": 6,
+      "para": "Moda, perfume, urbanismo y cultura francesa.",
+      "titulo": "París: cómo se hizo la capital del gusto"
+    },
+    {
+      "episodios": [],
+      "estado": "pendiente",
+      "id": "t07",
+      "numero": 7,
+      "para": "Las casas de lujo y lo que enseñan sobre el valor.",
+      "titulo": "Cómo se construye una marca que dura"
+    },
+    {
+      "episodios": [],
+      "estado": "pendiente",
+      "id": "t08",
+      "numero": 8,
+      "para": "Obras y compositores que conviene saber escuchar.",
+      "titulo": "La música que hay que conocer"
+    },
+    {
+      "episodios": [],
+      "estado": "pendiente",
+      "id": "t09",
+      "numero": 9,
+      "para": "Entender el país con contexto.",
+      "titulo": "México que no te contaron"
+    },
+    {
+      "episodios": [],
+      "estado": "pendiente",
+      "id": "t10",
+      "numero": 10,
+      "para": "Los secretos de las pinturas más famosas.",
+      "titulo": "Historias detrás de las obras"
+    },
+    {
+      "episodios": [],
+      "estado": "pendiente",
+      "id": "t11",
+      "numero": 11,
+      "para": "Arquitectura que se recuerda, de Roma a Barragán.",
+      "titulo": "Edificios que cambiaron cómo vivimos"
+    },
+    {
+      "episodios": [],
+      "estado": "pendiente",
+      "id": "t12",
+      "numero": 12,
+      "para": "Los relatos que explican nuestras palabras y obsesiones.",
+      "titulo": "Mitos griegos que seguimos viviendo"
     }
-   ]
-  },
-  {
-   "id": "t02",
-   "numero": 2,
-   "titulo": "Florencia: la ciudad que inventó el Renacimiento",
-   "para": "Arte, poder y dinero en la ciudad de los Medici.",
-   "estado": "pendiente",
-   "episodios": []
-  },
-  {
-   "id": "t03",
-   "numero": 3,
-   "titulo": "Cómo te manipulan",
-   "para": "Pensamiento crítico y defensa contra la persuasión.",
-   "estado": "pendiente",
-   "episodios": []
-  },
-  {
-   "id": "t04",
-   "numero": 4,
-   "titulo": "El arte de la mesa",
-   "para": "Vino, cocina y los oficios detrás del buen gusto.",
-   "estado": "pendiente",
-   "episodios": []
-  },
-  {
-   "id": "t05",
-   "numero": 5,
-   "titulo": "Juicios que cambiaron el mundo",
-   "para": "Derecho con historia y consecuencias.",
-   "estado": "pendiente",
-   "episodios": []
-  },
-  {
-   "id": "t06",
-   "numero": 6,
-   "titulo": "París: cómo se hizo la capital del gusto",
-   "para": "Moda, perfume, urbanismo y cultura francesa.",
-   "estado": "pendiente",
-   "episodios": []
-  },
-  {
-   "id": "t07",
-   "numero": 7,
-   "titulo": "Cómo se construye una marca que dura",
-   "para": "Las casas de lujo y lo que enseñan sobre el valor.",
-   "estado": "pendiente",
-   "episodios": []
-  },
-  {
-   "id": "t08",
-   "numero": 8,
-   "titulo": "La música que hay que conocer",
-   "para": "Obras y compositores que conviene saber escuchar.",
-   "estado": "pendiente",
-   "episodios": []
-  },
-  {
-   "id": "t09",
-   "numero": 9,
-   "titulo": "México que no te contaron",
-   "para": "Entender el país con contexto.",
-   "estado": "pendiente",
-   "episodios": []
-  },
-  {
-   "id": "t10",
-   "numero": 10,
-   "titulo": "Historias detrás de las obras",
-   "para": "Los secretos de las pinturas más famosas.",
-   "estado": "pendiente",
-   "episodios": []
-  },
-  {
-   "id": "t11",
-   "numero": 11,
-   "titulo": "Edificios que cambiaron cómo vivimos",
-   "para": "Arquitectura que se recuerda, de Roma a Barragán.",
-   "estado": "pendiente",
-   "episodios": []
-  },
-  {
-   "id": "t12",
-   "numero": 12,
-   "titulo": "Mitos griegos que seguimos viviendo",
-   "para": "Los relatos que explican nuestras palabras y obsesiones.",
-   "estado": "pendiente",
-   "episodios": []
-  }
- ]
+  ]
 }
