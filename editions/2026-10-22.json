@@ -1,0 +1,519 @@
+{
+ "calentamiento": [
+  {
+   "origen": "Edición #1",
+   "pregunta": "En la crisis de los misiles, ¿por qué Kennedy eligió la cuarentena naval antes que el bombardeo?",
+   "respuesta": "Porque era una acción reversible: le daba tiempo y le dejaba a Jruschov una salida. Un bombardeo no se podía deshacer."
+  },
+  {
+   "origen": "Edición #2",
+   "pregunta": "¿Qué es la falacia del costo hundido?",
+   "respuesta": "Seguir invirtiendo en algo solo por lo que ya se gastó, aunque el futuro no lo justifique."
+  },
+  {
+   "origen": "Edición #2",
+   "pregunta": "¿Qué estableció el caso del caracol en la botella (Donoghue contra Stevenson, 1932)?",
+   "respuesta": "Que el fabricante tiene un deber de cuidado hacia el consumidor final, aunque no haya contrato entre ellos."
+  }
+ ],
+ "datos": {
+  "futuro": {
+   "cuando": "2028",
+   "dato": "La NASA planea lanzar en julio de 2028, como fecha más temprana, la misión Dragonfly: un dron con rotores que volará en Titán, la mayor luna de Saturno. Llegaría a finales de 2034.",
+   "explicacion": "Titán es el único lugar del sistema solar, además de la Tierra, con lagos y ríos en su superficie, aunque de metano y etano. Su atmósfera es más densa que la nuestra y su gravedad, mucho menor: volar ahí es más fácil que en la Tierra.\n\nDragonfly saltará de un sitio a otro durante una misión prevista de 3.3 años, buscando la química que pudo preceder a la vida.",
+   "fuente": {
+    "nombre": "NASA: Dragonfly",
+    "url": "https://science.nasa.gov/mission/dragonfly/"
+   },
+   "pilar": "futuro",
+   "repaso": {
+    "pregunta": "¿Qué es Dragonfly y cuándo se lanzaría?",
+    "respuesta": "Un dron de la NASA para volar en Titán, luna de Saturno. Lanzamiento no antes de julio de 2028; llegada a finales de 2034."
+   },
+   "titulo": "Un dron volará en Titán"
+  },
+  "pasado": {
+   "cuando": "c. 2600 a. C.",
+   "dato": "La Gran Pirámide de Guiza se construyó hacia el año 2600 a. C. Cleopatra murió en el 30 a. C. Vivió más cerca de la llegada del hombre a la Luna que de la construcción de la pirámide.",
+   "explicacion": "Entre la pirámide de Keops y la muerte de Cleopatra pasaron unos 2,500 años. Entre Cleopatra y el Apolo 11, en 1969, unos 2,000. Para ella, la Gran Pirámide ya era una antigüedad venerable.\n\nLas fechas exactas de la pirámide se discuten: la mayoría de las estimaciones la sitúan entre 2700 y 2500 a. C. Aun con el rango más corto, el dato se sostiene.",
+   "fuente": {
+    "nombre": "Wikipedia: Great Pyramid of Giza",
+    "url": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+   },
+   "imagen": {
+    "alt": "La Gran Pirámide de Guiza",
+    "credito": "Wikimedia Commons",
+    "pie": "La pirámide de Keops, en Guiza",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Great_Pyramid_of_Giza_(Pyramid_of_Cheops_or_Khufu)_(14823042753).jpg?width=900"
+   },
+   "pilar": "cultura",
+   "repaso": {
+    "pregunta": "¿Cleopatra vivió más cerca de la Gran Pirámide o del alunizaje?",
+    "respuesta": "Del alunizaje: unos 2,000 años la separan del Apolo 11 y unos 2,500 de la pirámide."
+   },
+   "titulo": "Cleopatra, más cerca de nosotros que de la pirámide"
+  },
+  "presente": {
+   "cuando": "2026",
+   "dato": "Al 1 de septiembre de 2026, Japón tenía 107,677 personas de 100 años o más: por primera vez, más de cien mil. En 1963 eran 153.",
+   "explicacion": "Es el récord número 56 en fila, según el Ministerio de Salud, Trabajo y Bienestar. El 87.6% son mujeres. La persona más longeva del país es Fuyo Kishimoto, de 114 años, en Kioto.\n\nPor qué importa: Japón es un adelanto de lo que viene a muchos países, México incluido. Más años de vida significan más gasto en salud y pensiones, y también un mercado nuevo de consumidores mayores con dinero y tiempo.",
+   "fuente": {
+    "nombre": "Nippon.com con datos del Ministerio de Salud de Japón",
+    "url": "https://www.nippon.com/en/japan-data/h02902/"
+   },
+   "pilar": "cuerpo",
+   "repaso": {
+    "pregunta": "¿Cuántos centenarios tenía Japón en septiembre de 2026?",
+    "respuesta": "107,677, por primera vez más de cien mil; el 87.6% son mujeres."
+   },
+   "titulo": "Japón pasa los 100 mil centenarios"
+  }
+ },
+ "disponibleDesde": "2026-10-22T08:00:00-06:00",
+ "fecha": "2026-10-22",
+ "frances": {
+  "frase": "Qu'est-ce que tu en penses ?",
+  "pronunciacion": "kes-ke tü an pans",
+  "repaso": {
+   "pregunta": "¿Cómo preguntas en francés «¿tú qué opinas?»",
+   "respuesta": "« Qu'est-ce que tu en penses ? » (de usted: « Qu'est-ce que vous en pensez ? »)"
+  },
+  "traduccion": "¿Tú qué opinas?",
+  "uso": "Conversación. El pronombre « en » sustituye a « de ça » (de eso): penser de quelque chose → en penser. Sirve para invitar a alguien a opinar sin presionar. Con alguien de usted: « Qu'est-ce que vous en pensez ? »",
+  "variante": "À mon avis, ça vaut le coup. (En mi opinión, vale la pena.)"
+ },
+ "historia": {
+  "fuentes": [
+   {
+    "nombre": "Wikipedia: Chicago Tylenol murders",
+    "url": "https://en.wikipedia.org/wiki/Chicago_Tylenol_murders"
+   },
+   {
+    "nombre": "Retail Brew: Total recall (2022)",
+    "url": "https://www.retailbrew.com/stories/2022/10/13/total-recall-how-the-tylenol-murders-of-1982-ushered-in-tamper-resistant-packaging"
+   },
+   {
+    "nombre": "Wikipedia: James E. Burke",
+    "url": "https://en.wikipedia.org/wiki/James_E._Burke"
+   }
+  ],
+  "paraProfundizar": {
+   "minutos": 7,
+   "titulo": "Retail Brew: cómo los asesinatos de Tylenol crearon el empaque con sello de seguridad",
+   "url": "https://www.retailbrew.com/stories/2022/10/13/total-recall-how-the-tylenol-murders-of-1982-ushered-in-tamper-resistant-packaging"
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Qué hizo Johnson & Johnson tras los envenenamientos de Tylenol en 1982?",
+    "respuesta": "Retiró del país unos 31 millones de frascos (más de 100 millones de dólares) y volvió 43 días después con un empaque de triple sello."
+   },
+   {
+    "pregunta": "¿Qué pregunta central plantea la herramienta del daño asimétrico?",
+    "respuesta": "¿Cuál de los dos errores posibles, actuar de más o de menos, no tiene vuelta atrás? Si uno es irreversible, acepta el costo del reparable."
+   }
+  ],
+  "tarjetas": [
+   {
+    "contexto": "Chicago, otoño de 1982. Siete personas mueren tras tomar cápsulas de **Tylenol Extra Fuerte**, el analgésico más vendido de Estados Unidos. Alguien les metió [[cianuro de potasio|Veneno muy rápido: impide que las células usen el oxígeno. Una dosis mínima puede matar en minutos.]]. Las cápsulas se fabricaron en dos plantas distintas, en Pensilvania y Texas. Todo apunta a que el veneno se puso después, en los anaqueles.",
+    "gancho": "Alguien envenenó tu producto en las tiendas. La culpa no es tuya. ¿Qué harías?",
+    "opciones": [
+     "Retirar solo los lotes de la zona de Chicago",
+     "Retirar el producto de todo el país, aunque cueste una fortuna",
+     "Mantener el producto y explicar que la fábrica no tuvo la culpa"
+    ],
+    "pregunta": "Si fueras el director de Johnson & Johnson, ¿qué harías?",
+    "tipo": "adivina"
+   },
+   {
+    "imagen": {
+     "alt": "Cajas de Tylenol Extra Fuerte y Tylenol PM",
+     "credito": "Wikimedia Commons",
+     "pie": "Tylenol Extra Fuerte, la presentación que fue envenenada en 1982",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Extra_Strength_Tylenol_and_Tylenol_PM.jpg?width=900"
+    },
+    "texto": "La mañana del 29 de septiembre de 1982, **Mary Kellerman**, de 12 años, se sentía mal. Tomó una cápsula de Tylenol Extra Fuerte. Murió ese mismo día. Fue la primera y la más joven de las víctimas.\n\nEse mismo día, en otro suburbio, murió Adam Janus, de 27 años. Esa noche, su hermano Stanley y su cuñada Theresa, reunidos en duelo, tomaron cápsulas del mismo frasco. Murieron los dos. Después cayeron Mary McFarland, Paula Prince y Mary Reiner. Siete muertos en total.\n\nLos investigadores encontraron frascos envenenados en varias tiendas del área de Chicago: Jewel, Osco, Walgreens, Dominick's. En el frasco de los Janus, cuatro de las 44 cápsulas que quedaban tenían casi el triple de la dosis mortal.\n\nTylenol no era un producto cualquiera. Tenía alrededor de un tercio del mercado de analgésicos sin receta en Estados Unidos: entre 35% y 37%, según la fuente. Era la joya de [[Johnson & Johnson|Empresa estadounidense de salud fundada en 1886. En 1982 ya era una de las mayores del mundo en productos de consumo y farmacéuticos.]].\n\nAl frente estaba **James Burke**, su director general desde 1976. El dilema era brutal. La fábrica no tenía la culpa. Las muertes se concentraban en una sola ciudad. Retirar todo el producto del país significaba admitir, a ojos del público, que algo estaba mal con la marca.",
+    "tipo": "historia",
+    "titulo": "Siete muertes en una semana"
+   },
+   {
+    "texto": "Burke eligió lo más caro. Johnson & Johnson avisó a hospitales y distribuidores, detuvo la producción y la publicidad, y el **5 de octubre de 1982** retiró Tylenol de todo el país: unos **31 millones de frascos**, con un valor de venta de más de 100 millones de dólares. Ofreció cambiar las cápsulas por tabletas sólidas y trabajó con la policía de Chicago, el FBI y la [[FDA|Agencia de Estados Unidos que regula alimentos y medicamentos, equivalente a la Cofepris en México.]].\n\nLa marca se desplomó: su participación cayó a entre 7% y 8%. Muchos la dieron por muerta.\n\nEl 11 de noviembre, solo 43 días después de la primera muerte, Tylenol volvió con un empaque nuevo de **triple sello**: caja pegada, sello de plástico en la tapa y un sello de aluminio en la boca del frasco. Un año después ya había recuperado cerca del 30% del mercado.\n\nEl giro final: al asesino nunca lo atraparon. James W. Lewis envió una carta a la empresa exigiendo un millón de dólares; fue condenado por [[extorsión|Delito de obligar a alguien a dar dinero o hacer algo mediante amenazas.]], no por los asesinatos, y murió en 2023. La empresa no tenía la culpa, pero actuó como si la confianza del público fuera su responsabilidad. Por eso hoy casi todos los medicamentos que compras traen un sello que tienes que romper.",
+    "tipo": "giro",
+    "titulo": "Treinta y un millones de frascos"
+   },
+   {
+    "nombre": "El daño asimétrico",
+    "texto": "Cuando está en juego la confianza, **pregunta qué error no tiene vuelta atrás**.\n\nBurke tenía dos errores posibles. Si retiraba de más, perdía dinero: mucho, pero recuperable. Si retiraba de menos y moría una persona más, perdía la marca para siempre. Los dos errores no pesaban lo mismo. Eso es una [[asimetría|Situación en la que los dos lados de una decisión tienen consecuencias de tamaño muy distinto.]].\n\nLa herramienta tiene tres pasos. Uno: escribe los dos errores posibles, el de actuar de más y el de actuar de menos. Dos: pregúntate cuál de los dos se puede reparar con dinero y tiempo. Tres: si uno es [[irreversible|Que no se puede deshacer. Una vez que ocurre, no hay forma de volver al estado anterior.]] y el otro no, acepta el costo del error reparable.\n\nEs la misma lógica de Kennedy en la primera edición: preferir lo que todavía se puede corregir.",
+    "tipo": "herramienta"
+   },
+   {
+    "texto": "En una farmacéutica, cuando aparece un lote con un defecto de empaque o un reporte de producto falsificado en el mercado, la tentación es esperar a tener todos los datos. El daño asimétrico dice lo contrario: retirar de más cuesta inventario; retirar de menos puede costar la licencia y el nombre.\n\nEn una bebida lista para tomar pasa lo mismo con un lote mal sellado. Una devolución amplia y rápida duele una semana. Un video viral de una lata defectuosa puede durar años.\n\nY en la vida diaria: si dudas entre llamar al médico por un síntoma raro o esperar, el error de llamar de más cuesta una consulta. El otro puede no tener arreglo.",
+    "tipo": "dondeMas",
+    "titulo": "Dónde más aparece"
+   },
+   {
+    "pregunta": "Piensa en una decisión que estás posponiendo. ¿Cuál de los dos errores posibles, actuar de más o actuar de menos, sería el que no tiene vuelta atrás?",
+    "texto": "Burke no sabía quién era el culpable. Le bastó con saber qué error podía reparar.",
+    "tipo": "llevaloATuVida"
+   },
+   {
+    "frase": "Si un error se paga con dinero y el otro con confianza, paga con dinero.",
+    "tipo": "paraRecordar"
+   }
+  ]
+ },
+ "id": "auxo-2026-10-22",
+ "lectura": {
+  "autor": "Marco Aurelio",
+  "capitulo": {
+   "numero": 3,
+   "titulo": "El tiempo es corto y la fama, humo",
+   "total": 6
+  },
+  "fuentes": [
+   {
+    "nombre": "Meditaciones, traducción de George Long (1862), Proyecto Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/15877"
+   },
+   {
+    "nombre": "Meditaciones, traducción inglesa de Meric Casaubon (1634), Proyecto Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/2680"
+   }
+  ],
+  "libro": "Meditaciones",
+  "minutos": 9,
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de dominio público de George Long (1862), Proyecto Gutenberg. La numeración sigue la división estándar del texto.",
+  "paraLlevar": [
+   "Nadie pierde otra vida que la que vive ahora: el presente es lo único que tienes y lo único que te pueden quitar.",
+   "Imagina la época de Vespasiano: toda su agitación desapareció. Así se mide el tamaño real de tus preocupaciones.",
+   "La reputación es una consecuencia de hacer bien las cosas, no una meta."
+  ],
+  "proximo": "Capítulo 4: Al amanecer: trabajar con los demás, aunque sean difíciles",
+  "repaso": [
+   {
+    "pregunta": "¿Qué ejercicio propone Marco Aurelio con los tiempos de Vespasiano (IV, 32)?",
+    "respuesta": "Imaginar a toda la gente de aquella época ocupada en casarse, comerciar, pelear y ambicionar, y notar que toda esa vida ya no existe. Sirve para ganar perspectiva."
+   },
+   {
+    "pregunta": "Según Meditaciones IV, 19, ¿por qué la fama póstuma es humo?",
+    "respuesta": "Porque quienes te recuerden también morirán, y el recuerdo se irá apagando de unos a otros como una llama."
+   }
+  ],
+  "secciones": [
+   {
+    "texto": "Año 170, más o menos. El hombre más poderoso del mundo está en una tienda de campaña junto al Danubio. Afuera hace frío. Lleva meses en guerra contra tribus germánicas, los [[marcomanos|Pueblo germánico que vivía al norte del Danubio, en la actual República Checa. Sus guerras con Roma duraron de 166 a 180.]] y los cuados. Una epidemia, la llamada peste antonina, ha matado a miles de romanos.\n\nDe noche, a la luz de una lámpara, Marco Aurelio escribe en griego. No escribe para publicar. Escribe para sí mismo. Y una de las cosas que más se repite es esta: el tiempo es poco, y lo que la gente recordará de ti, todavía menos.",
+    "tipo": "texto"
+   },
+   {
+    "texto": "Solo pierdes el presente",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "En el libro II, Marco Aurelio hace una cuenta que parece un truco de lógica. Imagina que vivieras tres mil años, o treinta mil. Aun así, dice, nadie pierde otra vida que la que está viviendo ahora. Y nadie vive otra que la que está perdiendo.",
+    "tipo": "texto"
+   },
+   {
+    "fuente": "Meditaciones, II, 14",
+    "texto": "La vida más larga y la más corta vienen a ser lo mismo. El presente es igual para todos, y lo que se pierde también es igual: apenas un instante. Nadie puede perder el pasado ni el futuro, porque ¿cómo le quitarían a alguien lo que no tiene?",
+    "tipo": "cita"
+   },
+   {
+    "texto": "La idea es más práctica de lo que parece. Cuando lamentas lo que ya pasó o temes lo que vendrá, estás peleando por cosas que no posees. Lo único tuyo es este momento. Y eso es lo único que se te puede quitar.\n\nPor eso al morir, dice, el viejo y el joven pierden lo mismo: el presente. No es un consuelo triste. Es una orden de atención: si solo tienes este momento, úsalo.",
+    "tipo": "texto"
+   },
+   {
+    "correcta": 1,
+    "explicacion": "El pasado ya no es tuyo y el futuro todavía no. Lo único que posees, y por tanto lo único que puedes perder, es el momento presente.",
+    "opciones": [
+     "El pasado, porque se olvida",
+     "El presente, porque es lo único que se tiene",
+     "El futuro, porque es incierto"
+    ],
+    "pregunta": "Según Marco Aurelio en el libro II, ¿qué es lo único que realmente se puede perder?",
+    "tipo": "pregunta"
+   },
+   {
+    "texto": "El experimento de Vespasiano",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "En el libro IV propone un ejercicio de imaginación. Piensa en los tiempos de [[Vespasiano|Emperador romano del 69 al 79 d. C. Construyó el Coliseo. Gobernó unos cien años antes que Marco Aurelio.]], un siglo antes de él. Mira a toda esa gente ocupada:",
+    "tipo": "texto"
+   },
+   {
+    "fuente": "Meditaciones, IV, 32",
+    "texto": "Verás a todos casándose, criando hijos, enfermando, muriendo, haciendo la guerra, festejando, comerciando, cultivando la tierra, adulando, sospechando, conspirando, deseando que otros mueran, quejándose del presente, amando, amontonando riquezas, ambicionando cargos y reinos. Pues bien: aquella vida ya no existe en ninguna parte.",
+    "tipo": "cita"
+   },
+   {
+    "texto": "Después pide hacer lo mismo con los tiempos de Trajano. El resultado es idéntico. Toda esa agitación, todos esos pleitos y fortunas, desaparecieron sin dejar rastro.\n\nEl ejercicio no busca deprimir. Busca [[perspectiva|Capacidad de ver una cosa en su tamaño real, comparándola con un marco más amplio.]]. Un pleito con un socio, un competidor que te copió la etiqueta, un cliente que no paga: dentro de cien años nadie sabrá que existieron. Eso no los vuelve irrelevantes hoy, pero sí te dice cuánta paz deben quitarte.",
+    "tipo": "texto"
+   },
+   {
+    "alt": "Estatua ecuestre de Marco Aurelio en Roma",
+    "credito": "Wikimedia Commons",
+    "pie": "Marco Aurelio, el emperador que escribía de noche sobre lo pasajero de todo",
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/0_Marcus_Aurelius_-_Piazza_del_Campidoglio_(2).JPG?width=900"
+   },
+   {
+    "texto": "La fama, un eco que se apaga",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "Para un romano poderoso, la fama era casi una religión. Los nobles construían monumentos, inscripciones y tumbas para que su nombre durara. Marco Aurelio, que tenía más motivos que nadie para buscarla, la desarma con una cuenta sencilla.",
+    "tipo": "texto"
+   },
+   {
+    "fuente": "Meditaciones, IV, 19",
+    "texto": "Quien desea con ansia la fama después de la muerte no piensa que cada uno de los que lo recuerden morirá también muy pronto, y luego el que venga después, hasta que todo el recuerdo se apague, pasando de unos a otros como una llama que se extingue.",
+    "tipo": "cita"
+   },
+   {
+    "texto": "Y añade algo todavía más fino. Aunque los que te recuerden fueran inmortales, ¿qué te importa su elogio a ti, que ya no estarás? Y si estás vivo, el elogio solo sirve si es útil para algo.\n\nAquí está el punto clave para quien dirige una marca o una empresa. Marco Aurelio no dice que la reputación no importe. Dice que no puede ser la meta. La reputación es un efecto de hacer bien las cosas, no un fin en sí.",
+    "tipo": "texto"
+   },
+   {
+    "correcta": 0,
+    "explicacion": "Su argumento es una cadena: quien te recuerda morirá, y quien lo recuerde a él también. El recuerdo pasa de mano en mano hasta extinguirse, como una llama.",
+    "opciones": [
+     "Porque los que te recuerden también morirán y el recuerdo se apagará",
+     "Porque los romanos no valoraban a los buenos gobernantes",
+     "Porque la fama solo la merecen los dioses"
+    ],
+    "pregunta": "¿Por qué Marco Aurelio considera inútil perseguir la fama póstuma?",
+    "tipo": "pregunta"
+   },
+   {
+    "texto": "Lo que sí queda",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "Si el tiempo es corto y la fama se apaga, ¿qué vale la pena? Marco Aurelio responde a lo largo del libro: actuar con justicia, decir la verdad, hacer bien el trabajo del día. Cosas que se cumplen en el presente, el único lugar donde de verdad estás.\n\nPiensa en la historia de hoy. En 1982, James Burke no retiró 31 millones de frascos para salir en los libros de negocios. Lo hizo porque, en ese momento, era lo correcto con la gente que compraba su producto. La reputación llegó después, como consecuencia. Si hubiera actuado para cuidar la imagen, probablemente habría retirado solo los lotes de Chicago.\n\nEl ejercicio de hoy es corto. Piensa en algo que hoy te quita tranquilidad. Pregúntate: ¿alguien lo recordará dentro de cien años? Si la respuesta es no, dale el esfuerzo que merece, pero no más angustia de la necesaria.",
+    "tipo": "texto"
+   },
+   {
+    "texto": "Marco Aurelio no tituló su obra. El nombre que se usa en griego, *Ta eis heauton*, significa «Para sí mismo». No sabemos cómo se salvó el manuscrito tras su muerte en el año 180. Casi no hay menciones del texto durante siglos. Se publicó impreso por primera vez en Zúrich en 1559, con traducción al latín. Desde entonces lo han leído desde Federico el Grande hasta presidentes y generales modernos.",
+    "tipo": "nota",
+    "titulo": "Saber más: ¿cómo sobrevivió un diario privado?"
+   }
+  ]
+ },
+ "libro": null,
+ "materias": [
+  {
+   "contexto": "Madrid, 1656. [[Diego Velázquez|Pintor sevillano (1599–1660), pintor de cámara del rey Felipe IV. Uno de los mayores retratistas de la historia.]] pinta un lienzo enorme: 3.18 por 2.76 metros. En el centro está la infanta Margarita, de cinco años, rodeada de dos damas, una dueña, un guardadamas, dos enanos y un mastín. A la izquierda, el propio Velázquez, pincel en mano, frente a un lienzo que no vemos. Al fondo, un espejo.",
+   "correcta": 1,
+   "formato": "miraEscucha",
+   "fuente": {
+    "nombre": "Wikipedia: Las Meninas",
+    "url": "https://en.wikipedia.org/wiki/Las_Meninas"
+   },
+   "idea": "Una gran obra no solo muestra una escena: decide dónde te pone a ti.",
+   "imagen": {
+    "alt": "Las Meninas de Diego Velázquez",
+    "credito": "Museo del Prado · Wikimedia Commons",
+    "pie": "Las Meninas, Diego Velázquez, 1656. Museo del Prado",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Las_Meninas,_by_Diego_Velázquez,_from_Prado_in_Google_Earth.jpg?width=900"
+   },
+   "materia": "Arte y pintura",
+   "opciones": [
+    "A la infanta, que posa para él",
+    "Al rey y a la reina, que están justo donde estás tú",
+    "A sí mismo, frente a un espejo grande"
+   ],
+   "pilar": "cultura",
+   "pregunta": "Mira hacia donde mira el pintor. ¿A quién crees que está retratando?",
+   "repaso": {
+    "pregunta": "¿Quiénes aparecen en el espejo de Las Meninas y qué sugiere eso?",
+    "respuesta": "El rey Felipe IV y la reina Mariana. Sugiere que están donde está el espectador: todos en el cuadro nos miran a nosotros."
+   },
+   "revelacion": "En el espejo del fondo aparecen el rey **Felipe IV** y la reina **Mariana**. La lectura más aceptada es que los reyes están parados frente a la escena, en el lugar exacto del espectador. Todos los personajes los miran a ellos, es decir, a ti. Algunos historiadores proponen que el espejo refleja el lienzo que Velázquez pinta; el debate sigue abierto.\n\nMira también la puerta del fondo: en la escalera, a contraluz, está José Nieto Velázquez, aposentador de la reina. Su figura da profundidad al cuadro. Y en el pecho del pintor hay una cruz roja de la Orden de Santiago, que recibió en 1659, tres años después de terminar la obra. Alguien la añadió después; según el biógrafo Palomino, por orden del rey.\n\nEl pintor Luca Giordano llamó a este cuadro «la [[teología|Aquí, en sentido figurado: la máxima expresión, la verdad más alta de un arte.]] de la pintura». Hoy cuelga en el Museo del Prado.",
+   "tiempo": "pasado",
+   "titulo": "Las Meninas: el cuadro que te mira a ti"
+  },
+  {
+   "contexto": "Los aranceles vuelven una y otra vez al centro de la relación entre México y Estados Unidos. La frase política de siempre es «que lo pague el otro país». En 2018, Estados Unidos impuso aranceles a cientos de miles de millones de dólares en importaciones, de China y de otros países. Tres economistas de la Reserva Federal de Nueva York, Princeton y Columbia midieron quién terminó pagando.",
+   "correcta": 2,
+   "formato": "adivinaNumero",
+   "fuente": {
+    "nombre": "Amiti, Redding y Weinstein (2019), Journal of Economic Perspectives",
+    "url": "https://www.aeaweb.org/articles?id=10.1257/jep.33.4.187"
+   },
+   "idea": "Un impuesto lo paga legalmente uno, pero lo carga quien tiene menos opciones.",
+   "materia": "Economía y mercados",
+   "opciones": [
+    "Unos 25 centavos",
+    "Unos 50 centavos",
+    "Prácticamente el dólar completo"
+   ],
+   "pilar": "patrimonio",
+   "pregunta": "De cada dólar de arancel, ¿cuánto crees que pagaron las empresas y los consumidores de Estados Unidos?",
+   "repaso": {
+    "pregunta": "¿Quién pagó los aranceles de EE. UU. de 2018, según Amiti, Redding y Weinstein?",
+    "respuesta": "Prácticamente todo lo pagaron importadores y consumidores estadounidenses: el traspaso a precios fue completo."
+   },
+   "revelacion": "Mary Amiti, Stephen Redding y David Weinstein encontraron un [[traspaso|En comercio, la parte de un arancel que se refleja en el precio que paga el comprador. Traspaso completo: el comprador absorbe todo.]] completo: el precio que pagaban los importadores estadounidenses subió en la misma cantidad que el arancel. Los exportadores extranjeros no bajaron sus precios. Concluyeron que el costo recayó en consumidores e importadores de su país. Calcularon una pérdida de ingreso real de 1,400 millones de dólares al mes a finales de 2018.\n\nUn [[arancel|Impuesto que un país cobra a los productos que entran desde otro país. Lo paga quien importa, en la aduana.]] lo paga legalmente quien importa. Después, esa empresa decide si lo absorbe en su margen o lo pasa al cliente. Quién pierde depende de quién tiene menos alternativas.\n\nPara un exportador mexicano la lección es incómoda: aunque el arancel lo pague el importador, si tu cliente puede comprar en otro lado, la presión vuelve a ti como petición de descuento.",
+   "tiempo": "presente",
+   "titulo": "¿Quién paga un arancel?"
+  },
+  {
+   "contexto": "Durante décadas, la respuesta de concurso fue Tokio. En noviembre de 2025, la ONU publicó su informe *World Urbanization Prospects 2025* y el podio cambió: **Yakarta**, con casi 42 millones de habitantes; **Daca**, con casi 40 millones; y Tokio, con 33 millones, en tercer lugar. El Cairo es la única ciudad fuera de Asia entre las diez primeras.",
+   "correcta": 1,
+   "formato": "comoFunciona",
+   "fuente": {
+    "nombre": "ONU: World Urbanization Prospects 2025 (comunicado)",
+    "url": "https://www.un.org/sustainabledevelopment/blog/2025/11/press-release-wup2025/"
+   },
+   "idea": "Antes de comparar cifras, pregunta cómo se midió cada una.",
+   "imagen": {
+    "alt": "Rascacielos del centro de Yakarta",
+    "credito": "Wikimedia Commons",
+    "pie": "Yakarta, Indonesia: casi 42 millones de habitantes según la ONU",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jakarta_Skyline_Part_2.jpg?width=900"
+   },
+   "materia": "Ciudades del mundo",
+   "opciones": [
+    "Tokio perdió la mitad de su población en diez años",
+    "La ONU cambió la forma de medir qué es una ciudad",
+    "Indonesia unió varias ciudades por decreto"
+   ],
+   "pilar": "mundo",
+   "pregunta": "¿Qué crees que pesó más para que Tokio bajara al tercer lugar?",
+   "repaso": {
+    "pregunta": "Según la ONU (2025), ¿cuáles son las tres ciudades más pobladas del mundo?",
+    "respuesta": "Yakarta (casi 42 millones), Daca (casi 40) y Tokio (33), medidas con el nuevo método del Grado de Urbanización."
+   },
+   "revelacion": "Por primera vez, la ONU usó el [[Grado de Urbanización|Método que define ciudades, pueblos y zonas rurales con mapas de densidad de población, no con límites administrativos. Así se comparan países con la misma regla.]]. En vez de aceptar los límites oficiales de cada país, mide desde imágenes y mapas dónde hay gente viviendo con alta densidad. Con esa regla, la mancha urbana de Yakarta y Daca resulta mucho mayor de lo que decían las cifras anteriores. Y ambas siguen creciendo rápido.\n\nLos números del futuro: en 1975 había 8 [[megaciudades|Ciudades de más de 10 millones de habitantes.]]; en 2025, 33. Para 2050 la ONU proyecta 37, con nuevas como Adís Abeba, Dar es-Salam y Kuala Lumpur. Hoy el 45% de los 8,200 millones de personas vive en ciudades; en 1950 era el 20%. Dos tercios del crecimiento hasta 2050 serán urbanos.\n\nUn dato para casa: con el nuevo método, el informe señala que la Ciudad de México ha perdido población. Cómo mides cambia lo que ves.",
+   "tiempo": "futuro",
+   "titulo": "Yakarta, la nueva ciudad más grande del mundo"
+  }
+ ],
+ "microexamen": [
+  {
+   "correcta": 1,
+   "explicacion": "El 5 de octubre de 1982 retiró unos 31 millones de frascos, con valor de venta de más de 100 millones de dólares, aunque las muertes ocurrieron solo en el área de Chicago.",
+   "opciones": [
+    "Unos 3 millones, solo en Chicago",
+    "Unos 31 millones, en todo el país",
+    "Ninguno: solo cambió el empaque"
+   ],
+   "origen": "historia",
+   "pregunta": "¿Cuántos frascos de Tylenol retiró Johnson & Johnson en 1982?"
+  },
+  {
+   "correcta": 2,
+   "explicacion": "La Federación pondría entre 12 y 13 mil millones para el Acueducto Sustituto de Chapala (dos a tres años). Jalisco haría las obras de corto plazo, como la planta de Miravalle.",
+   "opciones": [
+    "Las pipas y cisternas del tandeo",
+    "La modernización de la planta de Miravalle",
+    "El Acueducto Sustituto de Chapala"
+   ],
+   "origen": "noticias",
+   "pregunta": "En el acuerdo del 21 de octubre, ¿qué obra para el agua de Guadalajara le toca al gobierno federal?"
+  },
+  {
+   "correcta": 0,
+   "explicacion": "Yakarta, con casi 42 millones, seguida de Daca (casi 40) y Tokio (33), con el nuevo método del Grado de Urbanización.",
+   "opciones": [
+    "Yakarta",
+    "Tokio",
+    "Ciudad de México"
+   ],
+   "origen": "materias",
+   "pregunta": "Según la ONU (2025), ¿qué ciudad es hoy la más poblada del mundo?"
+  }
+ ],
+ "noticias": [
+  {
+   "aMiQue": "Nada de esto cambia el calendario de tandeos: ninguna fuente reporta que se acorten. Lo que puede aliviar los próximos meses son las obras estatales en Miravalle, no el acueducto, que tardará años. Si tu operación, tu bodega o tus clientes de restaurante están en zonas de corte, sigue planeando con cisterna y pipas hasta marzo de 2027.",
+   "ambito": "jalisco",
+   "ambitoTexto": "Guadalajara",
+   "contexto": "**Hecho:** hubo acuerdo y se anunciaron montos. **Pendiente:** las cifras se presentaron como estimaciones y el esquema de financiamiento no se ha publicado; Conagua se reuniría con Jalisco el 21 y el 22 de octubre para definirlo. **Diferencia de versiones:** Sheinbaum dijo que la Federación «va a aportar los recursos, todo»; Lemus habló de un esquema mixto con montos similares. Ambos dijeron que no habrá deuda ni privatización del agua.",
+   "fecha": "2026-10-21",
+   "fuentes": [
+    {
+     "nombre": "La Razón: Federación y Jalisco dan 25 mmdp a plan hídrico",
+     "url": "https://www.razon.com.mx/mexico/2026/10/22/federacion-y-jalisco-dan-25-mmdp-a-plan-hidrico/"
+    },
+    {
+     "nombre": "El Informador (EFE): Sheinbaum anuncia apoyo federal",
+     "url": "https://www.informador.mx/jalisco/sheinbaum-anuncia-apoyo-federal-para-planta-potabilizadora-en-jalisco-20261021-0067.html"
+    },
+    {
+     "nombre": "LJA: Sheinbaum y Lemus pactan obras",
+     "url": "https://www.lja.mx/2026/10/sheinbaum-y-lemus-pactan-obras-contra-la-crisis-del-agua-en-guadalajara-jalisco/"
+    }
+   ],
+   "historiaEnCurso": {
+    "capitulo": 3,
+    "dondeIbamos": "Tandeos en 627 colonias hasta marzo de 2027; Coparmex calculó 112,801 negocios y 820 mil trabajadores en zonas de corte.",
+    "id": "agua-gdl",
+    "titulo": "Crisis del agua en Guadalajara"
+   },
+   "id": "n1",
+   "quePaso": "El miércoles 21, la presidenta Claudia Sheinbaum y el gobernador Pablo Lemus acordaron en Palacio Nacional un plan contra la crisis del agua. El gobierno federal pondría entre 12 y 13 mil millones de pesos, según un cálculo de Conagua, para el **Acueducto Sustituto de Chapala** y obras complementarias de El Zapotillo, con dos a tres años de ejecución. Jalisco pondría entre 10 y 12 mil millones para obras de corto plazo: ampliar y modernizar la Planta Potabilizadora 1 de Miravalle (unos 7,500 millones), una conducción alterna desde la presa La Calera y nuevos colectores para frenar descargas ilegales al canal y a la presa de Las Pintas.",
+   "queVigilar": "Qué sale de la reunión con Conagua de este jueves, si el Congreso de Jalisco abandona el esquema de financiamiento público-privado y cuándo arrancan las obras de la planta de Miravalle.",
+   "titular": "Federación y Jalisco pactan entre 22 y 25 mil millones de pesos para el agua de Guadalajara"
+  },
+  {
+   "aMiQue": "Petróleo caro y peso débil al mismo tiempo encarecen dos veces lo importado: fletes, botellas, latas, etiquetas y principios activos. Si cotizas en pesos productos con insumos en dólares, revisa los precios con un rango, no con el tipo de cambio de un solo día.",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "contexto": "**Confirmado por varias agencias:** los ataques en Arabia Saudita y sus víctimas. **Sin verificar:** las afirmaciones de la Guardia Revolucionaria iraní sobre barcos alcanzados cerca de Ormuz. La mediación de Qatar y Pakistán sigue sin confirmación oficial. Según datos de PortWatch del FMI citados por la prensa, el 18 de octubre solo cruzaron Ormuz 4 barcos, contra unos 85 diarios antes de la crisis.",
+   "fecha": "2026-10-22",
+   "fuentes": [
+    {
+     "nombre": "Discovery Alert: ataques hutíes llevan el Brent a 110",
+     "url": "https://discoveryalert.com/news/oil-prices-houthi-strikes-saudi-brent-october-2026/"
+    },
+    {
+     "nombre": "Infobae (EFE): el Brent alcanza los 110 dólares",
+     "url": "https://www.infobae.com/america/agencias/2026/10/21/el-petroleo-brent-sube-mas-del-1-y-alcanza-los-110-dolares-pendiente-de-ee-uu-e-iran/"
+    },
+    {
+     "nombre": "El Informador: así amanece el tipo de cambio",
+     "url": "https://www.informador.mx/economia/dolar-hoy-21-de-octubre-asi-amanece-el-tipo-de-cambio-en-bancos-20261021-0049.html"
+    }
+   ],
+   "historiaEnCurso": {
+    "capitulo": 3,
+    "dondeIbamos": "El Brent tocó 111.99 dólares el 20 de octubre y cayó a 108.79 por rumores no confirmados de una mediación de Qatar y Pakistán.",
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo"
+   },
+   "id": "n2",
+   "quePaso": "El miércoles, ataques de los hutíes de Yemen alcanzaron un aeropuerto civil en Dammam (al menos un muerto y ocho heridos, según Reuters) y un dron golpeó un campo petrolero saudí, con dos muertos. Este jueves, a las 04:42 GMT, el Brent subía 1.77% a 110.75 dólares y el WTI 1.47% a 98.58. El miércoles por la mañana el peso cayó 0.85%, a unos 18.58 por dólar, su nivel más débil desde noviembre del año pasado según Bloomberg.",
+   "queVigilar": "Si algún gobierno confirma conversaciones entre Washington y Teherán, y si los ataques a infraestructura saudí continúan. Lo primero bajaría el precio; lo segundo lo subiría.",
+   "titular": "Ataques hutíes en Arabia Saudita devuelven el petróleo arriba de 110 dólares"
+  }
+ ],
+ "numero": 3,
+ "palabra": {
+  "categoria": "Derecho",
+  "definicion": "Que hace fe; que prueba algo de forma fidedigna, sin dejar lugar a duda.",
+  "ejemplo": "El sello intacto es prueba fehaciente de que nadie abrió el frasco antes que tú.",
+  "origen": "Del antiguo *fefaciente*, formado por *fe* y el antiguo *faciente*, «que hace». Literalmente, «que hace fe».",
+  "palabra": "Fehaciente",
+  "pronunciacion": "fe-a-CIEN-te",
+  "repaso": {
+   "pregunta": "¿Qué significa «fehaciente» y de dónde viene?",
+   "respuesta": "Que hace fe, fidedigno. De «fe» y el antiguo «faciente», «que hace»."
+  }
+ },
+ "portada": {
+  "alt": "Frasco de Tylenol visto de cerca",
+  "credito": "Wikimedia Commons",
+  "pie": "Un frasco de Tylenol. Su tapa, su sello y su caja nacieron de una tragedia en 1982.",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tylenol_bottle_closeup.jpg?width=900"
+ },
+ "proximo": "Kodak inventó la cámara digital en 1975 y la guardó",
+ "schemaVersion": 5,
+ "temporada": {
+  "episodio": 3,
+  "id": "t01",
+  "numero": 1,
+  "titulo": "Decisiones bajo presión",
+  "totalEpisodios": 6
+ },
+ "titulo": "Tylenol 1982: retirar 31 millones de frascos para salvar la marca"
+}

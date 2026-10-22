@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-21",
+ "actualizado": "2026-10-22",
  "lista": [
   {
    "episodios": [
@@ -12,6 +12,7 @@
      "titulo": "Apolo 13: cómo meter un filtro cuadrado en un hueco redondo"
     },
     {
+     "fecha": "2026-10-22",
      "titulo": "Tylenol 1982: retirar 31 millones de frascos para salvar la marca"
     },
     {
@@ -31,124 +32,124 @@
    "titulo": "Decisiones bajo presión"
   },
   {
+   "episodios": [],
+   "estado": "pendiente",
    "id": "t02",
    "numero": 2,
-   "titulo": "Florencia: la ciudad que inventó el Renacimiento",
    "para": "Arte, poder y dinero en la ciudad de los Medici.",
-   "estado": "pendiente",
-   "episodios": []
+   "titulo": "Florencia: la ciudad que inventó el Renacimiento"
   },
   {
+   "episodios": [],
+   "estado": "pendiente",
    "id": "t03",
    "numero": 3,
-   "titulo": "Grandes discursos que cambiaron la historia",
    "para": "De Pericles a Martin Luther King: cómo se construye una palabra que mueve multitudes.",
-   "estado": "pendiente",
-   "episodios": []
+   "titulo": "Grandes discursos que cambiaron la historia"
   },
   {
+   "episodios": [],
+   "estado": "pendiente",
    "id": "t04",
    "numero": 4,
-   "titulo": "El arte de la mesa",
    "para": "Vino, cocina y los oficios detrás del buen gusto.",
-   "estado": "pendiente",
-   "episodios": []
+   "titulo": "El arte de la mesa"
   },
   {
+   "episodios": [],
+   "estado": "pendiente",
    "id": "t05",
    "numero": 5,
-   "titulo": "El cosmos: del cielo de los griegos al telescopio James Webb",
    "para": "Cómo aprendimos dónde estamos en el universo.",
-   "estado": "pendiente",
-   "episodios": []
+   "titulo": "El cosmos: del cielo de los griegos al telescopio James Webb"
   },
   {
+   "episodios": [],
+   "estado": "pendiente",
    "id": "t06",
    "numero": 6,
-   "titulo": "París: cómo se hizo la capital del gusto",
    "para": "Moda, perfume, urbanismo y cultura francesa.",
-   "estado": "pendiente",
-   "episodios": []
+   "titulo": "París: cómo se hizo la capital del gusto"
   },
   {
+   "episodios": [],
+   "estado": "pendiente",
    "id": "t07",
    "numero": 7,
-   "titulo": "Las religiones que formaron el mundo",
    "para": "Sus textos, sus ideas y su huella en el arte y la política.",
-   "estado": "pendiente",
-   "episodios": []
+   "titulo": "Las religiones que formaron el mundo"
   },
   {
+   "episodios": [],
+   "estado": "pendiente",
    "id": "t08",
    "numero": 8,
-   "titulo": "Cine: los directores que cambiaron la mirada",
    "para": "Autores, escenas y fotografía que conviene conocer.",
-   "estado": "pendiente",
-   "episodios": []
+   "titulo": "Cine: los directores que cambiaron la mirada"
   },
   {
+   "episodios": [],
+   "estado": "pendiente",
    "id": "t09",
    "numero": 9,
-   "titulo": "Cómo te manipulan",
    "para": "Pensamiento crítico y defensa contra la persuasión.",
-   "estado": "pendiente",
-   "episodios": []
+   "titulo": "Cómo te manipulan"
   },
   {
+   "episodios": [],
+   "estado": "pendiente",
    "id": "t10",
    "numero": 10,
-   "titulo": "Juicios que cambiaron el mundo",
    "para": "Derecho con historia y consecuencias.",
-   "estado": "pendiente",
-   "episodios": []
+   "titulo": "Juicios que cambiaron el mundo"
   },
   {
+   "episodios": [],
+   "estado": "pendiente",
    "id": "t11",
    "numero": 11,
-   "titulo": "Cómo se construye una marca que dura",
    "para": "Las casas de lujo y lo que enseñan sobre el valor.",
-   "estado": "pendiente",
-   "episodios": []
+   "titulo": "Cómo se construye una marca que dura"
   },
   {
+   "episodios": [],
+   "estado": "pendiente",
    "id": "t12",
    "numero": 12,
-   "titulo": "La música que hay que conocer",
    "para": "Obras y compositores que conviene saber escuchar.",
-   "estado": "pendiente",
-   "episodios": []
+   "titulo": "La música que hay que conocer"
   },
   {
+   "episodios": [],
+   "estado": "pendiente",
    "id": "t13",
    "numero": 13,
-   "titulo": "México que no te contaron",
    "para": "Entender el país con contexto.",
-   "estado": "pendiente",
-   "episodios": []
+   "titulo": "México que no te contaron"
   },
   {
+   "episodios": [],
+   "estado": "pendiente",
    "id": "t14",
    "numero": 14,
-   "titulo": "Historias detrás de las obras",
    "para": "Los secretos de las pinturas más famosas.",
-   "estado": "pendiente",
-   "episodios": []
+   "titulo": "Historias detrás de las obras"
   },
   {
+   "episodios": [],
+   "estado": "pendiente",
    "id": "t15",
    "numero": 15,
-   "titulo": "Edificios que cambiaron cómo vivimos",
    "para": "Arquitectura que se recuerda, de Roma a Barragán.",
-   "estado": "pendiente",
-   "episodios": []
+   "titulo": "Edificios que cambiaron cómo vivimos"
   },
   {
+   "episodios": [],
+   "estado": "pendiente",
    "id": "t16",
    "numero": 16,
-   "titulo": "Mitos griegos que seguimos viviendo",
    "para": "Los relatos que explican nuestras palabras y obsesiones.",
-   "estado": "pendiente",
-   "episodios": []
+   "titulo": "Mitos griegos que seguimos viviendo"
   }
  ]
 }

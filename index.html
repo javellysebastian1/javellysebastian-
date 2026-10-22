@@ -279,6 +279,31 @@ textarea,input[type=text]{width:100%;padding:12px 14px;border:1px solid var(--li
 .dato .txt,.mcard .txt{display:flex;flex-direction:column;gap:12px}
 .dato .txt p{font-family:var(--read);font-size:18px;line-height:1.6;color:var(--muted)}
 
+
+/* Facts */
+.flist{display:flex;flex-direction:column}
+.fitem{display:grid;grid-template-columns:76px minmax(0,1fr) auto;gap:12px;align-items:center;border:0;border-bottom:1px solid var(--line);background:transparent;padding:12px 0;text-align:left;width:100%;min-height:56px}
+.fitem .ep{font-family:var(--display);font-size:17px;line-height:1.1;color:var(--c,var(--gold))}
+.fitem .m{display:block;font-size:10px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.fitem .tt{display:block;font-weight:600;line-height:1.3}
+.dato .y.sm{font-size:38px;line-height:1}
+.fact{background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--c,var(--gold));border-radius:6px;padding:16px;display:flex;flex-direction:column;gap:10px}
+.fact .fh{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+.fact .ep{font-family:var(--display);font-size:22px;line-height:1;color:var(--c,var(--gold))}
+.fact h4{margin:0;font-family:var(--display);font-weight:400;font-size:22px;line-height:1.15}
+.fact .lead{font-family:var(--read);font-size:18px;line-height:1.45}
+.fact .txt{display:flex;flex-direction:column;gap:10px}
+.fact .txt p{font-family:var(--read);font-size:16.5px;line-height:1.6;color:var(--muted)}
+.fact details{border-top:1px solid var(--line);padding-top:10px}
+.fact summary{cursor:pointer;font-size:13px;font-weight:600;color:var(--muted);min-height:32px;display:flex;align-items:center}
+.fact .old{display:flex;flex-direction:column;gap:6px;padding:10px 0;border-bottom:1px solid var(--line)}
+.fact .old:last-child{border-bottom:0}
+.fact .old b{font-weight:600}
+.fact .old p{font-family:var(--read);font-size:15.5px;line-height:1.5;color:var(--muted)}
+.fdots{display:flex;gap:4px;flex-wrap:wrap}
+.fdots span{flex:1;min-width:10px;height:3px;background:var(--line)}
+.fdots span.on{background:var(--gold)}
+
 /* Reproductor */
 .player{position:fixed;left:0;right:0;bottom:calc(74px + env(safe-area-inset-bottom,0px));z-index:6;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 .player-in{max-width:560px;margin:0 auto;background:var(--ink);color:var(--ink-fg);border:1px solid var(--ink-line);border-radius:6px;padding:8px 10px;display:flex;align-items:center;gap:8px;box-shadow:0 8px 28px rgba(0,0,0,.35)}
@@ -336,7 +361,7 @@ var PASOS={
   noticias:{t:'Lo que importa hoy',min:5},
   historia:{t:'La historia del día',min:9},
   materias:{t:'Gabinete de materias',min:6},
-  datos:{t:'Ayer · Hoy · Mañana',min:3},
+  datos:{t:'Facts del día',min:5},
   rapido:{t:'Dato curioso',min:2},
   lectura:{t:'Lectura',min:9},
   cierre:{t:'Palabra, francés y cierre',min:4},
@@ -344,7 +369,7 @@ var PASOS={
 };
 var MODOS={
   rescate:{t:'Rescate',s:'10 min',pasos:['calentamiento','historia','cierre']},
-  base:{t:'Base',s:'38 min',pasos:['calentamiento','noticias','historia','materias','datos','lectura','cierre']},
+  base:{t:'Base',s:'40 min',pasos:['calentamiento','noticias','historia','materias','datos','lectura','cierre']},
   largo:{t:'Largo',s:'40 min +',pasos:['calentamiento','noticias','historia','materias','datos','lectura','cierre','libro']}
 };
 var FORMATOS={adivinaNumero:'Adivina el número',queHarias:'¿Qué harías?',dilema:'Dilema',mitoRealidad:'¿Mito o realidad?',diaQueCambio:'El día que cambió todo',sigueDinero:'Sigue el dinero',elCaso:'El caso',comoFunciona:'Cómo funciona',miraEscucha:'Mira o escucha',desarmado:'Desarmado'};
@@ -354,46 +379,46 @@ var ROM=['I','II','III','IV','V','VI','VII','VIII','IX','X'];
 /* ---------- El hombre completo: 8 pilares, 26 materias ---------- */
 var PILARES=[
  {id:'mente',n:'Mente',lema:'Pensar con claridad',d:'Razonar, decidir y hablar mejor que la mayoría. La base de todo lo demás.',m:[
-  {n:'Filosofía para vivir',d:'Las escuelas que enseñan a vivir: estoicos, epicúreos, Montaigne, los existencialistas.',e:['Sócrates','Marco Aurelio','Séneca','Montaigne','Nietzsche'],p:['El juicio de Sócrates (399 a. C.)','De Zenón a Marco Aurelio: la Stoa'],h:['Por qué el estoicismo volvió','Ética de la vida digital'],f:['¿Qué es una buena vida con IA?','El debate de vivir 120 años']},
-  {n:'Mente y decisiones',d:'Sesgos, probabilidad y cómo decidir cuando no tienes toda la información.',e:['Kahneman y Tversky','Costo hundido','Sesgo de confirmación','Valor esperado','Pensar al revés (Munger)'],p:['Pascal y Fermat inventan la probabilidad (1654)','El experimento de Asch (1951)'],h:['Cómo te diseñan las apps','Decidir con datos sin engañarte'],f:['Decidir junto a una IA','La atención como recurso escaso']},
-  {n:'Retórica y oratoria',d:'Persuadir, contar historias y hablar en público con autoridad.',e:['Ethos, pathos, logos','Cicerón','Lincoln en Gettysburg','Churchill','Martin Luther King'],p:['La oración fúnebre de Pericles','Cicerón contra Catilina'],h:['Anatomía de una gran charla','Cómo se arma un discurso político'],f:['Voces sintéticas: ¿en quién confiar?']}
+  {n:'Filosofía para vivir',d:'Las escuelas que enseñaron a vivir, no solo a pensar: estoicos, epicúreos, Montaigne, Nietzsche. Cada idea se ve en una decisión real, con la persona y el contexto que la produjo.',e:['Sócrates','Marco Aurelio','Séneca','Montaigne','Nietzsche'],p:['El juicio de Sócrates (399 a. C.)','De Zenón a Marco Aurelio: la Stoa'],h:['Por qué el estoicismo volvió','Ética de la vida digital'],f:['¿Qué es una buena vida con IA?','El debate de vivir 120 años']},
+  {n:'Mente y decisiones',d:'Cómo decide de verdad el cerebro: sesgos, probabilidad y atajos que fallan. Sirve para negociar, invertir y no dejarse engañar por cifras o por la propia intuición.',e:['Kahneman y Tversky','Costo hundido','Sesgo de confirmación','Valor esperado','Pensar al revés (Munger)'],p:['Pascal y Fermat inventan la probabilidad (1654)','El experimento de Asch (1951)'],h:['Cómo te diseñan las apps','Decidir con datos sin engañarte'],f:['Decidir junto a una IA','La atención como recurso escaso']},
+  {n:'Retórica y oratoria',d:'Por qué unas palabras mueven a millones y otras se olvidan. Discursos célebres desarmados para ver la técnica que los hace funcionar y poder usarla.',e:['Ethos, pathos, logos','Cicerón','Lincoln en Gettysburg','Churchill','Martin Luther King'],p:['La oración fúnebre de Pericles','Cicerón contra Catilina'],h:['Anatomía de una gran charla','Cómo se arma un discurso político'],f:['Voces sintéticas: ¿en quién confiar?']}
  ]},
  {id:'caracter',n:'Carácter',lema:'Gobernarse a uno mismo',d:'Disciplina, liderazgo y relaciones: lo que convierte el conocimiento en una vida.',m:[
-  {n:'Disciplina y hábitos',d:'Cómo se construye una voluntad que no depende del ánimo.',e:['Las 13 virtudes de Franklin','Aristóteles: somos lo que hacemos','Sueño','Trabajo profundo','El diario'],p:['Las 13 virtudes de Benjamin Franklin','Las Cartas a Lucilio de Séneca'],h:['La ciencia de los hábitos','Dopamina y distracción'],f:['Concentrarse en la era de las notificaciones']},
-  {n:'Liderazgo e influencia',d:'Cómo mueven a otros los que saben mandar, negociar y sostener una crisis.',e:['Shackleton','Lincoln','Maquiavelo','Sun Tzu','Negociar por intereses'],p:['Shackleton y el Endurance (1914–1916)','El gabinete de rivales de Lincoln'],h:['Cómo lideran las empresas que duran','Negociación al estilo Harvard'],f:['Liderar equipos de personas y agentes de IA']},
-  {n:'Relaciones y vida social',d:'Conversación, amistad, carisma, pareja y familia.',e:['El estudio de Harvard sobre la vida adulta','La amistad en Aristóteles','Escuchar de verdad','Dale Carnegie'],p:['Los salones de París del siglo XVIII','La amistad según Aristóteles'],h:['La epidemia de soledad','El arte de conversar'],f:['Amistad y comunidad en un mundo remoto']}
+  {n:'Disciplina y hábitos',d:'Lo que la ciencia y las vidas notables enseñan sobre la constancia: cómo se forma un hábito, por qué se rompe y cómo se sostiene sin depender del ánimo.',e:['Las 13 virtudes de Franklin','Aristóteles: somos lo que hacemos','Sueño','Trabajo profundo','El diario'],p:['Las 13 virtudes de Benjamin Franklin','Las Cartas a Lucilio de Séneca'],h:['La ciencia de los hábitos','Dopamina y distracción'],f:['Concentrarse en la era de las notificaciones']},
+  {n:'Liderazgo e influencia',d:'Cómo han movido a otros los que mandaron bien en crisis reales: exploradores, presidentes, generales y empresarios. Qué hicieron y qué dice la evidencia.',e:['Shackleton','Lincoln','Maquiavelo','Sun Tzu','Negociar por intereses'],p:['Shackleton y el Endurance (1914–1916)','El gabinete de rivales de Lincoln'],h:['Cómo lideran las empresas que duran','Negociación al estilo Harvard'],f:['Liderar equipos de personas y agentes de IA']},
+  {n:'Relaciones y vida social',d:'Amistad, conversación, carisma y familia vistas con historia y con datos: qué hace que una relación dure y por qué importa tanto para vivir bien.',e:['El estudio de Harvard sobre la vida adulta','La amistad en Aristóteles','Escuchar de verdad','Dale Carnegie'],p:['Los salones de París del siglo XVIII','La amistad según Aristóteles'],h:['La epidemia de soledad','El arte de conversar'],f:['Amistad y comunidad en un mundo remoto']}
  ]},
  {id:'cuerpo',n:'Cuerpo',lema:'Energía para todo lo demás',d:'Salud, fuerza y longevidad con evidencia, sin modas.',m:[
-  {n:'Salud y longevidad',d:'Sueño, nutrición, ejercicio y lo que la ciencia sabe de vivir más y mejor.',e:['VO₂ máx.','Fuerza muscular','Sueño de 7 a 9 horas','Zonas azules','Metabolismo'],p:['Hipócrates y el nacimiento de la medicina','Fleming y la penicilina (1928)'],h:['Ejercicio y longevidad: qué dice la ciencia','Los fármacos GLP-1'],f:['Medicina personalizada y CRISPR']},
-  {n:'Deporte y aire libre',d:'El deporte como cultura, disciplina y aventura.',e:['Olimpia','El maratón','Everest 1953','Tenis y golf','Montañismo'],p:['Los primeros Juegos de Olimpia (776 a. C.)','Hillary y Tenzing en el Everest (1953)'],h:['La ciencia del rendimiento','Deportes de resistencia'],f:['¿Dónde está el límite humano?']}
+  {n:'Salud y longevidad',d:'Lo que la medicina sabe con evidencia sólida sobre vivir más y mejor: sueño, músculo, corazón, alimentación y los avances que están cambiando la medicina.',e:['VO₂ máx.','Fuerza muscular','Sueño de 7 a 9 horas','Zonas azules','Metabolismo'],p:['Hipócrates y el nacimiento de la medicina','Fleming y la penicilina (1928)'],h:['Ejercicio y longevidad: qué dice la ciencia','Los fármacos GLP-1'],f:['Medicina personalizada y CRISPR']},
+  {n:'Deporte y aire libre',d:'El deporte como cultura y como límite humano: hazañas, récords, expediciones y la ciencia que explica el rendimiento.',e:['Olimpia','El maratón','Everest 1953','Tenis y golf','Montañismo'],p:['Los primeros Juegos de Olimpia (776 a. C.)','Hillary y Tenzing en el Everest (1953)'],h:['La ciencia del rendimiento','Deportes de resistencia'],f:['¿Dónde está el límite humano?']}
  ]},
  {id:'cultura',n:'Cultura',lema:'Lo mejor que ha hecho la humanidad',d:'Arte, música, letras, cine y fe: lo que distingue a una mente culta.',m:[
-  {n:'Arte y pintura',d:'Cómo mirar un cuadro y las historias detrás de las obras.',e:['Giotto','Leonardo','Caravaggio','Velázquez','Goya','Monet','Picasso','Frida Kahlo'],p:['Florencia y el Renacimiento','Las Meninas','El impresionismo'],h:['Subastas y el mercado del arte','Museos que hay que visitar'],f:['Arte con IA: ¿quién es el autor?']},
-  {n:'Arquitectura y diseño',d:'Edificios y objetos que cambiaron cómo vivimos.',e:['El Panteón','Las catedrales góticas','Brunelleschi','Bauhaus','Le Corbusier','Luis Barragán'],p:['El Panteón de Roma','La cúpula de Brunelleschi'],h:['Ciudades que se rediseñan','El diseño de todos los días'],f:['Rascacielos de madera e impresión 3D']},
-  {n:'Música',d:'Obras y compositores que conviene saber escuchar.',e:['Bach','Mozart','Beethoven','Stravinsky','Miles Davis','The Beatles'],p:['La Novena de Beethoven (1824)','El escándalo de La consagración (1913)'],h:['Cómo escuchar una sinfonía','El negocio del streaming'],f:['Música compuesta por máquinas']},
-  {n:'Literatura y mitología',d:'Los relatos que explican nuestras palabras y obsesiones.',e:['Homero','Dante','Cervantes','Shakespeare','Dostoievski','Borges','García Márquez','Octavio Paz'],p:['La Odisea','Don Quijote (1605)'],h:['El Nobel de Literatura','Los libros que se discuten hoy'],f:['El futuro de la lectura']},
-  {n:'Cine y fotografía',d:'Directores, escenas y fotógrafos que cambiaron la mirada.',e:['Kurosawa','Bergman','Fellini','Kubrick','Tarkovski','Cuarón','Del Toro','Cartier-Bresson'],p:['Los hermanos Lumière (1895)','El neorrealismo italiano'],h:['El cine de autor hoy','Cómo leer una escena'],f:['Cine hecho con IA']},
-  {n:'Religiones y grandes textos',d:'Los textos y las ideas que formaron civilizaciones.',e:['La Biblia','El Corán','Bhagavad Gita','Tao Te Ching','El budismo'],p:['El Concilio de Nicea (325)','La Reforma de Lutero (1517)'],h:['El mapa religioso del mundo','Religión y política'],f:['Espiritualidad sin religión']}
+  {n:'Arte y pintura',d:'Cómo mirar un cuadro: quién lo pintó, para quién, qué esconde y por qué cambió la historia del arte. Obras concretas, no listas de nombres.',e:['Giotto','Leonardo','Caravaggio','Velázquez','Goya','Monet','Picasso','Frida Kahlo'],p:['Florencia y el Renacimiento','Las Meninas','El impresionismo'],h:['Subastas y el mercado del arte','Museos que hay que visitar'],f:['Arte con IA: ¿quién es el autor?']},
+  {n:'Arquitectura y diseño',d:'Edificios y objetos que cambiaron cómo vivimos, explicados por dentro: cómo se sostienen, qué problema resolvieron y por qué siguen influyendo.',e:['El Panteón','Las catedrales góticas','Brunelleschi','Bauhaus','Le Corbusier','Luis Barragán'],p:['El Panteón de Roma','La cúpula de Brunelleschi'],h:['Ciudades que se rediseñan','El diseño de todos los días'],f:['Rascacielos de madera e impresión 3D']},
+  {n:'Música',d:'Las obras y los músicos que conviene saber escuchar, con la historia detrás y qué oír exactamente para disfrutarlas más.',e:['Bach','Mozart','Beethoven','Stravinsky','Miles Davis','The Beatles'],p:['La Novena de Beethoven (1824)','El escándalo de La consagración (1913)'],h:['Cómo escuchar una sinfonía','El negocio del streaming'],f:['Música compuesta por máquinas']},
+  {n:'Literatura y mitología',d:'Los relatos que siguen dentro de nuestras palabras y obsesiones: de Homero a García Márquez, con el contexto que los vuelve vivos.',e:['Homero','Dante','Cervantes','Shakespeare','Dostoievski','Borges','García Márquez','Octavio Paz'],p:['La Odisea','Don Quijote (1605)'],h:['El Nobel de Literatura','Los libros que se discuten hoy'],f:['El futuro de la lectura']},
+  {n:'Cine y fotografía',d:'Directores, escenas y fotografías que cambiaron la forma de mirar: cómo se hicieron y qué fijarse para entenderlas.',e:['Kurosawa','Bergman','Fellini','Kubrick','Tarkovski','Cuarón','Del Toro','Cartier-Bresson'],p:['Los hermanos Lumière (1895)','El neorrealismo italiano'],h:['El cine de autor hoy','Cómo leer una escena'],f:['Cine hecho con IA']},
+  {n:'Religiones y grandes textos',d:'Los textos y creencias que formaron civilizaciones, contados como historia y cultura, con respeto y sin tomar partido.',e:['La Biblia','El Corán','Bhagavad Gita','Tao Te Ching','El budismo'],p:['El Concilio de Nicea (325)','La Reforma de Lutero (1517)'],h:['El mapa religioso del mundo','Religión y política'],f:['Espiritualidad sin religión']}
  ]},
  {id:'mundo',n:'Mundo',lema:'Entender cómo funciona el poder',d:'Historia, leyes y ciudades: el contexto para leer cualquier noticia.',m:[
-  {n:'Historia y geopolítica',d:'Imperios, guerras y decisiones que explican el mundo actual.',e:['Roma','El imperio mongol','La Revolución francesa','Las guerras mundiales','La Guerra Fría','El México independiente'],p:['La caída de Constantinopla (1453)','La crisis de los misiles (1962)'],h:['Estados Unidos y China','Nearshoring y México'],f:['El mundo de 2050: población y poder']},
-  {n:'Derecho y poder',d:'Juicios, constituciones y reglas que deciden quién manda.',e:['Código de Hammurabi','Carta Magna (1215)','Constitución de 1917','Núremberg','Separación de poderes'],p:['La Carta Magna','Los juicios de Núremberg'],h:['Casos de la Suprema Corte','Cómo se regula la IA'],f:['Leyes para robots y datos']},
-  {n:'Ciudades del mundo',d:'Cómo nacen, se diseñan y se viven las grandes ciudades.',e:['Roma','París','Nueva York','Kioto','Estambul','Ciudad de México'],p:['Tenochtitlan','Haussmann rediseña París'],h:['Las ciudades más habitables','Turismo masivo'],f:['Megaciudades y ciudades inteligentes']}
+  {n:'Historia y geopolítica',d:'Imperios, guerras, mapas y decisiones que explican el mundo de hoy. El contexto que hace falta para leer cualquier noticia.',e:['Roma','El imperio mongol','La Revolución francesa','Las guerras mundiales','La Guerra Fría','El México independiente'],p:['La caída de Constantinopla (1453)','La crisis de los misiles (1962)'],h:['Estados Unidos y China','Nearshoring y México'],f:['El mundo de 2050: población y poder']},
+  {n:'Derecho y poder',d:'Juicios, constituciones y reglas que deciden quién manda y cómo se limita al poder. Casos reales de México y del mundo.',e:['Código de Hammurabi','Carta Magna (1215)','Constitución de 1917','Núremberg','Separación de poderes'],p:['La Carta Magna','Los juicios de Núremberg'],h:['Casos de la Suprema Corte','Cómo se regula la IA'],f:['Leyes para robots y datos']},
+  {n:'Ciudades del mundo',d:'Cómo nacen, se diseñan y se viven las grandes ciudades, contadas a través de un lugar, un barrio o un momento.',e:['Roma','París','Nueva York','Kioto','Estambul','Ciudad de México'],p:['Tenochtitlan','Haussmann rediseña París'],h:['Las ciudades más habitables','Turismo masivo'],f:['Megaciudades y ciudades inteligentes']}
  ]},
  {id:'patrimonio',n:'Patrimonio',lema:'Entender el dinero',d:'Economía, inversión y negocios explicados como cultura, no como consejo.',m:[
-  {n:'Economía y mercados',d:'Inflación, tasas, comercio y crisis: cómo se mueve el dinero del mundo.',e:['Adam Smith','Keynes','Inflación','Tasas de interés','1929 y 2008'],p:['La fiebre de los tulipanes (1637)','Bretton Woods (1944)'],h:['Inflación y tasas: cómo te afectan','Aranceles y comercio'],f:['Monedas digitales de los bancos centrales']},
-  {n:'Inversión y finanzas personales',d:'Los conceptos que usan los que construyen patrimonio. Cultura financiera, no recomendaciones.',e:['Interés compuesto','Diversificación','Warren Buffett','Fondos indexados','Riesgo y rendimiento'],p:['La primera bolsa: Ámsterdam (1602)','Benjamin Graham y el inversor inteligente'],h:['La psicología del dinero','Índices y comisiones'],f:['Activos tokenizados']},
-  {n:'Negocios y estrategia',d:'Cómo se construyen, defienden y venden las empresas que duran.',e:['Peter Drucker','Michael Porter','Hermès','Ford Modelo T','Marca y precio'],p:['La línea de montaje de Ford (1913)','La crisis del Tylenol (1982)'],h:['Marcas que duran','Modelos de negocio digitales'],f:['Empresas de una persona con IA']}
+  {n:'Economía y mercados',d:'Inflación, tasas, comercio y crisis: cómo se mueve el dinero del mundo y cómo llega a tu bolsillo y a tu negocio.',e:['Adam Smith','Keynes','Inflación','Tasas de interés','1929 y 2008'],p:['La fiebre de los tulipanes (1637)','Bretton Woods (1944)'],h:['Inflación y tasas: cómo te afectan','Aranceles y comercio'],f:['Monedas digitales de los bancos centrales']},
+  {n:'Inversión y finanzas personales',d:'Los conceptos e historias que usan quienes construyen patrimonio. Cultura financiera, nunca recomendaciones de compra o venta.',e:['Interés compuesto','Diversificación','Warren Buffett','Fondos indexados','Riesgo y rendimiento'],p:['La primera bolsa: Ámsterdam (1602)','Benjamin Graham y el inversor inteligente'],h:['La psicología del dinero','Índices y comisiones'],f:['Activos tokenizados']},
+  {n:'Negocios y estrategia',d:'Cómo se construyen, defienden y venden las empresas y marcas que duran, con casos reales y las ideas que los explican.',e:['Peter Drucker','Michael Porter','Hermès','Ford Modelo T','Marca y precio'],p:['La línea de montaje de Ford (1913)','La crisis del Tylenol (1982)'],h:['Marcas que duran','Modelos de negocio digitales'],f:['Empresas de una persona con IA']}
  ]},
  {id:'futuro',n:'Ciencia y futuro',lema:'Saber hacia dónde vamos',d:'El universo, la ciencia y la tecnología que van a definir tu vida.',m:[
-  {n:'El cosmos',d:'Dónde estamos en el universo y cómo lo descubrimos.',e:['Copérnico','Galileo','Newton','Einstein','Hubble','James Webb'],p:['Galileo apunta al cielo (1609)','Apolo 11 (1969)'],h:['Lo que ve el James Webb','Artemis y el regreso a la Luna'],f:['Marte','El paso de Apofis (2029)']},
-  {n:'Ciencia y tecnología',d:'Los descubrimientos que cambiaron todo y los que vienen.',e:['Darwin','La imprenta','La doble hélice (1953)','La electricidad','Internet','Los semiconductores'],p:['La imprenta de Gutenberg','La doble hélice (1953)'],h:['Chips y geopolítica','Energía y baterías'],f:['Fusión nuclear','Computación cuántica']},
-  {n:'IA y el futuro',d:'Qué es la inteligencia artificial, qué cambia y qué no.',e:['Alan Turing','Aprendizaje automático','Modelos de lenguaje','Automatización','Ética de la IA'],p:['Turing y la máquina que piensa (1950)','Deep Blue vence a Kasparov (1997)'],h:['Qué pueden y qué no pueden hacer hoy','La IA en tu trabajo'],f:['Trabajo, educación y poder con IA']}
+  {n:'El cosmos',d:'Dónde estamos en el universo y cómo lo averiguamos: descubrimientos, misiones y cifras verificadas que cambian la escala de todo.',e:['Copérnico','Galileo','Newton','Einstein','Hubble','James Webb'],p:['Galileo apunta al cielo (1609)','Apolo 11 (1969)'],h:['Lo que ve el James Webb','Artemis y el regreso a la Luna'],f:['Marte','El paso de Apofis (2029)']},
+  {n:'Ciencia y tecnología',d:'Los descubrimientos que cambiaron la vida diaria y los que vienen, explicados por dentro: cómo funcionan y quién los logró.',e:['Darwin','La imprenta','La doble hélice (1953)','La electricidad','Internet','Los semiconductores'],p:['La imprenta de Gutenberg','La doble hélice (1953)'],h:['Chips y geopolítica','Energía y baterías'],f:['Fusión nuclear','Computación cuántica']},
+  {n:'IA y el futuro',d:'Qué es realmente la inteligencia artificial, qué puede y qué no, cómo llegamos aquí y qué está cambiando en el trabajo y la sociedad.',e:['Alan Turing','Aprendizaje automático','Modelos de lenguaje','Automatización','Ética de la IA'],p:['Turing y la máquina que piensa (1950)','Deep Blue vence a Kasparov (1997)'],h:['Qué pueden y qué no pueden hacer hoy','La IA en tu trabajo'],f:['Trabajo, educación y poder con IA']}
  ]},
  {id:'gusto',n:'Gusto',lema:'Saber vivir',d:'Mesa, estilo y maneras: el refinamiento que se nota sin decirlo.',m:[
-  {n:'Gastronomía, vino y destilados',d:'Cocina, vino, tequila, mezcal y café, con su historia.',e:['Escoffier','Regiones del vino','Tequila y mezcal','Café de especialidad','Cocina mexicana, patrimonio UNESCO (2010)'],p:['Escoffier y la brigada de cocina','La plaga de la filoxera'],h:['Cómo leer una carta de vinos','Tequila contra mezcal'],f:['La comida del futuro']},
-  {n:'Oficios del lujo y estilo',d:'Sastrería, relojería, perfume y piel: cómo se reconoce la calidad.',e:['Savile Row','Relojería suiza','Hermès','Calzado Goodyear','Grasse'],p:['Savile Row y el traje a medida','Grasse, capital del perfume'],h:['Vestir bien sin seguir la moda','Cómo se reconoce la calidad'],f:['Lujo, artesanía y sostenibilidad']},
-  {n:'Etiqueta y protocolo',d:'Mesa, vestimenta, regalos y presentaciones: maneras que abren puertas.',e:['La mesa formal','Códigos de vestimenta','Presentar a otros','Regalos','Cartas de agradecimiento'],p:['Versalles y la etiqueta de Luis XIV','El Manual de Carreño (1853)'],h:['Etiqueta de negocios','Protocolo en otros países'],f:['Modales en un mundo híbrido']}
+  {n:'Gastronomía, vino y destilados',d:'Cocina, vino, tequila, mezcal y café con su historia: de dónde vienen los sabores y cómo se reconoce la calidad.',e:['Escoffier','Regiones del vino','Tequila y mezcal','Café de especialidad','Cocina mexicana, patrimonio UNESCO (2010)'],p:['Escoffier y la brigada de cocina','La plaga de la filoxera'],h:['Cómo leer una carta de vinos','Tequila contra mezcal'],f:['La comida del futuro']},
+  {n:'Oficios del lujo y estilo',d:'Sastrería, relojería, perfume y piel: los oficios detrás del lujo y las señales concretas que distinguen la calidad.',e:['Savile Row','Relojería suiza','Hermès','Calzado Goodyear','Grasse'],p:['Savile Row y el traje a medida','Grasse, capital del perfume'],h:['Vestir bien sin seguir la moda','Cómo se reconoce la calidad'],f:['Lujo, artesanía y sostenibilidad']},
+  {n:'Etiqueta y protocolo',d:'Mesa, vestimenta, regalos y presentaciones, con el origen histórico de cada regla y cuándo conviene seguirla.',e:['La mesa formal','Códigos de vestimenta','Presentar a otros','Regalos','Cartas de agradecimiento'],p:['Versalles y la etiqueta de Luis XIV','El Manual de Carreño (1853)'],h:['Etiqueta de negocios','Protocolo en otros países'],f:['Modales en un mundo híbrido']}
  ]}
 ];
 var SEMANA=[
@@ -461,7 +486,7 @@ function lsSet(k,v){try{localStorage.setItem(k,v);}catch(e){}}
 
 var S={
   db:null,sample:null,downloads:null,
-  view:'home',pilar:null,edition:null,temporadas:null,prog:{},semana:[],pendientes:[],
+  view:'home',pilar:null,edition:null,temporadas:null,hechos:null,prog:{},semana:[],pendientes:[],
   archivo:null,progTodo:null,deArchivo:false,
   modo:(lsGet('auxo.modo')||'base'),
   flow:null,
@@ -496,7 +521,8 @@ function cargar(){
     return S.db.collection('editions').orderBy('fecha','desc').limit(1).get().then(function(q){return q.empty?null:q.docs[0].data();});
   }).then(function(ed){
     S.edition=ed;
-    var tasks=[S.db.doc('meta/temporadas').get().then(function(s){S.temporadas=s.exists?s.data():null;})];
+    var tasks=[S.db.doc('meta/temporadas').get().then(function(s){S.temporadas=s.exists?s.data():null;}),
+      S.db.doc('meta/hechos').get().then(function(s){S.hechos=s.exists?s.data():null;}).catch(function(){S.hechos=null;})];
     if(ed)tasks.push(cargarProg(ed.fecha));
     tasks.push(cargarSemana());
     tasks.push(cargarRepaso());
@@ -599,12 +625,40 @@ function sembrarExtras(p){
     (ed.lectura.repaso||[]).forEach(function(r,i){items.push({id:'l-'+ed.fecha+'-'+i,r:r});});
     S.prog.lecturaSembrada=true;
   }
-  if(p==='datos'&&ed.datos&&!S.prog.datosSembrados){
-    ['pasado','presente','futuro'].forEach(function(k,i){var d=ed.datos[k];if(d&&d.repaso)items.push({id:'d-'+ed.fecha+'-'+i,r:d.repaso});});
+  if(p==='datos'&&listaHechos(ed).length&&!S.prog.datosSembrados){
+    listaHechos(ed).forEach(function(d,i){if(d&&d.repaso)items.push({id:'d-'+ed.fecha+'-'+i,r:d.repaso});});
     S.prog.datosSembrados=true;
   }
   sembrar(items);
   guardarProg();
+}
+
+
+/* Facts: lista unificada (ediciones nuevas: hechos[]; antiguas: datos{pasado,presente,futuro}). */
+function listaHechos(ed){
+  if(!ed)return [];
+  if(ed.hechos&&ed.hechos.length)return ed.hechos.filter(function(h){return h&&h.dato;});
+  if(ed.datos){return ['pasado','presente','futuro'].map(function(k){var d=ed.datos[k];if(!d)return null;return {materia:TIEMPO[k],pilar:d.pilar,epoca:d.cuando,titulo:d.titulo,dato:d.dato,explicacion:d.explicacion,imagen:d.imagen,fuente:d.fuente,repaso:d.repaso};}).filter(Boolean);}
+  return [];
+}
+function hechosDe(materia){
+  var M=(S.hechos&&S.hechos.materias)||{};
+  var l=(M[materia]||[]).slice();
+  var ed=S.edition;
+  if(ed&&ed.hechos)ed.hechos.forEach(function(h){if(h.materia===materia&&!l.some(function(x){return x.titulo===h.titulo;}))l.unshift(Object.assign({fecha:ed.fecha},h));});
+  l.sort(function(a,b){return (b.fecha||'')<(a.fecha||'')?-1:((b.fecha||'')>(a.fecha||'')?1:0);});
+  return l;
+}
+function epocaCls(e){return String(e||'').length>6?'y sm':'y';}
+function bloqueFact(m,p){
+  var L=hechosDe(m.n),H=L[0];
+  if(!H)return '<div class="fact" style="--c:'+colorDe(p)+'"><span class="eyebrow">Fact</span><p class="muted small">El primer fact de esta materia llega con la próxima edición.</p></div>';
+  var old=L.slice(1,8);
+  return '<div class="fact" style="--c:'+colorDe(p)+'"><div class="fh"><span class="eyebrow">Fact</span><span class="ep">'+esc(H.epoca||'')+'</span></div>'+
+    '<h4>'+esc(H.titulo||'')+'</h4>'+figura(H.imagen)+'<p class="lead">'+linea(H.dato||'')+'</p><div class="txt">'+paras(H.explicacion)+'</div>'+fuente(H.fuente)+
+    (H.fecha?'<p class="src">Fact del '+esc(fechaLarga(H.fecha))+'</p>':'')+
+    (old.length?'<details><summary>Facts anteriores ('+old.length+')</summary>'+old.map(function(o){return '<div class="old"><span class="eyebrow" style="color:var(--muted)">'+esc(o.epoca||'')+'</span><b>'+esc(o.titulo||'')+'</b><p>'+linea(o.dato||'')+'</p>'+(o.explicacion?'<div class="txt">'+paras(o.explicacion)+'</div>':'')+fuente(o.fuente)+'</div>';}).join('')+'</details>':'')+
+  '</div>';
 }
 
 /* ---------- Vistas ---------- */
@@ -638,14 +692,14 @@ function vistaError(){
 function pasosActivos(modo){
   var ed=S.edition;
   return MODOS[modo||S.modo].pasos.map(function(p){
-    if(p==='datos'&&!(ed&&ed.datos)&&ed&&ed.rapido)return 'rapido';
+    if(p==='datos'&&!listaHechos(ed).length&&ed&&ed.rapido)return 'rapido';
     return p;
   }).filter(function(p){
     if(p==='libro')return !!(ed&&ed.libro);
     if(p==='materias')return !!(ed&&ed.materias&&ed.materias.length);
     if(p==='lectura')return !!(ed&&ed.lectura);
     if(p==='rapido')return !!(ed&&ed.rapido);
-    if(p==='datos')return !!(ed&&ed.datos);
+    if(p==='datos')return listaHechos(ed).length>0;
     return true;
   });
 }
@@ -655,7 +709,7 @@ function subtitulo(p){
   if(p==='noticias'){var k=(ed.noticias||[]).length;return k?k+(k===1?' noticia':' noticias')+' y por qué te afectan':'Hoy no hay nada urgente';}
   if(p==='historia')return ed.titulo;
   if(p==='rapido')return ed.rapido?ed.rapido.titulo||ed.rapido.dato:'';
-  if(p==='datos')return ed.datos?['pasado','presente','futuro'].map(function(k){return ed.datos[k]&&ed.datos[k].cuando;}).filter(Boolean).join(' · ')||'Tres datos para entender el tiempo':'';
+  if(p==='datos'){var L=listaHechos(ed);return L.length?L.length+(L.length===1?' fact':' facts')+' con su explicación · '+L.slice(0,3).map(function(h){return h.materia;}).join(', ')+(L.length>3?'…':''):'';}
   if(p==='cierre')return (ed.palabra?ed.palabra.palabra+' · ':'')+(ed.frances?'« '+ed.frances.frase+' »':'')+' · 3 preguntas';
   if(p==='libro')return ed.libro?ed.libro.titulo:'';
   if(p==='materias')return (ed.materias||[]).map(function(m){return m.materia;}).join(' · ');
@@ -671,7 +725,7 @@ function pilaresDelDia(ed){
 function vistaHoy(){
   var ed=S.edition;
   if(!ed){
-    return cabecera()+'<div class="card empty"><p class="eyebrow">Todavía no hay edición</p><h2 class="display" style="font-size:30px">Tu primera edición llega por la mañana</h2><p class="muted">Cada día AUXO publica aquí una edición nueva: una historia, tres materias, lectura y francés.</p></div>';
+    return cabecera()+'<div class="card empty"><p class="eyebrow">Todavía no hay edición</p><h2 class="display" style="font-size:30px">Tu primera edición llega por la mañana</h2><p class="muted">Cada día AUXO publica aquí una edición nueva: una historia, materias, facts, lectura y francés.</p></div>';
   }
   var t=ed.temporada||{};
   var pasos=pasosActivos();
@@ -699,9 +753,10 @@ function vistaHoy(){
       '<button type="button" class="btn btn-line btn-block" data-act="podcast">'+ICON.head+'Escuchar como podcast</button></div>'+
     '</div>'+
   '</section>';
-  if(ed.datos){
-    html+='<section style="display:flex;flex-direction:column;gap:12px" aria-labelledby="ahm-t"><div class="sec-h"><h2 id="ahm-t">Ayer · Hoy · Mañana</h2><span>3 min</span></div><div class="ahm">'+
-      ['pasado','presente','futuro'].map(function(k){var d=ed.datos[k]||{};return '<button type="button" data-goto="datos" data-dt="'+k+'"><span class="k">'+TIEMPO[k]+'</span><span class="y">'+esc(d.cuando||'—')+'</span><span class="tt">'+esc(d.titulo||'')+'</span></button>';}).join('')+
+  var LH=listaHechos(ed);
+  if(LH.length){
+    html+='<section style="display:flex;flex-direction:column;gap:4px" aria-labelledby="ahm-t"><div class="sec-h"><h2 id="ahm-t">Facts del día</h2><span>'+LH.length+' facts</span></div><div class="flist">'+
+      LH.map(function(h,i){var pl=PIL[h.pilar]||pilarDe(h.materia);return '<button type="button" class="fitem" style="--c:'+colorDe(pl)+'" data-goto="datos" data-dt="'+i+'"><span class="ep">'+esc(h.epoca||'')+'</span><span><span class="m">'+esc(h.materia||(pl?pl.n:''))+'</span><span class="tt">'+esc(h.titulo||'')+'</span></span>'+ICON.next+'</button>';}).join('')+
     '</div></section>';
   }
   html+='<section style="display:flex;flex-direction:column;gap:4px" aria-labelledby="ruta-t">'+
@@ -735,7 +790,7 @@ function vistaExplorar(){
   var dHoy=new Date(hoy()+'T12:00:00Z').getUTCDay();
   var orden=[1,2,3,4,5,6,0];
   var html=encabezado()+
-  '<div class="page-t"><span class="eyebrow">El plan de formación</span><h1>El hombre completo</h1><p>Ocho pilares y veintiséis materias para una mente culta: lo que pasó, lo que está pasando y lo que viene.</p></div>'+
+  '<div class="page-t"><span class="eyebrow">El plan de formación</span><h1>El hombre completo</h1><p>Ocho pilares y veintiséis materias. Cada materia trae un fact con su explicación, de cualquier época, y se renueva con las ediciones.</p></div>'+
   '<section style="display:flex;flex-direction:column;gap:12px"><div class="sec-h"><h2>Los ocho pilares</h2><span>Toca uno</span></div><div class="pgrid">'+
     PILARES.map(function(p){var w=Math.round(cnt[p.id]*100/mx);return '<button type="button" class="pcard" style="--c:'+colorDe(p)+'" data-pilar="'+p.id+'"><span class="r">'+p.rom+'</span><b>'+esc(p.n)+'</b><span>'+esc(p.lema)+' · '+p.m.length+' materias</span><span class="bar2" aria-hidden="true"><i style="width:'+w+'%"></i></span></button>';}).join('')+
   '</div></section>'+
@@ -751,8 +806,8 @@ function vistaPilar(p){
   '<section class="phero" style="--c:'+colorDe(p)+'"><span class="r">'+p.rom+'</span><span class="eyebrow">'+esc(p.lema)+'</span><h1>'+esc(p.n)+'</h1><p>'+esc(p.d)+'</p><p class="small" style="font-family:var(--ui);color:var(--ink-muted)">'+cnt+(cnt===1?' materia estudiada':' materias estudiadas')+' de este pilar</p></section>'+
   '<section>'+p.m.map(function(m){
     return '<article class="mat"><div class="mtag"><i class="pd" style="--c:'+colorDe(p)+'"></i><span>'+esc(p.n)+'</span></div><h3>'+esc(m.n)+'</h3><p class="dsc">'+esc(m.d)+'</p>'+
-      '<div><p class="eyebrow" style="margin-bottom:8px">Lo esencial</p><div class="ess">'+m.e.map(function(x){return '<span>'+esc(x)+'</span>';}).join('')+'</div></div>'+
-      '<div class="tri"><div><b>Ayer</b><ul>'+m.p.map(function(x){return '<li>'+esc(x)+'</li>';}).join('')+'</ul></div><div><b>Hoy</b><ul>'+m.h.map(function(x){return '<li>'+esc(x)+'</li>';}).join('')+'</ul></div><div><b>Mañana</b><ul>'+m.f.map(function(x){return '<li>'+esc(x)+'</li>';}).join('')+'</ul></div></div></article>';
+      bloqueFact(m,p)+
+      '<div><p class="eyebrow" style="margin-bottom:8px">Nombres que conviene conocer</p><div class="ess">'+m.e.map(function(x){return '<span>'+esc(x)+'</span>';}).join('')+'</div></div></article>';
   }).join('')+'</section>';
 }
 function vistaTemporadas(){
@@ -820,7 +875,7 @@ function abrirFlow(desde,extra){
   var i=desde?Math.max(0,pasos.indexOf(desde)):Math.max(0,pasos.findIndex(function(p){return !(S.prog.pasos||{})[p];}));
   if(i<0)i=0;
   S.prog.modo=S.modo;
-  S.flow={pasos:pasos,i:i,card:0,dt:extra||'pasado',cal:{i:0,show:false,cards:tarjetasCalentamiento()},abierta:0,ask:{open:false,out:'',busy:false}};
+  S.flow={pasos:pasos,i:i,card:0,dt:(+extra||0),cal:{i:0,show:false,cards:tarjetasCalentamiento()},abierta:0,ask:{open:false,out:'',busy:false}};
   if(!S.prog.inicio){S.prog.inicio=new Date().toISOString();guardarProg();}
   renderFlow();
 }
@@ -933,15 +988,16 @@ function pasoRapido(){
     pieSiguiente();
 }
 function pasoDatos(){
-  var D=S.edition.datos||{},k=S.flow.dt||'pasado',d=D[k]||{};
-  var keys=['pasado','presente','futuro'],i=keys.indexOf(k);
-  var nx=keys[i+1];
-  return '<p class="eyebrow">Ayer · Hoy · Mañana</p><h2>Tres datos para entender el tiempo</h2>'+
-    '<div class="tabs" role="tablist">'+keys.map(function(x){return '<button type="button" role="tab" aria-selected="'+(x===k)+'" data-dt="'+x+'">'+TIEMPO[x]+'</button>';}).join('')+'</div>'+
-    '<article class="dato">'+(d.cuando?'<span class="y">'+esc(d.cuando)+'</span>':'')+
-      (d.pilar&&PIL[d.pilar]?'<div class="mtag"><i class="pd" style="--c:'+colorDe(PIL[d.pilar])+'"></i><span>'+esc(PIL[d.pilar].n)+'</span></div>':'')+
-      '<h3>'+esc(d.titulo||'')+'</h3>'+figura(d.imagen)+'<p class="lead">'+linea(d.dato||'')+'</p><div class="txt">'+paras(d.explicacion)+'</div>'+fuente(d.fuente)+'</article>'+
-    (nx?'<div class="flow-foot"><button type="button" class="btn btn-ghost" data-dt="'+nx+'">'+TIEMPO[nx]+ICON.next+'</button></div>':pieSiguiente());
+  var L=listaHechos(S.edition),n=L.length,i=Math.min(Math.max(0,+S.flow.dt||0),Math.max(0,n-1)),d=L[i]||{};
+  var pl=PIL[d.pilar]||pilarDe(d.materia);
+  var dots='<div class="fdots" aria-hidden="true">'+L.map(function(x,j){return '<span class="'+(j<=i?'on':'')+'"></span>';}).join('')+'</div>';
+  var foot='<div class="flow-foot">'+(i>0?'<button type="button" class="icon-btn" style="width:56px;height:52px;border-radius:4px;border:1px solid var(--line)" data-dt="'+(i-1)+'" aria-label="Fact anterior">'+ICON.back+'</button>':'')+
+    (i<n-1?'<button type="button" class="btn btn-primary" data-dt="'+(i+1)+'">Siguiente fact'+ICON.next+'</button>':'<button type="button" class="btn btn-primary" data-act="nextstep">'+esc(S.flow.pasos[S.flow.i+1]?'Siguiente: '+PASOS[S.flow.pasos[S.flow.i+1]].t:'Terminar la edición')+ICON.next+'</button>')+'</div>';
+  return '<p class="eyebrow">Facts del día · '+(i+1)+' de '+n+'</p>'+dots+
+    '<article class="dato">'+
+      '<div class="mtag"><i class="pd" style="--c:'+colorDe(pl)+'"></i><span class="m">'+esc(d.materia||(pl?pl.n:''))+'</span></div>'+
+      (d.epoca?'<span class="'+epocaCls(d.epoca)+'">'+esc(d.epoca)+'</span>':'')+
+      '<h3>'+esc(d.titulo||'')+'</h3>'+figura(d.imagen)+'<p class="lead">'+linea(d.dato||'')+'</p><div class="txt">'+paras(d.explicacion)+'</div>'+fuente(d.fuente)+'</article>'+foot;
 }
 function pasoMaterias(){
   var M=S.edition.materias||[],st=S.prog.materias||{};
@@ -954,7 +1010,7 @@ function pasoMaterias(){
       if(eleg){if(hayCorrecta){if(j===m.correcta)cls=' right';else if(j===s.eleccion)cls=' wrong';}else if(j===s.eleccion)cls=' right';}
       return '<button type="button" class="qopt'+cls+'" data-mopt="'+i+'" data-o="'+j+'"'+(eleg?' disabled':'')+'><span>'+esc(o)+'</span>'+(eleg&&((hayCorrecta&&j===m.correcta)||(!hayCorrecta&&j===s.eleccion))?ICON.check:'')+'</button>';
     }).join('');
-    return '<article class="mcard qz"><div class="mtag"><i class="pd" style="--c:'+colorDe(pl)+'"></i><span class="m">'+esc(m.materia)+'</span><span>'+esc(FORMATOS[m.formato]||m.formato||'')+'</span>'+(m.tiempo&&TIEMPO[m.tiempo]?'<span class="t">'+TIEMPO[m.tiempo]+'</span>':'')+'</div>'+
+    return '<article class="mcard qz"><div class="mtag"><i class="pd" style="--c:'+colorDe(pl)+'"></i><span class="m">'+esc(m.materia)+'</span><span>'+esc(FORMATOS[m.formato]||m.formato||'')+'</span>'+'</div>'+
       '<h3>'+esc(m.titulo)+'</h3>'+figura(m.imagen)+
       (m.contexto?'<div class="txt">'+paras(m.contexto)+'</div>':'')+
       (m.pregunta?'<p class="t1" style="font-size:17px">'+linea(m.pregunta)+'</p>':'')+ops+
@@ -1067,7 +1123,7 @@ function colaPodcast(){
     q.push({t:ETQ[c.tipo]||'Historia',x:plano(x)});
   });
   (ed.materias||[]).forEach(function(m){q.push({t:m.materia,x:plano(m.materia+'. '+m.titulo+'. '+(m.contexto||'')+' '+(m.pregunta||'')+' Piénsalo. '+(m.revelacion||'')+' La idea: '+(m.idea||''))});});
-  if(ed.datos&&S.modo!=='rescate'){['pasado','presente','futuro'].forEach(function(k){var d=ed.datos[k];if(d)q.push({t:TIEMPO[k],x:plano(TIEMPO[k]+'. '+(d.cuando?d.cuando+'. ':'')+d.titulo+'. '+d.dato+' '+(d.explicacion||''))});});}
+  if(listaHechos(ed).length&&S.modo!=='rescate'){listaHechos(ed).forEach(function(d){q.push({t:d.materia||'Fact',x:plano((d.materia?d.materia+'. ':'')+(d.epoca?d.epoca+'. ':'')+d.titulo+'. '+d.dato+' '+(d.explicacion||''))});});}
   else if(ed.rapido&&S.modo!=='rescate')q.push({t:'Dato curioso',x:plano('Dato curioso. '+ed.rapido.dato+' '+ed.rapido.porque+' '+ed.rapido.conexion)});
   if(ed.lectura&&ed.lectura.secciones){
     var lt=ed.lectura.secciones.filter(function(s){return s.tipo==='texto'||s.tipo==='cita'||s.tipo==='subtitulo';}).map(function(s){return plano(s.texto);}).join(' ');
@@ -1090,7 +1146,7 @@ function siguientePodcast(){
     P.on=false;var ed=S.edition;
     marcarPaso('noticias');marcarPaso('historia');
     if(ed.materias){marcarPaso('materias');sembrarExtras('materias');}
-    if(S.modo!=='rescate'){if(ed.datos){marcarPaso('datos');sembrarExtras('datos');}else if(ed.rapido)marcarPaso('rapido');}
+    if(S.modo!=='rescate'){if(listaHechos(ed).length){marcarPaso('datos');sembrarExtras('datos');}else if(ed.rapido)marcarPaso('rapido');}
     sembrarRepaso();mostrarPlayer(null);render();return;
   }
   var it=P.q[P.i];mostrarPlayer(it.t);
@@ -1195,7 +1251,7 @@ function siguientePaso(){
   marcarPaso(p);
   if(p==='historia'||p==='cierre')sembrarRepaso();
   if(p==='materias'||p==='lectura'||p==='datos')sembrarExtras(p);
-  F.i++;F.card=0;F.dt='pasado';
+  F.i++;F.card=0;F.dt=0;
   if(F.i>=F.pasos.length){finDelDia();return;}
   renderFlow();
 }
@@ -1213,20 +1269,20 @@ document.addEventListener('keydown',function(ev){
   if(ev.key==='ArrowRight'){var bn=document.querySelector('[data-act="cardnext"]');if(bn)bn.click();}
   if(ev.key==='ArrowLeft'){var bp=document.querySelector('[data-act="cardprev"]');if(bp&&!bp.disabled)bp.click();}
 });
-/* Deslizar entre tarjetas de la historia y entre ayer, hoy y mañana */
+/* Deslizar entre tarjetas de la historia y entre facts */
 var tx=null;
 document.addEventListener('touchstart',function(e){if(S.flow&&e.target.closest('#story,.dato'))tx=e.touches[0].clientX;else tx=null;},{passive:true});
 document.addEventListener('touchend',function(e){
   if(tx===null)return;var dx=e.changedTouches[0].clientX-tx;tx=null;if(Math.abs(dx)<60)return;
   var p=S.flow.pasos[S.flow.i];
-  if(p==='datos'){var ks=['pasado','presente','futuro'],j=ks.indexOf(S.flow.dt)+(dx<0?1:-1);if(j>=0&&j<3){S.flow.dt=ks[j];renderFlow();}return;}
+  if(p==='datos'){var j=(+S.flow.dt||0)+(dx<0?1:-1);if(j>=0&&j<listaHechos(S.edition).length){S.flow.dt=j;renderFlow();}return;}
   var s=document.querySelector(dx<0?'[data-act="cardnext"]':'[data-act="cardprev"]');if(s&&!s.disabled)s.click();
 },{passive:true});
 
 /* ---------- Inicio (app independiente) ---------- */
 function crearDB(){
   var LS='auxo.db.';var cache={};
-  function fetchJSON(p){if(!cache[p]){cache[p]=fetch(p,{cache:'no-cache'}).then(function(r){return r.ok?r.json():null;}).catch(function(){return null;});}return cache[p];}
+  function fetchJSON(p){if(!cache[p]){cache[p]=fetch(p+(p.indexOf('?')<0?'?v=':'&v=')+Date.now(),{cache:'no-store'}).then(function(r){return r.ok?r.json():null;}).catch(function(){return null;});}return cache[p];}
   function snap(id,d){return {id:id,exists:d!=null,data:function(){return d==null?undefined:d;}};}
   function lsAll(col){var out=[];try{for(var i=0;i<localStorage.length;i++){var k=localStorage.key(i);if(k&&k.indexOf(LS+col+'/')===0){out.push({id:k.slice((LS+col+'/').length),data:JSON.parse(localStorage.getItem(k))});}}}catch(e){}return out;}
   var remoto={editions:1,meta:1};
@@ -1269,7 +1325,7 @@ function crearDB(){
       }
     };
   }
-  return {doc:doc,collection:function(col){var q=query(col,[],null,0);q.doc=function(id){return doc(col+'/'+id);};return q;}};
+  return {reset:function(){cache={};},doc:doc,collection:function(col){var q=query(col,[],null,0);q.doc=function(id){return doc(col+'/'+id);};return q;}};
 }
 var descargas={save:function(o){
   try{var b=new Blob([o.data],{type:'application/json'});var a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=o.filename;document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(a.href);a.remove();},1000);return Promise.resolve();}
@@ -1290,6 +1346,19 @@ document.addEventListener('change',function(ev){
   };
   fr.readAsText(ev.target.files[0]);
 });
+
+/* Revisa si hay edición nueva al volver a la app, al recuperar el foco y cada 15 minutos. */
+var cargadoEl=hoy();
+function revisarNueva(){
+  if(S.flow||S.deArchivo||S.estado!=='listo')return;
+  if(document.visibilityState&&document.visibilityState!=='visible')return;
+  var f=hoy();
+  if(f!==cargadoEl||!S.edition||S.edition.fecha!==f){cargadoEl=f;if(S.db&&S.db.reset)S.db.reset();cargar();}
+}
+document.addEventListener('visibilitychange',revisarNueva);
+window.addEventListener('focus',revisarNueva);
+setInterval(revisarNueva,15*60*1000);
+
 renderNav();
 S.db=crearDB();S.sample=null;S.downloads=descargas;
 cargar();

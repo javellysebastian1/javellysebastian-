@@ -1,5 +1,5 @@
 /* AUXO: funciona sin conexión con la última edición descargada. */
-var VERSION='auxo-v4';
+var VERSION='auxo-v5';
 var BASE=['./','index.html','manifest.webmanifest','icons/icon-192.png','icons/icon-512.png','icons/apple-touch-icon.png'];
 self.addEventListener('install',function(e){
   e.waitUntil(caches.open(VERSION).then(function(c){return c.addAll(BASE);}).then(function(){return self.skipWaiting();}));
@@ -13,7 +13,8 @@ self.addEventListener('fetch',function(e){
   var datos=/\/(editions|meta)\//.test(url.pathname)||url.pathname.endsWith('index.html')||url.pathname.endsWith('/');
   if(datos){
     // Primero la red (para recibir la edición nueva); si no hay conexión, lo guardado.
-    e.respondWith(fetch(e.request).then(function(r){var copia=r.clone();caches.open(VERSION).then(function(c){c.put(e.request,copia);});return r;}).catch(function(){return caches.match(e.request);}));
+    var clave=url.origin+url.pathname;
+    e.respondWith(fetch(e.request,{cache:'no-store'}).then(function(r){if(r.ok){var copia=r.clone();caches.open(VERSION).then(function(c){c.put(clave,copia);});}return r;}).catch(function(){return caches.match(clave);}));
   }else{
     e.respondWith(caches.match(e.request).then(function(r){return r||fetch(e.request);}));
   }
