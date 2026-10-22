@@ -1,464 +1,535 @@
 {
-  "calentamiento": [
-    {
-      "origen": "Edición #1",
-      "pregunta": "¿Qué dos cosas hizo bien Kennedy en la crisis de los misiles?",
-      "respuesta": "Eligió una acción reversible (la cuarentena) para ganar tiempo y le dejó a Jruschov una salida digna."
-    },
-    {
-      "origen": "Edición #1",
-      "pregunta": "¿Por qué Kennedy llamó «cuarentena» y no «bloqueo» al cerco naval de Cuba?",
-      "respuesta": "Porque legalmente un bloqueo supone un estado de guerra. «Cuarentena» mantenía la presión sin declararla."
-    },
-    {
-      "origen": "Edición #1",
-      "pregunta": "¿Qué es la premeditatio malorum?",
-      "respuesta": "El ejercicio estoico de imaginar por adelantado lo que puede salir mal, para no ser sorprendido y tener un plan."
-    }
+ "calentamiento": [
+  {
+   "origen": "Edición #1",
+   "pregunta": "¿Qué dos cosas hizo bien Kennedy en la crisis de los misiles?",
+   "respuesta": "Eligió una acción reversible (la cuarentena) para ganar tiempo y le dejó a Jruschov una salida digna."
+  },
+  {
+   "origen": "Edición #1",
+   "pregunta": "¿Por qué Kennedy llamó «cuarentena» y no «bloqueo» al cerco naval de Cuba?",
+   "respuesta": "Porque legalmente un bloqueo supone un estado de guerra. «Cuarentena» mantenía la presión sin declararla."
+  },
+  {
+   "origen": "Edición #1",
+   "pregunta": "¿Qué es la premeditatio malorum?",
+   "respuesta": "El ejercicio estoico de imaginar por adelantado lo que puede salir mal, para no ser sorprendido y tener un plan."
+  }
+ ],
+ "disponibleDesde": "2026-10-21T08:00:00-06:00",
+ "fecha": "2026-10-21",
+ "frances": {
+  "frase": "Je suis en retard, j'arrive dans dix minutes.",
+  "pronunciacion": "zhe swi an re-tar, zha-riv dan di mi-nut",
+  "repaso": {
+   "pregunta": "¿Cómo dices en francés «voy tarde, llego en diez minutos»?",
+   "respuesta": "« Je suis en retard, j'arrive dans dix minutes. »"
+  },
+  "traduccion": "Voy tarde, llego en diez minutos.",
+  "uso": "Cotidiano y útil para mensajes. « Être en retard » es ir tarde; « j'arrive » se usa en presente aunque hables del futuro inmediato, como nuestro «ya llego».",
+  "variante": "Désolé, j'ai un petit empêchement. (Perdón, tuve un pequeño contratiempo.)"
+ },
+ "historia": {
+  "fuentes": [
+   {
+    "nombre": "Wikipedia: Apolo 13",
+    "url": "https://en.wikipedia.org/wiki/Apollo_13"
+   },
+   {
+    "nombre": "NASA: Apollo 13",
+    "url": "https://www.nasa.gov/mission/apollo-13/"
+   }
   ],
-  "disponibleDesde": "2026-10-21T08:00:00-06:00",
-  "fecha": "2026-10-21",
-  "frances": {
-    "frase": "Je suis en retard, j'arrive dans dix minutes.",
-    "pronunciacion": "zhe swi an re-tar, zha-riv dan di mi-nut",
-    "repaso": {
-      "pregunta": "¿Cómo dices en francés «voy tarde, llego en diez minutos»?",
-      "respuesta": "« Je suis en retard, j'arrive dans dix minutes. »"
-    },
-    "traduccion": "Voy tarde, llego en diez minutos.",
-    "uso": "Cotidiano y útil para mensajes. « Être en retard » es ir tarde; « j'arrive » se usa en presente aunque hables del futuro inmediato, como nuestro «ya llego».",
-    "variante": "Désolé, j'ai un petit empêchement. (Perdón, tuve un pequeño contratiempo.)"
+  "paraProfundizar": {
+   "minutos": 5,
+   "titulo": "NASA: la misión Apolo 13",
+   "url": "https://www.nasa.gov/mission/apollo-13/"
   },
-  "historia": {
-    "fuentes": [
-      {
-        "nombre": "Wikipedia: Apolo 13",
-        "url": "https://en.wikipedia.org/wiki/Apollo_13"
-      },
-      {
-        "nombre": "NASA: Apollo 13",
-        "url": "https://www.nasa.gov/mission/apollo-13/"
-      }
+  "repaso": [
+   {
+    "pregunta": "¿Cuál fue el problema de los filtros en el Apolo 13 y cómo se resolvió?",
+    "respuesta": "Los filtros de la cápsula no encajaban en el módulo lunar. Los ingenieros diseñaron un adaptador con plástico de los manuales, cinta y mangueras, y se lo dictaron a la tripulación."
+   },
+   {
+    "pregunta": "¿Cuál es la primera pregunta de la herramienta «el inventario antes que la solución»?",
+    "respuesta": "¿Qué tengo que todavía funciona? Después se define el problema con precisión y se combina lo disponible."
+   }
+  ],
+  "tarjetas": [
+   {
+    "contexto": "Abril de 1970. Tras una explosión, la tripulación del Apolo 13 se refugia en el módulo lunar. El [[dióxido de carbono|Gas que exhalamos al respirar. En un espacio cerrado se acumula y, en concentraciones altas, intoxica.]] empieza a subir. Hay filtros de sobra en la otra nave, pero tienen otra forma y no encajan en el equipo del módulo lunar.",
+    "gancho": "Tres astronautas se asfixiaban lentamente. Los filtros que tenían no cabían. ¿Qué crees que hicieron?",
+    "opciones": [
+     "Encendieron los motores para llegar antes a la Tierra",
+     "Construyeron un adaptador con lo que había a bordo",
+     "Durmieron por turnos para respirar menos"
     ],
-    "paraProfundizar": {
-      "minutos": 5,
-      "titulo": "NASA: la misión Apolo 13",
-      "url": "https://www.nasa.gov/mission/apollo-13/"
-    },
-    "repaso": [
-      {
-        "pregunta": "¿Cuál fue el problema de los filtros en el Apolo 13 y cómo se resolvió?",
-        "respuesta": "Los filtros de la cápsula no encajaban en el módulo lunar. Los ingenieros diseñaron un adaptador con plástico de los manuales, cinta y mangueras, y se lo dictaron a la tripulación."
-      },
-      {
-        "pregunta": "¿Cuál es la primera pregunta de la herramienta «el inventario antes que la solución»?",
-        "respuesta": "¿Qué tengo que todavía funciona? Después se define el problema con precisión y se combina lo disponible."
-      }
-    ],
-    "tarjetas": [
-      {
-        "contexto": "Abril de 1970. Tras una explosión, la tripulación del Apolo 13 se refugia en el módulo lunar. El [[dióxido de carbono|Gas que exhalamos al respirar. En un espacio cerrado se acumula y, en concentraciones altas, intoxica.]] empieza a subir. Hay filtros de sobra en la otra nave, pero tienen otra forma y no encajan en el equipo del módulo lunar.",
-        "gancho": "Tres astronautas se asfixiaban lentamente. Los filtros que tenían no cabían. ¿Qué crees que hicieron?",
-        "opciones": [
-          "Encendieron los motores para llegar antes a la Tierra",
-          "Construyeron un adaptador con lo que había a bordo",
-          "Durmieron por turnos para respirar menos"
-        ],
-        "pregunta": "¿Qué crees que hicieron?",
-        "tipo": "adivina"
-      },
-      {
-        "texto": "El 11 de abril de 1970, a las 13:13 hora de Houston, despega el Apolo 13. Va a la Luna con tres hombres: el comandante **Jim Lovell**, **Jack Swigert** y **Fred Haise**. Iba a ser el tercer alunizaje y el público ya había perdido interés.\n\nEl 13 de abril, pasadas las nueve de la noche en Houston, el control de misión le pide a Swigert que agite los tanques de oxígeno. Noventa y cinco segundos después se oye un golpe fuerte. Las luces de alarma se encienden. Swigert lo reporta: «Okay, Houston, hemos tenido un problema aquí». Lovell lo repite segundos después.\n\nUn tanque de oxígeno del [[módulo de servicio|Parte de la nave con los tanques de oxígeno, el combustible y el motor principal. Iba unida a la cápsula donde viajaban los astronautas.]] había explotado. Sin ese oxígeno, la nave principal se quedaba sin electricidad, sin agua y sin aire. Estaban a más de 300 mil kilómetros de casa.\n\nLa única salida era el **Aquarius**, el [[módulo lunar|Pequeña nave diseñada para bajar a la superficie de la Luna y volver a la órbita.]]. Estaba diseñado para dos hombres durante dos días. Ahora tendría que mantener vivos a tres durante cuatro.\n\nEl oxígeno alcanzaba. El problema era otro: el aire que exhalaban. Los filtros del módulo lunar estaban pensados para dos astronautas durante 45 horas. La cápsula principal tenía filtros de sobra, pero de otra forma y otro tamaño. Literalmente, un cuadrado contra un hueco redondo.",
-        "tipo": "historia",
-        "titulo": "«Houston, hemos tenido un problema»"
-      },
-      {
-        "imagen": {
-          "alt": "Adaptador improvisado de filtros dentro del módulo lunar del Apolo 13",
-          "credito": "NASA · Wikimedia Commons",
-          "pie": "El «buzón»: el adaptador que armaron Swigert y Haise",
-          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Apollo13_apparatus.jpg?width=900"
-        },
-        "texto": "Los ingenieros en tierra no inventaron una pieza nueva. Hicieron una lista de todo lo que había a bordo y diseñaron un adaptador con eso: cubiertas de plástico arrancadas de los manuales, [[cinta gris|Cinta adhesiva de tela, muy resistente. Los astronautas la llevaban para reparaciones.]], mangueras y cartón. Lo llamaron «el buzón».\n\nUn astronauta en Houston, Joseph Kerwin, les dictó el procedimiento paso a paso durante una hora. Swigert y Haise lo armaron. El dióxido de carbono empezó a bajar. El 17 de abril de 1970, la cápsula Odyssey cayó en el Pacífico Sur, cerca de Samoa, a 6.5 km del barco de rescate USS Iwo Jima.\n\nDos sorpresas más. La investigación encontró que el defecto venía de años antes: unos interruptores hechos para 28 voltios recibieron 65 en una prueba en tierra, y el tanque se había caído unos 5 cm en 1968. Y la frase «fallar no es una opción», que muchos atribuyen al director de vuelo Gene Kranz, la inventó la película de 1995.",
-        "tipo": "giro",
-        "titulo": "El buzón de cartón y cinta"
-      },
-      {
-        "nombre": "El inventario antes que la solución",
-        "texto": "Bajo presión, la primera pregunta no es «¿qué necesito?», sino **«¿qué tengo que todavía funciona?»**.\n\nCuando algo falla, la mente corre hacia lo que falta: la pieza ideal, el proveedor perfecto, más tiempo. Eso paraliza, porque lo que falta no está. El equipo de Houston hizo lo contrario: inventarió lo disponible y diseñó la solución **dentro de esa [[restricción|Límite que no puedes cambiar y dentro del cual tienes que trabajar.]]**.\n\nTiene tres pasos. Uno: lista lo que sí funciona, aunque parezca inútil. Dos: define el problema con precisión (no «el aire está mal», sino «este filtro no entra en este hueco»). Tres: combina lo que tienes hasta cerrar esa brecha concreta.",
-        "tipo": "herramienta"
-      },
-      {
-        "texto": "En Guadalajara, miles de negocios están aprendiendo esto con los tandeos de agua. El restaurante que no puede esperar a que se arregle la red hace inventario: cisterna, horarios de corte, platillos que usan menos agua, vajilla que se lava después. La solución no es ideal, pero existe.\n\nEn una marca de bebidas, si falta una presentación de envase justo antes de una temporada fuerte, la pregunta útil no es cuándo llegará el envase, sino qué otro formato, canal o cliente puede absorber el producto ahora.\n\nY conecta con lo de ayer: Kennedy también trabajó con lo que tenía. Eligió una acción reversible mientras ganaba tiempo, en vez de apostar todo a una solución que no podía deshacer.",
-        "tipo": "dondeMas",
-        "titulo": "Dónde más aparece"
-      },
-      {
-        "pregunta": "Piensa en el problema que hoy te parece sin salida porque «falta algo». Si hicieras la lista de lo que sí tienes y funciona, ¿qué aparecería en ella?",
-        "texto": "A veces la pieza que falta ya está en la nave, solo que con otra forma.",
-        "tipo": "llevaloATuVida"
-      },
-      {
-        "frase": "Antes de buscar lo que falta, haz la lista de lo que todavía funciona.",
-        "tipo": "paraRecordar"
-      }
-    ]
-  },
-  "id": "auxo-2026-10-21",
-  "lectura": {
-    "autor": "Marco Aurelio",
-    "capitulo": {
-      "numero": 2,
-      "titulo": "Lo que depende de ti, y lo que no",
-      "total": 6
-    },
-    "fuentes": [
-      {
-        "nombre": "Meditaciones, traducción inglesa de Meric Casaubon (1634), Proyecto Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/2680"
-      },
-      {
-        "nombre": "Meditaciones, traducción de George Long (1862), Proyecto Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/15877"
-      }
-    ],
+    "pregunta": "¿Qué crees que hicieron?",
+    "tipo": "adivina"
+   },
+   {
+    "texto": "El 11 de abril de 1970, a las 13:13 hora de Houston, despega el Apolo 13. Va a la Luna con tres hombres: el comandante **Jim Lovell**, **Jack Swigert** y **Fred Haise**. Iba a ser el tercer alunizaje y el público ya había perdido interés.\n\nEl 13 de abril, pasadas las nueve de la noche en Houston, el control de misión le pide a Swigert que agite los tanques de oxígeno. Noventa y cinco segundos después se oye un golpe fuerte. Las luces de alarma se encienden. Swigert lo reporta: «Okay, Houston, hemos tenido un problema aquí». Lovell lo repite segundos después.\n\nUn tanque de oxígeno del [[módulo de servicio|Parte de la nave con los tanques de oxígeno, el combustible y el motor principal. Iba unida a la cápsula donde viajaban los astronautas.]] había explotado. Sin ese oxígeno, la nave principal se quedaba sin electricidad, sin agua y sin aire. Estaban a más de 300 mil kilómetros de casa.\n\nLa única salida era el **Aquarius**, el [[módulo lunar|Pequeña nave diseñada para bajar a la superficie de la Luna y volver a la órbita.]]. Estaba diseñado para dos hombres durante dos días. Ahora tendría que mantener vivos a tres durante cuatro.\n\nEl oxígeno alcanzaba. El problema era otro: el aire que exhalaban. Los filtros del módulo lunar estaban pensados para dos astronautas durante 45 horas. La cápsula principal tenía filtros de sobra, pero de otra forma y otro tamaño. Literalmente, un cuadrado contra un hueco redondo.",
+    "tipo": "historia",
+    "titulo": "«Houston, hemos tenido un problema»"
+   },
+   {
     "imagen": {
-      "alt": "Estatua ecuestre de Marco Aurelio en la plaza del Capitolio, Roma",
-      "credito": "Wikimedia Commons",
-      "pie": "Marco Aurelio a caballo, plaza del Capitolio, Roma",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/0_Marcus_Aurelius_-_Piazza_del_Campidoglio_(2).JPG?width=900"
+     "alt": "Adaptador improvisado de filtros dentro del módulo lunar del Apolo 13",
+     "credito": "NASA · Wikimedia Commons",
+     "pie": "El «buzón»: el adaptador que armaron Swigert y Haise",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Apollo13_apparatus.jpg?width=900"
     },
-    "libro": "Meditaciones",
-    "minutos": 9,
-    "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de dominio público de Meric Casaubon (1634), Proyecto Gutenberg. La numeración sigue la división estándar del texto.",
-    "paraLlevar": [
-      "Epicteto dividió el mundo en dos: lo que depende de ti (tus juicios y decisiones) y lo que no (el cuerpo, el dinero, la reputación).",
-      "Entre lo que pasa y lo que sientes hay un juicio, y ese juicio sí lo eliges.",
-      "El obstáculo no siempre se quita: muchas veces se convierte en el material para avanzar."
+    "texto": "Los ingenieros en tierra no inventaron una pieza nueva. Hicieron una lista de todo lo que había a bordo y diseñaron un adaptador con eso: cubiertas de plástico arrancadas de los manuales, [[cinta gris|Cinta adhesiva de tela, muy resistente. Los astronautas la llevaban para reparaciones.]], mangueras y cartón. Lo llamaron «el buzón».\n\nUn astronauta en Houston, Joseph Kerwin, les dictó el procedimiento paso a paso durante una hora. Swigert y Haise lo armaron. El dióxido de carbono empezó a bajar. El 17 de abril de 1970, la cápsula Odyssey cayó en el Pacífico Sur, cerca de Samoa, a 6.5 km del barco de rescate USS Iwo Jima.\n\nDos sorpresas más. La investigación encontró que el defecto venía de años antes: unos interruptores hechos para 28 voltios recibieron 65 en una prueba en tierra, y el tanque se había caído unos 5 cm en 1968. Y la frase «fallar no es una opción», que muchos atribuyen al director de vuelo Gene Kranz, la inventó la película de 1995.",
+    "tipo": "giro",
+    "titulo": "El buzón de cartón y cinta"
+   },
+   {
+    "nombre": "El inventario antes que la solución",
+    "texto": "Bajo presión, la primera pregunta no es «¿qué necesito?», sino **«¿qué tengo que todavía funciona?»**.\n\nCuando algo falla, la mente corre hacia lo que falta: la pieza ideal, el proveedor perfecto, más tiempo. Eso paraliza, porque lo que falta no está. El equipo de Houston hizo lo contrario: inventarió lo disponible y diseñó la solución **dentro de esa [[restricción|Límite que no puedes cambiar y dentro del cual tienes que trabajar.]]**.\n\nTiene tres pasos. Uno: lista lo que sí funciona, aunque parezca inútil. Dos: define el problema con precisión (no «el aire está mal», sino «este filtro no entra en este hueco»). Tres: combina lo que tienes hasta cerrar esa brecha concreta.",
+    "tipo": "herramienta"
+   },
+   {
+    "texto": "En Guadalajara, miles de negocios están aprendiendo esto con los tandeos de agua. El restaurante que no puede esperar a que se arregle la red hace inventario: cisterna, horarios de corte, platillos que usan menos agua, vajilla que se lava después. La solución no es ideal, pero existe.\n\nEn una marca de bebidas, si falta una presentación de envase justo antes de una temporada fuerte, la pregunta útil no es cuándo llegará el envase, sino qué otro formato, canal o cliente puede absorber el producto ahora.\n\nY conecta con lo de ayer: Kennedy también trabajó con lo que tenía. Eligió una acción reversible mientras ganaba tiempo, en vez de apostar todo a una solución que no podía deshacer.",
+    "tipo": "dondeMas",
+    "titulo": "Dónde más aparece"
+   },
+   {
+    "pregunta": "Piensa en el problema que hoy te parece sin salida porque «falta algo». Si hicieras la lista de lo que sí tienes y funciona, ¿qué aparecería en ella?",
+    "texto": "A veces la pieza que falta ya está en la nave, solo que con otra forma.",
+    "tipo": "llevaloATuVida"
+   },
+   {
+    "frase": "Antes de buscar lo que falta, haz la lista de lo que todavía funciona.",
+    "tipo": "paraRecordar"
+   }
+  ]
+ },
+ "id": "auxo-2026-10-21",
+ "lectura": {
+  "autor": "Marco Aurelio",
+  "capitulo": {
+   "numero": 2,
+   "titulo": "Lo que depende de ti, y lo que no",
+   "total": 6
+  },
+  "fuentes": [
+   {
+    "nombre": "Meditaciones, traducción inglesa de Meric Casaubon (1634), Proyecto Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/2680"
+   },
+   {
+    "nombre": "Meditaciones, traducción de George Long (1862), Proyecto Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/15877"
+   }
+  ],
+  "imagen": {
+   "alt": "Estatua ecuestre de Marco Aurelio en la plaza del Capitolio, Roma",
+   "credito": "Wikimedia Commons",
+   "pie": "Marco Aurelio a caballo, plaza del Capitolio, Roma",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/0_Marcus_Aurelius_-_Piazza_del_Campidoglio_(2).JPG?width=900"
+  },
+  "libro": "Meditaciones",
+  "minutos": 9,
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de dominio público de Meric Casaubon (1634), Proyecto Gutenberg. La numeración sigue la división estándar del texto.",
+  "paraLlevar": [
+   "Epicteto dividió el mundo en dos: lo que depende de ti (tus juicios y decisiones) y lo que no (el cuerpo, el dinero, la reputación).",
+   "Entre lo que pasa y lo que sientes hay un juicio, y ese juicio sí lo eliges.",
+   "El obstáculo no siempre se quita: muchas veces se convierte en el material para avanzar."
+  ],
+  "proximo": "Capítulo 3: El tiempo es corto y la fama, humo",
+  "repaso": [
+   {
+    "pregunta": "¿Quién fue Epicteto y cómo llegaron sus ideas a Marco Aurelio?",
+    "respuesta": "Un filósofo estoico que nació esclavo. Su maestro Rústico le dio a Marco Aurelio los apuntes de sus lecciones."
+   },
+   {
+    "pregunta": "Según Meditaciones IV, 3, ¿de dónde nace la inquietud?",
+    "respuesta": "No de las cosas, que se quedan afuera, sino de la opinión que llevamos dentro."
+   }
+  ],
+  "secciones": [
+   {
+    "texto": "Roma, mediados del siglo II. Un joven heredero al trono, de poco más de veinte años, recibe un regalo de su maestro. No es oro ni un caballo. Son unos apuntes de clase.\n\nEl maestro se llama Quinto Junio Rústico, un senador serio y austero. Los apuntes recogen las lecciones de un filósofo griego que había muerto hacía poco. Ese filósofo había nacido esclavo.\n\nEl joven es Marco Aurelio. Años después, al escribir sus *Meditaciones*, lo recordará entre las cosas que más le debe a Rústico.",
+    "tipo": "texto"
+   },
+   {
+    "fuente": "Meditaciones, I, 7",
+    "texto": "A Rústico le debo haber entendido que mi carácter necesitaba corrección y cuidado. Y también haber conocido los apuntes de Epicteto, que él me dio de su propia biblioteca.",
+    "tipo": "cita"
+   },
+   {
+    "texto": "El esclavo que enseñó a un emperador",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "[[Epicteto|Filósofo estoico griego (c. 50–c. 135 d. C.). Nació esclavo, fue liberado y enseñó en Roma y en Grecia. No escribió nada: sus lecciones las anotó su alumno Arriano.]] nació hacia el año 50 en Hierápolis, en la actual Turquía. Fue esclavo de Epafrodito, un [[liberto|Antiguo esclavo que había recibido la libertad. En Roma algunos llegaron a tener mucho poder.]] que servía al emperador Nerón. Cojeaba de una pierna. Una anécdota antigua, difícil de comprobar, dice que su amo se la torció y que Epicteto le advirtió con calma: «la vas a romper». Cuando se rompió, solo dijo: «te lo dije». Sea cierta o no, resume su fama. Cuando obtuvo la libertad, se dedicó a enseñar filosofía en Roma.\n\nHacia el año 93, el emperador Domiciano expulsó a los filósofos de la ciudad. Epicteto se fue a Nicópolis, en Grecia, y abrió una escuela. Uno de sus alumnos, Arriano, anotó sus clases. Así nacieron las *Disertaciones* y un librito de bolsillo llamado *Enquiridión*, que significa «manual».",
+    "tipo": "texto"
+   },
+   {
+    "texto": "El *Enquiridión* empieza con una división que sostiene todo el estoicismo. Algunas cosas dependen de nosotros: lo que juzgamos, lo que queremos, lo que rechazamos, lo que decidimos hacer. Otras no: el cuerpo, el dinero, la reputación, los cargos. Es decir, todo lo que no es obra nuestra.\n\nSuena simple. La trampa es que casi toda nuestra angustia está puesta en la segunda lista.",
+    "tipo": "texto"
+   },
+   {
+    "correcta": 1,
+    "explicacion": "La reputación depende de lo que otros piensen; la salud, en parte, del azar. Lo único plenamente tuyo es tu juicio y tu decisión. Puedes influir en lo demás, pero no controlarlo.",
+    "opciones": [
+     "Tu reputación entre tus clientes",
+     "Cómo juzgas lo que te pasa y qué decides hacer",
+     "Tu salud el próximo año"
     ],
-    "proximo": "Capítulo 3: El tiempo es corto y la fama, humo",
-    "repaso": [
-      {
-        "pregunta": "¿Quién fue Epicteto y cómo llegaron sus ideas a Marco Aurelio?",
-        "respuesta": "Un filósofo estoico que nació esclavo. Su maestro Rústico le dio a Marco Aurelio los apuntes de sus lecciones."
-      },
-      {
-        "pregunta": "Según Meditaciones IV, 3, ¿de dónde nace la inquietud?",
-        "respuesta": "No de las cosas, que se quedan afuera, sino de la opinión que llevamos dentro."
-      }
+    "pregunta": "Según Epicteto, ¿cuál de estas cosas depende por completo de ti?",
+    "tipo": "pregunta"
+   },
+   {
+    "texto": "No son las cosas: es lo que piensas de ellas",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "Marco Aurelio nunca conoció a Epicteto. Cuando el filósofo murió, el futuro emperador era un niño. Pero sus *Meditaciones* están llenas de esa idea, repetida como quien se repite una instrucción antes de una prueba difícil.\n\nEn el libro IV se da dos recordatorios para tener «a la mano». El primero es este:",
+    "tipo": "texto"
+   },
+   {
+    "fuente": "Meditaciones, IV, 3",
+    "texto": "Las cosas no tocan el alma: se quedan afuera, quietas. Todo el tumulto y toda la inquietud nacen solo de la opinión que llevamos dentro.",
+    "tipo": "cita"
+   },
+   {
+    "texto": "No dice que las cosas no existan ni que no importen. Dice que entre el hecho y tu reacción hay algo en medio: tu [[juicio|Para los estoicos, la interpretación que haces de un hecho: «esto es grave», «esto es injusto», «esto me arruina».]]. El hecho es «el cliente canceló el pedido». El juicio es «me arruinó la semana». Lo primero no lo eliges. Lo segundo, sí.\n\nUnas líneas después lo lleva más lejos:",
+    "tipo": "texto"
+   },
+   {
+    "fuente": "Meditaciones, IV, 7",
+    "texto": "Quita la opinión, y nadie pensará que ha sido agraviado. Quita la queja de «me han hecho daño», y el daño desaparece.",
+    "tipo": "cita"
+   },
+   {
+    "texto": "Leída de prisa, la frase parece negar el sufrimiento real. No es así. Marco Aurelio tenía guerras, epidemias y traiciones a su alrededor. Lo que separa es el daño externo, que no controla, del daño que él mismo agrega al darle vueltas: el resentimiento, la queja, el sentirse víctima. Ese segundo daño sí lo puede quitar.",
+    "tipo": "texto"
+   },
+   {
+    "correcta": 1,
+    "explicacion": "La cancelación ya ocurrió. Lo que sigue en tus manos es cómo la interpretas y qué haces ahora. El estoicismo no es resignación pasiva: es poner toda la energía donde sí tiene efecto.",
+    "opciones": [
+     "En la cancelación: hay que convencer al distribuidor como sea",
+     "En tu juicio sobre lo que pasó y en tu siguiente paso",
+     "En ninguna parte: hay que aguantar en silencio"
     ],
-    "secciones": [
-      {
-        "texto": "Roma, mediados del siglo II. Un joven heredero al trono, de poco más de veinte años, recibe un regalo de su maestro. No es oro ni un caballo. Son unos apuntes de clase.\n\nEl maestro se llama Quinto Junio Rústico, un senador serio y austero. Los apuntes recogen las lecciones de un filósofo griego que había muerto hacía poco. Ese filósofo había nacido esclavo.\n\nEl joven es Marco Aurelio. Años después, al escribir sus *Meditaciones*, lo recordará entre las cosas que más le debe a Rústico.",
-        "tipo": "texto"
-      },
-      {
-        "fuente": "Meditaciones, I, 7",
-        "texto": "A Rústico le debo haber entendido que mi carácter necesitaba corrección y cuidado. Y también haber conocido los apuntes de Epicteto, que él me dio de su propia biblioteca.",
-        "tipo": "cita"
-      },
-      {
-        "texto": "El esclavo que enseñó a un emperador",
-        "tipo": "subtitulo"
-      },
-      {
-        "texto": "[[Epicteto|Filósofo estoico griego (c. 50–c. 135 d. C.). Nació esclavo, fue liberado y enseñó en Roma y en Grecia. No escribió nada: sus lecciones las anotó su alumno Arriano.]] nació hacia el año 50 en Hierápolis, en la actual Turquía. Fue esclavo de Epafrodito, un [[liberto|Antiguo esclavo que había recibido la libertad. En Roma algunos llegaron a tener mucho poder.]] que servía al emperador Nerón. Cojeaba de una pierna. Una anécdota antigua, difícil de comprobar, dice que su amo se la torció y que Epicteto le advirtió con calma: «la vas a romper». Cuando se rompió, solo dijo: «te lo dije». Sea cierta o no, resume su fama. Cuando obtuvo la libertad, se dedicó a enseñar filosofía en Roma.\n\nHacia el año 93, el emperador Domiciano expulsó a los filósofos de la ciudad. Epicteto se fue a Nicópolis, en Grecia, y abrió una escuela. Uno de sus alumnos, Arriano, anotó sus clases. Así nacieron las *Disertaciones* y un librito de bolsillo llamado *Enquiridión*, que significa «manual».",
-        "tipo": "texto"
-      },
-      {
-        "texto": "El *Enquiridión* empieza con una división que sostiene todo el estoicismo. Algunas cosas dependen de nosotros: lo que juzgamos, lo que queremos, lo que rechazamos, lo que decidimos hacer. Otras no: el cuerpo, el dinero, la reputación, los cargos. Es decir, todo lo que no es obra nuestra.\n\nSuena simple. La trampa es que casi toda nuestra angustia está puesta en la segunda lista.",
-        "tipo": "texto"
-      },
-      {
-        "correcta": 1,
-        "explicacion": "La reputación depende de lo que otros piensen; la salud, en parte, del azar. Lo único plenamente tuyo es tu juicio y tu decisión. Puedes influir en lo demás, pero no controlarlo.",
-        "opciones": [
-          "Tu reputación entre tus clientes",
-          "Cómo juzgas lo que te pasa y qué decides hacer",
-          "Tu salud el próximo año"
-        ],
-        "pregunta": "Según Epicteto, ¿cuál de estas cosas depende por completo de ti?",
-        "tipo": "pregunta"
-      },
-      {
-        "texto": "No son las cosas: es lo que piensas de ellas",
-        "tipo": "subtitulo"
-      },
-      {
-        "texto": "Marco Aurelio nunca conoció a Epicteto. Cuando el filósofo murió, el futuro emperador era un niño. Pero sus *Meditaciones* están llenas de esa idea, repetida como quien se repite una instrucción antes de una prueba difícil.\n\nEn el libro IV se da dos recordatorios para tener «a la mano». El primero es este:",
-        "tipo": "texto"
-      },
-      {
-        "fuente": "Meditaciones, IV, 3",
-        "texto": "Las cosas no tocan el alma: se quedan afuera, quietas. Todo el tumulto y toda la inquietud nacen solo de la opinión que llevamos dentro.",
-        "tipo": "cita"
-      },
-      {
-        "texto": "No dice que las cosas no existan ni que no importen. Dice que entre el hecho y tu reacción hay algo en medio: tu [[juicio|Para los estoicos, la interpretación que haces de un hecho: «esto es grave», «esto es injusto», «esto me arruina».]]. El hecho es «el cliente canceló el pedido». El juicio es «me arruinó la semana». Lo primero no lo eliges. Lo segundo, sí.\n\nUnas líneas después lo lleva más lejos:",
-        "tipo": "texto"
-      },
-      {
-        "fuente": "Meditaciones, IV, 7",
-        "texto": "Quita la opinión, y nadie pensará que ha sido agraviado. Quita la queja de «me han hecho daño», y el daño desaparece.",
-        "tipo": "cita"
-      },
-      {
-        "texto": "Leída de prisa, la frase parece negar el sufrimiento real. No es así. Marco Aurelio tenía guerras, epidemias y traiciones a su alrededor. Lo que separa es el daño externo, que no controla, del daño que él mismo agrega al darle vueltas: el resentimiento, la queja, el sentirse víctima. Ese segundo daño sí lo puede quitar.",
-        "tipo": "texto"
-      },
-      {
-        "correcta": 1,
-        "explicacion": "La cancelación ya ocurrió. Lo que sigue en tus manos es cómo la interpretas y qué haces ahora. El estoicismo no es resignación pasiva: es poner toda la energía donde sí tiene efecto.",
-        "opciones": [
-          "En la cancelación: hay que convencer al distribuidor como sea",
-          "En tu juicio sobre lo que pasó y en tu siguiente paso",
-          "En ninguna parte: hay que aguantar en silencio"
-        ],
-        "pregunta": "Un distribuidor cancela un pedido grande. Según Marco Aurelio, ¿dónde está la parte que puedes cambiar?",
-        "tipo": "pregunta"
-      },
-      {
-        "texto": "El arquero y la cláusula de reserva",
-        "tipo": "subtitulo"
-      },
-      {
-        "texto": "Los estoicos tenían una imagen para esto. Cicerón la cuenta así: un arquero hace todo lo que está en su mano para dar en el blanco. Elige la flecha, tensa el arco, mide el viento, apunta con cuidado. Pero cuando la flecha sale, ya no le pertenece. Una ráfaga puede desviarla.\n\nPara el estoico, el éxito del arquero está en disparar bien, no en acertar. Acertar es lo que quiere; disparar bien es lo que controla. Esa diferencia parece pequeña, pero cambia cómo se vive un fracaso. Si hiciste lo que te tocaba, el viento no te quita el mérito.\n\nPor eso usaban una fórmula que los estudiosos llaman [[cláusula de reserva|En griego *hypexairesis*: añadir a todo plan la condición «si nada lo impide», para aceptar de antemano que el resultado no depende solo de ti.]]. Antes de un plan decían: «Haré esto, si nada lo impide». No era pesimismo ni una excusa. Era una forma de comprometerse por completo con el esfuerzo sin quedar a merced del resultado.\n\nPiensa en un lanzamiento de producto. Tú controlas la fórmula, el precio, la etiqueta, la presentación al distribuidor. No controlas si llueve el día del evento ni si un competidor baja precios esa semana. Un estoico pondría toda su energía en la primera lista y su calma en la segunda.",
-        "tipo": "texto"
-      },
-      {
-        "texto": "El obstáculo como camino",
-        "tipo": "subtitulo"
-      },
-      {
-        "texto": "Piensa en la historia de hoy. La explosión del Apolo 13 no dependía de nadie en Houston: el defecto venía de años antes. Lo que sí dependía de ellos era qué hacer con lo que quedaba. Eso es exactamente la división de Epicteto puesta a trabajar.\n\nEn el libro V, Marco Aurelio escribe que la mente convierte cada impedimento en materia para actuar: lo que estorbaba la acción se vuelve parte de ella, y lo que bloqueaba el camino se vuelve el camino. Siglos después, esa idea daría título a libros de negocios. Para él era una herramienta de supervivencia.",
-        "tipo": "texto"
-      },
-      {
-        "texto": "Hay un ejercicio sencillo que los estoicos practicaban y que puedes usar hoy. Ante algo que te preocupa, haz dos columnas. En una pones lo que depende de ti; en la otra, lo que no. Luego tachas la segunda. No porque no importe, sino porque pensar en ella no la cambia.\n\nCasi siempre la primera columna es más corta de lo que esperabas. Y casi siempre es suficiente para empezar.",
-        "tipo": "texto"
-      },
-      {
-        "texto": "Epicteto, como Sócrates, no escribió nada. Lo conocemos por Flavio Arriano, un alumno que después fue político e historiador, y que escribió una vida de Alejandro Magno. Arriano dijo que había tomado las lecciones casi palabra por palabra. De sus *Disertaciones* se conservan cuatro libros de los ocho originales. El *Enquiridión* es un resumen que Arriano preparó para llevar siempre consigo. Marco Aurelio cita a Epicteto varias veces; en el libro IV recuerda su imagen del ser humano como «un alma pequeña que carga un cadáver».",
-        "tipo": "nota",
-        "titulo": "Saber más: ¿cómo sabemos lo que enseñaba Epicteto?"
-      }
-    ]
+    "pregunta": "Un distribuidor cancela un pedido grande. Según Marco Aurelio, ¿dónde está la parte que puedes cambiar?",
+    "tipo": "pregunta"
+   },
+   {
+    "texto": "El arquero y la cláusula de reserva",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "Los estoicos tenían una imagen para esto. Cicerón la cuenta así: un arquero hace todo lo que está en su mano para dar en el blanco. Elige la flecha, tensa el arco, mide el viento, apunta con cuidado. Pero cuando la flecha sale, ya no le pertenece. Una ráfaga puede desviarla.\n\nPara el estoico, el éxito del arquero está en disparar bien, no en acertar. Acertar es lo que quiere; disparar bien es lo que controla. Esa diferencia parece pequeña, pero cambia cómo se vive un fracaso. Si hiciste lo que te tocaba, el viento no te quita el mérito.\n\nPor eso usaban una fórmula que los estudiosos llaman [[cláusula de reserva|En griego *hypexairesis*: añadir a todo plan la condición «si nada lo impide», para aceptar de antemano que el resultado no depende solo de ti.]]. Antes de un plan decían: «Haré esto, si nada lo impide». No era pesimismo ni una excusa. Era una forma de comprometerse por completo con el esfuerzo sin quedar a merced del resultado.\n\nPiensa en un lanzamiento de producto. Tú controlas la fórmula, el precio, la etiqueta, la presentación al distribuidor. No controlas si llueve el día del evento ni si un competidor baja precios esa semana. Un estoico pondría toda su energía en la primera lista y su calma en la segunda.",
+    "tipo": "texto"
+   },
+   {
+    "texto": "El obstáculo como camino",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "Piensa en la historia de hoy. La explosión del Apolo 13 no dependía de nadie en Houston: el defecto venía de años antes. Lo que sí dependía de ellos era qué hacer con lo que quedaba. Eso es exactamente la división de Epicteto puesta a trabajar.\n\nEn el libro V, Marco Aurelio escribe que la mente convierte cada impedimento en materia para actuar: lo que estorbaba la acción se vuelve parte de ella, y lo que bloqueaba el camino se vuelve el camino. Siglos después, esa idea daría título a libros de negocios. Para él era una herramienta de supervivencia.",
+    "tipo": "texto"
+   },
+   {
+    "texto": "Hay un ejercicio sencillo que los estoicos practicaban y que puedes usar hoy. Ante algo que te preocupa, haz dos columnas. En una pones lo que depende de ti; en la otra, lo que no. Luego tachas la segunda. No porque no importe, sino porque pensar en ella no la cambia.\n\nCasi siempre la primera columna es más corta de lo que esperabas. Y casi siempre es suficiente para empezar.",
+    "tipo": "texto"
+   },
+   {
+    "texto": "Epicteto, como Sócrates, no escribió nada. Lo conocemos por Flavio Arriano, un alumno que después fue político e historiador, y que escribió una vida de Alejandro Magno. Arriano dijo que había tomado las lecciones casi palabra por palabra. De sus *Disertaciones* se conservan cuatro libros de los ocho originales. El *Enquiridión* es un resumen que Arriano preparó para llevar siempre consigo. Marco Aurelio cita a Epicteto varias veces; en el libro IV recuerda su imagen del ser humano como «un alma pequeña que carga un cadáver».",
+    "tipo": "nota",
+    "titulo": "Saber más: ¿cómo sabemos lo que enseñaba Epicteto?"
+   }
+  ]
+ },
+ "libro": null,
+ "materias": [
+  {
+   "contexto": "En Roma hay una cúpula de concreto de 43 metros de diámetro, terminada bajo el emperador [[Adriano|Emperador romano del 117 al 138. Viajó por todo el imperio y fue un gran impulsor de la arquitectura.]] hacia el año 126. No tiene acero dentro. Arriba tiene un hueco abierto al cielo de unos 9 metros, el [[óculo|Abertura circular en lo alto de una cúpula. En el Panteón es la única fuente de luz natural.]]. Sigue siendo la cúpula de concreto sin refuerzo más grande del mundo.",
+   "correcta": 1,
+   "formato": "comoFunciona",
+   "fuente": {
+    "nombre": "Wikipedia: Pantheon, Rome",
+    "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+   },
+   "idea": "El mejor diseño no agrega fuerza: quita peso donde no hace falta.",
+   "materia": "Arquitectura y diseño",
+   "opciones": [
+    "Escondieron varillas de bronce dentro del concreto",
+    "Hicieron el concreto más ligero y la cúpula más delgada conforme sube",
+    "Pusieron una columna central que retiraron al terminar"
+   ],
+   "pregunta": "¿Qué truco crees que usaron los romanos para que no se viniera abajo?",
+   "repaso": {
+    "pregunta": "¿Cómo logra el Panteón sostener su cúpula sin acero?",
+    "respuesta": "Concreto más ligero arriba (con piedra pómez), cúpula más delgada al subir, casetones que quitan peso y un óculo en el centro."
+   },
+   "revelacion": "El peso es el enemigo de una cúpula. Por eso los romanos cambiaron la receta del concreto de abajo hacia arriba. En la base usaron piedra pesada; en lo alto, piedras ligeras y porosas como la [[piedra pómez|Roca volcánica llena de burbujas de aire; es tan ligera que puede flotar.]]. La cúpula también se adelgaza al subir.\n\nPor dentro tiene cinco anillos de casetones, esos huecos cuadrados que parecen decoración. Quitan peso sin quitar fuerza. Y el óculo elimina justo la parte que más pesaría y menos sostendría: el centro.\n\nLa altura del piso al óculo es igual al diámetro: 43 metros. Cabría una esfera perfecta dentro. Es una idea de diseño, pero también de ingeniería: forma y estructura son lo mismo.",
+   "titulo": "El Panteón: 1,900 años sin una sola varilla",
+   "pilar": "cultura",
+   "tiempo": "pasado"
   },
-  "libro": null,
-  "materias": [
+  {
+   "contexto": "Llevas un año y 2 millones de pesos en el lanzamiento de una nueva bebida. Los datos de tres meses dicen que no se vende. Tu equipo propone otro millón en publicidad «para no tirar lo invertido». Otro socio propone parar y usar ese millón en el producto que sí se vende.",
+   "formato": "queHarias",
+   "fuente": {
+    "nombre": "Wikipedia: Sunk cost",
+    "url": "https://en.wikipedia.org/wiki/Sunk_cost"
+   },
+   "idea": "Decide con el futuro, no con el pasado: lo gastado ya no está en la mesa.",
+   "imagen": {
+    "alt": "Avión Concorde de British Airways en el aeropuerto de Heathrow",
+    "credito": "Wikimedia Commons",
+    "pie": "Un Concorde de British Airways en Heathrow",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Concorde_g-boab_heathrow.jpg?width=900"
+   },
+   "materia": "Mente y decisiones",
+   "opciones": [
+    "Invertir el millón extra: ya llegamos muy lejos",
+    "Parar y mover el dinero al producto que funciona"
+   ],
+   "pregunta": "¿Qué harías?",
+   "repaso": {
+    "pregunta": "¿Qué es la falacia del costo hundido y por qué se llama también «falacia del Concorde»?",
+    "respuesta": "Seguir invirtiendo por lo ya gastado. Reino Unido y Francia siguieron financiando el Concorde aunque ya no tenía sentido económico."
+   },
+   "revelacion": "Si elegiste seguir, no estás solo. Se llama [[falacia del costo hundido|Error de seguir invirtiendo en algo solo por lo que ya se gastó, aunque el futuro no lo justifique.]]. El dinero gastado no se recupera elijas lo que elijas. La única pregunta útil es: con lo que sé hoy, ¿este millón rinde más aquí o allá?\n\nEn 1985, Hal Arkes y Catherine Blumer lo mostraron en un teatro de Ohio. Vendieron abonos de temporada a distintos precios al azar. Quienes pagaron el precio completo fueron a más funciones en la primera mitad de la temporada que quienes recibieron descuento. Iban para «no desperdiciar» lo pagado.\n\nTambién se llama **falacia del Concorde**. Reino Unido y Francia siguieron financiando el avión supersónico cuando ya era claro que no tenía sentido económico. El gobierno británico lo consideraba en privado un desastre comercial, pero razones políticas y legales impidieron salirse.",
+   "titulo": "Lo que ya gastaste no cuenta",
+   "pilar": "mente",
+   "tiempo": "presente"
+  },
+  {
+   "contexto": "Domingo 26 de agosto de 1928, Paisley, Escocia. May Donoghue entra al Wellmeadow Café con una amiga. La amiga paga. El dueño sirve [[ginger beer|Refresco de jengibre, muy popular en Escocia y en Inglaterra.]] de una botella oscura y opaca, de la marca D. Stevenson. Al servir el resto, según Donoghue, sale un caracol descompuesto. Ella se enferma y demanda al fabricante.",
+   "correcta": 1,
+   "formato": "elCaso",
+   "fuente": {
+    "nombre": "Wikipedia: Donoghue v Stevenson",
+    "url": "https://en.wikipedia.org/wiki/Donoghue_v_Stevenson"
+   },
+   "idea": "Tu responsabilidad llega hasta quien toma tu producto, no solo hasta quien te lo compra.",
+   "materia": "Derecho y poder",
+   "opciones": [
+    "No: sin contrato no hay a quién reclamarle",
+    "Sí: el fabricante debe cuidar a quien razonablemente consumirá su producto",
+    "Solo podía demandar al café que se la sirvió"
+   ],
+   "pregunta": "Donoghue no compró la bebida y no tenía contrato con nadie. ¿Podía demandar al fabricante?",
+   "repaso": {
+    "pregunta": "¿Qué estableció el caso Donoghue contra Stevenson (1932)?",
+    "respuesta": "Que el fabricante tiene un deber de cuidado hacia el consumidor final aunque no haya contrato: el principio del «prójimo» de Lord Atkin."
+   },
+   "revelacion": "El 26 de mayo de 1932, la [[Cámara de los Lores|En esa época, el tribunal de última instancia del Reino Unido.]] decidió por 3 votos contra 2 que sí podía. Lord Atkin escribió el principio del «prójimo»: debes tener cuidado razonable con quienes tus actos afectan de forma tan directa que deberías tenerlos en mente.\n\nAsí nació el deber de cuidado del fabricante hacia el consumidor final, aunque no haya contrato entre ellos. Es una de las bases del derecho de la [[negligencia|Responsabilidad por causar daño al no actuar con el cuidado que se esperaba.]] en el mundo de tradición inglesa.\n\nEl giro: nunca se probó que hubiera un caracol. El fabricante, David Stevenson, murió en noviembre de 1932, y el caso se arregló fuera de tribunales en 1934. Según el hijo del abogado de Donoghue, por 200 libras de las 500 reclamadas.",
+   "titulo": "El caracol en la botella",
+   "pilar": "mundo",
+   "tiempo": "pasado"
+  }
+ ],
+ "microexamen": [
+  {
+   "correcta": 2,
+   "explicacion": "Los ingenieros inventariaron lo que había a bordo y diseñaron «el buzón». Joseph Kerwin les dictó el procedimiento y Swigert y Haise lo armaron.",
+   "opciones": [
+    "Regresaron a la cápsula principal para usar sus filtros",
+    "Abrieron la escotilla para ventilar la nave",
+    "Armaron un adaptador con plástico de los manuales, cinta y mangueras"
+   ],
+   "origen": "historia",
+   "pregunta": "¿Cómo resolvieron en el Apolo 13 que los filtros de la cápsula no encajaran en el módulo lunar?"
+  },
+  {
+   "correcta": 0,
+   "explicacion": "112,801 empresas y negocios, con unas 820 mil personas trabajando; casi todos son micro y pequeños.",
+   "opciones": [
+    "Unos 112 mil",
+    "Unos 12 mil",
+    "Más de medio millón"
+   ],
+   "origen": "noticias",
+   "pregunta": "Según Coparmex Jalisco, ¿cuántos negocios hay en las zonas del tandeo de agua?"
+  },
+  {
+   "correcta": 1,
+   "explicacion": "Lord Atkin lo llamó el principio del «prójimo»: debes cuidar a quienes tus actos afectan directamente, aunque no haya contrato.",
+   "opciones": [
+    "Porque el café le cedió sus derechos",
+    "Porque el fabricante tiene un deber de cuidado hacia el consumidor final",
+    "Porque en Escocia toda bebida tiene garantía legal"
+   ],
+   "origen": "materias",
+   "pregunta": "En el caso del caracol en la botella (1932), ¿por qué Donoghue pudo demandar al fabricante sin haber comprado la bebida?"
+  }
+ ],
+ "noticias": [
+  {
+   "aMiQue": "Casi todos los afectados son micro y pequeños negocios (110,923): 14,110 restaurantes y hoteles, 6,694 salones de belleza y barberías, 992 lavanderías. Si tu operación, tu bodega o tus clientes de restaurante están en una zona de corte, el miércoles y el sábado son los días con más negocios sin agua. Conviene revisar tu calendario y tener cisterna o pipa prevista.",
+   "ambito": "jalisco",
+   "ambitoTexto": "Guadalajara",
+   "contexto": "La cifra es un análisis propio de Coparmex, no un dato oficial. El acueducto es un proyecto a largo plazo: el Congreso de Jalisco decidirá si se financia con un esquema público-privado; no resuelve los cortes de estos meses. Mientras tanto, el Ayuntamiento de Guadalajara reporta más de un millón de litros repartidos en pipas en unas 60 colonias.",
+   "fecha": "2026-10-20",
+   "fuentes": [
     {
-      "contexto": "En Roma hay una cúpula de concreto de 43 metros de diámetro, terminada bajo el emperador [[Adriano|Emperador romano del 117 al 138. Viajó por todo el imperio y fue un gran impulsor de la arquitectura.]] hacia el año 126. No tiene acero dentro. Arriba tiene un hueco abierto al cielo de unos 9 metros, el [[óculo|Abertura circular en lo alto de una cúpula. En el Panteón es la única fuente de luz natural.]]. Sigue siendo la cúpula de concreto sin refuerzo más grande del mundo.",
-      "correcta": 1,
-      "formato": "comoFunciona",
-      "fuente": {
-        "nombre": "Wikipedia: Pantheon, Rome",
-        "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
-      },
-      "idea": "El mejor diseño no agrega fuerza: quita peso donde no hace falta.",
-      "materia": "Arquitectura y diseño",
-      "opciones": [
-        "Escondieron varillas de bronce dentro del concreto",
-        "Hicieron el concreto más ligero y la cúpula más delgada conforme sube",
-        "Pusieron una columna central que retiraron al terminar"
-      ],
-      "pregunta": "¿Qué truco crees que usaron los romanos para que no se viniera abajo?",
-      "repaso": {
-        "pregunta": "¿Cómo logra el Panteón sostener su cúpula sin acero?",
-        "respuesta": "Concreto más ligero arriba (con piedra pómez), cúpula más delgada al subir, casetones que quitan peso y un óculo en el centro."
-      },
-      "revelacion": "El peso es el enemigo de una cúpula. Por eso los romanos cambiaron la receta del concreto de abajo hacia arriba. En la base usaron piedra pesada; en lo alto, piedras ligeras y porosas como la [[piedra pómez|Roca volcánica llena de burbujas de aire; es tan ligera que puede flotar.]]. La cúpula también se adelgaza al subir.\n\nPor dentro tiene cinco anillos de casetones, esos huecos cuadrados que parecen decoración. Quitan peso sin quitar fuerza. Y el óculo elimina justo la parte que más pesaría y menos sostendría: el centro.\n\nLa altura del piso al óculo es igual al diámetro: 43 metros. Cabría una esfera perfecta dentro. Es una idea de diseño, pero también de ingeniería: forma y estructura son lo mismo.",
-      "titulo": "El Panteón: 1,900 años sin una sola varilla"
+     "nombre": "Quadratín Jalisco: el tandeo alcanza a 112 mil negocios",
+     "url": "https://jalisco.quadratin.com.mx/principal/rotacion-de-agua-del-siapa-alcanza-a-112-mil-negocios-y-820-mil-trabajadores/"
     },
     {
-      "contexto": "Llevas un año y 2 millones de pesos en el lanzamiento de una nueva bebida. Los datos de tres meses dicen que no se vende. Tu equipo propone otro millón en publicidad «para no tirar lo invertido». Otro socio propone parar y usar ese millón en el producto que sí se vende.",
-      "formato": "queHarias",
-      "fuente": {
-        "nombre": "Wikipedia: Sunk cost",
-        "url": "https://en.wikipedia.org/wiki/Sunk_cost"
-      },
-      "idea": "Decide con el futuro, no con el pasado: lo gastado ya no está en la mesa.",
-      "imagen": {
-        "alt": "Avión Concorde de British Airways en el aeropuerto de Heathrow",
-        "credito": "Wikimedia Commons",
-        "pie": "Un Concorde de British Airways en Heathrow",
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Concorde_g-boab_heathrow.jpg?width=900"
-      },
-      "materia": "Mente y decisiones",
-      "opciones": [
-        "Invertir el millón extra: ya llegamos muy lejos",
-        "Parar y mover el dinero al producto que funciona"
-      ],
-      "pregunta": "¿Qué harías?",
-      "repaso": {
-        "pregunta": "¿Qué es la falacia del costo hundido y por qué se llama también «falacia del Concorde»?",
-        "respuesta": "Seguir invirtiendo por lo ya gastado. Reino Unido y Francia siguieron financiando el Concorde aunque ya no tenía sentido económico."
-      },
-      "revelacion": "Si elegiste seguir, no estás solo. Se llama [[falacia del costo hundido|Error de seguir invirtiendo en algo solo por lo que ya se gastó, aunque el futuro no lo justifique.]]. El dinero gastado no se recupera elijas lo que elijas. La única pregunta útil es: con lo que sé hoy, ¿este millón rinde más aquí o allá?\n\nEn 1985, Hal Arkes y Catherine Blumer lo mostraron en un teatro de Ohio. Vendieron abonos de temporada a distintos precios al azar. Quienes pagaron el precio completo fueron a más funciones en la primera mitad de la temporada que quienes recibieron descuento. Iban para «no desperdiciar» lo pagado.\n\nTambién se llama **falacia del Concorde**. Reino Unido y Francia siguieron financiando el avión supersónico cuando ya era claro que no tenía sentido económico. El gobierno británico lo consideraba en privado un desastre comercial, pero razones políticas y legales impidieron salirse.",
-      "titulo": "Lo que ya gastaste no cuenta"
+     "nombre": "Quadratín Jalisco: segundo acueducto, 103 mil mdp",
+     "url": "https://jalisco.quadratin.com.mx/principal/proyectan-inversion-de-103-mil-mdp-hasta-2040-para-el-segundo-acueducto/"
     },
     {
-      "contexto": "Domingo 26 de agosto de 1928, Paisley, Escocia. May Donoghue entra al Wellmeadow Café con una amiga. La amiga paga. El dueño sirve [[ginger beer|Refresco de jengibre, muy popular en Escocia y en Inglaterra.]] de una botella oscura y opaca, de la marca D. Stevenson. Al servir el resto, según Donoghue, sale un caracol descompuesto. Ella se enferma y demanda al fabricante.",
-      "correcta": 1,
-      "formato": "elCaso",
-      "fuente": {
-        "nombre": "Wikipedia: Donoghue v Stevenson",
-        "url": "https://en.wikipedia.org/wiki/Donoghue_v_Stevenson"
-      },
-      "idea": "Tu responsabilidad llega hasta quien toma tu producto, no solo hasta quien te lo compra.",
-      "materia": "Derecho y poder",
-      "opciones": [
-        "No: sin contrato no hay a quién reclamarle",
-        "Sí: el fabricante debe cuidar a quien razonablemente consumirá su producto",
-        "Solo podía demandar al café que se la sirvió"
-      ],
-      "pregunta": "Donoghue no compró la bebida y no tenía contrato con nadie. ¿Podía demandar al fabricante?",
-      "repaso": {
-        "pregunta": "¿Qué estableció el caso Donoghue contra Stevenson (1932)?",
-        "respuesta": "Que el fabricante tiene un deber de cuidado hacia el consumidor final aunque no haya contrato: el principio del «prójimo» de Lord Atkin."
-      },
-      "revelacion": "El 26 de mayo de 1932, la [[Cámara de los Lores|En esa época, el tribunal de última instancia del Reino Unido.]] decidió por 3 votos contra 2 que sí podía. Lord Atkin escribió el principio del «prójimo»: debes tener cuidado razonable con quienes tus actos afectan de forma tan directa que deberías tenerlos en mente.\n\nAsí nació el deber de cuidado del fabricante hacia el consumidor final, aunque no haya contrato entre ellos. Es una de las bases del derecho de la [[negligencia|Responsabilidad por causar daño al no actuar con el cuidado que se esperaba.]] en el mundo de tradición inglesa.\n\nEl giro: nunca se probó que hubiera un caracol. El fabricante, David Stevenson, murió en noviembre de 1932, y el caso se arregló fuera de tribunales en 1934. Según el hijo del abogado de Donoghue, por 200 libras de las 500 reclamadas.",
-      "titulo": "El caracol en la botella"
+     "nombre": "El Informador: colonias con cortes del 20 al 22 de octubre",
+     "url": "https://www.informador.mx/jalisco/siapa-lista-de-colonias-con-cortes-de-agua-del-20-al-22-de-octubre-20261019-0174.html"
     }
-  ],
-  "microexamen": [
+   ],
+   "historiaEnCurso": {
+    "capitulo": 2,
+    "dondeIbamos": "El SIAPA raciona el agua en 627 colonias desde el 15 de octubre y hasta marzo de 2027; hubo marchas el 11 y el 18 de octubre.",
+    "id": "agua-gdl",
+    "titulo": "Crisis del agua en Guadalajara"
+   },
+   "id": "n1",
+   "quePaso": "Coparmex Jalisco calculó que en las zonas del tandeo hay 112,801 empresas y negocios donde trabajan unas 820 mil personas. Son el 57% de las unidades económicas de Guadalajara, Zapopan, Tlaquepaque y Tonalá. El mismo día, la Comisión Estatal del Agua habló de un segundo acueducto con una inversión proyectada de 103 mil millones de pesos hasta 2040.",
+   "queVigilar": "Si el Congreso aprueba el modelo de financiamiento del acueducto, si el SIAPA ajusta el calendario para aliviar a los negocios y cómo avanzan las obras en la potabilizadora de Miravalle.",
+   "titular": "El tandeo de agua toca a 112 mil negocios, según Coparmex"
+  },
+  {
+   "aMiQue": "Un rumor movió el precio del petróleo varios dólares en horas. Si tus costos dependen de transporte, empaques o insumos importados, no fijes precios con la cotización de un solo día: usa promedios o rangos.",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "contexto": "**Hecho:** el jefe del ejército de Pakistán se reunió con el presidente de Irán en Teherán. **Sin confirmar:** que EE. UU. e Irán aceptaran la propuesta. Medios citan fuentes anónimas; ningún gobierno la confirmó oficialmente. Según The New Arab, incluiría liberar unos 6 mil millones de dólares iraníes congelados en Qatar y una visita del organismo nuclear de la ONU.",
+   "fecha": "2026-10-20",
+   "fuentes": [
     {
-      "correcta": 2,
-      "explicacion": "Los ingenieros inventariaron lo que había a bordo y diseñaron «el buzón». Joseph Kerwin les dictó el procedimiento y Swigert y Haise lo armaron.",
-      "opciones": [
-        "Regresaron a la cápsula principal para usar sus filtros",
-        "Abrieron la escotilla para ventilar la nave",
-        "Armaron un adaptador con plástico de los manuales, cinta y mangueras"
-      ],
-      "origen": "historia",
-      "pregunta": "¿Cómo resolvieron en el Apolo 13 que los filtros de la cápsula no encajaran en el módulo lunar?"
+     "nombre": "Discovery Alert: el Brent toca 111.99 y cae",
+     "url": "https://discoveryalert.com/news/oil-prices-brent-iran-talks-october-2026/"
     },
     {
-      "correcta": 0,
-      "explicacion": "112,801 empresas y negocios, con unas 820 mil personas trabajando; casi todos son micro y pequeños.",
-      "opciones": [
-        "Unos 112 mil",
-        "Unos 12 mil",
-        "Más de medio millón"
-      ],
-      "origen": "noticias",
-      "pregunta": "Según Coparmex Jalisco, ¿cuántos negocios hay en las zonas del tandeo de agua?"
+     "nombre": "The New Arab: visitas diplomáticas (20 de octubre)",
+     "url": "https://www.newarab.com/news/diplomatic-visits-attempt-hold-all-out-us-iran-war"
     },
     {
-      "correcta": 1,
-      "explicacion": "Lord Atkin lo llamó el principio del «prójimo»: debes cuidar a quienes tus actos afectan directamente, aunque no haya contrato.",
-      "opciones": [
-        "Porque el café le cedió sus derechos",
-        "Porque el fabricante tiene un deber de cuidado hacia el consumidor final",
-        "Porque en Escocia toda bebida tiene garantía legal"
-      ],
-      "origen": "materias",
-      "pregunta": "En el caso del caracol en la botella (1932), ¿por qué Donoghue pudo demandar al fabricante sin haber comprado la bebida?"
+     "nombre": "Publimetro: el dólar en su nivel más bajo desde septiembre",
+     "url": "https://www.publimetro.com.mx/noticias/2026/10/21/precio-dolar-hoy-nivel-mas-bajo-septiembre-peso-20-octubre-2026/"
     }
-  ],
-  "noticias": [
+   ],
+   "historiaEnCurso": {
+    "capitulo": 2,
+    "dondeIbamos": "Ataques a plantas petroleras sauditas llevaron el Brent arriba de 111 dólares; el peso abrió el martes cerca de 18.47 por dólar.",
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo"
+   },
+   "id": "n2",
+   "quePaso": "El martes, el Brent tocó 111.99 dólares, su nivel más alto en cinco meses, y luego cayó hasta 3% tras reportes de una propuesta de mediación de Qatar y Pakistán. Cerró en 108.79 dólares. El peso terminó en 18.42 por dólar según Banxico; el miércoles abrió cerca de 18.49.",
+   "queVigilar": "Si algún gobierno confirma la propuesta. Sin confirmación, el precio puede volver a subir con el siguiente ataque.",
+   "titular": "El petróleo sube y baja con rumores de una tregua entre EE. UU. e Irán"
+  },
+  {
+   "aMiQue": "Si pensabas esperar a que bajaran las tasas para pedir un crédito o refinanciar, la mayoría de los analistas no ve recortes pronto. Planea con el costo de financiamiento actual.",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "contexto": "Es un pronóstico, no una decisión. La diferencia entre las tasas de México y de EE. UU. está en su nivel más bajo, lo que limita a Banxico para bajar sin presionar al peso. Hay minoría: Bankaool y Finamex esperan un recorte en noviembre; otros seis bancos ven una subida en 2027.",
+   "fecha": "2026-10-20",
+   "fuentes": [
     {
-      "aMiQue": "Casi todos los afectados son micro y pequeños negocios (110,923): 14,110 restaurantes y hoteles, 6,694 salones de belleza y barberías, 992 lavanderías. Si tu operación, tu bodega o tus clientes de restaurante están en una zona de corte, el miércoles y el sábado son los días con más negocios sin agua. Conviene revisar tu calendario y tener cisterna o pipa prevista.",
-      "ambito": "jalisco",
-      "ambitoTexto": "Guadalajara",
-      "contexto": "La cifra es un análisis propio de Coparmex, no un dato oficial. El acueducto es un proyecto a largo plazo: el Congreso de Jalisco decidirá si se financia con un esquema público-privado; no resuelve los cortes de estos meses. Mientras tanto, el Ayuntamiento de Guadalajara reporta más de un millón de litros repartidos en pipas en unas 60 colonias.",
-      "fecha": "2026-10-20",
-      "fuentes": [
-        {
-          "nombre": "Quadratín Jalisco: el tandeo alcanza a 112 mil negocios",
-          "url": "https://jalisco.quadratin.com.mx/principal/rotacion-de-agua-del-siapa-alcanza-a-112-mil-negocios-y-820-mil-trabajadores/"
-        },
-        {
-          "nombre": "Quadratín Jalisco: segundo acueducto, 103 mil mdp",
-          "url": "https://jalisco.quadratin.com.mx/principal/proyectan-inversion-de-103-mil-mdp-hasta-2040-para-el-segundo-acueducto/"
-        },
-        {
-          "nombre": "El Informador: colonias con cortes del 20 al 22 de octubre",
-          "url": "https://www.informador.mx/jalisco/siapa-lista-de-colonias-con-cortes-de-agua-del-20-al-22-de-octubre-20261019-0174.html"
-        }
-      ],
-      "historiaEnCurso": {
-        "capitulo": 2,
-        "dondeIbamos": "El SIAPA raciona el agua en 627 colonias desde el 15 de octubre y hasta marzo de 2027; hubo marchas el 11 y el 18 de octubre.",
-        "id": "agua-gdl",
-        "titulo": "Crisis del agua en Guadalajara"
-      },
-      "id": "n1",
-      "quePaso": "Coparmex Jalisco calculó que en las zonas del tandeo hay 112,801 empresas y negocios donde trabajan unas 820 mil personas. Son el 57% de las unidades económicas de Guadalajara, Zapopan, Tlaquepaque y Tonalá. El mismo día, la Comisión Estatal del Agua habló de un segundo acueducto con una inversión proyectada de 103 mil millones de pesos hasta 2040.",
-      "queVigilar": "Si el Congreso aprueba el modelo de financiamiento del acueducto, si el SIAPA ajusta el calendario para aliviar a los negocios y cómo avanzan las obras en la potabilizadora de Miravalle.",
-      "titular": "El tandeo de agua toca a 112 mil negocios, según Coparmex"
-    },
-    {
-      "aMiQue": "Un rumor movió el precio del petróleo varios dólares en horas. Si tus costos dependen de transporte, empaques o insumos importados, no fijes precios con la cotización de un solo día: usa promedios o rangos.",
-      "ambito": "mundo",
-      "ambitoTexto": "Mundo",
-      "contexto": "**Hecho:** el jefe del ejército de Pakistán se reunió con el presidente de Irán en Teherán. **Sin confirmar:** que EE. UU. e Irán aceptaran la propuesta. Medios citan fuentes anónimas; ningún gobierno la confirmó oficialmente. Según The New Arab, incluiría liberar unos 6 mil millones de dólares iraníes congelados en Qatar y una visita del organismo nuclear de la ONU.",
-      "fecha": "2026-10-20",
-      "fuentes": [
-        {
-          "nombre": "Discovery Alert: el Brent toca 111.99 y cae",
-          "url": "https://discoveryalert.com/news/oil-prices-brent-iran-talks-october-2026/"
-        },
-        {
-          "nombre": "The New Arab: visitas diplomáticas (20 de octubre)",
-          "url": "https://www.newarab.com/news/diplomatic-visits-attempt-hold-all-out-us-iran-war"
-        },
-        {
-          "nombre": "Publimetro: el dólar en su nivel más bajo desde septiembre",
-          "url": "https://www.publimetro.com.mx/noticias/2026/10/21/precio-dolar-hoy-nivel-mas-bajo-septiembre-peso-20-octubre-2026/"
-        }
-      ],
-      "historiaEnCurso": {
-        "capitulo": 2,
-        "dondeIbamos": "Ataques a plantas petroleras sauditas llevaron el Brent arriba de 111 dólares; el peso abrió el martes cerca de 18.47 por dólar.",
-        "id": "golfo-petroleo",
-        "titulo": "Tensión en el Golfo y precio del petróleo"
-      },
-      "id": "n2",
-      "quePaso": "El martes, el Brent tocó 111.99 dólares, su nivel más alto en cinco meses, y luego cayó hasta 3% tras reportes de una propuesta de mediación de Qatar y Pakistán. Cerró en 108.79 dólares. El peso terminó en 18.42 por dólar según Banxico; el miércoles abrió cerca de 18.49.",
-      "queVigilar": "Si algún gobierno confirma la propuesta. Sin confirmación, el precio puede volver a subir con el siguiente ataque.",
-      "titular": "El petróleo sube y baja con rumores de una tregua entre EE. UU. e Irán"
-    },
-    {
-      "aMiQue": "Si pensabas esperar a que bajaran las tasas para pedir un crédito o refinanciar, la mayoría de los analistas no ve recortes pronto. Planea con el costo de financiamiento actual.",
-      "ambito": "mexico",
-      "ambitoTexto": "México",
-      "contexto": "Es un pronóstico, no una decisión. La diferencia entre las tasas de México y de EE. UU. está en su nivel más bajo, lo que limita a Banxico para bajar sin presionar al peso. Hay minoría: Bankaool y Finamex esperan un recorte en noviembre; otros seis bancos ven una subida en 2027.",
-      "fecha": "2026-10-20",
-      "fuentes": [
-        {
-          "nombre": "El Financiero: Encuesta Citi",
-          "url": "https://www.elfinanciero.com.mx/economia/2026/10/20/banxico-no-hara-cambios-a-tasa-en-2026-ni-en-2027-encuesta-citi/"
-        }
-      ],
-      "id": "n3",
-      "quePaso": "En la Encuesta Citi publicada el martes, 25 de 36 analistas prevén que la tasa de interés de Banxico se quede igual el resto de 2026 y todo 2027. Esperan que el dólar cierre 2026 en 18.20 pesos y que la economía crezca 1.4% este año.",
-      "queVigilar": "La próxima decisión de Banxico en noviembre y si la Reserva Federal de EE. UU. vuelve a subir su tasa.",
-      "titular": "Analistas esperan que Banxico no mueva la tasa en 2026 ni en 2027"
+     "nombre": "El Financiero: Encuesta Citi",
+     "url": "https://www.elfinanciero.com.mx/economia/2026/10/20/banxico-no-hara-cambios-a-tasa-en-2026-ni-en-2027-encuesta-citi/"
     }
-  ],
-  "numero": 2,
-  "portada": {
-    "alt": "Control de misión en Houston durante el Apolo 13",
-    "credito": "NASA · Wikimedia Commons",
-    "pie": "Control de misión, Houston, abril de 1970",
-    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1970_Mission_Control_Apollo_13.jpg?width=900"
+   ],
+   "id": "n3",
+   "quePaso": "En la Encuesta Citi publicada el martes, 25 de 36 analistas prevén que la tasa de interés de Banxico se quede igual el resto de 2026 y todo 2027. Esperan que el dólar cierre 2026 en 18.20 pesos y que la economía crezca 1.4% este año.",
+   "queVigilar": "La próxima decisión de Banxico en noviembre y si la Reserva Federal de EE. UU. vuelve a subir su tasa.",
+   "titular": "Analistas esperan que Banxico no mueva la tasa en 2026 ni en 2027"
+  }
+ ],
+ "numero": 2,
+ "portada": {
+  "alt": "Control de misión en Houston durante el Apolo 13",
+  "credito": "NASA · Wikimedia Commons",
+  "pie": "Control de misión, Houston, abril de 1970",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1970_Mission_Control_Apollo_13.jpg?width=900"
+ },
+ "proximo": "Tylenol 1982: retirar 31 millones de frascos para salvar la marca",
+ "rapido": {
+  "area": "gastronomia",
+  "areaTexto": "Gastronomía y vino",
+  "conexion": "Como en el Panteón de hoy, la forma no es adorno: cada parte resuelve un problema. Cuando algo de buen gusto parece puro protocolo, pregunta qué problema resolvía.",
+  "dato": "Una copa de vino tiene tallo por una razón práctica: que la mano no toque el cáliz.",
+  "porque": "La mano está más caliente que el vino y lo entibia, sobre todo el blanco y el espumoso, que se sirven fríos. Además, las huellas empañan el cristal y no dejan ver el color, que es parte de la cata. Por eso, en una mesa formal, la copa se sostiene del tallo.",
+  "titulo": "Por qué la copa de vino se toma del tallo"
+ },
+ "schemaVersion": 5,
+ "temporada": {
+  "episodio": 2,
+  "id": "t01",
+  "numero": 1,
+  "titulo": "Decisiones bajo presión",
+  "totalEpisodios": 6
+ },
+ "titulo": "Apolo 13: cómo meter un filtro cuadrado en un hueco redondo",
+ "datos": {
+  "pasado": {
+   "cuando": "1665",
+   "pilar": "futuro",
+   "titulo": "El año en que Newton se fue a casa",
+   "dato": "Cuando la peste cerró la Universidad de Cambridge, Isaac Newton, de 23 años, volvió a la granja de su familia. En unos dieciocho meses sentó las bases del cálculo, de su teoría de la luz y de la gravitación.",
+   "explicacion": "Se le llama su *annus mirabilis*, el año milagroso (1665–1666). En Woolsthorpe, lejos de clases y profesores, tuvo tiempo de pensar sin interrupciones. La historia de la manzana la contó él mismo, ya viejo, a su biógrafo William Stukeley: probablemente fue real como inspiración, aunque no le cayó en la cabeza.\n\nLa lección práctica: los grandes saltos casi siempre salen de largos ratos de concentración sin distracciones.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/GodfreyKneller-IsaacNewton-1689.jpg?width=900",
+    "alt": "Retrato de Isaac Newton",
+    "pie": "Isaac Newton retratado por Godfrey Kneller, 1689",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia · Isaac Newton",
+    "url": "https://es.wikipedia.org/wiki/Isaac_Newton"
+   },
+   "repaso": {
+    "pregunta": "¿Qué hizo Newton durante el cierre de Cambridge por la peste (1665–1666)?",
+    "respuesta": "Sentó las bases del cálculo, la óptica y la gravitación: su «año milagroso»."
+   }
   },
-  "proximo": "Tylenol 1982: retirar 31 millones de frascos para salvar la marca",
-  "rapido": {
-    "area": "gastronomia",
-    "areaTexto": "Gastronomía y vino",
-    "conexion": "Como en el Panteón de hoy, la forma no es adorno: cada parte resuelve un problema. Cuando algo de buen gusto parece puro protocolo, pregunta qué problema resolvía.",
-    "dato": "Una copa de vino tiene tallo por una razón práctica: que la mano no toque el cáliz.",
-    "porque": "La mano está más caliente que el vino y lo entibia, sobre todo el blanco y el espumoso, que se sirven fríos. Además, las huellas empañan el cristal y no dejan ver el color, que es parte de la cata. Por eso, en una mesa formal, la copa se sostiene del tallo.",
-    "titulo": "Por qué la copa de vino se toma del tallo"
+  "presente": {
+   "cuando": "2023",
+   "pilar": "mundo",
+   "titulo": "La India pasa a China",
+   "dato": "Desde 2023 la India es el país más poblado del mundo, por encima de China, según estimaciones de Naciones Unidas: más de 1,400 millones de personas.",
+   "explicacion": "China llevaba siglos en primer lugar. Su población empezó a bajar en 2022 por la baja natalidad, mientras que la India sigue creciendo y es mucho más joven: su edad mediana ronda los 28 años; la de China, cerca de 39.\n\nPor qué importa: una población joven es mano de obra y consumo para las próximas décadas. Por eso muchas empresas que buscan alternativas a China miran a la India, y también a México.",
+   "fuente": {
+    "nombre": "UNFPA · Estado de la Población Mundial 2023",
+    "url": "https://www.unfpa.org/swp2023"
+   },
+   "repaso": {
+    "pregunta": "¿Qué país es el más poblado del mundo desde 2023?",
+    "respuesta": "La India, que superó a China con más de 1,400 millones de habitantes."
+   }
   },
-  "schemaVersion": 4,
-  "temporada": {
-    "episodio": 2,
-    "id": "t01",
-    "numero": 1,
-    "titulo": "Decisiones bajo presión",
-    "totalEpisodios": 6
-  },
-  "titulo": "Apolo 13: cómo meter un filtro cuadrado en un hueco redondo"
+  "futuro": {
+   "cuando": "2029",
+   "pilar": "futuro",
+   "titulo": "Apofis pasa rozando",
+   "dato": "El viernes 13 de abril de 2029, el asteroide Apofis, de unos 340 metros, pasará a menos de 32,000 km de la Tierra: más cerca que los satélites geoestacionarios. Se podrá ver a simple vista desde algunas regiones.",
+   "explicacion": "Cuando se descubrió en 2004, los primeros cálculos le daban una pequeña probabilidad de chocar con la Tierra. Con más observaciones, la NASA descartó el riesgo de impacto por al menos los próximos cien años.\n\nSerá una oportunidad científica única: nunca se ha visto pasar tan cerca un asteroide de ese tamaño. La NASA redirigió su sonda OSIRIS-REx, rebautizada OSIRIS-APEX, para estudiarlo de cerca.",
+   "fuente": {
+    "nombre": "NASA · Apophis",
+    "url": "https://science.nasa.gov/solar-system/asteroids/apophis/"
+   },
+   "repaso": {
+    "pregunta": "¿Qué pasará el 13 de abril de 2029?",
+    "respuesta": "El asteroide Apofis pasará a menos de 32,000 km de la Tierra, sin riesgo de impacto."
+   }
+  }
+ },
+ "palabra": {
+  "palabra": "Serendipia",
+  "categoria": "Préstamo del inglés",
+  "pronunciacion": "se-ren-DÍ-pia",
+  "definicion": "Hallazgo valioso que se produce por accidente, cuando se buscaba otra cosa.",
+  "origen": "Del inglés *serendipity*, palabra que inventó el escritor Horace Walpole en 1754 a partir de un cuento persa, *Los tres príncipes de Serendip*. Serendip era el antiguo nombre de Sri Lanka.",
+  "ejemplo": "La penicilina fue una serendipia: Fleming encontró el moho por un descuido en su laboratorio.",
+  "repaso": {
+   "pregunta": "¿De dónde viene la palabra «serendipia»?",
+   "respuesta": "De «serendipity», que Horace Walpole inventó en 1754 por el cuento de Los tres príncipes de Serendip, antiguo nombre de Sri Lanka."
+  }
+ }
 }

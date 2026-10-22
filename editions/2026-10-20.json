@@ -263,7 +263,9 @@
    "repaso": {
     "pregunta": "¿Qué obra provocó un escándalo en su estreno en París en 1913 y de quién era la música?",
     "respuesta": "«La consagración de la primavera», de Igor Stravinsky, con los Ballets Rusos y coreografía de Nijinsky."
-   }
+   },
+   "pilar": "cultura",
+   "tiempo": "pasado"
   },
   {
    "materia": "Filosofía para vivir",
@@ -284,7 +286,9 @@
    "repaso": {
     "pregunta": "¿Qué es la premeditatio malorum y qué encontró Oettingen sobre fantasear con el éxito?",
     "respuesta": "Pensar por adelantado en lo que puede salir mal para no ser sorprendido. Oettingen encontró que fantasear con un futuro ideal reduce la energía para lograrlo."
-   }
+   },
+   "pilar": "mente",
+   "tiempo": "pasado"
   },
   {
    "materia": "Ciencia, tecnología e IA",
@@ -313,7 +317,9 @@
     "alt": "Ilustración de un satélite GPS en órbita",
     "pie": "Satélite GPS de bloque IIF (ilustración)",
     "credito": "NASA · Wikimedia Commons"
-   }
+   },
+   "pilar": "futuro",
+   "tiempo": "presente"
   }
  ],
  "lectura": {
