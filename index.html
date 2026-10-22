@@ -304,6 +304,26 @@ textarea,input[type=text]{width:100%;padding:12px 14px;border:1px solid var(--li
 .fdots span{flex:1;min-width:10px;height:3px;background:var(--line)}
 .fdots span.on{background:var(--gold)}
 
+
+/* Ficha para investigar */
+.sheet-in.ficha{max-height:86vh;overflow-y:auto;gap:12px}
+.ficha .fimg{width:100%;max-height:260px;object-fit:cover;border-radius:4px;background:var(--raised);color:transparent}
+.ficha .fdef{padding:10px 12px;border-left:3px solid var(--gold);background:var(--raised);font-family:var(--read);font-size:16px}
+.ficha .fsum{font-family:var(--read);font-size:17px;line-height:1.55}
+.ficha .flinks{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+.ficha .flinks a{min-height:48px;display:flex;align-items:center;justify-content:center;text-align:center;border:1px solid var(--line);border-radius:4px;font-size:13px;font-weight:600;text-decoration:none;color:var(--fg);padding:4px}
+.ficha .fhead{display:flex;justify-content:space-between;align-items:flex-start;gap:8px}
+.chipbtn{padding:6px 10px;border:1px solid var(--line);border-radius:2px;font-size:12.5px;background:var(--surface);min-height:34px;display:inline-flex;align-items:center;gap:6px}
+.chipbtn:after{content:"›";color:var(--gold);font-weight:700}
+.invest{display:flex;flex-direction:column;gap:8px;border-top:1px solid var(--line);padding-top:10px}
+.invest .row2{display:flex;flex-wrap:wrap;gap:6px}
+.vid{position:relative;width:100%;aspect-ratio:16/9;border-radius:4px;overflow:hidden;background:#000}
+.vid iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.buscar{display:flex;gap:8px}
+.buscar input{flex:1;min-height:48px}
+.buscar .btn{min-height:48px}
+.deep .chipbtn{background:var(--ink-2);border-color:var(--ink-line);color:var(--ink-fg)}
+
 /* Reproductor */
 .player{position:fixed;left:0;right:0;bottom:calc(74px + env(safe-area-inset-bottom,0px));z-index:6;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 .player-in{max-width:560px;margin:0 auto;background:var(--ink);color:var(--ink-fg);border:1px solid var(--ink-line);border-radius:6px;padding:8px 10px;display:flex;align-items:center;gap:8px;box-shadow:0 8px 28px rgba(0,0,0,.35)}
@@ -655,10 +675,60 @@ function bloqueFact(m,p){
   if(!H)return '<div class="fact" style="--c:'+colorDe(p)+'"><span class="eyebrow">Fact</span><p class="muted small">El primer fact de esta materia llega con la próxima edición.</p></div>';
   var old=L.slice(1,8);
   return '<div class="fact" style="--c:'+colorDe(p)+'"><div class="fh"><span class="eyebrow">Fact</span><span class="ep">'+esc(H.epoca||'')+'</span></div>'+
-    '<h4>'+esc(H.titulo||'')+'</h4>'+figura(H.imagen)+'<p class="lead">'+linea(H.dato||'')+'</p><div class="txt">'+paras(H.explicacion)+'</div>'+fuente(H.fuente)+
+    '<h4>'+esc(H.titulo||'')+'</h4>'+figura(H.imagen)+'<p class="lead">'+linea(H.dato||'')+'</p><div class="txt">'+paras(H.explicacion)+'</div>'+bloqueInvestigar(H)+fuente(H.fuente)+
     (H.fecha?'<p class="src">Fact del '+esc(fechaLarga(H.fecha))+'</p>':'')+
     (old.length?'<details><summary>Facts anteriores ('+old.length+')</summary>'+old.map(function(o){return '<div class="old"><span class="eyebrow" style="color:var(--muted)">'+esc(o.epoca||'')+'</span><b>'+esc(o.titulo||'')+'</b><p>'+linea(o.dato||'')+'</p>'+(o.explicacion?'<div class="txt">'+paras(o.explicacion)+'</div>':'')+fuente(o.fuente)+'</div>';}).join('')+'</details>':'')+
   '</div>';
+}
+
+
+/* ---------- Fichas: investigar un fact, un personaje o un término ---------- */
+var WIKI='https://es.wikipedia.org';
+var fichaCache={},fichaActual='';
+function wikiResumen(q){
+  if(fichaCache[q])return fichaCache[q];
+  var sum=function(t){return fetch(WIKI+'/api/rest_v1/page/summary/'+encodeURIComponent(t.replace(/ /g,'_'))).then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(j){if(j.type==='disambiguation'||!j.extract)throw 0;return j;});};
+  var buscar=function(){return fetch(WIKI+'/w/api.php?action=query&list=search&srlimit=1&format=json&origin=*&srsearch='+encodeURIComponent(q)).then(function(r){return r.json();}).then(function(j){var h=j&&j.query&&j.query.search&&j.query.search[0];if(!h)throw 0;return sum(h.title);});};
+  fichaCache[q]=sum(q).catch(buscar).catch(function(){delete fichaCache[q];return null;});
+  return fichaCache[q];
+}
+function idYoutube(u){var m=String(u||'').match(/(?:youtu\.be\/|v=|embed\/|shorts\/)([A-Za-z0-9_-]{11})/);return m?m[1]:null;}
+function videoHTML(v){
+  if(!v||!v.url)return '';
+  var id=idYoutube(v.url);
+  if(id)return '<details><summary>'+ICON.play+' Ver video'+(v.titulo?': '+esc(v.titulo):'')+(v.minutos?' · '+esc(v.minutos)+' min':'')+'</summary><div class="vid"><iframe src="https://www.youtube-nocookie.com/embed/'+id+'" title="'+esc(v.titulo||'Video')+'" loading="lazy" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe></div></details>';
+  return '<p class="src"><a href="'+esc(v.url)+'" target="_blank" rel="noopener">'+ICON.play+' '+esc(v.titulo||'Ver video')+'</a></p>';
+}
+function clavesDe(h){return (h&&h.claves||[]).map(function(c){return typeof c==='string'?{nombre:c}:c;}).filter(function(c){return c&&c.nombre;});}
+function bloqueInvestigar(h){
+  if(!h)return '';
+  var cl=clavesDe(h);
+  if(!h.wiki&&!cl.length&&!h.video&&!(h.profundizar&&h.profundizar.url))return '';
+  return '<div class="invest"><span class="eyebrow">Investiga más</span><div class="row2">'+
+    (h.wiki?'<button type="button" class="chipbtn" data-ficha="'+esc(h.wiki)+'">'+esc(h.wiki)+'</button>':'')+
+    cl.map(function(c){return '<button type="button" class="chipbtn" data-ficha="'+esc(c.wiki||c.nombre)+'" data-fdef="'+esc(c.quien||'')+'">'+esc(c.nombre)+'</button>';}).join('')+
+  '</div>'+videoHTML(h.video)+(h.profundizar&&h.profundizar.url?'<p class="src"><a href="'+esc(h.profundizar.url)+'" target="_blank" rel="noopener">Para profundizar: '+esc(h.profundizar.titulo||h.profundizar.url)+'</a></p>':'')+'</div>';
+}
+function abrirFicha(q,def){
+  q=String(q||'').trim();if(!q)return;fichaActual=q;
+  var el=document.getElementById('sheet');
+  var enc=encodeURIComponent(q);
+  var links='<div class="flinks"><a href="'+WIKI+'/wiki/Special:Search?search='+enc+'" target="_blank" rel="noopener">Artículo completo</a><a href="https://www.youtube.com/results?search_query='+enc+'" target="_blank" rel="noopener">Videos</a><a href="https://commons.wikimedia.org/w/index.php?search='+enc+'&title=Special:MediaSearch&type=image" target="_blank" rel="noopener">Imágenes</a></div>';
+  var pinta=function(cuerpo){
+    el.innerHTML='<div class="sheet-in ficha" role="dialog" aria-label="'+esc(q)+'"><div class="fhead"><b>'+esc(q)+'</b><button type="button" class="icon-btn" data-act="sheetclose" aria-label="Cerrar">'+ICON.close+'</button></div>'+
+      (def?'<p class="fdef">'+esc(def)+'</p>':'')+cuerpo+links+
+      '<div class="buscar"><input type="text" id="fq" placeholder="¿Otra duda? Escribe un término o nombre" aria-label="Buscar otro término"><button type="button" class="btn btn-ghost" data-act="fbuscar">Buscar</button></div></div>';
+    el.hidden=false;
+  };
+  pinta('<p class="muted small">Buscando en la enciclopedia…</p>');
+  wikiResumen(q).then(function(j){
+    if(el.hidden||fichaActual!==q)return;
+    if(!j){pinta('<p class="muted small">No encontré un resumen aquí. Usa los botones para ver el artículo, videos o imágenes.</p>');return;}
+    var img=j.originalimage||j.thumbnail;
+    pinta((img?'<img class="fimg" src="'+esc(img.source)+'" alt="'+esc(j.title)+'" referrerpolicy="no-referrer" onerror="this.remove()">':'')+
+      (j.description?'<p class="eyebrow">'+esc(j.description)+'</p>':'')+
+      '<p class="fsum">'+esc(j.extract)+'</p><p class="src">Fuente: Wikipedia · <a href="'+esc(j.content_urls&&j.content_urls.mobile?j.content_urls.mobile.page:WIKI+'/wiki/'+encodeURIComponent(j.title))+'" target="_blank" rel="noopener">'+esc(j.title)+'</a></p>');
+  });
 }
 
 /* ---------- Vistas ---------- */
@@ -791,6 +861,7 @@ function vistaExplorar(){
   var orden=[1,2,3,4,5,6,0];
   var html=encabezado()+
   '<div class="page-t"><span class="eyebrow">El plan de formación</span><h1>El hombre completo</h1><p>Ocho pilares y veintiséis materias. Cada materia trae un fact con su explicación, de cualquier época, y se renueva con las ediciones.</p></div>'+
+  '<section style="display:flex;flex-direction:column;gap:10px"><div class="sec-h"><h2>¿Alguna duda?</h2><span>Término, persona u obra</span></div><div class="buscar"><input type="text" id="bq" placeholder="Ej.: Caravaggio, estoicismo, Bretton Woods" aria-label="Buscar un término"><button type="button" class="btn btn-primary" data-act="buscar">Buscar</button></div></section>'+
   '<section style="display:flex;flex-direction:column;gap:12px"><div class="sec-h"><h2>Los ocho pilares</h2><span>Toca uno</span></div><div class="pgrid">'+
     PILARES.map(function(p){var w=Math.round(cnt[p.id]*100/mx);return '<button type="button" class="pcard" style="--c:'+colorDe(p)+'" data-pilar="'+p.id+'"><span class="r">'+p.rom+'</span><b>'+esc(p.n)+'</b><span>'+esc(p.lema)+' · '+p.m.length+' materias</span><span class="bar2" aria-hidden="true"><i style="width:'+w+'%"></i></span></button>';}).join('')+
   '</div></section>'+
@@ -807,7 +878,7 @@ function vistaPilar(p){
   '<section>'+p.m.map(function(m){
     return '<article class="mat"><div class="mtag"><i class="pd" style="--c:'+colorDe(p)+'"></i><span>'+esc(p.n)+'</span></div><h3>'+esc(m.n)+'</h3><p class="dsc">'+esc(m.d)+'</p>'+
       bloqueFact(m,p)+
-      '<div><p class="eyebrow" style="margin-bottom:8px">Nombres que conviene conocer</p><div class="ess">'+m.e.map(function(x){return '<span>'+esc(x)+'</span>';}).join('')+'</div></div></article>';
+      '<div><p class="eyebrow" style="margin-bottom:8px">Nombres que conviene conocer</p><div class="ess">'+m.e.map(function(x){return '<button type="button" class="chipbtn" data-ficha="'+esc(x)+'">'+esc(x)+'</button>';}).join('')+'</div><p class="muted small" style="margin-top:8px">Toca un nombre para ver quién es, con imagen, videos y artículo.</p></div></article>';
   }).join('')+'</section>';
 }
 function vistaTemporadas(){
@@ -997,7 +1068,7 @@ function pasoDatos(){
     '<article class="dato">'+
       '<div class="mtag"><i class="pd" style="--c:'+colorDe(pl)+'"></i><span class="m">'+esc(d.materia||(pl?pl.n:''))+'</span></div>'+
       (d.epoca?'<span class="'+epocaCls(d.epoca)+'">'+esc(d.epoca)+'</span>':'')+
-      '<h3>'+esc(d.titulo||'')+'</h3>'+figura(d.imagen)+'<p class="lead">'+linea(d.dato||'')+'</p><div class="txt">'+paras(d.explicacion)+'</div>'+fuente(d.fuente)+'</article>'+foot;
+      '<h3>'+esc(d.titulo||'')+'</h3>'+figura(d.imagen)+'<p class="lead">'+linea(d.dato||'')+'</p><div class="txt">'+paras(d.explicacion)+'</div>'+bloqueInvestigar(d)+fuente(d.fuente)+'</article>'+foot;
 }
 function pasoMaterias(){
   var M=S.edition.materias||[],st=S.prog.materias||{};
@@ -1015,7 +1086,7 @@ function pasoMaterias(){
       (m.contexto?'<div class="txt">'+paras(m.contexto)+'</div>':'')+
       (m.pregunta?'<p class="t1" style="font-size:17px">'+linea(m.pregunta)+'</p>':'')+ops+
       (visto?'<div class="feedback">'+(eleg&&hayCorrecta?'<b>'+(s.eleccion===m.correcta?'Correcto.':'Casi.')+'</b>':'')+paras(m.revelacion)+'</div>'+
-        (m.idea?'<div class="idea"><span class="eyebrow">La idea</span>'+esc(m.idea)+'</div>':'')+fuente(m.fuente)
+        (m.idea?'<div class="idea"><span class="eyebrow">La idea</span>'+esc(m.idea)+'</div>':'')+bloqueInvestigar(m)+fuente(m.fuente)
         :(!(m.opciones&&m.opciones.length)||!hayCorrecta?'<button type="button" class="btn btn-ghost" data-mrev="'+i+'">'+(m.opciones&&m.opciones.length?'Ver los argumentos':'Ver la respuesta')+'</button>':''))+
     '</article>';
   }).join('')+pieSiguiente();
@@ -1049,7 +1120,7 @@ function pasoLectura(){
     (L.proximo?'<p class="muted small">Mañana: '+esc(L.proximo)+'</p>':'')+
     pieSiguiente();
 }
-function mostrarTermino(t,d){
+function mostrarTermino(t,d){abrirFicha(t,d);return;
   var el=document.getElementById('sheet');
   el.innerHTML='<div class="sheet-in" role="dialog" aria-label="'+esc(t)+'"><b>'+esc(t)+'</b><p>'+esc(d)+'</p><button type="button" class="btn btn-ghost" data-act="sheetclose">Entendido</button></div>';
   el.hidden=false;
@@ -1197,6 +1268,8 @@ document.addEventListener('click',function(ev){
   if(d.news!==undefined){var n=+d.news;S.flow.abierta=(S.flow.abierta===n?-1:n);renderFlow();return;}
   if(d.know!==undefined){var C=S.flow.cal;var card=C.cards[C.i];responderTarjeta(card,d.know==='1');C.i++;C.show=false;renderFlow();return;}
   if(d.def!==undefined){mostrarTermino(d.term,d.def);return;}
+  if(d.ficha!==undefined){abrirFicha(d.ficha,d.fdef||'');return;}
+  if(d.act==='fbuscar'||d.act==='buscar'){var inp=document.getElementById(d.act==='fbuscar'?'fq':'bq');if(inp&&inp.value.trim())abrirFicha(inp.value.trim());return;}
   if(d.act==='sheetclose'){var sh=document.getElementById('sheet');sh.hidden=true;sh.innerHTML='';return;}
   if(d.lq!==undefined){
     S.prog.lecturaResp=S.prog.lecturaResp||{};
@@ -1263,6 +1336,7 @@ function exportar(){
   }).then(function(){if(msg)msg.textContent='Descarga lista.';}).catch(function(){if(msg)msg.textContent='No se descargó. Intenta de nuevo.';});
 }
 document.addEventListener('keydown',function(ev){
+  if(ev.key==='Enter'&&ev.target&&(ev.target.id==='fq'||ev.target.id==='bq')){if(ev.target.value.trim())abrirFicha(ev.target.value.trim());return;}
   if(ev.key==='Escape'){var sh=document.getElementById('sheet');if(!sh.hidden){sh.hidden=true;sh.innerHTML='';return;}}
   if(!S.flow||S.flow.pasos[S.flow.i]!=='historia')return;
   if(ev.target&&(ev.target.tagName==='TEXTAREA'||ev.target.tagName==='INPUT'))return;
