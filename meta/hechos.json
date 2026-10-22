@@ -1,6 +1,287 @@
 {
  "actualizado": "2026-10-22",
  "materias": {
+  "Filosofía para vivir": [
+   {
+    "claves": [
+     {
+      "nombre": "Estoicismo",
+      "quien": "Escuela filosófica griega que enseña a distinguir lo que depende de ti de lo que no; Marco Aurelio fue su último gran autor.",
+      "wiki": "Estoicismo"
+     },
+     {
+      "nombre": "Guerras marcomanas",
+      "quien": "Guerras de Roma contra pueblos germanos junto al Danubio (166–180); en esas campañas escribió sus notas.",
+      "wiki": "Guerras marcomanas"
+     },
+     {
+      "nombre": "Filosofía romana",
+      "quien": "Cómo los romanos adoptaron y adaptaron la filosofía griega, casi siempre como guía práctica para vivir.",
+      "wiki": "Filosofía romana"
+     }
+    ],
+    "dato": "Las *Meditaciones* de Marco Aurelio, uno de los libros de filosofía más leídos del mundo, nunca fueron pensadas para publicarse. Están escritas en griego, no en latín, y su título original significa \"Para sí mismo\".",
+    "epoca": "c. 170–180 d. C.",
+    "explicacion": "Marco Aurelio gobernó Roma de 161 a 180. Escribió estas notas en campaña militar, en tiendas junto al Danubio, como un cuaderno para corregirse a sí mismo. El griego era la lengua de la filosofía para un romano culto, como el francés lo fue después para las élites europeas.\n\nPor eso el libro se lee tan íntimo: no hay pose ni público. Es un hombre con todo el poder del mundo recordándose ser paciente, justo y breve. La primera edición impresa apareció en Zúrich en 1558 o 1559, casi 1,400 años después.",
+    "fecha": "2026-10-22",
+    "fuente": {
+     "nombre": "Wikipedia: Meditations",
+     "url": "https://en.wikipedia.org/wiki/Meditations"
+    },
+    "materia": "Filosofía para vivir",
+    "pilar": "mente",
+    "repaso": {
+     "pregunta": "¿En qué idioma escribió Marco Aurelio sus Meditaciones y para quién?",
+     "respuesta": "En griego, y para sí mismo: nunca pensó publicarlas. Su título original significa \"Para sí mismo\"."
+    },
+    "titulo": "El libro que un emperador escribió para nadie",
+    "wiki": "Marco Aurelio"
+   }
+  ],
+  "Mente y decisiones": [
+   {
+    "materia": "Mente y decisiones",
+    "pilar": "mente",
+    "epoca": "1951",
+    "titulo": "Tres de cada cuatro dijeron lo que no veían",
+    "dato": "En el experimento de Solomon Asch, alrededor de 75% de los participantes dio al menos una vez una respuesta claramente falsa solo porque el grupo la decía.",
+    "explicacion": "Asch pidió a estudiantes comparar la longitud de unas líneas. Todos los demás en la sala eran actores que, a propósito, elegían la respuesta equivocada. La tarea era tan fácil que solos casi nadie fallaba; en grupo, más de un tercio de las respuestas se alinearon con el error.\n\nLa lección no es que la gente sea tonta, sino que el costo social de disentir pesa en el juicio. Asch también encontró el antídoto: cuando un solo actor rompía la unanimidad, la conformidad caía de golpe. En una junta, basta una voz distinta para que otros se atrevan a decir lo que ven.",
+    "fuente": {
+     "nombre": "Wikipedia: Experimento de Asch",
+     "url": "https://es.wikipedia.org/wiki/Experimento_de_Asch"
+    },
+    "wiki": "Experimento de Asch",
+    "claves": [
+     {
+      "nombre": "Solomon Asch",
+      "quien": "Psicólogo polaco-estadounidense que diseñó el experimento",
+      "wiki": "Solomon Asch"
+     },
+     {
+      "nombre": "Conformidad",
+      "quien": "Tendencia a ajustar opiniones o conductas a las del grupo",
+      "wiki": "Conformidad"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué reducía casi por completo la conformidad en el experimento de Asch?",
+     "respuesta": "Que una sola persona del grupo rompiera la unanimidad."
+    },
+    "fecha": "2026-10-22"
+   }
+  ],
+  "Retórica y oratoria": [
+   {
+    "materia": "Retórica y oratoria",
+    "pilar": "mente",
+    "epoca": "1863",
+    "titulo": "Dos horas contra dos minutos",
+    "dato": "En Gettysburg, el orador principal fue Edward Everett, que habló unas dos horas. Lincoln habló después, unos dos minutos y apenas 272 palabras, y es su discurso el que se recuerda.",
+    "explicacion": "Everett era el gran orador de su tiempo y cumplió con lo esperado: un repaso largo y erudito de la batalla. Lincoln, invitado a decir 'unas palabras', convirtió el homenaje a los muertos en una definición de la nación: igualdad, sacrificio y un 'gobierno del pueblo, por el pueblo y para el pueblo'.\n\nEl propio Everett le escribió al día siguiente que le habría gustado acercarse en dos horas a la idea central que Lincoln logró en dos minutos. La brevedad no es falta de contenido: obliga a elegir una sola idea y a decirla con fuerza.",
+    "fuente": {
+     "nombre": "Wikipedia: Discurso de Gettysburg",
+     "url": "https://es.wikipedia.org/wiki/Discurso_de_Gettysburg"
+    },
+    "wiki": "Discurso de Gettysburg",
+    "claves": [
+     {
+      "nombre": "Abraham Lincoln",
+      "quien": "Presidente de EE. UU. durante la Guerra de Secesión",
+      "wiki": "Abraham Lincoln"
+     },
+     {
+      "nombre": "Edward Everett",
+      "quien": "Político y orador, el ponente principal de aquel día",
+      "wiki": "Edward Everett"
+     },
+     {
+      "nombre": "Batalla de Gettysburg",
+      "quien": "Batalla de 1863, punto de inflexión de la guerra",
+      "wiki": "Batalla de Gettysburg"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuánto duró aproximadamente el discurso de Lincoln en Gettysburg?",
+     "respuesta": "Unos dos minutos, 272 palabras."
+    },
+    "fecha": "2026-10-22"
+   }
+  ],
+  "Disciplina y hábitos": [
+   {
+    "claves": [
+     {
+      "nombre": "University College de Londres",
+      "quien": "Universidad donde Phillippa Lally y su equipo midieron cuánto tarda en formarse un hábito.",
+      "wiki": "University College de Londres"
+     },
+     {
+      "nombre": "Ciclo del hábito",
+      "quien": "Modelo de señal, rutina y recompensa con el que suele explicarse cómo se automatiza una conducta.",
+      "wiki": "Ciclo de costumbre (habit loop)"
+     },
+     {
+      "nombre": "Psico-Cibernética",
+      "quien": "Libro de 1960 del cirujano Maxwell Maltz, señalado a menudo como el origen del mito de los 21 días.",
+      "wiki": "Psico-Cibernética"
+     }
+    ],
+    "dato": "La idea de que un hábito se forma en 21 días no viene de ningún estudio serio. Cuando en University College London lo midieron, la mediana fue de 66 días, con casos de 18 a 254.",
+    "epoca": "2009",
+    "explicacion": "Phillippa Lally y su equipo siguieron a 96 voluntarios durante 84 días; cada uno eligió una conducta diaria, como comer fruta o caminar. Medían cuándo la acción se volvía automática, sin esfuerzo. Entre quienes dieron datos suficientes, la mediana fue 66 días. Se publicó en el *European Journal of Social Psychology* (2010).\n\nEl hallazgo más útil: fallar un día no borró el avance. La automaticidad apenas bajó y se recuperó pronto. Lo que importa es la repetición en el mismo contexto, no una racha perfecta. Ojo: es un estudio, con muestra pequeña; el número exacto no es una ley.",
+    "fecha": "2026-10-22",
+    "fuente": {
+     "nombre": "The Behavioral Scientist: lo que Lally et al. (2010) encontraron",
+     "url": "https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit"
+    },
+    "materia": "Disciplina y hábitos",
+    "pilar": "caracter",
+    "repaso": {
+     "pregunta": "¿Cuánto tardó en volverse automático un hábito en el estudio de Lally?",
+     "respuesta": "Una mediana de 66 días, con un rango de 18 a 254. Fallar un día no borró el avance."
+    },
+    "titulo": "No son 21 días",
+    "wiki": "Hábito (ciencias de la salud)"
+   }
+  ],
+  "Liderazgo e influencia": [
+   {
+    "materia": "Liderazgo e influencia",
+    "pilar": "caracter",
+    "epoca": "1914–1916",
+    "titulo": "Perdió el barco, no a un solo hombre",
+    "dato": "El Endurance de Ernest Shackleton quedó atrapado y aplastado por el hielo antártico, pero los 28 hombres de la expedición sobrevivieron casi dos años después. El barco hundido apareció en 2022, a unos 3,000 metros de profundidad.",
+    "explicacion": "La meta original, cruzar la Antártida, fracasó por completo. Shackleton cambió el objetivo a uno solo: que todos volvieran vivos. Mantuvo rutinas, repartió tareas, cuidó la moral y se quedó cerca de los más conflictivos para que no contagiaran al grupo.\n\nAl final cruzó en un bote abierto unos 1,300 km de mar helado hasta Georgia del Sur para pedir rescate. Su caso se estudia en escuelas de negocios porque muestra que liderar en crisis es redefinir el éxito a tiempo y proteger al equipo antes que al plan.",
+    "fuente": {
+     "nombre": "Wikipedia: Expedición Imperial Transantártica",
+     "url": "https://es.wikipedia.org/wiki/Expedici%C3%B3n_Imperial_Transant%C3%A1rtica"
+    },
+    "wiki": "Ernest Shackleton",
+    "claves": [
+     {
+      "nombre": "Ernest Shackleton",
+      "quien": "Explorador anglo-irlandés que dirigió la expedición",
+      "wiki": "Ernest Shackleton"
+     },
+     {
+      "nombre": "Endurance",
+      "quien": "El barco de la expedición, hundido en el mar de Weddell en 1915",
+      "wiki": "Endurance (barco)"
+     },
+     {
+      "nombre": "Georgia del Sur",
+      "quien": "Isla a la que llegaron en bote para pedir ayuda",
+      "wiki": "Isla San Pedro (Georgia del Sur)"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuántos hombres de la expedición del Endurance sobrevivieron?",
+     "respuesta": "Los 28."
+    },
+    "fecha": "2026-10-22"
+   }
+  ],
+  "Relaciones y vida social": [
+   {
+    "materia": "Relaciones y vida social",
+    "pilar": "caracter",
+    "epoca": "Desde 1938",
+    "titulo": "El estudio más largo sobre la felicidad",
+    "dato": "El Estudio de Harvard sobre el Desarrollo Adulto sigue a las mismas personas desde 1938. Su conclusión más repetida: la calidad de las relaciones predice la salud y la felicidad en la vejez mejor que el dinero o la fama.",
+    "explicacion": "Comenzó con 268 estudiantes de Harvard y luego sumó a jóvenes de barrios pobres de Boston; hoy incluye también a sus hijos. Durante décadas se midieron salud, ingresos, matrimonio y hábitos. Quienes estaban más satisfechos con sus relaciones a los 50 resultaron los más sanos a los 80.\n\nSu director actual, Robert Waldinger, resume que la soledad pesa sobre la salud de forma comparable a otros riesgos conocidos. No se trata de tener muchos contactos, sino pocos vínculos en los que de verdad se pueda confiar.",
+    "fuente": {
+     "nombre": "Harvard Study of Adult Development",
+     "url": "https://www.adultdevelopmentstudy.org/"
+    },
+    "wiki": "Robert Waldinger",
+    "claves": [
+     {
+      "nombre": "Robert Waldinger",
+      "quien": "Psiquiatra, director actual del estudio",
+      "wiki": "Robert Waldinger"
+     },
+     {
+      "nombre": "George Vaillant",
+      "quien": "Psiquiatra que dirigió el estudio durante décadas",
+      "wiki": "George Eman Vaillant"
+     }
+    ],
+    "repaso": {
+     "pregunta": "Según el estudio de Harvard, ¿qué predice mejor la salud en la vejez?",
+     "respuesta": "La calidad de las relaciones personales."
+    },
+    "fecha": "2026-10-22"
+   }
+  ],
+  "Salud y longevidad": [
+   {
+    "claves": [
+     {
+      "nombre": "Fiebre puerperal",
+      "quien": "Infección después del parto que mataba a miles de madres en los hospitales del siglo XIX.",
+      "wiki": "Sepsis puerperal"
+     },
+     {
+      "nombre": "Hospital General de Viena",
+      "quien": "El hospital donde Semmelweis comparó las dos salas de partos y encontró la diferencia.",
+      "wiki": "Hospital general de Viena"
+     },
+     {
+      "nombre": "Teoría microbiana",
+      "quien": "La idea de que los microbios causan enfermedades; Pasteur y Lister la probaron años después.",
+      "wiki": "Teoría microbiana de la enfermedad"
+     }
+    ],
+    "dato": "En abril de 1847 moría el 18.3% de las madres en una sala de partos de Viena. Ignaz Semmelweis ordenó lavarse las manos con cal clorada y en junio la cifra bajó a 2.2%.",
+    "epoca": "1847",
+    "explicacion": "La sala la atendían médicos que llegaban directo de hacer autopsias; la de al lado, parteras, y morían muchas menos mujeres. Cuando un colega de Semmelweis murió tras cortarse con un bisturí en una autopsia, con síntomas iguales a los de las madres, entendió que algo pasaba de los cadáveres a las pacientes.\n\nAún no existía la teoría de los gérmenes y muchos colegas lo rechazaron. Murió en 1865 en un asilo, de una infección. Pasteur y Lister le darían la razón años después. La lección: tener los datos no basta si no tienes una explicación que convenza.",
+    "fecha": "2026-10-22",
+    "fuente": {
+     "nombre": "Wikipedia: Ignaz Semmelweis",
+     "url": "https://en.wikipedia.org/wiki/Ignaz_Semmelweis"
+    },
+    "materia": "Salud y longevidad",
+    "pilar": "cuerpo",
+    "repaso": {
+     "pregunta": "¿Qué cambió Semmelweis en 1847 y con qué resultado?",
+     "respuesta": "Impuso lavarse las manos con cal clorada; la mortalidad de madres bajó de 18.3% en abril a 2.2% en junio."
+    },
+    "titulo": "El médico que pidió lavarse las manos",
+    "wiki": "Ignaz Semmelweis"
+   }
+  ],
+  "Deporte y aire libre": [
+   {
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
+    "epoca": "1954",
+    "titulo": "La barrera que duró 46 días",
+    "dato": "Durante años se dijo que correr una milla en menos de cuatro minutos era imposible. Roger Bannister lo hizo el 6 de mayo de 1954 (3:59.4) y 46 días después John Landy ya había batido su marca.",
+    "explicacion": "Bannister era estudiante de medicina y entrenaba en sus ratos libres. Usó a dos compañeros como liebres para marcar el ritmo y corrió en Oxford con viento cambiante. El récord no duró ni dos meses.\n\nLa historia suele contarse como prueba de que las barreras son mentales. La parte cierta es que muchos atletas estaban ya muy cerca; la marca era un umbral simbólico más que físico. Una vez que alguien lo cruza, los demás dejan de dudar de que se pueda.",
+    "fuente": {
+     "nombre": "Wikipedia: Roger Bannister",
+     "url": "https://es.wikipedia.org/wiki/Roger_Bannister"
+    },
+    "wiki": "Roger Bannister",
+    "claves": [
+     {
+      "nombre": "Roger Bannister",
+      "quien": "Atleta y neurólogo británico, primero en bajar de 4 minutos en la milla",
+      "wiki": "Roger Bannister"
+     },
+     {
+      "nombre": "John Landy",
+      "quien": "Atleta australiano que superó su marca semanas después",
+      "wiki": "John Landy"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuánto duró el récord de la milla de Roger Bannister?",
+     "respuesta": "46 días."
+    },
+    "fecha": "2026-10-22"
+   }
+  ],
   "Arte y pintura": [
    {
     "claves": [
@@ -44,41 +325,285 @@
     "wiki": "La Gioconda"
    }
   ],
-  "Disciplina y hábitos": [
+  "Arquitectura y diseño": [
+   {
+    "materia": "Arquitectura y diseño",
+    "pilar": "cultura",
+    "epoca": "1420–1436",
+    "titulo": "Una cúpula sin andamio de soporte",
+    "dato": "Brunelleschi construyó la cúpula de la catedral de Florencia, la mayor de ladrillo del mundo, sin la cimbra de madera que se usaba para sostener una bóveda mientras se levantaba.",
+    "explicacion": "El hueco medía unos 43 metros y no había bosques suficientes para una cimbra de ese tamaño. Brunelleschi hizo dos cúpulas, una dentro de otra, y colocó los ladrillos en espina de pescado para que cada hilada se sostuviera sola mientras el mortero endurecía. También inventó grúas y montacargas para subir los materiales.\n\nMás de 600 años después, sigue siendo el punto más alto de Florencia. Es un ejemplo perfecto de cómo una restricción imposible obliga a inventar un método nuevo.",
+    "fuente": {
+     "nombre": "Wikipedia: Catedral de Santa María del Fiore",
+     "url": "https://es.wikipedia.org/wiki/Catedral_de_Santa_Mar%C3%ADa_del_Fiore"
+    },
+    "wiki": "Catedral de Santa María del Fiore",
+    "claves": [
+     {
+      "nombre": "Filippo Brunelleschi",
+      "quien": "Arquitecto y orfebre florentino, pionero del Renacimiento",
+      "wiki": "Filippo Brunelleschi"
+     },
+     {
+      "nombre": "Cimbra",
+      "quien": "Armazón provisional que sostiene un arco o bóveda en construcción",
+      "wiki": "Cimbra"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué técnica usó Brunelleschi para que los ladrillos se sostuvieran sin cimbra?",
+     "respuesta": "Colocarlos en espina de pescado, dentro de una doble cúpula."
+    },
+    "fecha": "2026-10-22"
+   }
+  ],
+  "Música": [
+   {
+    "materia": "Música",
+    "pilar": "cultura",
+    "epoca": "1824",
+    "titulo": "El compositor que no oyó la ovación",
+    "dato": "En el estreno de la Novena Sinfonía, Beethoven estaba casi totalmente sordo. Al terminar seguía de espaldas al público, y una de las cantantes lo giró para que viera los aplausos.",
+    "explicacion": "El estreno fue en Viena el 7 de mayo de 1824. Beethoven estuvo en el escenario marcando tempos, pero un director dirigía de verdad a la orquesta. La contralto Caroline Unger, según los testimonios, lo tomó del brazo para que viera al público de pie, con sombreros y pañuelos al aire.\n\nLa obra fue la primera gran sinfonía con coro y solistas, y su final, sobre la 'Oda a la alegría' de Schiller, es hoy el himno de la Unión Europea. Escuchar el último movimiento sabiendo que su autor no podía oírlo cambia la experiencia.",
+    "fuente": {
+     "nombre": "Wikipedia: Sinfonía n.º 9 (Beethoven)",
+     "url": "https://es.wikipedia.org/wiki/Sinfon%C3%ADa_n.%C2%BA_9_(Beethoven)"
+    },
+    "wiki": "Sinfonía n.º 9 (Beethoven)",
+    "claves": [
+     {
+      "nombre": "Ludwig van Beethoven",
+      "quien": "Compositor alemán, puente entre el clasicismo y el romanticismo",
+      "wiki": "Ludwig van Beethoven"
+     },
+     {
+      "nombre": "Oda a la alegría",
+      "quien": "Poema de Schiller que canta el coro final",
+      "wiki": "Oda a la alegría"
+     },
+     {
+      "nombre": "Caroline Unger",
+      "quien": "Contralto austriaca que cantó en el estreno",
+      "wiki": "Caroline Unger"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Quién giró a Beethoven para que viera los aplausos en el estreno de la Novena?",
+     "respuesta": "La contralto Caroline Unger."
+    },
+    "fecha": "2026-10-22"
+   }
+  ],
+  "Literatura y mitología": [
+   {
+    "materia": "Literatura y mitología",
+    "pilar": "cultura",
+    "epoca": "1616",
+    "titulo": "Murieron el mismo día, pero no el mismo día",
+    "dato": "Cervantes y Shakespeare aparecen como muertos el 23 de abril de 1616, y por eso ese día es el Día del Libro. Pero entre ambas muertes hubo unos diez días de diferencia.",
+    "explicacion": "España ya usaba el calendario gregoriano; Inglaterra seguía con el juliano, diez días atrasado. Además, el 23 de abril de Cervantes es la fecha de su entierro: murió el día anterior. La coincidencia es de papel, no de calendario real.\n\nLa UNESCO eligió esa fecha en 1995 por su valor simbólico, y en Cataluña ya se celebraba con rosas y libros por Sant Jordi. Es un buen recordatorio de que una fecha 'exacta' depende de qué calendario se use.",
+    "fuente": {
+     "nombre": "Wikipedia: Día Internacional del Libro",
+     "url": "https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_del_Libro"
+    },
+    "wiki": "Día Internacional del Libro",
+    "claves": [
+     {
+      "nombre": "Miguel de Cervantes",
+      "quien": "Autor de Don Quijote de la Mancha",
+      "wiki": "Miguel de Cervantes"
+     },
+     {
+      "nombre": "William Shakespeare",
+      "quien": "Dramaturgo inglés, autor de Hamlet y Macbeth",
+      "wiki": "William Shakespeare"
+     },
+     {
+      "nombre": "Calendario gregoriano",
+      "quien": "Calendario de 1582 que corrigió el juliano",
+      "wiki": "Calendario gregoriano"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Por qué Cervantes y Shakespeare no murieron realmente el mismo día?",
+     "respuesta": "España e Inglaterra usaban calendarios distintos, con unos diez días de diferencia."
+    },
+    "fecha": "2026-10-22"
+   }
+  ],
+  "Cine y fotografía": [
+   {
+    "materia": "Cine y fotografía",
+    "pilar": "cultura",
+    "epoca": "1895",
+    "titulo": "La primera función de cine pagada",
+    "dato": "El 28 de diciembre de 1895, los hermanos Lumière proyectaron diez películas cortas en el sótano del Grand Café de París para unas 33 personas que pagaron entrada. Fue el nacimiento del cine como espectáculo.",
+    "explicacion": "Su cinematógrafo era cámara, copiadora y proyector a la vez, y pesaba poco. Las películas duraban menos de un minuto: obreros saliendo de una fábrica, un bebé comiendo, un regador mojado.\n\nSe repite que el público huyó al ver 'La llegada de un tren'. Los historiadores lo consideran un mito o una gran exageración: la película ni siquiera estaba en esa primera función. Lo cierto es que en semanas había filas en la calle.",
+    "fuente": {
+     "nombre": "Wikipedia: Hermanos Lumière",
+     "url": "https://es.wikipedia.org/wiki/Hermanos_Lumi%C3%A8re"
+    },
+    "wiki": "Hermanos Lumière",
+    "claves": [
+     {
+      "nombre": "Cinematógrafo",
+      "quien": "Aparato de los Lumière para filmar y proyectar",
+      "wiki": "Cinematógrafo"
+     },
+     {
+      "nombre": "La llegada de un tren",
+      "quien": "Película de 1896 rodeada del famoso mito del pánico",
+      "wiki": "L'Arrivée d'un train en gare de La Ciotat"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Dónde fue la primera proyección pagada de los Lumière?",
+     "respuesta": "En el Grand Café de París, el 28 de diciembre de 1895."
+    },
+    "fecha": "2026-10-22"
+   }
+  ],
+  "Religiones y grandes textos": [
+   {
+    "materia": "Religiones y grandes textos",
+    "pilar": "cultura",
+    "epoca": "1947",
+    "titulo": "Un pastor y mil años de diferencia",
+    "dato": "En 1947, unos pastores beduinos encontraron rollos en una cueva de Qumrán, junto al mar Muerto. Incluían textos de la Biblia hebrea casi mil años más antiguos que los manuscritos completos conocidos hasta entonces.",
+    "explicacion": "Se hallaron restos de unos 900 manuscritos en once cuevas, escritos sobre todo entre el siglo III a. C. y el siglo I d. C. El Gran Rollo de Isaías está casi completo.\n\nLo sorprendente fue la estabilidad: comparado con copias medievales, el texto de Isaías coincide de forma muy notable, con variantes pequeñas. Los rollos también muestran la diversidad religiosa del judaísmo en tiempos de Jesús.",
+    "fuente": {
+     "nombre": "Wikipedia: Manuscritos del mar Muerto",
+     "url": "https://es.wikipedia.org/wiki/Manuscritos_del_mar_Muerto"
+    },
+    "wiki": "Manuscritos del mar Muerto",
+    "claves": [
+     {
+      "nombre": "Qumrán",
+      "quien": "Sitio arqueológico junto a las cuevas de los hallazgos",
+      "wiki": "Qumrán"
+     },
+     {
+      "nombre": "Gran Rollo de Isaías",
+      "quien": "El manuscrito más completo hallado",
+      "wiki": "Gran Rollo de Isaías"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Por qué fueron tan importantes los manuscritos del mar Muerto?",
+     "respuesta": "Eran casi mil años más antiguos que los manuscritos completos conocidos de la Biblia hebrea."
+    },
+    "fecha": "2026-10-22"
+   }
+  ],
+  "Historia y geopolítica": [
    {
     "claves": [
      {
-      "nombre": "University College de Londres",
-      "quien": "Universidad donde Phillippa Lally y su equipo midieron cuánto tarda en formarse un hábito.",
-      "wiki": "University College de Londres"
+      "nombre": "Sultanato de Zanzíbar",
+      "quien": "Estado de la costa oriental de África, rico por el comercio de clavo y esclavos, bajo influencia británica.",
+      "wiki": "Sultanato de Zanzíbar"
      },
      {
-      "nombre": "Ciclo del hábito",
-      "quien": "Modelo de señal, rutina y recompensa con el que suele explicarse cómo se automatiza una conducta.",
-      "wiki": "Ciclo de costumbre (habit loop)"
+      "nombre": "Khalid bin Barghash",
+      "quien": "Pretendiente que tomó el palacio sin permiso británico y huyó al consulado alemán.",
+      "wiki": "Khalid ibn Barghash de Zanzíbar"
      },
      {
-      "nombre": "Psico-Cibernética",
-      "quien": "Libro de 1960 del cirujano Maxwell Maltz, señalado a menudo como el origen del mito de los 21 días.",
-      "wiki": "Psico-Cibernética"
+      "nombre": "Imperio británico",
+      "quien": "El mayor imperio de su tiempo; su flota decidía guerras como esta en minutos.",
+      "wiki": "Imperio británico"
      }
     ],
-    "dato": "La idea de que un hábito se forma en 21 días no viene de ningún estudio serio. Cuando en University College London lo midieron, la mediana fue de 66 días, con casos de 18 a 254.",
-    "epoca": "2009",
-    "explicacion": "Phillippa Lally y su equipo siguieron a 96 voluntarios durante 84 días; cada uno eligió una conducta diaria, como comer fruta o caminar. Medían cuándo la acción se volvía automática, sin esfuerzo. Entre quienes dieron datos suficientes, la mediana fue 66 días. Se publicó en el *European Journal of Social Psychology* (2010).\n\nEl hallazgo más útil: fallar un día no borró el avance. La automaticidad apenas bajó y se recuperó pronto. Lo que importa es la repetición en el mismo contexto, no una racha perfecta. Ojo: es un estudio, con muestra pequeña; el número exacto no es una ley.",
+    "dato": "La guerra más corta registrada duró entre 38 y 45 minutos. Fue entre Gran Bretaña y Zanzíbar, la mañana del 27 de agosto de 1896.",
+    "epoca": "1896",
+    "explicacion": "Al morir el sultán, Khalid bin Barghash tomó el poder sin el visto bueno británico. Londres le dio un ultimátum: dejar el palacio antes de las 9:00. A las 9:02 los barcos británicos abrieron fuego; hacia las 9:40 la bandera del palacio había caído.\n\nEl saldo fue desigual: unos 500 muertos o heridos del lado de Zanzíbar y un solo marinero británico herido. Khalid huyó al consulado alemán. Es un recordatorio de cómo funcionaba el poder imperial: la guerra se decidía antes del primer disparo.",
     "fecha": "2026-10-22",
     "fuente": {
-     "nombre": "The Behavioral Scientist: lo que Lally et al. (2010) encontraron",
-     "url": "https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit"
+     "nombre": "Wikipedia: Anglo-Zanzibar War",
+     "url": "https://en.wikipedia.org/wiki/Anglo-Zanzibar_War"
     },
-    "materia": "Disciplina y hábitos",
-    "pilar": "caracter",
+    "materia": "Historia y geopolítica",
+    "pilar": "mundo",
     "repaso": {
-     "pregunta": "¿Cuánto tardó en volverse automático un hábito en el estudio de Lally?",
-     "respuesta": "Una mediana de 66 días, con un rango de 18 a 254. Fallar un día no borró el avance."
+     "pregunta": "¿Cuánto duró la guerra anglo-zanzibariana de 1896?",
+     "respuesta": "Entre 38 y 45 minutos, la mañana del 27 de agosto de 1896."
     },
-    "titulo": "No son 21 días",
-    "wiki": "Hábito (ciencias de la salud)"
+    "titulo": "Una guerra de 38 minutos",
+    "wiki": "Guerra anglo-zanzibariana"
+   }
+  ],
+  "Derecho y poder": [
+   {
+    "materia": "Derecho y poder",
+    "pilar": "mundo",
+    "epoca": "1215",
+    "titulo": "La Carta Magna duró diez semanas",
+    "dato": "El documento que inspiró los límites al poder fue un fracaso inmediato: el papa Inocencio III lo anuló apenas unas diez semanas después de que el rey Juan lo sellara.",
+    "explicacion": "La Carta Magna fue un acuerdo de paz entre el rey y barones rebeldes, no una declaración de derechos para todos. Al anularse, la guerra civil volvió. Sobrevivió porque se reeditó varias veces, en versiones revisadas, después de la muerte de Juan.\n\nHoy solo unas pocas de sus cláusulas siguen vigentes en Inglaterra, entre ellas la que protege de ser encarcelado sin juicio legal. Su fuerza vino de lo que generaciones posteriores leyeron en ella: que incluso el rey está sujeto a la ley.",
+    "fuente": {
+     "nombre": "Wikipedia: Carta Magna",
+     "url": "https://es.wikipedia.org/wiki/Carta_Magna"
+    },
+    "wiki": "Carta Magna",
+    "claves": [
+     {
+      "nombre": "Juan sin Tierra",
+      "quien": "Rey de Inglaterra que selló la carta",
+      "wiki": "Juan I de Inglaterra"
+     },
+     {
+      "nombre": "Inocencio III",
+      "quien": "Papa que la declaró nula",
+      "wiki": "Inocencio III"
+     },
+     {
+      "nombre": "Estado de derecho",
+      "quien": "Principio de que el poder también está sometido a la ley",
+      "wiki": "Estado de derecho"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Quién anuló la Carta Magna poco después de 1215?",
+     "respuesta": "El papa Inocencio III."
+    },
+    "fecha": "2026-10-22"
+   }
+  ],
+  "Ciudades del mundo": [
+   {
+    "materia": "Ciudades del mundo",
+    "pilar": "mundo",
+    "epoca": "1519",
+    "titulo": "Más grande que casi cualquier ciudad de Europa",
+    "dato": "Cuando Hernán Cortés llegó en 1519, Tenochtitlan tenía, según las estimaciones, unos 200,000 habitantes o más: más que casi cualquier ciudad europea de la época.",
+    "explicacion": "Estaba construida sobre un islote del lago de Texcoco, unida a tierra firme por calzadas y alimentada por chinampas, parcelas cultivables sobre el agua. Un acueducto desde Chapultepec llevaba agua dulce. Los cronistas españoles la compararon con Venecia.\n\nLas cifras exactas se discuten, pero el consenso la sitúa entre las mayores ciudades del mundo de su tiempo. La Ciudad de México está encima, y por eso sigue hundiéndose: el suelo del antiguo lago cede.",
+    "fuente": {
+     "nombre": "Wikipedia: Tenochtitlan",
+     "url": "https://es.wikipedia.org/wiki/Tenochtitlan"
+    },
+    "wiki": "Tenochtitlan",
+    "claves": [
+     {
+      "nombre": "Chinampa",
+      "quien": "Sistema agrícola de parcelas sobre el lago",
+      "wiki": "Chinampa"
+     },
+     {
+      "nombre": "Lago de Texcoco",
+      "quien": "Lago sobre el que se levantó la ciudad",
+      "wiki": "Lago de Texcoco"
+     },
+     {
+      "nombre": "Templo Mayor",
+      "quien": "Centro ceremonial de la ciudad",
+      "wiki": "Templo Mayor"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué eran las chinampas de Tenochtitlan?",
+     "respuesta": "Parcelas de cultivo construidas sobre el agua del lago."
+    },
+    "fecha": "2026-10-22"
    }
   ],
   "Economía y mercados": [
@@ -116,6 +641,70 @@
     },
     "titulo": "La tulipomanía no arruinó a Holanda",
     "wiki": "Tulipomanía"
+   }
+  ],
+  "Inversión y finanzas personales": [
+   {
+    "materia": "Inversión y finanzas personales",
+    "pilar": "patrimonio",
+    "epoca": "1602",
+    "titulo": "La primera acción que cualquiera podía comprar",
+    "dato": "En 1602, la Compañía Neerlandesa de las Indias Orientales vendió participaciones al público en Ámsterdam. Cualquiera podía comprar, y esas acciones se revendían: así nació la bolsa moderna.",
+    "explicacion": "Los viajes a Asia eran carísimos y arriesgados; un barco podía perderse. Repartir la propiedad entre miles de inversionistas diluía el riesgo y juntaba capital enorme. Como no se podía retirar el dinero fácilmente, quien quería salir vendía su parte a otro.\n\nEse mercado secundario es la idea central de toda bolsa: comprar y vender partes de una empresa sin tocar su caja. La misma compañía es también un ejemplo de los abusos de poder económico y colonial de su época.",
+    "fuente": {
+     "nombre": "Wikipedia: Compañía Neerlandesa de las Indias Orientales",
+     "url": "https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_Neerlandesa_de_las_Indias_Orientales"
+    },
+    "wiki": "Compañía Neerlandesa de las Indias Orientales",
+    "claves": [
+     {
+      "nombre": "Bolsa de Ámsterdam",
+      "quien": "Considerada la primera bolsa de valores moderna",
+      "wiki": "Bolsa de Ámsterdam"
+     },
+     {
+      "nombre": "Acción",
+      "quien": "Parte de la propiedad de una empresa",
+      "wiki": "Acción (finanzas)"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué innovación financiera nació con la VOC en 1602?",
+     "respuesta": "Acciones abiertas al público que se podían revender: la bolsa moderna."
+    },
+    "fecha": "2026-10-22"
+   }
+  ],
+  "Negocios y estrategia": [
+   {
+    "materia": "Negocios y estrategia",
+    "pilar": "patrimonio",
+    "epoca": "1914",
+    "titulo": "Ford duplicó el sueldo para vender más coches",
+    "dato": "En 1914, Henry Ford subió el salario a 5 dólares por día, casi el doble de lo normal. No fue caridad: la rotación de personal en su fábrica era altísima y le costaba una fortuna.",
+    "explicacion": "La línea de montaje había reducido el ensamblaje de un Modelo T de más de 12 horas a alrededor de hora y media, pero el trabajo era tan monótono que los obreros se iban. Con el nuevo sueldo, la rotación cayó y la productividad subió.\n\nEl efecto secundario más citado: sus propios trabajadores podían comprar el coche que fabricaban. La decisión muestra que un costo alto puede ser una inversión si resuelve el verdadero cuello de botella.",
+    "fuente": {
+     "nombre": "Wikipedia: Ford Modelo T",
+     "url": "https://es.wikipedia.org/wiki/Ford_Modelo_T"
+    },
+    "wiki": "Ford Modelo T",
+    "claves": [
+     {
+      "nombre": "Henry Ford",
+      "quien": "Fundador de Ford Motor Company",
+      "wiki": "Henry Ford"
+     },
+     {
+      "nombre": "Cadena de montaje",
+      "quien": "Sistema de producción en serie que llevó el trabajo al obrero",
+      "wiki": "Cadena de montaje"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuál fue el motivo principal de Ford para pagar 5 dólares al día?",
+     "respuesta": "Reducir la enorme rotación de personal."
+    },
+    "fecha": "2026-10-22"
    }
   ],
   "El cosmos": [
@@ -161,41 +750,68 @@
     "wiki": "Sonda interestelar"
    }
   ],
-  "Filosofía para vivir": [
+  "Ciencia y tecnología": [
    {
+    "materia": "Ciencia y tecnología",
+    "pilar": "futuro",
+    "epoca": "c. 1455",
+    "titulo": "De 180 Biblias quedan unas 49",
+    "dato": "Gutenberg imprimió unas 180 copias de su Biblia hacia 1455. Sobreviven alrededor de 49, y una página suelta puede valer más que un coche de lujo.",
+    "explicacion": "La clave no fue la prensa, que ya existía para vino y papel, sino los tipos móviles de metal fundidos en serie, una tinta con base de aceite que se adhería al metal y un proceso para combinarlo todo. Antes, una Biblia copiada a mano podía tardar años.\n\nEn pocas décadas había imprentas en más de 200 ciudades europeas. La información dejó de depender de copistas, lo que aceleró la Reforma, la ciencia y la circulación de ideas.",
+    "fuente": {
+     "nombre": "Wikipedia: Biblia de Gutenberg",
+     "url": "https://es.wikipedia.org/wiki/Biblia_de_Gutenberg"
+    },
+    "wiki": "Biblia de Gutenberg",
     "claves": [
      {
-      "nombre": "Estoicismo",
-      "quien": "Escuela filosófica griega que enseña a distinguir lo que depende de ti de lo que no; Marco Aurelio fue su último gran autor.",
-      "wiki": "Estoicismo"
+      "nombre": "Johannes Gutenberg",
+      "quien": "Orfebre alemán, inventor de la imprenta de tipos móviles",
+      "wiki": "Johannes Gutenberg"
      },
      {
-      "nombre": "Guerras marcomanas",
-      "quien": "Guerras de Roma contra pueblos germanos junto al Danubio (166–180); en esas campañas escribió sus notas.",
-      "wiki": "Guerras marcomanas"
-     },
-     {
-      "nombre": "Filosofía romana",
-      "quien": "Cómo los romanos adoptaron y adaptaron la filosofía griega, casi siempre como guía práctica para vivir.",
-      "wiki": "Filosofía romana"
+      "nombre": "Tipo móvil",
+      "quien": "Pieza con una letra que se combina para formar textos",
+      "wiki": "Tipo móvil"
      }
     ],
-    "dato": "Las *Meditaciones* de Marco Aurelio, uno de los libros de filosofía más leídos del mundo, nunca fueron pensadas para publicarse. Están escritas en griego, no en latín, y su título original significa \"Para sí mismo\".",
-    "epoca": "c. 170–180 d. C.",
-    "explicacion": "Marco Aurelio gobernó Roma de 161 a 180. Escribió estas notas en campaña militar, en tiendas junto al Danubio, como un cuaderno para corregirse a sí mismo. El griego era la lengua de la filosofía para un romano culto, como el francés lo fue después para las élites europeas.\n\nPor eso el libro se lee tan íntimo: no hay pose ni público. Es un hombre con todo el poder del mundo recordándose ser paciente, justo y breve. La primera edición impresa apareció en Zúrich en 1558 o 1559, casi 1,400 años después.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Meditations",
-     "url": "https://en.wikipedia.org/wiki/Meditations"
-    },
-    "materia": "Filosofía para vivir",
-    "pilar": "mente",
     "repaso": {
-     "pregunta": "¿En qué idioma escribió Marco Aurelio sus Meditaciones y para quién?",
-     "respuesta": "En griego, y para sí mismo: nunca pensó publicarlas. Su título original significa \"Para sí mismo\"."
+     "pregunta": "¿Cuál fue la verdadera innovación de Gutenberg?",
+     "respuesta": "Los tipos móviles de metal fundidos en serie, junto con la tinta y el proceso."
     },
-    "titulo": "El libro que un emperador escribió para nadie",
-    "wiki": "Marco Aurelio"
+    "fecha": "2026-10-22"
+   }
+  ],
+  "IA y el futuro": [
+   {
+    "materia": "IA y el futuro",
+    "pilar": "futuro",
+    "epoca": "1997",
+    "titulo": "La máquina que ganó sin entender ajedrez",
+    "dato": "En 1997, Deep Blue de IBM venció a Garry Kasparov en un match completo. Analizaba unos 200 millones de posiciones por segundo, pero no 'entendía' el juego como un humano.",
+    "explicacion": "Deep Blue usaba fuerza de cálculo y reglas escritas por expertos: buscar muchas jugadas a futuro y evaluar cada posición con una fórmula. Kasparov acusó a IBM de hacer trampa por una jugada que le pareció demasiado humana; IBM negó la revancha y desmontó la máquina.\n\nLa IA de hoy funciona distinto: aprende patrones de enormes cantidades de datos en lugar de seguir reglas escritas. Por eso puede sorprender en tareas abiertas, pero también equivocarse con seguridad.",
+    "fuente": {
+     "nombre": "Wikipedia: Deep Blue",
+     "url": "https://es.wikipedia.org/wiki/Deep_Blue_(computadora)"
+    },
+    "wiki": "Deep Blue (computadora)",
+    "claves": [
+     {
+      "nombre": "Garry Kasparov",
+      "quien": "Campeón mundial de ajedrez derrotado en 1997",
+      "wiki": "Garri Kaspárov"
+     },
+     {
+      "nombre": "Aprendizaje automático",
+      "quien": "Forma de IA que aprende de datos en lugar de reglas escritas",
+      "wiki": "Aprendizaje automático"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿En qué se diferencia Deep Blue de la IA moderna?",
+     "respuesta": "Deep Blue calculaba con reglas escritas; la IA moderna aprende patrones de datos."
+    },
+    "fecha": "2026-10-22"
    }
   ],
   "Gastronomía, vino y destilados": [
@@ -235,78 +851,68 @@
     "wiki": "Champán"
    }
   ],
-  "Historia y geopolítica": [
+  "Oficios del lujo y estilo": [
    {
+    "materia": "Oficios del lujo y estilo",
+    "pilar": "gusto",
+    "epoca": "1984",
+    "titulo": "El bolso nació en un avión",
+    "dato": "El Birkin de Hermès surgió en 1984, cuando la actriz Jane Birkin se sentó junto a Jean-Louis Dumas, director de Hermès, en un vuelo, y se quejó de que no encontraba un bolso práctico.",
+    "explicacion": "Según el relato de ambos, Birkin dibujó lo que quería en una bolsa de mareo y Dumas lo convirtió en un bolso. Cada pieza la arma a mano un solo artesano, con costura de silla de montar, el oficio original de Hermès.\n\nSu escasez es parte del diseño: Hermès produce menos de lo que la demanda pediría. Es el ejemplo clásico de cómo el lujo protege su valor controlando la oferta, no bajando el precio.",
+    "fuente": {
+     "nombre": "Wikipedia: Hermès",
+     "url": "https://es.wikipedia.org/wiki/Herm%C3%A8s"
+    },
+    "wiki": "Birkin (bolso)",
     "claves": [
      {
-      "nombre": "Sultanato de Zanzíbar",
-      "quien": "Estado de la costa oriental de África, rico por el comercio de clavo y esclavos, bajo influencia británica.",
-      "wiki": "Sultanato de Zanzíbar"
+      "nombre": "Jane Birkin",
+      "quien": "Actriz y cantante anglo-francesa que inspiró el bolso",
+      "wiki": "Jane Birkin"
      },
      {
-      "nombre": "Khalid bin Barghash",
-      "quien": "Pretendiente que tomó el palacio sin permiso británico y huyó al consulado alemán.",
-      "wiki": "Khalid ibn Barghash de Zanzíbar"
-     },
-     {
-      "nombre": "Imperio británico",
-      "quien": "El mayor imperio de su tiempo; su flota decidía guerras como esta en minutos.",
-      "wiki": "Imperio británico"
+      "nombre": "Hermès",
+      "quien": "Casa francesa nacida en 1837 como taller de arneses",
+      "wiki": "Hermès"
      }
     ],
-    "dato": "La guerra más corta registrada duró entre 38 y 45 minutos. Fue entre Gran Bretaña y Zanzíbar, la mañana del 27 de agosto de 1896.",
-    "epoca": "1896",
-    "explicacion": "Al morir el sultán, Khalid bin Barghash tomó el poder sin el visto bueno británico. Londres le dio un ultimátum: dejar el palacio antes de las 9:00. A las 9:02 los barcos británicos abrieron fuego; hacia las 9:40 la bandera del palacio había caído.\n\nEl saldo fue desigual: unos 500 muertos o heridos del lado de Zanzíbar y un solo marinero británico herido. Khalid huyó al consulado alemán. Es un recordatorio de cómo funcionaba el poder imperial: la guerra se decidía antes del primer disparo.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Anglo-Zanzibar War",
-     "url": "https://en.wikipedia.org/wiki/Anglo-Zanzibar_War"
-    },
-    "materia": "Historia y geopolítica",
-    "pilar": "mundo",
     "repaso": {
-     "pregunta": "¿Cuánto duró la guerra anglo-zanzibariana de 1896?",
-     "respuesta": "Entre 38 y 45 minutos, la mañana del 27 de agosto de 1896."
+     "pregunta": "¿Cómo nació el bolso Birkin?",
+     "respuesta": "De una conversación entre Jane Birkin y Jean-Louis Dumas en un vuelo en 1984."
     },
-    "titulo": "Una guerra de 38 minutos",
-    "wiki": "Guerra anglo-zanzibariana"
+    "fecha": "2026-10-22"
    }
   ],
-  "Salud y longevidad": [
+  "Etiqueta y protocolo": [
    {
+    "materia": "Etiqueta y protocolo",
+    "pilar": "gusto",
+    "epoca": "Siglo XI",
+    "titulo": "El tenedor fue un escándalo",
+    "dato": "Según el relato de san Pedro Damián, una princesa bizantina casada en Venecia escandalizó a la corte en el siglo XI por comer con un tenedor de oro. Él lo vio como un lujo pecaminoso.",
+    "explicacion": "En el Imperio bizantino el tenedor ya se usaba en la mesa; en Europa occidental se comía con cuchillo, cuchara y dedos. Cuando la princesa murió de una enfermedad, el religioso lo presentó como castigo por su refinamiento.\n\nEl tenedor tardó siglos en imponerse: se extendió por Italia en el Renacimiento y llegó a Francia e Inglaterra mucho después. Muchas reglas de mesa que hoy parecen obvias fueron, en su momento, novedades extranjeras mal vistas.",
+    "fuente": {
+     "nombre": "Wikipedia: Tenedor",
+     "url": "https://es.wikipedia.org/wiki/Tenedor"
+    },
+    "wiki": "Tenedor",
     "claves": [
      {
-      "nombre": "Fiebre puerperal",
-      "quien": "Infección después del parto que mataba a miles de madres en los hospitales del siglo XIX.",
-      "wiki": "Sepsis puerperal"
+      "nombre": "Pedro Damián",
+      "quien": "Monje y cardenal que criticó el uso del tenedor",
+      "wiki": "Pedro Damián"
      },
      {
-      "nombre": "Hospital General de Viena",
-      "quien": "El hospital donde Semmelweis comparó las dos salas de partos y encontró la diferencia.",
-      "wiki": "Hospital general de Viena"
-     },
-     {
-      "nombre": "Teoría microbiana",
-      "quien": "La idea de que los microbios causan enfermedades; Pasteur y Lister la probaron años después.",
-      "wiki": "Teoría microbiana de la enfermedad"
+      "nombre": "Imperio bizantino",
+      "quien": "Imperio romano de Oriente, con capital en Constantinopla",
+      "wiki": "Imperio bizantino"
      }
     ],
-    "dato": "En abril de 1847 moría el 18.3% de las madres en una sala de partos de Viena. Ignaz Semmelweis ordenó lavarse las manos con cal clorada y en junio la cifra bajó a 2.2%.",
-    "epoca": "1847",
-    "explicacion": "La sala la atendían médicos que llegaban directo de hacer autopsias; la de al lado, parteras, y morían muchas menos mujeres. Cuando un colega de Semmelweis murió tras cortarse con un bisturí en una autopsia, con síntomas iguales a los de las madres, entendió que algo pasaba de los cadáveres a las pacientes.\n\nAún no existía la teoría de los gérmenes y muchos colegas lo rechazaron. Murió en 1865 en un asilo, de una infección. Pasteur y Lister le darían la razón años después. La lección: tener los datos no basta si no tienes una explicación que convenza.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Ignaz Semmelweis",
-     "url": "https://en.wikipedia.org/wiki/Ignaz_Semmelweis"
-    },
-    "materia": "Salud y longevidad",
-    "pilar": "cuerpo",
     "repaso": {
-     "pregunta": "¿Qué cambió Semmelweis en 1847 y con qué resultado?",
-     "respuesta": "Impuso lavarse las manos con cal clorada; la mortalidad de madres bajó de 18.3% en abril a 2.2% en junio."
+     "pregunta": "¿Por qué el tenedor causó escándalo en Venecia en el siglo XI?",
+     "respuesta": "Se veía como un lujo extranjero excesivo; un religioso lo condenó como pecaminoso."
     },
-    "titulo": "El médico que pidió lavarse las manos",
-    "wiki": "Ignaz Semmelweis"
+    "fecha": "2026-10-22"
    }
   ]
  }
