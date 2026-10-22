@@ -82,6 +82,148 @@
   "uso": "Conversación. El pronombre « en » sustituye a « de ça » (de eso): penser de quelque chose → en penser. Sirve para invitar a alguien a opinar sin presionar. Con alguien de usted: « Qu'est-ce que vous en pensez ? »",
   "variante": "À mon avis, ça vaut le coup. (En mi opinión, vale la pena.)"
  },
+ "hechos": [
+  {
+   "dato": "Las *Meditaciones* de Marco Aurelio, uno de los libros de filosofía más leídos del mundo, nunca fueron pensadas para publicarse. Están escritas en griego, no en latín, y su título original significa \"Para sí mismo\".",
+   "epoca": "c. 170–180 d. C.",
+   "explicacion": "Marco Aurelio gobernó Roma de 161 a 180. Escribió estas notas en campaña militar, en tiendas junto al Danubio, como un cuaderno para corregirse a sí mismo. El griego era la lengua de la filosofía para un romano culto, como el francés lo fue después para las élites europeas.\n\nPor eso el libro se lee tan íntimo: no hay pose ni público. Es un hombre con todo el poder del mundo recordándose ser paciente, justo y breve. La primera edición impresa apareció en Zúrich en 1558 o 1559, casi 1,400 años después.",
+   "fuente": {
+    "nombre": "Wikipedia: Meditations",
+    "url": "https://en.wikipedia.org/wiki/Meditations"
+   },
+   "materia": "Filosofía para vivir",
+   "pilar": "mente",
+   "repaso": {
+    "pregunta": "¿En qué idioma escribió Marco Aurelio sus Meditaciones y para quién?",
+    "respuesta": "En griego, y para sí mismo: nunca pensó publicarlas. Su título original significa \"Para sí mismo\"."
+   },
+   "titulo": "El libro que un emperador escribió para nadie"
+  },
+  {
+   "dato": "La idea de que un hábito se forma en 21 días no viene de ningún estudio serio. Cuando en University College London lo midieron, la mediana fue de 66 días, con casos de 18 a 254.",
+   "epoca": "2009",
+   "explicacion": "Phillippa Lally y su equipo siguieron a 96 voluntarios durante 84 días; cada uno eligió una conducta diaria, como comer fruta o caminar. Medían cuándo la acción se volvía automática, sin esfuerzo. Entre quienes dieron datos suficientes, la mediana fue 66 días. Se publicó en el *European Journal of Social Psychology* (2010).\n\nEl hallazgo más útil: fallar un día no borró el avance. La automaticidad apenas bajó y se recuperó pronto. Lo que importa es la repetición en el mismo contexto, no una racha perfecta. Ojo: es un estudio, con muestra pequeña; el número exacto no es una ley.",
+   "fuente": {
+    "nombre": "The Behavioral Scientist: lo que Lally et al. (2010) encontraron",
+    "url": "https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit"
+   },
+   "materia": "Disciplina y hábitos",
+   "pilar": "caracter",
+   "repaso": {
+    "pregunta": "¿Cuánto tardó en volverse automático un hábito en el estudio de Lally?",
+    "respuesta": "Una mediana de 66 días, con un rango de 18 a 254. Fallar un día no borró el avance."
+   },
+   "titulo": "No son 21 días"
+  },
+  {
+   "dato": "En abril de 1847 moría el 18.3% de las madres en una sala de partos de Viena. Ignaz Semmelweis ordenó lavarse las manos con cal clorada y en junio la cifra bajó a 2.2%.",
+   "epoca": "1847",
+   "explicacion": "La sala la atendían médicos que llegaban directo de hacer autopsias; la de al lado, parteras, y morían muchas menos mujeres. Cuando un colega de Semmelweis murió tras cortarse con un bisturí en una autopsia, con síntomas iguales a los de las madres, entendió que algo pasaba de los cadáveres a las pacientes.\n\nAún no existía la teoría de los gérmenes y muchos colegas lo rechazaron. Murió en 1865 en un asilo, de una infección. Pasteur y Lister le darían la razón años después. La lección: tener los datos no basta si no tienes una explicación que convenza.",
+   "fuente": {
+    "nombre": "Wikipedia: Ignaz Semmelweis",
+    "url": "https://en.wikipedia.org/wiki/Ignaz_Semmelweis"
+   },
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "repaso": {
+    "pregunta": "¿Qué cambió Semmelweis en 1847 y con qué resultado?",
+    "respuesta": "Impuso lavarse las manos con cal clorada; la mortalidad de madres bajó de 18.3% en abril a 2.2% en junio."
+   },
+   "titulo": "El médico que pidió lavarse las manos"
+  },
+  {
+   "dato": "En agosto de 1911, un exempleado del Louvre, Vincenzo Peruggia, descolgó la Mona Lisa, la escondió bajo la ropa y salió caminando. Estuvo perdida más de dos años, y eso la volvió el cuadro más famoso del mundo.",
+   "epoca": "1911",
+   "explicacion": "Antes del robo era una obra admirada por conocedores, no un ícono popular. Los periódicos de todo el mundo publicaron su rostro durante meses; la gente hacía fila para ver el hueco en la pared. En noviembre de 1913, Peruggia intentó venderla a un marchante de Florencia y fue capturado. El cuadro estaba intacto.\n\nPeruggia dijo que la devolvía a Italia por patriotismo y cumplió siete meses de cárcel. La lección para una marca: la fama no solo depende de la calidad, también de la historia que la gente se cuenta sobre algo.",
+   "fuente": {
+    "nombre": "History.com: se descubre el robo de la Mona Lisa",
+    "url": "https://www.history.com/this-day-in-history/August-22/theft-of-mona-lisa-is-discovered"
+   },
+   "imagen": {
+    "alt": "La Mona Lisa de Leonardo da Vinci",
+    "credito": "Wikimedia Commons",
+    "pie": "La Gioconda, Leonardo da Vinci. Museo del Louvre",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg?width=900"
+   },
+   "materia": "Arte y pintura",
+   "pilar": "cultura",
+   "repaso": {
+    "pregunta": "¿Qué hizo de la Mona Lisa un ícono mundial?",
+    "respuesta": "Su robo en 1911 por Vincenzo Peruggia: pasó más de dos años perdida y su rostro llenó los periódicos."
+   },
+   "titulo": "El robo que hizo famosa a la Mona Lisa"
+  },
+  {
+   "dato": "La guerra más corta registrada duró entre 38 y 45 minutos. Fue entre Gran Bretaña y Zanzíbar, la mañana del 27 de agosto de 1896.",
+   "epoca": "1896",
+   "explicacion": "Al morir el sultán, Khalid bin Barghash tomó el poder sin el visto bueno británico. Londres le dio un ultimátum: dejar el palacio antes de las 9:00. A las 9:02 los barcos británicos abrieron fuego; hacia las 9:40 la bandera del palacio había caído.\n\nEl saldo fue desigual: unos 500 muertos o heridos del lado de Zanzíbar y un solo marinero británico herido. Khalid huyó al consulado alemán. Es un recordatorio de cómo funcionaba el poder imperial: la guerra se decidía antes del primer disparo.",
+   "fuente": {
+    "nombre": "Wikipedia: Anglo-Zanzibar War",
+    "url": "https://en.wikipedia.org/wiki/Anglo-Zanzibar_War"
+   },
+   "materia": "Historia y geopolítica",
+   "pilar": "mundo",
+   "repaso": {
+    "pregunta": "¿Cuánto duró la guerra anglo-zanzibariana de 1896?",
+    "respuesta": "Entre 38 y 45 minutos, la mañana del 27 de agosto de 1896."
+   },
+   "titulo": "Una guerra de 38 minutos"
+  },
+  {
+   "dato": "La historia de holandeses arruinados por tulipanes en 1637 es en gran parte un mito. La historiadora Anne Goldgar revisó los archivos y no encontró a nadie que hubiera quebrado por eso.",
+   "epoca": "1637",
+   "explicacion": "La versión dramática se popularizó con el libro de Charles Mackay de 1841 sobre las locuras de las multitudes, que tomó relatos de panfletos moralistas de la época. En realidad participaron pocas personas, sobre todo comerciantes acomodados, y el efecto económico fue menor.\n\nSí hubo una crisis: en febrero de 1637 los precios cayeron y muchos compradores se negaron a pagar lo pactado, y los tribunales no intervinieron. Lo que se dañó fue la confianza. Sirve para dudar de las anécdotas perfectas que se citan sobre burbujas.",
+   "fuente": {
+    "nombre": "Smithsonian Magazine: There Never Was a Real Tulip Fever",
+    "url": "https://www.smithsonianmag.com/history/there-never-was-real-tulip-fever-180964915/"
+   },
+   "materia": "Economía y mercados",
+   "pilar": "patrimonio",
+   "repaso": {
+    "pregunta": "¿Qué encontró Anne Goldgar sobre la tulipomanía?",
+    "respuesta": "Que fue mucho menor de lo que se cuenta: no halló a nadie arruinado; el daño real fue a la confianza por contratos impagos."
+   },
+   "titulo": "La tulipomanía no arruinó a Holanda"
+  },
+  {
+   "dato": "El 18 de noviembre de 2026, la sonda Voyager 1 estará a un día luz de la Tierra: unos 25,900 millones de km. Un mensaje enviado desde aquí tardará 24 horas en llegarle.",
+   "epoca": "2026",
+   "explicacion": "Despegó el 5 de septiembre de 1977 y lleva más de 49 años viajando. En 2012 cruzó la heliopausa, el borde de la burbuja del Sol, y entró al espacio interestelar. Es el objeto hecho por humanos más lejano que existe.\n\nCada año tiene menos energía, y la NASA apaga instrumentos uno a uno para que siga hablando con la Tierra; en abril de 2026 apagó otro. Que una máquina de los años setenta siga enviando datos es una lección de ingeniería hecha para durar.",
+   "fuente": {
+    "nombre": "EarthSky: Voyager 1 a un día luz de la Tierra",
+    "url": "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/"
+   },
+   "imagen": {
+    "alt": "Ilustración de la Voyager 1 en el espacio interestelar",
+    "credito": "NASA/JPL-Caltech · Wikimedia Commons",
+    "pie": "Concepto artístico de la Voyager 1 entrando al espacio interestelar",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Artist_concept_of_Voyager_1_entering_interstellar_space_(PIA17462).jpg?width=900"
+   },
+   "materia": "El cosmos",
+   "pilar": "futuro",
+   "repaso": {
+    "pregunta": "¿Qué significa que la Voyager 1 llegue a un día luz?",
+    "respuesta": "Que una señal tardará 24 horas en ir de la Tierra a la sonda: estará a unos 25,900 millones de km, el 18 de noviembre de 2026."
+   },
+   "titulo": "Voyager 1, a un día luz"
+  },
+  {
+   "dato": "Dom Pérignon no inventó el champán espumoso. En 1662, el inglés Christopher Merret describió ante la Royal Society cómo se añadía azúcar al vino para hacerlo burbujeante.",
+   "epoca": "1662",
+   "explicacion": "En Champaña, las burbujas eran al principio un defecto: el frío detenía la fermentación y en primavera se reactivaba, reventando botellas. Dom Pérignon, monje de la abadía de Hautvillers, quizá incluso intentó evitarlas. Su aporte real fue mezclar uvas para lograr vinos blancos más finos.\n\nLos ingleses, con botellas de vidrio grueso y corcho, provocaban a propósito una segunda fermentación. La leyenda del monje la difundió en la década de 1820 uno de sus sucesores. Es una lección de marca: la historia que se cuenta puede valer más que el dato.",
+   "fuente": {
+    "nombre": "National Geographic: Who put the bubbles in Champagne?",
+    "url": "https://www.nationalgeographic.com/history/history-magazine/article/origin-champagne-france-bubbles"
+   },
+   "materia": "Gastronomía, vino y destilados",
+   "pilar": "gusto",
+   "repaso": {
+    "pregunta": "¿Quién documentó primero cómo hacer vino espumoso a propósito?",
+    "respuesta": "El inglés Christopher Merret, en 1662, ante la Royal Society: añadir azúcar al vino en botella."
+   },
+   "titulo": "Las burbujas del champán son inglesas"
+  }
+ ],
  "historia": {
   "fuentes": [
    {
