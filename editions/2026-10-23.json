@@ -1,0 +1,917 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-10-23",
+ "numero": 4,
+ "fecha": "2026-10-23",
+ "disponibleDesde": "2026-10-23T08:00:00-06:00",
+ "titulo": "Kodak inventó la cámara digital en 1975 y la guardó",
+ "temporada": {
+  "id": "t01",
+  "numero": 1,
+  "titulo": "Decisiones bajo presión",
+  "episodio": 4,
+  "totalEpisodios": 6
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kodak_Sasson_BL.jpg?width=900",
+  "alt": "La primera cámara digital, construida en Kodak por Steven Sasson",
+  "pie": "La cámara digital de Steven Sasson, Kodak, 1975: 3.6 kilos, 0.01 megapíxeles",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "origen": "Edición #3",
+   "pregunta": "¿Qué pregunta central plantea la herramienta del daño asimétrico?",
+   "respuesta": "¿Cuál de los dos errores posibles, actuar de más o de menos, no tiene vuelta atrás? Si uno es irreversible, acepta el costo del reparable."
+  },
+  {
+   "origen": "Edición #3",
+   "pregunta": "¿Quiénes aparecen en el espejo de Las Meninas y qué sugiere eso?",
+   "respuesta": "El rey Felipe IV y la reina Mariana. Sugiere que están donde está el espectador: todos en el cuadro nos miran a nosotros."
+  },
+  {
+   "origen": "Edición #3",
+   "pregunta": "En Meditaciones IV, 32, ¿qué ejercicio propone Marco Aurelio con los tiempos de Vespasiano?",
+   "respuesta": "Imaginar toda la agitación de aquella época y notar que ya no existe: sirve para medir el tamaño real de tus preocupaciones."
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n1",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-10-22",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 4,
+    "dondeIbamos": "Los ataques hutíes a Dammam y a un campo petrolero saudí empujaron el Brent arriba de 110 dólares y el peso a 18.58; se hablaba de una mediación EE. UU.-Irán sin confirmar."
+   },
+   "titular": "El Brent llega a su máximo en cinco meses tras una nueva ola de ataques hutíes a Arabia Saudita",
+   "quePaso": "Según Reuters, el Brent subió 4.35 dólares (4%) el jueves 22 y cerró en **113.17 dólares por barril**, su cierre más alto desde el 4 de mayo. El WTI cerró en 99.47. El viernes 23 por la mañana (hora de Emiratos), el Brent cotizaba en 114.50.\n\nLos hutíes dijeron haber atacado en 48 horas el Ministerio de Defensa en Riad, el aeropuerto de Dammam, instalaciones de Aramco en Yanbu y el aeropuerto de Abha. Según el diario Dawn, hubo cuatro muertos más. En México, el peso cerró el 22 en 18.71 por dólar; antes de abrir llegó a 18.855, su peor nivel desde septiembre de 2025.",
+   "contexto": "**Hecho:** el Brent suma tres semanas al alza. Según el banco MUFG, el flujo por Ormuz sigue cerca de lo normal, pero los fletes están caros.\n\n**Pendiente:** no hay ninguna mediación EE. UU.-Irán confirmada. Egipto pide diálogo y su parlamento aplazó al 26 de octubre un voto para apoyar militarmente a Arabia Saudita.\n\n**Diferencia de cifras:** el 110.75 que dimos ayer era un precio intradía; según Reuters, el cierre del 21 fue de unos 108.8. Las fuentes también difieren en cuánto cayó el peso el 22 (0.02% o 0.22%).",
+   "aMiQue": "Un dólar cerca de 18.7–18.85 encarece todo lo importado: latas de aluminio, concentrados, principios activos. Y un petróleo arriba de 110 dólares presiona el diésel y los fletes de distribución desde Guadalajara. Si tienes órdenes de importación para noviembre y diciembre, conviene recalcular su costo al tipo de cambio de hoy, no al de hace un mes.",
+   "queVigilar": "El voto del parlamento egipcio el 26 de octubre. Si el Brent rompe 114.44 dólares, su máximo del 4 de mayo. Si el peso cruza la zona de 18.85–19.00.",
+   "fuentes": [
+    {
+     "nombre": "The Star (Reuters): Oil hits five-month high as Houthi attacks fuel supply fears",
+     "url": "https://thestar.com.my/business/2026/10/23/oil-hits-five-month-high-as-houthi-attacks-fuel-supply-fears"
+    },
+    {
+     "nombre": "The National: Oil prices rise as Houthis launch another wave of attacks",
+     "url": "https://www.thenationalnews.com/business/energy/2026/10/23/oil-prices-rise-as-houthis-launch-another-wave-of-attacks-on-saudi-arabia/"
+    },
+    {
+     "nombre": "Dawn: Houthi attacks on Saudi sites claim four more lives",
+     "url": "https://www.dawn.com/news/2039176/houthi-attacks-on-saudi-sites-claim-four-more-lives"
+    },
+    {
+     "nombre": "Expansión: el peso y su depreciación semanal",
+     "url": "https://expansion.mx/mercados/2026/10/22/epeso-mexicano-depreciacion-semanal-1-2-dolar"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-10-22",
+   "titular": "La inflación sube a 3.62% en la primera quincena de octubre; las bebidas alcohólicas, 7.30% anual",
+   "quePaso": "El Inegi reportó el jueves 22 que los precios subieron 0.41% en la primera quincena de octubre. Los analistas esperaban 0.38%. La inflación anual quedó en **3.62%**. La subyacente, que quita lo más volátil, está en 3.78%, y los servicios en 4.26%.\n\nLa luz subió 18.51% en la quincena porque terminó el subsidio de verano en 18 ciudades. El rubro de **bebidas alcohólicas y tabaco** sube 7.30% anual, la mayor alza entre las categorías reportadas. Salud sube 4.45%.",
+   "contexto": "**Hecho:** el dato salió por encima de lo esperado y lejos de la meta de Banxico, 3%.\n\n**Interpretación:** Gabriela Siller, de Banco Base, dice que esto reduce el margen de Banxico para seguir bajando la tasa. Expansión lee lo mismo: más probable que la deje sin cambios en su próxima decisión.",
+   "aMiQue": "Si el alcohol sube 7.3% al año, tu RTD compite en un anaquel donde todos están subiendo precio: es una referencia para revisar tu lista sin quedar fuera de mercado. Pero también avisa de presión de costos en la categoría. Y si Banxico no baja la tasa, el crédito para inventario o expansión no se abarata pronto.",
+   "queVigilar": "La inflación de la segunda quincena de octubre, que el Inegi publica a principios de noviembre, y el tono de Banxico en su próxima decisión.",
+   "fuentes": [
+    {
+     "nombre": "La Crónica: inflación llega a 3.62% en la primera quincena de octubre",
+     "url": "https://www.cronica.com.mx/nacional/2026/10/22/inflacion-en-mexico-llega-a-362-en-la-primera-quincena-de-octubre-inegi/"
+    },
+    {
+     "nombre": "La Silla Rota: Inegi, inflación aumenta 0.41%",
+     "url": "https://lasillarota.com/negocios/2026/10/22/inegi-inflacion-aumenta-041-en-primera-quincena-de-octubre-de-2026-534117.html"
+    },
+    {
+     "nombre": "El Financiero: peso, dólar e inflación, 22 de octubre",
+     "url": "https://www.elfinanciero.com.mx/mercados/2026/10/22/peso-dolar-tipo-de-cambio-precio-hoy-22-de-octubre-de-2026/"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "Inventaron el futuro en 1975. Y la orden fue: no se lo cuenten a nadie.",
+    "contexto": "Rochester, Nueva York, diciembre de 1975. **Steven Sasson**, un ingeniero de Kodak de 25 años, termina un aparato del tamaño de un tostador. Pesa 3.6 kilos, usa el lente de una cámara de cine Super 8 y un [[sensor CCD|Chip que convierte la luz en señales eléctricas; es el ojo de las primeras cámaras digitales.]] de Fairchild. Toma una foto en blanco y negro de 100 por 100 píxeles, la graba en un casete en 23 segundos y la muestra en una televisión. Es la primera cámara digital. No usa película. Y Kodak vive de vender película.",
+    "pregunta": "Sasson muestra su invento a la dirección de Kodak. ¿Qué crees que pasó?",
+    "opciones": [
+     "Kodak la lanzó al mercado en cuanto pudo",
+     "Kodak la patentó y pidió no hablar de ella",
+     "Kodak le vendió la idea a Sony"
+    ],
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kodak_Sasson_BL.jpg?width=900",
+     "alt": "La cámara digital de Steven Sasson para Kodak",
+     "pie": "La primera cámara digital, construida por Steven Sasson en Kodak en 1975",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "historia",
+    "titulo": "La empresa que era dueña de la fotografía",
+    "texto": "Para entender la reacción, hay que ver el tamaño de Kodak. En 1976, según PetaPixel, el 90% de la película y el 85% de las cámaras que se vendían en Estados Unidos eran Kodak. Su lema era «Usted aprieta el botón, nosotros hacemos el resto». El resto era el negocio: película, químicos, papel y revelado.\n\nKodak no ganaba tanto con las cámaras. Ganaba con cada rollo. Es el [[modelo de la navaja y las hojas|Vender barato el aparato y ganar con el consumible que se compra una y otra vez.]]: el aparato abre la puerta y el consumible paga las cuentas.\n\nAhora imagina a Sasson en la sala de juntas. Les enseña una cámara que no necesita rollo, ni químicos, ni papel. Los directivos hacen preguntas incómodas: ¿quién querría ver sus fotos en una televisión? ¿Cómo se guardarían? Sasson lo contó en 2008 a The New York Times: «Era fotografía sin película, así que la reacción de la dirección fue: “qué lindo, pero no se lo cuentes a nadie”».\n\nKodak no tiró el invento. Solicitó la patente en 1977 a nombre de Sasson y de su jefe, Gareth Lloyd. Y lo guardó en un cajón.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kodak_Kodachrome_40,_Type_A,_original_box_1.jpg?width=900",
+     "alt": "Caja original de película Kodachrome 40",
+     "pie": "Una caja de Kodachrome: el negocio que Kodak no quería canibalizar",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "giro",
+    "titulo": "Kodak sí lo vio venir",
+    "texto": "La respuesta es la segunda: patentarla y callar. Pero lo sorprendente no es eso. Lo sorprendente es que **Kodak sabía exactamente lo que venía**.\n\nEn 1981, un estudio interno dirigido por Vince Barabba concluyó que lo digital iba a sustituir a la película. La buena noticia, según ese estudio, era que Kodak tenía unos diez años para prepararse. Según el analista Chunka Mui, la empresa hizo poco con ese tiempo.\n\nTampoco es cierto que Kodak ignorara lo digital. En 2005 era la marca número uno de cámaras digitales en Estados Unidos, con 24.9% del mercado, según IDC. Y sus patentes digitales le dejaron más de 3,000 millones de dólares en licencias desde 2003.\n\nEl problema fue otro. Una cámara digital se vende una vez; un rollo se compra toda la vida. Cada paso hacia lo digital destruía el negocio que pagaba los sueldos. Kodak protegió su gallina de los huevos de oro hasta que dejó de poner. El 19 de enero de 2012 se declaró en [[Capítulo 11|Procedimiento de la ley de quiebras de Estados Unidos que permite a una empresa reorganizarse protegida de sus acreedores.]]. Vendió sus patentes digitales por unos 525 millones de dólares.\n\nSu rival japonesa, **Fujifilm**, vivió la misma crisis y tomó otro camino: usó su química de película para hacer películas de pantallas LCD, equipo médico e incluso cosméticos (Astalift, 2007). Hoy la salud es su mayor motor.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kodak_Tower_Rochester.jpg?width=900",
+     "alt": "Torre de Kodak en Rochester, Nueva York",
+     "pie": "La torre de Kodak en Rochester, sede de la empresa que dominó la fotografía durante un siglo",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "La pregunta del nuevo director",
+    "texto": "Cuando tu negocio actual te impide ver el siguiente, **pregúntate qué haría un nuevo director que no tiene nada que proteger**.\n\nEn 1985, Intel perdía dinero con los chips de memoria, el producto que la había fundado. Andy Grove le preguntó a Gordon Moore: si nos corrieran y el consejo trajera a un nuevo director, ¿qué haría? Moore contestó sin dudar: sacarnos de las memorias. Grove respondió: entonces, ¿por qué no salimos tú y yo por la puerta, volvemos a entrar y lo hacemos nosotros? Intel se concentró en los microprocesadores.\n\nLa pregunta funciona porque separa dos cosas que se mezclan: lo que es bueno para el negocio y lo que es cómodo para quien lo dirige. El recién llegado no tiene orgullo invertido, ni equipos que defender, ni margen que proteger. Ve el tablero como está, no como era.\n\nClayton Christensen llamó a esto el **dilema del innovador** (1997): las empresas grandes no fracasan por tontas, sino por hacer bien lo que sus mejores clientes y sus márgenes les piden, justo cuando el mercado está cambiando."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Dónde más aparece",
+    "texto": "**En una marca de destilados.** Imagina una marca de tequila premium a la que le va bien en botella. Llegan las bebidas listas para tomar, en lata. El instinto dice: no, nos abaratan la marca y canibalizan la botella. El nuevo director preguntaría otra cosa: si alguien va a vender tequila en lata a este cliente, ¿prefiero que sea yo o mi competencia?\n\n**En una farmacéutica.** Una marca vive de un medicamento con nombre. Se acerca el fin de la patente y llegan los genéricos. Kodak diría: defiende el precio hasta el final. Fujifilm diría: usa lo que sabes hacer, tu laboratorio, tu distribución y tu relación con médicos, para entrar a lo que viene antes de que te saquen."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿Qué parte de tu negocio defenderías aunque un recién llegado la cerraría sin pensarlo?",
+    "texto": "No necesitas responder hoy. Basta con notar dónde sientes resistencia: ahí suele estar tu rollo de película."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Si no canibalizas tu negocio, otro lo hará por ti."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Photolari: la cámara de Kodak que acabó destruyendo a Kodak (con entrevista a Steven Sasson)",
+   "url": "https://photolari.com/la-camara-de-kodak-que-acabo-destruyendo-a-kodak-lo-que-nos-conto-hace-casi-20-anos-el-inventor-de-la-fotografia-sin-pelicula/",
+   "minutos": 14
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Qué concluyó el estudio interno de Kodak dirigido por Vince Barabba en 1981?",
+    "respuesta": "Que lo digital sustituiría a la película, pero que Kodak tenía unos diez años para prepararse. La empresa hizo poco con ese tiempo."
+   },
+   {
+    "pregunta": "¿Qué es «la pregunta del nuevo director»?",
+    "respuesta": "Preguntarse qué haría alguien sin nada que proteger. Grove y Moore la usaron en 1985 para sacar a Intel de las memorias."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "IEEE ETHW: Milestone, Handheld Digital Camera, 1975",
+    "url": "https://ethw.org/Milestones:Handheld_Digital_Camera,_1975"
+   },
+   {
+    "nombre": "The Bulletin (NYT News Service, 2008): At Kodak, some old things are new again",
+    "url": "https://bendbulletin.com/2008/05/04/at-kodak-some-old-things-are-new-again"
+   },
+   {
+    "nombre": "Chunka Mui: How Kodak failed",
+    "url": "https://chunkamui.medium.com/how-kodak-failed-e1f929e12aa7"
+   },
+   {
+    "nombre": "PetaPixel: A brief history of Kodak",
+    "url": "https://petapixel.com/2018/06/14/a-brief-history-of-kodak-the-camera-giants-rise-and-fall"
+   },
+   {
+    "nombre": "NBC News (2005): Kodak, número uno en cámaras digitales en EE. UU.",
+    "url": "https://www.nbcnews.com/id/wbna11258928"
+   },
+   {
+    "nombre": "PCWorld: Eastman Kodak files for Chapter 11",
+    "url": "https://www.pcworld.com/article/473722/eastman_kodak_files_for_chapter_11_of_us_bankruptcy_code.html"
+   },
+   {
+    "nombre": "Kodak (SEC): venta de patentes por unos 525 millones",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000031235/000119312512507443/d453340dex991.htm"
+   },
+   {
+    "nombre": "Fstoppers: Why Fujifilm survived",
+    "url": "https://fstoppers.com/business/why-fujifilm-survived-digital-apocalypse-killed-kodak-904196"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Cine y fotografía",
+   "pilar": "cultura",
+   "formato": "miraEscucha",
+   "titulo": "Madre migrante: la foto a la que le borraron un pulgar",
+   "contexto": "Nipomo, California, 6 de marzo de 1936. En plena [[Gran Depresión|Crisis económica mundial que empezó con el desplome de la bolsa de Nueva York en 1929 y duró casi toda la década de 1930.]], la fotógrafa **Dorothea Lange** trabaja para una agencia del gobierno que documenta la pobreza rural. Ve un campamento de recolectores de chícharo. Se acerca a una mujer con sus hijos. Según contó en 1960, hizo cinco tomas en unos diez minutos. Una de ellas se volvió la imagen más famosa de la Depresión.",
+   "pregunta": "Mira la foto con calma. ¿Qué crees que hace que funcione tan bien?",
+   "opciones": [
+    "Que la mujer mira de frente a la cámara",
+    "Que la mujer no mira a la cámara y los niños esconden la cara",
+    "Que se ve todo el campamento de fondo"
+   ],
+   "correcta": 1,
+   "revelacion": "La fuerza está en lo que **no** se ve. La mujer mira fuera del cuadro, hacia algo que no conocemos. Su mano toca la barbilla en un gesto de preocupación. Los dos niños se apoyan en sus hombros y esconden la cara. Al no ver sus rostros, cualquier niño podría ser ellos. Lange se fue acercando toma tras toma hasta dejar solo a la familia: sin tienda, sin campamento, sin contexto. La tradición dice que esta fue la última toma; la Biblioteca del Congreso aclara que el orden no se puede probar.\n\nAhora el detalle. En la versión original, abajo a la derecha, se veía el pulgar de la mujer sujetando el poste de la tienda. A finales de los años treinta se retocó el negativo para borrarlo; Lange lo consideraba un defecto. La foto más honesta de su época tiene, también, una pequeña edición.\n\nLa mujer era **Florence Owens Thompson**, de 32 años y madre de siete hijos. Su nombre no se supo hasta 1978. Lange escribió que había vendido las llantas del coche para comprar comida; uno de sus hijos lo negó después. La familia sintió que la foto les dio fama, pero nunca dinero.",
+   "idea": "Una gran fotografía no muestra todo: elige qué esconder para que tú completes la historia.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lange-MigrantMother02.jpg?width=900",
+    "alt": "Madre migrante, fotografía de Dorothea Lange",
+    "pie": "Madre migrante, Dorothea Lange, Nipomo, California, 1936. Biblioteca del Congreso de EE. UU.",
+    "credito": "Dorothea Lange · Biblioteca del Congreso · Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Biblioteca del Congreso de EE. UU.: guía sobre Migrant Mother",
+    "url": "https://guides.loc.gov/migrant-mother"
+   },
+   "wiki": "Dorothea Lange",
+   "claves": [
+    {
+     "nombre": "Florence Owens Thompson",
+     "quien": "La mujer de la foto: recolectora de 32 años, madre de siete hijos, identificada hasta 1978.",
+     "wiki": "Florence Owens Thompson"
+    },
+    {
+     "nombre": "Gran Depresión",
+     "quien": "La crisis de los años treinta que Lange y otros fotógrafos documentaron para el gobierno.",
+     "wiki": "Gran Depresión"
+    },
+    {
+     "nombre": "Administración de Seguridad Agraria",
+     "quien": "La agencia (FSA) cuyas fotos de la pobreza rural forman uno de los grandes archivos del siglo XX.",
+     "wiki": "Administración de Seguridad Agraria"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué se borró del negativo de «Madre migrante» y por qué importa?",
+    "respuesta": "El pulgar de la mujer, abajo a la derecha. Muestra que hasta la foto documental más famosa tuvo una edición."
+   }
+  },
+  {
+   "materia": "Oficios del lujo y estilo",
+   "pilar": "gusto",
+   "formato": "comoFunciona",
+   "titulo": "Qué significa «cronómetro» en un reloj",
+   "contexto": "Algunos relojes llevan escrita en la carátula la palabra *Chronometer*, a veces con la frase *Superlative Chronometer Officially Certified*. No es publicidad: es un examen. Desde 1973, un organismo suizo independiente, el **COSC**, pone a prueba cada mecanismo antes de que se arme el reloj. Lo revisan durante unos 15 días, en 5 posiciones distintas y a 3 temperaturas: 8, 23 y 38 °C.",
+   "pregunta": "¿Cuánto puede adelantarse o atrasarse al día, en promedio, un reloj mecánico para ser certificado como cronómetro?",
+   "opciones": [
+    "Entre −1 y +1 segundo al día",
+    "Entre −4 y +6 segundos al día",
+    "Entre −30 y +30 segundos al día"
+   ],
+   "correcta": 1,
+   "revelacion": "La norma, basada en la ISO 3159, permite un promedio de **−4 a +6 segundos al día**. Parece poco exigente si lo comparas con un reloj de cuarzo barato, que se desvía menos. Pero un reloj mecánico no tiene pila ni cristal de cuarzo: lo mueve un resorte, un [[volante|Rueda que oscila de un lado a otro a ritmo constante; es el corazón que marca el tiempo en un reloj mecánico.]] y cientos de piezas diminutas. El calor dilata el metal, la gravedad tira distinto según cómo esté el reloj y el resorte pierde fuerza al desenrollarse. Mantener esa precisión en todas esas condiciones es el verdadero oficio.\n\nCOSC emite unos 2.3 millones de certificados al año, según la revista Swiss Watches. Rolex es su mayor cliente, con más de un millón de mecanismos al año. Le siguen Omega, Tudor y Breitling.\n\nCómo usarlo: «cronómetro» en la carátula indica un mecanismo probado de forma independiente. No garantiza acabados finos ni que el reloj valga lo que cuesta. La calidad completa también se ve en el acabado de las piezas, el servicio y la historia de la casa.",
+   "idea": "En el lujo serio, una palabra en la carátula debe estar respaldada por un examen que alguien más aplicó.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ETA_2801_mechanical_watch_movement.jpg?width=900",
+    "alt": "Mecanismo de un reloj mecánico ETA 2801",
+    "pie": "Un mecanismo mecánico suizo: resorte, ruedas y volante en unos centímetros",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "COSC: preguntas frecuentes",
+    "url": "https://www.cosc.swiss/cosc-faq"
+   },
+   "wiki": "Cronómetro certificado",
+   "claves": [
+    {
+     "nombre": "COSC",
+     "quien": "Control Oficial Suizo de Cronómetros, fundado en 1973; certifica la precisión de mecanismos.",
+     "wiki": "COSC"
+    },
+    {
+     "nombre": "Reloj mecánico",
+     "quien": "Reloj movido por un resorte y un volante, sin pila. Es la base de la alta relojería.",
+     "wiki": "Reloj mecánico"
+    },
+    {
+     "nombre": "Rolex",
+     "quien": "La casa suiza que más cronómetros certifica: más de un millón de mecanismos al año.",
+     "wiki": "Rolex"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué tolerancia exige el COSC a un reloj mecánico y en qué condiciones lo prueba?",
+    "respuesta": "Entre −4 y +6 segundos al día en promedio; unos 15 días, en 5 posiciones y a 8, 23 y 38 °C."
+   }
+  },
+  {
+   "materia": "IA y el futuro",
+   "pilar": "futuro",
+   "formato": "comoFunciona",
+   "titulo": "El certificado de nacimiento de una foto",
+   "contexto": "Con IA generativa, crear una foto falsa y creíble cuesta casi nada. La respuesta de la industria no fue detectar lo falso, sino probar lo verdadero. En febrero de 2021, Adobe, Arm, la BBC, Intel, Microsoft y Truepic fundaron la **C2PA**, una coalición para crear un estándar de origen de contenidos. En octubre de 2023, Leica lanzó la M11-P, la primera cámara con *Content Credentials*. En 2025, Google lo integró en la cámara del Pixel 10.",
+   "pregunta": "¿Cómo crees que una foto «prueba» que es auténtica con este sistema?",
+   "opciones": [
+    "Una IA revisa la imagen y busca señales de manipulación",
+    "La cámara firma la foto con una clave criptográfica y registra cada edición",
+    "Se agrega una marca de agua visible en una esquina"
+   ],
+   "correcta": 1,
+   "revelacion": "Funciona como un certificado de nacimiento. Al tomar la foto, la cámara crea un **manifiesto**: quién la tomó, cuándo, con qué equipo. Ese manifiesto se sella con una [[firma digital|Código criptográfico que prueba quién creó un archivo y que nadie lo alteró después.]] cuya clave vive en un chip protegido de la cámara. Si alguien edita la foto en un programa compatible, la edición se agrega al historial. Si alguien la altera por fuera, la firma deja de coincidir y se nota.\n\nLo interesante es el cambio de lógica. Detectar falsificaciones es una carrera que se pierde: cada mejora del detector entrena a un mejor falsificador. Probar el origen es más estable: no dice «esto es falso», dice «esto viene de aquí y pasó por estas manos».\n\nTiene límites. Si alguien hace una captura de pantalla, el certificado se pierde. Y una foto sin credenciales no es falsa: solo no tiene pruebas. Por eso su valor crecerá cuando lo adopten más cámaras, redes y medios.",
+   "idea": "Cuando falsificar es gratis, lo valioso es poder probar de dónde viene algo.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leica_M11_with_Summicron-M_50mm_F2_lens.jpg?width=900",
+    "alt": "Cámara Leica M11 con lente Summicron-M 50 mm",
+    "pie": "Una Leica M11. Su versión M11-P (2023) fue la primera cámara con Content Credentials",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "C2PA: comunicado de fundación (2021)",
+    "url": "https://c2pa.org/c2pa-founding-press-release/"
+   },
+   "wiki": "Firma digital",
+   "claves": [
+    {
+     "nombre": "Metadatos",
+     "quien": "Datos sobre los datos: fecha, cámara o autor guardados dentro de un archivo.",
+     "wiki": "Metadatos"
+    },
+    {
+     "nombre": "Deepfake",
+     "quien": "Imagen, video o voz falsos generados con IA para parecer reales.",
+     "wiki": "Deepfake"
+    },
+    {
+     "nombre": "Inteligencia artificial generativa",
+     "quien": "IA que crea texto, imágenes o audio nuevos; la razón por la que hoy importa probar el origen.",
+     "wiki": "Inteligencia artificial generativa"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo prueba la C2PA que una foto es auténtica?",
+    "respuesta": "La cámara firma criptográficamente un manifiesto con el origen y registra cada edición. Si se altera por fuera, la firma no coincide."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "sigueDinero",
+   "titulo": "Un millón de dólares en plantillas de Notion",
+   "contexto": "Thomas Frank es un youtuber que hace videos sobre productividad. En abril de 2022 lanzó **Ultimate Brain**, una plantilla para la aplicación Notion: un sistema ya armado para organizar tareas, notas y proyectos. No es software nuevo. Es una forma ordenada de usar uno que ya existe. Según su propio reporte, en un año sus plantillas facturaron alrededor de 1.16 millones de dólares; Ultimate Brain sola, unos 760 mil.",
+   "pregunta": "Sigue el dinero. ¿Cuál crees que fue su mayor costo para vender la plantilla número 10,000?",
+   "opciones": [
+    "Fabricar y enviar cada copia",
+    "Casi nada: la plantilla ya estaba hecha; el costo real fue construir la audiencia",
+    "Pagarle a Notion una licencia por cada venta"
+   ],
+   "correcta": 1,
+   "revelacion": "Hacer la plantilla le costó meses de trabajo una sola vez. Venderla una vez más casi no cuesta: es un archivo que se duplica. Eso es un [[costo marginal|Lo que cuesta producir una unidad más. En lo digital tiende a cero.]] cercano a cero. Lo que sí se paga en cada venta es la comisión de la plataforma de cobro. En su reporte, Frank dice que usa Lemon Squeezy porque cobra la mitad que Gumroad; Gumroad cobra 10% más 50 centavos de dólar por venta, más el procesamiento de pago.\n\nEl costo de verdad estuvo antes: años de videos gratis que le dieron confianza y alcance. Su canal era el canal de ventas. Por eso la lección no es «haz una plantilla y hazte rico». Es: el producto digital convierte en dinero una audiencia y una reputación que ya existen. Sin eso, la misma plantilla puede no vender nada.\n\nOtro caso sirve de contraste: Easlo, de Singapur, vendió unos 239 mil dólares en un año de plantillas de Notion en Gumroad, según Business Insider. Es menos, pero con la misma lógica: un nicho claro, precio de pago único y una audiencia en redes. Las cifras de estos casos son las que reportaron sus creadores; no son promedios ni promesas.",
+   "idea": "En un producto digital, la copia es gratis; lo caro es la confianza que hace que alguien la compre.",
+   "fuente": {
+    "nombre": "Thomas Frank: $1 million in Notion template sales",
+    "url": "https://typefully.com/TomFrankly/dollar1-million-in-notion-template-sales-kuFT0iD"
+   },
+   "wiki": "Coste marginal",
+   "claves": [
+    {
+     "nombre": "Coste marginal",
+     "quien": "Lo que cuesta producir una unidad más; en productos digitales se acerca a cero.",
+     "wiki": "Coste marginal"
+    },
+    {
+     "nombre": "Ingreso marginal",
+     "quien": "Lo que ingresa por vender una unidad más; en lo digital casi todo es margen.",
+     "wiki": "Ingreso marginal"
+    }
+   ],
+   "profundizar": {
+    "titulo": "Gumroad: estructura de comisiones",
+    "url": "https://gumroad.com/help/article/66-gumroads-fees"
+   },
+   "repaso": {
+    "pregunta": "¿Por qué casi no le cuesta a Thomas Frank vender una plantilla más, y dónde estuvo su costo real?",
+    "respuesta": "Porque el costo marginal de copiar un archivo es casi cero; el costo real fue construir antes la audiencia y la confianza."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Retórica y oratoria",
+   "pilar": "mente",
+   "epoca": "1940",
+   "titulo": "El discurso que nadie oyó en su voz",
+   "dato": "El famoso «Lucharemos en las playas» de Churchill no se transmitió en su voz en 1940. Ese día lo dijo en la Cámara de los Comunes y, por la noche, un locutor de la BBC leyó fragmentos en la radio.",
+   "explicacion": "Churchill habló en el Parlamento el 4 de junio de 1940, tras la evacuación de Dunkerque. Entonces no se grababan las sesiones. La grabación que hoy escuchamos la hizo él mismo en 1949, en su casa de Chartwell, y se publicó en disco en los años sesenta.\n\nCircula una versión de que un actor, Norman Shelley, lo imitó en la radio; los Archivos Nacionales británicos la desmienten. La lección retórica es otra: el discurso se volvió legendario por su texto, que se citó y reimprimió, antes de que la mayoría oyera la voz.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Winston_Churchill_As_Prime_Minister_1940-1945_H2646A.jpg?width=900",
+    "alt": "Winston Churchill como primer ministro",
+    "pie": "Winston Churchill, primer ministro británico de 1940 a 1945",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "The National Archives (blog de historia del gobierno británico)",
+    "url": "https://history.blog.gov.uk/2013/12/02/we-shall-fight-on-the-beaches-three-things-you-never-knew-about-churchills-most-famous-speech/"
+   },
+   "wiki": "Lucharemos en las playas",
+   "claves": [
+    {
+     "nombre": "Operación Dinamo",
+     "quien": "La evacuación de Dunkerque (mayo-junio de 1940), el contexto del discurso.",
+     "wiki": "Operación Dinamo"
+    },
+    {
+     "nombre": "Sangre, esfuerzo, lágrimas y sudor",
+     "quien": "Su primer gran discurso como primer ministro, un mes antes.",
+     "wiki": "Sangre, esfuerzo, lágrimas y sudor"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuándo grabó Churchill «Lucharemos en las playas» en su propia voz?",
+    "respuesta": "En 1949, en Chartwell. En 1940 lo dijo en el Parlamento y la BBC leyó fragmentos."
+   }
+  },
+  {
+   "materia": "Liderazgo e influencia",
+   "pilar": "caracter",
+   "epoca": "Siglo XX",
+   "titulo": "El cordón que cualquiera puede jalar",
+   "dato": "En las plantas de Toyota, cualquier obrero puede jalar un cordón, el *andon*, para pedir ayuda cuando ve un problema. Si no se resuelve a tiempo, la línea entera se detiene.",
+   "explicacion": "La idea viene de Sakichi Toyoda, cuyo telar se detenía solo cuando se rompía un hilo. Toyota la convirtió en principio, el *jidoka*: no dejar pasar un defecto. Al jalar el cordón, la línea avanza hasta el final del ciclo mientras llega el jefe de equipo; si el problema sigue, se para.\n\nLo radical es quién tiene el poder. Según un reportaje de la BBC de 2007, en una planta de Toyota en Kentucky se jalaba unas 2,000 veces por semana. Un líder que premia que le avisen de los errores los descubre cuando todavía son baratos.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Andon-Board_in_einem_Produktionswerk.png?width=900",
+    "alt": "Tablero andon en una planta de producción",
+    "pie": "Un tablero andon: muestra en qué estación se pidió ayuda",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Lean Enterprise Institute: How NUMMI changed its culture",
+    "url": "https://www.lean.org/the-lean-post/articles/how-nummi-changed-its-culture/"
+   },
+   "wiki": "Andon (sistema de control)",
+   "claves": [
+    {
+     "nombre": "Sistema de producción Toyota",
+     "quien": "El método de Toyota que inspiró la manufactura esbelta en todo el mundo.",
+     "wiki": "Sistema de producción Toyota"
+    },
+    {
+     "nombre": "Jidōka",
+     "quien": "Principio de detener el proceso ante un defecto en lugar de dejarlo pasar.",
+     "wiki": "Jidōka"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué es el andon de Toyota?",
+    "respuesta": "Un cordón que cualquier obrero puede jalar para avisar de un problema; si no se resuelve, la línea se detiene."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "epoca": "1904",
+   "titulo": "El maratón ganado con veneno",
+   "dato": "En el maratón olímpico de San Luis 1904, el primero en llegar había hecho parte del recorrido en coche. El ganador oficial, Thomas Hicks, terminó tras recibir estricnina de sus entrenadores.",
+   "explicacion": "Hacía unos 32 °C y los caminos eran de tierra. De 32 corredores, solo 14 terminaron. Fred Lorz abandonó hacia la milla 9, subió a un coche y luego volvió a correr; lo celebraron como ganador hasta que lo descubrieron. Hicks ganó en 3:28:53, medio delirante, tras tomar estricnina con clara de huevo y brandy, que entonces se creía estimulante.\n\nEl cubano Félix Carvajal quedó cuarto después de comer manzanas en mal estado por el camino. Aquella carrera ayudó a que el deporte empezara a tomar en serio la hidratación y las reglas contra sustancias.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marathon_Hicks1904.jpg?width=900",
+    "alt": "Thomas Hicks en el maratón de 1904",
+    "pie": "Thomas Hicks, atendido por sus entrenadores durante el maratón de San Luis 1904",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Olympedia: maratón masculino, San Luis 1904",
+    "url": "https://www.olympedia.org/results/56131"
+   },
+   "wiki": "Juegos Olímpicos de San Luis 1904",
+   "claves": [
+    {
+     "nombre": "Félix Carvajal",
+     "quien": "Cartero cubano que llegó a San Luis casi sin dinero y quedó cuarto.",
+     "wiki": "Félix Carvajal"
+    },
+    {
+     "nombre": "Thomas J. Hicks",
+     "quien": "El ganador oficial del maratón de 1904.",
+     "wiki": "Thomas J. Hicks"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué le dieron a Thomas Hicks durante el maratón de 1904?",
+    "respuesta": "Estricnina con clara de huevo y brandy, que entonces se creía estimulante."
+   }
+  },
+  {
+   "materia": "Música",
+   "pilar": "cultura",
+   "epoca": "2014",
+   "titulo": "Los solistas no distinguieron un Stradivarius",
+   "dato": "En pruebas a ciegas publicadas en 2014, diez solistas tocaron violines antiguos, entre ellos cinco Stradivarius, y violines nuevos. No pudieron distinguirlos de forma fiable, y la mayoría prefirió los nuevos.",
+   "explicacion": "El estudio, de Claudia Fritz y su equipo, salió en la revista PNAS. Los músicos usaban gafas que les impedían ver el instrumento. En 2017 repitieron la idea con 137 oyentes en París y Nueva York: juzgaron que los violines nuevos se oían mejor en la sala y tampoco distinguieron cuál era cuál.\n\nNo significa que un Stradivarius sea malo; son instrumentos extraordinarios. Significa que parte de su valor está en la historia, la rareza y lo que esperamos oír. Saber eso ayuda a separar calidad de prestigio.",
+   "fuente": {
+    "nombre": "CNRS: Sound projection, are Stradivarius violins really better?",
+    "url": "https://www.cnrs.fr/en/press/sound-projection-are-stradivarius-violins-really-better"
+   },
+   "wiki": "Antonio Stradivari",
+   "claves": [
+    {
+     "nombre": "Violín",
+     "quien": "El instrumento cuya cumbre se asocia a Cremona, Italia, en los siglos XVII y XVIII.",
+     "wiki": "Violín"
+    },
+    {
+     "nombre": "Stradivarius El Mesías",
+     "quien": "Uno de los Stradivarius mejor conservados, casi sin tocar.",
+     "wiki": "Stradivarius El Mesías"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué encontraron las pruebas a ciegas de 2014 con violines Stradivarius?",
+    "respuesta": "Que los solistas no los distinguían de forma fiable de violines nuevos, y la mayoría prefirió los nuevos."
+   }
+  },
+  {
+   "materia": "Ciudades del mundo",
+   "pilar": "mundo",
+   "epoca": "Siglo XVII",
+   "titulo": "Una iglesia sobre un bosque",
+   "dato": "La basílica de Santa Maria della Salute, en Venecia, descansa sobre más de un millón de pilotes de madera clavados en el lodo de la laguna.",
+   "explicacion": "Venecia se construyó sobre islas de barro. Para cimentar, se clavaban troncos de roble, aliso, alerce y otras maderas hasta capas más firmes, y encima se ponían plataformas y piedra. La Salute se empezó en 1631, tras una peste, y se consagró en 1687.\n\nLa madera casi no se pudre porque, sin oxígeno, los hongos no actúan. Aun así, estudios del CNR italiano muestran que bacterias la degradan muy despacio. Una ciudad entera se sostiene, literalmente, sobre bosques sumergidos.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Santa_Maria_della_Salute_in_Venice_001.jpg?width=900",
+    "alt": "Basílica de Santa Maria della Salute en Venecia",
+    "pie": "Santa Maria della Salute, Venecia, consagrada en 1687",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "CNR (Italia): estudio sobre los pilotes de madera de Venecia",
+    "url": "https://iris.cnr.it/handle/20.500.14243/313591"
+   },
+   "wiki": "Venecia",
+   "claves": [
+    {
+     "nombre": "Puente de Rialto",
+     "quien": "El puente más antiguo sobre el Gran Canal, también apoyado en miles de pilotes.",
+     "wiki": "Puente de Rialto"
+    },
+    {
+     "nombre": "Cimentación",
+     "quien": "La parte de una obra que transmite su peso al suelo.",
+     "wiki": "Cimentación"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué los pilotes de madera de Venecia casi no se pudren?",
+    "respuesta": "Porque están bajo el agua y el lodo, sin oxígeno, donde los hongos no actúan; solo bacterias los degradan muy despacio."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "epoca": "1976",
+   "titulo": "La carta que inventó vender software",
+   "dato": "En 1976, un Bill Gates de 20 años publicó una carta furiosa: menos del 10% de los dueños de la computadora Altair había pagado por su programa BASIC. El resto lo copiaba.",
+   "explicacion": "En la «Carta abierta a los aficionados», Gates calculó que el tiempo de computadora que usaron valía más de 40 mil dólares, y que con las regalías su trabajo salía a menos de 2 dólares la hora. En esa época, muchos creían que el software debía compartirse gratis.\n\nLa carta planteó la pregunta central de todo producto digital: si copiar no cuesta nada, ¿por qué alguien pagaría? La respuesta que construyó Microsoft fue la licencia. Hoy cualquier plantilla, curso o app vive de esa misma idea.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill_Gates_Letter_to_Hobbyists.jpg?width=900",
+    "alt": "Carta abierta a los aficionados de Bill Gates",
+    "pie": "La «Carta abierta a los aficionados», 3 de febrero de 1976",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "DigiBarn: texto de la carta en el boletín del Homebrew Computer Club",
+    "url": "https://digibarn.com/collections/newsletters/homebrew/V2_01/gatesletter.html"
+   },
+   "wiki": "Carta abierta a los aficionados",
+   "claves": [
+    {
+     "nombre": "Altair 8800",
+     "quien": "La computadora personal en kit que desató la fiebre de los aficionados en 1975.",
+     "wiki": "Altair 8800"
+    },
+    {
+     "nombre": "Altair BASIC",
+     "quien": "El primer producto de Microsoft: un lenguaje para programar la Altair.",
+     "wiki": "Altair BASIC"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué denunció Bill Gates en su carta de 1976?",
+    "respuesta": "Que menos del 10% de los dueños de la Altair pagó por su BASIC; el resto lo copiaba."
+   }
+  },
+  {
+   "materia": "Ciencia y tecnología",
+   "pilar": "futuro",
+   "epoca": "1957",
+   "titulo": "La primera foto digital fue un bebé",
+   "dato": "La primera imagen digital escaneada es de 1957: un bebé de tres meses, en 176 por 176 píxeles. Era Walden, hijo de Russell Kirsch, del actual NIST.",
+   "explicacion": "Kirsch usó un escáner de tambor conectado a la SEAC, una de las primeras computadoras de Estados Unidos. La imagen medía 5 por 5 centímetros. Fue 18 años antes de la cámara de Sasson en Kodak.\n\nKirsch eligió píxeles cuadrados por sencillez. En 2010, ya mayor, publicó un trabajo con píxeles de forma variable y dijo que el cuadrado había sido una decisión tonta que el mundo arrastraba desde entonces. Las decisiones de los pioneros se vuelven estándares por décadas.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NBSFirstScanImage.jpg?width=900",
+    "alt": "Primera imagen digital escaneada, 1957",
+    "pie": "La primera imagen escaneada: Walden Kirsch, 1957. NIST",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "NIST: First digital image",
+    "url": "https://www.nist.gov/mathematics-statistics/first-digital-image"
+   },
+   "wiki": "Russell A. Kirsch",
+   "claves": [
+    {
+     "nombre": "Píxel",
+     "quien": "La unidad mínima de una imagen digital.",
+     "wiki": "Píxel"
+    },
+    {
+     "nombre": "Fotografía digital",
+     "quien": "La foto como datos en lugar de química; nació entre 1957 y 1975.",
+     "wiki": "Fotografía digital"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué muestra la primera imagen digital escaneada (1957)?",
+    "respuesta": "A Walden, el bebé de Russell Kirsch, en 176 por 176 píxeles."
+   }
+  },
+  {
+   "materia": "Etiqueta y protocolo",
+   "pilar": "gusto",
+   "epoca": "1865",
+   "titulo": "El esmoquin es inglés; el «tuxedo», neoyorquino",
+   "dato": "Según la sastrería Henry Poole, en 1865 el príncipe de Gales le pidió una chaqueta corta para cenas informales. De ahí nace el esmoquin, que en Estados Unidos tomó el nombre de un club: Tuxedo Park.",
+   "explicacion": "La versión de Henry Poole viene de sus propios registros, así que es tradición más que prueba independiente. La historia de que un neoyorquino la llevó al club de Tuxedo Park en 1886 tampoco está documentada; el primer uso escrito de *tuxedo* para la chaqueta es de 1889.\n\nEn español decimos *esmoquin* por la *smoking jacket* inglesa: la prenda para fumar tras la cena. Nació como ropa relajada frente al frac, y hoy es lo más formal que usa casi cualquiera: la etiqueta cambia de nivel con el tiempo.",
+   "fuente": {
+    "nombre": "Henry Poole & Co: historia del dinner jacket",
+    "url": "https://henrypoole.com/?p=10230"
+   },
+   "wiki": "Esmoquin",
+   "claves": [
+    {
+     "nombre": "Eduardo VII del Reino Unido",
+     "quien": "El príncipe de Gales que encargó la chaqueta; árbitro de la moda masculina de su época.",
+     "wiki": "Eduardo VII del Reino Unido"
+    },
+    {
+     "nombre": "Ropa semiformal",
+     "quien": "Código de vestimenta entre lo casual y la etiqueta, donde hoy cabe el esmoquin.",
+     "wiki": "Ropa semiformal"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿De dónde viene la palabra «esmoquin»?",
+    "respuesta": "De la «smoking jacket» inglesa, la chaqueta para fumar tras la cena. En EE. UU. se llama tuxedo por el club de Tuxedo Park."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "Meditaciones",
+  "autor": "Marco Aurelio",
+  "capitulo": {
+   "numero": 4,
+   "total": 6,
+   "titulo": "Al amanecer: trabajar con los demás, aunque sean difíciles"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/0_Marcus_Aurelius_-_Piazza_del_Campidoglio_(2).JPG?width=900",
+   "alt": "Estatua ecuestre de Marco Aurelio en Roma",
+   "pie": "Marco Aurelio, Plaza del Capitolio, Roma",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "Imagina que es de madrugada en un campamento militar junto al Danubio. Hace frío. El emperador de Roma tiene que levantarse para otro día de juntas, quejas, informes y gente que le va a fallar. Y antes de salir de la tienda escribe una nota para sí mismo. No es un plan de batalla. Es un ensayo de cómo va a tratar a las personas.\n\nEste capítulo reúne los pasajes que Marco Aurelio escribió para las mañanas. Son, quizá, los más útiles para quien dirige un equipo, negocia con clientes o simplemente convive con otros."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Prepararse para la gente difícil"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El libro II empieza con un ejercicio que suena casi pesimista. Marco Aurelio se avisa a sí mismo de lo que le espera ese día:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Empieza la mañana diciéndote: hoy me encontraré con el entrometido, el ingrato, el arrogante, el mentiroso, el envidioso y el insociable. Todo eso les pasa porque no saben distinguir el bien del mal.",
+    "fuente": "Meditaciones, II, 1"
+   },
+   {
+    "tipo": "texto",
+    "texto": "No es una queja. Es una [[premeditación|En el estoicismo, ensayar mentalmente lo que puede salir mal para no ser tomado por sorpresa.]]. Si sabes que vas a encontrarte con gente grosera, su grosería no te toma por sorpresa. Y lo que no te sorprende, te altera mucho menos.\n\nPero fíjate en la segunda frase. Marco Aurelio no dice «son malos». Dice que actúan así porque **no saben** qué es lo bueno. Para los estoicos, nadie hace el mal sabiendo que es mal; lo hace por un error de juicio. Esa idea, que viene de Sócrates, cambia la emoción: es difícil odiar a alguien que se equivoca, es más fácil tenerle paciencia."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Hechos para colaborar"
+   },
+   {
+    "tipo": "texto",
+    "texto": "En el mismo pasaje viene la parte que da sentido a todo. Marco Aurelio se recuerda que esa gente difícil es de su misma naturaleza, que comparte con él la razón. Y luego usa una imagen del cuerpo:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Hemos nacido para colaborar, como los pies, como las manos, como los párpados, como las hileras de dientes de arriba y de abajo. Actuar unos contra otros es, por tanto, contrario a la naturaleza.",
+    "fuente": "Meditaciones, II, 1"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La comparación es exacta. Los dientes de arriba y los de abajo chocan todo el tiempo, y justo así cumplen su función. Una mano no se enoja con la otra. La fricción no prueba que el otro sea tu enemigo; muchas veces es parte del trabajo conjunto.\n\nEn un equipo de trabajo esto se nota todos los días. El de finanzas frena al de ventas. El abogado frena al director comercial. Desde dentro parece pleito. Desde fuera, es la boca masticando."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según Marco Aurelio, ¿por qué la gente actúa de forma grosera o injusta?",
+    "opciones": [
+     "Porque disfruta hacer daño",
+     "Porque no sabe distinguir el bien del mal",
+     "Porque el emperador la trata mal"
+    ],
+    "correcta": 1,
+    "explicacion": "Para los estoicos, el mal nace de un error de juicio, no de la maldad pura. Por eso proponen paciencia y enseñanza antes que odio."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La batalla contra las cobijas"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El libro V abre con una escena que cualquiera reconoce. Al hombre más poderoso del mundo también le cuesta salir de la cama:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Por la mañana, cuando te cueste levantarte, ten presente este pensamiento: me levanto para hacer el trabajo de un ser humano. ¿O acaso fui hecho para quedarme entre las cobijas, calientito?",
+    "fuente": "Meditaciones, V, 1"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Lo interesante es el argumento que sigue. Se pregunta si no ve a las plantas, los pájaros, las hormigas y las abejas haciendo cada uno su tarea. Y él, ¿no quiere hacer la suya? Admite que descansar es necesario, pero dice que la naturaleza le puso un límite, como al comer y al beber, y él suele pasarlo.\n\nLuego viene una frase dura: quien no se ama a sí mismo no ama su propia naturaleza ni lo que ella le pide. Para Marco Aurelio, cumplir con el trabajo del día no es un sacrificio. Es una forma de respeto propio.\n\nHay algo casi cómico en imaginarlo: el dueño de un imperio que iba de Escocia a Egipto, discutiendo consigo mismo para no quedarse cinco minutos más en la cama. Pero ahí está la lección. La disciplina no fue fácil ni para él. La diferencia es que tenía un argumento listo para el momento en que la necesitaba, y lo escribió para no tener que inventarlo cada mañana."
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/0_Marcus_Aurelius_-_Piazza_del_Campidoglio_(2).JPG?width=900",
+    "alt": "Estatua ecuestre de Marco Aurelio en Roma",
+    "pie": "Marco Aurelio a caballo, en la plaza del Capitolio de Roma: el emperador que se daba ánimos para levantarse",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La mejor venganza"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Si la gente difícil es inevitable, ¿qué hacer cuando de verdad te hace daño? Marco Aurelio responde en el libro VI con una de sus frases más cortas:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "La mejor manera de vengarte es no volverte como quien te hizo el mal.",
+    "fuente": "Meditaciones, VI, 6"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es una idea práctica. Cuando alguien te miente en una negociación, la tentación es mentir de vuelta. Cuando un cliente te grita, la tentación es gritar. Pero si respondes igual, el otro ganó dos veces: te hizo daño y además te cambió. La venganza que propone no castiga al otro; te protege a ti."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Cuál es, según Meditaciones VI, 6, la mejor venganza?",
+    "opciones": [
+     "No volverte como quien te hizo el mal",
+     "Esperar el momento justo para responder",
+     "Contarle a todos lo que te hicieron"
+    ],
+    "correcta": 0,
+    "explicacion": "Responder igual sería dejar que el otro te cambie. La única venganza que vale la pena es seguir siendo quien eres."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "No pidas lo imposible"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Hay un pasaje del libro IX que funciona como antídoto contra el enojo de todos los días. Marco Aurelio se imagina ofendido por el descaro de alguien, y se hace una pregunta casi de lógica:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Cuando te ofenda la desvergüenza de alguien, pregúntate enseguida: ¿es posible que no haya desvergonzados en el mundo? No es posible. No pidas, entonces, lo imposible.",
+    "fuente": "Meditaciones, IX, 42"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El razonamiento es sencillo y poderoso. Si en el mundo siempre habrá gente desvergonzada, encontrarte con una no es una injusticia del destino: es estadística. Enojarte equivale a exigir que el mundo sea distinto de como es. Y eso, dice Marco Aurelio, es pedir lo imposible.\n\nEn el mismo pasaje añade algo más fino. La naturaleza, dice, nos dio una virtud para cada defecto ajeno: contra el necio, la mansedumbre; contra otros males, otras fuerzas. Y si alguien se equivoca, puedes corregirlo con calma. Muchas veces, además, la culpa es tuya: confiaste en quien no debías, o esperaste gratitud a cambio de un favor. Quien hace un bien y espera pago, dice, se parece al ojo que pidiera recompensa por ver.\n\nPiensa en un proveedor que incumple, en un cliente que regatea hasta el último peso o en un socio que se atribuye lo que no hizo. El enojo te dice que eso no debería pasar. Marco Aurelio te diría: claro que pasa, y pasará otra vez. La pregunta útil no es por qué existe esa persona, sino qué virtud tuya necesitas para tratar con ella."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Enseñar o soportar"
+   },
+   {
+    "tipo": "texto",
+    "texto": "En el libro VIII, Marco Aurelio resume todo esto en una sola línea. Es casi un reglamento de convivencia:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Los hombres existen los unos para los otros. Enséñales, entonces, o sopórtalos.",
+    "fuente": "Meditaciones, VIII, 59"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Solo hay dos opciones, y ninguna es pelear. Si puedes mostrarle a alguien un mejor camino, enséñale. Si no puedes, porque no quiere o porque no es el momento, tolera. Lo que no está en la lista es odiar, humillar o desquitarte.\n\nPara alguien que dirige empresas, la frase es un filtro útil antes de una conversación difícil. ¿Esto es algo que puedo enseñar? Entonces prepara la explicación. ¿No lo es? Entonces decide cuánto vale la pena cargarlo."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Un emperador con malos colaboradores",
+    "texto": "Marco Aurelio sabía de lo que hablaba. Su coemperador, Lucio Vero, tenía fama de frívolo. En el año 175, su general más cercano, Avidio Casio, se proclamó emperador al creerlo muerto. Cuando Casio fue asesinado por sus propios oficiales, cuenta la tradición que Marco Aurelio lamentó no haber tenido la oportunidad de perdonarlo."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Lo que une todos estos pasajes es una idea sencilla: la gente difícil no es una interrupción de tu trabajo; es parte de él. El emperador se preparaba cada mañana para encontrarla, no para evitarla. Y decidía antes de salir cómo iba a responder.\n\nMañana, antes de tu primera junta, prueba su ejercicio. Piensa quién te va a sacar de quicio hoy. Recuerda que esa persona y tú están hechos para trabajar juntos, como los dientes de arriba y los de abajo. Y decide desde ahora que no te vas a volver como ella."
+   }
+  ],
+  "paraLlevar": [
+   "Cada mañana, ensaya a la gente difícil que vas a encontrar: lo previsto altera menos.",
+   "Estamos hechos para colaborar, como los dientes de arriba y los de abajo: la fricción es parte del trabajo.",
+   "La mejor venganza es no volverte como quien te hizo daño."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Qué imagen usa Marco Aurelio en II, 1 para decir que estamos hechos para colaborar?",
+    "respuesta": "Los pies, las manos, los párpados y las hileras de dientes de arriba y abajo: partes que trabajan juntas aunque choquen."
+   },
+   {
+    "pregunta": "¿Qué dos opciones da Marco Aurelio en VIII, 59 ante los demás?",
+    "respuesta": "Enseñarles o soportarlos. Nunca odiarlos ni pelear."
+   }
+  ],
+  "proximo": "Capítulo 5: Lo que depende de ti y lo que no",
+  "fuentes": [
+   {
+    "nombre": "Meditaciones, traducción de George Long (1862), Proyecto Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/15877"
+   },
+   {
+    "nombre": "Meditaciones, traducción inglesa de Meric Casaubon (1634), Proyecto Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/2680"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de dominio público de George Long (1862), Proyecto Gutenberg. La numeración sigue la división estándar del texto."
+ },
+ "palabra": {
+  "palabra": "Anquilosarse",
+  "categoria": "Verbo",
+  "pronunciacion": "an-qui-lo-SAR-se",
+  "definicion": "Detenerse o quedarse inmóvil en su desarrollo; perder la flexibilidad para cambiar. En medicina, que una articulación pierda movimiento.",
+  "origen": "Del griego *ankýlōsis*, «rigidez de una articulación», de *ankýlos*, «curvo, doblado».",
+  "ejemplo": "Kodak no se equivocó por falta de inventos, sino porque su modelo de negocio se anquilosó alrededor del rollo de película.",
+  "repaso": {
+   "pregunta": "¿Qué significa «anquilosarse» y de dónde viene?",
+   "respuesta": "Quedarse inmóvil en su desarrollo, perder flexibilidad. Del griego ankýlōsis, rigidez de una articulación."
+  }
+ },
+ "frances": {
+  "frase": "On peut fixer un rendez-vous la semaine prochaine ?",
+  "traduccion": "¿Podemos agendar una reunión la próxima semana?",
+  "pronunciacion": "on pö fik-SÉ an ran-de-VU la se-MEN pro-SHEN",
+  "uso": "Negocios. «Fixer un rendez-vous» es fijar una cita, de trabajo o médica. «On» es muy común en lugar de «nous» (nosotros) y suena natural, sin ser informal en exceso.",
+  "variante": "Quelles sont vos disponibilités ? (¿Qué disponibilidad tiene usted?)",
+  "repaso": {
+   "pregunta": "¿Cómo propones en francés agendar una reunión la próxima semana?",
+   "respuesta": "« On peut fixer un rendez-vous la semaine prochaine ? »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "Según el estudio interno de Vince Barabba (1981), ¿cuánto tiempo tenía Kodak para prepararse ante lo digital?",
+   "opciones": [
+    "Unos dos años",
+    "Ninguno: ya era tarde",
+    "Unos diez años"
+   ],
+   "correcta": 2,
+   "explicacion": "El estudio concluyó que lo digital sustituiría a la película, pero que Kodak tenía unos diez años. La empresa hizo poco con ese tiempo y quebró en 2012."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "En la primera quincena de octubre, ¿cuánto subió al año el rubro de bebidas alcohólicas y tabaco en México?",
+   "opciones": [
+    "7.30%",
+    "3.62%",
+    "0.41%"
+   ],
+   "correcta": 0,
+   "explicacion": "Subió 7.30% anual, la mayor alza entre las categorías reportadas. 3.62% es la inflación general anual y 0.41%, el alza de la quincena."
+  },
+  {
+   "origen": "materias",
+   "pregunta": "¿Qué tolerancia diaria promedio exige el COSC a un reloj mecánico para llamarlo cronómetro?",
+   "opciones": [
+    "±1 segundo",
+    "Entre −4 y +6 segundos",
+    "±30 segundos"
+   ],
+   "correcta": 1,
+   "explicacion": "Entre −4 y +6 segundos al día, probado unos 15 días en 5 posiciones y a 3 temperaturas."
+  }
+ ],
+ "libro": null,
+ "proximo": "Los estoicos ante la crisis"
+}
