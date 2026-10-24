@@ -1,0 +1,842 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-10-24",
+ "numero": 5,
+ "fecha": "2026-10-24",
+ "disponibleDesde": "2026-10-24T08:00:00-06:00",
+ "titulo": "Stockdale: siete años y medio en Hanói con un manual estoico",
+ "temporada": {
+  "id": "t01",
+  "numero": 1,
+  "titulo": "Decisiones bajo presión",
+  "episodio": 5,
+  "totalEpisodios": 6
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Stockdale_Formal_Portrait.jpg?width=900",
+  "alt": "Retrato oficial de James Stockdale, vicealmirante de la Marina de EE. UU.",
+  "pie": "James Stockdale, retrato oficial hacia 1979: siete años y medio prisionero en Hanói",
+  "credito": "Marina de EE. UU. · Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "pregunta": "¿Qué concluyó en 1981 el estudio interno de Kodak dirigido por Vince Barabba?",
+   "respuesta": "Que lo digital iba a sustituir a la película, pero que Kodak tenía unos diez años para prepararse. Hizo poco con ese tiempo.",
+   "origen": "Edición #4"
+  },
+  {
+   "pregunta": "¿Qué es «la pregunta del nuevo director»?",
+   "respuesta": "Preguntarte qué haría alguien que llega sin nada que proteger. Grove y Moore la usaron en 1985 para sacar a Intel de las memorias.",
+   "origen": "Edición #4"
+  },
+  {
+   "pregunta": "¿Qué ejercicio propone Marco Aurelio al empezar la mañana (Meditaciones II, 1)?",
+   "respuesta": "Ensayar a la gente difícil que vas a encontrar: el entrometido, el ingrato, el arrogante. Lo previsto altera menos.",
+   "origen": "Edición #4"
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n1",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-10-23",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 5,
+    "dondeIbamos": "Una nueva ola de ataques hutíes a Riad, Yanbu, Dammam y Abha llevó el Brent a 113.17 dólares el 22 de octubre, su cierre más alto desde mayo; el peso cerró en 18.71."
+   },
+   "titular": "El Brent cierra en 116.72 dólares, su nivel más alto desde abril; Aramco evacuó su sede en Dhahran",
+   "quePaso": "Según Reuters, el Brent subió 3.55 dólares (3.14%) el viernes 23 y cerró en **116.72 dólares por barril**, su nivel más alto desde el 29 de abril. El WTI cerró en 103.27, con un alza de 3.8%. En la semana, el Brent ganó cerca de 6%.\n\nDetrás del alza hay dos noticias. El jueves 22, Saudi Aramco ordenó evacuar su sede en Dhahran mientras se intensificaban los combates entre Arabia Saudita y los hutíes. Y el Ministerio de Cambio Climático de Emiratos reportó un derrame de un buque petrolero frente a Umm Al Quwain; no dijo la causa ni identificó al buque.",
+   "aMiQue": "Un barril arriba de 115 dólares se traslada, con semanas de retraso, al diésel, a los fletes y a los envases plásticos. Si distribuyes bebidas o medicamentos desde Guadalajara, el costo logístico de diciembre probablemente no será el de septiembre. Es buen momento para revisar contratos de transporte con precio fijo y para no prometer precios de cierre de año sin margen para el combustible.",
+   "contexto": "**Hecho:** es la cuarta semana seguida de alzas fuertes ligadas a los ataques hutíes contra Arabia Saudita.\n\n**Interpretación:** un operador citado por Reuters dijo que el miedo a interrupciones del suministro empujó el avance. No hay reportes de que el flujo por el estrecho de Ormuz se haya cortado; lo que sube es la prima de riesgo.\n\n**Pendiente:** no hay una mediación confirmada entre Estados Unidos e Irán.",
+   "queVigilar": "El voto aplazado del parlamento de Egipto sobre apoyo militar a Arabia Saudita (26 de octubre), la decisión de la Reserva Federal (28 de octubre) y si Aramco reanuda operaciones normales en Dhahran.",
+   "fuentes": [
+    {
+     "nombre": "AOL (Reuters): Brent crude jumps to highest since April on Houthi attacks, UAE oil spill",
+     "url": "https://www.aol.com/articles/oil-little-changed-supply-concern-010426000.html"
+    },
+    {
+     "nombre": "FinanceFeeds: Brent $116.72 settle, week ahead",
+     "url": "https://financefeeds.com/brent-crude-oil-price-116-72-saturday-week-ahead-houthi-saudi-fed-28-october-bull-120-bear-108/"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-10-23",
+   "titular": "La economía mexicana crece 3.5% anual en agosto, más de lo esperado; el peso cierra su semana en 18.66",
+   "quePaso": "El INEGI informó el viernes 23 que el [[IGAE|Indicador Global de la Actividad Económica: la medición mensual del INEGI que funciona como un PIB adelantado.]] creció **0.6% en agosto** frente a julio y **3.5% frente a agosto de 2025**, con cifras ajustadas por estacionalidad. Su estimación oportuna anticipaba 3.2%. Es el segundo mes al alza, tras el 0.8% de julio.\n\nEn agosto, la industria subió 0.6% mensual (manufacturas, 1.2%) y los servicios, 0.2%. La minería cayó 1.6%. De enero a agosto, la economía acumula un alza de 1.7%.\n\nEse mismo día, el tipo de cambio de referencia del Banco de México quedó en **18.6601 pesos por dólar**, apenas por debajo de las 18.6670 del jueves. En la semana, el dólar ganó 0.84% frente al peso.",
+   "aMiQue": "Dos señales que van en sentido contrario. La actividad resiste, sobre todo manufactura y comercio al mayoreo, lo que sostiene la demanda de empresas y tiendas. Pero el consumo, según el reporte, se enfría, y el peso sigue débil, así que lo importado se encarece. Para una marca premium, es un mercado que compra, pero que compara más.",
+   "contexto": "**Hecho:** Banamex subió su pronóstico de crecimiento para 2026 a 2.0%, desde 1.4%, por las exportaciones de equipo de cómputo. Oxford Economics lo subió a 1.6%. La OCDE y el FMI calculan 1.5%.\n\n**Interpretación:** Banamex advierte que la recuperación no es pareja. Oxford Economics atribuye la lentitud de la manufactura a la debilidad automotriz, a la poca inversión y a la incertidumbre por la política comercial de Estados Unidos.\n\n**Riesgos citados:** una desaceleración en Estados Unidos, un nuevo golpe a la actividad petrolera y la revisión del T-MEC.",
+   "queVigilar": "El PIB oportuno del tercer trimestre, que el INEGI publica a fines de octubre, y si el peso rompe su racha de semanas perdedoras.",
+   "fuentes": [
+    {
+     "nombre": "Expansión: Sorprende economía mexicana y crece más de lo esperado en agosto",
+     "url": "https://expansion.mx/economia/2026/10/23/economia-mexicana-crece-mas-de-lo-esperado-y-mejora-su-perspectiva-para-2026"
+    },
+    {
+     "nombre": "La Política Online: La economía crece 3.5% anual en agosto y supera la estimación del INEGI",
+     "url": "https://www.lapoliticaonline.com/mexico/economia-mx/la-economia-crece-3-5-anual-en-agosto-y-supera-la-estimacion-del-inegi/"
+    },
+    {
+     "nombre": "El Mañana: Tipo de cambio al cierre, viernes 23 de octubre",
+     "url": "https://elmanana.com.mx/nacional/2026/10/23/tipo-de-cambio-peso-mexicanodolar-al-cierre-hoy-viernes-23-de-octubre-183136.html"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "Siete años y medio en una prisión de Hanói. Los primeros en quebrarse fueron los que más esperanza tenían.",
+    "contexto": "9 de septiembre de 1965. El comandante **James Stockdale**, piloto de la Marina de Estados Unidos, vuela un A-4 Skyhawk sobre Vietnam del Norte. Un disparo antiaéreo inutiliza su avión y tiene que eyectarse. Mientras baja en paracaídas hacia una aldea, según contó después, se dice a sí mismo: «Cinco años ahí abajo, por lo menos. Dejo el mundo de la tecnología y entro al mundo de Epicteto». Se equivocó en el número: fueron siete años y medio.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Stockdale_Formal_Portrait.jpg?width=900",
+     "alt": "Retrato oficial de James Stockdale, vicealmirante de la Marina de EE. UU.",
+     "pie": "James Stockdale, retrato oficial hacia 1979: siete años y medio prisionero en Hanói",
+     "credito": "Marina de EE. UU. · Wikimedia Commons"
+    },
+    "pregunta": "Stockdale vio a muchos compañeros quebrarse en el cautiverio. ¿Quiénes crees que aguantaban peor?",
+    "opciones": [
+     "Los pesimistas, que esperaban lo peor",
+     "Los optimistas, que decían «salimos para Navidad»",
+     "Los que pasaban más tiempo solos en su celda"
+    ]
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Un piloto con un libro de esclavo en la cabeza",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hanoi_Hilton_Map.jpg?width=900",
+     "alt": "Plano de la prisión de Hỏa Lò, el «Hanoi Hilton»",
+     "pie": "Plano de Hỏa Lò, la prisión que los presos estadounidenses llamaban con ironía «Hanoi Hilton»",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "¿Por qué un piloto de combate pensaría en un filósofo griego mientras cae del cielo? Por un profesor. Años antes, Stockdale estudiaba un posgrado en Stanford. Ahí conoció a **Philip Rhinelander**, decano de Humanidades, que lo tomó bajo su ala. En su última sesión, Rhinelander bajó un libro del estante y le dijo: «Creo que esto te va a interesar». Era el [[Enquiridión|«Manual» de Epicteto: un resumen breve de sus enseñanzas, compilado por su alumno Arriano en el siglo II.]].\n\nEpicteto había sido esclavo en Roma. Su manual abre con una frase seca: unas cosas dependen de nosotros y otras no. Stockdale lo leyó como quien lee un instructivo. Después lo memorizó.\n\nEn Hanói lo encerraron en **Hỏa Lò**, la prisión que los presos llamaban «Hanoi Hilton». Era el oficial de mayor rango y organizó la resistencia: reglas de conducta, un código de golpecitos en la pared para comunicarse entre celdas. Por eso lo castigaron. Del 25 de octubre de 1967 al 9 de diciembre de 1969 lo aislaron con otros diez líderes en la [[Banda de Alcatraz|Grupo de 11 prisioneros estadounidenses, líderes de la resistencia, aislados en celdas de castigo cerca de la prisión de Hỏa Lò entre 1967 y 1969.]]: celdas sin ventanas, de un metro por tres, con la luz prendida día y noche y grilletes en los tobillos cada noche.\n\nNo controlaba nada de lo que le pasaba. Ni la comida, ni el dolor, ni la fecha de salida. Le quedaba una sola cosa: cómo responder. Ahí estaba en juego todo lo que Epicteto le había enseñado."
+   },
+   {
+    "tipo": "giro",
+    "titulo": "Morían de corazón roto",
+    "texto": "Stockdale salió libre el 12 de febrero de 1973. En 1976 recibió la Medalla de Honor. Años después, el investigador de negocios **Jim Collins** lo entrevistó para su libro *Good to Great* (2001) y le preguntó quiénes no habían salido.\n\nLa respuesta fue la segunda opción: **los optimistas**. «Eran los que siempre decían: “Vamos a salir para Navidad”. Y llegaba Navidad, y se iba. Luego decían: “Vamos a salir para Pascua”. Y llegaba Pascua, y se iba. Y morían de corazón roto».\n\nLo sorprendente es que Stockdale no era pesimista. Le dijo a Collins que nunca dudó de que iba a salir y de que esa experiencia sería lo que definiría su vida. La diferencia estaba en otra parte: su fe era sobre el final de la historia, no sobre la fecha.\n\nCollins lo resumió así: nunca confundas la fe absoluta en que vas a prevalecer con la disciplina de enfrentar los hechos más duros de tu realidad actual. Las dos cosas a la vez. Hoy se conoce como la **paradoja de Stockdale**."
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "La paradoja de Stockdale",
+    "texto": "**Separa dos cosas que solemos mezclar: la fe en el desenlace y el pronóstico de la fecha.**\n\nEl optimista ingenuo apuesta a una fecha: «para diciembre se arregla». Cuando la fecha pasa, el golpe no es solo la mala noticia; es la esperanza rota. Y cada nueva fecha incumplida pesa más que la anterior.\n\nLa herramienta tiene dos columnas. En la primera escribes lo que crees del final: «esta marca va a salir adelante». En la segunda, los hechos más duros de hoy, sin maquillaje: el dólar, la caja, el cliente que se fue. Si en la segunda columna aparece una fecha que no depende de ti, táchala.\n\nEs la dicotomía de Epicteto aplicada a la estrategia. La fecha casi nunca depende de ti. Lo que haces con los hechos de hoy, sí."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Dónde más aparece",
+    "texto": "**En el tipo de cambio.** El peso suma varias semanas de pérdidas y cerró el viernes en 18.66 por dólar. El empresario optimista dice: «para Navidad regresa a 17.50», y compra concentrado importado esperando ese precio. El estoico de Stockdale dice: no sé cuándo va a bajar; voy a cotizar a 18.70, cubrir lo que pueda y, si baja, será ganancia.\n\n**En el agua de Guadalajara.** El acueducto nuevo desde Chapala tardará de dos a tres años. Una planta, un restaurante o una oficina que planea «aguantar hasta que llegue el acueducto» está apostando a una fecha. El que invierte hoy en cisternas, reúso o contratos de pipas está enfrentando los hechos."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿En qué parte de tu negocio estás esperando una fecha en vez de enfrentar un hecho?",
+    "texto": "Fíjate en las frases que empiezan con «cuando pase…»: cuando baje el dólar, cuando termine el año, cuando llegue el cliente grande. Ahí suele estar tu «salimos para Navidad»."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Ten fe en el final de la historia, no en la fecha."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Jim Collins: The Stockdale Paradox (en inglés)",
+   "url": "https://www.jimcollins.com/media_topics/TheStockdaleParadox.html",
+   "minutos": 5
+  },
+  "repaso": [
+   {
+    "pregunta": "Según Stockdale, ¿quiénes no salían del cautiverio y por qué?",
+    "respuesta": "Los optimistas que se ponían fechas («para Navidad»). Cada fecha incumplida los iba quebrando hasta que morían de corazón roto."
+   },
+   {
+    "pregunta": "¿Qué dice la paradoja de Stockdale?",
+    "respuesta": "Mantén la fe absoluta en que vas a prevalecer y, al mismo tiempo, la disciplina de enfrentar los hechos más duros de tu realidad actual."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Jim Collins: The Stockdale Paradox",
+    "url": "https://www.jimcollins.com/media_topics/TheStockdaleParadox.html"
+   },
+   {
+    "nombre": "Wikipedia (inglés): James Stockdale",
+    "url": "https://en.wikipedia.org/wiki/James_Stockdale"
+   },
+   {
+    "nombre": "Wikipedia: Banda de Alcatraz",
+    "url": "https://es.wikipedia.org/wiki/Banda_de_Alcatraz"
+   },
+   {
+    "nombre": "Donald Robertson: Stoicism, Courage Under Fire",
+    "url": "https://donaldrobertson.substack.com/p/stoicism-courage-under-fire-cc575633bc61"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Relaciones y vida social",
+   "pilar": "caracter",
+   "formato": "queHarias",
+   "titulo": "El truco de Franklin: pedirle un favor a tu rival",
+   "contexto": "Filadelfia, 1737. **Benjamin Franklin** es secretario de la Asamblea de Pensilvania. Un diputado nuevo, rico, culto y con mucho futuro, da un largo discurso en su contra para apoyar a otro candidato. Franklin gana de todos modos, pero ahora tiene un enemigo influyente dentro de la Asamblea. Y no le gusta.",
+   "pregunta": "Estás en el lugar de Franklin. ¿Qué harías para ganarte a ese rival?",
+   "opciones": [
+    "Halagarlo en público para suavizar las cosas",
+    "Pedirle prestado un libro raro de su biblioteca",
+    "Ignorarlo y demostrarle con resultados que se equivocó"
+   ],
+   "revelacion": "Franklin eligió la segunda. Supo que el diputado tenía un libro «muy escaso y curioso». Le escribió una nota pidiéndole el favor de prestárselo unos días. El rival se lo mandó enseguida. Franklin lo devolvió una semana después con otra nota de agradecimiento. Cuenta en su *Autobiografía*: «Cuando nos vimos de nuevo en la Asamblea, me habló, cosa que nunca había hecho, y con gran cortesía». Fueron amigos hasta la muerte del diputado.\n\nFranklin lo explicó con una máxima antigua: quien te ha hecho un favor está más dispuesto a hacerte otro que aquel a quien tú le hiciste uno. En 1969, los psicólogos Jon Jecker y David Landy lo probaron: a un grupo, el propio investigador le pidió devolver el dinero que habían ganado en un concurso; a otro se lo pidió una secretaria; a un tercero, nadie. Los que le hicieron el favor directamente al investigador fueron los que más lo apreciaron.\n\nLa explicación más citada es la [[disonancia cognitiva|Tensión que sentimos cuando nuestros actos no coinciden con lo que pensamos; solemos resolverla cambiando lo que pensamos.]]: si te ayudé, mi mente concluye que me caes bien. Ojo con los límites: el estudio fue pequeño, y otra lectura dice que el favor funciona porque el otro percibe que buscas una relación. Un favor pequeño, concreto y sincero; nunca uno que suene a manipulación.",
+   "idea": "A veces la mejor forma de ganarte a alguien no es dar, sino pedirle algo pequeño.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Benjamin_Franklin_by_Joseph_Siffrein_Duplessis.jpg?width=900",
+    "alt": "Retrato de Benjamin Franklin por Joseph Siffred Duplessis",
+    "pie": "Benjamin Franklin retratado por Joseph Siffred Duplessis, hacia 1778",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Autobiografía de Benjamin Franklin (ushistory.org)",
+    "url": "https://ushistory.org/franklin/autobiography/page48.htm"
+   },
+   "wiki": "Benjamin Franklin",
+   "claves": [
+    {
+     "nombre": "Benjamin Franklin",
+     "quien": "Impresor, científico y diplomático; contó la anécdota del libro en su Autobiografía.",
+     "wiki": "Benjamin Franklin"
+    },
+    {
+     "nombre": "Disonancia cognitiva",
+     "quien": "La teoría de Leon Festinger que suele explicar por qué el favor cambia lo que sientes.",
+     "wiki": "Disonancia cognitiva"
+    },
+    {
+     "nombre": "Psicología social",
+     "quien": "La rama que estudia cómo los demás influyen en lo que pensamos y hacemos.",
+     "wiki": "Psicología social"
+    }
+   ],
+   "profundizar": {
+    "titulo": "Wikipedia (inglés): Ben Franklin effect",
+    "url": "https://en.wikipedia.org/wiki/Ben_Franklin_effect"
+   },
+   "repaso": {
+    "pregunta": "¿Qué hizo Franklin para ganarse a un diputado rival y qué efecto lleva su nombre?",
+    "respuesta": "Le pidió prestado un libro raro. El efecto Ben Franklin: quien te hace un favor tiende a apreciarte más."
+   }
+  },
+  {
+   "materia": "Música",
+   "pilar": "cultura",
+   "formato": "diaQueCambio",
+   "titulo": "La noche en que París abucheó al siglo XX",
+   "contexto": "París, 29 de mayo de 1913. Teatro de los Campos Elíseos, recién inaugurado. Los [[Ballets Rusos|Compañía de ballet fundada por Serguéi Diáguilev que revolucionó la danza en París entre 1909 y 1929.]] de Serguéi Diáguilev estrenan *La consagración de la primavera*, de un compositor ruso de 30 años casi desconocido: **Ígor Stravinski**. La coreografía es de **Vaslav Nijinsky**, el bailarín más famoso de su tiempo. El subtítulo promete «imágenes de la Rusia pagana».",
+   "pregunta": "La obra empieza con un solo de fagot. ¿Qué tenía de extraño?",
+   "opciones": [
+    "Que el fagot tocaba en un registro tan agudo que casi no se reconocía",
+    "Que sonaba fuera del escenario",
+    "Que duraba más de diez minutos"
+   ],
+   "correcta": 0,
+   "revelacion": "El fagot es un instrumento grave. Stravinski lo puso a tocar en su registro más agudo, un sonido tenso y raro que muchos no supieron identificar. Era una advertencia de lo que venía: ritmos que cambian a cada compás, acentos que golpean donde no se espera y bailarines que, en vez de flotar, pisaban fuerte con las rodillas hacia adentro.\n\nEl público reaccionó con abucheos antes de que terminara la obra, y la noche quedó como un casi motín. Los críticos se dividieron: los modernistas franceses la celebraron; los más conservadores la llamaron una sucesión incomprensible de ruidos. Las historias sobre peleas y objetos lanzados se han exagerado con los años; lo seguro es el escándalo.\n\nLo que cambió ese día fue el ritmo. Después de *La consagración*, la música podía construirse sobre el pulso y la percusión, no solo sobre la melodía. La coreografía de Nijinsky casi se perdió: no se volvió a montar hasta que el Joffrey Ballet la reconstruyó en 1987.",
+   "idea": "Lo que hoy es un clásico casi siempre empezó como un escándalo.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roerich_Rite_of_Spring.jpg?width=900",
+    "alt": "Diseño de Nicholas Roerich para La consagración de la primavera",
+    "pie": "Diseño escenográfico de Nicholas Roerich para *La consagración de la primavera* (1913)",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: La consagración de la primavera",
+    "url": "https://es.wikipedia.org/wiki/La_consagraci%C3%B3n_de_la_primavera"
+   },
+   "wiki": "La consagración de la primavera",
+   "claves": [
+    {
+     "nombre": "Ígor Stravinski",
+     "quien": "El compositor ruso que con esta obra cambió el lenguaje rítmico de la música.",
+     "wiki": "Ígor Stravinski"
+    },
+    {
+     "nombre": "Vaslav Nijinsky",
+     "quien": "Bailarín y coreógrafo del estreno; su coreografía escandalizó tanto como la música.",
+     "wiki": "Vaslav Nijinsky"
+    },
+    {
+     "nombre": "Serguéi Diáguilev",
+     "quien": "El empresario de los Ballets Rusos que juntó a Stravinski, Nijinsky y Roerich.",
+     "wiki": "Serguéi Diáguilev"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuándo y dónde se estrenó La consagración de la primavera y qué pasó?",
+    "respuesta": "El 29 de mayo de 1913 en el Teatro de los Campos Elíseos de París. Hubo abucheos y un casi motín."
+   }
+  },
+  {
+   "materia": "Historia y geopolítica",
+   "pilar": "mundo",
+   "formato": "diaQueCambio",
+   "titulo": "1973: el mes en que el petróleo se volvió un arma",
+   "contexto": "6 de octubre de 1973. Egipto y Siria atacan a Israel en el día de [[Yom Kipur|La fiesta más solemne del calendario judío, el Día de la Expiación.]]. Estados Unidos y varios países europeos apoyan a Israel. Diez días después, los productores árabes de petróleo responden con algo que no son tanques ni aviones.",
+   "pregunta": "¿Cuánto crees que subió el precio del barril entre octubre de 1973 y principios de 1974?",
+   "opciones": [
+    "Alrededor de 20%",
+    "Se duplicó",
+    "Casi se cuadruplicó"
+   ],
+   "correcta": 2,
+   "revelacion": "El 16 de octubre de 1973, varios productores del Golfo subieron el precio 17%, a 3.65 dólares por barril, y cortaron las exportaciones a los países que apoyaban a Israel: primero Estados Unidos, Canadá, Japón, Reino Unido y Países Bajos. El precio terminó casi cuadruplicado, cerca de 12 dólares. El embargo contra Estados Unidos se levantó en marzo de 1974.\n\nLas consecuencias se vieron en la calle. En Estados Unidos, la gasolina pasó de 38.5 centavos el galón en mayo de 1973 a 55.1 en junio de 1974. Hubo racionamiento por placas pares e impares, un límite de velocidad de 55 millas por hora y horario de verano en pleno invierno. La Bolsa de Nueva York perdió 97,000 millones de dólares en seis semanas, y el mundo entró en recesión con inflación alta.\n\nLo que cambió fue la idea de poder. Hasta 1973, el petróleo era una mercancía; desde entonces, también es geopolítica. De ahí nacieron las reservas estratégicas, las agencias de energía y los [[petrodólares|Dólares que ganan los países exportadores de petróleo y que reinvierten en el sistema financiero mundial.]]. Por eso hoy, cuando un dron cae sobre una refinería saudí, el precio se mueve antes de que falte un solo barril.",
+   "idea": "Desde 1973, el precio del petróleo no solo mide la oferta: mide el miedo.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%22NO_GAS%22_SIGNS_WERE_A_COMMON_SIGHT_IN_OREGON_DURING_THE_FALL_OF_1973,_SUCH_AS_AT_THIS_STATION_IN_LINCOLN_CITY_ALONG..._-_NARA_-_555416.jpg?width=900",
+    "alt": "Gasolinera con letrero de «No gas» en Oregon, 1973",
+    "pie": "Letreros de «No hay gasolina» en Lincoln City, Oregon, otoño de 1973",
+    "credito": "Archivos Nacionales de EE. UU. · Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: Crisis del petróleo de 1973",
+    "url": "https://es.wikipedia.org/wiki/Crisis_del_petr%C3%B3leo_de_1973"
+   },
+   "wiki": "Crisis del petróleo de 1973",
+   "claves": [
+    {
+     "nombre": "Guerra de Yom Kipur",
+     "quien": "La guerra de octubre de 1973 que detonó el embargo.",
+     "wiki": "Guerra de Yom Kipur"
+    },
+    {
+     "nombre": "OPEP",
+     "quien": "La organización de exportadores de petróleo, fundada en 1960, que descubrió su poder en 1973.",
+     "wiki": "Organización de Países Exportadores de Petróleo"
+    },
+    {
+     "nombre": "Petrodólar",
+     "quien": "El dinero del petróleo que, tras 1973, inundó los bancos del mundo.",
+     "wiki": "Petrodólar"
+    },
+    {
+     "nombre": "Recesión de 1973-1975",
+     "quien": "La crisis económica mundial que siguió al embargo.",
+     "wiki": "Recesión de 1973-1975"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué pasó con el precio del petróleo tras el embargo árabe de octubre de 1973?",
+    "respuesta": "Pasó de unos 3 dólares a casi 12: se cuadruplicó. El embargo contra EE. UU. terminó en marzo de 1974."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "elCaso",
+   "titulo": "Gumroad: el unicornio que fracasó y se volvió negocio",
+   "contexto": "2011. **Sahil Lavingia**, un diseñador de 19 años, arma en un fin de semana una página para que cualquiera venda archivos digitales: un libro electrónico, una plantilla, una canción. La llama **Gumroad**. El primer día la visitan más de 52,000 personas. En mayo de 2012, el fondo Kleiner Perkins encabeza una inversión de 7 millones de dólares. La meta es construir una empresa de mil millones.",
+   "pregunta": "Para 2015, el crecimiento se frenó y el dinero se acababa. ¿Qué crees que pasó con Gumroad?",
+   "opciones": [
+    "Cerró y devolvió el dinero a los inversionistas",
+    "Se redujo a casi una sola persona y se volvió rentable",
+    "La compró una gran empresa de comercio electrónico"
+   ],
+   "correcta": 1,
+   "revelacion": "Según el propio Lavingia, el volumen mensual tocó su máximo en noviembre de 2014 y se estancó. En enero de 2015 ya no le alcanzaba para 18 meses. No consiguió la siguiente ronda de inversión. Despidió al 75% del equipo y pasó de veinte personas a cinco, y luego a una. Las cifras lo explican: en junio de 2015, Gumroad ingresó 89,000 dólares y gastó 364,000. En junio de 2016 ingresó 176,000 y gastó 32,000. Ganó 10,000.\n\nAhí está la lección de los productos digitales. Gumroad no fabrica nada: cobra una comisión por cada venta de un archivo que cuesta casi cero copiar. Su gasto grande no era el producto, eran las personas y la oficina (25,000 dólares al mes). Al quitar eso, el mismo negocio que perdía dinero empezó a ganarlo. Para 2019 había enviado 178 millones de dólares a creadores.\n\nEn noviembre de 2017, Kleiner Perkins le ofreció venderle de vuelta su participación por 1 dólar. Lavingia escribió que la meta de los mil millones era arbitraria. Ojo: es un caso, no una promesa. Muchas plataformas parecidas nunca llegaron a ser rentables.",
+   "idea": "En lo digital, el producto escala solo; lo que hay que vigilar es el costo fijo de quien lo vende.",
+   "fuente": {
+    "nombre": "Sahil Lavingia: Reflecting on My Failure to Build a Billion-Dollar Company (2019)",
+    "url": "https://sahillavingia.com/reflecting"
+   },
+   "wiki": "Capital riesgo",
+   "claves": [
+    {
+     "nombre": "Capital riesgo",
+     "quien": "Fondos que invierten en empresas jóvenes a cambio de buscar un crecimiento enorme.",
+     "wiki": "Capital riesgo"
+    },
+    {
+     "nombre": "Coste marginal",
+     "quien": "Lo que cuesta vender una copia más; en un archivo digital, casi cero.",
+     "wiki": "Coste marginal"
+    },
+    {
+     "nombre": "Empresa emergente",
+     "quien": "Una startup: empresa nueva que busca crecer rápido, a menudo con capital de riesgo.",
+     "wiki": "Empresa emergente"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo pasó Gumroad de perder dinero a ganarlo?",
+    "respuesta": "Recortó su costo fijo: pasó de veinte personas a una. En junio de 2016 ingresó 176,000 dólares, gastó 32,000 y ganó 10,000."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Mente y decisiones",
+   "pilar": "mente",
+   "epoca": "1990",
+   "titulo": "Diez mil cartas para decirle que estaba equivocada",
+   "dato": "En 1990, Marilyn vos Savant respondió en su columna que en el problema de las tres puertas conviene cambiar de puerta. Recibió unas 10,000 cartas, casi 1,000 de personas con doctorado, y la mayoría le decía que se equivocaba. Ella tenía razón.",
+   "explicacion": "El juego: eliges una de tres puertas; detrás de una hay un coche. El presentador, que sabe dónde está, abre otra puerta con una cabra. Si cambias, ganas 2 de cada 3 veces. Tu primera elección tenía 1/3 de acertar; el presentador, al abrir siempre una puerta perdedora, te regala información sobre las otras dos.\n\nEl matemático Paul Erdős no se convenció hasta ver una simulación por computadora. La lección: la intuición falla cuando alguien con información actúa frente a ti. En una negociación, lo que el otro decide no mostrarte también es un dato.",
+   "fuente": {
+    "nombre": "Wikipedia (inglés): Monty Hall problem",
+    "url": "https://en.wikipedia.org/wiki/Monty_Hall_problem"
+   },
+   "wiki": "Problema de Monty Hall",
+   "claves": [
+    {
+     "nombre": "Marilyn vos Savant",
+     "quien": "Columnista de la revista Parade que publicó la respuesta correcta en septiembre de 1990.",
+     "wiki": "Marilyn vos Savant"
+    },
+    {
+     "nombre": "Problema de los tres prisioneros",
+     "quien": "Un acertijo de probabilidad casi idéntico, publicado décadas antes.",
+     "wiki": "Problema de los tres prisioneros"
+    }
+   ],
+   "repaso": {
+    "pregunta": "En el problema de Monty Hall, ¿conviene cambiar de puerta y con qué probabilidad ganas?",
+    "respuesta": "Sí. Si cambias, ganas 2 de cada 3 veces."
+   }
+  },
+  {
+   "materia": "Disciplina y hábitos",
+   "pilar": "caracter",
+   "epoca": "Siglo XIX",
+   "titulo": "250 palabras cada cuarto de hora",
+   "dato": "Anthony Trollope escribió decenas de novelas mientras trabajaba de tiempo completo en el Correo británico. Su método: a las 5:30 de la mañana en su mesa, con el reloj enfrente, exigiéndose 250 palabras cada quince minutos.",
+   "explicacion": "Lo cuenta en su *Autobiografía*. Le pagaba a un viejo mozo 5 libras al año extra para que lo despertara con café, y dice que nunca llegó tarde. Escribía unas tres horas antes de ir a la oficina y así producía más de diez páginas de novela al día.\n\nLa idea detrás no es la inspiración, es la medida. Un objetivo pequeño y medible por cuarto de hora vuelve una tarea enorme en algo que se puede empezar ya. Trollope fue criticado después por hablar de su oficio como un artesano; él lo veía como la razón de su obra.",
+   "fuente": {
+    "nombre": "An Autobiography, de Anthony Trollope (Proyecto Gutenberg)",
+    "url": "https://gutenberg.org/ebooks/5978"
+   },
+   "wiki": "Prosa victoriana",
+   "claves": [
+    {
+     "nombre": "Prosa victoriana",
+     "quien": "La literatura en prosa de la Inglaterra de Victoria, donde Trollope fue de los más leídos.",
+     "wiki": "Prosa victoriana"
+    },
+    {
+     "nombre": "Novela realista en inglés",
+     "quien": "La corriente de novelas sobre la vida cotidiana y social a la que pertenece Trollope.",
+     "wiki": "Novela realista en lengua inglesa"
+    }
+   ],
+   "profundizar": {
+    "titulo": "Trollope: An Autobiography (texto completo, inglés)",
+    "url": "https://gutenberg.org/files/5978/5978-h/5978-h.htm"
+   },
+   "repaso": {
+    "pregunta": "¿Cuál era la regla de escritura de Anthony Trollope?",
+    "respuesta": "Empezar a las 5:30 con el reloj enfrente y escribir 250 palabras cada cuarto de hora, unas tres horas al día."
+   }
+  },
+  {
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "epoca": "1984",
+   "titulo": "El médico que se bebió una bacteria",
+   "dato": "En 1984, el médico australiano Barry Marshall se tomó un cultivo de *Helicobacter pylori* para probar que esa bacteria causaba gastritis. Cinco días después empezó a vomitar. En 2005 ganó el Nobel de Medicina con Robin Warren.",
+   "explicacion": "Durante décadas se creyó que las úlceras de estómago venían del estrés y del ácido, y que ninguna bacteria sobrevivía en el estómago. Marshall llevaba dos años discutiendo con escépticos y no tenía un animal de laboratorio en el que demostrarlo. Se hizo una endoscopia, comprobó que estaba sano y, unas tres semanas después, bebió la bacteria. La nueva endoscopia mostró una gastritis activa severa.\n\nGracias a eso, hoy muchas úlceras se tratan con antibióticos. No es un ejemplo para copiar: es un recordatorio de que el consenso puede estar equivocado y de que la evidencia, no la autoridad, es la que lo cambia.",
+   "fuente": {
+    "nombre": "Marshall y Adams: Helicobacter pylori, a Nobel pursuit? (Canadian Journal of Gastroenterology, 2008)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2661189"
+   },
+   "wiki": "Helicobacter pylori",
+   "claves": [
+    {
+     "nombre": "Autoexperimentación en ciencia",
+     "quien": "La historia de los científicos que se usaron a sí mismos como sujetos de prueba.",
+     "wiki": "Autoexperimentación en ciencia"
+    },
+    {
+     "nombre": "Bacteriología",
+     "quien": "La ciencia que estudia las bacterias, incluida la que Marshall bebió.",
+     "wiki": "Bacteriología"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué hizo Barry Marshall en 1984 y qué demostró?",
+    "respuesta": "Se bebió un cultivo de Helicobacter pylori y desarrolló gastritis: demostró que la bacteria causa enfermedad en el estómago. Nobel en 2005."
+   }
+  },
+  {
+   "materia": "Religiones y grandes textos",
+   "pilar": "cultura",
+   "epoca": "2015",
+   "titulo": "Un Corán guardado en Birmingham",
+   "dato": "En 2015, la Universidad de Birmingham anunció que dos hojas de un Corán de su colección se escribieron en pergamino fechado entre los años 568 y 645. Mahoma, según la cronología tradicional, vivió entre 570 y 632.",
+   "explicacion": "La prueba de radiocarbono, hecha en la Universidad de Oxford, dio ese rango con 95.4% de probabilidad. Las hojas llevaban muchos años encuadernadas por error junto con otro manuscrito parecido, en la Colección Mingana. Están escritas en [[escritura hiyazí|Una de las formas más antiguas de la escritura árabe, anterior a la caligrafía cúfica.]].\n\nOjo con lo que significa: el radiocarbono fecha la piel del animal, no el momento en que se escribió el texto, que pudo ser algo posterior. Aun así, lo coloca entre los fragmentos del Corán más antiguos que se conocen y muy cerca de la vida del profeta.",
+   "fuente": {
+    "nombre": "Universidad de Birmingham: Birmingham Qur'an manuscript dated among the oldest in the world (2015)",
+    "url": "https://www.birmingham.ac.uk/news-archive/2015/birmingham-quran-manuscript-dated-among-the-oldest-in-the-world"
+   },
+   "wiki": "Corán",
+   "claves": [
+    {
+     "nombre": "Escritura hiyazí",
+     "quien": "El estilo de escritura árabe temprana en que está el manuscrito.",
+     "wiki": "Escritura hiyazí"
+    },
+    {
+     "nombre": "Estudios coránicos",
+     "quien": "La disciplina académica que estudia la historia del texto del Corán.",
+     "wiki": "Estudios coránicos"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Entre qué años se fechó el pergamino del Corán de Birmingham?",
+    "respuesta": "Entre 568 y 645, con 95.4% de probabilidad. Mahoma vivió entre 570 y 632, según la cronología tradicional."
+   }
+  },
+  {
+   "materia": "Derecho y poder",
+   "pilar": "mundo",
+   "epoca": "c. 2100 a. C.",
+   "titulo": "Antes del «ojo por ojo», una multa",
+   "dato": "El código de leyes más antiguo que se conserva, el de Ur-Nammu, es unos tres siglos anterior al de Hammurabi. Y para muchas lesiones no pedía venganza: pedía plata. Cortarle el pie a alguien costaba 10 siclos.",
+   "explicacion": "Ur-Nammu gobernó la ciudad sumeria de Ur hacia 2112–2094 a. C. Su código tiene 57 leyes; sacar un ojo se pagaba con media mina de plata (30 siclos) y un diente, con dos siclos. El asesinato y el robo sí se castigaban con la muerte. La tablilla se halló en Irak en 1948 y Samuel Noah Kramer la tradujo en 1952.\n\nHammurabi, hacia 1772 a. C., aplicó para esas lesiones la justicia de represalia, el «ojo por ojo». Así que la historia del derecho no va en línea recta de lo cruel a lo civilizado: la compensación económica, muy parecida a la idea moderna de reparar el daño, ya existía antes.",
+   "fuente": {
+    "nombre": "World History Encyclopedia: Code of Ur-Nammu",
+    "url": "https://www.worldhistory.org/Code_of_Ur-Nammu/"
+   },
+   "wiki": "Código de Hammurabi",
+   "claves": [
+    {
+     "nombre": "Ur-Nammu",
+     "quien": "Rey sumerio de Ur a quien se atribuye el código de leyes más antiguo que se conserva.",
+     "wiki": "Ur-Nammu"
+    },
+    {
+     "nombre": "Código de Hammurabi",
+     "quien": "El famoso código babilonio, unos tres siglos posterior, con la ley del talión.",
+     "wiki": "Código de Hammurabi"
+    },
+    {
+     "nombre": "Historia de Mesopotamia",
+     "quien": "La región entre el Tigris y el Éufrates donde nació la escritura y la ley escrita.",
+     "wiki": "Historia de Mesopotamia"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿En qué se diferenciaba el código de Ur-Nammu del de Hammurabi para las lesiones?",
+    "respuesta": "Ur-Nammu imponía multas en plata (10 siclos por un pie); Hammurabi, unos tres siglos después, aplicaba el «ojo por ojo»."
+   }
+  },
+  {
+   "materia": "Inversión y finanzas personales",
+   "pilar": "patrimonio",
+   "epoca": "1494",
+   "titulo": "La regla del 72 tiene más de 500 años",
+   "dato": "El atajo para saber en cuántos años se duplica tu dinero, dividir 72 entre la tasa de interés, ya aparece en un libro de 1494: la *Summa de arithmetica* del fraile italiano Luca Pacioli.",
+   "explicacion": "Pacioli escribe: «ten por regla 72, de memoria, y divídelo siempre entre el interés». No explica de dónde sale, y por eso se cree que la regla es aún más antigua. Al 8% anual, el dinero se duplica en unos 9 años; al 6%, en unos 12.\n\n¿Por qué 72? La cifra exacta para interés continuo es 69.3, pero 72 se divide fácil entre 2, 3, 4, 6, 8, 9 y 12, y funciona muy bien con tasas de entre 6% y 10%. Sirve igual al revés: con una inflación de 4%, los precios se duplican en unos 18 años. Pacioli, por cierto, es el mismo que difundió la contabilidad por partida doble.",
+   "fuente": {
+    "nombre": "Wikipedia (inglés): Rule of 72",
+    "url": "https://en.wikipedia.org/wiki/Rule_of_72"
+   },
+   "wiki": "Interés compuesto",
+   "claves": [
+    {
+     "nombre": "Luca Pacioli",
+     "quien": "Fraile y matemático italiano; su Summa de 1494 recoge la regla y la partida doble.",
+     "wiki": "Luca Pacioli"
+    },
+    {
+     "nombre": "Partida doble",
+     "quien": "El sistema contable de debe y haber que Pacioli difundió en el mismo libro.",
+     "wiki": "Partida doble"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo funciona la regla del 72 y en qué libro aparece por primera vez?",
+    "respuesta": "Divides 72 entre la tasa de interés para saber en cuántos años se duplica el dinero. Aparece en la Summa de arithmetica de Luca Pacioli (1494)."
+   }
+  },
+  {
+   "materia": "El cosmos",
+   "pilar": "futuro",
+   "epoca": "Hoy",
+   "titulo": "En Venus, el día dura más que el año",
+   "dato": "Venus tarda unos 243 días terrestres en dar una vuelta sobre su eje, pero solo unos 225 en dar la vuelta al Sol. Y gira al revés que casi todos los planetas.",
+   "explicacion": "Las nubes de Venus impiden ver su superficie, así que su rotación se midió con radar, rebotando señales desde la Tierra. Un estudio con datos de 1988 a 2017, con radiotelescopios como Arecibo y Green Bank, la calculó en 243 días y unos 30 minutos. Y ni siquiera es fija: la medición cambia unos minutos entre una observación y otra, quizá porque su atmósfera densa la frena y la empuja.\n\nGira en sentido [[retrógrado|Que rota en sentido contrario a su órbita: visto desde Venus, el Sol saldría por el oeste.]]: allí el Sol saldría por el oeste. Saber exactamente cuánto dura su día no es una curiosidad: sin ese dato, una sonda no puede planear dónde aterrizar.",
+   "fuente": {
+    "nombre": "Astronomy: The length of a day on Venus keeps changing",
+    "url": "https://www.astronomy.com/science/the-length-of-a-day-on-venus-keeps-changing/"
+   },
+   "wiki": "Venus (planeta)",
+   "claves": [
+    {
+     "nombre": "Atmósfera de Venus",
+     "quien": "Una capa espesa de dióxido de carbono que hace de Venus el planeta más caliente.",
+     "wiki": "Atmósfera de Venus"
+    },
+    {
+     "nombre": "Movimientos retrógrado y prógrado",
+     "quien": "Por qué Venus gira al revés que la Tierra.",
+     "wiki": "Movimientos retrógrado y prógrado"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué dura más en Venus, el día o el año?",
+    "respuesta": "El día: unos 243 días terrestres en girar sobre su eje, contra unos 225 en dar la vuelta al Sol."
+   }
+  },
+  {
+   "materia": "Gastronomía, vino y destilados",
+   "pilar": "gusto",
+   "epoca": "1994",
+   "titulo": "Chile vendió Carménère como Merlot durante un siglo",
+   "dato": "En noviembre de 1994, el ampelógrafo francés Jean-Michel Boursiquot caminaba por un viñedo del valle del Maipo y notó que muchas plantas que Chile llamaba Merlot eran otra uva: Carménère, una variedad de Burdeos que se daba por casi extinta en Europa.",
+   "explicacion": "El Carménère se usaba en los grandes vinos del Médoc. La [[filoxera|Insecto que ataca las raíces de la vid y que devastó los viñedos europeos en el siglo XIX.]] y su fragilidad casi la borraron de Francia hacia la década de 1870. Pero en los años 1850 ya habían llegado esquejes a Chile, mezclados con Merlot. Boursiquot la reconoció por un detalle botánico: sus estambres retorcidos después de la floración.\n\nChile la registró oficialmente en 1998 y hoy es su uva emblema. Venderla no fue fácil al principio: había que explicarle al mundo un nombre nuevo. Es un caso de marca: lo que parecía un error de etiqueta se convirtió en el origen distintivo de un país.",
+   "fuente": {
+    "nombre": "Berry Bros. & Rudd: The fuddled identity of Carménère",
+    "url": "https://blog.bbr.com/2016/11/18/fuddled-identity-carmenere"
+   },
+   "wiki": "Carmenere",
+   "claves": [
+    {
+     "nombre": "Vino de Chile",
+     "quien": "La industria vinícola chilena, que hizo del Carménère su sello.",
+     "wiki": "Vino de Chile"
+    },
+    {
+     "nombre": "Vinos del nuevo mundo",
+     "quien": "Los vinos de fuera de Europa que conservaron uvas que Europa perdió.",
+     "wiki": "Vinos del nuevo mundo"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo se descubrió el Carménère en Chile y con qué uva se confundía?",
+    "respuesta": "En 1994, Jean-Michel Boursiquot la identificó en el Maipo por sus estambres retorcidos. Se vendía como Merlot."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "Meditaciones",
+  "autor": "Marco Aurelio",
+  "capitulo": {
+   "numero": 5,
+   "total": 6,
+   "titulo": "Lo que depende de ti y lo que no"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/0_Marcus_Aurelius_-_Piazza_del_Campidoglio_(2).JPG?width=900",
+   "alt": "Estatua ecuestre de Marco Aurelio en Roma",
+   "pie": "Marco Aurelio, plaza del Capitolio, Roma: el emperador que leía a un antiguo esclavo",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "Hoy conociste a James Stockdale, el piloto que entró a una prisión de Hanói con un libro de Epicteto memorizado. Lo curioso es que no fue el primero en usar ese libro en una crisis. Diecisiete siglos antes, el hombre más poderoso del mundo hizo lo mismo. Marco Aurelio, emperador de Roma, también aprendió a separar lo que dependía de él de lo que no. Y también lo aprendió de un esclavo.\n\nEste capítulo recorre esa idea dentro de las *Meditaciones*: de dónde la sacó Marco Aurelio, cómo la usaba y por qué sigue siendo la herramienta más práctica del estoicismo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El libro que le prestó un amigo"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El libro I de las *Meditaciones* es una lista de agradecimientos. Marco Aurelio repasa a las personas que lo formaron y anota qué aprendió de cada una. De su abuelo, la serenidad. De su madre, la sencillez. Y de un filósofo llamado **Junio Rústico**, algo muy concreto:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "De Rústico aprendí a darme cuenta de que mi carácter necesitaba corrección y disciplina… y le debo haber conocido los discursos de Epicteto, que me prestó de su propia biblioteca.",
+    "fuente": "Meditaciones, I, 7"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es un detalle precioso. El futuro emperador leyó a Epicteto porque un amigo le prestó su copia. [[Epicteto|Filósofo estoico griego (c. 50–135 d. C.). Fue esclavo en Roma; sus lecciones las recogió su alumno Arriano.]] había nacido esclavo en Frigia, en la actual Turquía. Nunca escribió nada; sus clases las anotó su alumno Arriano. Y aun así, su manera de pensar llegó al trono de Roma y, siglos después, a una celda en Vietnam.\n\nLa idea central de Epicteto cabe en una línea: unas cosas dependen de nosotros y otras no. Dependen de nosotros nuestros juicios, nuestras decisiones y nuestros actos. No dependen de nosotros el cuerpo, la fama, el dinero, lo que hacen los demás. Marco Aurelio tomó esa línea y la convirtió en un ejercicio diario."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El problema no es la cosa, es tu juicio"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Si hay un pasaje que resume este capítulo, es este. Marco Aurelio se habla a sí mismo, como siempre, en segunda persona:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Si algo externo te duele, no es esa cosa la que te perturba, sino tu juicio sobre ella. Y está en tu poder borrar ese juicio ahora mismo.",
+    "fuente": "Meditaciones, VIII, 47"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Suena exagerado, así que conviene leerlo con cuidado. Marco Aurelio no dice que el dolor no exista ni que las malas noticias no importen. Dice algo más fino: entre el hecho y tu reacción hay un paso intermedio, que es la interpretación. El cliente que cancela un pedido es un hecho. «Esto es una catástrofe, me van a quebrar» es un juicio que tú agregas.\n\nLos estoicos llamaban a ese paso el [[asentimiento|En el estoicismo, el acto de aceptar o rechazar una impresión: decidir si lo que parece es verdad antes de reaccionar.]]. Te llega una impresión («me insultaron», «perdí dinero») y tú decides si la aceptas tal cual o la examinas primero. Esa pausa es lo único que siempre depende de ti."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según Marco Aurelio en VIII, 47, ¿qué es lo que de verdad te perturba cuando algo externo te duele?",
+    "opciones": [
+     "La cosa misma, que es mala",
+     "Tu juicio sobre esa cosa",
+     "La mala suerte, que no se puede evitar"
+    ],
+    "correcta": 1,
+    "explicacion": "Para los estoicos, entre el hecho y la reacción está el juicio. El hecho no depende de ti; el juicio, sí, y por eso puedes cambiarlo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Quita la queja y se va el daño"
+   },
+   {
+    "tipo": "texto",
+    "texto": "En el libro IV aparece la misma idea en forma de cadena lógica. Es tan corta que se puede memorizar:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Quita tu opinión, y se quita la queja: «me han hecho daño». Quita la queja: «me han hecho daño», y se quita el daño.",
+    "fuente": "Meditaciones, IV, 7"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Aquí hay una distinción que vale oro. Una cosa es lo que te pasó; otra, la historia que te cuentas sobre lo que te pasó. Si un socio te traiciona, perdiste dinero o tiempo. Eso es real. Pero el daño que Marco Aurelio tiene en mente es otro: el que se hace uno mismo al volverse amargado, desconfiado o rencoroso. Ese daño solo ocurre si aceptas la queja.\n\nStockdale lo explicaba de forma parecida. Sus captores podían quitarle la comida, el sueño y la salud. Lo que no podían quitarle era su manera de responder, a menos que él se la entregara. Por eso, decía, los que se rendían por dentro sufrían más que los que seguían peleando."
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/0_Marcus_Aurelius_-_Piazza_del_Campidoglio_(2).JPG?width=900",
+    "alt": "Estatua ecuestre de Marco Aurelio en Roma",
+    "pie": "Marco Aurelio, plaza del Capitolio, Roma: el emperador que leía a un antiguo esclavo",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El promontorio"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El pasaje más bello del capítulo es una imagen del mar. Marco Aurelio había pasado años en campaña junto al Danubio, pero aquí piensa en una costa rocosa:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Sé como el promontorio contra el que rompen sin cesar las olas: él se mantiene firme y la furia del agua se calma a su alrededor. «Qué desgracia que me haya pasado esto». No: «qué suerte que, aunque me haya pasado esto, sigo sin pena, sin quebrarme por el presente ni temer el futuro».",
+    "fuente": "Meditaciones, IV, 49"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Fíjate en el cambio de frase. La primera versión pone el foco en lo que pasó. La segunda lo pone en cómo sigues tú. No niega la ola; la ola llega igual. Lo que cambia es dónde decides pararte.\n\nUn [[promontorio|Punta de tierra alta que entra en el mar.]] no detiene el mar ni lo controla. Simplemente no se mueve. Esa es la diferencia entre el estoico y el optimista de Stockdale: el optimista espera que el mar se calme para cierta fecha; el estoico se ocupa de seguir de pie mientras las olas siguen llegando."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Qué cambia Marco Aurelio en la frase del promontorio (IV, 49)?",
+    "opciones": [
+     "Niega que haya pasado algo malo",
+     "Pasa del foco en la desgracia al foco en cómo sigue él",
+     "Promete que el problema se va a resolver pronto"
+    ],
+    "correcta": 1,
+    "explicacion": "No niega la ola. Cambia «qué desgracia que me pasó esto» por «qué suerte que, aunque pasó, sigo firme»: el foco pasa de lo que no controla a lo que sí."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "¿No es esto resignación?"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Aquí suele aparecer una objeción razonable. Si todo lo externo «no depende de mí», ¿no termina uno cruzado de brazos, aceptando cualquier cosa? ¿No es una filosofía cómoda para no cambiar nada?\n\nMarco Aurelio responde con su propia vida. No se retiró a meditar en un jardín: pasó años en la frontera del Danubio, dictó leyes, juzgó casos y dirigió ejércitos. La dicotomía no le servía para dejar de actuar, sino para saber dónde poner la fuerza. El esfuerzo, la decisión y el trabajo bien hecho dependen de ti. El resultado final, no del todo.\n\nLos estoicos usaban una imagen de arquero. El arquero elige la flecha, tensa el arco y apunta lo mejor que puede. Eso es suyo. Pero una vez que suelta, un golpe de viento puede desviar el tiro. Si mide su valor solo por dar en el blanco, vivirá angustiado por el viento. Si lo mide por haber tirado bien, puede mejorar cada día.\n\nEn un negocio pasa igual. No controlas si un cliente compra. Controlas la calidad de la propuesta, el precio que ofreces y la seriedad con que respondes. Quien se obsesiona con lo primero se paraliza o se frustra. Quien se concentra en lo segundo suele terminar vendiendo más, y además duerme mejor."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Cómo usarlo el lunes"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Todo esto se puede convertir en un método sencillo, sin escribir nada. Cuando llegue la próxima mala noticia, haz tres preguntas en orden.\n\nPrimera: **¿qué pasó exactamente?** Solo los hechos, como los diría un notario. «El proveedor subió 8% el precio del envase». Nada más.\n\nSegunda: **¿qué estoy agregando yo?** «Nos quieren ahorcar», «esto no se va a acabar nunca». Ahí suele estar la mitad del dolor.\n\nTercera: **¿qué depende de mí ahora?** Cotizar con otro proveedor, ajustar el precio, renegociar el volumen. Esa lista es tu trabajo. Lo demás, el precio del petróleo, el dólar, el humor del proveedor, es el mar.\n\nMarco Aurelio no tenía una vida fácil. Gobernó durante una peste, guerras en la frontera y una rebelión de su general más cercano. Su ventaja no era que le pasaran menos cosas. Era que sabía, cada mañana, dónde estaba la línea entre lo suyo y lo ajeno. Esa línea es la herencia que pasó de un esclavo a un emperador, y de un emperador a un piloto preso. Ahora también es tuya."
+   }
+  ],
+  "paraLlevar": [
+   "Entre lo que te pasa y lo que sientes hay un juicio, y ese juicio sí depende de ti.",
+   "Quita la queja «me hicieron daño» y desaparece el peor daño: el que te haces tú.",
+   "Sé el promontorio: no detienes las olas, pero decides no moverte."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿De quién aprendió Marco Aurelio a leer a Epicteto, según Meditaciones I, 7?",
+    "respuesta": "De Junio Rústico, que le prestó los discursos de Epicteto de su propia biblioteca."
+   },
+   {
+    "pregunta": "¿Qué dice la cadena lógica de Meditaciones IV, 7?",
+    "respuesta": "Quita tu opinión y se quita la queja «me han hecho daño»; quita la queja y se quita el daño."
+   }
+  ],
+  "proximo": "Capítulo 6: El tiempo, la muerte y lo que de verdad importa",
+  "fuentes": [
+   {
+    "nombre": "Meditaciones, traducción de George Long (1862), Proyecto Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/15877"
+   },
+   {
+    "nombre": "Wikipedia: Epicteto",
+    "url": "https://es.wikipedia.org/wiki/Ep%C3%ADcteto"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de dominio público de George Long (1862), Proyecto Gutenberg. La numeración sigue la división estándar del texto."
+ },
+ "palabra": {
+  "palabra": "Impertérrito",
+  "categoria": "Adjetivo",
+  "pronunciacion": "im-per-TÉ-rri-to",
+  "definicion": "Que no se intimida ni se altera ante el peligro o la adversidad.",
+  "origen": "Del latín *imperterritus*: *in-* («no») y *perterritus*, «muy aterrado», de *terrere*, «asustar».",
+  "ejemplo": "Stockdale siguió impertérrito: sus captores controlaban todo, menos su manera de responder.",
+  "repaso": {
+   "pregunta": "¿Qué significa «impertérrito» y de qué palabra latina viene?",
+   "respuesta": "Que no se intimida ni se altera ante el peligro. Del latín imperterritus, «no aterrado»."
+  }
+ },
+ "frances": {
+  "frase": "Il faut garder son sang-froid.",
+  "traduccion": "Hay que mantener la calma (la sangre fría).",
+  "pronunciacion": "il fo gar-DÉ son san-FRUÁ",
+  "uso": "Conversación. «Il faut» (hay que) es una de las estructuras más útiles del francés. «Sang-froid» es literalmente «sangre fría»; el español tomó la misma imagen. Se dice ante una crisis, en el trabajo o con amigos.",
+  "variante": "Pas de panique, on va s'en sortir. (Que no cunda el pánico, vamos a salir de esta.)",
+  "repaso": {
+   "pregunta": "¿Cómo dices en francés «hay que mantener la calma»?",
+   "respuesta": "« Il faut garder son sang-froid. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "Según Stockdale, ¿quiénes no lograban sobrevivir al cautiverio en Hanói?",
+   "opciones": [
+    "Los que estuvieron más tiempo aislados",
+    "Los pesimistas que esperaban lo peor",
+    "Los optimistas que se ponían fechas de salida"
+   ],
+   "correcta": 2,
+   "explicacion": "Los optimistas decían «salimos para Navidad», luego «para Pascua»… Cada fecha incumplida los quebraba. Stockdale tenía fe en el final, no en la fecha."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿En cuánto cerró el Brent el viernes 23 de octubre, según Reuters?",
+   "opciones": [
+    "116.72 dólares por barril",
+    "113.17 dólares por barril",
+    "103.27 dólares por barril"
+   ],
+   "correcta": 0,
+   "explicacion": "Cerró en 116.72, su nivel más alto desde abril. 113.17 fue el cierre del jueves 22 y 103.27, el del WTI el viernes."
+  },
+  {
+   "origen": "hechos",
+   "pregunta": "En el código de Ur-Nammu, hacia 2100 a. C., ¿cómo se castigaba cortarle el pie a alguien?",
+   "opciones": [
+    "Cortándole el pie al culpable",
+    "Con una multa de 10 siclos de plata",
+    "Con el destierro"
+   ],
+   "correcta": 1,
+   "explicacion": "Ur-Nammu imponía multas en plata para muchas lesiones. El «ojo por ojo» llegó con Hammurabi, unos tres siglos después."
+  }
+ ],
+ "libro": null,
+ "proximo": "Síntesis: tu manual para decidir bajo presión"
+}

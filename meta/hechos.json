@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-23",
+ "actualizado": "2026-10-24",
  "materias": {
   "Arquitectura y diseño": [
    {
@@ -78,23 +78,6 @@
   ],
   "Ciencia y tecnología": [
    {
-    "materia": "Ciencia y tecnología",
-    "pilar": "futuro",
-    "epoca": "1957",
-    "titulo": "La primera foto digital fue un bebé",
-    "dato": "La primera imagen digital escaneada es de 1957: un bebé de tres meses, en 176 por 176 píxeles. Era Walden, hijo de Russell Kirsch, del actual NIST.",
-    "explicacion": "Kirsch usó un escáner de tambor conectado a la SEAC, una de las primeras computadoras de Estados Unidos. La imagen medía 5 por 5 centímetros. Fue 18 años antes de la cámara de Sasson en Kodak.\n\nKirsch eligió píxeles cuadrados por sencillez. En 2010, ya mayor, publicó un trabajo con píxeles de forma variable y dijo que el cuadrado había sido una decisión tonta que el mundo arrastraba desde entonces. Las decisiones de los pioneros se vuelven estándares por décadas.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NBSFirstScanImage.jpg?width=900",
-     "alt": "Primera imagen digital escaneada, 1957",
-     "pie": "La primera imagen escaneada: Walden Kirsch, 1957. NIST",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "NIST: First digital image",
-     "url": "https://www.nist.gov/mathematics-statistics/first-digital-image"
-    },
-    "wiki": "Russell A. Kirsch",
     "claves": [
      {
       "nombre": "Píxel",
@@ -107,11 +90,28 @@
       "wiki": "Fotografía digital"
      }
     ],
+    "dato": "La primera imagen digital escaneada es de 1957: un bebé de tres meses, en 176 por 176 píxeles. Era Walden, hijo de Russell Kirsch, del actual NIST.",
+    "epoca": "1957",
+    "explicacion": "Kirsch usó un escáner de tambor conectado a la SEAC, una de las primeras computadoras de Estados Unidos. La imagen medía 5 por 5 centímetros. Fue 18 años antes de la cámara de Sasson en Kodak.\n\nKirsch eligió píxeles cuadrados por sencillez. En 2010, ya mayor, publicó un trabajo con píxeles de forma variable y dijo que el cuadrado había sido una decisión tonta que el mundo arrastraba desde entonces. Las decisiones de los pioneros se vuelven estándares por décadas.",
+    "fecha": "2026-10-23",
+    "fuente": {
+     "nombre": "NIST: First digital image",
+     "url": "https://www.nist.gov/mathematics-statistics/first-digital-image"
+    },
+    "imagen": {
+     "alt": "Primera imagen digital escaneada, 1957",
+     "credito": "Wikimedia Commons",
+     "pie": "La primera imagen escaneada: Walden Kirsch, 1957. NIST",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NBSFirstScanImage.jpg?width=900"
+    },
+    "materia": "Ciencia y tecnología",
+    "pilar": "futuro",
     "repaso": {
      "pregunta": "¿Qué muestra la primera imagen digital escaneada (1957)?",
      "respuesta": "A Walden, el bebé de Russell Kirsch, en 176 por 176 píxeles."
     },
-    "fecha": "2026-10-23"
+    "titulo": "La primera foto digital fue un bebé",
+    "wiki": "Russell A. Kirsch"
    },
    {
     "claves": [
@@ -178,23 +178,6 @@
   ],
   "Ciudades del mundo": [
    {
-    "materia": "Ciudades del mundo",
-    "pilar": "mundo",
-    "epoca": "Siglo XVII",
-    "titulo": "Una iglesia sobre un bosque",
-    "dato": "La basílica de Santa Maria della Salute, en Venecia, descansa sobre más de un millón de pilotes de madera clavados en el lodo de la laguna.",
-    "explicacion": "Venecia se construyó sobre islas de barro. Para cimentar, se clavaban troncos de roble, aliso, alerce y otras maderas hasta capas más firmes, y encima se ponían plataformas y piedra. La Salute se empezó en 1631, tras una peste, y se consagró en 1687.\n\nLa madera casi no se pudre porque, sin oxígeno, los hongos no actúan. Aun así, estudios del CNR italiano muestran que bacterias la degradan muy despacio. Una ciudad entera se sostiene, literalmente, sobre bosques sumergidos.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Santa_Maria_della_Salute_in_Venice_001.jpg?width=900",
-     "alt": "Basílica de Santa Maria della Salute en Venecia",
-     "pie": "Santa Maria della Salute, Venecia, consagrada en 1687",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "CNR (Italia): estudio sobre los pilotes de madera de Venecia",
-     "url": "https://iris.cnr.it/handle/20.500.14243/313591"
-    },
-    "wiki": "Venecia",
     "claves": [
      {
       "nombre": "Puente de Rialto",
@@ -207,11 +190,28 @@
       "wiki": "Cimentación"
      }
     ],
+    "dato": "La basílica de Santa Maria della Salute, en Venecia, descansa sobre más de un millón de pilotes de madera clavados en el lodo de la laguna.",
+    "epoca": "Siglo XVII",
+    "explicacion": "Venecia se construyó sobre islas de barro. Para cimentar, se clavaban troncos de roble, aliso, alerce y otras maderas hasta capas más firmes, y encima se ponían plataformas y piedra. La Salute se empezó en 1631, tras una peste, y se consagró en 1687.\n\nLa madera casi no se pudre porque, sin oxígeno, los hongos no actúan. Aun así, estudios del CNR italiano muestran que bacterias la degradan muy despacio. Una ciudad entera se sostiene, literalmente, sobre bosques sumergidos.",
+    "fecha": "2026-10-23",
+    "fuente": {
+     "nombre": "CNR (Italia): estudio sobre los pilotes de madera de Venecia",
+     "url": "https://iris.cnr.it/handle/20.500.14243/313591"
+    },
+    "imagen": {
+     "alt": "Basílica de Santa Maria della Salute en Venecia",
+     "credito": "Wikimedia Commons",
+     "pie": "Santa Maria della Salute, Venecia, consagrada en 1687",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Santa_Maria_della_Salute_in_Venice_001.jpg?width=900"
+    },
+    "materia": "Ciudades del mundo",
+    "pilar": "mundo",
     "repaso": {
      "pregunta": "¿Por qué los pilotes de madera de Venecia casi no se pudren?",
      "respuesta": "Porque están bajo el agua y el lodo, sin oxígeno, donde los hongos no actúan; solo bacterias los degradan muy despacio."
     },
-    "fecha": "2026-10-23"
+    "titulo": "Una iglesia sobre un bosque",
+    "wiki": "Venecia"
    },
    {
     "claves": [
@@ -251,23 +251,6 @@
   ],
   "Deporte y aire libre": [
    {
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "epoca": "1904",
-    "titulo": "El maratón ganado con veneno",
-    "dato": "En el maratón olímpico de San Luis 1904, el primero en llegar había hecho parte del recorrido en coche. El ganador oficial, Thomas Hicks, terminó tras recibir estricnina de sus entrenadores.",
-    "explicacion": "Hacía unos 32 °C y los caminos eran de tierra. De 32 corredores, solo 14 terminaron. Fred Lorz abandonó hacia la milla 9, subió a un coche y luego volvió a correr; lo celebraron como ganador hasta que lo descubrieron. Hicks ganó en 3:28:53, medio delirante, tras tomar estricnina con clara de huevo y brandy, que entonces se creía estimulante.\n\nEl cubano Félix Carvajal quedó cuarto después de comer manzanas en mal estado por el camino. Aquella carrera ayudó a que el deporte empezara a tomar en serio la hidratación y las reglas contra sustancias.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marathon_Hicks1904.jpg?width=900",
-     "alt": "Thomas Hicks en el maratón de 1904",
-     "pie": "Thomas Hicks, atendido por sus entrenadores durante el maratón de San Luis 1904",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Olympedia: maratón masculino, San Luis 1904",
-     "url": "https://www.olympedia.org/results/56131"
-    },
-    "wiki": "Juegos Olímpicos de San Luis 1904",
     "claves": [
      {
       "nombre": "Félix Carvajal",
@@ -280,11 +263,28 @@
       "wiki": "Thomas J. Hicks"
      }
     ],
+    "dato": "En el maratón olímpico de San Luis 1904, el primero en llegar había hecho parte del recorrido en coche. El ganador oficial, Thomas Hicks, terminó tras recibir estricnina de sus entrenadores.",
+    "epoca": "1904",
+    "explicacion": "Hacía unos 32 °C y los caminos eran de tierra. De 32 corredores, solo 14 terminaron. Fred Lorz abandonó hacia la milla 9, subió a un coche y luego volvió a correr; lo celebraron como ganador hasta que lo descubrieron. Hicks ganó en 3:28:53, medio delirante, tras tomar estricnina con clara de huevo y brandy, que entonces se creía estimulante.\n\nEl cubano Félix Carvajal quedó cuarto después de comer manzanas en mal estado por el camino. Aquella carrera ayudó a que el deporte empezara a tomar en serio la hidratación y las reglas contra sustancias.",
+    "fecha": "2026-10-23",
+    "fuente": {
+     "nombre": "Olympedia: maratón masculino, San Luis 1904",
+     "url": "https://www.olympedia.org/results/56131"
+    },
+    "imagen": {
+     "alt": "Thomas Hicks en el maratón de 1904",
+     "credito": "Wikimedia Commons",
+     "pie": "Thomas Hicks, atendido por sus entrenadores durante el maratón de San Luis 1904",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marathon_Hicks1904.jpg?width=900"
+    },
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
     "repaso": {
      "pregunta": "¿Qué le dieron a Thomas Hicks durante el maratón de 1904?",
      "respuesta": "Estricnina con clara de huevo y brandy, que entonces se creía estimulante."
     },
-    "fecha": "2026-10-23"
+    "titulo": "El maratón ganado con veneno",
+    "wiki": "Juegos Olímpicos de San Luis 1904"
    },
    {
     "claves": [
@@ -318,6 +318,41 @@
    }
   ],
   "Derecho y poder": [
+   {
+    "materia": "Derecho y poder",
+    "pilar": "mundo",
+    "epoca": "c. 2100 a. C.",
+    "titulo": "Antes del «ojo por ojo», una multa",
+    "dato": "El código de leyes más antiguo que se conserva, el de Ur-Nammu, es unos tres siglos anterior al de Hammurabi. Y para muchas lesiones no pedía venganza: pedía plata. Cortarle el pie a alguien costaba 10 siclos.",
+    "explicacion": "Ur-Nammu gobernó la ciudad sumeria de Ur hacia 2112–2094 a. C. Su código tiene 57 leyes; sacar un ojo se pagaba con media mina de plata (30 siclos) y un diente, con dos siclos. El asesinato y el robo sí se castigaban con la muerte. La tablilla se halló en Irak en 1948 y Samuel Noah Kramer la tradujo en 1952.\n\nHammurabi, hacia 1772 a. C., aplicó para esas lesiones la justicia de represalia, el «ojo por ojo». Así que la historia del derecho no va en línea recta de lo cruel a lo civilizado: la compensación económica, muy parecida a la idea moderna de reparar el daño, ya existía antes.",
+    "fuente": {
+     "nombre": "World History Encyclopedia: Code of Ur-Nammu",
+     "url": "https://www.worldhistory.org/Code_of_Ur-Nammu/"
+    },
+    "wiki": "Código de Hammurabi",
+    "claves": [
+     {
+      "nombre": "Ur-Nammu",
+      "quien": "Rey sumerio de Ur a quien se atribuye el código de leyes más antiguo que se conserva.",
+      "wiki": "Ur-Nammu"
+     },
+     {
+      "nombre": "Código de Hammurabi",
+      "quien": "El famoso código babilonio, unos tres siglos posterior, con la ley del talión.",
+      "wiki": "Código de Hammurabi"
+     },
+     {
+      "nombre": "Historia de Mesopotamia",
+      "quien": "La región entre el Tigris y el Éufrates donde nació la escritura y la ley escrita.",
+      "wiki": "Historia de Mesopotamia"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿En qué se diferenciaba el código de Ur-Nammu del de Hammurabi para las lesiones?",
+     "respuesta": "Ur-Nammu imponía multas en plata (10 siclos por un pie); Hammurabi, unos tres siglos después, aplicaba el «ojo por ojo»."
+    },
+    "fecha": "2026-10-24"
+   },
    {
     "claves": [
      {
@@ -355,6 +390,40 @@
    }
   ],
   "Disciplina y hábitos": [
+   {
+    "materia": "Disciplina y hábitos",
+    "pilar": "caracter",
+    "epoca": "Siglo XIX",
+    "titulo": "250 palabras cada cuarto de hora",
+    "dato": "Anthony Trollope escribió decenas de novelas mientras trabajaba de tiempo completo en el Correo británico. Su método: a las 5:30 de la mañana en su mesa, con el reloj enfrente, exigiéndose 250 palabras cada quince minutos.",
+    "explicacion": "Lo cuenta en su *Autobiografía*. Le pagaba a un viejo mozo 5 libras al año extra para que lo despertara con café, y dice que nunca llegó tarde. Escribía unas tres horas antes de ir a la oficina y así producía más de diez páginas de novela al día.\n\nLa idea detrás no es la inspiración, es la medida. Un objetivo pequeño y medible por cuarto de hora vuelve una tarea enorme en algo que se puede empezar ya. Trollope fue criticado después por hablar de su oficio como un artesano; él lo veía como la razón de su obra.",
+    "fuente": {
+     "nombre": "An Autobiography, de Anthony Trollope (Proyecto Gutenberg)",
+     "url": "https://gutenberg.org/ebooks/5978"
+    },
+    "wiki": "Prosa victoriana",
+    "claves": [
+     {
+      "nombre": "Prosa victoriana",
+      "quien": "La literatura en prosa de la Inglaterra de Victoria, donde Trollope fue de los más leídos.",
+      "wiki": "Prosa victoriana"
+     },
+     {
+      "nombre": "Novela realista en inglés",
+      "quien": "La corriente de novelas sobre la vida cotidiana y social a la que pertenece Trollope.",
+      "wiki": "Novela realista en lengua inglesa"
+     }
+    ],
+    "profundizar": {
+     "titulo": "Trollope: An Autobiography (texto completo, inglés)",
+     "url": "https://gutenberg.org/files/5978/5978-h/5978-h.htm"
+    },
+    "repaso": {
+     "pregunta": "¿Cuál era la regla de escritura de Anthony Trollope?",
+     "respuesta": "Empezar a las 5:30 con el reloj enfrente y escribir 250 palabras cada cuarto de hora, unas tres horas al día."
+    },
+    "fecha": "2026-10-24"
+   },
    {
     "claves": [
      {
@@ -430,6 +499,36 @@
   ],
   "El cosmos": [
    {
+    "materia": "El cosmos",
+    "pilar": "futuro",
+    "epoca": "Hoy",
+    "titulo": "En Venus, el día dura más que el año",
+    "dato": "Venus tarda unos 243 días terrestres en dar una vuelta sobre su eje, pero solo unos 225 en dar la vuelta al Sol. Y gira al revés que casi todos los planetas.",
+    "explicacion": "Las nubes de Venus impiden ver su superficie, así que su rotación se midió con radar, rebotando señales desde la Tierra. Un estudio con datos de 1988 a 2017, con radiotelescopios como Arecibo y Green Bank, la calculó en 243 días y unos 30 minutos. Y ni siquiera es fija: la medición cambia unos minutos entre una observación y otra, quizá porque su atmósfera densa la frena y la empuja.\n\nGira en sentido [[retrógrado|Que rota en sentido contrario a su órbita: visto desde Venus, el Sol saldría por el oeste.]]: allí el Sol saldría por el oeste. Saber exactamente cuánto dura su día no es una curiosidad: sin ese dato, una sonda no puede planear dónde aterrizar.",
+    "fuente": {
+     "nombre": "Astronomy: The length of a day on Venus keeps changing",
+     "url": "https://www.astronomy.com/science/the-length-of-a-day-on-venus-keeps-changing/"
+    },
+    "wiki": "Venus (planeta)",
+    "claves": [
+     {
+      "nombre": "Atmósfera de Venus",
+      "quien": "Una capa espesa de dióxido de carbono que hace de Venus el planeta más caliente.",
+      "wiki": "Atmósfera de Venus"
+     },
+     {
+      "nombre": "Movimientos retrógrado y prógrado",
+      "quien": "Por qué Venus gira al revés que la Tierra.",
+      "wiki": "Movimientos retrógrado y prógrado"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué dura más en Venus, el día o el año?",
+     "respuesta": "El día: unos 243 días terrestres en girar sobre su eje, contra unos 225 en dar la vuelta al Sol."
+    },
+    "fecha": "2026-10-24"
+   },
+   {
     "claves": [
      {
       "nombre": "Heliopausa",
@@ -473,17 +572,6 @@
   ],
   "Etiqueta y protocolo": [
    {
-    "materia": "Etiqueta y protocolo",
-    "pilar": "gusto",
-    "epoca": "1865",
-    "titulo": "El esmoquin es inglés; el «tuxedo», neoyorquino",
-    "dato": "Según la sastrería Henry Poole, en 1865 el príncipe de Gales le pidió una chaqueta corta para cenas informales. De ahí nace el esmoquin, que en Estados Unidos tomó el nombre de un club: Tuxedo Park.",
-    "explicacion": "La versión de Henry Poole viene de sus propios registros, así que es tradición más que prueba independiente. La historia de que un neoyorquino la llevó al club de Tuxedo Park en 1886 tampoco está documentada; el primer uso escrito de *tuxedo* para la chaqueta es de 1889.\n\nEn español decimos *esmoquin* por la *smoking jacket* inglesa: la prenda para fumar tras la cena. Nació como ropa relajada frente al frac, y hoy es lo más formal que usa casi cualquiera: la etiqueta cambia de nivel con el tiempo.",
-    "fuente": {
-     "nombre": "Henry Poole & Co: historia del dinner jacket",
-     "url": "https://henrypoole.com/?p=10230"
-    },
-    "wiki": "Esmoquin",
     "claves": [
      {
       "nombre": "Eduardo VII del Reino Unido",
@@ -496,11 +584,22 @@
       "wiki": "Ropa semiformal"
      }
     ],
+    "dato": "Según la sastrería Henry Poole, en 1865 el príncipe de Gales le pidió una chaqueta corta para cenas informales. De ahí nace el esmoquin, que en Estados Unidos tomó el nombre de un club: Tuxedo Park.",
+    "epoca": "1865",
+    "explicacion": "La versión de Henry Poole viene de sus propios registros, así que es tradición más que prueba independiente. La historia de que un neoyorquino la llevó al club de Tuxedo Park en 1886 tampoco está documentada; el primer uso escrito de *tuxedo* para la chaqueta es de 1889.\n\nEn español decimos *esmoquin* por la *smoking jacket* inglesa: la prenda para fumar tras la cena. Nació como ropa relajada frente al frac, y hoy es lo más formal que usa casi cualquiera: la etiqueta cambia de nivel con el tiempo.",
+    "fecha": "2026-10-23",
+    "fuente": {
+     "nombre": "Henry Poole & Co: historia del dinner jacket",
+     "url": "https://henrypoole.com/?p=10230"
+    },
+    "materia": "Etiqueta y protocolo",
+    "pilar": "gusto",
     "repaso": {
      "pregunta": "¿De dónde viene la palabra «esmoquin»?",
      "respuesta": "De la «smoking jacket» inglesa, la chaqueta para fumar tras la cena. En EE. UU. se llama tuxedo por el club de Tuxedo Park."
     },
-    "fecha": "2026-10-23"
+    "titulo": "El esmoquin es inglés; el «tuxedo», neoyorquino",
+    "wiki": "Esmoquin"
    },
    {
     "claves": [
@@ -571,6 +670,36 @@
    }
   ],
   "Gastronomía, vino y destilados": [
+   {
+    "materia": "Gastronomía, vino y destilados",
+    "pilar": "gusto",
+    "epoca": "1994",
+    "titulo": "Chile vendió Carménère como Merlot durante un siglo",
+    "dato": "En noviembre de 1994, el ampelógrafo francés Jean-Michel Boursiquot caminaba por un viñedo del valle del Maipo y notó que muchas plantas que Chile llamaba Merlot eran otra uva: Carménère, una variedad de Burdeos que se daba por casi extinta en Europa.",
+    "explicacion": "El Carménère se usaba en los grandes vinos del Médoc. La [[filoxera|Insecto que ataca las raíces de la vid y que devastó los viñedos europeos en el siglo XIX.]] y su fragilidad casi la borraron de Francia hacia la década de 1870. Pero en los años 1850 ya habían llegado esquejes a Chile, mezclados con Merlot. Boursiquot la reconoció por un detalle botánico: sus estambres retorcidos después de la floración.\n\nChile la registró oficialmente en 1998 y hoy es su uva emblema. Venderla no fue fácil al principio: había que explicarle al mundo un nombre nuevo. Es un caso de marca: lo que parecía un error de etiqueta se convirtió en el origen distintivo de un país.",
+    "fuente": {
+     "nombre": "Berry Bros. & Rudd: The fuddled identity of Carménère",
+     "url": "https://blog.bbr.com/2016/11/18/fuddled-identity-carmenere"
+    },
+    "wiki": "Carmenere",
+    "claves": [
+     {
+      "nombre": "Vino de Chile",
+      "quien": "La industria vinícola chilena, que hizo del Carménère su sello.",
+      "wiki": "Vino de Chile"
+     },
+     {
+      "nombre": "Vinos del nuevo mundo",
+      "quien": "Los vinos de fuera de Europa que conservaron uvas que Europa perdió.",
+      "wiki": "Vinos del nuevo mundo"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cómo se descubrió el Carménère en Chile y con qué uva se confundía?",
+     "respuesta": "En 1994, Jean-Michel Boursiquot la identificó en el Maipo por sus estambres retorcidos. Se vendía como Merlot."
+    },
+    "fecha": "2026-10-24"
+   },
    {
     "claves": [
      {
@@ -678,6 +807,36 @@
   ],
   "Inversión y finanzas personales": [
    {
+    "materia": "Inversión y finanzas personales",
+    "pilar": "patrimonio",
+    "epoca": "1494",
+    "titulo": "La regla del 72 tiene más de 500 años",
+    "dato": "El atajo para saber en cuántos años se duplica tu dinero, dividir 72 entre la tasa de interés, ya aparece en un libro de 1494: la *Summa de arithmetica* del fraile italiano Luca Pacioli.",
+    "explicacion": "Pacioli escribe: «ten por regla 72, de memoria, y divídelo siempre entre el interés». No explica de dónde sale, y por eso se cree que la regla es aún más antigua. Al 8% anual, el dinero se duplica en unos 9 años; al 6%, en unos 12.\n\n¿Por qué 72? La cifra exacta para interés continuo es 69.3, pero 72 se divide fácil entre 2, 3, 4, 6, 8, 9 y 12, y funciona muy bien con tasas de entre 6% y 10%. Sirve igual al revés: con una inflación de 4%, los precios se duplican en unos 18 años. Pacioli, por cierto, es el mismo que difundió la contabilidad por partida doble.",
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Rule of 72",
+     "url": "https://en.wikipedia.org/wiki/Rule_of_72"
+    },
+    "wiki": "Interés compuesto",
+    "claves": [
+     {
+      "nombre": "Luca Pacioli",
+      "quien": "Fraile y matemático italiano; su Summa de 1494 recoge la regla y la partida doble.",
+      "wiki": "Luca Pacioli"
+     },
+     {
+      "nombre": "Partida doble",
+      "quien": "El sistema contable de debe y haber que Pacioli difundió en el mismo libro.",
+      "wiki": "Partida doble"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cómo funciona la regla del 72 y en qué libro aparece por primera vez?",
+     "respuesta": "Divides 72 entre la tasa de interés para saber en cuántos años se duplica el dinero. Aparece en la Summa de arithmetica de Luca Pacioli (1494)."
+    },
+    "fecha": "2026-10-24"
+   },
+   {
     "claves": [
      {
       "nombre": "Bolsa de Ámsterdam",
@@ -710,23 +869,6 @@
   ],
   "Liderazgo e influencia": [
    {
-    "materia": "Liderazgo e influencia",
-    "pilar": "caracter",
-    "epoca": "Siglo XX",
-    "titulo": "El cordón que cualquiera puede jalar",
-    "dato": "En las plantas de Toyota, cualquier obrero puede jalar un cordón, el *andon*, para pedir ayuda cuando ve un problema. Si no se resuelve a tiempo, la línea entera se detiene.",
-    "explicacion": "La idea viene de Sakichi Toyoda, cuyo telar se detenía solo cuando se rompía un hilo. Toyota la convirtió en principio, el *jidoka*: no dejar pasar un defecto. Al jalar el cordón, la línea avanza hasta el final del ciclo mientras llega el jefe de equipo; si el problema sigue, se para.\n\nLo radical es quién tiene el poder. Según un reportaje de la BBC de 2007, en una planta de Toyota en Kentucky se jalaba unas 2,000 veces por semana. Un líder que premia que le avisen de los errores los descubre cuando todavía son baratos.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Andon-Board_in_einem_Produktionswerk.png?width=900",
-     "alt": "Tablero andon en una planta de producción",
-     "pie": "Un tablero andon: muestra en qué estación se pidió ayuda",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Lean Enterprise Institute: How NUMMI changed its culture",
-     "url": "https://www.lean.org/the-lean-post/articles/how-nummi-changed-its-culture/"
-    },
-    "wiki": "Andon (sistema de control)",
     "claves": [
      {
       "nombre": "Sistema de producción Toyota",
@@ -739,11 +881,28 @@
       "wiki": "Jidōka"
      }
     ],
+    "dato": "En las plantas de Toyota, cualquier obrero puede jalar un cordón, el *andon*, para pedir ayuda cuando ve un problema. Si no se resuelve a tiempo, la línea entera se detiene.",
+    "epoca": "Siglo XX",
+    "explicacion": "La idea viene de Sakichi Toyoda, cuyo telar se detenía solo cuando se rompía un hilo. Toyota la convirtió en principio, el *jidoka*: no dejar pasar un defecto. Al jalar el cordón, la línea avanza hasta el final del ciclo mientras llega el jefe de equipo; si el problema sigue, se para.\n\nLo radical es quién tiene el poder. Según un reportaje de la BBC de 2007, en una planta de Toyota en Kentucky se jalaba unas 2,000 veces por semana. Un líder que premia que le avisen de los errores los descubre cuando todavía son baratos.",
+    "fecha": "2026-10-23",
+    "fuente": {
+     "nombre": "Lean Enterprise Institute: How NUMMI changed its culture",
+     "url": "https://www.lean.org/the-lean-post/articles/how-nummi-changed-its-culture/"
+    },
+    "imagen": {
+     "alt": "Tablero andon en una planta de producción",
+     "credito": "Wikimedia Commons",
+     "pie": "Un tablero andon: muestra en qué estación se pidió ayuda",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Andon-Board_in_einem_Produktionswerk.png?width=900"
+    },
+    "materia": "Liderazgo e influencia",
+    "pilar": "caracter",
     "repaso": {
      "pregunta": "¿Qué es el andon de Toyota?",
      "respuesta": "Un cordón que cualquier obrero puede jalar para avisar de un problema; si no se resuelve, la línea se detiene."
     },
-    "fecha": "2026-10-23"
+    "titulo": "El cordón que cualquiera puede jalar",
+    "wiki": "Andon (sistema de control)"
    },
    {
     "claves": [
@@ -820,6 +979,36 @@
   ],
   "Mente y decisiones": [
    {
+    "materia": "Mente y decisiones",
+    "pilar": "mente",
+    "epoca": "1990",
+    "titulo": "Diez mil cartas para decirle que estaba equivocada",
+    "dato": "En 1990, Marilyn vos Savant respondió en su columna que en el problema de las tres puertas conviene cambiar de puerta. Recibió unas 10,000 cartas, casi 1,000 de personas con doctorado, y la mayoría le decía que se equivocaba. Ella tenía razón.",
+    "explicacion": "El juego: eliges una de tres puertas; detrás de una hay un coche. El presentador, que sabe dónde está, abre otra puerta con una cabra. Si cambias, ganas 2 de cada 3 veces. Tu primera elección tenía 1/3 de acertar; el presentador, al abrir siempre una puerta perdedora, te regala información sobre las otras dos.\n\nEl matemático Paul Erdős no se convenció hasta ver una simulación por computadora. La lección: la intuición falla cuando alguien con información actúa frente a ti. En una negociación, lo que el otro decide no mostrarte también es un dato.",
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Monty Hall problem",
+     "url": "https://en.wikipedia.org/wiki/Monty_Hall_problem"
+    },
+    "wiki": "Problema de Monty Hall",
+    "claves": [
+     {
+      "nombre": "Marilyn vos Savant",
+      "quien": "Columnista de la revista Parade que publicó la respuesta correcta en septiembre de 1990.",
+      "wiki": "Marilyn vos Savant"
+     },
+     {
+      "nombre": "Problema de los tres prisioneros",
+      "quien": "Un acertijo de probabilidad casi idéntico, publicado décadas antes.",
+      "wiki": "Problema de los tres prisioneros"
+     }
+    ],
+    "repaso": {
+     "pregunta": "En el problema de Monty Hall, ¿conviene cambiar de puerta y con qué probabilidad ganas?",
+     "respuesta": "Sí. Si cambias, ganas 2 de cada 3 veces."
+    },
+    "fecha": "2026-10-24"
+   },
+   {
     "claves": [
      {
       "nombre": "Solomon Asch",
@@ -852,17 +1041,6 @@
   ],
   "Música": [
    {
-    "materia": "Música",
-    "pilar": "cultura",
-    "epoca": "2014",
-    "titulo": "Los solistas no distinguieron un Stradivarius",
-    "dato": "En pruebas a ciegas publicadas en 2014, diez solistas tocaron violines antiguos, entre ellos cinco Stradivarius, y violines nuevos. No pudieron distinguirlos de forma fiable, y la mayoría prefirió los nuevos.",
-    "explicacion": "El estudio, de Claudia Fritz y su equipo, salió en la revista PNAS. Los músicos usaban gafas que les impedían ver el instrumento. En 2017 repitieron la idea con 137 oyentes en París y Nueva York: juzgaron que los violines nuevos se oían mejor en la sala y tampoco distinguieron cuál era cuál.\n\nNo significa que un Stradivarius sea malo; son instrumentos extraordinarios. Significa que parte de su valor está en la historia, la rareza y lo que esperamos oír. Saber eso ayuda a separar calidad de prestigio.",
-    "fuente": {
-     "nombre": "CNRS: Sound projection, are Stradivarius violins really better?",
-     "url": "https://www.cnrs.fr/en/press/sound-projection-are-stradivarius-violins-really-better"
-    },
-    "wiki": "Antonio Stradivari",
     "claves": [
      {
       "nombre": "Violín",
@@ -875,11 +1053,22 @@
       "wiki": "Stradivarius El Mesías"
      }
     ],
+    "dato": "En pruebas a ciegas publicadas en 2014, diez solistas tocaron violines antiguos, entre ellos cinco Stradivarius, y violines nuevos. No pudieron distinguirlos de forma fiable, y la mayoría prefirió los nuevos.",
+    "epoca": "2014",
+    "explicacion": "El estudio, de Claudia Fritz y su equipo, salió en la revista PNAS. Los músicos usaban gafas que les impedían ver el instrumento. En 2017 repitieron la idea con 137 oyentes en París y Nueva York: juzgaron que los violines nuevos se oían mejor en la sala y tampoco distinguieron cuál era cuál.\n\nNo significa que un Stradivarius sea malo; son instrumentos extraordinarios. Significa que parte de su valor está en la historia, la rareza y lo que esperamos oír. Saber eso ayuda a separar calidad de prestigio.",
+    "fecha": "2026-10-23",
+    "fuente": {
+     "nombre": "CNRS: Sound projection, are Stradivarius violins really better?",
+     "url": "https://www.cnrs.fr/en/press/sound-projection-are-stradivarius-violins-really-better"
+    },
+    "materia": "Música",
+    "pilar": "cultura",
     "repaso": {
      "pregunta": "¿Qué encontraron las pruebas a ciegas de 2014 con violines Stradivarius?",
      "respuesta": "Que los solistas no los distinguían de forma fiable de violines nuevos, y la mayoría prefirió los nuevos."
     },
-    "fecha": "2026-10-23"
+    "titulo": "Los solistas no distinguieron un Stradivarius",
+    "wiki": "Antonio Stradivari"
    },
    {
     "claves": [
@@ -981,6 +1170,44 @@
     "wiki": "Birkin (bolso)"
    }
   ],
+  "Productos digitales escalables": [
+   {
+    "claves": [
+     {
+      "nombre": "Altair 8800",
+      "quien": "La computadora personal en kit que desató la fiebre de los aficionados en 1975.",
+      "wiki": "Altair 8800"
+     },
+     {
+      "nombre": "Altair BASIC",
+      "quien": "El primer producto de Microsoft: un lenguaje para programar la Altair.",
+      "wiki": "Altair BASIC"
+     }
+    ],
+    "dato": "En 1976, un Bill Gates de 20 años publicó una carta furiosa: menos del 10% de los dueños de la computadora Altair había pagado por su programa BASIC. El resto lo copiaba.",
+    "epoca": "1976",
+    "explicacion": "En la «Carta abierta a los aficionados», Gates calculó que el tiempo de computadora que usaron valía más de 40 mil dólares, y que con las regalías su trabajo salía a menos de 2 dólares la hora. En esa época, muchos creían que el software debía compartirse gratis.\n\nLa carta planteó la pregunta central de todo producto digital: si copiar no cuesta nada, ¿por qué alguien pagaría? La respuesta que construyó Microsoft fue la licencia. Hoy cualquier plantilla, curso o app vive de esa misma idea.",
+    "fecha": "2026-10-23",
+    "fuente": {
+     "nombre": "DigiBarn: texto de la carta en el boletín del Homebrew Computer Club",
+     "url": "https://digibarn.com/collections/newsletters/homebrew/V2_01/gatesletter.html"
+    },
+    "imagen": {
+     "alt": "Carta abierta a los aficionados de Bill Gates",
+     "credito": "Wikimedia Commons",
+     "pie": "La «Carta abierta a los aficionados», 3 de febrero de 1976",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill_Gates_Letter_to_Hobbyists.jpg?width=900"
+    },
+    "materia": "Productos digitales escalables",
+    "pilar": "patrimonio",
+    "repaso": {
+     "pregunta": "¿Qué denunció Bill Gates en su carta de 1976?",
+     "respuesta": "Que menos del 10% de los dueños de la Altair pagó por su BASIC; el resto lo copiaba."
+    },
+    "titulo": "La carta que inventó vender software",
+    "wiki": "Carta abierta a los aficionados"
+   }
+  ],
   "Relaciones y vida social": [
    {
     "claves": [
@@ -1015,6 +1242,36 @@
   ],
   "Religiones y grandes textos": [
    {
+    "materia": "Religiones y grandes textos",
+    "pilar": "cultura",
+    "epoca": "2015",
+    "titulo": "Un Corán guardado en Birmingham",
+    "dato": "En 2015, la Universidad de Birmingham anunció que dos hojas de un Corán de su colección se escribieron en pergamino fechado entre los años 568 y 645. Mahoma, según la cronología tradicional, vivió entre 570 y 632.",
+    "explicacion": "La prueba de radiocarbono, hecha en la Universidad de Oxford, dio ese rango con 95.4% de probabilidad. Las hojas llevaban muchos años encuadernadas por error junto con otro manuscrito parecido, en la Colección Mingana. Están escritas en [[escritura hiyazí|Una de las formas más antiguas de la escritura árabe, anterior a la caligrafía cúfica.]].\n\nOjo con lo que significa: el radiocarbono fecha la piel del animal, no el momento en que se escribió el texto, que pudo ser algo posterior. Aun así, lo coloca entre los fragmentos del Corán más antiguos que se conocen y muy cerca de la vida del profeta.",
+    "fuente": {
+     "nombre": "Universidad de Birmingham: Birmingham Qur'an manuscript dated among the oldest in the world (2015)",
+     "url": "https://www.birmingham.ac.uk/news-archive/2015/birmingham-quran-manuscript-dated-among-the-oldest-in-the-world"
+    },
+    "wiki": "Corán",
+    "claves": [
+     {
+      "nombre": "Escritura hiyazí",
+      "quien": "El estilo de escritura árabe temprana en que está el manuscrito.",
+      "wiki": "Escritura hiyazí"
+     },
+     {
+      "nombre": "Estudios coránicos",
+      "quien": "La disciplina académica que estudia la historia del texto del Corán.",
+      "wiki": "Estudios coránicos"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Entre qué años se fechó el pergamino del Corán de Birmingham?",
+     "respuesta": "Entre 568 y 645, con 95.4% de probabilidad. Mahoma vivió entre 570 y 632, según la cronología tradicional."
+    },
+    "fecha": "2026-10-24"
+   },
+   {
     "claves": [
      {
       "nombre": "Qumrán",
@@ -1047,23 +1304,6 @@
   ],
   "Retórica y oratoria": [
    {
-    "materia": "Retórica y oratoria",
-    "pilar": "mente",
-    "epoca": "1940",
-    "titulo": "El discurso que nadie oyó en su voz",
-    "dato": "El famoso «Lucharemos en las playas» de Churchill no se transmitió en su voz en 1940. Ese día lo dijo en la Cámara de los Comunes y, por la noche, un locutor de la BBC leyó fragmentos en la radio.",
-    "explicacion": "Churchill habló en el Parlamento el 4 de junio de 1940, tras la evacuación de Dunkerque. Entonces no se grababan las sesiones. La grabación que hoy escuchamos la hizo él mismo en 1949, en su casa de Chartwell, y se publicó en disco en los años sesenta.\n\nCircula una versión de que un actor, Norman Shelley, lo imitó en la radio; los Archivos Nacionales británicos la desmienten. La lección retórica es otra: el discurso se volvió legendario por su texto, que se citó y reimprimió, antes de que la mayoría oyera la voz.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Winston_Churchill_As_Prime_Minister_1940-1945_H2646A.jpg?width=900",
-     "alt": "Winston Churchill como primer ministro",
-     "pie": "Winston Churchill, primer ministro británico de 1940 a 1945",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "The National Archives (blog de historia del gobierno británico)",
-     "url": "https://history.blog.gov.uk/2013/12/02/we-shall-fight-on-the-beaches-three-things-you-never-knew-about-churchills-most-famous-speech/"
-    },
-    "wiki": "Lucharemos en las playas",
     "claves": [
      {
       "nombre": "Operación Dinamo",
@@ -1076,11 +1316,28 @@
       "wiki": "Sangre, esfuerzo, lágrimas y sudor"
      }
     ],
+    "dato": "El famoso «Lucharemos en las playas» de Churchill no se transmitió en su voz en 1940. Ese día lo dijo en la Cámara de los Comunes y, por la noche, un locutor de la BBC leyó fragmentos en la radio.",
+    "epoca": "1940",
+    "explicacion": "Churchill habló en el Parlamento el 4 de junio de 1940, tras la evacuación de Dunkerque. Entonces no se grababan las sesiones. La grabación que hoy escuchamos la hizo él mismo en 1949, en su casa de Chartwell, y se publicó en disco en los años sesenta.\n\nCircula una versión de que un actor, Norman Shelley, lo imitó en la radio; los Archivos Nacionales británicos la desmienten. La lección retórica es otra: el discurso se volvió legendario por su texto, que se citó y reimprimió, antes de que la mayoría oyera la voz.",
+    "fecha": "2026-10-23",
+    "fuente": {
+     "nombre": "The National Archives (blog de historia del gobierno británico)",
+     "url": "https://history.blog.gov.uk/2013/12/02/we-shall-fight-on-the-beaches-three-things-you-never-knew-about-churchills-most-famous-speech/"
+    },
+    "imagen": {
+     "alt": "Winston Churchill como primer ministro",
+     "credito": "Wikimedia Commons",
+     "pie": "Winston Churchill, primer ministro británico de 1940 a 1945",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Winston_Churchill_As_Prime_Minister_1940-1945_H2646A.jpg?width=900"
+    },
+    "materia": "Retórica y oratoria",
+    "pilar": "mente",
     "repaso": {
      "pregunta": "¿Cuándo grabó Churchill «Lucharemos en las playas» en su propia voz?",
      "respuesta": "En 1949, en Chartwell. En 1940 lo dijo en el Parlamento y la BBC leyó fragmentos."
     },
-    "fecha": "2026-10-23"
+    "titulo": "El discurso que nadie oyó en su voz",
+    "wiki": "Lucharemos en las playas"
    },
    {
     "claves": [
@@ -1120,6 +1377,36 @@
   ],
   "Salud y longevidad": [
    {
+    "materia": "Salud y longevidad",
+    "pilar": "cuerpo",
+    "epoca": "1984",
+    "titulo": "El médico que se bebió una bacteria",
+    "dato": "En 1984, el médico australiano Barry Marshall se tomó un cultivo de *Helicobacter pylori* para probar que esa bacteria causaba gastritis. Cinco días después empezó a vomitar. En 2005 ganó el Nobel de Medicina con Robin Warren.",
+    "explicacion": "Durante décadas se creyó que las úlceras de estómago venían del estrés y del ácido, y que ninguna bacteria sobrevivía en el estómago. Marshall llevaba dos años discutiendo con escépticos y no tenía un animal de laboratorio en el que demostrarlo. Se hizo una endoscopia, comprobó que estaba sano y, unas tres semanas después, bebió la bacteria. La nueva endoscopia mostró una gastritis activa severa.\n\nGracias a eso, hoy muchas úlceras se tratan con antibióticos. No es un ejemplo para copiar: es un recordatorio de que el consenso puede estar equivocado y de que la evidencia, no la autoridad, es la que lo cambia.",
+    "fuente": {
+     "nombre": "Marshall y Adams: Helicobacter pylori, a Nobel pursuit? (Canadian Journal of Gastroenterology, 2008)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2661189"
+    },
+    "wiki": "Helicobacter pylori",
+    "claves": [
+     {
+      "nombre": "Autoexperimentación en ciencia",
+      "quien": "La historia de los científicos que se usaron a sí mismos como sujetos de prueba.",
+      "wiki": "Autoexperimentación en ciencia"
+     },
+     {
+      "nombre": "Bacteriología",
+      "quien": "La ciencia que estudia las bacterias, incluida la que Marshall bebió.",
+      "wiki": "Bacteriología"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué hizo Barry Marshall en 1984 y qué demostró?",
+     "respuesta": "Se bebió un cultivo de Helicobacter pylori y desarrolló gastritis: demostró que la bacteria causa enfermedad en el estómago. Nobel en 2005."
+    },
+    "fecha": "2026-10-24"
+   },
+   {
     "claves": [
      {
       "nombre": "Fiebre puerperal",
@@ -1153,44 +1440,6 @@
     },
     "titulo": "El médico que pidió lavarse las manos",
     "wiki": "Ignaz Semmelweis"
-   }
-  ],
-  "Productos digitales escalables": [
-   {
-    "materia": "Productos digitales escalables",
-    "pilar": "patrimonio",
-    "epoca": "1976",
-    "titulo": "La carta que inventó vender software",
-    "dato": "En 1976, un Bill Gates de 20 años publicó una carta furiosa: menos del 10% de los dueños de la computadora Altair había pagado por su programa BASIC. El resto lo copiaba.",
-    "explicacion": "En la «Carta abierta a los aficionados», Gates calculó que el tiempo de computadora que usaron valía más de 40 mil dólares, y que con las regalías su trabajo salía a menos de 2 dólares la hora. En esa época, muchos creían que el software debía compartirse gratis.\n\nLa carta planteó la pregunta central de todo producto digital: si copiar no cuesta nada, ¿por qué alguien pagaría? La respuesta que construyó Microsoft fue la licencia. Hoy cualquier plantilla, curso o app vive de esa misma idea.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill_Gates_Letter_to_Hobbyists.jpg?width=900",
-     "alt": "Carta abierta a los aficionados de Bill Gates",
-     "pie": "La «Carta abierta a los aficionados», 3 de febrero de 1976",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "DigiBarn: texto de la carta en el boletín del Homebrew Computer Club",
-     "url": "https://digibarn.com/collections/newsletters/homebrew/V2_01/gatesletter.html"
-    },
-    "wiki": "Carta abierta a los aficionados",
-    "claves": [
-     {
-      "nombre": "Altair 8800",
-      "quien": "La computadora personal en kit que desató la fiebre de los aficionados en 1975.",
-      "wiki": "Altair 8800"
-     },
-     {
-      "nombre": "Altair BASIC",
-      "quien": "El primer producto de Microsoft: un lenguaje para programar la Altair.",
-      "wiki": "Altair BASIC"
-     }
-    ],
-    "repaso": {
-     "pregunta": "¿Qué denunció Bill Gates en su carta de 1976?",
-     "respuesta": "Que menos del 10% de los dueños de la Altair pagó por su BASIC; el resto lo copiaba."
-    },
-    "fecha": "2026-10-23"
    }
   ]
  }
