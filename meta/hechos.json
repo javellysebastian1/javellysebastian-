@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-24",
+ "actualizado": "2026-10-25",
  "materias": {
   "Arquitectura y diseño": [
    {
@@ -251,6 +251,42 @@
   ],
   "Deporte y aire libre": [
    {
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
+    "epoca": "1912",
+    "titulo": "El fundador de los Juegos ganó oro en poesía",
+    "dato": "De 1912 a 1948, los Juegos Olímpicos dieron medallas de arte. En Estocolmo 1912, el oro de literatura fue para «Oda al deporte», firmada por Georges Hohrod y M. Eschbach. El autor real era Pierre de Coubertin, fundador de los Juegos modernos.",
+    "explicacion": "Había cinco categorías: arquitectura, música, pintura, escultura y literatura, y toda obra debía inspirarse en el deporte. Coubertin usó seudónimos para que el jurado no supiera quién era. El estadounidense Walter Winans ganó el oro de escultura en 1912 con un caballo de bronce, además de medallas olímpicas de tiro.\n\nSe entregaron 151 medallas, que hoy no cuentan en el medallero oficial. Avery Brundage, luego presidente del COI y defensor del [[amateurismo|Idea de que el deportista olímpico no debía ganar dinero con su disciplina.]], argumentó que los artistas vivían de vender su obra. Tras 1948 se cambiaron por exposiciones sin competencia.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baron_Pierre_de_Coubertin.jpg?width=900",
+     "alt": "Retrato del barón Pierre de Coubertin",
+     "pie": "Pierre de Coubertin, fundador de los Juegos Olímpicos modernos",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Smithsonian Magazine: When the Olympics Gave Out Medals for Art",
+     "url": "https://www.smithsonianmag.com/arts-culture/when-the-olympics-gave-out-medals-for-art-6878965/"
+    },
+    "wiki": "Competiciones de arte en los Juegos Olímpicos",
+    "claves": [
+     {
+      "nombre": "Juegos Olímpicos de Estocolmo 1912",
+      "quien": "Los primeros Juegos con concursos de arte.",
+      "wiki": "Juegos Olímpicos de Estocolmo 1912"
+     },
+     {
+      "nombre": "Arte en Estocolmo 1912",
+      "quien": "La lista de ganadores de aquel primer concurso artístico.",
+      "wiki": "Anexo:Arte en los Juegos Olímpicos de Estocolmo 1912"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Quién ganó el oro olímpico de literatura en 1912 y cómo firmó?",
+     "respuesta": "Pierre de Coubertin, con «Oda al deporte», firmada con los seudónimos Georges Hohrod y M. Eschbach."
+    },
+    "fecha": "2026-10-25"
+   },
+   {
     "claves": [
      {
       "nombre": "Félix Carvajal",
@@ -319,17 +355,6 @@
   ],
   "Derecho y poder": [
    {
-    "materia": "Derecho y poder",
-    "pilar": "mundo",
-    "epoca": "c. 2100 a. C.",
-    "titulo": "Antes del «ojo por ojo», una multa",
-    "dato": "El código de leyes más antiguo que se conserva, el de Ur-Nammu, es unos tres siglos anterior al de Hammurabi. Y para muchas lesiones no pedía venganza: pedía plata. Cortarle el pie a alguien costaba 10 siclos.",
-    "explicacion": "Ur-Nammu gobernó la ciudad sumeria de Ur hacia 2112–2094 a. C. Su código tiene 57 leyes; sacar un ojo se pagaba con media mina de plata (30 siclos) y un diente, con dos siclos. El asesinato y el robo sí se castigaban con la muerte. La tablilla se halló en Irak en 1948 y Samuel Noah Kramer la tradujo en 1952.\n\nHammurabi, hacia 1772 a. C., aplicó para esas lesiones la justicia de represalia, el «ojo por ojo». Así que la historia del derecho no va en línea recta de lo cruel a lo civilizado: la compensación económica, muy parecida a la idea moderna de reparar el daño, ya existía antes.",
-    "fuente": {
-     "nombre": "World History Encyclopedia: Code of Ur-Nammu",
-     "url": "https://www.worldhistory.org/Code_of_Ur-Nammu/"
-    },
-    "wiki": "Código de Hammurabi",
     "claves": [
      {
       "nombre": "Ur-Nammu",
@@ -347,11 +372,22 @@
       "wiki": "Historia de Mesopotamia"
      }
     ],
+    "dato": "El código de leyes más antiguo que se conserva, el de Ur-Nammu, es unos tres siglos anterior al de Hammurabi. Y para muchas lesiones no pedía venganza: pedía plata. Cortarle el pie a alguien costaba 10 siclos.",
+    "epoca": "c. 2100 a. C.",
+    "explicacion": "Ur-Nammu gobernó la ciudad sumeria de Ur hacia 2112–2094 a. C. Su código tiene 57 leyes; sacar un ojo se pagaba con media mina de plata (30 siclos) y un diente, con dos siclos. El asesinato y el robo sí se castigaban con la muerte. La tablilla se halló en Irak en 1948 y Samuel Noah Kramer la tradujo en 1952.\n\nHammurabi, hacia 1772 a. C., aplicó para esas lesiones la justicia de represalia, el «ojo por ojo». Así que la historia del derecho no va en línea recta de lo cruel a lo civilizado: la compensación económica, muy parecida a la idea moderna de reparar el daño, ya existía antes.",
+    "fecha": "2026-10-24",
+    "fuente": {
+     "nombre": "World History Encyclopedia: Code of Ur-Nammu",
+     "url": "https://www.worldhistory.org/Code_of_Ur-Nammu/"
+    },
+    "materia": "Derecho y poder",
+    "pilar": "mundo",
     "repaso": {
      "pregunta": "¿En qué se diferenciaba el código de Ur-Nammu del de Hammurabi para las lesiones?",
      "respuesta": "Ur-Nammu imponía multas en plata (10 siclos por un pie); Hammurabi, unos tres siglos después, aplicaba el «ojo por ojo»."
     },
-    "fecha": "2026-10-24"
+    "titulo": "Antes del «ojo por ojo», una multa",
+    "wiki": "Código de Hammurabi"
    },
    {
     "claves": [
@@ -391,17 +427,6 @@
   ],
   "Disciplina y hábitos": [
    {
-    "materia": "Disciplina y hábitos",
-    "pilar": "caracter",
-    "epoca": "Siglo XIX",
-    "titulo": "250 palabras cada cuarto de hora",
-    "dato": "Anthony Trollope escribió decenas de novelas mientras trabajaba de tiempo completo en el Correo británico. Su método: a las 5:30 de la mañana en su mesa, con el reloj enfrente, exigiéndose 250 palabras cada quince minutos.",
-    "explicacion": "Lo cuenta en su *Autobiografía*. Le pagaba a un viejo mozo 5 libras al año extra para que lo despertara con café, y dice que nunca llegó tarde. Escribía unas tres horas antes de ir a la oficina y así producía más de diez páginas de novela al día.\n\nLa idea detrás no es la inspiración, es la medida. Un objetivo pequeño y medible por cuarto de hora vuelve una tarea enorme en algo que se puede empezar ya. Trollope fue criticado después por hablar de su oficio como un artesano; él lo veía como la razón de su obra.",
-    "fuente": {
-     "nombre": "An Autobiography, de Anthony Trollope (Proyecto Gutenberg)",
-     "url": "https://gutenberg.org/ebooks/5978"
-    },
-    "wiki": "Prosa victoriana",
     "claves": [
      {
       "nombre": "Prosa victoriana",
@@ -414,6 +439,16 @@
       "wiki": "Novela realista en lengua inglesa"
      }
     ],
+    "dato": "Anthony Trollope escribió decenas de novelas mientras trabajaba de tiempo completo en el Correo británico. Su método: a las 5:30 de la mañana en su mesa, con el reloj enfrente, exigiéndose 250 palabras cada quince minutos.",
+    "epoca": "Siglo XIX",
+    "explicacion": "Lo cuenta en su *Autobiografía*. Le pagaba a un viejo mozo 5 libras al año extra para que lo despertara con café, y dice que nunca llegó tarde. Escribía unas tres horas antes de ir a la oficina y así producía más de diez páginas de novela al día.\n\nLa idea detrás no es la inspiración, es la medida. Un objetivo pequeño y medible por cuarto de hora vuelve una tarea enorme en algo que se puede empezar ya. Trollope fue criticado después por hablar de su oficio como un artesano; él lo veía como la razón de su obra.",
+    "fecha": "2026-10-24",
+    "fuente": {
+     "nombre": "An Autobiography, de Anthony Trollope (Proyecto Gutenberg)",
+     "url": "https://gutenberg.org/ebooks/5978"
+    },
+    "materia": "Disciplina y hábitos",
+    "pilar": "caracter",
     "profundizar": {
      "titulo": "Trollope: An Autobiography (texto completo, inglés)",
      "url": "https://gutenberg.org/files/5978/5978-h/5978-h.htm"
@@ -422,7 +457,8 @@
      "pregunta": "¿Cuál era la regla de escritura de Anthony Trollope?",
      "respuesta": "Empezar a las 5:30 con el reloj enfrente y escribir 250 palabras cada cuarto de hora, unas tres horas al día."
     },
-    "fecha": "2026-10-24"
+    "titulo": "250 palabras cada cuarto de hora",
+    "wiki": "Prosa victoriana"
    },
    {
     "claves": [
@@ -499,17 +535,6 @@
   ],
   "El cosmos": [
    {
-    "materia": "El cosmos",
-    "pilar": "futuro",
-    "epoca": "Hoy",
-    "titulo": "En Venus, el día dura más que el año",
-    "dato": "Venus tarda unos 243 días terrestres en dar una vuelta sobre su eje, pero solo unos 225 en dar la vuelta al Sol. Y gira al revés que casi todos los planetas.",
-    "explicacion": "Las nubes de Venus impiden ver su superficie, así que su rotación se midió con radar, rebotando señales desde la Tierra. Un estudio con datos de 1988 a 2017, con radiotelescopios como Arecibo y Green Bank, la calculó en 243 días y unos 30 minutos. Y ni siquiera es fija: la medición cambia unos minutos entre una observación y otra, quizá porque su atmósfera densa la frena y la empuja.\n\nGira en sentido [[retrógrado|Que rota en sentido contrario a su órbita: visto desde Venus, el Sol saldría por el oeste.]]: allí el Sol saldría por el oeste. Saber exactamente cuánto dura su día no es una curiosidad: sin ese dato, una sonda no puede planear dónde aterrizar.",
-    "fuente": {
-     "nombre": "Astronomy: The length of a day on Venus keeps changing",
-     "url": "https://www.astronomy.com/science/the-length-of-a-day-on-venus-keeps-changing/"
-    },
-    "wiki": "Venus (planeta)",
     "claves": [
      {
       "nombre": "Atmósfera de Venus",
@@ -522,11 +547,22 @@
       "wiki": "Movimientos retrógrado y prógrado"
      }
     ],
+    "dato": "Venus tarda unos 243 días terrestres en dar una vuelta sobre su eje, pero solo unos 225 en dar la vuelta al Sol. Y gira al revés que casi todos los planetas.",
+    "epoca": "Hoy",
+    "explicacion": "Las nubes de Venus impiden ver su superficie, así que su rotación se midió con radar, rebotando señales desde la Tierra. Un estudio con datos de 1988 a 2017, con radiotelescopios como Arecibo y Green Bank, la calculó en 243 días y unos 30 minutos. Y ni siquiera es fija: la medición cambia unos minutos entre una observación y otra, quizá porque su atmósfera densa la frena y la empuja.\n\nGira en sentido [[retrógrado|Que rota en sentido contrario a su órbita: visto desde Venus, el Sol saldría por el oeste.]]: allí el Sol saldría por el oeste. Saber exactamente cuánto dura su día no es una curiosidad: sin ese dato, una sonda no puede planear dónde aterrizar.",
+    "fecha": "2026-10-24",
+    "fuente": {
+     "nombre": "Astronomy: The length of a day on Venus keeps changing",
+     "url": "https://www.astronomy.com/science/the-length-of-a-day-on-venus-keeps-changing/"
+    },
+    "materia": "El cosmos",
+    "pilar": "futuro",
     "repaso": {
      "pregunta": "¿Qué dura más en Venus, el día o el año?",
      "respuesta": "El día: unos 243 días terrestres en girar sobre su eje, contra unos 225 en dar la vuelta al Sol."
     },
-    "fecha": "2026-10-24"
+    "titulo": "En Venus, el día dura más que el año",
+    "wiki": "Venus (planeta)"
    },
    {
     "claves": [
@@ -634,6 +670,42 @@
   ],
   "Filosofía para vivir": [
    {
+    "materia": "Filosofía para vivir",
+    "pilar": "mente",
+    "epoca": "c. 60 d. C.",
+    "titulo": "El estoico que prestaba a interés",
+    "dato": "Séneca escribió que el sabio no debe depender de la riqueza, y fue uno de los hombres más ricos de Roma. Según el historiador Dion Casio, había prestado 40 millones de sestercios a los britanos y luego exigió el pago de golpe.",
+    "explicacion": "Dion Casio cuenta ese préstamo entre las causas de la rebelión de la reina Boudica, en el año 60 o 61. Conviene leerlo con cuidado: escribió más de un siglo después y no simpatizaba con Séneca. Los historiadores discuten cuánto pesó la deuda frente a los abusos de los oficiales romanos.\n\nLa contradicción ya se la echaban en cara en vida. Séneca respondió en *De la vida feliz*: en el sabio, las riquezas sirven; en el necio, mandan. Mañana empezamos sus *Cartas a Lucilio*, y vale la pena leerlas sabiendo quién las escribía.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_02.jpg?width=900",
+     "alt": "Herma doble con los rostros de Sócrates y Séneca",
+     "pie": "Herma doble de Sócrates y Séneca, Antikensammlung de Berlín",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Universidad de Warwick: Dion Casio sobre Boudica (Historia romana, LXII, 2)",
+     "url": "https://warwick.ac.uk/fac/arts/classics/warwickclassicsnetwork/romancoventry/resources/boudica/sources/cassiusdio"
+    },
+    "wiki": "Séneca",
+    "claves": [
+     {
+      "nombre": "Revuelta de Boudica",
+      "quien": "La rebelión de los britanos contra Roma en 60–61 d. C.",
+      "wiki": "Revuelta de Boudica"
+     },
+     {
+      "nombre": "Nerón",
+      "quien": "El emperador al que Séneca sirvió como tutor y consejero.",
+      "wiki": "Nerón"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué cuenta Dion Casio sobre Séneca y los britanos?",
+     "respuesta": "Que les prestó 40 millones de sestercios y luego exigió el pago de golpe, una de las causas que él da para la rebelión de Boudica."
+    },
+    "fecha": "2026-10-25"
+   },
+   {
     "claves": [
      {
       "nombre": "Estoicismo",
@@ -671,17 +743,6 @@
   ],
   "Gastronomía, vino y destilados": [
    {
-    "materia": "Gastronomía, vino y destilados",
-    "pilar": "gusto",
-    "epoca": "1994",
-    "titulo": "Chile vendió Carménère como Merlot durante un siglo",
-    "dato": "En noviembre de 1994, el ampelógrafo francés Jean-Michel Boursiquot caminaba por un viñedo del valle del Maipo y notó que muchas plantas que Chile llamaba Merlot eran otra uva: Carménère, una variedad de Burdeos que se daba por casi extinta en Europa.",
-    "explicacion": "El Carménère se usaba en los grandes vinos del Médoc. La [[filoxera|Insecto que ataca las raíces de la vid y que devastó los viñedos europeos en el siglo XIX.]] y su fragilidad casi la borraron de Francia hacia la década de 1870. Pero en los años 1850 ya habían llegado esquejes a Chile, mezclados con Merlot. Boursiquot la reconoció por un detalle botánico: sus estambres retorcidos después de la floración.\n\nChile la registró oficialmente en 1998 y hoy es su uva emblema. Venderla no fue fácil al principio: había que explicarle al mundo un nombre nuevo. Es un caso de marca: lo que parecía un error de etiqueta se convirtió en el origen distintivo de un país.",
-    "fuente": {
-     "nombre": "Berry Bros. & Rudd: The fuddled identity of Carménère",
-     "url": "https://blog.bbr.com/2016/11/18/fuddled-identity-carmenere"
-    },
-    "wiki": "Carmenere",
     "claves": [
      {
       "nombre": "Vino de Chile",
@@ -694,11 +755,22 @@
       "wiki": "Vinos del nuevo mundo"
      }
     ],
+    "dato": "En noviembre de 1994, el ampelógrafo francés Jean-Michel Boursiquot caminaba por un viñedo del valle del Maipo y notó que muchas plantas que Chile llamaba Merlot eran otra uva: Carménère, una variedad de Burdeos que se daba por casi extinta en Europa.",
+    "epoca": "1994",
+    "explicacion": "El Carménère se usaba en los grandes vinos del Médoc. La [[filoxera|Insecto que ataca las raíces de la vid y que devastó los viñedos europeos en el siglo XIX.]] y su fragilidad casi la borraron de Francia hacia la década de 1870. Pero en los años 1850 ya habían llegado esquejes a Chile, mezclados con Merlot. Boursiquot la reconoció por un detalle botánico: sus estambres retorcidos después de la floración.\n\nChile la registró oficialmente en 1998 y hoy es su uva emblema. Venderla no fue fácil al principio: había que explicarle al mundo un nombre nuevo. Es un caso de marca: lo que parecía un error de etiqueta se convirtió en el origen distintivo de un país.",
+    "fecha": "2026-10-24",
+    "fuente": {
+     "nombre": "Berry Bros. & Rudd: The fuddled identity of Carménère",
+     "url": "https://blog.bbr.com/2016/11/18/fuddled-identity-carmenere"
+    },
+    "materia": "Gastronomía, vino y destilados",
+    "pilar": "gusto",
     "repaso": {
      "pregunta": "¿Cómo se descubrió el Carménère en Chile y con qué uva se confundía?",
      "respuesta": "En 1994, Jean-Michel Boursiquot la identificó en el Maipo por sus estambres retorcidos. Se vendía como Merlot."
     },
-    "fecha": "2026-10-24"
+    "titulo": "Chile vendió Carménère como Merlot durante un siglo",
+    "wiki": "Carmenere"
    },
    {
     "claves": [
@@ -738,6 +810,42 @@
   ],
   "Historia y geopolítica": [
    {
+    "materia": "Historia y geopolítica",
+    "pilar": "mundo",
+    "epoca": "1918",
+    "titulo": "Seis horas de una guerra que ya había terminado",
+    "dato": "El armisticio de la Primera Guerra Mundial se firmó poco después de las 5 de la mañana del 11 de noviembre de 1918, pero entraba en vigor a las 11. Ese día murieron al menos 2,738 soldados en el frente occidental, la mayoría en esas seis horas.",
+    "explicacion": "La cifra es del historiador Joseph Persico. A los comandantes se les ordenó seguir combatiendo hasta las 11, y algunos lanzaron ataques por decisión propia. Los Aliados también querían mostrar que presionarían hasta el último minuto. El estadounidense Henry Gunther murió a las 10:59, al cargar contra una ametralladora alemana.\n\nLa hora de entrada en vigor se fijó en parte para que la noticia llegara a todo el frente. Es una lección dura sobre la distancia entre firmar algo y que surta efecto. En contratos y negociaciones, la fecha de [[entrada en vigor|Momento a partir del cual un acuerdo empieza a obligar a las partes.]] importa tanto como la firma.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Armisticetrain.jpg?width=900",
+     "alt": "Representantes aliados frente al vagón donde se firmó el armisticio de 1918",
+     "pie": "El vagón de Compiègne donde se firmó el armisticio, 11 de noviembre de 1918",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "History.com: The last American killed in World War I",
+     "url": "https://www.history.com/.amp/news/world-war-i-armistice-last-american-death"
+    },
+    "wiki": "Armisticio del 11 de noviembre de 1918",
+    "claves": [
+     {
+      "nombre": "Vagón del armisticio",
+      "quien": "El coche de tren donde se firmó el fin de los combates.",
+      "wiki": "Vagón del armisticio"
+     },
+     {
+      "nombre": "Bosque de Compiègne",
+      "quien": "El bosque al norte de París donde estaba el vagón.",
+      "wiki": "Bosque de Compiègne"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Por qué murieron miles de soldados el último día de la Primera Guerra Mundial?",
+     "respuesta": "El armisticio se firmó hacia las 5 a. m., pero entraba en vigor a las 11, y se siguió combatiendo hasta esa hora."
+    },
+    "fecha": "2026-10-25"
+   },
+   {
     "claves": [
      {
       "nombre": "Sultanato de Zanzíbar",
@@ -775,6 +883,42 @@
   ],
   "IA y el futuro": [
    {
+    "materia": "IA y el futuro",
+    "pilar": "futuro",
+    "epoca": "1966",
+    "titulo": "La secretaria que pidió quedarse a solas con la máquina",
+    "dato": "Entre 1964 y 1966, Joseph Weizenbaum creó en el MIT a ELIZA, un programa que imitaba a un terapeuta devolviéndote tus frases como preguntas. Su secretaria, que lo vio programarla durante meses, le pidió que saliera de la sala para hablar con ELIZA en privado.",
+    "explicacion": "Ella sabía que era un programa simple. Aun así, quiso intimidad para confiarle cosas. A Weizenbaum le pareció un golpe profundo: entendió que la gente atribuye comprensión a una máquina que no entiende nada. Lo llamó el «efecto ELIZA».\n\nEn 1976 publicó *Computer Power and Human Reason*, una crítica a confiar el juicio humano a las computadoras. Medio siglo después, con los asistentes de IA actuales, su advertencia sigue vigente: que algo responda con fluidez no significa que entienda lo que te pasa.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ELIZA_conversation.png?width=900",
+     "alt": "Pantalla con una conversación con el programa ELIZA",
+     "pie": "Una conversación con ELIZA, el primer bot conversacional",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "IEEE Spectrum: Why people demanded privacy to confide in the world's first chatbot",
+     "url": "https://spectrum.ieee.org/why-people-demanded-privacy-to-confide-in-the-worlds-first-chatbot"
+    },
+    "wiki": "Bot conversacional",
+    "claves": [
+     {
+      "nombre": "Prueba de Turing",
+      "quien": "El test clásico para saber si una máquina parece pensar.",
+      "wiki": "Prueba de Turing"
+     },
+     {
+      "nombre": "Historia de la inteligencia artificial",
+      "quien": "El camino de ELIZA a los asistentes actuales.",
+      "wiki": "Historia de la inteligencia artificial"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué es el «efecto ELIZA»?",
+     "respuesta": "La tendencia a atribuirle comprensión a una máquina que solo imita la conversación. Weizenbaum lo nombró tras ver a su secretaria confiar en ELIZA."
+    },
+    "fecha": "2026-10-25"
+   },
+   {
     "claves": [
      {
       "nombre": "Garry Kasparov",
@@ -807,17 +951,6 @@
   ],
   "Inversión y finanzas personales": [
    {
-    "materia": "Inversión y finanzas personales",
-    "pilar": "patrimonio",
-    "epoca": "1494",
-    "titulo": "La regla del 72 tiene más de 500 años",
-    "dato": "El atajo para saber en cuántos años se duplica tu dinero, dividir 72 entre la tasa de interés, ya aparece en un libro de 1494: la *Summa de arithmetica* del fraile italiano Luca Pacioli.",
-    "explicacion": "Pacioli escribe: «ten por regla 72, de memoria, y divídelo siempre entre el interés». No explica de dónde sale, y por eso se cree que la regla es aún más antigua. Al 8% anual, el dinero se duplica en unos 9 años; al 6%, en unos 12.\n\n¿Por qué 72? La cifra exacta para interés continuo es 69.3, pero 72 se divide fácil entre 2, 3, 4, 6, 8, 9 y 12, y funciona muy bien con tasas de entre 6% y 10%. Sirve igual al revés: con una inflación de 4%, los precios se duplican en unos 18 años. Pacioli, por cierto, es el mismo que difundió la contabilidad por partida doble.",
-    "fuente": {
-     "nombre": "Wikipedia (inglés): Rule of 72",
-     "url": "https://en.wikipedia.org/wiki/Rule_of_72"
-    },
-    "wiki": "Interés compuesto",
     "claves": [
      {
       "nombre": "Luca Pacioli",
@@ -830,11 +963,22 @@
       "wiki": "Partida doble"
      }
     ],
+    "dato": "El atajo para saber en cuántos años se duplica tu dinero, dividir 72 entre la tasa de interés, ya aparece en un libro de 1494: la *Summa de arithmetica* del fraile italiano Luca Pacioli.",
+    "epoca": "1494",
+    "explicacion": "Pacioli escribe: «ten por regla 72, de memoria, y divídelo siempre entre el interés». No explica de dónde sale, y por eso se cree que la regla es aún más antigua. Al 8% anual, el dinero se duplica en unos 9 años; al 6%, en unos 12.\n\n¿Por qué 72? La cifra exacta para interés continuo es 69.3, pero 72 se divide fácil entre 2, 3, 4, 6, 8, 9 y 12, y funciona muy bien con tasas de entre 6% y 10%. Sirve igual al revés: con una inflación de 4%, los precios se duplican en unos 18 años. Pacioli, por cierto, es el mismo que difundió la contabilidad por partida doble.",
+    "fecha": "2026-10-24",
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Rule of 72",
+     "url": "https://en.wikipedia.org/wiki/Rule_of_72"
+    },
+    "materia": "Inversión y finanzas personales",
+    "pilar": "patrimonio",
     "repaso": {
      "pregunta": "¿Cómo funciona la regla del 72 y en qué libro aparece por primera vez?",
      "respuesta": "Divides 72 entre la tasa de interés para saber en cuántos años se duplica el dinero. Aparece en la Summa de arithmetica de Luca Pacioli (1494)."
     },
-    "fecha": "2026-10-24"
+    "titulo": "La regla del 72 tiene más de 500 años",
+    "wiki": "Interés compuesto"
    },
    {
     "claves": [
@@ -942,6 +1086,47 @@
   ],
   "Literatura y mitología": [
    {
+    "materia": "Literatura y mitología",
+    "pilar": "cultura",
+    "epoca": "1816",
+    "titulo": "Frankenstein nació de un volcán",
+    "dato": "En 1815 hizo erupción el Tambora, en Indonesia. Al año siguiente, Europa vivió «el año sin verano»: frío, niebla y lluvias. Encerrados junto al lago de Ginebra, Lord Byron retó a sus amigos a escribir una historia de fantasmas. Mary Shelley empezó *Frankenstein*.",
+    "explicacion": "El grupo estaba en Villa Diodati, la mansión que Byron rentaba junto al lago. Mary tenía 18 años cuando empezó la historia; el libro se publicó en 1818. Del mismo reto salió *El vampiro* de John Polidori, publicado en 1819, el primer relato de ficción con un vampiro como protagonista seductor.\n\nLa ceniza del volcán no solo cambió la literatura. Hubo cosechas perdidas durante años en Europa. Dos de los monstruos más famosos de la cultura moderna nacieron de una catástrofe climática al otro lado del mundo.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Frontispiece_to_Frankenstein_1831.jpg?width=900",
+     "alt": "Grabado del frontispicio de Frankenstein de 1831 con la criatura despertando",
+     "pie": "Frontispicio de la edición de 1831 de Frankenstein, de Theodor von Holst",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "History.com: The true story behind Frankenstein",
+     "url": "https://www.history.com/articles/frankenstein-true-story-mary-shelley"
+    },
+    "wiki": "Frankenstein o El moderno Prometeo",
+    "claves": [
+     {
+      "nombre": "Año sin verano",
+      "quien": "1816, el año en que la ceniza del Tambora enfrió el hemisferio norte.",
+      "wiki": "Año sin verano"
+     },
+     {
+      "nombre": "Lord Byron",
+      "quien": "El poeta que propuso el reto de las historias de fantasmas.",
+      "wiki": "Lord Byron"
+     },
+     {
+      "nombre": "Narrativa gótica",
+      "quien": "El género de terror y misterio al que pertenece Frankenstein.",
+      "wiki": "Narrativa gótica"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué tiene que ver un volcán con Frankenstein?",
+     "respuesta": "La erupción del Tambora (1815) causó el «año sin verano» de 1816; encerrados por el mal tiempo, Byron propuso escribir historias de fantasmas y Mary Shelley empezó Frankenstein."
+    },
+    "fecha": "2026-10-25"
+   },
+   {
     "claves": [
      {
       "nombre": "Miguel de Cervantes",
@@ -979,17 +1164,6 @@
   ],
   "Mente y decisiones": [
    {
-    "materia": "Mente y decisiones",
-    "pilar": "mente",
-    "epoca": "1990",
-    "titulo": "Diez mil cartas para decirle que estaba equivocada",
-    "dato": "En 1990, Marilyn vos Savant respondió en su columna que en el problema de las tres puertas conviene cambiar de puerta. Recibió unas 10,000 cartas, casi 1,000 de personas con doctorado, y la mayoría le decía que se equivocaba. Ella tenía razón.",
-    "explicacion": "El juego: eliges una de tres puertas; detrás de una hay un coche. El presentador, que sabe dónde está, abre otra puerta con una cabra. Si cambias, ganas 2 de cada 3 veces. Tu primera elección tenía 1/3 de acertar; el presentador, al abrir siempre una puerta perdedora, te regala información sobre las otras dos.\n\nEl matemático Paul Erdős no se convenció hasta ver una simulación por computadora. La lección: la intuición falla cuando alguien con información actúa frente a ti. En una negociación, lo que el otro decide no mostrarte también es un dato.",
-    "fuente": {
-     "nombre": "Wikipedia (inglés): Monty Hall problem",
-     "url": "https://en.wikipedia.org/wiki/Monty_Hall_problem"
-    },
-    "wiki": "Problema de Monty Hall",
     "claves": [
      {
       "nombre": "Marilyn vos Savant",
@@ -1002,11 +1176,22 @@
       "wiki": "Problema de los tres prisioneros"
      }
     ],
+    "dato": "En 1990, Marilyn vos Savant respondió en su columna que en el problema de las tres puertas conviene cambiar de puerta. Recibió unas 10,000 cartas, casi 1,000 de personas con doctorado, y la mayoría le decía que se equivocaba. Ella tenía razón.",
+    "epoca": "1990",
+    "explicacion": "El juego: eliges una de tres puertas; detrás de una hay un coche. El presentador, que sabe dónde está, abre otra puerta con una cabra. Si cambias, ganas 2 de cada 3 veces. Tu primera elección tenía 1/3 de acertar; el presentador, al abrir siempre una puerta perdedora, te regala información sobre las otras dos.\n\nEl matemático Paul Erdős no se convenció hasta ver una simulación por computadora. La lección: la intuición falla cuando alguien con información actúa frente a ti. En una negociación, lo que el otro decide no mostrarte también es un dato.",
+    "fecha": "2026-10-24",
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Monty Hall problem",
+     "url": "https://en.wikipedia.org/wiki/Monty_Hall_problem"
+    },
+    "materia": "Mente y decisiones",
+    "pilar": "mente",
     "repaso": {
      "pregunta": "En el problema de Monty Hall, ¿conviene cambiar de puerta y con qué probabilidad ganas?",
      "respuesta": "Sí. Si cambias, ganas 2 de cada 3 veces."
     },
-    "fecha": "2026-10-24"
+    "titulo": "Diez mil cartas para decirle que estaba equivocada",
+    "wiki": "Problema de Monty Hall"
    },
    {
     "claves": [
@@ -1108,6 +1293,42 @@
   ],
   "Negocios y estrategia": [
    {
+    "materia": "Negocios y estrategia",
+    "pilar": "patrimonio",
+    "epoca": "1889",
+    "titulo": "Nintendo probó con taxis y arroz instantáneo",
+    "dato": "Nintendo nació el 23 de septiembre de 1889 en Kioto, fabricando naipes *hanafuda*. En los años sesenta probó con una empresa de taxis, arroz instantáneo y una aspiradora. Todo fracasó. Lo que funcionó fueron los juguetes.",
+    "explicacion": "Fusajiro Yamauchi fundó la empresa para vender *hanafuda*, una baraja japonesa con flores. En 1958 firmó un acuerdo para poner personajes de Disney en naipes y en 1962 salió a bolsa. Las aventuras fuera del juego no prosperaron. El éxito llegó con Game & Watch, de Gunpei Yokoi, en 1980: 43.4 millones de unidades.\n\nCircula también que Nintendo tuvo «hoteles del amor». No hay pruebas: el dato parece venir de un libro de 1993. La lección real es otra: diversificar al azar casi nunca sale bien. Ganó cuando volvió a lo suyo, el juego.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nintendo_Hanafuda.jpg?width=900",
+     "alt": "Naipes hanafuda fabricados por Nintendo",
+     "pie": "Hanafuda de Nintendo: el negocio original de la empresa",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Wikipedia (inglés): History of Nintendo",
+     "url": "https://en.wikipedia.org/wiki/History_of_Nintendo"
+    },
+    "wiki": "Nintendo",
+    "claves": [
+     {
+      "nombre": "Game & Watch",
+      "quien": "La línea de consolas portátiles que dio a Nintendo su primer gran éxito electrónico.",
+      "wiki": "Game & Watch"
+     },
+     {
+      "nombre": "Juego de naipes",
+      "quien": "El origen del negocio: Nintendo empezó como fabricante de barajas.",
+      "wiki": "Juego de naipes"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿A qué se dedicaba Nintendo al nacer en 1889 y qué negocios le fallaron en los sesenta?",
+     "respuesta": "Hacía naipes hanafuda. En los sesenta fracasaron sus taxis, su arroz instantáneo y una aspiradora; triunfó con los juguetes."
+    },
+    "fecha": "2026-10-25"
+   },
+   {
     "claves": [
      {
       "nombre": "Henry Ford",
@@ -1139,6 +1360,42 @@
    }
   ],
   "Oficios del lujo y estilo": [
+   {
+    "materia": "Oficios del lujo y estilo",
+    "pilar": "gusto",
+    "epoca": "1868",
+    "titulo": "El primer reloj de pulsera de Patek fue para una condesa",
+    "dato": "Patek Philippe hizo en 1868 su primer reloj de pulsera. Se vendió en 1876 a una condesa húngara, Koscowicz. Durante décadas, el reloj de pulsera se vio como una joya de mujer; el caballero llevaba reloj de bolsillo.",
+    "explicacion": "La casa nació en Ginebra el 1 de mayo de 1839, fundada por el polaco Antoni Patek y Franciszek Czapek. Tomó el nombre Patek Philippe en 1851, tras la llegada del relojero francés Adrien Philippe.\n\nEl reloj de pulsera masculino se generalizó sobre todo con la Primera Guerra Mundial: en el frente no había tiempo para sacar un reloj del bolsillo. Lo que hoy es el símbolo del estilo masculino empezó como un accesorio femenino. El gusto cambia cuando cambia la vida.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Patek_Philippe_Museum.JPG?width=900",
+     "alt": "Fachada del Museo Patek Philippe en Ginebra",
+     "pie": "Museo Patek Philippe, Ginebra",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Antoni Patek",
+     "url": "https://en.wikipedia.org/wiki/Antoni_Patek"
+    },
+    "wiki": "Patek Philippe & Co.",
+    "claves": [
+     {
+      "nombre": "Historia de la relojería",
+      "quien": "Del reloj de bolsillo al de pulsera.",
+      "wiki": "Historia de la relojería"
+     },
+     {
+      "nombre": "Complicación (relojería)",
+      "quien": "Las funciones extra que hicieron famosa a Patek Philippe.",
+      "wiki": "Complicación (relojería)"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Para quién fue el primer reloj de pulsera de Patek Philippe?",
+     "respuesta": "Hecho en 1868, se vendió en 1876 a una condesa húngara, Koscowicz. El reloj de pulsera se consideraba una joya femenina."
+    },
+    "fecha": "2026-10-25"
+   },
    {
     "claves": [
      {
@@ -1210,6 +1467,36 @@
   ],
   "Relaciones y vida social": [
    {
+    "materia": "Relaciones y vida social",
+    "pilar": "caracter",
+    "epoca": "2021",
+    "titulo": "El número 150 quizá no existe",
+    "dato": "Se repite que solo podemos mantener unas 150 relaciones estables: el «número de Dunbar». En 2021, un equipo de la Universidad de Estocolmo rehízo el cálculo con métodos modernos y el rango posible fue de 2 a 520 personas.",
+    "explicacion": "El antropólogo británico Robin Dunbar propuso la cifra en los años noventa. La sacó de una correlación en primates no humanos: a mayor [[neocorteza|La capa externa del cerebro, ligada al pensamiento complejo y la vida social.]], grupos más grandes. Luego la extrapoló a los humanos. Patrik Lindenfors, Andreas Wartel y Johan Lind repitieron el análisis con datos actualizados en *Biology Letters*. Su conclusión: con los métodos disponibles no se puede estimar el número con precisión.\n\nNo significa que tu capacidad social sea infinita. Significa que el 150 no es una ley de la naturaleza. Según Lind, la cultura influye y el cerebro puede entrenarse para manejar más contactos.",
+    "fuente": {
+     "nombre": "Universidad de Estocolmo: New study deconstructs Dunbar's number (2021)",
+     "url": "https://www.su.se/english/news/articles/2021-05-05-new-study-deconstructs-dunbars-number---yes-you-can-have-more-than-150-friends"
+    },
+    "wiki": "Número de Dunbar",
+    "claves": [
+     {
+      "nombre": "Robin Dunbar",
+      "quien": "Antropólogo británico que propuso el límite de unas 150 relaciones.",
+      "wiki": "Robin Ian MacDonald Dunbar"
+     },
+     {
+      "nombre": "Red social",
+      "quien": "El concepto de estructura de relaciones que estudia esta discusión.",
+      "wiki": "Red social"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué encontró el estudio de 2021 sobre el número de Dunbar?",
+     "respuesta": "Que al repetir el cálculo con métodos modernos el rango iba de 2 a 520 personas: no se puede fijar el 150 con precisión."
+    },
+    "fecha": "2026-10-25"
+   },
+   {
     "claves": [
      {
       "nombre": "Robert Waldinger",
@@ -1242,17 +1529,6 @@
   ],
   "Religiones y grandes textos": [
    {
-    "materia": "Religiones y grandes textos",
-    "pilar": "cultura",
-    "epoca": "2015",
-    "titulo": "Un Corán guardado en Birmingham",
-    "dato": "En 2015, la Universidad de Birmingham anunció que dos hojas de un Corán de su colección se escribieron en pergamino fechado entre los años 568 y 645. Mahoma, según la cronología tradicional, vivió entre 570 y 632.",
-    "explicacion": "La prueba de radiocarbono, hecha en la Universidad de Oxford, dio ese rango con 95.4% de probabilidad. Las hojas llevaban muchos años encuadernadas por error junto con otro manuscrito parecido, en la Colección Mingana. Están escritas en [[escritura hiyazí|Una de las formas más antiguas de la escritura árabe, anterior a la caligrafía cúfica.]].\n\nOjo con lo que significa: el radiocarbono fecha la piel del animal, no el momento en que se escribió el texto, que pudo ser algo posterior. Aun así, lo coloca entre los fragmentos del Corán más antiguos que se conocen y muy cerca de la vida del profeta.",
-    "fuente": {
-     "nombre": "Universidad de Birmingham: Birmingham Qur'an manuscript dated among the oldest in the world (2015)",
-     "url": "https://www.birmingham.ac.uk/news-archive/2015/birmingham-quran-manuscript-dated-among-the-oldest-in-the-world"
-    },
-    "wiki": "Corán",
     "claves": [
      {
       "nombre": "Escritura hiyazí",
@@ -1265,11 +1541,22 @@
       "wiki": "Estudios coránicos"
      }
     ],
+    "dato": "En 2015, la Universidad de Birmingham anunció que dos hojas de un Corán de su colección se escribieron en pergamino fechado entre los años 568 y 645. Mahoma, según la cronología tradicional, vivió entre 570 y 632.",
+    "epoca": "2015",
+    "explicacion": "La prueba de radiocarbono, hecha en la Universidad de Oxford, dio ese rango con 95.4% de probabilidad. Las hojas llevaban muchos años encuadernadas por error junto con otro manuscrito parecido, en la Colección Mingana. Están escritas en [[escritura hiyazí|Una de las formas más antiguas de la escritura árabe, anterior a la caligrafía cúfica.]].\n\nOjo con lo que significa: el radiocarbono fecha la piel del animal, no el momento en que se escribió el texto, que pudo ser algo posterior. Aun así, lo coloca entre los fragmentos del Corán más antiguos que se conocen y muy cerca de la vida del profeta.",
+    "fecha": "2026-10-24",
+    "fuente": {
+     "nombre": "Universidad de Birmingham: Birmingham Qur'an manuscript dated among the oldest in the world (2015)",
+     "url": "https://www.birmingham.ac.uk/news-archive/2015/birmingham-quran-manuscript-dated-among-the-oldest-in-the-world"
+    },
+    "materia": "Religiones y grandes textos",
+    "pilar": "cultura",
     "repaso": {
      "pregunta": "¿Entre qué años se fechó el pergamino del Corán de Birmingham?",
      "respuesta": "Entre 568 y 645, con 95.4% de probabilidad. Mahoma vivió entre 570 y 632, según la cronología tradicional."
     },
-    "fecha": "2026-10-24"
+    "titulo": "Un Corán guardado en Birmingham",
+    "wiki": "Corán"
    },
    {
     "claves": [
@@ -1377,17 +1664,6 @@
   ],
   "Salud y longevidad": [
    {
-    "materia": "Salud y longevidad",
-    "pilar": "cuerpo",
-    "epoca": "1984",
-    "titulo": "El médico que se bebió una bacteria",
-    "dato": "En 1984, el médico australiano Barry Marshall se tomó un cultivo de *Helicobacter pylori* para probar que esa bacteria causaba gastritis. Cinco días después empezó a vomitar. En 2005 ganó el Nobel de Medicina con Robin Warren.",
-    "explicacion": "Durante décadas se creyó que las úlceras de estómago venían del estrés y del ácido, y que ninguna bacteria sobrevivía en el estómago. Marshall llevaba dos años discutiendo con escépticos y no tenía un animal de laboratorio en el que demostrarlo. Se hizo una endoscopia, comprobó que estaba sano y, unas tres semanas después, bebió la bacteria. La nueva endoscopia mostró una gastritis activa severa.\n\nGracias a eso, hoy muchas úlceras se tratan con antibióticos. No es un ejemplo para copiar: es un recordatorio de que el consenso puede estar equivocado y de que la evidencia, no la autoridad, es la que lo cambia.",
-    "fuente": {
-     "nombre": "Marshall y Adams: Helicobacter pylori, a Nobel pursuit? (Canadian Journal of Gastroenterology, 2008)",
-     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2661189"
-    },
-    "wiki": "Helicobacter pylori",
     "claves": [
      {
       "nombre": "Autoexperimentación en ciencia",
@@ -1400,11 +1676,22 @@
       "wiki": "Bacteriología"
      }
     ],
+    "dato": "En 1984, el médico australiano Barry Marshall se tomó un cultivo de *Helicobacter pylori* para probar que esa bacteria causaba gastritis. Cinco días después empezó a vomitar. En 2005 ganó el Nobel de Medicina con Robin Warren.",
+    "epoca": "1984",
+    "explicacion": "Durante décadas se creyó que las úlceras de estómago venían del estrés y del ácido, y que ninguna bacteria sobrevivía en el estómago. Marshall llevaba dos años discutiendo con escépticos y no tenía un animal de laboratorio en el que demostrarlo. Se hizo una endoscopia, comprobó que estaba sano y, unas tres semanas después, bebió la bacteria. La nueva endoscopia mostró una gastritis activa severa.\n\nGracias a eso, hoy muchas úlceras se tratan con antibióticos. No es un ejemplo para copiar: es un recordatorio de que el consenso puede estar equivocado y de que la evidencia, no la autoridad, es la que lo cambia.",
+    "fecha": "2026-10-24",
+    "fuente": {
+     "nombre": "Marshall y Adams: Helicobacter pylori, a Nobel pursuit? (Canadian Journal of Gastroenterology, 2008)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2661189"
+    },
+    "materia": "Salud y longevidad",
+    "pilar": "cuerpo",
     "repaso": {
      "pregunta": "¿Qué hizo Barry Marshall en 1984 y qué demostró?",
      "respuesta": "Se bebió un cultivo de Helicobacter pylori y desarrolló gastritis: demostró que la bacteria causa enfermedad en el estómago. Nobel en 2005."
     },
-    "fecha": "2026-10-24"
+    "titulo": "El médico que se bebió una bacteria",
+    "wiki": "Helicobacter pylori"
    },
    {
     "claves": [

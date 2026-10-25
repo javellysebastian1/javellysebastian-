@@ -1,0 +1,885 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-10-25",
+ "numero": 6,
+ "fecha": "2026-10-25",
+ "disponibleDesde": "2026-10-25T08:00:00-06:00",
+ "titulo": "Síntesis: tu manual para decidir bajo presión",
+ "temporada": {
+  "id": "t01",
+  "numero": 1,
+  "titulo": "Decisiones bajo presión",
+  "episodio": 6,
+  "totalEpisodios": 6
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/US_Airways_Flight_1549_(N106US)_after_crashing_into_the_Hudson_River_(crop_2).jpg?width=900",
+  "alt": "El avión del vuelo 1549 de US Airways flotando en el río Hudson con pasajeros sobre las alas",
+  "pie": "15 de enero de 2009: el vuelo 1549 en el Hudson. Las 155 personas a bordo sobrevivieron",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "pregunta": "¿Qué dos cosas hace una buena decisión bajo presión, según «el puente de plata»?",
+   "respuesta": "Compra tiempo con una acción reversible y le deja al otro una salida que pueda aceptar sin perder la cara.",
+   "origen": "Edición #1"
+  },
+  {
+   "pregunta": "¿Cuál es la primera pregunta de «el inventario antes que la solución»?",
+   "respuesta": "«¿Qué tengo que todavía funciona?», no «¿qué me falta?». Así resolvió Houston el filtro del Apolo 13.",
+   "origen": "Edición #2"
+  },
+  {
+   "pregunta": "¿Qué pregunta resolvió el dilema de James Burke en el caso Tylenol?",
+   "respuesta": "Cuál de los dos errores no tenía vuelta atrás. Retirar de más costaba dinero; retirar de menos podía costar vidas y la marca.",
+   "origen": "Edición #3"
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n1",
+   "ambito": "mexico",
+   "ambitoTexto": "México y Jalisco",
+   "fecha": "2026-10-24",
+   "titular": "Transportistas de carga anuncian un paro nacional indefinido desde este lunes 26; Jalisco se suma",
+   "quePaso": "La Cámara Nacional del Autotransporte de Carga (**Canacar**), que preside Augusto Ramos Melo, anunció un paro nacional **por tiempo indefinido** a partir del lunes 26 de octubre. Según *El Informador*, la delegación Jalisco, encabezada por Daniel Flores, confirmó que los transportistas del estado se suman. También participan HAMOTAC, FEMATRAC e INDECO. La Alianza Mexicana de Transportistas (AMTAC) dijo que no se unirá.\n\nLas demandas: seguridad en carreteras frente a robos, extorsión y [[cobro de piso|Pago forzado que exige un grupo criminal a cambio de dejar operar a un negocio o a un trabajador.]], mejores carreteras, costos de grúas, revisión de detenciones que consideran injustas y más cobertura de seguros. Infobae añade un punto fiscal: rechazan que la Ley de Ingresos 2027 baje de 300 a 250 millones de pesos el umbral de ingresos anuales para acreditar contra el ISR hasta 50% de lo pagado en casetas.\n\nEl sábado 24, la Secretaría de Gobernación, que encabeza Rosa Icela Rodríguez, ofreció una «mesa permanente de trabajo» y pidió evitar acciones que afecten a la ciudadanía. Ramos Melo lo resumió así: «No queremos detener a México. Queremos que México nos escuche».",
+   "aMiQue": "Si distribuyes bebidas o medicamentos desde Guadalajara, el lunes y los días siguientes pueden venir con retrasos, y nadie sabe cuántos días durará. Hoy domingo es buen momento para tres cosas: adelantar los envíos críticos, revisar cuánto inventario tiene cada punto de venta o farmacia para aguantar unos días, y avisar a tus clientes antes de que pregunten. Si el paro se alarga, el flete encarecido termina en el precio.",
+   "contexto": "**Hecho:** la Asociación Nacional Transportista registra de 30 a 40 robos diarios a operadores en carreteras del país, más del 70% con violencia. Estado de México, Puebla y Guanajuato concentran casi la mitad.\n\n**Interpretación:** HAMOTAC calcula pérdidas de unos 21,500 millones de pesos diarios por el paro. Es la estimación de una de las partes, y la propia nota de Infobae da dos cifras distintas.\n\n**Pendiente:** hasta el sábado no se habían anunciado puntos de bloqueo en Jalisco.",
+   "queVigilar": "Si hay bloqueos en las salidas de Guadalajara hacia la Ciudad de México, Manzanillo y el Bajío; si la mesa con Gobernación logra acuerdos el mismo lunes, y si otras cámaras se suman o se bajan.",
+   "fuentes": [
+    {
+     "nombre": "El Informador: Jalisco participará en paro nacional de transportistas el próximo lunes",
+     "url": "https://www.informador.mx/jalisco/jalisco-participara-en-paro-nacional-de-transportistas-el-proximo-lunes-20261024-0088.html"
+    },
+    {
+     "nombre": "Infobae: Segob ofrece diálogo a transportistas ante paro indefinido",
+     "url": "https://www.infobae.com/mexico/2026/10/24/segob-ofrece-dialogo-a-transportistas-ante-paro-indefinido-programado-para-el-proximo-26-de-octubre/"
+    },
+    {
+     "nombre": "Infobae: Paro nacional el 26 de octubre por robos y extorsiones en carreteras",
+     "url": "https://www.infobae.com/mexico/2026/10/23/paro-nacional-el-26-de-octubre-transportistas-frenan-labores-en-protesta-por-robos-y-extorsiones-en-carreteras/"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo · Francia",
+   "fecha": "2026-10-24",
+   "titular": "Francia: los sindicatos salieron de Matignon sin medidas y van a una huelga general el 5 de noviembre",
+   "quePaso": "El miércoles 21 de octubre, siete sindicatos (CFDT, CGT, FO, CFE-CGC, CFTC, Unsa y FSU) se reunieron unas dos horas y media con el primer ministro **Sébastien Lecornu**. Salieron decepcionados. «El gobierno no nos anunció ninguna medida», dijo Sophie Binet, líder de la CGT. Cyril Chabanier, de la CFTC, matizó: el gobierno abrió la puerta a discutir un aumento del salario mínimo.\n\nLos sindicatos mantienen la convocatoria de huelga del **5 de noviembre**, en el sector público y en el privado. La CGT convocó además a marchar el sábado 24, y Solidaires llama también al 31 de octubre. Detrás está el costo de vida: la CFDT pide reabrir las negociaciones salariales con un aumento de 100 euros al salario mínimo, hoy de 1,477 euros netos.\n\nEl antecedente pesa. Las protestas del 17 de octubre terminaron en disturbios y saqueos en varias ciudades. Según Basta!, se movilizaron unos 60,000 policías y hubo más de 2,500 detenidos.",
+   "aMiQue": "Francia es el gran laboratorio del consumo de gusto, y hoy su consumidor siente que el dinero no alcanza. Cuando eso pasa, el gasto se vuelve más selectivo: se compra menos, pero se exige más. Es la misma pregunta que debe hacerse una marca premium en México cuando aprieta el bolsillo. Y si viajas a Francia en noviembre, el 5 puede venir con trenes y vuelos afectados.",
+   "contexto": "**Hecho:** estudiantes de bachillerato y universitarios llevan semanas movilizados; piden más presupuesto y eliminar Parcoursup, la plataforma de admisión a la universidad. El ministro de Educación, Édouard Geffray, prometió primeras medidas.\n\n**Interpretación:** el gobierno atribuye parte de la violencia a una supuesta campaña de desestabilización de la extrema izquierda. Los sindicatos lo rechazan.\n\n**Pendiente:** si Lecornu concreta el aumento al salario mínimo antes del 5 de noviembre.",
+   "queVigilar": "La reunión de Educación con los sindicatos el lunes 26, la marcha del 31 de octubre y el tamaño real de la huelga del 5 de noviembre.",
+   "fuentes": [
+    {
+     "nombre": "Euronews: Disappointed after meeting, French unions call for 5 November action",
+     "url": "https://www.euronews.com/2026/10/21/disappointed-after-meeting-french-unions-call-for-5-november-action"
+    },
+    {
+     "nombre": "Basta!: Appel à manifester le 24 octobre et à généraliser la grève du 5 novembre",
+     "url": "https://basta.media/Appel-greve-generale-5-novembre-manifestation-24-octobre-intersyndicale-refuse-de-se-laisser-intimider"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "Dos motores muertos, 155 personas y menos de cuatro minutos. Las simulaciones dijeron que podía volver al aeropuerto. ¿Se equivocó al no hacerlo?",
+    "contexto": "Jueves 15 de enero de 2009, 15:27 horas. El vuelo 1549 de US Airways acaba de despegar de LaGuardia, en Nueva York, rumbo a Charlotte. A 2,818 pies de altura, unos 860 metros, choca con una parvada de gansos. Los dos motores pierden casi todo el empuje. Al mando va el capitán **Chesley «Sully» Sullenberger**; a su lado, el copiloto **Jeffrey Skiles**. Sully decide amerizar en el río Hudson. Todos sobreviven.\n\nMeses después, la Junta Nacional de Seguridad en el Transporte de Estados Unidos (NTSB) repitió el vuelo en simuladores. En 7 de 13 intentos, el avión sí logró regresar a LaGuardia.",
+    "pregunta": "Si siete pilotos de simulador llegaron a la pista, ¿por qué el NTSB concluyó que Sully tomó la decisión correcta?",
+    "opciones": [
+     "Porque el Hudson era la opción más barata para la aerolínea",
+     "Porque los pilotos del simulador sabían lo que venía y giraron de inmediato",
+     "Porque LaGuardia estaba cerrado ese día por mal tiempo"
+    ],
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/US_Airways_Flight_1549_(N106US)_after_crashing_into_the_Hudson_River_(crop_2).jpg?width=900",
+     "alt": "El avión del vuelo 1549 de US Airways flotando en el río Hudson con pasajeros sobre las alas",
+     "pie": "15 de enero de 2009: el vuelo 1549 en el Hudson. Las 155 personas a bordo sobrevivieron",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Doscientos segundos sobre Nueva York",
+    "texto": "¿Qué haces con un avión de pasajeros sin motores encima de Nueva York? Sully tenía menos de cuatro minutos para responder, y ningún manual pensado para esa altura.\n\nA las 15:27:11, el golpe. Sully toma los controles y hace algo que el informe final destacaría: enciende de inmediato la [[APU|Unidad de potencia auxiliar: un pequeño motor en la cola del avión que da electricidad y aire cuando fallan los motores principales.]]. Con ella, los sistemas eléctricos y los controles siguen vivos. Mientras, Skiles corre la lista de verificación de falla de ambos motores. El problema: esa lista estaba pensada para fallas a mayor altura, cuando hay tiempo de recorrerla completa.\n\nEl controlador les ofrece volver a LaGuardia. Luego, el aeropuerto de Teterboro, en Nueva Jersey. Sully calcula, mira el terreno y responde por radio: «No podemos». Y enseguida: «Vamos a acabar en el Hudson». Por los altavoces de la cabina dice tres palabras: «Prepárense para el impacto».\n\nHacia las 15:31, el avión toca el agua. En minutos llegan dos transbordadores de NY Waterway; el *Athena* rescata a Sully y a otras 18 personas. A las 15:55 sacan a la última persona. Hubo 100 heridos, cinco de ellos graves. No murió nadie.\n\nLo que estaba en juego no eran solo 155 vidas. Un intento fallido de llegar a una pista habría terminado sobre barrios llenos de gente.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/US_Air_Flight_1549_rescue_efforts.jpg?width=900",
+     "alt": "Transbordadores y lanchas rescatan a los pasajeros del vuelo 1549 en el río Hudson",
+     "pie": "El rescate en el Hudson: los transbordadores llegaron en minutos",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "giro",
+    "titulo": "Los 35 segundos que nadie simuló",
+    "texto": "La respuesta es la segunda. Los pilotos del simulador sabían exactamente qué iba a pasar y giraron hacia LaGuardia en cuanto chocaron las aves. El NTSB dijo que esas pruebas no eran realistas: no incluían el tiempo para entender lo que pasaba y decidir qué hacer.\n\nAsí que hicieron otra prueba. Agregaron **35 segundos** de demora antes del giro, un tiempo humano para reaccionar. El avión se estrelló. En su informe final, del 4 de mayo de 2010, la Junta concluyó que Sully tomó la decisión correcta.\n\nLo que sorprende es esto: juzgar una decisión con lo que sabes después es hacer trampa. El simulador tenía la respuesta antes de la pregunta. Sully no. Bajo presión, el tiempo que tardas en entender es parte del problema, no un detalle.\n\nY en esos cuatro minutos aparecen las cinco ideas de esta temporada. Sully hizo inventario de lo que todavía funcionaba (la APU), como Houston en el Apolo 13. Pesó qué error no tenía vuelta atrás, como Burke con Tylenol. Aceptó perder el avión para salvar a la gente, sin aferrarse al activo, lo contrario de Kodak. Se negó a una opción que no podía deshacer, como Kennedy en 1962. Y miró de frente el hecho más duro, «no llegamos», sin perder la fe en el final, como Stockdale.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chesley_Sullenberger_honored_crop.jpg?width=900",
+     "alt": "Chesley Sullenberger durante un homenaje",
+     "pie": "Chesley «Sully» Sullenberger, capitán del vuelo 1549",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "El manual de las cinco preguntas",
+    "texto": "**Bajo presión no necesitas más información: necesitas mejores preguntas, en el orden correcto y a tiempo.**\n\nEsta temporada te dejó cinco. Juntas forman un manual de bolsillo:\n\n1. **¿Qué opción todavía puedo deshacer?** Empieza por lo reversible y compra tiempo. (Kennedy y la cuarentena, 1962)\n2. **¿Qué tengo que todavía funciona?** Inventario antes que solución. (Apolo 13, 1970)\n3. **¿Qué error no tiene vuelta atrás?** Si uno se paga con dinero y otro con confianza o vidas, paga con dinero. (Tylenol, 1982)\n4. **¿Qué estoy protegiendo que ya no vale?** Pregúntate qué haría alguien sin nada que defender. (Kodak, 1975)\n5. **¿Qué hecho duro estoy evitando?** Ten fe en el final, no en la fecha. (Stockdale, 1965–1973)\n\nY una regla que añade Sully: **decidir tarde también es decidir.** Si las cinco preguntas te toman más tiempo del que tienes, la quinta manda: acepta el hecho y actúa.\n\nNo siempre se usan las cinco. En el Hudson no había nada reversible. El manual sirve para no olvidar la pregunta que más falta te hace."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "El paro de este lunes, con las cinco preguntas",
+    "texto": "La noticia de hoy es un buen ensayo. Los transportistas anuncian un paro **indefinido** desde el lunes 26. Si mueves producto desde Guadalajara, así se ve el manual:\n\n**Reversible:** adelantar envíos el domingo cuesta poco y se puede corregir. **Lo que funciona:** el inventario que ya está en tiendas y farmacias, rutas o proveedores locales. **El error sin vuelta atrás:** que un cliente clave se quede sin producto, frente a pagar un flete más caro. **Lo que proteges sin razón:** «siempre lo mandamos el martes». **El hecho duro:** nadie sabe cuándo termina; no planees con la fecha que te gustaría.\n\nFuera de los negocios pasa igual. Ante un diagnóstico, un juicio o una mudanza, la tentación es esperar a tener toda la información. Sully nos recuerda que esperar también tiene un costo."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "De las cinco preguntas, ¿cuál es la que menos te haces cuando estás bajo presión?",
+    "texto": "Suele ser la que más necesitas. La próxima vez que algo se complique, empieza por ella."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Bajo presión no gana el que sabe más, sino el que se hace las preguntas correctas a tiempo."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Wikipedia (inglés): US Airways Flight 1549",
+   "url": "https://en.wikipedia.org/wiki/US_Airways_Flight_1549",
+   "minutos": 15
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Qué mostró el NTSB al agregar 35 segundos de demora en el simulador del vuelo 1549?",
+    "respuesta": "Que el avión ya no llegaba a LaGuardia y se estrellaba. Las pruebas exitosas giraban de inmediato, sin tiempo humano para entender y decidir."
+   },
+   {
+    "pregunta": "¿Cuáles son las cinco preguntas del manual de esta temporada?",
+    "respuesta": "¿Qué puedo deshacer? ¿Qué tengo que funciona? ¿Qué error no tiene vuelta atrás? ¿Qué protejo que ya no vale? ¿Qué hecho duro evito?"
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Wikipedia (inglés): US Airways Flight 1549",
+    "url": "https://en.wikipedia.org/wiki/US_Airways_Flight_1549"
+   },
+   {
+    "nombre": "Wikibooks: Understanding Air Safety in the Jet Age · Cactus 1549",
+    "url": "https://en.wikibooks.org/wiki/Understanding_Air_Safety_in_the_Jet_Age/Wildlife_Encounters/Bird_Strikes/Cactus_1549"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "formato": "mitoRealidad",
+   "titulo": "¿De verdad necesitas 10,000 pasos?",
+   "contexto": "Casi cualquier reloj inteligente trae la misma meta de fábrica: 10,000 pasos al día. Parece una cifra salida de un laboratorio. ¿Lo es?",
+   "pregunta": "«Los 10,000 pasos diarios son una meta que salió de un estudio científico». ¿Mito o realidad?",
+   "opciones": [
+    "Mito",
+    "Realidad"
+   ],
+   "correcta": 0,
+   "revelacion": "Es un mito, aunque caminar sí importa mucho. La cifra nació en Japón. En plena fiebre por el ejercicio antes de los Juegos de Tokio 1964, la empresa Yamasa lanzó en 1965 un [[podómetro|Aparato que cuenta los pasos detectando el movimiento del cuerpo.]] llamado *manpo-kei*: literalmente, «medidor de 10,000 pasos». El número era redondo y vendía bien. No venía de ningún estudio.\n\nLa ciencia llegó después. En 2025, *The Lancet Public Health* publicó un [[metaanálisis|Estudio que combina los resultados de muchos estudios previos para obtener una conclusión más sólida.]] de 57 estudios con más de 160,000 adultos, dirigido por Melody Ding, de la Universidad de Sídney. Comparado con 2,000 pasos diarios, caminar 7,000 se asoció con un riesgo de muerte 47% menor, casi igual que con 10,000. El riesgo de demencia bajó 38% con 7,000 pasos y solo 7% más con 10,000. Incluso 4,000 o 5,000 pasos fueron mejores que 2,000.\n\nDos matices. Son estudios de observación: muestran asociación, no prueban causa. Y caminar más de 7,000 no hace daño; los beneficios extra son modestos. Esto es información general, no una recomendación médica personal.",
+   "idea": "La meta de 10,000 pasos nació en un anuncio; la evidencia dice que lo que más cuenta es salir del sedentarismo.",
+   "fuente": {
+    "nombre": "Universidad de Sídney: Rethink the 10,000-a-day step goal (2025)",
+    "url": "https://www.sydney.edu.au/news-opinion/news/2025/07/24/rethink-the-10000-a-day-step-goal-study-suggests.html"
+   },
+   "profundizar": {
+    "titulo": "Skeptic: ¿Los 10,000 pasos, dato o mito de marketing? (en inglés)",
+    "url": "https://www.skeptic.org.uk/2025/12/is-the-10000-steps-goal-a-fitness-fact-or-merely-a-marketing-myth/"
+   },
+   "wiki": "Podómetro",
+   "claves": [
+    {
+     "nombre": "Actividad física",
+     "quien": "Lo que de verdad se mide detrás de los pasos: el movimiento diario del cuerpo.",
+     "wiki": "Actividad física"
+    },
+    {
+     "nombre": "Metaanálisis",
+     "quien": "El método del estudio de 2025: sumar decenas de estudios para ver el patrón general.",
+     "wiki": "Metaanálisis"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿De dónde salió la meta de 10,000 pasos y qué encontró el metaanálisis de 2025?",
+    "respuesta": "De un podómetro japonés de 1965 llamado manpo-kei. El estudio de 2025 halló que 7,000 pasos se asocian con casi el mismo beneficio en mortalidad que 10,000."
+   }
+  },
+  {
+   "materia": "Retórica y oratoria",
+   "pilar": "mente",
+   "formato": "desarmado",
+   "titulo": "«Bruto es un hombre honrado»: el elogio que incendió Roma",
+   "contexto": "Roma, en la obra *Julio César* de Shakespeare (hacia 1599), acto III, escena 2. César acaba de ser asesinado. Bruto habla primero ante la multitud y la convence: lo mató por amor a Roma. Luego deja hablar a **Marco Antonio**, amigo de César, con una condición: no puede culpar a los conspiradores.",
+   "pregunta": "Antonio no puede atacar a Bruto. ¿Qué técnica usa para poner a la multitud en su contra?",
+   "opciones": [
+    "Lo insulta con sutileza desde la primera frase",
+    "Lo elogia una y otra vez hasta que el elogio suena a acusación",
+    "Habla solo de las victorias militares de César"
+   ],
+   "correcta": 1,
+   "revelacion": "Antonio empieza aceptando las reglas: «Vengo a enterrar a César, no a elogiarlo». Y luego repite, una y otra vez, que «Bruto es un hombre honrado». Cada repetición va pegada a un hecho que la contradice. Bruto dice que César era ambicioso; pero César lloraba cuando lloraban los pobres. Bruto dice que era ambicioso; pero en las fiestas Lupercales rechazó tres veces la corona. Y Bruto es un hombre honrado. A la cuarta vez, la frase ya significa lo contrario. Es [[ironía|Decir una cosa de modo que se entienda la contraria.]] construida con datos, no con insultos.\n\nLuego suma otras dos técnicas. La falsa modestia: «No soy orador, como Bruto». Y el secreto que se resiste: menciona el testamento de César y dice que no debe leerlo. Así la multitud se lo exige. Al final baja del estrado y muestra el manto atravesado por las puñaladas. La multitud sale a quemar las casas de los conspiradores. Shakespeare tomó la escena del manto de Plutarco.\n\nCómo usarlo: cuando no puedes atacar una idea de frente, no la ataques. Pon tu afirmación junto a los hechos y deja que el público saque la conclusión. La gente cree más en lo que deduce que en lo que le dicen.",
+   "idea": "La crítica más poderosa no la dices tú: la deduce tu público al ver los hechos junto a la frase.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marc_Antony's_Oration_at_Caesar's_Funeral_by_George_Edward_Robertson.jpg?width=900",
+    "alt": "Marco Antonio habla ante la multitud junto al cuerpo de César",
+    "pie": "«El discurso de Marco Antonio en el funeral de César», de George Edward Robertson",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: Julio César (Shakespeare)",
+    "url": "https://es.wikipedia.org/wiki/Julio_C%C3%A9sar_(Shakespeare)"
+   },
+   "wiki": "Julio César (Shakespeare)",
+   "claves": [
+    {
+     "nombre": "Marco Antonio",
+     "quien": "General romano y aliado de César; el discurso lo puso al frente de Roma frente a los conspiradores.",
+     "wiki": "Marco Antonio"
+    },
+    {
+     "nombre": "William Shakespeare",
+     "quien": "Dramaturgo inglés (1564–1616); escribió el discurso a partir de las vidas de Plutarco.",
+     "wiki": "William Shakespeare"
+    },
+    {
+     "nombre": "Marco Junio Bruto",
+     "quien": "Senador que participó en el asesinato de César y habló antes que Antonio.",
+     "wiki": "Marco Junio Bruto"
+    },
+    {
+     "nombre": "Ironía",
+     "quien": "La figura que hace que «hombre honrado» acabe significando «traidor».",
+     "wiki": "Ironía"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué técnica usa Marco Antonio con la frase «Bruto es un hombre honrado»?",
+    "respuesta": "La repite junto a hechos que la contradicen hasta que el público la entiende al revés: ironía con datos, sin atacar de frente."
+   }
+  },
+  {
+   "materia": "Gastronomía, vino y destilados",
+   "pilar": "gusto",
+   "formato": "mitoRealidad",
+   "titulo": "¿Todo tequila es un mezcal?",
+   "contexto": "En una sobremesa en Guadalajara siempre sale alguien con la frase: «Todo tequila es mezcal, pero no todo mezcal es tequila». Suena a sabiduría de cantina. ¿Es cierto?",
+   "pregunta": "«Todo tequila es un mezcal». ¿Mito o realidad?",
+   "opciones": [
+    "Realidad, sin matices",
+    "Mito, son bebidas sin relación",
+    "Depende: en la historia sí, en la ley no"
+   ],
+   "correcta": 2,
+   "revelacion": "La respuesta honesta es la tercera. En la historia, el tequila fue un mezcal: el de la región de Tequila. En el siglo XVIII, la familia Cuervo producía y vendía «vino mezcal», y en 1795 obtuvo de Carlos IV una licencia para producir «vino de mezcal».\n\nEn la ley, hoy son cosas distintas. En 1974 el tequila se volvió la primera [[denominación de origen|Protección legal que reserva un nombre a los productos de una zona y un método determinados.]] de México. Solo puede hacerse con *Agave tequilana* Weber variedad azul. Y aquí está el detalle: la categoría «tequila» exige al menos 51% de azúcares de agave; el resto pueden ser otros azúcares. Solo el «100% de agave» usa agave puro. El mezcal tiene su propia denominación desde 1994, y su norma, la NOM-070-SCFI-2016, exige 100% agave. Un tequila mixto, por ley, nunca podría llamarse mezcal.\n\nTambién cambia el fuego. El tequila se cuece con vapor, en hornos o autoclaves. El mezcal artesanal usa hornos de pozo o de mampostería, y el ancestral, solo de pozo. De ahí viene buena parte del ahumado. Para reconocer calidad, busca en la etiqueta «100% de agave» y la NOM.",
+   "idea": "El tequila nació como un mezcal de Tequila; la ley lo convirtió en otra cosa, y la etiqueta te dice cuál compras.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Campos_de_agave.jpg?width=900",
+    "alt": "Campos de agave azul en Jalisco",
+    "pie": "Campos de agave azul: la única planta permitida para el tequila",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Frontiers in Sustainable Food Systems: el mezcal y su denominación de origen (2022)",
+    "url": "https://www.frontiersin.org/articles/10.3389/fsufs.2022.832532/full"
+   },
+   "profundizar": {
+    "titulo": "EUIPO-CRT: presentación sobre la denominación de origen Tequila",
+    "url": "https://internationalipcooperation.eu/sites/default/files/arise-docs/2022/CARIPI-june-2022_Tequila-Presentacion_EUIPO.pdf"
+   },
+   "wiki": "Agave tequilana",
+   "claves": [
+    {
+     "nombre": "Tequila José Cuervo",
+     "quien": "La casa tequilera más antigua en operación; su historia guarda las licencias del «vino mezcal».",
+     "wiki": "Tequila José Cuervo"
+    },
+    {
+     "nombre": "Bebidas de México",
+     "quien": "El mapa completo: tequila, mezcal, raicilla, bacanora y más.",
+     "wiki": "Bebidas de México"
+    },
+    {
+     "nombre": "Raicilla (bebida)",
+     "quien": "Otro destilado de agave de Jalisco, con historia propia.",
+     "wiki": "Raicilla (bebida)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué un tequila mixto no podría llamarse mezcal?",
+    "respuesta": "Porque la categoría «tequila» permite hasta 49% de otros azúcares, y la norma del mezcal (NOM-070) exige 100% agave."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "queHarias",
+   "titulo": "El contrato que Y Combinator decidió regalar",
+   "contexto": "2013. En Silicon Valley, las startups levantaban su primer dinero con [[notas convertibles|Préstamos que, en vez de pagarse, se convierten en acciones cuando la empresa levanta una ronda formal.]]. Funcionaban, pero eran deuda: tenían interés, una fecha de vencimiento y había que renegociarlas cuando se vencían. Cada ronda costaba horas de abogados.\n\n**Carolynn Levy**, abogada y socia de la aceleradora Y Combinator, redactó una alternativa: el **SAFE** (*Simple Agreement for Future Equity*), un acuerdo de acciones futuras sin interés ni vencimiento. Paul Graham lo anunció el 6 de diciembre de 2013.",
+   "pregunta": "Tienes un documento legal que le ahorra miles de dólares en abogados a cada startup. ¿Qué harías con él?",
+   "opciones": [
+    "Venderlo como plantilla premium",
+    "Publicarlo gratis para que lo use cualquiera",
+    "Licenciarlo solo a despachos de abogados"
+   ],
+   "revelacion": "Y Combinator eligió la segunda. Publicó el documento estándar «para que lo usen todas las startups» y lo dejó para descargar en su sitio. Se volvió popular en Estados Unidos, Canadá e Israel por su sencillez y sus bajos costos. En 2018, YC publicó una versión nueva, el *post-money SAFE*, que fija desde la firma el porcentaje del inversionista.\n\n¿Por qué regalar algo tan valioso? Porque YC no gana dinero vendiendo documentos: gana con su participación en las startups. Un estándar gratis hace que las rondas sean más rápidas y baratas para todo el ecosistema, incluidas sus empresas. Y pone el nombre de YC en el centro de miles de inversiones. Es el [[costo marginal|Lo que cuesta producir una unidad más. En un documento digital es casi cero.]] cero llevado al extremo: copiar el archivo no cuesta nada, y cada copia hace más fuerte el estándar.\n\nTambién tiene críticas: varios SAFE seguidos pueden diluir a los fundadores más de lo que esperaban. Y un documento pensado para el derecho estadounidense no se traslada tal cual a una sociedad mexicana: hay que adaptarlo.",
+   "idea": "A veces el producto digital que más vale es el que regalas, si te pone en el centro del mercado donde sí cobras.",
+   "fuente": {
+    "nombre": "Y Combinator: Announcing the Safe, a Replacement for Convertible Notes (2013)",
+    "url": "https://www.ycombinator.com/blog/announcing-the-safe-a-replacement-for-convertible-notes"
+   },
+   "profundizar": {
+    "titulo": "Y Combinator: The SAFE (documentos y explicación)",
+    "url": "https://www.ycombinator.com/safe/"
+   },
+   "wiki": "Aceleradora de empresas",
+   "claves": [
+    {
+     "nombre": "Capital semilla",
+     "quien": "El primer dinero que levanta una empresa nueva; ahí se usa el SAFE.",
+     "wiki": "Capital semilla"
+    },
+    {
+     "nombre": "Capital riesgo",
+     "quien": "Los fondos que invierten en startups a cambio de una parte de la empresa.",
+     "wiki": "Capital riesgo"
+    },
+    {
+     "nombre": "Empresa emergente",
+     "quien": "El tipo de compañía para la que se diseñó el documento.",
+     "wiki": "Empresa emergente"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué es el SAFE y por qué Y Combinator lo publicó gratis?",
+    "respuesta": "Un acuerdo de acciones futuras sin interés ni vencimiento, creado por Carolynn Levy en 2013. YC gana con su participación en startups, no vendiendo documentos; el estándar gratis abarata rondas y pone a YC en el centro."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Filosofía para vivir",
+   "pilar": "mente",
+   "epoca": "c. 60 d. C.",
+   "titulo": "El estoico que prestaba a interés",
+   "dato": "Séneca escribió que el sabio no debe depender de la riqueza, y fue uno de los hombres más ricos de Roma. Según el historiador Dion Casio, había prestado 40 millones de sestercios a los britanos y luego exigió el pago de golpe.",
+   "explicacion": "Dion Casio cuenta ese préstamo entre las causas de la rebelión de la reina Boudica, en el año 60 o 61. Conviene leerlo con cuidado: escribió más de un siglo después y no simpatizaba con Séneca. Los historiadores discuten cuánto pesó la deuda frente a los abusos de los oficiales romanos.\n\nLa contradicción ya se la echaban en cara en vida. Séneca respondió en *De la vida feliz*: en el sabio, las riquezas sirven; en el necio, mandan. Mañana empezamos sus *Cartas a Lucilio*, y vale la pena leerlas sabiendo quién las escribía.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_02.jpg?width=900",
+    "alt": "Herma doble con los rostros de Sócrates y Séneca",
+    "pie": "Herma doble de Sócrates y Séneca, Antikensammlung de Berlín",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Universidad de Warwick: Dion Casio sobre Boudica (Historia romana, LXII, 2)",
+    "url": "https://warwick.ac.uk/fac/arts/classics/warwickclassicsnetwork/romancoventry/resources/boudica/sources/cassiusdio"
+   },
+   "wiki": "Séneca",
+   "claves": [
+    {
+     "nombre": "Revuelta de Boudica",
+     "quien": "La rebelión de los britanos contra Roma en 60–61 d. C.",
+     "wiki": "Revuelta de Boudica"
+    },
+    {
+     "nombre": "Nerón",
+     "quien": "El emperador al que Séneca sirvió como tutor y consejero.",
+     "wiki": "Nerón"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué cuenta Dion Casio sobre Séneca y los britanos?",
+    "respuesta": "Que les prestó 40 millones de sestercios y luego exigió el pago de golpe, una de las causas que él da para la rebelión de Boudica."
+   }
+  },
+  {
+   "materia": "Relaciones y vida social",
+   "pilar": "caracter",
+   "epoca": "2021",
+   "titulo": "El número 150 quizá no existe",
+   "dato": "Se repite que solo podemos mantener unas 150 relaciones estables: el «número de Dunbar». En 2021, un equipo de la Universidad de Estocolmo rehízo el cálculo con métodos modernos y el rango posible fue de 2 a 520 personas.",
+   "explicacion": "El antropólogo británico Robin Dunbar propuso la cifra en los años noventa. La sacó de una correlación en primates no humanos: a mayor [[neocorteza|La capa externa del cerebro, ligada al pensamiento complejo y la vida social.]], grupos más grandes. Luego la extrapoló a los humanos. Patrik Lindenfors, Andreas Wartel y Johan Lind repitieron el análisis con datos actualizados en *Biology Letters*. Su conclusión: con los métodos disponibles no se puede estimar el número con precisión.\n\nNo significa que tu capacidad social sea infinita. Significa que el 150 no es una ley de la naturaleza. Según Lind, la cultura influye y el cerebro puede entrenarse para manejar más contactos.",
+   "fuente": {
+    "nombre": "Universidad de Estocolmo: New study deconstructs Dunbar's number (2021)",
+    "url": "https://www.su.se/english/news/articles/2021-05-05-new-study-deconstructs-dunbars-number---yes-you-can-have-more-than-150-friends"
+   },
+   "wiki": "Número de Dunbar",
+   "claves": [
+    {
+     "nombre": "Robin Dunbar",
+     "quien": "Antropólogo británico que propuso el límite de unas 150 relaciones.",
+     "wiki": "Robin Ian MacDonald Dunbar"
+    },
+    {
+     "nombre": "Red social",
+     "quien": "El concepto de estructura de relaciones que estudia esta discusión.",
+     "wiki": "Red social"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué encontró el estudio de 2021 sobre el número de Dunbar?",
+    "respuesta": "Que al repetir el cálculo con métodos modernos el rango iba de 2 a 520 personas: no se puede fijar el 150 con precisión."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "epoca": "1912",
+   "titulo": "El fundador de los Juegos ganó oro en poesía",
+   "dato": "De 1912 a 1948, los Juegos Olímpicos dieron medallas de arte. En Estocolmo 1912, el oro de literatura fue para «Oda al deporte», firmada por Georges Hohrod y M. Eschbach. El autor real era Pierre de Coubertin, fundador de los Juegos modernos.",
+   "explicacion": "Había cinco categorías: arquitectura, música, pintura, escultura y literatura, y toda obra debía inspirarse en el deporte. Coubertin usó seudónimos para que el jurado no supiera quién era. El estadounidense Walter Winans ganó el oro de escultura en 1912 con un caballo de bronce, además de medallas olímpicas de tiro.\n\nSe entregaron 151 medallas, que hoy no cuentan en el medallero oficial. Avery Brundage, luego presidente del COI y defensor del [[amateurismo|Idea de que el deportista olímpico no debía ganar dinero con su disciplina.]], argumentó que los artistas vivían de vender su obra. Tras 1948 se cambiaron por exposiciones sin competencia.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baron_Pierre_de_Coubertin.jpg?width=900",
+    "alt": "Retrato del barón Pierre de Coubertin",
+    "pie": "Pierre de Coubertin, fundador de los Juegos Olímpicos modernos",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Smithsonian Magazine: When the Olympics Gave Out Medals for Art",
+    "url": "https://www.smithsonianmag.com/arts-culture/when-the-olympics-gave-out-medals-for-art-6878965/"
+   },
+   "wiki": "Competiciones de arte en los Juegos Olímpicos",
+   "claves": [
+    {
+     "nombre": "Juegos Olímpicos de Estocolmo 1912",
+     "quien": "Los primeros Juegos con concursos de arte.",
+     "wiki": "Juegos Olímpicos de Estocolmo 1912"
+    },
+    {
+     "nombre": "Arte en Estocolmo 1912",
+     "quien": "La lista de ganadores de aquel primer concurso artístico.",
+     "wiki": "Anexo:Arte en los Juegos Olímpicos de Estocolmo 1912"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Quién ganó el oro olímpico de literatura en 1912 y cómo firmó?",
+    "respuesta": "Pierre de Coubertin, con «Oda al deporte», firmada con los seudónimos Georges Hohrod y M. Eschbach."
+   }
+  },
+  {
+   "materia": "Literatura y mitología",
+   "pilar": "cultura",
+   "epoca": "1816",
+   "titulo": "Frankenstein nació de un volcán",
+   "dato": "En 1815 hizo erupción el Tambora, en Indonesia. Al año siguiente, Europa vivió «el año sin verano»: frío, niebla y lluvias. Encerrados junto al lago de Ginebra, Lord Byron retó a sus amigos a escribir una historia de fantasmas. Mary Shelley empezó *Frankenstein*.",
+   "explicacion": "El grupo estaba en Villa Diodati, la mansión que Byron rentaba junto al lago. Mary tenía 18 años cuando empezó la historia; el libro se publicó en 1818. Del mismo reto salió *El vampiro* de John Polidori, publicado en 1819, el primer relato de ficción con un vampiro como protagonista seductor.\n\nLa ceniza del volcán no solo cambió la literatura. Hubo cosechas perdidas durante años en Europa. Dos de los monstruos más famosos de la cultura moderna nacieron de una catástrofe climática al otro lado del mundo.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Frontispiece_to_Frankenstein_1831.jpg?width=900",
+    "alt": "Grabado del frontispicio de Frankenstein de 1831 con la criatura despertando",
+    "pie": "Frontispicio de la edición de 1831 de Frankenstein, de Theodor von Holst",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "History.com: The true story behind Frankenstein",
+    "url": "https://www.history.com/articles/frankenstein-true-story-mary-shelley"
+   },
+   "wiki": "Frankenstein o El moderno Prometeo",
+   "claves": [
+    {
+     "nombre": "Año sin verano",
+     "quien": "1816, el año en que la ceniza del Tambora enfrió el hemisferio norte.",
+     "wiki": "Año sin verano"
+    },
+    {
+     "nombre": "Lord Byron",
+     "quien": "El poeta que propuso el reto de las historias de fantasmas.",
+     "wiki": "Lord Byron"
+    },
+    {
+     "nombre": "Narrativa gótica",
+     "quien": "El género de terror y misterio al que pertenece Frankenstein.",
+     "wiki": "Narrativa gótica"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué tiene que ver un volcán con Frankenstein?",
+    "respuesta": "La erupción del Tambora (1815) causó el «año sin verano» de 1816; encerrados por el mal tiempo, Byron propuso escribir historias de fantasmas y Mary Shelley empezó Frankenstein."
+   }
+  },
+  {
+   "materia": "Historia y geopolítica",
+   "pilar": "mundo",
+   "epoca": "1918",
+   "titulo": "Seis horas de una guerra que ya había terminado",
+   "dato": "El armisticio de la Primera Guerra Mundial se firmó poco después de las 5 de la mañana del 11 de noviembre de 1918, pero entraba en vigor a las 11. Ese día murieron al menos 2,738 soldados en el frente occidental, la mayoría en esas seis horas.",
+   "explicacion": "La cifra es del historiador Joseph Persico. A los comandantes se les ordenó seguir combatiendo hasta las 11, y algunos lanzaron ataques por decisión propia. Los Aliados también querían mostrar que presionarían hasta el último minuto. El estadounidense Henry Gunther murió a las 10:59, al cargar contra una ametralladora alemana.\n\nLa hora de entrada en vigor se fijó en parte para que la noticia llegara a todo el frente. Es una lección dura sobre la distancia entre firmar algo y que surta efecto. En contratos y negociaciones, la fecha de [[entrada en vigor|Momento a partir del cual un acuerdo empieza a obligar a las partes.]] importa tanto como la firma.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Armisticetrain.jpg?width=900",
+    "alt": "Representantes aliados frente al vagón donde se firmó el armisticio de 1918",
+    "pie": "El vagón de Compiègne donde se firmó el armisticio, 11 de noviembre de 1918",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "History.com: The last American killed in World War I",
+    "url": "https://www.history.com/.amp/news/world-war-i-armistice-last-american-death"
+   },
+   "wiki": "Armisticio del 11 de noviembre de 1918",
+   "claves": [
+    {
+     "nombre": "Vagón del armisticio",
+     "quien": "El coche de tren donde se firmó el fin de los combates.",
+     "wiki": "Vagón del armisticio"
+    },
+    {
+     "nombre": "Bosque de Compiègne",
+     "quien": "El bosque al norte de París donde estaba el vagón.",
+     "wiki": "Bosque de Compiègne"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué murieron miles de soldados el último día de la Primera Guerra Mundial?",
+    "respuesta": "El armisticio se firmó hacia las 5 a. m., pero entraba en vigor a las 11, y se siguió combatiendo hasta esa hora."
+   }
+  },
+  {
+   "materia": "Negocios y estrategia",
+   "pilar": "patrimonio",
+   "epoca": "1889",
+   "titulo": "Nintendo probó con taxis y arroz instantáneo",
+   "dato": "Nintendo nació el 23 de septiembre de 1889 en Kioto, fabricando naipes *hanafuda*. En los años sesenta probó con una empresa de taxis, arroz instantáneo y una aspiradora. Todo fracasó. Lo que funcionó fueron los juguetes.",
+   "explicacion": "Fusajiro Yamauchi fundó la empresa para vender *hanafuda*, una baraja japonesa con flores. En 1958 firmó un acuerdo para poner personajes de Disney en naipes y en 1962 salió a bolsa. Las aventuras fuera del juego no prosperaron. El éxito llegó con Game & Watch, de Gunpei Yokoi, en 1980: 43.4 millones de unidades.\n\nCircula también que Nintendo tuvo «hoteles del amor». No hay pruebas: el dato parece venir de un libro de 1993. La lección real es otra: diversificar al azar casi nunca sale bien. Ganó cuando volvió a lo suyo, el juego.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nintendo_Hanafuda.jpg?width=900",
+    "alt": "Naipes hanafuda fabricados por Nintendo",
+    "pie": "Hanafuda de Nintendo: el negocio original de la empresa",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (inglés): History of Nintendo",
+    "url": "https://en.wikipedia.org/wiki/History_of_Nintendo"
+   },
+   "wiki": "Nintendo",
+   "claves": [
+    {
+     "nombre": "Game & Watch",
+     "quien": "La línea de consolas portátiles que dio a Nintendo su primer gran éxito electrónico.",
+     "wiki": "Game & Watch"
+    },
+    {
+     "nombre": "Juego de naipes",
+     "quien": "El origen del negocio: Nintendo empezó como fabricante de barajas.",
+     "wiki": "Juego de naipes"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿A qué se dedicaba Nintendo al nacer en 1889 y qué negocios le fallaron en los sesenta?",
+    "respuesta": "Hacía naipes hanafuda. En los sesenta fracasaron sus taxis, su arroz instantáneo y una aspiradora; triunfó con los juguetes."
+   }
+  },
+  {
+   "materia": "IA y el futuro",
+   "pilar": "futuro",
+   "epoca": "1966",
+   "titulo": "La secretaria que pidió quedarse a solas con la máquina",
+   "dato": "Entre 1964 y 1966, Joseph Weizenbaum creó en el MIT a ELIZA, un programa que imitaba a un terapeuta devolviéndote tus frases como preguntas. Su secretaria, que lo vio programarla durante meses, le pidió que saliera de la sala para hablar con ELIZA en privado.",
+   "explicacion": "Ella sabía que era un programa simple. Aun así, quiso intimidad para confiarle cosas. A Weizenbaum le pareció un golpe profundo: entendió que la gente atribuye comprensión a una máquina que no entiende nada. Lo llamó el «efecto ELIZA».\n\nEn 1976 publicó *Computer Power and Human Reason*, una crítica a confiar el juicio humano a las computadoras. Medio siglo después, con los asistentes de IA actuales, su advertencia sigue vigente: que algo responda con fluidez no significa que entienda lo que te pasa.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ELIZA_conversation.png?width=900",
+    "alt": "Pantalla con una conversación con el programa ELIZA",
+    "pie": "Una conversación con ELIZA, el primer bot conversacional",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "IEEE Spectrum: Why people demanded privacy to confide in the world's first chatbot",
+    "url": "https://spectrum.ieee.org/why-people-demanded-privacy-to-confide-in-the-worlds-first-chatbot"
+   },
+   "wiki": "Bot conversacional",
+   "claves": [
+    {
+     "nombre": "Prueba de Turing",
+     "quien": "El test clásico para saber si una máquina parece pensar.",
+     "wiki": "Prueba de Turing"
+    },
+    {
+     "nombre": "Historia de la inteligencia artificial",
+     "quien": "El camino de ELIZA a los asistentes actuales.",
+     "wiki": "Historia de la inteligencia artificial"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué es el «efecto ELIZA»?",
+    "respuesta": "La tendencia a atribuirle comprensión a una máquina que solo imita la conversación. Weizenbaum lo nombró tras ver a su secretaria confiar en ELIZA."
+   }
+  },
+  {
+   "materia": "Oficios del lujo y estilo",
+   "pilar": "gusto",
+   "epoca": "1868",
+   "titulo": "El primer reloj de pulsera de Patek fue para una condesa",
+   "dato": "Patek Philippe hizo en 1868 su primer reloj de pulsera. Se vendió en 1876 a una condesa húngara, Koscowicz. Durante décadas, el reloj de pulsera se vio como una joya de mujer; el caballero llevaba reloj de bolsillo.",
+   "explicacion": "La casa nació en Ginebra el 1 de mayo de 1839, fundada por el polaco Antoni Patek y Franciszek Czapek. Tomó el nombre Patek Philippe en 1851, tras la llegada del relojero francés Adrien Philippe.\n\nEl reloj de pulsera masculino se generalizó sobre todo con la Primera Guerra Mundial: en el frente no había tiempo para sacar un reloj del bolsillo. Lo que hoy es el símbolo del estilo masculino empezó como un accesorio femenino. El gusto cambia cuando cambia la vida.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Patek_Philippe_Museum.JPG?width=900",
+    "alt": "Fachada del Museo Patek Philippe en Ginebra",
+    "pie": "Museo Patek Philippe, Ginebra",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (inglés): Antoni Patek",
+    "url": "https://en.wikipedia.org/wiki/Antoni_Patek"
+   },
+   "wiki": "Patek Philippe & Co.",
+   "claves": [
+    {
+     "nombre": "Historia de la relojería",
+     "quien": "Del reloj de bolsillo al de pulsera.",
+     "wiki": "Historia de la relojería"
+    },
+    {
+     "nombre": "Complicación (relojería)",
+     "quien": "Las funciones extra que hicieron famosa a Patek Philippe.",
+     "wiki": "Complicación (relojería)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Para quién fue el primer reloj de pulsera de Patek Philippe?",
+    "respuesta": "Hecho en 1868, se vendió en 1876 a una condesa húngara, Koscowicz. El reloj de pulsera se consideraba una joya femenina."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "Meditaciones",
+  "autor": "Marco Aurelio",
+  "capitulo": {
+   "numero": 6,
+   "total": 6,
+   "titulo": "El tiempo, la muerte y lo que de verdad importa"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marcus_Aurelius_bust_gold_AD_161-180_from_Aventicum_03.jpg?width=900",
+   "alt": "Busto de oro de Marco Aurelio hallado en Aventicum",
+   "pie": "Busto de oro de Marco Aurelio (161–180 d. C.), hallado en Aventicum, Suiza",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "El capitán Sullenberger tuvo menos de cuatro minutos para decidir. Marco Aurelio, en cambio, escribía como si cada día pudiera ser el último. No por pesimismo: por precisión. Para él, la muerte no era un tema lúgubre, sino la mejor herramienta para ordenar las prioridades.\n\nEste es el último capítulo de las *Meditaciones*. Llegamos a la pregunta que atraviesa todo el libro: si el tiempo se acaba, ¿qué merece el que te queda?"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Un emperador que escribía en el frente"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Conviene recordar dónde se escribió este libro. Marco Aurelio pasó buena parte de sus últimos años en campaña militar, en la frontera del Danubio, contra los pueblos germanos. Al final del libro I anota un lugar: «entre los cuados, junto al Granua». Al final del II, otro: «en Carnunto», un campamento romano en la actual Austria.\n\nNo escribía en un estudio tranquilo. Escribía de noche, en una tienda militar, rodeado de enfermedad y de soldados muertos. La [[peste antonina|Epidemia que azotó al Imperio romano desde el año 165; muchos historiadores creen que fue viruela.]] mataba a miles en el Imperio. Para un hombre así, la muerte no era una abstracción. Era una vecina."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Solo puedes perder el presente"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Uno de los pasajes más lúcidos del libro está en el libro II. Marco Aurelio hace una cuenta que parece un truco de lógica, pero que cambia la forma de ver el tiempo:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Aunque fueras a vivir tres mil años, o diez mil veces eso, recuerda que nadie pierde otra vida que la que está viviendo ahora… Nadie puede perder ni el pasado ni el futuro: lo que no tienes, ¿cómo te lo podrían quitar?",
+    "fuente": "Meditaciones, II, 14"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Piensa en lo que dice. Una vida larga y una corta pierden, al final, lo mismo: el presente. El pasado ya se fue y el futuro todavía no llega. Ninguno de los dos es tuyo. Lo único que de verdad posees es este momento, y es lo único que la muerte te puede quitar.\n\nLa consecuencia práctica es enorme. Si solo tienes el presente, preocuparte por el futuro es gastar lo único que tienes en algo que no tienes. Es la misma lógica de la dicotomía de Epicteto que vimos en el capítulo anterior, ahora aplicada al tiempo: el ayer y el mañana no dependen de ti; el ahora, sí."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según Marco Aurelio en II, 14, ¿qué es lo único que una persona puede perder?",
+    "opciones": [
+     "Su pasado, que se le olvida",
+     "Su futuro, que nunca llega",
+     "El presente, que es lo único que tiene"
+    ],
+    "correcta": 2,
+    "explicacion": "El pasado ya no es tuyo y el futuro todavía no. Lo único que posees, y lo único que puedes perder, es el momento que estás viviendo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "No actúes como si fueras a vivir diez mil años"
+   },
+   {
+    "tipo": "texto",
+    "texto": "En el libro IV aparece una frase que suena a orden militar. Es corta, y está escrita para despertar:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "No actúes como si fueras a vivir diez mil años. La muerte pende sobre ti. Mientras vives, mientras puedes, sé bueno.",
+    "fuente": "Meditaciones, IV, 17"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Lo interesante es la conclusión. Uno esperaría que, ante la muerte, Marco Aurelio dijera «disfruta» o «apúrate». Dice otra cosa: **sé bueno**. Para los estoicos, la única cosa verdaderamente buena era la [[virtud|Para los estoicos, la excelencia del carácter: sabiduría, justicia, valentía y templanza. Lo único bueno en sí mismo.]]: actuar con justicia, valor, templanza y sabiduría. El dinero, la fama y la salud eran cosas preferibles, pero no buenas en sí.\n\nAsí que la cercanía de la muerte no es una invitación al pánico. Es un filtro. Si te quedara poco tiempo, ¿seguirías discutiendo ese correo? ¿Seguirías posponiendo esa conversación? La pregunta limpia la agenda."
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Roman_bust_of_Marcus_Aurelius,_British_Museum_(27118333331).jpg?width=900",
+    "alt": "Busto romano de Marco Aurelio en el Museo Británico",
+    "pie": "Busto de Marco Aurelio, Museo Británico: escribió buena parte del libro en campaña militar",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El ejercicio de darte por muerto"
+   },
+   {
+    "tipo": "texto",
+    "texto": "En el libro VII, Marco Aurelio propone un ejercicio que suena extraño y resulta liberador:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Considérate muerto, como si tu vida hubiera terminado hasta hoy, y vive de acuerdo con la naturaleza el resto que se te concede.",
+    "fuente": "Meditaciones, VII, 56"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La idea es cambiar el punto de partida. Normalmente vivimos como si el futuro nos debiera algo: más años, más éxito, más tiempo. Marco Aurelio invierte la cuenta. Imagina que tu vida ya terminó. Todo lo que venga a partir de hoy es extra.\n\nEl efecto es doble. Primero, la gratitud: un día más deja de ser un derecho y se vuelve un regalo. Segundo, la libertad: si ya «moriste», dejas de proteger tanto la imagen, la reputación o lo que has acumulado. Es un pariente cercano de «la pregunta del nuevo director» del episodio de Kodak: alguien sin nada que proteger ve con más claridad.\n\nLos estoicos tenían un nombre para estos ejercicios: [[premeditatio malorum|«Premeditación de los males»: ensayar mentalmente las pérdidas posibles para que no te tomen por sorpresa.]]. Séneca, el próximo autor de esta lista, lo recomienda una y otra vez en sus cartas."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Memento mori",
+    "texto": "La expresión latina «memento mori», «recuerda que vas a morir», resume esta actitud. No aparece así en las Meditaciones, pero el libro entero la practica. En la pintura europea se volvió un género: cráneos, velas apagadas y relojes de arena junto a frutas y flores."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El río del tiempo"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Marco Aurelio vuelve una y otra vez a una imagen que heredó de Heráclito: el tiempo como un río. En el libro IV escribe que el tiempo es un río de cosas que pasan, con una corriente fuerte. Apenas algo aparece, se lo lleva y llega otra cosa, que también será arrastrada.\n\nEn otro pasaje repasa a los grandes nombres del pasado: médicos que curaron a muchos y murieron, astrólogos que predijeron muertes ajenas, filósofos, conquistadores. Todos, polvo. No lo dice para deprimirse. Lo dice para poner la fama en su lugar. Si Alejandro Magno y su mulero terminaron igual, perseguir la fama es construir sobre agua."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Qué propone Marco Aurelio en VII, 56?",
+    "opciones": [
+     "Vivir como si ya hubieras muerto y tomar lo que queda como un regalo",
+     "Planear cada día pensando en lo que dirán de ti después",
+     "Evitar pensar en la muerte para no perder el ánimo"
+    ],
+    "correcta": 0,
+    "explicacion": "Darte por muerto cambia la cuenta: cada día extra se vuelve un regalo y dejas de proteger lo que no importa."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Caer como una aceituna madura"
+   },
+   {
+    "tipo": "texto",
+    "texto": "¿Y cómo se despide uno, entonces? Marco Aurelio tiene una de las imágenes más bellas de la literatura antigua:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Pasa, pues, este breve tiempo de acuerdo con la naturaleza, y termina tu viaje contento, como cae una aceituna madura: bendiciendo a la naturaleza que la produjo y agradeciendo al árbol que la sostuvo.",
+    "fuente": "Meditaciones, IV, 48"
+   },
+   {
+    "tipo": "texto",
+    "texto": "No hay drama en la imagen. La aceituna no se arranca ni se resiste. Cae cuando está lista, y cae agradecida. Para Marco Aurelio, morir era parte del orden natural, como nacer. Lo que sí dependía de él era cómo llegar a ese momento: habiendo hecho su trabajo, sin rencor y sin deudas con su propia conciencia.\n\nMarco Aurelio murió en el año 180, en campaña, cerca de la frontera del Danubio. Nunca supo que su cuaderno privado se convertiría en uno de los libros más leídos de la historia."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Lo que queda del libro"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Seis capítulos después, podemos resumir las *Meditaciones* en tres movimientos. Primero, la mañana: ensaya a la gente difícil que vas a encontrar. Segundo, el juicio: entre lo que te pasa y lo que sientes hay una interpretación, y esa sí depende de ti. Tercero, el tiempo: solo tienes el presente, así que gástalo en lo que de verdad vale.\n\nEs, en el fondo, el mismo manual que dejó la temporada de decisiones bajo presión. Kennedy, Houston, Burke, Stockdale y Sully hicieron lo que Marco Aurelio se pedía cada noche: distinguir lo urgente de lo importante, aceptar los hechos duros y actuar bien con el tiempo que había.\n\nMañana empezamos con otro estoico, más rico, más contradictorio y quizá más humano: Séneca. Su primera carta a Lucilio empieza justo donde termina este libro: con el tiempo."
+   }
+  ],
+  "paraLlevar": [
+   "Nadie pierde otra vida que la que está viviendo: el presente es lo único que tienes y lo único que puedes perder.",
+   "Ante la muerte, la consigna estoica no es «apúrate», sino «sé bueno» mientras puedas.",
+   "Date por muerto y todo lo que venga será un regalo: así dejas de proteger lo que no importa."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Qué conclusión saca Marco Aurelio en IV, 17 de que la muerte esté cerca?",
+    "respuesta": "«Mientras vives, mientras puedes, sé bueno». No apurarse ni disfrutar sin más: actuar con virtud."
+   },
+   {
+    "pregunta": "¿Con qué imagen describe Marco Aurelio una buena muerte en IV, 48?",
+    "respuesta": "Una aceituna madura que cae bendiciendo a la naturaleza que la produjo y agradeciendo al árbol que la sostuvo."
+   }
+  ],
+  "proximo": "Cartas a Lucilio, de Séneca · Capítulo 1: Reclama tu tiempo",
+  "fuentes": [
+   {
+    "nombre": "Meditaciones, traducción de George Long (1862), Proyecto Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/15877"
+   },
+   {
+    "nombre": "Lexundria: Meditaciones II, 14 (trad. Long)",
+    "url": "https://www.lexundria.com/m_aur_med/2.14/lg"
+   },
+   {
+    "nombre": "Lexundria: Meditaciones IV, 17 (trad. Long)",
+    "url": "https://lexundria.com/m_aur_med/4.17/lg"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de dominio público de George Long (1862), Proyecto Gutenberg. La numeración sigue la división estándar del texto."
+ },
+ "palabra": {
+  "palabra": "Aplomo",
+  "categoria": "Sustantivo masculino",
+  "pronunciacion": "a-PLO-mo",
+  "definicion": "Serenidad y seguridad para actuar o hablar, sobre todo en una situación difícil.",
+  "origen": "De la expresión «a plomo», es decir, en línea vertical, como cae la plomada del albañil. Quien tiene aplomo se mantiene derecho.",
+  "ejemplo": "Con los dos motores apagados, Sullenberger habló por radio con un aplomo que todavía impresiona.",
+  "repaso": {
+   "pregunta": "¿Qué significa «aplomo» y de qué imagen viene?",
+   "respuesta": "Serenidad y seguridad ante lo difícil. Viene de «a plomo»: en vertical, como la plomada."
+  }
+ },
+ "frances": {
+  "frase": "Faisons le point avant de décider.",
+  "traduccion": "Hagamos un balance antes de decidir.",
+  "pronunciacion": "fe-ZÓN le PUÁN a-VÁN de de-si-DÉ",
+  "uso": "Negocios. «Faire le point» es revisar dónde está algo: un proyecto, una crisis, una negociación. Se oye todo el tiempo en juntas francesas. «Faisons» es el imperativo de «nous»: «hagamos».",
+  "variante": "On fait un point rapide demain matin ? (¿Hacemos una revisión rápida mañana temprano?)",
+  "repaso": {
+   "pregunta": "¿Cómo propones en francés «hagamos un balance antes de decidir»?",
+   "respuesta": "« Faisons le point avant de décider. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "En las pruebas del NTSB, ¿qué pasó cuando agregaron 35 segundos de demora antes de girar hacia LaGuardia?",
+   "opciones": [
+    "El avión llegó a la pista con margen",
+    "El avión se estrelló",
+    "El avión aterrizó en Teterboro"
+   ],
+   "correcta": 1,
+   "explicacion": "Con un tiempo humano para entender y decidir, ya no se llegaba. Por eso el NTSB concluyó que amerizar en el Hudson fue la decisión correcta."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Qué cambio de la Ley de Ingresos 2027 rechazan los transportistas, según Infobae?",
+   "opciones": [
+    "Bajar de 300 a 250 millones de pesos el umbral de ingresos para acreditar casetas contra el ISR",
+    "Un nuevo impuesto especial al diésel",
+    "La prohibición de los dobles remolques"
+   ],
+   "correcta": 0,
+   "explicacion": "Hoy pueden acreditar contra el ISR hasta 50% de lo pagado en casetas; con un umbral más bajo, según los transportistas, más empresas quedarían fuera del beneficio."
+  },
+  {
+   "origen": "materias",
+   "pregunta": "Según el metaanálisis de 2025, ¿con cuántos pasos al día se obtuvo casi el mismo beneficio en mortalidad que con 10,000?",
+   "opciones": [
+    "4,000",
+    "12,000",
+    "7,000"
+   ],
+   "correcta": 2,
+   "explicacion": "7,000 pasos se asociaron con un riesgo de muerte 47% menor que 2,000, casi lo mismo que 10,000."
+  }
+ ],
+ "libro": null,
+ "proximo": "1401: el concurso de las puertas que inventó el Renacimiento"
+}

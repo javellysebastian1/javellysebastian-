@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-24",
+ "actualizado": "2026-10-25",
  "lista": [
   {
    "episodios": [
@@ -20,22 +20,42 @@
      "titulo": "Kodak inventó la cámara digital en 1975 y la guardó"
     },
     {
-     "titulo": "Stockdale: siete años y medio en Hanói con un manual estoico",
-     "fecha": "2026-10-24"
+     "fecha": "2026-10-24",
+     "titulo": "Stockdale: siete años y medio en Hanói con un manual estoico"
     },
     {
-     "titulo": "Síntesis: tu manual para decidir bajo presión"
+     "titulo": "Síntesis: tu manual para decidir bajo presión",
+     "fecha": "2026-10-25"
     }
    ],
-   "estado": "en_curso",
+   "estado": "terminada",
    "id": "t01",
    "numero": 1,
    "para": "Criterio para decidir con información incompleta.",
    "titulo": "Decisiones bajo presión"
   },
   {
-   "episodios": [],
-   "estado": "pendiente",
+   "episodios": [
+    {
+     "titulo": "1401: el concurso de las puertas que inventó el Renacimiento"
+    },
+    {
+     "titulo": "Los Medici: el banco que gobernó una ciudad sin ocupar el trono"
+    },
+    {
+     "titulo": "1497: Savonarola y la hoguera de las vanidades"
+    },
+    {
+     "titulo": "El David: el bloque de mármol que nadie quería"
+    },
+    {
+     "titulo": "1513: Maquiavelo escribe en el exilio"
+    },
+    {
+     "titulo": "Síntesis: lo que Florencia enseña sobre arte, dinero y poder"
+    }
+   ],
+   "estado": "en_curso",
    "id": "t02",
    "numero": 2,
    "para": "Arte, poder y dinero en la ciudad de los Medici.",
