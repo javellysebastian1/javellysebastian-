@@ -1,0 +1,895 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-10-27",
+ "numero": 7,
+ "fecha": "2026-10-27",
+ "disponibleDesde": "2026-10-27T08:00:00-06:00",
+ "titulo": "1401: el concurso de las puertas que inventó el Renacimiento",
+ "temporada": {
+  "id": "t02",
+  "numero": 2,
+  "titulo": "Florencia: la ciudad que inventó el Renacimiento",
+  "episodio": 1,
+  "totalEpisodios": 6
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ghiberti_and_Brunelleschi,_Sacrifice_of_Isaac,_competition_reliefs,_1401-2,_Bargello,_Florence.jpg?width=900",
+  "alt": "Los dos relieves de bronce del sacrificio de Isaac, de Ghiberti y Brunelleschi, lado a lado",
+  "pie": "Los dos finalistas de 1401: el sacrificio de Isaac según Ghiberti y según Brunelleschi. Museo del Bargello, Florencia",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "origen": "Edición #4",
+   "pregunta": "¿Quién construyó en Kodak la primera cámara digital y en qué año?",
+   "respuesta": "Steven Sasson, un joven ingeniero de Kodak, en 1975. La empresa tuvo el invento y no lo convirtió en su negocio a tiempo."
+  },
+  {
+   "origen": "Edición #5",
+   "pregunta": "¿Qué dos cosas sostiene a la vez la «paradoja de Stockdale»?",
+   "respuesta": "La fe en que vas a salir adelante al final y la disciplina de mirar de frente los hechos más duros de tu situación actual."
+  },
+  {
+   "origen": "Edición #6",
+   "pregunta": "¿Por qué el NTSB concluyó que Sully hizo bien en amerizar en el Hudson?",
+   "respuesta": "Porque al agregar 35 segundos de reacción humana en el simulador, el avión ya no llegaba a LaGuardia y se estrellaba."
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n1",
+   "ambito": "mexico",
+   "ambitoTexto": "México y Jalisco",
+   "fecha": "2026-10-26",
+   "historiaEnCurso": {
+    "id": "paro-transportistas",
+    "titulo": "Paro nacional de transportistas",
+    "capitulo": 2,
+    "dondeIbamos": "Canacar anunció un paro indefinido desde el lunes 26 por inseguridad, extorsión y un cambio fiscal en las casetas. Jalisco se sumaba y Gobernación ofrecía una mesa permanente."
+   },
+   "titular": "El paro de transportistas arrancó en 19 estados y rodeó Guadalajara; Canacar no se sentó a la mesa y la protesta sigue abierta",
+   "quePaso": "El lunes 26, la Secretaría de Gobernación contó a las 9:30 movilizaciones en **19 entidades**, con 38 puntos, 691 vehículos y 858 personas. Hubo un bloqueo total en Tlaxco, Tlaxcala, y cierres parciales en Veracruz y otros estados.\n\nEn Jalisco, según *El Informador*, unas 300 unidades se concentraron hacia las 10:10 en cuatro accesos de Guadalajara: carretera a Nogales en La Venta del Astillero, caseta de Acatlán en la autopista a Colima, carretera a Chapala cerca del aeropuerto y caseta de La Joya rumbo a México. Hicieron rodadas lentas y descartaron cerrar por completo las vías. El aeropuerto pidió a los pasajeros salir con tiempo.\n\nLa presidenta Claudia Sheinbaum dijo que el ajuste fiscal afecta solo a 170 empresas. Hacienda dio sus cifras: de 2,580 empresas que usan el estímulo de casetas, 2,410 lo conservan, y el apoyo baja unos 4,500 millones de pesos. Gobernación instaló mesas con otras organizaciones del autotransporte, como Conatram y la ANTP. **Canacar no participó** y mantiene su paro.",
+   "aMiQue": "Si distribuyes desde Guadalajara, los cuatro accesos que se movilizaron son justo tus salidas hacia Colima y Manzanillo, el Bajío y la Ciudad de México. Mientras Canacar siga fuera de la mesa, conviene programar los envíos críticos fuera de horas pico, avisar a clientes de posibles retrasos y vigilar si el conflicto se alarga, porque un flete más lento y caro termina en tu margen.",
+   "contexto": "**Hecho:** el estímulo permite acreditar contra el ISR hasta 50% de lo pagado en casetas. La Ley de Ingresos 2027 reduce el límite de ingresos de las empresas que pueden usarlo. Según Hacienda, el costo del estímulo llegó a 0.4% del PIB en 2019.\n\n**Interpretación:** el Gobierno lo presenta como un ajuste que solo toca a las empresas más grandes. Canacar lo ve como un golpe más a un sector que además sufre robos y extorsión. Las denuncias por robo a transportistas bajaron 21% de enero a septiembre de 2026, según el Secretariado Ejecutivo citado por el Gobierno, pero denuncias no es lo mismo que delitos.",
+   "queVigilar": "Si Canacar acepta sentarse en las mesas de esta semana; si vuelven las concentraciones en los accesos de Guadalajara; y si el Congreso toca el límite del estímulo antes de aprobar la Ley de Ingresos 2027.",
+   "fuentes": [
+    {
+     "nombre": "El Informador: Paro de transportistas en Jalisco, minuto a minuto (26 de octubre)",
+     "url": "https://www.informador.mx/paro-nacional-de-transportistas-en-jalisco-minuto-a-minuto-y-cierres-viales-hoy-lunes-26-de-octubre-lb202610260002.html"
+    },
+    {
+     "nombre": "Uno TV: Paro nacional de transportistas, minuto a minuto",
+     "url": "https://www.unotv.com/nacional/paro-nacional-de-transportistas-que-carreteras-tendran-bloqueos-hoy-sigue-el-minuto-a-minuto-en-vivo/"
+    },
+    {
+     "nombre": "La Razón: Destaca Gobierno apoyos fiscales a transportistas que bloquean en 38 puntos",
+     "url": "https://www.razon.com.mx/mexico/2026/10/27/destaca-gobierno-apoyos-fiscales-a-transportistas-que-bloquean-en-38-puntos/"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-10-26",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 6,
+    "dondeIbamos": "El viernes 23 el Brent cerró en 116.72 dólares, su nivel más alto desde abril, tras una semana de alzas cercana a 6%."
+   },
+   "titular": "El petróleo baja por la diplomacia en Teherán, pero los ataques a Arabia Saudita y el tráfico casi detenido en Ormuz frenan la caída",
+   "quePaso": "El lunes 26 el petróleo bajó por la esperanza de que se calmen las hostilidades entre Estados Unidos e Irán. Según Reuters, a media mañana en Londres el Brent estaba en **115.15 dólares** (-1.35%) y el WTI en 101.16 (-2.04%).\n\nLa diplomacia se movió el fin de semana. Mediadores de Catar viajaron a Teherán en coordinación con Washington, y funcionarios de Arabia Saudita, Turquía y Pakistán preparaban reuniones con Irán. Pero los ataques siguieron: los hutíes dijeron que golpearon estaciones de bombeo del oleoducto saudí Este-Oeste y el aeropuerto de Riad. Arabia Saudita informó que interceptó más misiles y drones.\n\nSegún DTN, en las 24 horas previas solo **8 barcos** cruzaron el estrecho de Ormuz, contra un promedio cercano a 60 al día.",
+   "aMiQue": "Un Brent arriba de 110 dólares presiona el costo del diésel, del flete y de los empaques plásticos. Para una marca de bebidas o suplementos, eso se nota en la factura de transporte antes que en el anaquel. Esta semana se suma el paro de transportistas: doble presión sobre la logística. No es momento de comprometer precios de largo plazo con distribuidores sin una cláusula de revisión.",
+   "contexto": "**Hecho:** octubre ha sido el peor mes de ataques contra barcos comerciales en Ormuz y aguas cercanas, según el Washington Institute for Near East Policy, citado por Reuters.\n\n**Interpretación:** los operadores leen la baja del lunes como alivio por la diplomacia, no como fin del riesgo. John Evans, de PVM Oil Associates, dijo que cualquier caída hacia los mínimos de la semana pasada «encontrará compradores agradecidos». Fatih Birol, director de la Agencia Internacional de Energía, no espera que en 2027 los mercados de energía vuelvan a los niveles previos a la guerra con Irán.",
+   "queVigilar": "Si las reuniones en Teherán producen algo concreto; si se repiten los ataques al oleoducto saudí; y cuántos barcos cruzan Ormuz cada día.",
+   "fuentes": [
+    {
+     "nombre": "Reuters vía Yahoo Finanzas: Oil settles lower on peace hopes, Saudi attacks limit losses",
+     "url": "https://finance.yahoo.com/news/oil-prices-down-almost-1-232445179.html"
+    },
+    {
+     "nombre": "DTN: WTI, Brent Crude Fall on Mideast Diplomatic Talks (26 de octubre)",
+     "url": "https://www.dtnpf.com/agriculture/web/ag/news/world-policy/article/2026/10/26/wti-brent-crude-fall-mideast-talks"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "Dos joyeros de veintitantos años, una puerta de bronce y 34 jueces. El que perdió acabó construyendo la cúpula más famosa de Europa.",
+    "contexto": "Florencia, 1401. El gremio más rico de la ciudad, el de los comerciantes de telas, quiere una segunda puerta de bronce para el Baptisterio. Convoca un concurso abierto: cada artista debe fundir un relieve con el mismo tema, el sacrificio de Isaac, en un marco de cuatro lóbulos de unos 45 por 38 centímetros.\n\nSe presentan siete. Llegan a la final dos jóvenes: **Lorenzo Ghiberti**, de unos 23 años, y **Filippo Brunelleschi**, de unos 24. Los dos relieves sobreviven y hoy cuelgan juntos en el Museo del Bargello. Muchos los miran y dicen que el de Brunelleschi es más dramático.",
+    "pregunta": "Si el relieve de Brunelleschi parecía más audaz, ¿qué inclinó la balanza a favor de Ghiberti?",
+    "opciones": [
+     "Que Ghiberti era protegido de los Medici",
+     "Que su relieve salió casi de una sola pieza y usaba menos bronce",
+     "Que Brunelleschi no entregó su relieve a tiempo"
+    ],
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo_Ghiberti,_The_Sacrifice_of_Isaac,1401-2,_Florence,_Bargello.jpg?width=900",
+     "alt": "Relieve de bronce de Ghiberti: Abraham a punto de sacrificar a Isaac mientras un ángel lo detiene",
+     "pie": "El relieve ganador de Lorenzo Ghiberti (1401-1402), Museo del Bargello",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Siete joyeros y una puerta",
+    "texto": "¿Por qué una ciudad organiza un concurso público para hacer una puerta? Porque en Florencia una puerta no era solo una puerta. Era un anuncio de quién mandaba.\n\nEl [[Baptisterio|Edificio octagonal frente a la catedral de Florencia donde se bautizaba a todos los niños de la ciudad.]] de San Juan era el corazón cívico de Florencia. Lo cuidaba el [[Arte de Calimala|Gremio de los grandes comerciantes de telas finas, uno de los más ricos y poderosos de la ciudad.]]. Unos setenta años antes, Andrea Pisano había hecho la primera puerta de bronce. Ahora los mercaderes querían la segunda.\n\nEl momento no era tranquilo. Los historiadores suelen recordar que Florencia vivía bajo la amenaza del duque de Milán, Gian Galeazzo Visconti, y salía de años de peste. Gastar en bronce era una forma de decir: aquí seguimos.\n\nLa convocatoria fue abierta. Se presentaron siete artistas: Brunelleschi, Ghiberti, Jacopo della Quercia, Francesco di Valdambrino, Simone da Colle, Niccolò di Luca Spinelli y Niccolò di Pietro Lamberti. Todos recibieron el mismo encargo: el instante en que Abraham va a sacrificar a su hijo Isaac y un ángel lo detiene. Un jurado de 34 personas decidiría.\n\nNo era un concurso de ideas en papel. Cada uno tuvo que fundir su relieve en [[bronce|Aleación de cobre y estaño. Se funde vertiendo el metal líquido en un molde; es caro y difícil de trabajar.]], como prueba real de lo que sabía hacer. Lo que estaba en juego eran años de trabajo, mucho dinero y el prestigio de firmar la obra más visible de la ciudad.\n\nGhiberti y Brunelleschi venían del mismo oficio: la [[orfebrería|El arte de trabajar metales preciosos: oro, plata y bronce fino.]]. Tenían casi la misma edad. Y sus relieves eran muy distintos. El de Brunelleschi es tenso: Abraham sujeta a Isaac por el cuello y el ángel le agarra el brazo en el último segundo. El de Ghiberti es más elegante y fluido, con un Isaac de cuerpo casi clásico.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Filippo_Brunelleschi,_The_Sacrifice_of_Isaac,_1401-2,_Bargello,_Florence.jpg?width=900",
+     "alt": "Relieve de bronce de Brunelleschi con el ángel sujetando el brazo de Abraham",
+     "pie": "El relieve de Filippo Brunelleschi (1401-1402): el ángel detiene el cuchillo en el último instante",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "giro",
+    "titulo": "Ganó el que sabía fundir",
+    "texto": "La respuesta es la segunda. Ghiberti fundió su relieve prácticamente en una sola pieza, con muy poca soldadura. Brunelleschi armó el suyo con varias piezas unidas. El resultado: el de Ghiberti usaba menos bronce y costaba menos, y demostraba un dominio técnico mayor de la fundición.\n\nPara un gremio que iba a pagar 28 relieves como ese, el cálculo era claro. No elegían una escultura: elegían a quien pudiera repetirla 28 veces, bien y sin arruinarlos.\n\nLo que pasó después tiene dos versiones. Ghiberti escribió en sus *Comentarios* que ganó sin discusión. Antonio Manetti, biógrafo de Brunelleschi, cuenta que el jurado los declaró empatados y les propuso compartir el encargo, y que Brunelleschi se negó a trabajar con otro. Las dos son versiones de parte. Lo seguro es que Ghiberti firmó el contrato el 23 de noviembre de 1403.\n\nY aquí está la sorpresa. Ghiberti tardó unos veinte años en terminar esa puerta, que se instaló en 1424. Luego hizo otra, la que según la tradición Miguel Ángel llamó **Puerta del Paraíso**. Brunelleschi, en cambio, dejó la escultura. Estudió arquitectura, según su biógrafo midiendo ruinas en Roma. En 1420 empezó la obra que nadie sabía cómo hacer: la cúpula de la catedral de Florencia, que aún domina la ciudad.\n\nPerder ese concurso no lo sacó del juego. Lo mandó al juego donde su ventaja era imbatible.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo_ghiberti,_porta_del_paradiso,_1425-52,_00.JPG?width=900",
+     "alt": "La Puerta del Paraíso del Baptisterio de Florencia, con sus diez paneles dorados",
+     "pie": "La Puerta del Paraíso, el segundo encargo de Ghiberti (1425-1452)",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "Los criterios del que decide",
+    "texto": "Antes de competir por algo, pregúntate: **¿con qué regla va a decidir quien elige?** Los 34 jueces no medían solo belleza. Medían costo, riesgo y capacidad de repetir el resultado 28 veces.\n\nCómo usarla, en tres pasos:\n\n1. **Escribe los criterios reales**, no los que te gustaría. Un comprador de una cadena de farmacias quizá valora más la rotación y el surtido puntual que tu diseño de etiqueta.\n2. **Gana en los criterios que pesan** y luego distínguete en el resto. Ghiberti fue elegante, sí, pero sobre todo fue barato de fundir.\n3. **Si las reglas no favorecen tu fuerza, cambia de cancha.** Brunelleschi no siguió peleando por puertas. Buscó el problema donde su talento no tenía rival.\n\nLa trampa contraria: creer que el mejor trabajo gana solo. Gana el mejor trabajo según los criterios del que paga."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Dónde más aparece",
+    "texto": "**En una licitación pública en México.** Las bases de una compra de gobierno publican cómo se califica: puntos por la propuesta técnica, puntos por precio, puntos por experiencia. Muchas empresas con buen producto pierden por no leer la tabla de puntos antes de escribir su propuesta.\n\n**Al meter una marca premium a un canal.** Si quieres que una tienda de autoservicio o una cadena de farmacias liste tu bebida o tu suplemento, el comprador mira margen, rotación, exhibición y confiabilidad de entrega. Una presentación hermosa que no responde esas cuatro preguntas es el relieve de Brunelleschi: impresionante y demasiado caro de aceptar.\n\n**En tu propia carrera.** A veces perder una oportunidad te dice que estás en la cancha equivocada, no que te falte talento."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "Piensa en la próxima propuesta que vas a presentar. ¿Sabes cuáles son los tres criterios con los que te van a calificar, en el orden en que los pesa quien decide?",
+    "texto": "Si no los sabes, pregúntalos antes de afinar la propuesta. Es la información más barata y la que más cambia el resultado."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "No gana el mejor trabajo: gana el mejor trabajo según los criterios del que decide. Y si esas reglas no te favorecen, cambia de cancha."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Smarthistory: Brunelleschi y Ghiberti, el sacrificio de Isaac (en inglés)",
+   "url": "https://smarthistory.org/filippo-brunelleschi-and-lorenzo-ghiberti-sacrifice-of-isaac",
+   "minutos": 10
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Por qué el relieve de Ghiberti convenía más al gremio de Calimala?",
+    "respuesta": "Porque salió casi de una sola pieza, usaba menos bronce y costaba menos. Demostraba que podía repetir ese resultado en los 28 paneles."
+   },
+   {
+    "pregunta": "¿Qué hizo Brunelleschi después de perder el concurso de 1401?",
+    "respuesta": "Dejó la escultura y se volvió arquitecto. Desde 1420 dirigió la construcción de la cúpula de la catedral de Florencia."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Smarthistory: Filippo Brunelleschi and Lorenzo Ghiberti, Sacrifice of Isaac",
+    "url": "https://smarthistory.org/filippo-brunelleschi-and-lorenzo-ghiberti-sacrifice-of-isaac"
+   },
+   {
+    "nombre": "Finestre sull'Arte: Il concorso del 1401 che ha cambiato la storia dell'arte (2021)",
+    "url": "https://www.finestresullarte.info/opere-e-artisti/concorso-del-1401-ghiberti-brunelleschi-porta-nord-firenze-rinascimento"
+   },
+   {
+    "nombre": "Wikipedia: Puerta del Paraíso",
+    "url": "https://es.wikipedia.org/wiki/Puerta_del_Para%C3%ADso"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Derecho y poder",
+   "pilar": "mundo",
+   "formato": "elCaso",
+   "titulo": "Marbury contra Madison: perder un caso para ganar un poder",
+   "contexto": "Washington, 1801. El presidente John Adams pierde la elección y, en sus últimos días, nombra a decenas de jueces de su partido: los «jueces de medianoche». A William Marbury le toca ser juez de paz, pero su nombramiento nunca se entrega. El nuevo secretario de Estado, James Madison, se niega a dárselo. Marbury demanda ante la Suprema Corte. El presidente de la Corte, John Marshall, sabe que si ordena a Madison entregar el nombramiento, el gobierno de Jefferson puede simplemente desobedecer.",
+   "pregunta": "¿Cómo salió Marshall de la trampa?",
+   "opciones": [
+    "Le ordenó a Madison entregar el nombramiento y amenazó con arrestarlo",
+    "Dijo que Marbury tenía razón, pero que la Corte no podía ordenar nada porque la ley que le daba ese poder era inconstitucional",
+    "Se declaró incompetente sin decir quién tenía razón"
+   ],
+   "correcta": 1,
+   "revelacion": "El 24 de febrero de 1803, la Corte resolvió por 4 votos a 0. Marshall dijo tres cosas. Marbury tenía derecho a su nombramiento. Madison se lo había negado sin razón. Pero la Corte no podía emitir la orden que Marbury pedía, un [[mandamus|Orden judicial que obliga a un funcionario a cumplir un deber que le marca la ley.]].\n\n¿Por qué? Porque la sección 13 de la Ley Judicial de 1789 le daba a la Corte ese poder, y Marshall concluyó que esa ley ampliaba lo que la Constitución permite. Una ley contraria a la Constitución, escribió, no es ley. Y fijó la frase que todavía se cita: es «enfáticamente la competencia y el deber del poder judicial decir qué es el derecho».\n\nEl golpe fue maestro. Jefferson no tenía nada que desobedecer, porque Marbury se quedó sin nada. Pero la Corte salió con un poder enorme: el [[control de constitucionalidad|Facultad de los jueces de anular leyes que contradicen la Constitución.]]. Perdió la batalla pequeña para ganar la grande. En México, el amparo contra leyes y las acciones de inconstitucionalidad parten de una idea parecida.",
+   "idea": "A veces la jugada más fuerte es ceder lo que el otro quiere para quedarte con la regla que importa.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Marshall_by_Henry_Inman,_1832.jpg?width=900",
+    "alt": "Retrato de John Marshall, presidente de la Suprema Corte de Estados Unidos",
+    "pie": "John Marshall, retratado por Henry Inman en 1832",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Annenberg Classroom: Marbury v. Madison (1803)",
+    "url": "https://annenbergclassroom.org/?p=48"
+   },
+   "wiki": "Caso Marbury contra Madison",
+   "claves": [
+    {
+     "nombre": "Revisión judicial en EE. UU.",
+     "quien": "El poder de los jueces de anular leyes, nacido de este caso.",
+     "wiki": "Revisión judicial en los Estados Unidos"
+    },
+    {
+     "nombre": "Control de constitucionalidad",
+     "quien": "La idea general, presente también en México, de revisar leyes contra la Constitución.",
+     "wiki": "Control de constitucionalidad"
+    },
+    {
+     "nombre": "Artículo III",
+     "quien": "La parte de la Constitución de EE. UU. que define qué casos puede ver la Corte.",
+     "wiki": "Artículo III de la Constitución de los Estados Unidos"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué poder ganó la Suprema Corte en Marbury contra Madison?",
+    "respuesta": "El de anular leyes contrarias a la Constitución. Marshall declaró inconstitucional la sección 13 de la Ley Judicial de 1789."
+   }
+  },
+  {
+   "materia": "El cosmos",
+   "pilar": "futuro",
+   "formato": "mitoRealidad",
+   "titulo": "¿En la Estación Espacial no hay gravedad?",
+   "contexto": "En los videos de la Estación Espacial Internacional, los astronautas flotan, las gotas de agua forman esferas y una manzana se queda quieta en el aire. Se dice que allá arriba hay «gravedad cero».",
+   "pregunta": "«En la Estación Espacial no hay gravedad: por eso los astronautas flotan». ¿Mito o realidad?",
+   "opciones": [
+    "Mito",
+    "Realidad"
+   ],
+   "correcta": 0,
+   "revelacion": "Es un mito. Según la NASA, a unos 400 kilómetros de altura, donde orbitan las naves tripuladas, la gravedad de la Tierra conserva el 88.8% de su fuerza en la superficie. Si construyeras una torre de esa altura y te pararas en la punta, pesarías casi lo mismo que en tu casa.\n\nLos astronautas flotan porque están en [[caída libre|Movimiento de un cuerpo sobre el que solo actúa la gravedad, sin nada que lo sostenga.]]. La estación, la manzana y el astronauta caen juntos hacia la Tierra. Pero van tan rápido de lado, unos 28,000 kilómetros por hora, que nunca llegan al suelo: caen alrededor del planeta. Eso es una [[órbita|Trayectoria de un cuerpo que cae continuamente alrededor de otro sin chocar con él.]].\n\nPor eso la NASA prefiere decir «microgravedad». Lo que desaparece no es la gravedad, sino la sensación de peso. Es la misma sensación de un elevador que baja de golpe, solo que dura meses.",
+   "idea": "En órbita no falta gravedad: sobra velocidad. Los astronautas caen todo el tiempo y nunca tocan el suelo.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/International_Space_Station_after_undocking_of_STS-132.jpg?width=900",
+    "alt": "La Estación Espacial Internacional sobre la Tierra",
+    "pie": "La Estación Espacial Internacional, fotografiada en 2010 tras separarse el transbordador Atlantis",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "NASA Glenn: What is Microgravity?",
+    "url": "https://www.nasa.gov/centers-and-facilities/glenn/what-is-microgravity/"
+   },
+   "wiki": "Ingravidez",
+   "claves": [
+    {
+     "nombre": "Microgravedad",
+     "quien": "El término correcto para lo que se vive en órbita.",
+     "wiki": "Microgravedad"
+    },
+    {
+     "nombre": "Órbita terrestre baja",
+     "quien": "La franja donde vuela la Estación Espacial.",
+     "wiki": "Órbita terrestre baja"
+    },
+    {
+     "nombre": "Ley de gravitación universal",
+     "quien": "La ley de Newton que explica por qué la gravedad casi no cambia a 400 km.",
+     "wiki": "Ley de gravitación universal"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué flotan los astronautas si a 400 km la gravedad conserva casi 89% de su fuerza?",
+    "respuesta": "Porque están en caída libre junto con la estación: caen alrededor de la Tierra a unos 28,000 km/h y nunca llegan al suelo."
+   }
+  },
+  {
+   "materia": "Literatura y mitología",
+   "pilar": "cultura",
+   "formato": "diaQueCambio",
+   "titulo": "El exiliado que inventó el italiano",
+   "contexto": "Florencia, 1302. Dante Alighieri, poeta y político, está fuera de la ciudad cuando sus enemigos toman el poder. Lo condenan por corrupción, le confiscan los bienes y lo destierran. Si vuelve, la sentencia dice que debe morir quemado. Dante no regresará jamás. En el exilio escribe un poema de cien cantos sobre un viaje por el Infierno, el Purgatorio y el Paraíso.",
+   "pregunta": "¿En qué lengua escribió Dante la *Comedia*, cuando la literatura seria se escribía en latín?",
+   "opciones": [
+    "En latín clásico, como Virgilio",
+    "En el florentino que hablaba la gente de la calle",
+    "En provenzal, la lengua de los trovadores"
+   ],
+   "correcta": 1,
+   "revelacion": "La escribió en la lengua que hablaba la gente: el [[vulgar|La lengua hablada cotidianamente, frente al latín de los documentos y los sabios.]] florentino. Fue una apuesta enorme. Un poema sobre Dios, la justicia y el destino del alma, escrito para que lo entendiera un comerciante y no solo un clérigo.\n\nFuncionó. La *Comedia* se copió, se leyó en voz alta y se memorizó. Con Petrarca y Boccaccio, Dante convirtió el toscano en la lengua literaria de Italia, y de ahí sale en buena medida el italiano que se habla hoy. Por eso lo llaman «padre de la lengua italiana».\n\nFlorencia tardó en hacer las paces. La condena de 1302 se conserva en el *Libro del Chiodo*, en el Archivo de Estado. Dante murió en Rávena en 1321 y ahí siguen sus restos. En junio de 2008, dos concejales florentinos presentaron una moción para rehabilitarlo y revocar simbólicamente aquella sentencia, casi siete siglos después.",
+   "idea": "Escribir para todos, y no para los que ya saben, puede crear una lengua entera.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_de_Dante.jpg?width=900",
+    "alt": "Retrato de Dante Alighieri de perfil con corona de laurel, atribuido a Botticelli",
+    "pie": "Dante Alighieri, retrato atribuido a Sandro Botticelli (c. 1495)",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Biblioteca del Congreso de EE. UU.: The Rehabilitation of Dante Alighieri Seven Centuries Later",
+    "url": "https://blogs.loc.gov/law/2016/04/the-rehabilitation-of-dante-alighieri-seven-centuries-later/"
+   },
+   "wiki": "Divina comedia",
+   "claves": [
+    {
+     "nombre": "Dante Alighieri",
+     "quien": "Poeta florentino (1265-1321), autor de la Comedia.",
+     "wiki": "Dante Alighieri"
+    },
+    {
+     "nombre": "Idioma italiano",
+     "quien": "La lengua que nació en buena parte del toscano literario de Dante.",
+     "wiki": "Idioma italiano"
+    },
+    {
+     "nombre": "Infierno",
+     "quien": "La primera parte de la Comedia, la más leída.",
+     "wiki": "Infierno (Divina comedia)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué la Comedia de Dante cambió la historia del italiano?",
+    "respuesta": "Porque la escribió en el florentino hablado y no en latín. Ese toscano literario se volvió la base del italiano moderno."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "elCaso",
+   "titulo": "Lynda.com: 1,500 millones por una biblioteca de videos",
+   "contexto": "En 1995, la diseñadora Lynda Weinman y el artista Bruce Heavin fundan en California un pequeño negocio para enseñar diseño web. Con los años, lo convierten en una biblioteca de cursos en video por suscripción. El 9 de abril de 2015, LinkedIn anuncia que la compra por 1,500 millones de dólares, 52% en efectivo y 48% en acciones.",
+   "pregunta": "¿Qué compró realmente LinkedIn por ese precio?",
+   "opciones": [
+    "Un catálogo de cursos grabados que se vende muchas veces, con un costo casi nulo por cada alumno nuevo",
+    "Una red de escuelas y aulas presenciales en Estados Unidos",
+    "Una plantilla de maestros contratados por hora para dar clases en vivo"
+   ],
+   "correcta": 0,
+   "revelacion": "La clave está en el [[costo marginal|Lo que cuesta producir y entregar una unidad más de un producto.]]. Grabar un buen curso cuesta mucho una vez: guion, instructor, edición. Pero que lo vea el alumno número diez mil cuesta casi lo mismo que el número diez. Cada curso se convierte en un activo que trabaja mientras sigue vigente.\n\nLynda.com sumó dos decisiones. Primera, la **suscripción**: en vez de vender curso por curso, cobraba por acceso a toda la biblioteca. Eso da ingresos recurrentes y hace que el cliente valore el catálogo completo. Segunda, el **cliente corporativo**: empresas y universidades pagaban licencias para muchos usuarios a la vez.\n\nPara LinkedIn tenía lógica estratégica. Sabía qué habilidades pedían los empleos y podía recomendar el curso exacto. La plataforma se volvió LinkedIn Learning. La lección no es que todo curso valga millones: casi ninguno lo vale. Es que el valor estaba en la biblioteca actualizada y en el canal de venta, no en un video suelto.",
+   "idea": "Un producto digital escala cuando lo caro se hace una vez y lo barato se repite: el valor está en el catálogo y en el canal.",
+   "fuente": {
+    "nombre": "TechCrunch: LinkedIn To Buy Online Education Site Lynda.com For $1.5 Billion (2015)",
+    "url": "https://techcrunch.com/2015/04/09/linkedin-to-buy-online-education-site-lynda-com-for-1-5-billion/"
+   },
+   "wiki": "Lynda.com",
+   "claves": [
+    {
+     "nombre": "LinkedIn",
+     "quien": "La red profesional que compró Lynda.com y la convirtió en LinkedIn Learning.",
+     "wiki": "LinkedIn"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por cuánto compró LinkedIn a Lynda.com y qué la hacía escalable?",
+    "respuesta": "Por 1,500 millones de dólares en 2015. Sus cursos se grababan una vez y se vendían por suscripción a muchos alumnos con costo casi nulo por cada uno."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Retórica y oratoria",
+   "pilar": "mente",
+   "epoca": "1963",
+   "titulo": "«Les tengo un sueño» fue improvisado",
+   "dato": "La parte más famosa del discurso de Martin Luther King no estaba en el texto que llevaba preparado. Hacia el final, la cantante Mahalia Jackson le gritó desde atrás: «¡Háblales del sueño, Martin!». King dejó sus notas e improvisó.",
+   "explicacion": "Fue el 28 de agosto de 1963, ante más de 250,000 personas en el Memorial de Lincoln. Su asesor Clarence Jones contó que la víspera King todavía no sabía qué iba a decir. Lo que sí tenía era práctica: ya había usado la imagen del sueño en Rocky Mount en 1962 y en Detroit en junio de 1963.\n\nLa lección retórica es incómoda: la improvisación brillante casi nunca es improvisada. King recurrió a un pasaje que había probado frente a públicos reales. Tenía el material ensayado; lo que decidió en el momento fue cuándo usarlo.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Martin_Luther_King_Jr._addresses_a_crowd_from_the_steps_of_the_Lincoln_Memorial,_USMC-09611.jpg?width=900",
+    "alt": "Martin Luther King habla ante la multitud desde las escalinatas del Memorial de Lincoln",
+    "pie": "28 de agosto de 1963: King en el Memorial de Lincoln",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (inglés): I Have a Dream",
+    "url": "https://en.wikipedia.org/wiki/I_Have_a_Dream"
+   },
+   "wiki": "Yo tengo un sueño",
+   "claves": [
+    {
+     "nombre": "Martin Luther King",
+     "quien": "Pastor y líder del movimiento por los derechos civiles en EE. UU.",
+     "wiki": "Martin Luther King"
+    },
+    {
+     "nombre": "Marcha en Washington",
+     "quien": "La manifestación de 1963 donde se pronunció el discurso.",
+     "wiki": "Marcha en Washington por el trabajo y la libertad"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué le gritó Mahalia Jackson a King y qué hizo él?",
+    "respuesta": "«¡Háblales del sueño, Martin!». King dejó el texto preparado y recurrió al pasaje del sueño que ya había usado antes."
+   }
+  },
+  {
+   "materia": "Liderazgo e influencia",
+   "pilar": "caracter",
+   "epoca": "1914",
+   "titulo": "El anuncio de Shackleton nunca apareció",
+   "dato": "Se repite que Shackleton reclutó a su tripulación con un anuncio: «Se buscan hombres para viaje peligroso… regreso a salvo dudoso». Investigadores revisaron el archivo del *Times* de 1785 a 1985 y otras publicaciones. Nunca encontraron el anuncio.",
+   "explicacion": "La primera aparición conocida del texto es de 1944, en un libro de Carl Hopkins Elmore. En 1949 se coló en la lista de «Los 100 mejores anuncios» de Julian Watkins y de ahí pasó a mil presentaciones de liderazgo. La cifra de 5,000 respuestas también es parte de la leyenda.\n\nLo que sí hizo Shackleton fue escribir una carta al *Times* anunciando su Expedición Imperial Transantártica. La prensa la cubrió gratis y llegaron candidatos de sobra. Su fama de líder se la ganó en el hielo, no en un anuncio ingenioso.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ernest_Shackleton_before_1909.jpg?width=900",
+    "alt": "Retrato de Ernest Shackleton",
+    "pie": "Ernest Shackleton, antes de 1909",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Smithsonian Magazine: Shackleton Probably Never Took Out an Ad Seeking Men for a Hazardous Journey",
+    "url": "https://www.smithsonianmag.com/smart-news/shackleton-probably-never-took-out-an-ad-seeking-men-for-a-hazardous-journey-5552379"
+   },
+   "wiki": "Ernest Shackleton",
+   "claves": [
+    {
+     "nombre": "Expedición Imperial Transantártica",
+     "quien": "La expedición de 1914-1917 que perdió el Endurance y no a sus hombres.",
+     "wiki": "Expedición Imperial Transantártica"
+    },
+    {
+     "nombre": "Endurance",
+     "quien": "El barco atrapado y aplastado por el hielo en el mar de Weddell.",
+     "wiki": "Endurance (barco)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Dónde aparece por primera vez el famoso anuncio de Shackleton?",
+    "respuesta": "En un libro de 1944 de Carl Hopkins Elmore. No se ha encontrado en ningún periódico de la época."
+   }
+  },
+  {
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "epoca": "1854",
+   "titulo": "La bomba de agua ya había hecho su daño",
+   "dato": "John Snow convenció a las autoridades de Londres de quitar la manija de la bomba de Broad Street el 8 de septiembre de 1854. Es el gesto fundador de la epidemiología. Pero el propio Snow admitió que el brote ya iba en descenso.",
+   "explicacion": "El brote de [[cólera|Infección intestinal causada por una bacteria que se transmite por agua o alimentos contaminados.]] mató a cientos de personas en Soho. Snow marcó las muertes en un mapa y vio que se agrupaban alrededor de una bomba pública. El pozo estaba a un metro de un pozo negro con fugas, donde se había lavado la ropa de un bebé enfermo. Los trabajadores de la cervecería vecina no se enfermaron: bebían su ración de cerveza, no agua del pozo.\n\nQuitar la manija no detuvo la epidemia por sí solo. Lo valioso fue el método: mapear, comparar y buscar la fuente común, cuando casi todos creían que el cólera venía del «mal aire».",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Snow-cholera-map.jpg?width=900",
+    "alt": "Mapa de John Snow con las muertes por cólera marcadas alrededor de Broad Street",
+    "pie": "El mapa de John Snow: cada marca es una muerte por cólera en 1854",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (inglés): 1854 Broad Street cholera outbreak",
+    "url": "https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak"
+   },
+   "wiki": "Epidemia de cólera de Broad Street",
+   "claves": [
+    {
+     "nombre": "Epidemiología",
+     "quien": "La ciencia que estudia cómo se reparten y propagan las enfermedades.",
+     "wiki": "Epidemiología"
+    },
+    {
+     "nombre": "Tercera pandemia de cólera",
+     "quien": "La ola mundial de cólera en la que ocurrió el brote de Londres.",
+     "wiki": "Tercera pandemia de cólera"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué no se enfermaron los trabajadores de la cervecería de Broad Street?",
+    "respuesta": "Porque bebían su ración diaria de cerveza en lugar del agua contaminada del pozo."
+   }
+  },
+  {
+   "materia": "Cine y fotografía",
+   "pilar": "cultura",
+   "epoca": "2026",
+   "titulo": "Ya se sabe dónde estaba el primer hombre fotografiado",
+   "dato": "En 1838, Daguerre fotografió el bulevar del Temple en París. La exposición duró varios minutos, así que la calle salió vacía, salvo dos personas: un hombre que se hacía lustrar los zapatos y el lustrador. El 15 de octubre de 2026, París puso una placa de bronce en el punto exacto.",
+   "explicacion": "Los coches y peatones se movían demasiado para quedar registrados. Solo el cliente quieto, con un pie apoyado, se quedó el tiempo suficiente. Se les considera los primeros seres humanos que aparecen en una fotografía.\n\nTres cineastas, Maximilien Van Aertryck, Axel Danielson y Kalle Boman, pasaron dos años buscando el lugar. Encontraron tres edificios de 1838 que siguen en pie, hicieron modelos 3D y contrataron a dos despachos de arquitectura para triangular. El punto quedó en la actual plaza de la República. La placa se titula «Un detalle inesperado».",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boulevard_du_Temple_by_Daguerre.jpg?width=900",
+    "alt": "Daguerrotipo del bulevar del Temple en París, con una calle vacía y dos figuras diminutas abajo a la izquierda",
+    "pie": "Boulevard du Temple, Louis Daguerre, 1838",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Smithsonian Magazine: Where exactly were the first humans to be captured in a photograph standing? (2026)",
+    "url": "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/"
+   },
+   "wiki": "Boulevard du Temple (fotografía)",
+   "claves": [
+    {
+     "nombre": "Louis Daguerre",
+     "quien": "Pintor e inventor francés del daguerrotipo.",
+     "wiki": "Louis Daguerre"
+    },
+    {
+     "nombre": "Daguerrotipo",
+     "quien": "El primer proceso fotográfico comercial, presentado en 1839.",
+     "wiki": "Daguerrotipo"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué solo dos personas aparecen en la foto del bulevar del Temple de 1838?",
+    "respuesta": "Porque la exposición duró minutos: todo lo que se movía desapareció. Solo quedaron un hombre lustrándose los zapatos y su lustrador."
+   }
+  },
+  {
+   "materia": "Ciudades del mundo",
+   "pilar": "mundo",
+   "epoca": "2026",
+   "titulo": "El Ángel ya necesitó 14 escalones más",
+   "dato": "Un satélite de la NASA y la agencia espacial de la India midió que partes de la Ciudad de México se hunden más de 2 centímetros al mes. Al Ángel de la Independencia le han agregado 14 escalones en su base porque el suelo alrededor bajó.",
+   "explicacion": "La ciudad está sobre el fondo de un antiguo lago. Al bombear agua del [[acuífero|Capa de roca o sedimento bajo tierra que guarda agua y de la que se extrae por pozos.]], las arcillas se compactan y el suelo baja. Un ingeniero documentó el problema por primera vez en 1925. En los años noventa y dos mil, algunas zonas se hundían unos 35 centímetros al año.\n\nEl satélite NISAR tomó las medidas entre octubre de 2025 y enero de 2026, y la NASA las publicó el 29 de abril de 2026. Zonas como el aeropuerto aparecen entre las que más bajan. El monumento no subió: es la ciudad la que se hunde a su alrededor.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Angel_de_la_Independencia_Mexico_City.jpg?width=900",
+    "alt": "El Ángel de la Independencia sobre su columna en Paseo de la Reforma",
+    "pie": "El Monumento a la Independencia, en Paseo de la Reforma",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "NASA: US-Indian Space Mission Maps Extreme Subsidence in Mexico City (2026)",
+    "url": "https://www.nasa.gov/missions/nisar/us-indian-space-mission-maps-extreme-subsidence-in-mexico-city/"
+   },
+   "wiki": "Subsidencia por sobreexplotación de acuíferos",
+   "claves": [
+    {
+     "nombre": "Monumento a la Independencia",
+     "quien": "La columna de 36 metros en Reforma, conocida como el Ángel.",
+     "wiki": "Monumento a la Independencia"
+    },
+    {
+     "nombre": "Problemas ambientales de la CDMX",
+     "quien": "El agua, el hundimiento y la contaminación de la capital.",
+     "wiki": "Problemas ambientales de la Ciudad de México"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué se hunde la Ciudad de México?",
+    "respuesta": "Porque se extrae agua del acuífero bajo un antiguo lago: las arcillas se compactan y el suelo baja, en partes más de 2 cm al mes."
+   }
+  },
+  {
+   "materia": "Economía y mercados",
+   "pilar": "patrimonio",
+   "epoca": "1252",
+   "titulo": "El dólar de la Edad Media se acuñó en Florencia",
+   "dato": "En 1252, Florencia acuñó el florín: 3.5 gramos de oro casi puro, con un lirio en una cara y San Juan Bautista en la otra. Se fabricó sin cambios importantes en peso ni diseño hasta 1533, casi tres siglos.",
+   "explicacion": "Esa estabilidad lo volvió la moneda de confianza de Europa para dotes, comercio internacional e impuestos. En el siglo XIV, unos 150 estados y señoríos acuñaban sus propias copias. El forinto húngaro, el florín inglés y el florín neerlandés, que duró hasta el euro en 2002, llevan su nombre.\n\nLa lección económica es que la confianza es un activo. Un comerciante en Brujas o en Londres aceptaba un florín sin pesarlo porque sabía lo que contenía. Esa credibilidad sostuvo la banca florentina, la que pronto dominarían los Medici.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fiorino_d'oro.jpg?width=900",
+    "alt": "Florín de oro de Florencia con el lirio de la ciudad",
+    "pie": "Un florín de oro florentino",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (inglés): Florin",
+    "url": "https://en.wikipedia.org/wiki/Florin"
+   },
+   "wiki": "Florín",
+   "claves": [
+    {
+     "nombre": "República de Florencia",
+     "quien": "El Estado que acuñó el florín y financió el Renacimiento.",
+     "wiki": "República de Florencia"
+    },
+    {
+     "nombre": "Forinto húngaro",
+     "quien": "La moneda de Hungría, que heredó el nombre del florín.",
+     "wiki": "Forinto húngaro"
+    },
+    {
+     "nombre": "Ducado",
+     "quien": "La moneda de oro de Venecia, gran rival del florín.",
+     "wiki": "Ducado (moneda)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué el florín de 1252 se volvió la moneda de confianza de Europa?",
+    "respuesta": "Porque mantuvo su peso de oro y su diseño casi sin cambios hasta 1533. Todos sabían lo que valía sin pesarlo."
+   }
+  },
+  {
+   "materia": "Ciencia y tecnología",
+   "pilar": "futuro",
+   "epoca": "2034",
+   "titulo": "El reactor de fusión que se atrasó una década",
+   "dato": "ITER, el mayor experimento de fusión nuclear del mundo, en el sur de Francia, iba a producir su primer plasma en 2025. En julio de 2024 anunció un nuevo calendario: empezar operaciones en 2034 y llegar a la fusión con deuterio y tritio en 2039.",
+   "explicacion": "Su director, Pietro Barabaschi, dijo que el retraso costará unos 5,000 millones de euros más. Las causas: la pandemia, grietas en tuberías de enfriamiento y una pausa ordenada por el regulador nuclear francés en 2022. La meta sigue siendo producir unos 500 megavatios de fusión a partir de 50 de calentamiento: diez veces más energía de la que recibe el plasma.\n\nLa [[fusión nuclear|Unión de núcleos ligeros, como los del hidrógeno, que libera enorme energía. Es lo que alimenta al Sol.]] promete energía abundante sin las emisiones del carbón ni los residuos de larga vida de la fisión. Pero ITER es un experimento, no una planta eléctrica. Muestra que el futuro energético se mide en décadas.",
+   "fuente": {
+    "nombre": "Physics World: ITER fusion reactor hit by massive decade-long delay and €5bn price hike (2024)",
+    "url": "https://physicsworld.com/a/iter-fusion-reactor-hit-by-massive-decade-long-delay-and-e5bn-price-hike/"
+   },
+   "wiki": "ITER",
+   "claves": [
+    {
+     "nombre": "Energía de fusión",
+     "quien": "La energía que se obtiene al unir núcleos atómicos.",
+     "wiki": "Energía de fusión"
+    },
+    {
+     "nombre": "Reactor de fusión nuclear",
+     "quien": "Las máquinas que intentan reproducir en la Tierra la energía del Sol.",
+     "wiki": "Reactor de fusión nuclear"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Para cuándo prevé ITER la fusión con deuterio y tritio, según el calendario de 2024?",
+    "respuesta": "Para 2039. El primer plasma estaba previsto para 2025; ahora el inicio de operaciones es en 2034."
+   }
+  },
+  {
+   "materia": "Etiqueta y protocolo",
+   "pilar": "gusto",
+   "epoca": "1815",
+   "titulo": "Un duelo por un asiento en un baile",
+   "dato": "En 1768, los embajadores de Francia y Rusia en Londres se batieron en duelo para decidir quién se sentaba junto al embajador imperial en un baile de la corte. Las peleas por precedencia eran tan frecuentes que el Congreso de Viena tuvo que inventar una regla en 1815.",
+   "explicacion": "Primero intentaron clasificar a los países por importancia, y fracasaron: nadie aceptaba estar abajo. Entonces clasificaron a los diplomáticos, no a los países. Dentro de cada rango, manda la antigüedad: quien presentó primero sus [[cartas credenciales|Documento con el que un jefe de Estado acredita a su embajador ante otro país.]] va primero.\n\nLa regla sigue viva en la Convención de Viena de 1961. Por eso, en una recepción oficial, el embajador de un país pequeño puede ir delante del de una potencia. Es la gran lección del protocolo: una regla neutral y conocida evita que cada cena se vuelva un pleito de egos.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/CongressVienna.jpg?width=900",
+    "alt": "Los diplomáticos del Congreso de Viena reunidos en un salón",
+    "pie": "El Congreso de Viena, según el grabado basado en Jean-Baptiste Isabey",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (inglés): Diplomatic rank",
+    "url": "https://en.wikipedia.org/wiki/Diplomatic_rank"
+   },
+   "wiki": "Convención de Viena sobre Relaciones Diplomáticas",
+   "claves": [
+    {
+     "nombre": "Congreso de Viena",
+     "quien": "La reunión de 1814-1815 que reordenó Europa tras Napoleón.",
+     "wiki": "Congreso de Viena"
+    },
+    {
+     "nombre": "Acreditación diplomática",
+     "quien": "El acto formal por el que un embajador es reconocido por el país anfitrión.",
+     "wiki": "Acreditación diplomática"
+    },
+    {
+     "nombre": "Nuncio apostólico",
+     "quien": "El embajador del papa, que en muchos países católicos encabeza el cuerpo diplomático.",
+     "wiki": "Nuncio apostólico"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué regla de precedencia diplomática fijó el Congreso de Viena en 1815?",
+    "respuesta": "Que dentro de cada rango manda la antigüedad: va primero el embajador que presentó antes sus credenciales, sin importar el poder de su país."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "Cartas a Lucilio",
+  "autor": "Séneca",
+  "capitulo": {
+   "numero": 1,
+   "total": 6,
+   "titulo": "Reclama tu tiempo"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/0_S%C3%A9n%C3%A8que_-_Mus%C3%A9e_du_Prado_-_Cat._144_-_(2).JPG?width=900",
+   "alt": "Busto de mármol de Séneca en el Museo del Prado",
+   "pie": "Busto de Séneca, Museo del Prado, Madrid",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "Ghiberti tardó veinte años en terminar una puerta. Brunelleschi, dieciséis en cerrar una cúpula. Los dos sabían algo que casi todos olvidamos: el tiempo es la materia prima de cualquier obra. Séneca lo dijo con más crudeza que nadie, en la primera línea de su libro más leído.\n\nHoy empezamos las *Cartas a Lucilio*. Son 124 cartas que Séneca escribió en los últimos años de su vida a un amigo más joven, Lucilio, que entonces era funcionario imperial en Sicilia. No son tratados. Son consejos íntimos, cortos, a veces regaños. Y la primera trata de una sola cosa: recuperar tu tiempo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Quién escribe"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Lucio Anneo Séneca nació en Córdoba, en la Hispania romana, hacia el año 4 a. C. Fue abogado, escritor, senador y, durante años, tutor y consejero del emperador Nerón. Fue también uno de los hombres más ricos de Roma, una contradicción que sus enemigos le echaban en cara.\n\nHacia el año 62 se retiró de la corte. Escribió las cartas entre el 62 y el 65, el año en que Nerón le ordenó quitarse la vida. Esa fecha da peso a todo lo que vas a leer. Cuando Séneca habla de la muerte y del tiempo, no especula: escribe con el reloj corriendo."
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/0_S%C3%A9n%C3%A8que_-_Mus%C3%A9e_du_Prado_-_Cat._144_-_(2).JPG?width=900",
+    "alt": "Busto de mármol de Séneca en el Museo del Prado",
+    "pie": "Busto de Séneca, Museo del Prado, Madrid",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Reclámate a ti mismo"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La carta empieza con dos palabras latinas que valen un libro: *vindica te tibi*. Literalmente, «reclámate para ti». [[Vindicar|En derecho romano, reclamar ante el juez algo que es tuyo y que otro tiene.]] era un término jurídico. Se usaba para recuperar una propiedad que alguien tenía sin derecho.\n\nSéneca le dice a Lucilio que su propia vida es esa propiedad. Y que se la están quitando de tres maneras:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Hazlo así, querido Lucilio: reclámate para ti mismo. Recoge y guarda tu tiempo, que hasta ahora te arrebataban, te robaban o se te escapaba de las manos.",
+    "fuente": "Cartas a Lucilio, I, 1"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Fíjate en los tres verbos. Hay tiempo que te **arrebatan**: las obligaciones que otros te imponen. Hay tiempo que te **roban**: lo que se va sin que lo notes, en conversaciones vacías o distracciones. Y hay tiempo que **se escapa**: el que pierdes tú solo, por descuido.\n\nSéneca añade que la pérdida más vergonzosa es la tercera, la que viene de la negligencia. Las otras dos tienen culpables. Esta solo te tiene a ti."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según Séneca, ¿cuál de las tres pérdidas de tiempo es la más vergonzosa?",
+    "opciones": [
+     "La que te arrebatan las obligaciones",
+     "La que se pierde por tu propio descuido",
+     "La que te roban los demás"
+    ],
+    "correcta": 1,
+    "explicacion": "La que se escapa por negligencia. Las otras dos tienen un responsable externo; esta depende solo de ti."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Morimos todos los días"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Luego viene la idea que da vuelta a la carta. Solemos pensar en la muerte como algo que está adelante, en un futuro lejano. Séneca dice que eso es un error de perspectiva."
+   },
+   {
+    "tipo": "cita",
+    "texto": "¿A quién me mostrarás que le ponga precio a su tiempo, que valore cada día, que entienda que muere a diario? Nos engañamos porque vemos la muerte delante de nosotros, cuando gran parte ya ha pasado: todo el tiempo que quedó atrás lo tiene la muerte.",
+    "fuente": "Cartas a Lucilio, I, 2"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es una cuenta simple y brutal. Si tienes cuarenta años, la muerte ya tiene cuarenta años tuyos. No los vas a recuperar. Lo único que está en juego es lo que queda.\n\nDe ahí sale el consejo práctico. Séneca no le pide a Lucilio que medite sobre la eternidad. Le pide algo concreto: que se aferre a cada hora y que haga hoy el trabajo de hoy. Quien depende menos del mañana, dice, vive con menos ansiedad, porque mientras aplazamos, la vida pasa."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Por qué «lo único nuestro» es el tiempo",
+    "texto": "Séneca escribe que todas las cosas son ajenas y que solo el tiempo es nuestro. Es una afirmación fuerte viniendo de un millonario. Su punto: las casas, el dinero y los cargos se pueden perder o devolver. El tiempo no se devuelve, y aun así lo regalamos con más facilidad que una moneda."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La paradoja del préstamo"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Séneca observa algo que sigue siendo verdad dos mil años después. Nadie le presta dinero a cualquiera. Firmamos pagarés, pedimos garantías, cobramos intereses. Pero cuando alguien nos pide una hora, se la damos sin pensar, como si no valiera nada.\n\nLo peor, dice, es que quien recibe nuestro tiempo no siente que debe nada. Aceptamos deber por un préstamo pequeño y nunca por haber consumido la tarde de otro. Es el único bien que nadie puede devolver, ni queriendo.\n\nPara un emprendedor esto es muy concreto. Cada junta sin agenda, cada reunión de «cinco minutos» que dura cuarenta, cada mensaje urgente que no lo era: son préstamos sin pagaré. Séneca no te pide aislarte. Te pide llevar la cuenta."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El fondo de la jarra"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Séneca reconoce que él mismo no es perfecto. No se presenta como sabio. Dice que lleva su contabilidad como un hombre que vive con lujo pero es cuidadoso: sabe cuánto gasta, en qué y por qué. No puede decir que no pierde nada, pero sí sabe qué pierde.\n\nY cierra con un refrán que cita de los antiguos romanos:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Como pensaban nuestros mayores, es tarde para ahorrar cuando ya llegaste al fondo. Porque lo que queda en el fondo no solo es lo menos, sino lo peor.",
+    "fuente": "Cartas a Lucilio, I, 5"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La imagen es la de una jarra de vino. Si empiezas a cuidarla cuando solo quedan los asientos, ya no hay nada que salvar: lo poco que queda es turbio. Con el tiempo pasa igual. No se empieza a ahorrar a los setenta. Se empieza hoy, cuando la jarra todavía está llena."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Qué enseña el refrán del fondo de la jarra?",
+    "opciones": [
+     "Que conviene disfrutar del vino antes de que se acabe",
+     "Que hay que cuidar el tiempo desde ahora, porque al final queda poco y lo peor",
+     "Que lo mejor siempre se deja para el final"
+    ],
+    "correcta": 1,
+    "explicacion": "Al fondo de la jarra queda poco y turbio. Ahorrar tiempo solo sirve si empiezas cuando todavía lo tienes."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Leer a fondo, no en todas partes"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La segunda carta continúa la misma idea por otro camino: la lectura. Lucilio, al parecer, leía de todo y saltaba de autor en autor. Séneca le advierte que eso es otra forma de perder el tiempo."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Quien está en todas partes no está en ninguna.",
+    "fuente": "Cartas a Lucilio, II, 2"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Compara al lector disperso con el viajero que pasa la vida en caminos: tiene muchos conocidos y ningún amigo. Y con la comida que no alimenta porque sale del cuerpo en cuanto entra. Su consejo: elige pocos autores de calidad, quédate con ellos y saca de cada lectura una idea que puedas digerir en el día.\n\nEso es exactamente lo que vamos a hacer en estos seis capítulos. No leer las 124 cartas de corrido, sino quedarnos con las ideas que se pueden llevar a la vida diaria."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Por qué escribir cartas"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Vale la pena preguntarse por qué Séneca eligió la forma de carta. Pudo escribir otro tratado, como había hecho antes. En cambio, escogió hablarle a una persona concreta, con sus prisas, sus lecturas y sus dudas.\n\nLa carta obliga a algo que el tratado permite evitar: ir al grano. Cada una es breve y suele terminar con un pequeño regalo, una frase de otro autor que Lucilio puede llevarse. En la segunda carta, por ejemplo, el regalo es una idea de Epicuro, el filósofo rival de los estoicos: la pobreza alegre es algo honroso. Séneca no tenía problema en tomar lo bueno de donde viniera.\n\nAhí hay otra lección sobre el tiempo. Séneca no esperó a tener el libro perfecto. Escribió una carta, luego otra, luego otra, durante tres años. Las 124 que conservamos son el resultado de trabajar un poco cada día, que es justo lo que le aconseja a su amigo. Su método y su mensaje son el mismo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Lo que Séneca le pide a Lucilio, y a ti"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Si resumes estas dos cartas, quedan tres hábitos. Primero, saber en qué se te va el tiempo, como quien revisa un estado de cuenta. Segundo, tratar el tiempo como el bien más caro que tienes, más que el dinero. Tercero, concentrarte en pocas cosas buenas en lugar de dispersarte en muchas.\n\nNinguno exige ser filósofo. Exigen algo más difícil: atención. Y ese es el hilo de todas las *Cartas*: la filosofía no es para hablar bonito, sino para vivir mejor."
+   }
+  ],
+  "paraLlevar": [
+   "«Reclámate para ti mismo»: tu tiempo es una propiedad que otros ocupan si no la reclamas.",
+   "La muerte no está solo adelante: ya tiene todo el tiempo que quedó atrás. Lo que importa es lo que queda.",
+   "Quien está en todas partes no está en ninguna: pocas lecturas, pocas tareas, bien hechas."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Qué significa «vindica te tibi» y de dónde viene la palabra «vindicar»?",
+    "respuesta": "«Reclámate para ti mismo». Vindicar era un término del derecho romano: reclamar ante el juez una propiedad que otro tiene."
+   },
+   {
+    "pregunta": "¿Por qué dice Séneca que «morimos a diario»?",
+    "respuesta": "Porque la muerte no está solo en el futuro: todo el tiempo que ya vivimos le pertenece y no se recupera."
+   }
+  ],
+  "proximo": "Cartas a Lucilio · Capítulo 2: Con quién te juntas",
+  "fuentes": [
+   {
+    "nombre": "Moral letters to Lucilius, traducción de Richard M. Gummere (Loeb, 1917), Wikisource",
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius"
+   },
+   {
+    "nombre": "Wikipedia: Cartas a Lucilio",
+    "url": "https://es.wikipedia.org/wiki/Cartas_a_Lucilio"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de dominio público de Richard M. Gummere (1917), en Wikisource, cotejada con el latín. La numeración sigue la división estándar de carta y párrafo."
+ },
+ "palabra": {
+  "palabra": "Mecenas",
+  "categoria": "Sustantivo común en cuanto al género (el mecenas, la mecenas)",
+  "pronunciacion": "me-CE-nas",
+  "definicion": "Persona o institución que protege y financia a artistas, escritores o científicos.",
+  "origen": "Del nombre de Cayo Cilnio Mecenas, consejero del emperador Augusto, que protegió a los poetas Virgilio y Horacio. Su nombre propio se volvió palabra común.",
+  "ejemplo": "En Florencia, el gremio de Calimala actuó como mecenas al pagar las puertas de bronce del Baptisterio.",
+  "repaso": {
+   "pregunta": "¿De quién viene la palabra «mecenas»?",
+   "respuesta": "De Cayo Mecenas, consejero de Augusto y protector de Virgilio y Horacio."
+  }
+ },
+ "frances": {
+  "frase": "Il faut cultiver notre jardin.",
+  "traduccion": "Hay que cultivar nuestro jardín.",
+  "pronunciacion": "il FO kül-ti-VÉ notr yar-DÁN",
+  "uso": "Cultura. Es la última frase de *Cándido* (1759), de Voltaire. Después de un viaje lleno de desastres y de filosofías que todo lo justifican, el héroe concluye que lo sensato es ocuparse de lo propio y trabajar. Los franceses la citan para decir «dejemos de teorizar y hagamos nuestra parte». «Il faut» significa «hay que».",
+  "variante": "Chacun doit cultiver son jardin. (Cada quien debe cultivar su jardín.)",
+  "repaso": {
+   "pregunta": "¿Cómo se dice en francés la frase final de Cándido, «hay que cultivar nuestro jardín»?",
+   "respuesta": "« Il faut cultiver notre jardin. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "En el concurso de 1401, ¿qué ventaja práctica tenía el relieve de Ghiberti sobre el de Brunelleschi?",
+   "opciones": [
+    "Era más grande y tenía más figuras",
+    "Estaba dorado con oro de Florencia",
+    "Salió casi de una sola pieza y usaba menos bronce"
+   ],
+   "correcta": 2,
+   "explicacion": "Ghiberti lo fundió prácticamente en una pieza; Brunelleschi unió varias. Menos bronce era menos costo en una puerta de 28 paneles."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "Según Hacienda, ¿cuántas de las 2,580 empresas que usan el estímulo de casetas lo conservan con el nuevo límite?",
+   "opciones": [
+    "2,410",
+    "1,290",
+    "170"
+   ],
+   "correcta": 0,
+   "explicacion": "2,410 lo conservan; unas 170 quedan fuera. Por eso el Gobierno dice que el ajuste toca solo a las más grandes."
+  },
+  {
+   "origen": "materias",
+   "pregunta": "A unos 400 km de altura, ¿cuánta fuerza conserva la gravedad terrestre, según la NASA?",
+   "opciones": [
+    "Cero",
+    "Alrededor de 89%",
+    "Alrededor de 10%"
+   ],
+   "correcta": 1,
+   "explicacion": "El 88.8%. Los astronautas flotan porque están en caída libre alrededor de la Tierra, no porque falte gravedad."
+  }
+ ],
+ "libro": null,
+ "proximo": "Los Medici: el banco que gobernó una ciudad sin ocupar el trono"
+}
