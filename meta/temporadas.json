@@ -1,1 +1,179 @@
-{"actualizado": "2026-10-27", "lista": [{"episodios": [{"fecha": "2026-10-20", "titulo": "Trece días para no acabar el mundo"}, {"fecha": "2026-10-21", "titulo": "Apolo 13: cómo meter un filtro cuadrado en un hueco redondo"}, {"fecha": "2026-10-22", "titulo": "Tylenol 1982: retirar 31 millones de frascos para salvar la marca"}, {"fecha": "2026-10-23", "titulo": "Kodak inventó la cámara digital en 1975 y la guardó"}, {"fecha": "2026-10-24", "titulo": "Stockdale: siete años y medio en Hanói con un manual estoico"}, {"fecha": "2026-10-25", "titulo": "Síntesis: tu manual para decidir bajo presión"}], "estado": "terminada", "id": "t01", "numero": 1, "para": "Criterio para decidir con información incompleta.", "titulo": "Decisiones bajo presión"}, {"episodios": [{"titulo": "1401: el concurso de las puertas que inventó el Renacimiento", "fecha": "2026-10-27"}, {"titulo": "Los Medici: el banco que gobernó una ciudad sin ocupar el trono"}, {"titulo": "1497: Savonarola y la hoguera de las vanidades"}, {"titulo": "El David: el bloque de mármol que nadie quería"}, {"titulo": "1513: Maquiavelo escribe en el exilio"}, {"titulo": "Síntesis: lo que Florencia enseña sobre arte, dinero y poder"}], "estado": "en_curso", "id": "t02", "numero": 2, "para": "Arte, poder y dinero en la ciudad de los Medici.", "titulo": "Florencia: la ciudad que inventó el Renacimiento"}, {"episodios": [], "estado": "pendiente", "id": "t03", "numero": 3, "para": "De Pericles a Martin Luther King: cómo se construye una palabra que mueve multitudes.", "titulo": "Grandes discursos que cambiaron la historia"}, {"episodios": [], "estado": "pendiente", "id": "t04", "numero": 4, "para": "Vino, cocina y los oficios detrás del buen gusto.", "titulo": "El arte de la mesa"}, {"episodios": [], "estado": "pendiente", "id": "t05", "numero": 5, "para": "Cómo aprendimos dónde estamos en el universo.", "titulo": "El cosmos: del cielo de los griegos al telescopio James Webb"}, {"episodios": [], "estado": "pendiente", "id": "t06", "numero": 6, "para": "Moda, perfume, urbanismo y cultura francesa.", "titulo": "París: cómo se hizo la capital del gusto"}, {"episodios": [], "estado": "pendiente", "id": "t07", "numero": 7, "para": "Sus textos, sus ideas y su huella en el arte y la política.", "titulo": "Las religiones que formaron el mundo"}, {"episodios": [], "estado": "pendiente", "id": "t08", "numero": 8, "para": "Autores, escenas y fotografía que conviene conocer.", "titulo": "Cine: los directores que cambiaron la mirada"}, {"episodios": [], "estado": "pendiente", "id": "t09", "numero": 9, "para": "Pensamiento crítico y defensa contra la persuasión.", "titulo": "Cómo te manipulan"}, {"episodios": [], "estado": "pendiente", "id": "t10", "numero": 10, "para": "Derecho con historia y consecuencias.", "titulo": "Juicios que cambiaron el mundo"}, {"episodios": [], "estado": "pendiente", "id": "t11", "numero": 11, "para": "Las casas de lujo y lo que enseñan sobre el valor.", "titulo": "Cómo se construye una marca que dura"}, {"episodios": [], "estado": "pendiente", "id": "t12", "numero": 12, "para": "Obras y compositores que conviene saber escuchar.", "titulo": "La música que hay que conocer"}, {"episodios": [], "estado": "pendiente", "id": "t13", "numero": 13, "para": "Entender el país con contexto.", "titulo": "México que no te contaron"}, {"episodios": [], "estado": "pendiente", "id": "t14", "numero": 14, "para": "Los secretos de las pinturas más famosas.", "titulo": "Historias detrás de las obras"}, {"episodios": [], "estado": "pendiente", "id": "t15", "numero": 15, "para": "Arquitectura que se recuerda, de Roma a Barragán.", "titulo": "Edificios que cambiaron cómo vivimos"}, {"episodios": [], "estado": "pendiente", "id": "t16", "numero": 16, "para": "Los relatos que explican nuestras palabras y obsesiones.", "titulo": "Mitos griegos que seguimos viviendo"}]}
+{
+ "actualizado": "2026-10-28",
+ "lista": [
+  {
+   "episodios": [
+    {
+     "fecha": "2026-10-20",
+     "titulo": "Trece días para no acabar el mundo"
+    },
+    {
+     "fecha": "2026-10-21",
+     "titulo": "Apolo 13: cómo meter un filtro cuadrado en un hueco redondo"
+    },
+    {
+     "fecha": "2026-10-22",
+     "titulo": "Tylenol 1982: retirar 31 millones de frascos para salvar la marca"
+    },
+    {
+     "fecha": "2026-10-23",
+     "titulo": "Kodak inventó la cámara digital en 1975 y la guardó"
+    },
+    {
+     "fecha": "2026-10-24",
+     "titulo": "Stockdale: siete años y medio en Hanói con un manual estoico"
+    },
+    {
+     "fecha": "2026-10-25",
+     "titulo": "Síntesis: tu manual para decidir bajo presión"
+    }
+   ],
+   "estado": "terminada",
+   "id": "t01",
+   "numero": 1,
+   "para": "Criterio para decidir con información incompleta.",
+   "titulo": "Decisiones bajo presión"
+  },
+  {
+   "episodios": [
+    {
+     "fecha": "2026-10-27",
+     "titulo": "1401: el concurso de las puertas que inventó el Renacimiento"
+    },
+    {
+     "titulo": "Los Medici: el banco que gobernó una ciudad sin ocupar el trono",
+     "fecha": "2026-10-28"
+    },
+    {
+     "titulo": "1497: Savonarola y la hoguera de las vanidades"
+    },
+    {
+     "titulo": "El David: el bloque de mármol que nadie quería"
+    },
+    {
+     "titulo": "1513: Maquiavelo escribe en el exilio"
+    },
+    {
+     "titulo": "Síntesis: lo que Florencia enseña sobre arte, dinero y poder"
+    }
+   ],
+   "estado": "en_curso",
+   "id": "t02",
+   "numero": 2,
+   "para": "Arte, poder y dinero en la ciudad de los Medici.",
+   "titulo": "Florencia: la ciudad que inventó el Renacimiento"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t03",
+   "numero": 3,
+   "para": "De Pericles a Martin Luther King: cómo se construye una palabra que mueve multitudes.",
+   "titulo": "Grandes discursos que cambiaron la historia"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t04",
+   "numero": 4,
+   "para": "Vino, cocina y los oficios detrás del buen gusto.",
+   "titulo": "El arte de la mesa"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t05",
+   "numero": 5,
+   "para": "Cómo aprendimos dónde estamos en el universo.",
+   "titulo": "El cosmos: del cielo de los griegos al telescopio James Webb"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t06",
+   "numero": 6,
+   "para": "Moda, perfume, urbanismo y cultura francesa.",
+   "titulo": "París: cómo se hizo la capital del gusto"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t07",
+   "numero": 7,
+   "para": "Sus textos, sus ideas y su huella en el arte y la política.",
+   "titulo": "Las religiones que formaron el mundo"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t08",
+   "numero": 8,
+   "para": "Autores, escenas y fotografía que conviene conocer.",
+   "titulo": "Cine: los directores que cambiaron la mirada"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t09",
+   "numero": 9,
+   "para": "Pensamiento crítico y defensa contra la persuasión.",
+   "titulo": "Cómo te manipulan"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t10",
+   "numero": 10,
+   "para": "Derecho con historia y consecuencias.",
+   "titulo": "Juicios que cambiaron el mundo"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t11",
+   "numero": 11,
+   "para": "Las casas de lujo y lo que enseñan sobre el valor.",
+   "titulo": "Cómo se construye una marca que dura"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t12",
+   "numero": 12,
+   "para": "Obras y compositores que conviene saber escuchar.",
+   "titulo": "La música que hay que conocer"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t13",
+   "numero": 13,
+   "para": "Entender el país con contexto.",
+   "titulo": "México que no te contaron"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t14",
+   "numero": 14,
+   "para": "Los secretos de las pinturas más famosas.",
+   "titulo": "Historias detrás de las obras"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t15",
+   "numero": 15,
+   "para": "Arquitectura que se recuerda, de Roma a Barragán.",
+   "titulo": "Edificios que cambiaron cómo vivimos"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t16",
+   "numero": 16,
+   "para": "Los relatos que explican nuestras palabras y obsesiones.",
+   "titulo": "Mitos griegos que seguimos viviendo"
+  }
+ ]
+}

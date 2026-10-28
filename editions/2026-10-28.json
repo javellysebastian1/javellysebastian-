@@ -1,0 +1,877 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-10-28",
+ "numero": 8,
+ "fecha": "2026-10-28",
+ "disponibleDesde": "2026-10-28T08:00:00-06:00",
+ "titulo": "Los Medici: el banco que gobernó una ciudad sin ocupar el trono",
+ "temporada": {
+  "id": "t02",
+  "numero": 2,
+  "titulo": "Florencia: la ciudad que inventó el Renacimiento",
+  "episodio": 2,
+  "totalEpisodios": 6
+ },
+ "calentamiento": [
+  {
+   "origen": "Edición #7",
+   "pregunta": "En el concurso de 1401, ¿por qué el gremio de Calimala eligió el relieve de Ghiberti?",
+   "respuesta": "Porque salió casi de una sola pieza, usaba menos bronce y costaba menos: demostraba que podía repetir ese resultado en los 28 paneles."
+  },
+  {
+   "origen": "Edición #2",
+   "pregunta": "¿Qué es la falacia del costo hundido y por qué también se llama «falacia del Concorde»?",
+   "respuesta": "Seguir invirtiendo solo por lo ya gastado. Reino Unido y Francia siguieron financiando el Concorde aunque ya no tenía sentido económico."
+  },
+  {
+   "origen": "Edición #3",
+   "pregunta": "¿Qué hizo Johnson & Johnson tras los envenenamientos de Tylenol en 1982?",
+   "respuesta": "Retiró unos 31 millones de frascos, más de 100 millones de dólares, y volvió 43 días después con un empaque de triple sello."
+  }
+ ],
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pontormo_-_Ritratto_di_Cosimo_il_Vecchio_-_Google_Art_Project.jpg?width=900",
+  "alt": "Retrato de Cosme de Médici, de perfil, con túnica roja y una rama de laurel a su lado",
+  "pie": "Cosme de Médici, «el Viejo», pintado por Pontormo hacia 1519, medio siglo después de su muerte. Galería Uffizi",
+  "credito": "Wikimedia Commons"
+ },
+ "noticias": [
+  {
+   "id": "n1",
+   "ambito": "mexico",
+   "ambitoTexto": "Guadalajara y Jalisco",
+   "fecha": "2026-10-27",
+   "historiaEnCurso": {
+    "id": "agua-gdl",
+    "titulo": "Crisis del agua en Guadalajara",
+    "capitulo": 4,
+    "dondeIbamos": "El 21 de octubre, Sheinbaum y Lemus pactaron entre 22 y 25 mil millones de pesos: la Federación haría el Acueducto Sustituto de Chapala y Jalisco la planta de Miravalle y obras de corto plazo. Los tandeos seguían sin cambios."
+   },
+   "titular": "Miravalle, la planta que limpia el agua de Chapala, va en 23%: la primera etapa operaría en la primavera de 2027",
+   "quePaso": "El lunes 26, el gobernador Pablo Lemus supervisó la obra de la **Planta Potabilizadora Número 1** de Miravalle, la que trata el agua del lago de Chapala para la zona metropolitana. Según *Quadratín Jalisco*, el secretario de Infraestructura, David Zamora, dijo que la primera etapa, de unos 2,000 litros por segundo, quedará lista «a más tardar a finales de marzo» de 2027.\n\nEl martes 27, el director de la Comisión Estatal del Agua, Luis Barboza Niño, dio más cifras a *La Crónica*: la primera etapa va en **23%** y operaría en abril de 2027. La segunda terminaría en marzo de 2028 y la tercera en enero de 2029. Al final, la planta pasaría de 7,000 litros por segundo. La inversión es de **5,417 millones de pesos**.\n\nEn los próximos 15 días se licitará la demolición de la Unidad 1 actual, para levantar ahí un módulo nuevo de 1,000 litros por segundo. Y hoy miércoles 28 se presentará en la mañanera de la presidenta el acuerdo de agua entre la Federación y Jalisco, con una inversión estimada de 25 mil millones de pesos.",
+   "aMiQue": "La planta nueva no cambia el agua de tu casa ni de tu oficina este año: la primera etapa llega en la primavera de 2027 y la obra completa en 2029. Mientras tanto, el propio director de la CEA reconoce que algunas colonias reciben agua de mala calidad por tuberías contaminadas, aunque la planta cumpla la norma. Si produces o almacenas algo sensible al agua en Guadalajara, tu filtro propio sigue siendo indispensable. Y si buscas bodega u oficina, pregunta por el historial de tandeos de la zona.",
+   "contexto": "**Hecho:** hay una pequeña diferencia de fechas. La SIOP habla de terminar la primera etapa a finales de marzo de 2027; la CEA, de operar en abril. Las dos fuentes coinciden en que sería en la primavera.\n\n**Hecho:** la CEA advirtió que los plazos pueden moverse si baja la disponibilidad de agua o si su calidad pone en riesgo las normas sanitarias. También se trabaja en el saneamiento de la presa Las Pintas.\n\n**Interpretación:** Miravalle ataca la calidad y la capacidad de potabilización. El problema de fondo, cuánta agua llega a la ciudad, depende del acueducto federal, que tardaría de dos a tres años.",
+   "queVigilar": "Qué se anuncia hoy en la mañanera sobre el acuerdo de 25 mil millones: montos por obra, plazos y quién paga qué. Después, la licitación de la demolición de la Unidad 1 en los próximos 15 días. Las fuentes no dicen si esa demolición obligará a ajustar tandeos: es la pregunta que conviene hacer.",
+   "fuentes": [
+    {
+     "nombre": "La Crónica de Hoy Jalisco: Modernización de planta potabilizadora de Miravalle registra 23% de avance (27 de octubre)",
+     "url": "https://www.cronica.com.mx/jalisco/2026/10/27/modernizacion-de-planta-potabilizadora-de-miravalle-registra-23-de-avance/"
+    },
+    {
+     "nombre": "Quadratín Jalisco: Supervisa Lemus modernización de la Planta Potabilizadora 1 en Miravalle (26 de octubre)",
+     "url": "https://jalisco.quadratin.com.mx/principal/supervisa-lemus-modernizacion-de-la-planta-potabilizadora-1-en-miravalle/"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-10-27",
+   "historiaEnCurso": {
+    "id": "paro-transportistas",
+    "titulo": "Paro nacional de transportistas",
+    "capitulo": 3,
+    "dondeIbamos": "El lunes 26 el paro de Canacar movilizó 38 puntos en 19 estados; en Jalisco hubo rodadas lentas en cuatro accesos de Guadalajara. Segob abrió mesas con otras organizaciones, pero Canacar no se sentaba y mantenía el paro."
+   },
+   "titular": "Canacar se sienta con Gobernación y se compromete a retirar los bloqueos; las demandas pasan a mesas de trabajo",
+   "quePaso": "El martes 27, después de una reunión de trabajo, la Secretaría de Gobernación informó que **Canacar y otras organizaciones del transporte de carga se comprometieron a «retirar definitivamente los bloqueos y suspender las manifestaciones»**.\n\nA cambio se instalan mesas de diálogo sobre cinco temas: seguridad en carreteras, infraestructura, asuntos fiscales, seguridad social y condiciones laborales. La Subsecretaría de Gobernación coordinará el seguimiento. Según *Excélsior*, la primera mesa fue con Hacienda, y el presidente de Canacar, Augusto Ramos, dijo que buscan «resultados tangibles».\n\nNo todo terminó. *La Silla Rota* reportó que la alianza Hamotac seguía con protestas el martes en Veracruz, en la autopista Puebla-Orizaba y en la carretera Xalapa-Perote.",
+   "aMiQue": "Las salidas de Guadalajara hacia Colima, el Bajío y la Ciudad de México deberían volver a la normalidad, y con ellas tus tiempos de entrega. Pero el tema de fondo, el estímulo de casetas y la inseguridad en carretera, sigue abierto. Si tu operación depende de fletes, este es buen momento para revisar con tu transportista si sus costos van a subir cuando se defina el tema fiscal.",
+   "contexto": "**Hecho:** el comunicado de Gobernación habla de compromisos y mesas, no de acuerdos concretos sobre el estímulo fiscal de casetas, que fue uno de los detonantes del paro.\n\n**Interpretación:** es una tregua, no una solución. El Gobierno ganó que se liberaran las carreteras; Canacar ganó un canal formal con Hacienda, Seguridad, Comunicaciones, IMSS y Trabajo. Lo que cada uno obtenga se verá en esas mesas.",
+   "queVigilar": "Lo que salga de la mesa fiscal con Hacienda sobre el límite del estímulo de casetas, y si Hamotac u otros grupos más pequeños mantienen bloqueos regionales.",
+   "fuentes": [
+    {
+     "nombre": "La Razón: Segob acuerda con Canacar retirar bloqueos tras paro nacional en 19 estados (27 de octubre)",
+     "url": "https://www.razon.com.mx/mexico/2026/10/27/segob-acuerda-con-canacar-retirar-bloqueos-tras-paro-nacional-en-19-estados/"
+    },
+    {
+     "nombre": "Excélsior: Paro nacional de transportistas: Canacar inicia diálogo con Segob (27 de octubre)",
+     "url": "https://www.excelsior.com.mx/finanzas/paro-nacional-transportistas-canacar-inicia-dialogo-con-segob"
+    },
+    {
+     "nombre": "La Silla Rota: Segob anuncia acuerdos con Canacar; Hamotac sigue con paro en Veracruz (27 de octubre)",
+     "url": "https://lasillarota.com/veracruz/estado/2026/10/27/segob-anuncia-acuerdos-con-transportistas-de-canacar-hamotac-sigue-con-paro-en-veracruz-534768.html"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-10-28",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 7,
+    "dondeIbamos": "El 26 de octubre el Brent bajó a cerca de 115 dólares por la diplomacia en Teherán, pero los hutíes atacaron infraestructura saudí y por Ormuz pasaban muy pocos barcos."
+   },
+   "titular": "El petróleo baja con la diplomacia y vuelve a subir con los misiles: Irán estudia un nuevo borrador de paz",
+   "quePaso": "El martes 27, el Brent cerró en **113.88 dólares** por barril, 1.93 menos, y el WTI en 99.90. Pesaron las conversaciones en las que participan Irán, Arabia Saudita, Turquía y Pakistán.\n\nEl miércoles 28 el precio volvió a subir. A las 2 de la tarde de Emiratos, el Brent ganaba 0.87%, a **114.87 dólares**, y el WTI 1.59%, a 101.49. La coalición saudí dijo haber derribado un misil hutí dirigido a Taif, y los hutíes se atribuyeron un ataque con dron al aeropuerto de Abha.\n\nEn la diplomacia, mediadores de Catar presentaron a Irán un nuevo borrador para terminar la guerra con Estados Unidos e Israel. Según una fuente citada por Reuters, Teherán respondería antes del fin de semana. Al mismo tiempo, *The Wall Street Journal* reportó que Washington pidió a varios países del Golfo prepararse para una posible nueva campaña militar después de las elecciones intermedias del 3 de noviembre.",
+   "aMiQue": "Un petróleo arriba de 110 dólares se cuela en tus costos aunque no compres gasolina: fletes, envases de PET y empaques plásticos se encarecen con él. El banco UBS espera que el Brent se quede cerca de 110 dólares hasta fin de año. Si estás cerrando precios de 2027 con distribuidores, conviene dejar una cláusula de revisión ligada a costos de flete y empaque.",
+   "contexto": "**Hecho:** UBS subió sus pronósticos y citó inventarios en caída, fletes récord y la recuperación de las importaciones chinas. Su estratega Giovanni Staunovo advirtió que la incertidumbre de sus cifras «sigue siendo elevada».\n\n**Interpretación:** el mercado oscila entre dos noticias: cada avance diplomático baja el precio un par de dólares y cada ataque lo devuelve. Mientras no haya acuerdo firmado ni tráfico normal por Ormuz, el piso parece alto.",
+   "queVigilar": "La respuesta de Irán al borrador catarí antes del fin de semana, las elecciones intermedias de Estados Unidos del 3 de noviembre y el resultado final de las elecciones en Israel.",
+   "fuentes": [
+    {
+     "nombre": "The National: Oil prices up due to Houthi strikes and US threat to renew Iran war (28 de octubre)",
+     "url": "https://www.thenationalnews.com/business/energy/2026/10/28/oil-prices-up-due-to-houthi-strikes-and-us-threat-to-renew-iran-war/"
+    },
+    {
+     "nombre": "The Nation (Tailandia): Brent drops US$1.93 a barrel on October 27 amid Iran talks",
+     "url": "https://www.nationthailand.com/news/world/40072812"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "Gobernó Florencia treinta años y casi nunca tuvo un cargo. Su arma no era un ejército: era un libro de cuentas.",
+    "contexto": "Florencia, 1433. El banquero más rico de la ciudad, **Cosme de Médici**, es arrestado en el Palazzo Vecchio. Sus rivales, encabezados por Rinaldo degli Albizzi, quieren ejecutarlo. Termina desterrado a Venecia.\n\nUn año después vuelve, y sus enemigos son los que se van. Desde 1434 hasta su muerte, en 1464, nadie duda de quién manda en Florencia. Sin embargo, la ciudad sigue siendo una república, y Cosme casi nunca ocupa un puesto público.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo_Medici_Riccardi-Florence.jpg?width=900",
+     "alt": "Fachada de piedra rústica del Palacio Médici en Florencia",
+     "pie": "El Palacio Médici, construido por Michelozzo para Cosme desde la década de 1440. Por fuera, sobrio; por dentro, el centro del poder",
+     "credito": "Wikimedia Commons"
+    },
+    "pregunta": "Si no tenía título ni ejército, ¿cómo gobernaba Cosme?",
+    "opciones": [
+     "Le compró al emperador el título de duque de Florencia",
+     "Usaba su dinero y su red de favores para que sus aliados ocuparan los cargos",
+     "Se hizo nombrar jefe del gobierno de por vida"
+    ]
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Un banco con sucursales en media Europa",
+    "texto": "Para entender a Cosme hay que empezar por su padre. En 1397, **Giovanni di Bicci de' Medici** fundó en Florencia un banco con 10,000 [[florines|Moneda de oro de Florencia, acuñada desde 1252. Era la moneda fuerte del comercio europeo de la época.]] reunidos entre socios. Treinta años después, el banco tenía oficinas en Roma, Venecia, Ginebra y otras ciudades.\n\nLa joya era Roma. Los Medici eran los banqueros del Papa: guardaban los depósitos de la [[Curia|El conjunto de oficinas que gobiernan la Iglesia católica desde Roma.]] y vendían sedas, joyas y plata a los cardenales. Entre 1420 y 1435, la sucursal de Roma llegó a dar hasta el 62% de las utilidades del banco.\n\nHabía un problema: la Iglesia prohibía la [[usura|Cobrar intereses por prestar dinero. La Iglesia medieval la consideraba pecado.]]. Los Medici lo resolvieron con la [[letra de cambio|Documento que ordena pagar una cantidad en otra ciudad y en otra moneda, en una fecha futura.]]. Prestabas florines en Florencia y cobrabas en Brujas, meses después, con un tipo de cambio que ya traía la ganancia. No era interés en el papel; en la práctica, sí lo era.\n\nY había una idea de organización muy moderna. Cada sucursal era una sociedad aparte, con su propio gerente como socio menor. La casa de Florencia tenía la mayoría en todas. Si una sucursal quebraba, no arrastraba a las demás. Los historiadores la comparan con una [[sociedad controladora|Empresa que es dueña de la mayoría de otras empresas y las dirige sin operar cada una.]].\n\nCuando Giovanni murió en 1429, dejó una fortuna de unos 180,000 florines. Cosme heredó el banco y algo más valioso: una lista enorme de gente que le debía dinero o favores."
+   },
+   {
+    "tipo": "giro",
+    "titulo": "El rey sin corona",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Benozzo_Gozzoli,_cappella_dei_magi,_Cosimo_de%27_Medici_and_Carlo_de%27_Medici.jpg?width=900",
+     "alt": "Detalle de un fresco: un hombre mayor con gorro rojo monta una mula blanca en una procesión",
+     "pie": "Según la identificación tradicional, Cosme aparece montado en una mula, no en un caballo, en la Capilla de los Magos de Benozzo Gozzoli (1459)",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "La respuesta es la segunda. Cosme casi nunca quiso un cargo. Florencia estaba orgullosa de ser república, y un hombre que se coronara habría despertado a sus enemigos. Así que gobernó desde su casa.\n\nSu método era el dinero. Prestaba a familias, financiaba al Estado, pagaba obras y ayudaba a quien lo necesitaba. Con eso inclinaba los votos de los consejos, sobre todo de la Signoria, el gobierno de la ciudad. Tras volver del exilio impulsó cambios en las reglas para que sus aliados llegaran a los puestos clave.\n\nEnea Silvio Piccolomini, que después sería el papa Pío II, lo resumió: Cosme era **«rey en todo menos en el nombre»**. Los asuntos se arreglaban en su casa, él decidía quién ocupaba los cargos y él decidía la guerra y la paz.\n\nY gastó como un rey. Se calcula que dedicó más de 600,000 florines al arte y la cultura: la biblioteca de San Marco, que abrió al público en 1444; la traducción de Platón al latín por Marsilio Ficino; obras de Brunelleschi, Donatello y Fra Angelico. Al morir, la ciudad grabó en su tumba un título que antes había recibido Cicerón: *Pater Patriae*, Padre de la Patria.\n\nAhora la sorpresa. El historiador Raymond de Roover, que estudió los archivos del banco, concluyó que la decadencia empezó con el propio Cosme. Ocupado en la política y el arte, dejó de vigilar a sus gerentes. En Londres prestaron al rey Eduardo IV, que debía 10,500 libras y no pagó. En Brujas, Tommaso Portinari prestó al duque de Borgoña por encima del límite de su contrato. Ambas sucursales se liquidaron en 1478, con pérdidas de más de 70,000 florines. En 1494, cuando los Medici fueron expulsados de Florencia, el banco terminó de caer."
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "Límites escritos y alguien que los mire",
+    "texto": "El diseño del banco Medici era brillante: cada sucursal era una sociedad separada, con un gerente que ganaba de las utilidades y con límites de crédito por escrito. Falló porque nadie revisaba si los límites se cumplían.\n\nCómo usar la lección, en tres pasos:\n\n1. **Pon el límite por escrito.** Cuánto crédito puede dar un distribuidor, cuánto puede gastar un gerente sin pedir permiso, cuánto inventario puede tener una tienda.\n2. **Ata el incentivo al resultado completo**, no solo a las ventas. Portinari ganaba más si prestaba más al duque; nadie le cobraba el riesgo.\n3. **Agenda la revisión**, aunque estés ocupado en otra cosa. Los Medici cerraban y revisaban las cuentas de cada sucursal una vez al año. Cuando el dueño dejó de mirar, el contrato se volvió papel.\n\nLa trampa: creer que un buen diseño se vigila solo. Ningún contrato aguanta a un gerente con incentivos para romperlo y un dueño que no pregunta."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Dónde más aparece",
+    "texto": "**Con tus distribuidores.** Una marca de suplementos o de bebidas que vende a crédito a distribuidores regionales vive el problema de Portinari: el vendedor que más coloca suele ser el que más crédito concede. Si nadie revisa la cartera vencida cada mes, el crecimiento esconde el hoyo.\n\n**En la empresa familiar.** Es común en México que el fundador, ya exitoso, se vuelque a la política, a una cámara empresarial o a proyectos personales. El negocio que pagaba todo queda en manos de gerentes sin supervisión. Es la historia de Cosme, quinientos años después.\n\n**En el poder sin cargo.** Muchos empresarios influyen más con su red de relaciones que con un puesto. Funciona, pero depende de que el motor económico siga sano. Sin banco, los Medici perdieron Florencia en 1494."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "Piensa en la persona de tu negocio que puede comprometer más dinero sin pedirte permiso. ¿Sabes cuál es su límite por escrito y cuándo fue la última vez que lo revisaste?",
+    "texto": "Si la respuesta es «no lo sé», ya encontraste tu sucursal de Brujas."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "El poder de los Medici nació de un banco bien diseñado y murió cuando sus dueños dejaron de revisar las cuentas."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Wikipedia: Medici Bank, organización, sucursales y caída (en inglés)",
+   "url": "https://en.wikipedia.org/wiki/Medici_Bank",
+   "minutos": 12
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Cómo esquivaban los Medici la prohibición de la usura?",
+    "respuesta": "Con letras de cambio: prestaban en una ciudad y cobraban en otra, meses después, con un tipo de cambio que ya incluía la ganancia."
+   },
+   {
+    "pregunta": "Según Raymond de Roover, ¿cuándo empezó la decadencia del banco Medici y por qué?",
+    "respuesta": "Con el propio Cosme: ocupado en la política y el arte, dejó de vigilar a sus gerentes. Londres y Brujas prestaron de más a reyes y duques y se liquidaron en 1478."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Wikipedia: Medici Bank",
+    "url": "https://en.wikipedia.org/wiki/Medici_Bank"
+   },
+   {
+    "nombre": "Wikipedia: Cosimo de' Medici",
+    "url": "https://en.wikipedia.org/wiki/Cosimo_de%27_Medici"
+   },
+   {
+    "nombre": "History Today: The Death of Cosimo de' Medici",
+    "url": "https://www.historytoday.com/archive/months-past/death-cosimo-de-medici"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Filosofía para vivir",
+   "pilar": "mente",
+   "formato": "dilema",
+   "titulo": "¿Le mentirías al asesino que toca tu puerta?",
+   "contexto": "Un amigo, perseguido por alguien que quiere matarlo, se esconde en tu casa. Minutos después tocan a la puerta. Es el perseguidor y te pregunta si tu amigo está adentro.\n\nEl caso no es de examen de filosofía moderna. Lo planteó en 1797 el pensador francés Benjamin Constant para atacar una idea de **Immanuel Kant**: que nunca está permitido mentir. Kant le respondió ese mismo año con un ensayo de título provocador: *Sobre un presunto derecho a mentir por amor a los hombres*.",
+   "pregunta": "¿Qué harías tú?",
+   "opciones": [
+    "Mentir sin dudar: salvar una vida pesa más que decir la verdad",
+    "No mentir: buscaría otra salida, como callar o negarme a responder",
+    "Decir la verdad: si miento, me vuelvo responsable de lo que pase después"
+   ],
+   "revelacion": "Kant sostuvo la tercera, y por eso el ensayo es, en palabras del filósofo Allen Wood, «famoso o infame». Su argumento: mentir es una declaración falsa e intencional, y daña siempre a alguien, aunque sea a la humanidad, porque debilita la confianza de la que depende todo derecho. Si admitimos excepciones «por buenos motivos», la regla de decir la verdad deja de ser universal.\n\nAñadió un detalle inquietante. Si mientes y, sin saberlo, tu amigo ya salió por la ventana, el asesino podría encontrarlo afuera por culpa de tu mentira. Entonces tú serías responsable. Si dices la verdad, lo que haga el asesino es culpa suya.\n\nCasi nadie hoy acepta la conclusión de Kant, y muchos kantianos dicen que su propia teoría permite algo mejor: que la [[ética deontológica|La que juzga las acciones por los deberes que cumplen o violan, no solo por sus consecuencias.]] distinga entre mentir y negarse a cooperar con el mal. La filósofa Helga Varden lleva el caso a la Segunda Guerra Mundial: ¿quien escondía a Ana Frank debía decir la verdad a la policía nazi? El valor del dilema es que te obliga a decidir si tus reglas tienen excepciones y quién las decide.",
+   "idea": "Una regla moral sin excepciones es fuerte hasta que el mundo te pone en la puerta a alguien que quiere usarla contra otro.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Immanuel_Kant_(painted_portrait).jpg?width=900",
+    "alt": "Retrato pintado de Immanuel Kant, de peluca blanca y casaca oscura",
+    "pie": "Immanuel Kant (1724-1804), el filósofo que sostuvo que nunca es lícito mentir",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: On a Supposed Right to Tell Lies from Benevolent Motives",
+    "url": "https://en.wikipedia.org/wiki/On_a_Supposed_Right_to_Tell_Lies_from_Benevolent_Motives"
+   },
+   "wiki": "Ética kantiana",
+   "claves": [
+    {
+     "nombre": "Immanuel Kant",
+     "quien": "Filósofo alemán de Königsberg; su ética se basa en deberes universales, no en consecuencias.",
+     "wiki": "Immanuel Kant"
+    },
+    {
+     "nombre": "Mentira piadosa",
+     "quien": "La mentira dicha para evitar un daño o por bondad, justo lo que Kant rechazó.",
+     "wiki": "Mentira piadosa"
+    },
+    {
+     "nombre": "Deontología",
+     "quien": "La familia de teorías éticas que juzga las acciones por los deberes.",
+     "wiki": "Deontología (ética)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué respondió Kant al caso del asesino en la puerta?",
+    "respuesta": "Que no es lícito mentirle: la mentira daña la confianza de la que depende todo derecho y, si sale mal, te hace responsable de las consecuencias."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "formato": "mitoRealidad",
+   "titulo": "¿Estirar antes de correr evita lesiones?",
+   "contexto": "Lo aprendiste en la escuela: antes de correr o de jugar, se estira. Veinte segundos cada músculo, y así no te lesionas.\n\nA finales de los noventa, un grupo de investigadores australianos decidió comprobarlo con un experimento grande y serio: **1,538 reclutas del ejército**, repartidos al azar en dos grupos, durante 12 semanas de entrenamiento militar.",
+   "pregunta": "¿Mito o realidad: estirar antes del ejercicio reduce de forma importante el riesgo de lesiones?",
+   "opciones": [
+    "Realidad: los que estiraron se lesionaron mucho menos",
+    "Mito: la diferencia fue pequeña y no significativa"
+   ],
+   "correcta": 1,
+   "revelacion": "Es más mito que realidad. Un grupo hizo, antes de cada sesión, un estiramiento estático supervisado de 20 segundos para seis grupos musculares de las piernas. El otro, no. Hubo 333 lesiones de piernas en total. El [[cociente de riesgo|Compara la tasa de lesiones de un grupo con la de otro. 1.0 significa que no hay diferencia.]] fue de 0.95, con un margen de 0.77 a 1.18: prácticamente igual.\n\nLos autores, en la revista *Medicine & Science in Sports & Exercise* (2000), concluyeron que estirar antes del ejercicio «no produce reducciones clínicamente significativas» del riesgo. Y señalaron otra cosa: la condición física sí parecía pesar en el riesgo, y esa sí se puede mejorar.\n\nOjo con la lectura correcta: el estudio no dice que estirar sea malo ni inútil para la flexibilidad. Dice que, como escudo contra lesiones, el ritual de antes de correr promete más de lo que da. Un calentamiento que suba la temperatura del cuerpo y una condición física que crezca poco a poco tienen mejor respaldo.",
+   "idea": "Lo que te protege no es el ritual de veinte segundos, sino la condición física que construyes semana tras semana.",
+   "fuente": {
+    "nombre": "PubMed: A randomized trial of preexercise stretching for prevention of lower-limb injury (2000)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/10694106/"
+   },
+   "wiki": "Estiramiento",
+   "claves": [
+    {
+     "nombre": "Flexibilidad",
+     "quien": "La capacidad de una articulación de moverse en todo su rango; es lo que sí mejora al estirar.",
+     "wiki": "Flexibilidad (anatomía)"
+    },
+    {
+     "nombre": "Amplitud de movimiento",
+     "quien": "Cuánto se puede mover una articulación; se mide para evaluar la flexibilidad.",
+     "wiki": "Amplitud de movimiento articular"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué encontró el estudio de 1,538 reclutas sobre estirar antes del ejercicio?",
+    "respuesta": "Que no redujo de forma significativa las lesiones de piernas (cociente de riesgo 0.95). La condición física parecía pesar más."
+   }
+  },
+  {
+   "materia": "Etiqueta y protocolo",
+   "pilar": "gusto",
+   "formato": "comoFunciona",
+   "titulo": "Por qué los platos llegan uno por uno",
+   "contexto": "En una cena formal hoy, todo parece natural: entrada, sopa, plato fuerte, postre, cada uno a su tiempo y servido a cada invitado. Por eso los cubiertos se ponen en orden, de afuera hacia adentro.\n\nPero durante siglos, en las grandes mesas de Francia, se hacía casi lo contrario. El cambio tiene fecha aproximada y un responsable: un embajador ruso en París.",
+   "pregunta": "¿Cómo se servía una gran cena francesa antes del siglo XIX?",
+   "opciones": [
+    "Todos los platos de cada tiempo se ponían juntos en la mesa y cada quien se servía lo que alcanzaba",
+    "Un mesero servía a cada invitado en su plato, en un orden fijo",
+    "Cada invitado pedía de una carta, como en un restaurante"
+   ],
+   "correcta": 0,
+   "revelacion": "En el [[servicio a la francesa|Estilo en que muchas fuentes se colocan a la vez sobre la mesa en cada tiempo y los comensales se sirven.]], la mesa era un escaparate. Decenas de fuentes se ponían a la vez, en simetría. Impresionaba, pero tenía dos defectos: la comida se enfriaba y cada invitado solo probaba lo que tenía cerca.\n\nEn 1810, el embajador ruso **Alexander Kurakin** ofreció en su residencia de Clichy, cerca de París, cenas a la manera de su país: los platos salían de la cocina uno tras otro y se servían a cada comensal. Es el [[servicio a la rusa|Estilo en que los platos llegan en secuencia desde la cocina y se sirven a cada invitado.]]. Algunos relatos fechan su llegada en 1814; el cambio en cualquier caso tardó décadas. El gran cocinero Carême todavía prefería el estilo francés en 1822. Hacia mediados del siglo XIX convivían los dos, y Urbain Dubois describió ambos en *La Cuisine Classique* (1856).\n\nGanó el ruso porque la comida llega caliente, todos prueban todo y la cena dura menos. De ahí vienen reglas que hoy damos por eternas: el menú en secuencia, los cubiertos ordenados según el uso, de afuera hacia adentro, y no más de tres tenedores y tres cuchillos a la vez en la mesa.",
+   "idea": "La etiqueta casi nunca es capricho: muchas reglas de mesa son soluciones a problemas prácticos que ya olvidamos.",
+   "fuente": {
+    "nombre": "Wikipedia: Service à la russe",
+    "url": "https://en.wikipedia.org/wiki/Service_%C3%A0_la_russe"
+   },
+   "wiki": "Servicio a la rusa",
+   "claves": [
+    {
+     "nombre": "Servicio a la francesa",
+     "quien": "El estilo anterior: muchas fuentes a la vez sobre la mesa.",
+     "wiki": "Servicio a la francesa"
+    },
+    {
+     "nombre": "Gastronomía de Francia",
+     "quien": "La cocina que convirtió el orden de la mesa en un arte con reglas.",
+     "wiki": "Gastronomía de Francia"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué es el servicio a la rusa y quién lo popularizó en París?",
+    "respuesta": "Servir los platos uno tras otro a cada invitado. Lo ofreció el embajador Alexander Kurakin en Clichy hacia 1810."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "sigueDinero",
+   "titulo": "Minecraft: vender un juego antes de terminarlo",
+   "contexto": "En 2009, un programador sueco, **Markus «Notch» Persson**, publica un juego de bloques hecho casi por él solo. No está terminado: lo llama versión *alpha*. Aun así, cobra por él unos 10 euros.\n\nEn enero de 2011, todavía en versión *beta* y ya a 14 euros, anuncia en su blog: «Un. Millón. De copias. Vendidas». Sin editora, sin tiendas físicas, sin publicidad tradicional.",
+   "pregunta": "¿Qué hizo posible vender un millón de copias de un producto inacabado?",
+   "opciones": [
+    "Una gran campaña publicitaria pagada por una editora",
+    "Cobrar barato desde el principio y prometer que cada versión nueva sería gratis para quien ya pagó",
+    "Venderlo solo en tiendas departamentales con descuento"
+   ],
+   "correcta": 1,
+   "revelacion": "Es el modelo del [[acceso anticipado|Vender un producto antes de terminarlo, a menor precio, a cambio de que los compradores reciban las mejoras futuras.]]. Quien compraba pronto pagaba menos y recibía todas las actualizaciones. Cada mejora subía el precio para los que llegaban después. Eso premiaba comprar ya y convertía a los primeros clientes en promotores.\n\nSigue el dinero. Sin editora, Persson no compartía utilidades con nadie y sus gastos eran mínimos, como notó la prensa especializada en 2011. Cada copia nueva era un archivo descargado: [[costo marginal|Lo que cuesta producir y entregar una unidad más.]] casi cero. Y las ventas anticipadas financiaban el desarrollo, en vez de pedir un préstamo o vender parte de la empresa.\n\nEl 15 de septiembre de 2014, Microsoft anunció la compra de Mojang, su empresa, por **2,500 millones de dólares**. Para entonces Minecraft llevaba más de 100 millones de descargas en PC. Cuidado con la lección: casi ningún producto en preventa llega ahí. Lo que sí se puede copiar es el mecanismo: cobrar temprano, mejorar en público y tratar bien a los primeros compradores.",
+   "idea": "La preventa bien hecha convierte a tus primeros clientes en tus inversionistas, sin darles un solo porcentaje de la empresa.",
+   "fuente": {
+    "nombre": "Microsoft News: Minecraft to join Microsoft (15 de septiembre de 2014)",
+    "url": "https://news.microsoft.com/source/2014/09/15/minecraft-to-join-microsoft/"
+   },
+   "wiki": "Acceso anticipado",
+   "claves": [
+    {
+     "nombre": "Markus Persson",
+     "quien": "Programador sueco, creador de Minecraft; dejó Mojang tras la venta a Microsoft.",
+     "wiki": "Markus Persson"
+    },
+    {
+     "nombre": "Mojang Studios",
+     "quien": "La empresa que Persson fundó para Minecraft y que Microsoft compró en 2014.",
+     "wiki": "Mojang Studios"
+    },
+    {
+     "nombre": "Minecraft",
+     "quien": "El juego de construir con bloques, uno de los más vendidos de la historia.",
+     "wiki": "Minecraft (franquicia)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo financió Minecraft su desarrollo y en cuánto se vendió Mojang?",
+    "respuesta": "Con ventas anticipadas de un juego inacabado, más baratas para los primeros compradores. Microsoft compró Mojang por 2,500 millones de dólares en 2014."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Mente y decisiones",
+   "pilar": "mente",
+   "epoca": "2000",
+   "titulo": "La mermelada que no resistió la réplica",
+   "dato": "En el famoso estudio de las mermeladas, el 30% de quienes vieron 6 sabores compraron, contra el 3% de quienes vieron 24. Pero un metaanálisis de 50 experimentos encontró que, en promedio, el efecto es casi cero.",
+   "explicacion": "El estudio de Sheena Iyengar y Mark Lepper (2000) se volvió la base de la idea de que «más opciones paralizan». Diez años después, Benjamin Scheibehenne y sus colegas juntaron 50 experimentos con unas 5,000 personas. El efecto promedio fue de 0.02: prácticamente nada.\n\nNo significa que la sobrecarga de opciones no exista. Significa que aparece solo en ciertas condiciones: cuando las opciones son difíciles de comparar o cuando no sabes qué prefieres. Si ya conoces la categoría, muchas opciones no te frenan.",
+   "fuente": {
+    "nombre": "Psychology Today: Is Choice Overload a Real Thing? (2016)",
+    "url": "https://www.psychologytoday.com/us/blog/pop-psych/201602/is-choice-overload-real-thing"
+   },
+   "wiki": "La paradoja de la elección",
+   "claves": [
+    {
+     "nombre": "Economía conductual",
+     "quien": "La disciplina que estudia cómo decidimos en la realidad, no en el modelo ideal.",
+     "wiki": "Economía conductual"
+    },
+    {
+     "nombre": "Teoría de la decisión",
+     "quien": "El estudio formal de cómo elegir entre opciones con información incompleta.",
+     "wiki": "Teoría de la decisión"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué encontró el metaanálisis de 2010 sobre la sobrecarga de opciones?",
+    "respuesta": "Que en 50 experimentos el efecto promedio era casi cero: solo aparece en ciertas condiciones."
+   }
+  },
+  {
+   "materia": "Disciplina y hábitos",
+   "pilar": "caracter",
+   "epoca": "Siglo XXI",
+   "titulo": "Seinfeld nunca inventó «no rompas la cadena»",
+   "dato": "El método de tachar con una X roja cada día que trabajas y «no romper la cadena» se atribuye a Jerry Seinfeld. El comediante ha dicho que la idea no es suya y que ni siquiera afirma haberla usado.",
+   "explicacion": "La historia viene de Brad Isaac, un comediante principiante que contó en el blog *Lifehacker* que Seinfeld le dio ese consejo tras bambalinas. Se volvió viral. El escritor James Clear, que la difundió en 2013, añadió después una nota: Seinfeld se ha deslindado de ella.\n\nLo curioso es que el método funciona por razones que no dependen de su autor. Hace visible la constancia y convierte la meta en algo diario y pequeño. Es un buen recordatorio: una técnica se juzga por lo que hace, no por la celebridad a la que se le cuelga.",
+   "fuente": {
+    "nombre": "James Clear: How to Stop Procrastinating on Your Goals by Using the «Seinfeld Strategy» (con la nota de actualización)",
+    "url": "https://jamesclear.com/stop-procrastinating-seinfeld-strategy"
+   },
+   "wiki": "Hábito (ciencias de la salud)",
+   "claves": [
+    {
+     "nombre": "Automaticidad",
+     "quien": "La capacidad de hacer algo sin pensarlo; es a donde lleva un hábito repetido.",
+     "wiki": "Automaticidad"
+    },
+    {
+     "nombre": "Ciclo del hábito",
+     "quien": "El esquema señal, rutina y recompensa con que se explica cómo se forma un hábito.",
+     "wiki": "Ciclo de costumbre (habit loop)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿De dónde viene la historia de «no rompas la cadena» y qué dice Seinfeld de ella?",
+    "respuesta": "De Brad Isaac, que la contó en Lifehacker. Seinfeld dice que la idea no es suya."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "epoca": "1900",
+   "titulo": "Los Juegos que duraron cinco meses",
+   "dato": "Los Juegos Olímpicos de París 1900 empezaron el 14 de mayo y terminaron un día como hoy, el 28 de octubre. Duraron más de cinco meses, y muchos atletas murieron sin saber que habían competido en unos Juegos Olímpicos.",
+   "explicacion": "Se celebraron dentro de la Exposición Universal de París y no tuvieron un comité olímpico propio. Las pruebas se mezclaron con las ferias y a veces se anunciaban como «concursos» de la Exposición. La estadounidense Margaret Abbott, campeona de golf, murió en 1955 sin saber que era la primera campeona olímpica de su país.\n\nFueron los primeros Juegos con mujeres. Hubo pruebas que nunca se repitieron, como el tiro a palomas vivas o los globos aerostáticos, y casi todos los ganadores recibieron copas, no medallas. El COI asignó después oros, platas y bronces por posición.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris_1900_olympic_poster.jpg?width=900",
+    "alt": "Cartel de 1900 con una esgrimista y el anuncio de los concursos de la Exposición",
+    "pie": "Cartel de las pruebas de esgrima de la Exposición Universal de 1900, que hoy cuentan como olímpicas",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: 1900 Summer Olympics",
+    "url": "https://en.wikipedia.org/wiki/1900_Summer_Olympics"
+   },
+   "wiki": "Juegos Olímpicos de París 1900",
+   "claves": [
+    {
+     "nombre": "Charlotte Cooper",
+     "quien": "Tenista británica, primera mujer en ganar una prueba olímpica individual, el 11 de julio de 1900.",
+     "wiki": "Charlotte Cooper"
+    },
+    {
+     "nombre": "Mujeres en los Juegos Olímpicos",
+     "quien": "La historia de la participación femenina, que empezó justo en París 1900.",
+     "wiki": "Mujeres en los Juegos Olímpicos"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué muchos atletas de París 1900 no sabían que eran olímpicos?",
+    "respuesta": "Porque los Juegos se diluyeron dentro de la Exposición Universal y duraron más de cinco meses, del 14 de mayo al 28 de octubre."
+   }
+  },
+  {
+   "materia": "Arte y pintura",
+   "pilar": "cultura",
+   "epoca": "c. 1440",
+   "titulo": "El primer desnudo en bronce en mil años",
+   "dato": "El *David* de bronce de Donatello es considerado la primera escultura exenta de un hombre desnudo desde la Antigüedad. Casi seguro la pagó Cosme de Médici, aunque no hay contrato que lo pruebe.",
+   "explicacion": "Mide 158 centímetros y se fecha, según la mayoría, en la década de 1440. Vasari cuenta que estaba sobre una columna en el centro del patio del palacio Médici. Un adolescente con sombrero de pastor, desnudo y relajado, en lugar del héroe armado de la tradición: era una provocación en una ciudad cristiana.\n\nTambién era un mensaje político. David, el débil que vence al gigante, era el símbolo de Florencia frente a sus enemigos poderosos. Cuando los Medici fueron expulsados en 1494, la ciudad se llevó la estatua al palacio de gobierno. Hoy está en el Bargello.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bronze_David_by_Donatello-Bargello.jpg?width=900",
+    "alt": "Escultura de bronce de un joven desnudo con sombrero, de pie sobre la cabeza de Goliat",
+    "pie": "El David de Donatello, c. 1440, Museo del Bargello",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: David (Donatello, bronze)",
+    "url": "https://en.wikipedia.org/wiki/David_(Donatello,_bronze)"
+   },
+   "wiki": "David (Donatello)",
+   "claves": [
+    {
+     "nombre": "Cosme de Médici",
+     "quien": "Banquero que gobernó Florencia de 1434 a 1464; casi seguro, el mecenas de la obra.",
+     "wiki": "Cosme de Médici"
+    },
+    {
+     "nombre": "Museo del Bargello",
+     "quien": "El museo de escultura de Florencia donde está el David desde 1865.",
+     "wiki": "Bargello"
+    },
+    {
+     "nombre": "Escultura del Renacimiento",
+     "quien": "El movimiento que recuperó el cuerpo humano y la escala de la escultura antigua.",
+     "wiki": "Escultura del Renacimiento en Italia"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué es histórico el David de bronce de Donatello?",
+    "respuesta": "Es considerado la primera escultura exenta de un hombre desnudo desde la Antigüedad. Estaba en el patio del palacio Médici."
+   }
+  },
+  {
+   "materia": "Derecho y poder",
+   "pilar": "mundo",
+   "epoca": "1386",
+   "titulo": "El cerdo que fue ahorcado con ropa",
+   "dato": "En 1386, en Falaise, Normandía, un tribunal condenó a muerte a una cerda que había matado a un niño. La vistieron con ropa humana y la ahorcaron en la plaza, frente al ayuntamiento.",
+   "explicacion": "No fue un caso aislado. El historiador E. P. Evans documentó al menos 25 procesos contra cerdos entre 1250 y 1500, casi todos en Francia. Los animales podían ser encarcelados, tener abogado y ser ejecutados en público. La ejecución de Falaise costó diez sueldos y diez denarios, y se pintó en un muro de la iglesia de la Santísima Trinidad, fresco que se perdió en el siglo XIX.\n\n¿Por qué juzgar a un animal? Los historiadores discuten. Evans lo ligó a la [[ley del talión|Principio de castigar con un daño equivalente al causado: «ojo por ojo».]]. Otros ven en estos juicios una forma de mostrar que el orden y la justicia del señor alcanzaban a todo, incluso a lo que no podía entenderlos.",
+   "fuente": {
+    "nombre": "Leiden Medievalists Blog: Homicidal Hogs, Murderous Pigs on Trial in Medieval France",
+    "url": "https://leidenmedievalistsblog.nl/articles/homicidal-hogs"
+   },
+   "wiki": "Juicios a animales",
+   "claves": [
+    {
+     "nombre": "Ordalía",
+     "quien": "Otra práctica judicial medieval: probar la culpa con fuego, agua o combate.",
+     "wiki": "Ordalía"
+    },
+    {
+     "nombre": "Pena de muerte en la Edad Media",
+     "quien": "Cómo se castigaba entonces y por qué las ejecuciones eran públicas.",
+     "wiki": "Pena de muerte en la Edad Media"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué pasó en Falaise en 1386?",
+    "respuesta": "Una cerda que mató a un niño fue juzgada, vestida con ropa humana y ahorcada en la plaza."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "epoca": "1979",
+   "titulo": "El programa que vendía computadoras",
+   "dato": "VisiCalc, la primera hoja de cálculo para computadora personal, salió en 1979 por menos de 100 dólares. Mucha gente compró una Apple II de unos 2,000 dólares solo para poder usarla.",
+   "explicacion": "La crearon Dan Bricklin y Bob Frankston. Según los distribuidores de Apple, VisiCalc generó más ventas de computadoras para negocios que todo el resto del software junto, y se dice que más de un cuarto de las Apple II vendidas en 1979 se compraron por ella. Vendió más de 700,000 copias en seis años.\n\nEs el primer gran ejemplo de *killer app*: un programa tan útil que arrastra la venta del aparato. Y de un riesgo: en 1983 llegó Lotus 1-2-3, más potente y compatible, y en diciembre de ese año VisiCalc vendió solo 5,700 copias. En 1985 dejó de venderse.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Visicalc.png?width=900",
+    "alt": "Pantalla verde de VisiCalc con filas y columnas de números",
+    "pie": "VisiCalc en una Apple II: filas, columnas y fórmulas que se recalculan solas",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: VisiCalc",
+    "url": "https://en.wikipedia.org/wiki/VisiCalc"
+   },
+   "wiki": "Hoja de cálculo",
+   "claves": [
+    {
+     "nombre": "Apple II",
+     "quien": "La computadora personal de Apple de 1977 que VisiCalc convirtió en herramienta de negocios.",
+     "wiki": "Apple II"
+    },
+    {
+     "nombre": "IBM PC",
+     "quien": "La computadora de 1981 donde Lotus 1-2-3 desplazó a VisiCalc.",
+     "wiki": "IBM PC"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué VisiCalc es el primer gran ejemplo de killer app?",
+    "respuesta": "Porque la gente compraba una Apple II de unos 2,000 dólares solo para usar ese programa de menos de 100."
+   }
+  },
+  {
+   "materia": "El cosmos",
+   "pilar": "futuro",
+   "epoca": "2061",
+   "titulo": "El cometa Halley ya viene de regreso",
+   "dato": "El 9 de diciembre de 2023, el cometa Halley llegó al punto más lejano de su órbita. Desde entonces viene de vuelta: pasará lo más cerca del Sol el 28 de julio de 2061.",
+   "explicacion": "Halley tarda entre 75 y 79 años en dar una vuelta, porque los planetas lo jalan un poco en cada viaje. Su última visita fue en 1986, cuando la sonda europea Giotto se acercó a su núcleo. Fue el primer cometa del que se predijo el regreso: Edmond Halley lo calculó y el cometa volvió en 1758, después de su muerte.\n\nMark Twain nació en 1835, semanas después de un paso del Halley, y dijo que se iría con él. Murió el 21 de abril de 1910, un día después de su siguiente paso por el punto más cercano al Sol. Si tienes hoy menos de 50 años, tienes buenas posibilidades de verlo.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lspn_comet_halley.jpg?width=900",
+    "alt": "El cometa Halley con su cola contra el cielo estrellado",
+    "pie": "El cometa Halley en su visita de 1986",
+    "credito": "NASA / Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "EarthSky: Comet Halley reaches its farthest point from the sun (2023)",
+    "url": "https://earthsky.org/space/comet-halley-reaches-its-farthest-point-from-the-sun-aphelion-dec-9-2023/"
+   },
+   "wiki": "Cometa Halley",
+   "claves": [
+    {
+     "nombre": "Giotto",
+     "quien": "La sonda europea que en 1986 fotografió de cerca el núcleo del Halley.",
+     "wiki": "Giotto (sonda espacial)"
+    },
+    {
+     "nombre": "Núcleo de un cometa",
+     "quien": "El cuerpo sólido de hielo y roca del que sale la cola cuando se acerca al Sol.",
+     "wiki": "Núcleo (cometa)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuándo volverá el cometa Halley a su punto más cercano al Sol?",
+    "respuesta": "El 28 de julio de 2061. Llegó a su punto más lejano el 9 de diciembre de 2023."
+   }
+  },
+  {
+   "materia": "Gastronomía, vino y destilados",
+   "pilar": "gusto",
+   "epoca": "1997",
+   "titulo": "El Cabernet Sauvignon es hijo de una uva blanca",
+   "dato": "En 1997, un análisis de ADN en la Universidad de California en Davis demostró que la uva tinta más famosa del mundo, el Cabernet Sauvignon, es hija del Cabernet Franc y del Sauvignon Blanc, una uva blanca.",
+   "explicacion": "Carole Meredith y John Bowers compararon 30 marcadores genéticos en 51 variedades. El resultado se publicó en *Nature Genetics*. El nombre ya era una pista que nadie había tomado en serio: Cabernet y Sauvignon juntos.\n\nLos investigadores creen que fue un cruce espontáneo entre viñedos vecinos, probablemente en la región de Burdeos. Los viticultores no hacían híbridos a propósito antes del siglo XVII. La uva que hoy vale fortunas nació, quizá, de un accidente entre dos hileras.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grappe_de_raisin_cabernet_sauvignon.jpg?width=900",
+    "alt": "Racimo de uvas Cabernet Sauvignon, pequeñas y casi negras",
+    "pie": "Racimo de Cabernet Sauvignon",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "UC Davis: DNA Fingerprinting Reveals Parentage of Classic Wine Grape (1997)",
+    "url": "https://www.ucdavis.edu/news/dna-fingerprinting-reveals-parentage-classic-wine-grape/"
+   },
+   "wiki": "Viñedo de Burdeos",
+   "claves": [
+    {
+     "nombre": "Sauvignon blanc",
+     "quien": "La uva blanca que resultó ser madre del Cabernet Sauvignon.",
+     "wiki": "Sauvignon (uva)"
+    },
+    {
+     "nombre": "Carménère",
+     "quien": "Otra uva bordelesa de la misma familia, hoy emblema de Chile.",
+     "wiki": "Carmenere"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Quiénes son los padres del Cabernet Sauvignon según el ADN?",
+    "respuesta": "El Cabernet Franc y el Sauvignon Blanc. Lo demostraron Meredith y Bowers en UC Davis en 1997."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "Cartas a Lucilio",
+  "autor": "Séneca",
+  "capitulo": {
+   "numero": 2,
+   "total": 6,
+   "titulo": "Con quién te juntas"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gladiators_from_the_Zliten_mosaic_3.JPG?width=900",
+   "alt": "Mosaico romano con gladiadores combatiendo en la arena",
+   "pie": "Gladiadores en el mosaico de Zliten (Libia, siglo I o II). Séneca escribió sobre estos espectáculos en la carta 7",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "Cosme de Médici gobernó Florencia sin un solo soldado. Su poder estaba en una red: socios, deudores, artistas, amigos. Supo mejor que nadie que uno es, en buena parte, la gente de la que se rodea.\n\nSéneca pensaba lo mismo, pero desde el otro lado. No le preocupaba cómo usar a los demás para ganar poder. Le preocupaba cómo los demás nos cambian sin que lo notemos. En el capítulo anterior, sus primeras cartas hablaban del tiempo. Hoy leemos tres cartas, la 3, la 6 y la 7, que forman un pequeño tratado sobre amigos, maestros y multitudes."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "A quién le escribe"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Conviene recordar quién recibe estas cartas. Lucilio era más joven que Séneca, un hombre de origen modesto que había ascendido por su cuenta hasta el rango de [[caballero|En Roma, el orden ecuestre: la clase de los hombres ricos que no eran senadores, muchos de ellos dedicados a los negocios y la administración.]] y que, en los años de la correspondencia, servía como procurador en Sicilia: un alto funcionario que administraba los bienes del emperador en la isla.\n\nEs decir, no le escribe a un monje ni a un estudiante. Le escribe a un ejecutivo ocupado, con poder, con viajes, con gente que le pide cosas todos los días. Por eso los consejos sobre amigos y compañías no son abstractos. Lucilio vivía rodeado de personas que querían algo de él, y tenía que decidir a quién dejar entrar."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Llamar amigo a cualquiera"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La carta 3 empieza con un regaño amable. Lucilio le ha mandado una carta por medio de alguien a quien llama «amigo». Pero en la misma carta le pide a Séneca que no le cuente a ese «amigo» nada de sus asuntos.\n\nSéneca detecta la contradicción. Si no puedes confiarle tus asuntos, no es tu amigo; es un conocido. Los romanos usaban la palabra *amicus* con mucha soltura: llamaban así a cualquier persona con la que tenían trato, igual que hoy decimos «mi amigo el del banco». Séneca quiere devolverle a la palabra su peso."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Piensa largo tiempo si debes recibir a alguien en tu amistad. Cuando lo hayas decidido, recíbelo con todo el corazón y háblale con la misma libertad con que te hablas a ti mismo.",
+    "fuente": "Cartas a Lucilio, III, 2"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El orden importa. Primero se juzga, después se confía. La mayoría hacemos lo contrario: confiamos rápido, por simpatía, y juzgamos tarde, cuando ya nos fallaron.\n\nSéneca añade algo más fino. Quien trata a un amigo con sospecha le enseña a engañar. Hay personas que se vuelven desleales porque se les trató como si ya lo fueran. La confianza, una vez dada, también educa."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Ni a todos ni a nadie",
+    "texto": "Séneca resume la carta en una regla de equilibrio: «Las dos cosas son un vicio: confiar en todos y no confiar en ninguno». La primera es ingenua; la segunda, segura pero estéril. Lo sensato está en medio: pocos, bien elegidos, y con ellos sin reservas."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según la carta 3, ¿en qué orden deben ir el juicio y la confianza en una amistad?",
+    "opciones": [
+     "Primero confiar, para conocer a la persona, y después juzgarla",
+     "Primero juzgar con calma y, una vez decidido, confiar por completo",
+     "Juzgar y desconfiar siempre, por si acaso"
+    ],
+    "correcta": 1,
+    "explicacion": "Séneca pide pensar largo antes de admitir a alguien. Después, recibirlo con todo el corazón y hablarle como a uno mismo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El camino corto: el ejemplo"
+   },
+   {
+    "tipo": "texto",
+    "texto": "En la carta 6, Séneca cuenta que siente que está cambiando, que se está transformando. Y quiere compartir ese cambio con Lucilio. Le promete enviarle libros con los pasajes marcados para que no pierda tiempo buscando.\n\nPero enseguida dice que los libros no bastan. Lo que más enseña es convivir con alguien que vive lo que dice."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Más te aprovecharán la voz viva y la convivencia que cualquier discurso. Largo es el camino de los preceptos; breve y eficaz, el de los ejemplos.",
+    "fuente": "Cartas a Lucilio, VI, 5"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Para probarlo da tres nombres. Cleantes aprendió más de la vida de Zenón, el fundador del estoicismo, que de sus lecciones. Platón, Aristóteles y otros sacaron más del carácter de Sócrates que de sus palabras.\n\nEs una idea muy práctica. Si quieres aprender a negociar, sirve más acompañar a un buen negociador a tres reuniones que leer cinco libros. Si quieres aprender a dirigir una empresa, mira cómo trata a la gente alguien que lo hace bien. Los preceptos te dicen qué hacer; el ejemplo te enseña cómo se ve hacerlo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Lo que más hay que evitar"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La carta 7 empieza con una pregunta y una respuesta de una sola palabra. Lucilio quiere saber qué es lo que más debe evitar. Séneca contesta: *turbam*. La multitud.\n\nNo habla de odiar a la gente. Habla del efecto que tiene la masa sobre el carácter. Nadie sale de un gentío igual que entró, dice. Siempre se lleva algún vicio que no traía: un poco más de ambición, un poco más de lujo, un poco más de crueldad."
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gladiators_face_animals_Zliten_mosaic.JPG?width=900",
+    "alt": "Mosaico romano con gladiadores enfrentando animales en la arena",
+    "pie": "Combates con fieras en el mosaico de Zliten. Los espectáculos del mediodía eran los más crudos",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Y cuenta lo que le pasó. Un día fue al anfiteatro a la hora del mediodía, esperando algo ligero: juegos, humor, un descanso. Encontró lo contrario. A esa hora no había combates con armadura ni técnica. Había [[ejecuciones públicas|En Roma, condenados obligados a pelear sin protección hasta morir, como espectáculo entre los combates principales.]]: hombres sin protección, obligados a matarse unos a otros, mientras la gente gritaba que siguieran.\n\nLo que le impresiona no es solo la crueldad del espectáculo. Es lo que le hace al público. Séneca confiesa que regresó a casa más ambicioso, más amante del placer, más cruel e inhumano, solo por haber estado entre la gente."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Qué le preocupa a Séneca de los espectáculos del mediodía en el anfiteatro?",
+    "opciones": [
+     "Que eran aburridos y una pérdida de tiempo",
+     "Que eran caros y arruinaban a las familias",
+     "Que endurecían también al público: uno salía más cruel de lo que entró"
+    ],
+    "correcta": 2,
+    "explicacion": "Su punto no es solo la crueldad contra los condenados, sino el daño moral a los espectadores, contagiados por la multitud."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La multitud de hoy"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Hoy casi nadie va al anfiteatro, pero la multitud no desapareció: cambió de lugar. Está en la pantalla del celular, en los comentarios, en el grupo de mensajes donde todos opinan de todo. Funciona igual que en Roma: no tienes que gritar para que el ambiente te cambie. Basta con estar ahí, mirando, un rato cada día.\n\nSéneca no habría pedido que tiraras el teléfono. Habría pedido algo más difícil: que notaras con qué ánimo sales de cada lugar. Después de una comida con cierto socio, ¿sales con ideas o con envidia? Después de media hora en una red social, ¿más tranquilo o más irritado? Esa es su prueba. No se trata de juzgar a la gente que está ahí, sino de medir lo que el lugar te hace a ti."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Ni imitar ni odiar"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Séneca ve dos errores frente a la mayoría. Uno es imitarla porque son muchos. El otro es odiarla porque son distintos de ti. Los dos te atan a la multitud: el que copia y el que desprecia siguen pendientes de ella.\n\nSu salida es retirarse hacia dentro y escoger bien la compañía."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Retírate en ti mismo cuanto puedas. Trata con quienes te harán mejor; recibe a quienes tú puedes hacer mejores. Esto es recíproco: los hombres, mientras enseñan, aprenden.",
+    "fuente": "Cartas a Lucilio, VII, 8"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La frase tiene dos mitades. La primera es obvia: busca a quien te eleve. La segunda casi siempre se olvida: rodéate también de gente a la que tú puedas ayudar. Enseñar es una de las mejores formas de aprender. Un fundador que explica su estrategia a su equipo la entiende mejor que el día que la escribió.\n\nY no necesitas aplausos masivos. Séneca cierra con tres citas. Demócrito: «Uno solo vale para mí por un pueblo». Un sabio anónimo, que enseñaba aunque lo escucharan pocos: «Me bastan pocos, me basta uno, me basta ninguno». Y Epicuro, que le escribió a un compañero: «Somos el uno para el otro un teatro bastante grande»."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Lo que Séneca le pide a Lucilio, y a ti"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Juntas, las tres cartas dan una pequeña política de relaciones. Primero, no regales la palabra «amigo»: juzga antes y confía después, sin reservas. Segundo, aprende de personas, no solo de libros: busca a alguien cuya vida quieras observar de cerca. Tercero, cuida los ambientes donde pasas el tiempo, porque te moldean aunque no participes.\n\nSéneca no pide aislarse. Era senador, consejero de Nerón y uno de los hombres más ricos de Roma; vivía rodeado de gente. Lo que pide es elegir. En el próximo capítulo, Séneca habla de algo que también se elige y que casi todos llevamos mal: la relación con el dinero y la pobreza."
+   }
+  ],
+  "paraLlevar": [
+   "Juzga antes de admitir a un amigo; después, confía sin reservas.",
+   "Largo es el camino de los preceptos; breve y eficaz, el de los ejemplos.",
+   "Trata con quien te hace mejor y con quien tú puedes hacer mejor: enseñando se aprende."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Qué responde Séneca cuando Lucilio pregunta qué debe evitar sobre todo?",
+    "respuesta": "«La multitud»: nadie sale de un gentío sin algún vicio que no traía."
+   },
+   {
+    "pregunta": "¿Qué dice Séneca sobre preceptos y ejemplos en la carta 6?",
+    "respuesta": "Que el camino de los preceptos es largo, y el de los ejemplos, breve y eficaz. Pone como casos a Cleantes con Zenón y a Platón con Sócrates."
+   }
+  ],
+  "proximo": "Cartas a Lucilio · Capítulo 3: Ensayar la pobreza",
+  "fuentes": [
+   {
+    "nombre": "Moral letters to Lucilius, traducción de Richard M. Gummere (Loeb, 1917), cartas 1 a 65",
+    "url": "https://pages.pomona.edu/~cmc24747/sources/seneca/sen_ep_1.htm"
+   },
+   {
+    "nombre": "Moral letters to Lucilius, Wikisource",
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius"
+   },
+   {
+    "nombre": "Wikipedia: Cartas a Lucilio",
+    "url": "https://es.wikipedia.org/wiki/Cartas_a_Lucilio"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de dominio público de Richard M. Gummere (1917), cotejada con el latín. La numeración sigue la división estándar de carta y párrafo."
+ },
+ "palabra": {
+  "palabra": "Nepotismo",
+  "categoria": "Sustantivo masculino",
+  "pronunciacion": "ne-po-TIS-mo",
+  "definicion": "Preferencia desmedida que alguien con poder da a sus parientes para cargos, contratos o favores.",
+  "origen": "Del italiano *nepotismo*, y este del latín *nepos*, «sobrino» o «nieto». Nació en la Roma de los papas: como no podían tener hijos legítimos, muchos hacían cardenales a sus sobrinos. Calixto III, un Borgia, hizo cardenal a su sobrino Rodrigo, que llegó a papa como Alejandro VI. Inocencio XII limitó la práctica en 1692.",
+  "ejemplo": "Los Medici no inventaron el nepotismo, pero lo practicaron a gran escala: varios miembros de la familia llegaron a ser papas.",
+  "repaso": {
+   "pregunta": "¿De qué palabra latina viene «nepotismo» y por qué?",
+   "respuesta": "De *nepos*, «sobrino»: muchos papas daban cargos y el cardenalato a sus sobrinos."
+  }
+ },
+ "frances": {
+  "frase": "On se tutoie ?",
+  "traduccion": "¿Nos tuteamos?",
+  "pronunciacion": "on se tü-TUÁ",
+  "uso": "Conversación. En Francia, entre adultos que no se conocen, lo normal es hablar de *vous* (usted). Pasar al *tu* es un pequeño acontecimiento social y suele proponerlo la persona de más edad o jerarquía. Esta pregunta es la forma natural de hacerlo. Si te la hacen, aceptar con gusto es lo cortés.",
+  "variante": "On peut se tutoyer, si vous voulez. (Podemos tutearnos, si quiere.)",
+  "repaso": {
+   "pregunta": "¿Cómo propones en francés pasar del «usted» al «tú»?",
+   "respuesta": "« On se tutoie ? »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "Según el historiador Raymond de Roover, ¿qué hizo que el banco Medici empezara a decaer?",
+   "opciones": [
+    "Que el Papa dejó de depositar en él",
+    "Que Cosme, ocupado en la política y el arte, dejó de vigilar a sus gerentes",
+    "Que la Iglesia prohibió las letras de cambio"
+   ],
+   "correcta": 1,
+   "explicacion": "Sin supervisión, Londres y Brujas prestaron de más a reyes y duques. Ambas sucursales se liquidaron en 1478 con pérdidas de más de 70,000 florines."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Cuánto avance reportó la Comisión Estatal del Agua en la primera etapa de la planta de Miravalle?",
+   "opciones": [
+    "23%",
+    "50%",
+    "75%"
+   ],
+   "correcta": 0,
+   "explicacion": "23%. La primera etapa, de unos 2,000 litros por segundo, operaría en la primavera de 2027 y la obra completa en 2029."
+  },
+  {
+   "origen": "materias",
+   "pregunta": "¿Qué encontró el estudio con 1,538 reclutas sobre estirar antes de entrenar?",
+   "opciones": [
+    "Que reducía las lesiones a la mitad",
+    "Que aumentaba las lesiones",
+    "Que no reducía las lesiones de forma significativa"
+   ],
+   "correcta": 2,
+   "explicacion": "El cociente de riesgo fue 0.95, sin diferencia significativa. La condición física parecía pesar más."
+  }
+ ],
+ "libro": null,
+ "proximo": "1497: Savonarola y la hoguera de las vanidades"
+}
