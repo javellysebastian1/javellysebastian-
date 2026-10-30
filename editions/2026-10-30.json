@@ -1,0 +1,854 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-10-30",
+ "numero": 9,
+ "fecha": "2026-10-30",
+ "disponibleDesde": "2026-10-30T08:00:00-06:00",
+ "titulo": "1497: Savonarola y la hoguera de las vanidades",
+ "temporada": {
+  "id": "t02",
+  "numero": 2,
+  "titulo": "Florencia: la ciudad que inventó el Renacimiento",
+  "episodio": 3,
+  "totalEpisodios": 6
+ },
+ "calentamiento": [
+  {
+   "origen": "Edición #8",
+   "pregunta": "¿Cómo gobernó Cosme de Médici Florencia sin ocupar casi ningún cargo?",
+   "respuesta": "Con su dinero y su red de favores: sus aliados ocupaban los puestos clave. Pío II lo llamó «rey en todo menos en el nombre»."
+  },
+  {
+   "origen": "Edición #4",
+   "pregunta": "¿Qué inventó un ingeniero de Kodak en 1975 que la empresa decidió guardar?",
+   "respuesta": "La primera cámara digital. Kodak temía que dañara su negocio de película, y otros la aprovecharon."
+  },
+  {
+   "origen": "Edición #6",
+   "pregunta": "En la materia de productos digitales, ¿qué contrato decidió regalar Y Combinator?",
+   "respuesta": "El SAFE, un acuerdo simple para invertir en una startup a cambio de acciones futuras. Lo publicó gratis para que se volviera el estándar."
+  }
+ ],
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Girolamo_Savonarola_by_Fra_Bartolommeo_(1497).jpg?width=900",
+  "alt": "Retrato de perfil de un fraile dominico con capucha oscura",
+  "pie": "Girolamo Savonarola, retratado por fra Bartolomeo, uno de sus seguidores. Museo de San Marcos, Florencia",
+  "credito": "Wikimedia Commons"
+ },
+ "noticias": [
+  {
+   "id": "n1",
+   "ambito": "mexico",
+   "ambitoTexto": "Guadalajara y Jalisco",
+   "fecha": "2026-10-28",
+   "historiaEnCurso": {
+    "id": "agua-gdl",
+    "titulo": "Crisis del agua en Guadalajara",
+    "capitulo": 5,
+    "dondeIbamos": "La planta de Miravalle iba en 23% en su primera etapa y se anunciaba que el 28 de octubre se presentaría en la mañanera el acuerdo federal-estatal de unos 25 mil millones de pesos."
+   },
+   "titular": "Ya hay letra chica del acuerdo del agua: dos acueductos federales, 14,500 millones de la Federación y 10,200 de Jalisco",
+   "quePaso": "El miércoles 28, en la mañanera, la presidenta Claudia Sheinbaum y el gobernador Pablo Lemus presentaron el plan. La Federación pone **14,500 millones de pesos**, según *La Razón*, *UnoTV* y *La Política Online*.\n\nCon ese dinero, Conagua construirá dos obras. La primera es un **acueducto Chapala-Guadalajara** de 42 kilómetros y 8,000 litros por segundo, que sustituiría al canal abierto actual, de más de 70 años. La segunda es un **acueducto Calderón-San Gaspar** de 31 kilómetros y 3,500 litros por segundo. Las dos terminarían a finales de 2028 y empezarían el próximo año.\n\nJalisco aporta **10,200 millones** para renovar la planta potabilizadora de Miravalle, según *La Razón* y *LPO*. Lemus dijo que la primera etapa quedará lista «dentro de los próximos seis meses». El estado también retomó la planta de Toluquilla, privatizada en 2012, y hará colectores para que el agua de Chapala no se mezcle con las descargas de Las Pintas. SIAPA operará las obras.",
+   "aMiQue": "Si tienes negocio, bodega o planta en la zona metropolitana, el cambio de fondo llega hasta finales de 2028: dos años más de agua irregular y de calidad variable. Planea tu filtración y tu almacenamiento con ese horizonte, no con el de los anuncios.\n\nHay una buena noticia para tus costos: Lemus prometió que el plan va «sin deuda, sin privatización y sin aumento de tarifa». Es una promesa política, no una regla escrita. Vale la pena seguirla en el presupuesto estatal de 2027.",
+   "contexto": "**Hecho:** Sheinbaum dijo que el dinero federal «no va a venir etiquetado» en el Presupuesto de Egresos de 2027. Se pedirá que Conagua lo asigne.\n\n**Hecho:** hay diferencias entre medios. *UnoTV* cita a Sheinbaum con «casi 11 mil» millones del estado; *La Razón* y *LPO* dicen 10,200. Sobre la deuda que se evita, *LPO* cita a Sheinbaum con 54 mil millones y *La Razón* atribuye 56 mil millones al titular de Conagua, Efraín Morales.\n\n**Hecho:** también hay un ajuste de fechas. Hace dos días, la CEA hablaba de una primera etapa de Miravalle de 2,000 litros por segundo en la primavera de 2027; en la mañanera se habló de 3,000 y de seis meses.\n\n**Interpretación:** el acuerdo reemplaza un esquema anterior con inversión privada y pagos de largo plazo que el estado había enviado al Congreso. Así lo cuenta *LPO*, un medio de análisis político.",
+   "queVigilar": "Si la partida aparece o no en el presupuesto federal de 2027, aunque no venga etiquetada. Y la fecha real de arranque de los acueductos: si la obra no empieza en el primer semestre de 2027, el plazo de 2028 se vuelve difícil.",
+   "fuentes": [
+    {
+     "nombre": "La Razón: Sheinbaum y Lemus anuncian 25 mmdp para resolver crisis hídrica (29 de octubre)",
+     "url": "https://www.razon.com.mx/estados/2026/10/29/sheinbaum-y-lemus-anuncian-25-mmdp-para-resolver-crisis-hidrica/"
+    },
+    {
+     "nombre": "UnoTV: Sheinbaum y Lemus anuncian inversión histórica hidráulica (28 de octubre)",
+     "url": "https://www.unotv.com/estados/jalisco/sheinbaum-y-lemus-anuncian-inversion-historica-hidraulica/"
+    },
+    {
+     "nombre": "La Política Online: Lemus evita una deuda de 54 mil millones para Jalisco (29 de octubre)",
+     "url": "https://lapoliticaonline.com/mexico/estados-mx/lemus-evita-una-deuda-de-54-mil-millones-para-jalisco-con-su-acuerdo-con-sheinbaum"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-10-29",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 8,
+    "dondeIbamos": "El 28 de octubre el Brent subía a cerca de 115 dólares por ataques hutíes en Arabia Saudita. Catar había presentado a Irán un nuevo borrador de paz y se hablaba de una posible campaña de EE. UU. tras las elecciones del 3 de noviembre."
+   },
+   "titular": "Una carta de Vance a Teherán baja un poco el petróleo: el Brent cierra en 114.88 dólares",
+   "quePaso": "El jueves 29, el Brent para diciembre cerró en **114.88 dólares**, 0.38% menos que la sesión anterior (115.32), según la agencia EFE. El WTI de Texas cerró en **102 dólares**, con una baja de 0.76%.\n\nLa causa fue un reporte del *Wall Street Journal*: el vicepresidente de EE. UU., JD Vance, envió una carta al secretario del Consejo Supremo de Seguridad Nacional de Irán, Mohsen Rezai, para reabrir el diálogo. Según el diario, lo hizo a petición de Donald Trump. El propio *WSJ* lo describe como un posible marco de negociación, no como un acuerdo de paz.\n\nEl mismo día, fuerzas iraníes dijeron que cuatro petroleros se incendiaron al chocar con minas en el estrecho de Ormuz. La agencia británica UKMTO reportó un petrolero alcanzado por un «proyectil de origen desconocido» en ese corredor, sin confirmar si era uno de los cuatro.",
+   "aMiQue": "Con el crudo arriba de 100 dólares, el combustible y el transporte siguen caros para cualquier marca que distribuye producto físico en México. Una baja de 0.4% no cambia tus costos. Lo que puede moverlos de verdad, para bien o para mal, es lo que pase después del 3 de noviembre.\n\nSi negocias fletes o precios de distribución para fin de año, conviene dejar una cláusula de ajuste por combustible en lugar de fijar todo hoy.",
+   "contexto": "**Hecho:** la carta se conoce por el *Wall Street Journal*; en las fuentes revisadas, ningún gobierno la confirmó.\n\n**Hecho:** Tim Furey, de Tradeview Markets, dijo a EFE que el crudo podría quedarse en un rango hasta conocer los resultados de las elecciones de medio término del 3 de noviembre.\n\n**Interpretación:** el mercado leyó la carta como menos riesgo de un ataque. Analistas de Briefing.com, citados por Infobae, dicen que Vance busca suficientes coincidencias para convencer a Trump de no ordenar un ataque breve contra Irán. Sobre el borrador de Catar, AUXO no pudo confirmar en una fuente abierta si Irán lo rechazó de forma oficial.",
+   "queVigilar": "Las elecciones del martes 3 de noviembre en EE. UU. y cualquier respuesta oficial de Teherán, a la carta de Vance o al borrador de Catar. Una escalada podría llevar el crudo a los máximos de marzo; una negociación creíble, por debajo del rango actual.",
+   "fuentes": [
+    {
+     "nombre": "Infobae (EFE): El crudo Brent cae 0.38% y baja de 115 dólares (29 de octubre)",
+     "url": "https://www.infobae.com/america/agencias/2026/10/29/el-crudo-brent-cae-038-y-baja-de-115-dolares-por-optimismo-diplomatico-entre-eeuu-iran/"
+    },
+    {
+     "nombre": "Infobae: El petróleo cae tras los contactos entre Estados Unidos e Irán (29 de octubre)",
+     "url": "https://www.infobae.com/america/mundo/2026/10/29/el-petroleo-cae-tras-los-contactos-entre-estados-unidos-e-iran-que-reavivan-la-expectativa-de-negociaciones/"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "Un fraile convenció a Florencia de quemar sus espejos, sus libros y sus pinturas. Quince meses después, la hoguera fue para él.",
+    "contexto": "Florencia, 7 de febrero de 1497, último día de [[Carnaval|Las fiestas antes de la Cuaresma, el periodo de ayuno de 40 días previo a la Pascua.]]. En la Piazza della Signoria, el corazón político de la ciudad, se levanta una pirámide de madera llena de objetos: espejos, cosméticos, pelucas, naipes, dados, instrumentos musicales, libros de poesía y pinturas.\n\nLos han reunido bandas de muchachos que tocaban de puerta en puerta. Los manda un fraile dominico, **Girolamo Savonarola**. Desde 1494 es la voz más poderosa de Florencia. La multitud canta mientras arde la pirámide.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/SavonarolaPlaque_crop_gobeirne.jpg?width=900",
+     "alt": "Placa redonda de bronce en el suelo de piedra de una plaza",
+     "pie": "La placa de la Piazza della Signoria que marca el lugar exacto de otra hoguera: la del 23 de mayo de 1498",
+     "credito": "Wikimedia Commons"
+    },
+    "pregunta": "¿Qué crees que le pasó a Savonarola poco más de un año después?",
+    "opciones": [
+     "El Papa lo hizo cardenal para tenerlo de su lado",
+     "Fue ahorcado y quemado en la misma plaza",
+     "Huyó a Francia con el rey que lo protegía"
+    ]
+   },
+   {
+    "tipo": "historia",
+    "titulo": "El fraile que predijo la espada",
+    "texto": "Savonarola nació en Ferrara en 1452. Entró a la orden de los dominicos y llegó a Florencia, al convento de San Marcos, el mismo que Cosme de Médici había reconstruido. En 1491 lo eligieron prior.\n\nSus sermones eran algo nuevo. Hablaba de la corrupción de la Iglesia, del lujo de los ricos y de un castigo que venía. Anunciaba que una espada caería sobre Italia. Miles de personas llenaban la catedral para oírlo.\n\nEn 1494 la predicción pareció cumplirse. El rey de Francia, **Carlos VIII**, cruzó los Alpes con un ejército enorme rumbo a Nápoles. Piero de Médici, hijo de Lorenzo el Magnífico, le entregó fortalezas sin pelear. Los florentinos, furiosos, lo expulsaron en noviembre. Savonarola fue parte de la embajada que negoció con el rey, y Carlos siguió su camino sin saquear la ciudad.\n\nCon los Medici fuera, el fraile se volvió la autoridad moral de una república nueva. Apoyó la creación del [[Consejo Mayor|Asamblea de miles de ciudadanos creada en diciembre de 1494, inspirada en el Gran Consejo de Venecia.]], y predicó que Florencia sería la nueva Jerusalén si se purificaba.\n\nPara eso organizó a los *fanciulli*, muchachos que recorrían las calles pidiendo las «vanidades» de cada casa. Así nacieron las hogueras de Carnaval de 1497 y 1498. Pero sus sermones también atacaban al papa **Alejandro VI**, un Borgia. Eso tenía un precio."
+   },
+   {
+    "tipo": "giro",
+    "titulo": "La misma plaza, otro fuego",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Savonarola_1498.jpg?width=900",
+     "alt": "Pintura antigua de una plaza llena de gente con una hoguera al centro",
+     "pie": "La ejecución de Savonarola en la Piazza della Signoria, en una pintura anónima de la época. Museo de San Marcos",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "La respuesta es la segunda. El 13 de mayo de 1497, Alejandro VI lo [[excomulgó|Expulsó de la comunidad de la Iglesia: no podía recibir sacramentos ni, en teoría, predicar.]]. Savonarola siguió predicando. La ciudad se partió en dos: sus seguidores, los *piagnoni* («llorones»), contra sus enemigos.\n\nEl golpe final vino de una apuesta. Un fraile franciscano lo retó a una [[ordalía|Prueba en la que se pedía a Dios que mostrara la verdad, por ejemplo cruzando el fuego sin quemarse.]]: cruzar una hoguera. Un compañero de Savonarola, fra Domenico da Pescia, aceptó. El 7 de abril de 1498, la plaza se llenó para ver el milagro.\n\nNo hubo milagro ni prueba. Las dos órdenes discutieron durante horas sobre las condiciones, cayó un aguacero y todo se canceló. La multitud que esperaba una señal se sintió engañada. Al día siguiente asaltó el convento de San Marcos.\n\nSavonarola fue arrestado y torturado. El 23 de mayo de 1498 lo ahorcaron y lo quemaron en la Piazza della Signoria, con Domenico y otro fraile, Silvestro. Sus cenizas fueron arrojadas al río Arno para que nadie guardara reliquias.\n\nLo que sorprende es la velocidad. En cuatro años pasó de salvar la ciudad a morir en ella. Y un dato más: se cuenta que Botticelli echó al fuego sus propios cuadros. Es una leyenda popular. Vasari escribió que el pintor fue seguidor de Savonarola, pero no hay prueba de que quemara su obra."
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "No apuestes tu autoridad a lo que no controlas",
+    "texto": "Savonarola nunca propuso la prueba del fuego, pero quedó atado a ella. Su autoridad dependía de que Dios estuviera de su lado de forma visible. Cuando el milagro no llegó, perdió todo en un día.\n\nCómo usar la lección, en tres pasos:\n\n1. **Distingue lo que prometes de lo que controlas.** «Este suplemento está hecho con estos ingredientes» lo controlas. «Te va a cambiar la vida en 30 días» no.\n2. **Cuida lo que prometen tus aliados.** Un vendedor, un distribuidor o un influencer que exagera compromete tu marca, aunque tú no lo hayas dicho.\n3. **Prefiere muchas pruebas pequeñas a una grande.** La confianza que se construye con entregas cumplidas resiste un mal día. La que depende de un solo momento espectacular, no."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Dónde más aparece",
+    "texto": "**En la publicidad de suplementos.** En México, la COFEPRIS sanciona que un suplemento prometa curar o prevenir enfermedades. Más allá de la multa, la promesa que no se cumple hace lo mismo que la ordalía fallida: convierte a tus clientes más entusiastas en tus críticos más duros.\n\n**En la política.** Un gobierno que promete una fecha exacta para una obra, como los acueductos de Guadalajara para 2028, gana titulares hoy y pone su credibilidad en juego mañana. Si la fecha se cumple, gana. Si no, la promesa se vuelve el recuerdo principal.\n\n**En un lanzamiento de marca.** Prometer «la mejor bebida que has probado» obliga a cada lata a cumplirlo. Prometer «hecha con agave 100%» es algo que sí controlas."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿Cuál es la promesa más grande que hoy hace tu marca o tu negocio? ¿Depende de ti cumplirla cada vez, o de que todo salga bien?",
+    "texto": "Si depende de la suerte, estás esperando un milagro en la Piazza della Signoria."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Quien basa su poder en lo extraordinario lo pierde el primer día ordinario."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "History Today: The Original Bonfire of the Vanities (en inglés)",
+   "url": "https://www.historytoday.com/node/56978",
+   "minutos": 8
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Qué se quemó en la hoguera de las vanidades del 7 de febrero de 1497?",
+    "respuesta": "Espejos, cosméticos, naipes, dados, instrumentos, libros de poesía y pinturas reunidos por los muchachos que seguían a Savonarola."
+   },
+   {
+    "pregunta": "¿Qué evento hizo caer a Savonarola en abril de 1498?",
+    "respuesta": "La prueba del fuego del 7 de abril: no se hizo, la multitud se sintió engañada y al día siguiente asaltó San Marcos. Fue ejecutado el 23 de mayo."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Wikipedia: Girolamo Savonarola",
+    "url": "https://en.wikipedia.org/wiki/Girolamo_Savonarola"
+   },
+   {
+    "nombre": "Wikipedia: Bonfire of the vanities",
+    "url": "https://en.wikipedia.org/wiki/Bonfire_of_the_vanities"
+   },
+   {
+    "nombre": "History Hit: What Was the Bonfire of the Vanities?",
+    "url": "https://historyhit.com/?p=1601"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Religiones y grandes textos",
+   "pilar": "cultura",
+   "formato": "mitoRealidad",
+   "titulo": "¿El Concilio de Nicea decidió qué libros entraban en la Biblia?",
+   "contexto": "Lo has oído en documentales y en novelas como *El código Da Vinci* (2003): en el año 325, el emperador Constantino reunió a los obispos en Nicea y ahí se votó qué evangelios entraban en la Biblia y cuáles se destruían.\n\nNicea es hoy la ciudad turca de İznik. En 2025 se cumplieron 1,700 años de aquel concilio, el primero de toda la Iglesia.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicaea_icon.jpg?width=900",
+    "alt": "Ícono bizantino con un emperador y obispos sentados en semicírculo sosteniendo un pergamino",
+    "pie": "Ícono del Primer Concilio de Nicea: Constantino al centro y los obispos con el texto del credo",
+    "credito": "Wikimedia Commons"
+   },
+   "pregunta": "¿Mito o realidad: en Nicea se eligieron los libros de la Biblia?",
+   "opciones": [
+    "Realidad: ahí se votó el canon de los evangelios",
+    "Mito: Nicea discutió otra cosa y el canon se fijó poco a poco"
+   ],
+   "correcta": 1,
+   "revelacion": "Es un mito. Nicea se convocó por una disputa sobre quién era Jesús. Un sacerdote de Alejandría, Arrio, enseñaba que el Hijo había sido creado por el Padre. El concilio lo rechazó y redactó el [[Credo niceno|Declaración de fe aprobada en 325, que afirma que el Hijo es «de la misma sustancia» que el Padre.]]. También trató cómo calcular la fecha de la Pascua y aprobó unas veinte normas de disciplina.\n\nNo hay ningún documento del concilio que hable del canon. La lista de libros se fue cerrando durante siglos, por el uso de las comunidades. En 367, Atanasio de Alejandría publicó una lista de los 27 libros del Nuevo Testamento que hoy se aceptan. Los concilios regionales de Hipona (393) y Cartago (397) la confirmaron para Occidente.\n\nEl mito es antiguo: ya circulaba en la Ilustración, y Voltaire repitió una versión fantástica. Lo útil es la lección: cuando una historia explica algo complejo con una sola reunión secreta, vale la pena buscar el documento.",
+   "idea": "La Biblia no se votó en una tarde: se formó durante siglos de uso, y Nicea se ocupó de otra pregunta.",
+   "fuente": {
+    "nombre": "Wikipedia: First Council of Nicaea (sección sobre ideas erróneas)",
+    "url": "https://en.wikipedia.org/wiki/First_Council_of_Nicaea"
+   },
+   "wiki": "Primer Concilio de Nicea",
+   "claves": [
+    {
+     "nombre": "Arrianismo",
+     "quien": "La doctrina de Arrio, condenada en Nicea: el Hijo como criatura del Padre.",
+     "wiki": "Arrianismo"
+    },
+    {
+     "nombre": "Constantino I",
+     "quien": "El emperador que convocó el concilio y legalizó el cristianismo.",
+     "wiki": "Constantino I"
+    },
+    {
+     "nombre": "Canon bíblico",
+     "quien": "La lista de libros aceptados como Escritura, distinta según cada tradición.",
+     "wiki": "Canon bíblico"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué decidió de verdad el Concilio de Nicea en 325?",
+    "respuesta": "Rechazó la doctrina de Arrio, aprobó el Credo niceno y trató la fecha de la Pascua. No votó el canon de la Biblia."
+   }
+  },
+  {
+   "materia": "Oficios del lujo y estilo",
+   "pilar": "gusto",
+   "formato": "comoFunciona",
+   "titulo": "Lo que hay dentro de un saco: entretela cosida o pegada",
+   "contexto": "Dos sacos azules cuelgan en una tienda. Por fuera se ven casi iguales. Uno cuesta tres veces más que el otro. El vendedor dice que el caro tiene «entretela completa».\n\nLa diferencia está en una capa que nunca ves: la [[entretela|Tela de refuerzo que va entre el paño exterior y el forro, y que da forma al pecho y a las solapas.]].",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/3_Savile_Row.jpg?width=900",
+    "alt": "Fachada de un edificio georgiano de ladrillo en una calle de Londres",
+    "pie": "El número 3 de Savile Row, la calle de Londres que se volvió sinónimo de sastrería a medida",
+    "credito": "Wikimedia Commons"
+   },
+   "pregunta": "¿Qué hace distinto a un saco de entretela completa?",
+   "opciones": [
+    "Lleva una capa de crin y lana cosida a mano que se amolda al cuerpo con el uso",
+    "Lleva una capa plástica pegada con calor para que nunca se arrugue",
+    "No lleva ninguna capa interior, por eso es más ligero"
+   ],
+   "correcta": 0,
+   "revelacion": "En el saco tradicional, la entretela es una pieza de lana con crin de caballo que se une al frente con cientos de puntadas pequeñas, llamadas [[punto de picado|Puntadas diminutas que unen la entretela al paño y dan curva a la solapa.]]. Queda «flotando» dentro. Con el calor del cuerpo y el tiempo, toma tu forma. Por eso un buen saco mejora con los años.\n\nLa versión barata es la entretela **fusionada**: una tela con pegamento que se plancha al paño. Es rápida y barata. Pero el pecho queda más plano y rígido, y con lavados en seco el pegamento puede soltarse y hacer burbujas. Entre ambas está la **media entretela**: cosida en el pecho y fusionada abajo.\n\nCómo reconocerla en la tienda: pellizca la tela del frente, debajo del ojal. Si sientes una tercera capa que se mueve libre entre el paño y el forro, hay entretela cosida. Y mira la solapa: en un saco bien hecho cae en una curva suave, no doblada como si estuviera planchada. En Savile Row, la asociación de sastres exige a sus miembros un mínimo de horas de trabajo a mano en cada traje a medida.",
+   "idea": "La calidad de un saco está en la capa que no se ve: cosida, se amolda a ti; pegada, se queda como salió de la fábrica.",
+   "fuente": {
+    "nombre": "Savile Row Bespoke Association: requisitos para sus miembros",
+    "url": "https://www.savilerowbespoke.com/membership-requirements"
+   },
+   "wiki": "Savile Row",
+   "claves": [
+    {
+     "nombre": "Sastre",
+     "quien": "El oficio de cortar y coser prendas a medida.",
+     "wiki": "Sastre"
+    },
+    {
+     "nombre": "Traje",
+     "quien": "La prenda de saco y pantalón del mismo paño, nacida en la Inglaterra del siglo XIX.",
+     "wiki": "Traje"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué diferencia hay entre una entretela cosida y una fusionada?",
+    "respuesta": "La cosida va unida a mano y se amolda al cuerpo con el uso; la fusionada se pega con calor, es más rígida y puede despegarse."
+   }
+  },
+  {
+   "materia": "Ciencia y tecnología",
+   "pilar": "futuro",
+   "formato": "comoFunciona",
+   "titulo": "La máquina que dispara a gotas de estaño para hacer chips",
+   "contexto": "Los chips más avanzados del mundo, los de tu celular y los de las granjas de IA, tienen transistores tan pequeños que la luz normal ya no sirve para dibujarlos.\n\nSolo una empresa en el mundo fabrica la máquina que puede hacerlo: la holandesa **ASML**. Cada una cuesta cientos de millones de euros.",
+   "pregunta": "¿De dónde sale la luz que usa esa máquina para «imprimir» los chips?",
+   "opciones": [
+    "De un foco de luz ultravioleta muy potente, como el de un solárium",
+    "De un láser que golpea gotas de estaño fundido decenas de miles de veces por segundo",
+    "Del sol, que se capta con espejos en el techo de la fábrica"
+   ],
+   "correcta": 1,
+   "revelacion": "La técnica se llama [[litografía EUV|Litografía con luz ultravioleta extrema, de 13.5 nanómetros de longitud de onda, unas 14 veces más corta que la luz ultravioleta usada antes.]]. Esa luz no existe de forma cómoda en la Tierra: hay que fabricarla. Dentro de la máquina caen gotas diminutas de estaño fundido. Un láser de CO₂ muy potente golpea cada gota, unas **50,000 veces por segundo**. La gota se convierte en [[plasma|Gas tan caliente que sus átomos pierden electrones y emite luz.]], según ASML, decenas de veces más caliente que la superficie del Sol, y emite la luz de 13.5 nm.\n\nEsa luz es tan frágil que el aire la absorbe. Por eso todo ocurre en vacío y se guía con espejos, no con lentes. Los espejos son de los objetos más lisos jamás fabricados.\n\nPor qué importa: quien no tiene estas máquinas no puede hacer los chips más avanzados. Por eso Países Bajos y EE. UU. restringen su venta a China. Una sola máquina viaja desarmada en decenas de contenedores. Es un ejemplo de algo que la IA necesita y que no es software: física, precisión y una cadena de proveedores que tardó décadas en construirse.",
+   "idea": "Los chips más avanzados dependen de una luz que hay que fabricar haciendo explotar gotas de estaño, y solo una empresa sabe hacerlo a escala.",
+   "fuente": {
+    "nombre": "ASML: The hottest thing about ASML machines",
+    "url": "https://www.asml.com/en/discover/hot-machines"
+   },
+   "wiki": "ASML",
+   "claves": [
+    {
+     "nombre": "Fotolitografía",
+     "quien": "La técnica de dibujar circuitos con luz sobre una oblea de silicio.",
+     "wiki": "Fotolitografía"
+    },
+    {
+     "nombre": "Circuito integrado",
+     "quien": "El chip: millones o miles de millones de transistores en una pieza de silicio.",
+     "wiki": "Circuito integrado"
+    },
+    {
+     "nombre": "Ley de Moore",
+     "quien": "La observación de que los transistores por chip se duplicaban cada dos años.",
+     "wiki": "Ley de Moore"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo produce ASML la luz ultravioleta extrema de sus máquinas?",
+    "respuesta": "Un láser golpea gotas de estaño fundido unas 50,000 veces por segundo; el plasma que se forma emite luz de 13.5 nanómetros."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "comoFunciona",
+   "titulo": "LegalZoom: vender el documento, no la hora del abogado",
+   "contexto": "Un abogado cobra por hora. Si redacta el acta de una sociedad, el siguiente cliente le cuesta casi el mismo tiempo. Su negocio no escala.\n\nEn 2001, en Los Ángeles, un grupo de emprendedores con un abogado famoso como socio, **Robert Shapiro**, lanzó otra idea: convertir los documentos legales más comunes en cuestionarios en línea. El 30 de junio de 2021, **LegalZoom** salió a la bolsa Nasdaq a 28 dólares por acción.",
+   "pregunta": "¿Por qué ese modelo escala y el despacho tradicional no?",
+   "opciones": [
+    "Porque contrata más abogados que cualquier despacho",
+    "Porque el cliente llena un cuestionario y el sistema arma el documento: el trabajo de redactarlo se hizo una sola vez",
+    "Porque cobra más caro que un abogado"
+   ],
+   "correcta": 1,
+   "revelacion": "El corazón del modelo es la [[plantilla inteligente|Documento con reglas: según tus respuestas, incluye o quita cláusulas y llena los datos.]]. Un equipo redacta una vez el documento y sus variantes. Después, cada cliente responde preguntas y el sistema arma su versión. Producir el documento número mil cuesta casi lo mismo que el segundo: el [[costo marginal|Lo que cuesta producir y entregar una unidad más.]] es muy bajo.\n\nPero hay un límite que todo abogado conoce: la ley. En EE. UU., solo un abogado con licencia puede dar asesoría legal. LegalZoom pasó años en tribunales acusada de ejercer la abogacía sin licencia. Su defensa: no aconseja, solo ofrece formularios. Con el tiempo sumó suscripciones que conectan al cliente con abogados reales cuando su caso sale de la plantilla.\n\nAl salir a bolsa, la empresa llegó a valer más de 7 mil millones de dólares en su primer día, según la prensa financiera. La idea útil para ti: la experiencia de un abogado se puede empaquetar en plantillas para los casos simples, y cobrar como asesoría los casos que no caben en ellas. Ojo: en México, como en EE. UU., hay que cuidar la frontera entre vender un formato y dar consejo legal.",
+   "idea": "Lo que escala no es la hora del experto, sino el conocimiento que se convierte en reglas y se usa mil veces.",
+   "fuente": {
+    "nombre": "Business Wire: LegalZoom Announces Pricing of Initial Public Offering (29 de junio de 2021)",
+    "url": "https://www.businesswire.com/news/home/20210629006135/en/LegalZoom-Announces-Pricing-of-Initial-Public-Offering"
+   },
+   "wiki": "Comercio electrónico",
+   "claves": [
+    {
+     "nombre": "Costo marginal",
+     "quien": "El concepto que explica por qué los productos digitales escalan.",
+     "wiki": "Costo marginal"
+    },
+    {
+     "nombre": "Contrato",
+     "quien": "El documento legal más vendido en plantillas: arrendamientos, servicios, confidencialidad.",
+     "wiki": "Contrato"
+    },
+    {
+     "nombre": "Oferta pública inicial",
+     "quien": "La primera venta de acciones de una empresa en la bolsa.",
+     "wiki": "Oferta pública inicial"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué el modelo de LegalZoom escala mejor que un despacho que cobra por hora?",
+    "respuesta": "Porque el documento se redacta una vez como plantilla con reglas y cada cliente lo arma con un cuestionario: el costo de una unidad más es muy bajo."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Filosofía para vivir",
+   "pilar": "mente",
+   "epoca": "Siglo I",
+   "titulo": "El filósofo que se llamaba «comprado»",
+   "dato": "Epicteto, uno de los grandes maestros del estoicismo, fue esclavo. Su nombre en griego, *epíktetos*, significa «adquirido».",
+   "explicacion": "Nació en Frigia, en la actual Turquía, y sirvió en Roma a Epafrodito, un liberto que trabajó para Nerón. Ya libre, enseñó filosofía hasta que el emperador Domiciano expulsó a los filósofos de Roma, hacia el año 93. Se fue a Nicópolis, en Grecia, y abrió una escuela.\n\nNo escribió nada. Lo que sabemos viene de un alumno, Arriano, que anotó sus clases. Su idea central nace de su vida: hay cosas que dependen de ti, como tus juicios, y cosas que no, como tu cuerpo o tu fama. Un hombre que no era dueño de sí mismo enseñó a no depender de lo que no controlas.",
+   "fuente": {
+    "nombre": "Stanford Encyclopedia of Philosophy: Epictetus",
+    "url": "https://plato.stanford.edu/entries/epictetus/"
+   },
+   "wiki": "Epicteto",
+   "claves": [
+    {
+     "nombre": "Estoicismo",
+     "quien": "La escuela que Epicteto, Séneca y Marco Aurelio hicieron práctica.",
+     "wiki": "Estoicismo"
+    },
+    {
+     "nombre": "Enquiridión",
+     "quien": "El «manual» con las ideas de Epicteto, compilado por Arriano.",
+     "wiki": "Enquiridión"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué significa el nombre de Epicteto y por qué importa?",
+    "respuesta": "«Adquirido»: fue esclavo. Su filosofía distingue lo que depende de ti de lo que no."
+   }
+  },
+  {
+   "materia": "Relaciones y vida social",
+   "pilar": "caracter",
+   "epoca": "2018",
+   "titulo": "Un mejor amigo cuesta 200 horas",
+   "dato": "Un estudio de la Universidad de Kansas calculó que pasar de conocido a amigo casual toma unas 50 horas juntos, a amigo unas 90, y a amigo cercano más de 200.",
+   "explicacion": "El investigador Jeffrey Hall encuestó a adultos que se habían mudado a una ciudad nueva y a estudiantes de primer ingreso. Les preguntó cuántas horas habían pasado con personas que conocieron recientemente y qué tan cercanas las sentían. Los resultados salieron en 2018 en el *Journal of Social and Personal Relationships*.\n\nNo cualquier hora cuenta igual. Las horas en el trabajo sumaban menos que el tiempo libre compartido: platicar, bromear, ponerse al día. La lección es práctica: la amistad no se da por química, se construye con tiempo. Y el tiempo es finito, así que nadie puede tener muchos amigos cercanos.",
+   "fuente": {
+    "nombre": "KU News: Study reveals number of hours it takes to make a friend (2018)",
+    "url": "https://news.ku.edu/2018/03/06/study-reveals-number-hours-it-takes-make-friend"
+   },
+   "wiki": "Amistad",
+   "claves": [
+    {
+     "nombre": "Robin Dunbar",
+     "quien": "Antropólogo que propuso un límite a cuántas relaciones podemos mantener.",
+     "wiki": "Robin Dunbar"
+    },
+    {
+     "nombre": "Psicología social",
+     "quien": "La ciencia que estudia cómo influyen los demás en lo que pensamos y hacemos.",
+     "wiki": "Psicología social"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuántas horas calculó Jeffrey Hall para hacer un amigo cercano?",
+    "respuesta": "Más de 200 horas juntos, sobre todo de tiempo libre compartido."
+   }
+  },
+  {
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "epoca": "1997",
+   "titulo": "La mujer de 122 años pasó la prueba",
+   "dato": "Jeanne Calment murió en Arlés, Francia, el 4 de agosto de 1997, a los 122 años y 164 días. Es la persona más longeva con edad comprobada. En 2018 dos investigadores rusos dijeron que era un fraude; un equipo francés revisó los papeles y la edad se sostuvo.",
+   "explicacion": "La teoría de 2018 decía que su hija Yvonne había tomado su identidad en 1934 para evitar impuestos. Se volvió viral. Investigadores franceses como Jean-Marie Robine revisaron registros civiles, fotos y testimonios, y en 2019 publicaron que no había pruebas del cambio y sí muchas de la edad real.\n\nPor qué importa: los récords de edad extrema suelen fallar por falta de papeles. Calment nació en 1875 en un país con buen registro civil, y su caso se revisó a fondo dos veces. Ningún otro ser humano comprobado ha pasado de los 120 años. Eso sugiere que, por ahora, ahí está cerca el techo de la vida humana.",
+   "fuente": {
+    "nombre": "Wikipedia: Jeanne Calment (sección sobre la hipótesis del cambio de identidad)",
+    "url": "https://en.wikipedia.org/wiki/Jeanne_Calment"
+   },
+   "wiki": "Jeanne Calment",
+   "claves": [
+    {
+     "nombre": "Supercentenario",
+     "quien": "Persona que llega a los 110 años o más.",
+     "wiki": "Supercentenario"
+    },
+    {
+     "nombre": "Longevidad",
+     "quien": "La duración de la vida y los factores que la alargan.",
+     "wiki": "Longevidad"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué pasó con la teoría de 2018 de que Jeanne Calment era un fraude?",
+    "respuesta": "Investigadores franceses revisaron los registros y en 2019 concluyeron que no había pruebas: su edad de 122 años se sostuvo."
+   }
+  },
+  {
+   "materia": "Arquitectura y diseño",
+   "pilar": "cultura",
+   "epoca": "1178",
+   "titulo": "Las guerras salvaron la Torre de Pisa",
+   "dato": "La Torre de Pisa empezó a inclinarse en 1178, cinco años después de iniciada la obra. Si se hubiera construido de corrido, probablemente se habría caído. La salvó una pausa de casi un siglo.",
+   "explicacion": "El suelo bajo la torre es blando: arcilla, arena y limo. Al subir los primeros pisos, un lado empezó a hundirse. Entonces Pisa entró en guerras con otras ciudades y la obra se detuvo durante décadas. En ese tiempo el terreno se asentó y se volvió más firme, y pudo cargar el resto del peso. La torre se terminó en el siglo XIV, unos 200 años después de comenzar.\n\nLos constructores trataron de corregir haciendo los pisos superiores un poco curvos, por eso la torre tiene una ligera forma de plátano. Entre 1990 y 2001, ingenieros sacaron tierra con cuidado bajo el lado alto y la enderezaron unos 45 centímetros. Sigue inclinada a propósito: es su fama.",
+   "fuente": {
+    "nombre": "Wikipedia: Leaning Tower of Pisa",
+    "url": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa"
+   },
+   "wiki": "Torre de Pisa",
+   "claves": [
+    {
+     "nombre": "Pisa",
+     "quien": "La ciudad toscana, antigua república marítima rival de Florencia y Génova.",
+     "wiki": "Pisa"
+    },
+    {
+     "nombre": "Mecánica de suelos",
+     "quien": "La rama de la ingeniería que estudia cómo se comporta el terreno bajo una carga.",
+     "wiki": "Mecánica de suelos"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué la pausa de casi un siglo salvó a la Torre de Pisa?",
+    "respuesta": "Porque el suelo blando se asentó y se hizo más firme antes de cargar los pisos superiores."
+   }
+  },
+  {
+   "materia": "Historia y geopolítica",
+   "pilar": "mundo",
+   "epoca": "1838",
+   "titulo": "Una guerra por unos pasteles en Tacubaya",
+   "dato": "En 1838 Francia bloqueó Veracruz y atacó San Juan de Ulúa. Entre sus reclamos estaba el de un pastelero francés de Tacubaya, Remontel, que pedía 60,000 pesos por los destrozos de unos oficiales en su tienda.",
+   "explicacion": "El nombre de «Guerra de los Pasteles» hace parecer ridícula la causa, pero no lo era tanto. Francia sumó muchas reclamaciones de sus ciudadanos por daños en los desórdenes de esos años y exigió 600,000 pesos. México no pagó. La flota francesa bloqueó el puerto de Veracruz, el más importante del país, y lo bombardeó. Ahí Antonio López de Santa Anna perdió una pierna.\n\nLa guerra terminó en 1839, con la mediación británica: México aceptó pagar los 600,000 pesos. La lección de fondo es económica: un país endeudado y con aduanas como principal ingreso era vulnerable a que una potencia cerrara su puerto. Veinte años después, Francia volvería con la Intervención.",
+   "fuente": {
+    "nombre": "Wikipedia: Guerra de los Pasteles",
+    "url": "https://es.wikipedia.org/wiki/Guerra_de_los_Pasteles"
+   },
+   "wiki": "Guerra de los Pasteles",
+   "claves": [
+    {
+     "nombre": "Antonio López de Santa Anna",
+     "quien": "Militar y varias veces presidente de México; perdió una pierna en Veracruz en 1838.",
+     "wiki": "Antonio López de Santa Anna"
+    },
+    {
+     "nombre": "Castillo de San Juan de Ulúa",
+     "quien": "La fortaleza frente a Veracruz que los franceses atacaron.",
+     "wiki": "Castillo de San Juan de Ulúa"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué reclamaba el pastelero Remontel y cuánto exigió Francia en total?",
+    "respuesta": "Remontel pedía 60,000 pesos por daños a su tienda en Tacubaya; Francia exigió 600,000 pesos por todas las reclamaciones."
+   }
+  },
+  {
+   "materia": "Inversión y finanzas personales",
+   "pilar": "patrimonio",
+   "epoca": "1976",
+   "titulo": "La «locura de Bogle»",
+   "dato": "En 1976, Jack Bogle lanzó el primer fondo indexado para el público. Esperaba reunir 150 millones de dólares y juntó unos 11 millones. En Wall Street le decían «la locura de Bogle».",
+   "explicacion": "La idea era sencilla: en vez de pagar a gestores para que eligieran acciones, comprar todas las del índice S&P 500 y cobrar comisiones muy bajas. Los críticos decían que conformarse con el promedio del mercado era antiestadounidense. El fondo, de la empresa Vanguard, empezó casi sin dinero.\n\nCon los años, los datos le dieron la razón: después de comisiones, la mayoría de los gestores activos no le gana a su índice a largo plazo. Hoy los fondos indexados manejan billones de dólares. Es historia, no recomendación: lo que enseña es el peso de las comisiones, que se acumulan año tras año igual que los rendimientos.",
+   "fuente": {
+    "nombre": "Wikipedia: Vanguard 500 Index Fund",
+    "url": "https://en.wikipedia.org/wiki/Vanguard_500_Index_Fund"
+   },
+   "wiki": "Fondo indexado",
+   "claves": [
+    {
+     "nombre": "The Vanguard Group",
+     "quien": "La gestora que fundó Bogle en 1975, con una estructura propiedad de sus fondos.",
+     "wiki": "The Vanguard Group"
+    },
+    {
+     "nombre": "S&P 500",
+     "quien": "El índice de 500 grandes empresas de EE. UU. que el fondo copiaba.",
+     "wiki": "S&P 500"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto esperaba reunir el primer fondo indexado de Bogle en 1976 y cuánto juntó?",
+    "respuesta": "Esperaba 150 millones de dólares y juntó unos 11 millones; lo llamaron «la locura de Bogle»."
+   }
+  },
+  {
+   "materia": "IA y el futuro",
+   "pilar": "futuro",
+   "epoca": "1955",
+   "titulo": "Iban a resolver la IA en un verano",
+   "dato": "En 1955, cuatro científicos pidieron fondos para un taller en Dartmouth: «un estudio de 2 meses y 10 hombres». Creían lograr un avance importante en un verano. Ahí nació el término «inteligencia artificial».",
+   "explicacion": "John McCarthy, Marvin Minsky, Nathaniel Rochester y Claude Shannon firmaron la propuesta. Querían averiguar cómo hacer que las máquinas usaran lenguaje, formaran conceptos y resolvieran problemas «reservados ahora a los humanos». El taller se hizo en el verano de 1956 en Dartmouth College, en EE. UU.\n\nEl verano se volvió setenta años. El optimismo excesivo produjo varios «inviernos de la IA», épocas en que se retiró el dinero porque las promesas no llegaban. La lección sirve hoy: la dirección era correcta, pero calcularon muy mal el tiempo. Es lo que más suele fallar en las predicciones tecnológicas.",
+   "fuente": {
+    "nombre": "Stanford: A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence (1955)",
+    "url": "http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html"
+   },
+   "wiki": "Conferencia de Dartmouth",
+   "claves": [
+    {
+     "nombre": "John McCarthy",
+     "quien": "Científico que acuñó el término «inteligencia artificial».",
+     "wiki": "John McCarthy"
+    },
+    {
+     "nombre": "Marvin Minsky",
+     "quien": "Cofundador del laboratorio de IA del MIT.",
+     "wiki": "Marvin Minsky"
+    },
+    {
+     "nombre": "Invierno de la IA",
+     "quien": "Periodos en que cayeron el interés y el financiamiento por promesas incumplidas.",
+     "wiki": "Invierno de la IA"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto tiempo y cuántas personas pedía la propuesta de Dartmouth de 1955?",
+    "respuesta": "«Un estudio de 2 meses y 10 hombres»: creían lograr un avance importante en un verano."
+   }
+  },
+  {
+   "materia": "Oficios del lujo y estilo",
+   "pilar": "gusto",
+   "epoca": "1921",
+   "titulo": "Chanel eligió la muestra número 5",
+   "dato": "En 1921, el perfumista Ernest Beaux le presentó a Coco Chanel varias muestras numeradas. Ella eligió la quinta y la dejó con ese nombre. No fue el primer perfume con aldehídos, pero sí el que los usó en una dosis inusual.",
+   "explicacion": "Los [[aldehídos|Moléculas sintéticas que en perfumería dan un olor brillante, como de jabón limpio o de chispa.]] eran ingredientes de laboratorio. Ya se habían usado antes, pero Beaux los puso en una concentración muy alta, sobre un fondo de flores como jazmín y rosa. El resultado no olía a una flor reconocible: olía a algo abstracto. Chanel quería «un perfume de mujer con olor a mujer», no a jardín.\n\nTambién rompió con el frasco: en lugar de cristal decorado, uno sencillo, casi de laboratorio. La lección de lujo es clara: la marca no copió la naturaleza, inventó algo que no existía y lo presentó con sobriedad. Un siglo después sigue entre los perfumes más vendidos del mundo.",
+   "fuente": {
+    "nombre": "Wikipedia: Chanel No. 5",
+    "url": "https://en.wikipedia.org/wiki/Chanel_No._5"
+   },
+   "wiki": "Chanel N.º 5",
+   "claves": [
+    {
+     "nombre": "Coco Chanel",
+     "quien": "Diseñadora francesa que fundó la casa Chanel.",
+     "wiki": "Coco Chanel"
+    },
+    {
+     "nombre": "Ernest Beaux",
+     "quien": "Perfumista nacido en Moscú que creó el Chanel N.º 5.",
+     "wiki": "Ernest Beaux"
+    },
+    {
+     "nombre": "Aldehído",
+     "quien": "La familia química que dio al perfume su olor característico.",
+     "wiki": "Aldehído"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué hizo distinto al Chanel N.º 5 en 1921?",
+    "respuesta": "Usó aldehídos sintéticos en una dosis inusual: no olía a una flor concreta, sino a algo abstracto."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "Cartas a Lucilio",
+  "autor": "Séneca",
+  "capitulo": {
+   "numero": 3,
+   "total": 6,
+   "titulo": "Ensayar la pobreza"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_01.jpg?width=900",
+   "alt": "Busto doble de mármol de dos hombres mayores",
+   "pie": "Sócrates y Séneca en una herma doble romana. Antikensammlung de Berlín",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "Imagina dos hogueras en la misma ciudad. En una, la de Savonarola, se queman a la fuerza los espejos y los vestidos de los demás. En la otra no arde nada: un hombre rico decide, por su cuenta y en silencio, comer pan duro durante tres días.\n\nLas dos parecen hablar de lo mismo: desconfiar del lujo. Pero son opuestas. La primera es un castigo impuesto a otros. La segunda es un entrenamiento que uno elige para sí. La segunda es la de Séneca, y es el tema de este capítulo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Diciembre en Roma"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La carta 18 empieza con una escena de fiesta. Es diciembre y Roma está en plenas [[Saturnales|Fiestas romanas de mediados de diciembre en honor a Saturno: banquetes, regalos, juegos de azar permitidos y esclavos servidos por sus amos.]]. Las calles están llenas de ruido. Se permite apostar, se cambian los papeles entre amos y esclavos, todos comen de más.\n\nSéneca dice, con ironía, que la ciudad «suda» de tanta celebración. Y le plantea a Lucilio una pregunta muy de nuestro tiempo, casi de temporada navideña: ¿qué hacer cuando todos alrededor están de fiesta? ¿Unirse o apartarse?"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Es el mes de diciembre y la ciudad entera suda. Se ha dado licencia pública al desenfreno; por todas partes resuenan grandes preparativos, como si hubiera alguna diferencia entre las Saturnales y los días de trabajo.",
+    "fuente": "Cartas a Lucilio, XVIII, 1"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Su respuesta es fina. No pide encerrarse ni mirar a todos con desprecio. Dice que lo más difícil es estar en la fiesta sin perder el control: hacer lo mismo que los demás, pero de otra manera. No vestirse de forma rara para llamar la atención, ni tampoco perderse en el exceso.\n\nEs la misma idea de la carta 7, que leímos en el capítulo anterior: la multitud cambia a quien se deja llevar. Pero aquí Séneca da un paso más. Propone un ejercicio concreto."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El ejercicio de los días pobres"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Séneca le pide a Lucilio que aparte algunos días, no uno solo, para vivir como un pobre. Comida mínima y barata. Ropa áspera. Una cama dura. Y mientras tanto, una pregunta que se repite."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Aparta algunos días en los que te contentes con la comida más escasa y barata, con ropa tosca y áspera, y dite mientras tanto: «¿Esto es lo que yo temía?».",
+    "fuente": "Cartas a Lucilio, XVIII, 5"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La pregunta es el centro del ejercicio. La mayoría tememos perder lo que tenemos: el ingreso, la casa, la comodidad. Pero ese miedo es abstracto. Nunca lo hemos probado. Séneca propone probarlo en pequeño, con dosis controladas, para descubrir que lo temido es soportable.\n\nY aclara que no debe ser un juego. Nada de una pobreza decorativa, de rico que se disfraza. El pan debe ser duro y la cama, de verdad incómoda. Tres o cuatro días, a veces más, para que sea una prueba y no un pasatiempo."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Para qué sirve, según Séneca, vivir algunos días como pobre?",
+    "opciones": [
+     "Para castigarse por haber gastado de más",
+     "Para comprobar que lo que uno teme perder es soportable y dejar de temerlo",
+     "Para ahorrar y poder gastar más en las fiestas"
+    ],
+    "correcta": 1,
+    "explicacion": "La pregunta «¿esto es lo que yo temía?» es el centro: al probar la escasez en pequeño, el miedo abstracto a perderlo todo se vuelve manejable."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Entrenar en tiempos de paz"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Lo más interesante es cuándo hacerlo. No cuando ya llegó la crisis, sino cuando todo va bien. Séneca usa una comparación militar: los soldados hacen maniobras en tiempos de paz, cavan trincheras sin enemigo a la vista y se cansan con trabajo innecesario para no cansarse cuando sea necesario."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Precisamente en los tiempos de seguridad debe el alma endurecerse de antemano para las ocasiones difíciles; mientras la fortuna es benévola, debe fortalecerse contra sus golpes.",
+    "fuente": "Cartas a Lucilio, XVIII, 6"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Para un emprendedor, esto tiene una traducción directa. Los años buenos son los que permiten prepararse para los malos. Una empresa que solo aprende a recortar gastos durante la crisis lo hace con prisa y con miedo. Una que practica la austeridad cuando le sobra dinero sabe exactamente qué puede soltar sin dañarse."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Un ejercicio que tiene nombre",
+    "texto": "Los estudiosos del estoicismo llaman a esto *praemeditatio malorum*: pensar de antemano en las desgracias posibles. Séneca va más allá del pensamiento: propone vivirlas en pequeño. En la edición #1 de AUXO vimos el dilema entre imaginar lo peor o visualizar el éxito. Aquí está la versión práctica."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El maestro rival"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Hay un detalle curioso. Para apoyar su consejo, Séneca no cita a un estoico. Cita a [[Epicuro|Filósofo griego (341–270 a. C.) que enseñaba que la felicidad está en el placer sencillo y en la ausencia de dolor y de miedo.]], el fundador de una escuela rival. Muchos creen que Epicuro predicaba el exceso. Era al revés.\n\nSéneca cuenta que Epicuro tenía días fijos en los que comía poco a propósito. Quería ver si así le faltaba algo para ser feliz, y cuánto le faltaba, y si valía la pena el esfuerzo de conseguirlo. Su conclusión, dice Séneca, es que con muy poco, apenas pan y agua, se puede estar satisfecho."
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_01.jpg?width=900",
+    "alt": "Busto doble de mármol con dos cabezas de hombres mayores unidas por la nuca",
+    "pie": "Herma doble de Sócrates y Séneca, del siglo III, en la colección de antigüedades de Berlín",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Séneca no tiene problema en aprender de un rival. En varias cartas cierra con una frase de Epicuro, como si fuera un regalo para Lucilio. Es una lección por sí sola: una buena idea no deja de serlo porque venga del otro equipo."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿A quién cita Séneca para apoyar su consejo de comer poco algunos días?",
+    "opciones": [
+     "A Zenón, el fundador del estoicismo",
+     "A Marco Aurelio, el emperador estoico",
+     "A Epicuro, el fundador de una escuela rival"
+    ],
+    "correcta": 2,
+    "explicacion": "Séneca cita a Epicuro, que tenía días fijos de comer poco para comprobar si así le faltaba algo para ser feliz."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La riqueza que estorba"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La carta 17 completa la idea desde otro ángulo. Lucilio le ha dicho que quiere dedicarse a la filosofía, pero que primero quiere juntar suficiente dinero para vivir tranquilo. Séneca le contesta que eso es un pretexto."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Las riquezas han apartado a muchos de la sabiduría; la pobreza va ligera y sin preocupaciones.",
+    "fuente": "Cartas a Lucilio, XVII, 3"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Ojo con lo que dice y lo que no dice. Séneca era uno de los hombres más ricos de Roma, y él mismo lo sabía. No pide regalar la fortuna. Dice algo más incómodo: no esperes a tener «lo suficiente» para empezar a vivir bien, porque esa meta se mueve siempre. Quien dice «cuando tenga tanto, entonces» nunca llega.\n\nY la pobreza, para él, tiene una ventaja práctica: no hay nada que cuidar. El pobre que viaja no teme a los ladrones. El rico vive vigilando lo que tiene."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Por qué funciona"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Hay una razón psicológica detrás del consejo. Lo que nunca hemos vivido lo imaginamos peor de lo que es. El miedo crece en la oscuridad de lo desconocido. Cuando uno prueba la escasez durante unos días, el miedo deja de ser una nube y se vuelve un dato: sé cómo se siente, sé que lo aguanto.\n\nY hay un premio extra. Al volver a la comodidad, se disfruta más. El pan de siempre sabe mejor después de tres días de pan duro. Séneca no lo presenta como sacrificio, sino como una forma de recuperar el gusto por lo que ya tienes."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Lo que no es este ejercicio"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Volvamos a Florencia. Savonarola también hablaba contra el lujo, pero con dos diferencias enormes. La primera: Séneca habla de un ejercicio que uno se impone a sí mismo, nunca a los demás. La segunda: no quema nada. Al terminar los días pobres, Lucilio vuelve a su casa y a su mesa. El objetivo no es destruir la riqueza, sino dejar de depender de ella.\n\nEso hace al consejo de Séneca más útil y menos peligroso. Uno puede disfrutar un buen vino, un buen traje o una buena casa. Lo que cambia es la relación con ellos: si mañana desaparecen, sabes por experiencia que puedes vivir sin ellos."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Lo que Séneca le pide a Lucilio, y a ti"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El capítulo deja una práctica concreta. Elige un fin de semana al año, o unos días, para vivir con mucho menos: comida sencilla, sin compras, sin comodidades extra. Mientras lo haces, pregúntate lo mismo que Lucilio: «¿Esto es lo que yo temía?».\n\nHazlo cuando las cosas van bien, no cuando van mal. Y fíjate en lo que extrañas de verdad y en lo que no extrañas nada. Esa lista dice mucho de dónde está tu libertad. En el próximo capítulo, Séneca lleva esta idea a la frontera final: el miedo a la muerte."
+   }
+  ],
+  "paraLlevar": [
+   "Prueba en pequeño lo que temes perder: casi siempre es más soportable de lo que imaginas.",
+   "Prepárate para los años malos durante los años buenos.",
+   "La austeridad útil es la que uno se impone a sí mismo, no la que se impone a los demás."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Qué pregunta debe hacerse Lucilio durante sus días de vida pobre?",
+    "respuesta": "«¿Esto es lo que yo temía?»."
+   },
+   {
+    "pregunta": "¿Por qué Séneca compara su ejercicio con las maniobras de los soldados?",
+    "respuesta": "Porque hay que entrenar en tiempos de paz: el alma debe endurecerse cuando todo va bien, antes de que llegue la crisis."
+   }
+  ],
+  "proximo": "Cartas a Lucilio · Capítulo 4: Perderle el miedo a la muerte",
+  "fuentes": [
+   {
+    "nombre": "Moral letters to Lucilius, carta 18, traducción de Richard M. Gummere (1917), Wikisource",
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18"
+   },
+   {
+    "nombre": "Moral letters to Lucilius, carta 17, Wikisource",
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_17"
+   },
+   {
+    "nombre": "Wikipedia: Cartas a Lucilio",
+    "url": "https://es.wikipedia.org/wiki/Cartas_a_Lucilio"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de dominio público de Richard M. Gummere (1917), cotejada con el latín. La numeración sigue la división estándar de carta y párrafo."
+ },
+ "palabra": {
+  "palabra": "Iconoclasta",
+  "categoria": "Adjetivo y sustantivo",
+  "pronunciacion": "i-co-no-CLAS-ta",
+  "definicion": "Quien destruye imágenes sagradas; por extensión, quien rechaza o ataca normas, tradiciones o figuras muy respetadas.",
+  "origen": "Del griego *eikón*, «imagen», y *klán*, «romper». Nació en el Imperio bizantino del siglo VIII, cuando varios emperadores ordenaron destruir los íconos religiosos por considerarlos idolatría. La disputa duró más de un siglo y terminó en 843 con la restauración de las imágenes.",
+  "ejemplo": "Savonarola fue un iconoclasta literal: mandó quemar pinturas en la plaza. Hoy la palabra se usa también para un emprendedor que rompe las reglas de su industria.",
+  "repaso": {
+   "pregunta": "¿Qué significa literalmente «iconoclasta»?",
+   "respuesta": "«Rompedor de imágenes», del griego eikón (imagen) y klán (romper)."
+  }
+ },
+ "frances": {
+  "frase": "Je reviens vers vous dès que possible.",
+  "traduccion": "Le respondo en cuanto pueda.",
+  "pronunciacion": "yhe re-VIAN ver vu de ke po-SIBL",
+  "uso": "Negocios. Es la fórmula estándar en correos y llamadas de trabajo para decir que darás una respuesta pronto sin comprometer una fecha. Literalmente: «vuelvo hacia usted en cuanto sea posible». Usa *vous* con clientes y proveedores.",
+  "variante": "Je reviens vers vous d'ici vendredi. (Le respondo a más tardar el viernes.)",
+  "repaso": {
+   "pregunta": "¿Cómo dices en un correo de trabajo en francés «le respondo en cuanto pueda»?",
+   "respuesta": "« Je reviens vers vous dès que possible. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Qué precipitó la caída de Savonarola en abril de 1498?",
+   "opciones": [
+    "Una prueba del fuego que no se realizó y dejó a la multitud sintiéndose engañada",
+    "Una invasión de los Medici con un ejército papal",
+    "Una epidemia de peste que vació la catedral"
+   ],
+   "correcta": 0,
+   "explicacion": "La ordalía del 7 de abril se canceló entre discusiones y lluvia. Al día siguiente la multitud asaltó San Marcos; el 23 de mayo fue ejecutado."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "En el acuerdo del agua para Guadalajara, ¿qué obras construirá la Federación?",
+   "opciones": [
+    "Una presa nueva en el río Santiago",
+    "Una planta desaladora en el Pacífico",
+    "Dos acueductos: Chapala-Guadalajara y Calderón-San Gaspar"
+   ],
+   "correcta": 2,
+   "explicacion": "Conagua hará los dos acueductos con 14,500 millones de pesos; terminarían a finales de 2028. Jalisco pone 10,200 millones para Miravalle."
+  },
+  {
+   "origen": "materias",
+   "pregunta": "¿Qué decidió de verdad el Concilio de Nicea en el año 325?",
+   "opciones": [
+    "Qué evangelios entraban en la Biblia",
+    "Rechazó la doctrina de Arrio y aprobó el Credo niceno",
+    "Que el Papa sería la cabeza de toda la Iglesia"
+   ],
+   "correcta": 1,
+   "explicacion": "Nicea trató quién era Jesús frente a la doctrina de Arrio, y la fecha de la Pascua. El canon bíblico se fijó durante siglos."
+  }
+ ],
+ "libro": null,
+ "proximo": "El David: el bloque de mármol que nadie quería"
+}
