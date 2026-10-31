@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30",
+  "actualizado": "2026-10-31",
   "materias": {
     "Arquitectura y diseño": [
       {
@@ -148,6 +148,42 @@
       }
     ],
     "Ciencia y tecnología": [
+      {
+        "materia": "Ciencia y tecnología",
+        "pilar": "futuro",
+        "epoca": "1947",
+        "titulo": "El primer «bug» no inventó la palabra",
+        "dato": "En 1947, en una computadora de Harvard, encontraron una polilla atrapada en un relé y la pegaron en la bitácora. La nota dice: «Primer caso real de bicho encontrado».",
+        "explicacion": "Fue el 9 de septiembre de 1947, en el relé 70 del Harvard Mark II. La broma de la nota es la palabra «real»: los ingenieros ya llamaban *bug* (bicho) a las fallas. Thomas Edison usó el término en una carta de 1878. La polilla solo fue la primera vez que el bicho era literal.\n\nSe suele decir que la encontró Grace Hopper. El Smithsonian, que guarda la bitácora, dice que probablemente no fue ella, sino ingenieros del equipo. Hopper sí contó la historia muchas veces, y por eso se le atribuyó.",
+        "imagen": {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/First_Computer_Bug,_1947.jpg?width=900",
+          "alt": "Página de una bitácora con una polilla pegada con cinta y notas a mano",
+          "pie": "La bitácora del Harvard Mark II con la polilla del 9 de septiembre de 1947",
+          "credito": "Wikimedia Commons"
+        },
+        "fuente": {
+          "nombre": "Smithsonian National Museum of American History: Log book with computer bug",
+          "url": "https://www.si.edu/object/log-book-computer-bug:nmah_334663"
+        },
+        "wiki": "Error de software",
+        "claves": [
+          {
+            "nombre": "Grace Murray Hopper",
+            "quien": "Pionera de la programación; trabajó en las Mark de Harvard y popularizó la historia.",
+            "wiki": "Grace Murray Hopper"
+          },
+          {
+            "nombre": "Thomas Alva Edison",
+            "quien": "El inventor que ya llamaba «bugs» a las fallas en 1878.",
+            "wiki": "Thomas Alva Edison"
+          }
+        ],
+        "repaso": {
+          "pregunta": "¿Por qué la nota de 1947 dice «primer caso real» de bug?",
+          "respuesta": "Porque la palabra ya se usaba para fallas (Edison, 1878); esa vez el bicho era literal."
+        },
+        "fecha": "2026-10-31"
+      },
       {
         "claves": [
           {
@@ -315,6 +351,36 @@
     ],
     "Ciudades del mundo": [
       {
+        "materia": "Ciudades del mundo",
+        "pilar": "mundo",
+        "epoca": "1945",
+        "titulo": "Kioto se salvó, pero no por una luna de miel",
+        "dato": "Kioto estaba en la lista de blancos de la bomba atómica. El secretario de Guerra Henry Stimson la sacó. La historia de que pasó ahí su luna de miel es, muy probablemente, falsa.",
+        "explicacion": "Kioto, antigua capital imperial con miles de templos, era para los militares un buen blanco: grande y casi intacta. Stimson se opuso con fuerza, con el apoyo de Truman, por su valor cultural y porque destruirla haría a Japón un enemigo duradero. Los militares intentaron varias veces volver a incluirla.\n\nStimson se casó en 1893 y no hay pruebas de que su luna de miel fuera en Asia. Lo que sí está documentado es que visitó Kioto con su esposa en 1926. El historiador Alex Wellerstein rastreó el mito hasta un artículo de 2002 que llamó a ese viaje «segunda luna de miel». Conocer una ciudad en persona cambió una decisión de guerra.",
+        "fuente": {
+          "nombre": "Alex Wellerstein, Restricted Data: Henry Stimson didn't go to Kyoto on his honeymoon",
+          "url": "https://blog.nuclearsecrecy.com/2023/07/24/henry-stimson-didnt-go-to-kyoto-on-his-honeymoon/"
+        },
+        "wiki": "Bombardeos atómicos de Hiroshima y Nagasaki",
+        "claves": [
+          {
+            "nombre": "Kioto",
+            "quien": "Capital de Japón durante más de mil años; hoy guarda 17 sitios Patrimonio de la Humanidad.",
+            "wiki": "Kioto"
+          },
+          {
+            "nombre": "Harry S. Truman",
+            "quien": "El presidente que autorizó las bombas y apoyó sacar a Kioto de la lista.",
+            "wiki": "Harry S. Truman"
+          }
+        ],
+        "repaso": {
+          "pregunta": "¿Por qué es dudosa la historia de la luna de miel de Stimson en Kioto?",
+          "respuesta": "Se casó en 1893 sin pruebas de un viaje a Asia; visitó Kioto en 1926 y el mito nació de un artículo de 2002."
+        },
+        "fecha": "2026-10-31"
+      },
+      {
         "claves": [
           {
             "nombre": "Monumento a la Independencia",
@@ -423,6 +489,42 @@
       }
     ],
     "Deporte y aire libre": [
+      {
+        "materia": "Deporte y aire libre",
+        "pilar": "cuerpo",
+        "epoca": "1971",
+        "titulo": "El golpe de golf en la Luna no fue tan lejos",
+        "dato": "Alan Shepard dijo que su pelota voló «millas y millas». Un análisis de 2021 calculó que sus dos tiros recorrieron unas 24 y 40 yardas.",
+        "explicacion": "El 6 de febrero de 1971, en la misión Apolo 14, Shepard sacó una cabeza de hierro 6 que había llevado en su equipo y la acopló a una herramienta para recoger muestras. Con el traje espacial solo podía golpear con una mano. En 2021, para los 50 años, el experto en imágenes Andy Saunders analizó las fotos y videos para la USGA: un tiro se fue a un cráter a unas 24 yardas y el otro llegó a unas 40.\n\nLo de «millas y millas» fue una broma. En la Luna la gravedad es una sexta parte de la terrestre y no hay aire que frene, así que un buen golpe sí podría volar muchísimo. El límite era el cuerpo dentro del traje, no la física.",
+        "imagen": {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shepard_Plants_Flag_-_GPN-2000-001120.jpg?width=900",
+          "alt": "Un astronauta junto a la bandera de Estados Unidos sobre la superficie lunar",
+          "pie": "Alan Shepard en la Luna durante el Apolo 14, en febrero de 1971",
+          "credito": "Wikimedia Commons"
+        },
+        "fuente": {
+          "nombre": "USGA: Shepard's moon club, 50th anniversary",
+          "url": "https://www.usga.org/content/usga/home-page/articles/2021/02/shepard-moon-club-50th-anniversary-usga-museum.html"
+        },
+        "wiki": "Alan Shepard",
+        "claves": [
+          {
+            "nombre": "Alan Shepard",
+            "quien": "Primer estadounidense en el espacio (1961) y quinto hombre en pisar la Luna.",
+            "wiki": "Alan Shepard"
+          },
+          {
+            "nombre": "Gravedad lunar",
+            "quien": "En la Luna pesas cerca de una sexta parte de lo que pesas en la Tierra.",
+            "wiki": "Luna"
+          }
+        ],
+        "repaso": {
+          "pregunta": "¿Cuánto voló en realidad la pelota de golf de Shepard en la Luna?",
+          "respuesta": "Unas 24 y 40 yardas en sus dos tiros, según el análisis de 2021."
+        },
+        "fecha": "2026-10-31"
+      },
       {
         "claves": [
           {
@@ -953,6 +1055,36 @@
       }
     ],
     "Etiqueta y protocolo": [
+      {
+        "materia": "Etiqueta y protocolo",
+        "pilar": "gusto",
+        "epoca": "Siglo XVI",
+        "titulo": "«Brindis» es una frase en alemán",
+        "dato": "La palabra «brindis» viene del alemán *bring dir's*: «te lo ofrezco». Es una frase entera que el español convirtió en sustantivo.",
+        "explicacion": "Así lo recoge el Diccionario de la lengua española. La expresión es la que acompañaba el gesto de levantar la copa hacia otro. Llegó al español en la época de los Austrias, cuando soldados y cortesanos alemanes y españoles convivían en los ejércitos y la corte de Carlos V; esa vía de entrada es la explicación habitual, no un hecho documentado.\n\nEl origen explica la regla de etiqueta: un brindis es un ofrecimiento a otra persona. Por eso se mira a los ojos a quien se brinda y por eso habla primero el anfitrión.",
+        "fuente": {
+          "nombre": "Real Academia Española, Diccionario de la lengua española: brindis",
+          "url": "https://dle.rae.es/brindis"
+        },
+        "wiki": "Brindis",
+        "claves": [
+          {
+            "nombre": "Lansquenete",
+            "quien": "Los soldados mercenarios alemanes de los ejércitos de Carlos V.",
+            "wiki": "Lansquenete"
+          },
+          {
+            "nombre": "Carlos I de España",
+            "quien": "Rey de España y emperador alemán: unió las dos cortes en el siglo XVI.",
+            "wiki": "Carlos I de España"
+          }
+        ],
+        "repaso": {
+          "pregunta": "¿De qué frase viene la palabra «brindis»?",
+          "respuesta": "Del alemán «bring dir's», «te lo ofrezco»."
+        },
+        "fecha": "2026-10-31"
+      },
       {
         "claves": [
           {
@@ -1561,6 +1693,42 @@
     ],
     "Liderazgo e influencia": [
       {
+        "materia": "Liderazgo e influencia",
+        "pilar": "caracter",
+        "epoca": "1863",
+        "titulo": "La carta furiosa que Lincoln nunca envió",
+        "dato": "Después de Gettysburg, Lincoln escribió una carta durísima al general Meade por dejar escapar al ejército de Lee. La guardó en un sobre: «Al general Meade, nunca enviada ni firmada».",
+        "explicacion": "El 14 de julio de 1863, Lincoln supo que Lee había logrado retirarse al sur. Escribió: «Su oportunidad de oro se ha ido, y estoy angustiado sin medida por ello». Pero no la mandó. Meade acababa de ganar la batalla más importante de la guerra y Lincoln lo necesitaba.\n\nEra un hábito suyo: escribir la carta caliente para sacar el enojo y luego dejarla en un cajón. Separaba dos cosas que solemos mezclar: expresar lo que uno siente y decidir lo que conviene comunicar.",
+        "imagen": {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abraham_Lincoln_O-77_by_Gardner,_1863.jpg?width=900",
+          "alt": "Fotografía en blanco y negro de Abraham Lincoln sentado, con barba",
+          "pie": "Abraham Lincoln fotografiado por Alexander Gardner en noviembre de 1863",
+          "credito": "Wikimedia Commons"
+        },
+        "fuente": {
+          "nombre": "American Battlefield Trust: Lincoln's unsent letter to George Meade",
+          "url": "https://www.battlefields.org/learn/primary-sources/lincolns-unsent-letter-george-meade"
+        },
+        "wiki": "Abraham Lincoln",
+        "claves": [
+          {
+            "nombre": "George Meade",
+            "quien": "El general de la Unión que ganó en Gettysburg y dejó escapar a Lee.",
+            "wiki": "George Meade"
+          },
+          {
+            "nombre": "Batalla de Gettysburg",
+            "quien": "Julio de 1863: el punto de quiebre de la guerra civil de Estados Unidos.",
+            "wiki": "Batalla de Gettysburg"
+          }
+        ],
+        "repaso": {
+          "pregunta": "¿Qué hizo Lincoln con la carta furiosa que escribió a Meade?",
+          "respuesta": "La guardó sin enviarla ni firmarla."
+        },
+        "fecha": "2026-10-31"
+      },
+      {
         "claves": [
           {
             "nombre": "Expedición Imperial Transantártica",
@@ -1840,6 +2008,42 @@
     ],
     "Música": [
       {
+        "materia": "Música",
+        "pilar": "cultura",
+        "epoca": "1772",
+        "titulo": "La sinfonía que pidió vacaciones",
+        "dato": "En la *Sinfonía de los adioses*, de Haydn, los músicos apagan su vela y salen uno por uno hasta que quedan dos violines. Era un mensaje al príncipe.",
+        "explicacion": "En 1772, el príncipe Nicolás Esterházy prolongó su estancia de verano en su palacio de Eszterháza, en Hungría. Los músicos llevaban meses lejos de sus esposas, que se habían quedado en Eisenstadt. Haydn, su director, escribió una sinfonía cuyo último movimiento se va vaciando. El príncipe entendió: al día siguiente la corte volvió a casa.\n\nLa anécdota la contaron dos biógrafos de Haydn que hablaron con él. Es un ejemplo perfecto de persuasión indirecta: en vez de quejarse, Haydn hizo que el jefe viera el problema con sus propios ojos, sin humillarlo.",
+        "imagen": {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Haydn,_portrait_by_Thomas_Hardy.jpg?width=900",
+          "alt": "Retrato al óleo de un hombre de peluca blanca y casaca, sentado",
+          "pie": "Joseph Haydn retratado por Thomas Hardy en 1791",
+          "credito": "Wikimedia Commons"
+        },
+        "fuente": {
+          "nombre": "Wikipedia: Symphony No. 45 (Haydn)",
+          "url": "https://en.wikipedia.org/wiki/Symphony_No._45_(Haydn)"
+        },
+        "wiki": "Sinfonía n.º 45 (Haydn)",
+        "claves": [
+          {
+            "nombre": "Joseph Haydn",
+            "quien": "Compositor austriaco (1732–1809), llamado «padre de la sinfonía».",
+            "wiki": "Joseph Haydn"
+          },
+          {
+            "nombre": "Nicolás I Esterházy",
+            "quien": "El príncipe que empleó a Haydn durante casi 30 años.",
+            "wiki": "Nicolás I, Príncipe de Esterházy"
+          }
+        ],
+        "repaso": {
+          "pregunta": "¿Qué mensaje le mandó Haydn al príncipe con la Sinfonía de los adioses?",
+          "respuesta": "Que los músicos querían volver a casa: en el final salen uno por uno."
+        },
+        "fecha": "2026-10-31"
+      },
+      {
         "claves": [
           {
             "nombre": "Violín",
@@ -1906,6 +2110,42 @@
       }
     ],
     "Negocios y estrategia": [
+      {
+        "materia": "Negocios y estrategia",
+        "pilar": "patrimonio",
+        "epoca": "1865",
+        "titulo": "Nokia empezó haciendo papel",
+        "dato": "La empresa que dominó los teléfonos celulares nació el 12 de mayo de 1865 como una fábrica de pulpa de madera en Finlandia.",
+        "explicacion": "El ingeniero Fredrik Idestam abrió su primer molino en Tampere, junto a unos rápidos. En 1868 abrió otro cerca del río Nokianvirta, a unos 15 kilómetros, y en 1871 la empresa tomó el nombre de ese pueblo: Nokia. En el siglo XX se volvió un conglomerado de papel, botas de hule y cables.\n\nLa lección no es que «hay que reinventarse», que es un cliché. Es más concreta: Nokia entró a la electrónica por los cables y las telecomunicaciones que ya hacía. Cada salto se apoyó en una capacidad que ya tenía.",
+        "imagen": {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MECHELIN%281894%29_p201_Nokia,_Paper_Mill.jpg?width=900",
+          "alt": "Grabado antiguo de una fábrica junto a un río con árboles",
+          "pie": "La fábrica de papel de Nokia en una ilustración de 1894",
+          "credito": "Wikimedia Commons"
+        },
+        "fuente": {
+          "nombre": "Wikipedia: History of Nokia",
+          "url": "https://en.wikipedia.org/wiki/History_of_Nokia"
+        },
+        "wiki": "Nokia (ciudad)",
+        "claves": [
+          {
+            "nombre": "Nokia (ciudad)",
+            "quien": "El pueblo finlandés junto al río que le dio nombre a la empresa.",
+            "wiki": "Nokia (ciudad)"
+          },
+          {
+            "nombre": "Tampere",
+            "quien": "La ciudad industrial donde estuvo el primer molino de Idestam.",
+            "wiki": "Tampere"
+          }
+        ],
+        "repaso": {
+          "pregunta": "¿A qué se dedicaba Nokia cuando se fundó en 1865?",
+          "respuesta": "A la pulpa de madera y el papel; tomó su nombre de un pueblo junto al río Nokianvirta."
+        },
+        "fecha": "2026-10-31"
+      },
       {
         "claves": [
           {
@@ -2305,6 +2545,42 @@
       }
     ],
     "Retórica y oratoria": [
+      {
+        "materia": "Retórica y oratoria",
+        "pilar": "mente",
+        "epoca": "52 a. C.",
+        "titulo": "El mejor discurso de Cicerón nunca se dijo",
+        "dato": "El *Pro Milone*, considerado una obra maestra de la oratoria, no es lo que Cicerón dijo en el juicio. Ese día, rodeado de soldados, apenas pudo hablar.",
+        "explicacion": "En el año 52 a. C., Milón fue juzgado en Roma por matar a su rival Clodio. Pompeyo llenó el foro de soldados para mantener el orden. Según el historiador Dion Casio, Cicerón se asustó al verlos, no pronunció el discurso que había preparado y dijo solo unas pocas palabras. Milón fue condenado y se exilió en Marsella.\n\nDespués, Cicerón escribió y publicó la defensa que debió dar. Cuando Milón la leyó en el exilio, dijo con ironía que, si Cicerón la hubiera pronunciado, él no estaría comiendo tan buenos salmonetes en Marsella. La lección: un discurso escrito no es un discurso dicho; la presión del momento también se entrena.",
+        "imagen": {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cicero_-_Musei_Capitolini.JPG?width=900",
+          "alt": "Busto de mármol de un hombre romano calvo y de rostro serio",
+          "pie": "Busto de Cicerón en los Museos Capitolinos de Roma",
+          "credito": "Wikimedia Commons"
+        },
+        "fuente": {
+          "nombre": "Dion Casio, Historia romana, 40.54",
+          "url": "https://lexundria.com/dio/40.54/cy"
+        },
+        "wiki": "Cicerón",
+        "claves": [
+          {
+            "nombre": "Tito Annio Milón",
+            "quien": "El político que Cicerón debía defender; terminó exiliado en Marsella.",
+            "wiki": "Tito Annio Milón"
+          },
+          {
+            "nombre": "Dion Casio",
+            "quien": "Historiador romano del siglo III que contó lo que pasó en el juicio.",
+            "wiki": "Dion Casio"
+          }
+        ],
+        "repaso": {
+          "pregunta": "¿Qué pasó en realidad cuando Cicerón defendió a Milón?",
+          "respuesta": "Intimidado por los soldados, casi no habló. El famoso Pro Milone lo escribió después."
+        },
+        "fecha": "2026-10-31"
+      },
       {
         "claves": [
           {

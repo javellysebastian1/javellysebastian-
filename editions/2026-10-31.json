@@ -1,0 +1,860 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-10-31",
+ "numero": 10,
+ "fecha": "2026-10-31",
+ "disponibleDesde": "2026-10-31T08:00:00-06:00",
+ "titulo": "El David: el bloque de mármol que nadie quería",
+ "temporada": {
+  "id": "t02",
+  "numero": 2,
+  "titulo": "Florencia: la ciudad que inventó el Renacimiento",
+  "episodio": 4,
+  "totalEpisodios": 6
+ },
+ "calentamiento": [
+  {
+   "origen": "Edición #9",
+   "pregunta": "¿Qué precipitó la caída de Savonarola en 1498?",
+   "respuesta": "Una prueba del fuego que se canceló entre discusiones y lluvia. La multitud se sintió engañada, asaltó San Marcos y el fraile fue ejecutado el 23 de mayo."
+  },
+  {
+   "origen": "Edición #7",
+   "pregunta": "¿Quién ganó en 1401 el concurso para las puertas del Baptisterio de Florencia?",
+   "respuesta": "Lorenzo Ghiberti. Brunelleschi perdió, se fue a Roma a estudiar ruinas y volvió para hacer la cúpula de la catedral."
+  },
+  {
+   "origen": "Edición #5",
+   "pregunta": "¿Qué presos no sobrevivieron, según Stockdale, en la cárcel de Hanói?",
+   "respuesta": "Los optimistas que se ponían fechas: «saldremos para Navidad». Él combinaba fe en el final con aceptar la realidad más dura del presente."
+  }
+ ],
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%27s_David.JPG?width=900",
+  "alt": "Estatua de mármol blanco de un joven desnudo de pie, con la honda sobre el hombro",
+  "pie": "El David de Miguel Ángel (1501–1504), 5.17 metros con la base. Galería de la Academia, Florencia",
+  "credito": "Wikimedia Commons"
+ },
+ "noticias": [
+  {
+   "id": "n1",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-10-30",
+   "titular": "La economía creció 0.9% en el tercer trimestre, empujada por los servicios",
+   "quePaso": "El viernes 30, el Inegi publicó su **estimación oportuna** del PIB. Entre julio y septiembre, la economía creció **0.9% frente al trimestre anterior** y **3.2% frente al mismo trimestre de 2025**, con cifras desestacionalizadas.\n\nLos servicios (sector terciario) crecieron 1.1% en el trimestre. La industria (secundario), 0.8%. El campo (primario) fue el único que cayó: −0.4%. Según *Expansión*, van tres trimestres seguidos de crecimiento y el acumulado de enero a septiembre es de 1.9%.",
+   "aMiQue": "El consumo y los servicios son el motor. Es buena señal para marcas de consumo premium: la gente sigue gastando en restaurantes, bares y comercio.\n\nPero el mismo día el peso cerró octubre como un mes débil, cerca de 18.8–18.9 por dólar, y el petróleo subió (ver la siguiente noticia). Un insumo importado, una botella o un flete hoy cuestan más en pesos que hace un mes. Revisa márgenes antes de fijar precios de diciembre.",
+   "contexto": "**Hecho:** es una estimación oportuna; el Inegi la revisa cuando publica la cifra definitiva, a finales de noviembre.\n\n**Hecho:** hay una diferencia entre medios sobre el trimestre anterior. *Expansión* dice que el segundo trimestre creció 1.4%; *Infobae* (nota de agencia) dice 1.5%. En cualquier caso, la economía se desaceleró un poco.\n\n**Hecho:** sobre el peso, las fuentes no coinciden en el cierre del viernes (18.79 según *Infobae*; cerca de 18.90 por la mañana según *El Siglo de Torreón*). En lo que sí coinciden es en la tendencia: alrededor de 4.5% de depreciación en octubre.\n\n**Interpretación:** crecer con servicios y no con el campo ni con exportaciones agrícolas es un crecimiento más urbano. Favorece a ciudades como Guadalajara.",
+   "queVigilar": "La siguiente decisión de tasas de Banxico, en noviembre: si baja la tasa, el peso puede seguir presionado. Y la cifra definitiva del PIB a finales de mes.",
+   "fuentes": [
+    {
+     "nombre": "Expansión: PIB de México crece 0.9% en tercer trimestre",
+     "url": "https://expansion.mx/economia/2026/10/30/pib-de-mexico-crece-0-9-en-tercer-trimestre-inegi"
+    },
+    {
+     "nombre": "Infobae (agencias): el PIB de México sube 0.9% en el tercer trimestre",
+     "url": "https://www.infobae.com/america/agencias/2026/10/30/el-pib-de-mexico-sube-un-09-en-el-tercer-trimestre-y-se-desacelera-desde-el-15-anterior/"
+    },
+    {
+     "nombre": "El Siglo de Torreón: precio del dólar, 30 de octubre",
+     "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/precio-del-dolar-hoy-viernes-30-de-octubre-peso-mexicano-cae-a-niveles-no-vistos-desde-agosto-de-2025.html"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-10-30",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 9,
+    "dondeIbamos": "El jueves 29 el Brent cerró en 114.88 dólares, a la baja, tras un reporte del WSJ: JD Vance habría escrito a Mohsen Rezaei, en Irán, para reabrir el diálogo."
+   },
+   "titular": "El Brent cierra en 117.64 dólares y octubre suma su cuarto mes seguido de alzas",
+   "quePaso": "El viernes 30, el Brent subió **2.76 dólares (+2.4%)** y cerró en **117.64**. El WTI, la referencia de Estados Unidos, cerró en **104.12** (+2.08%). Octubre terminó con alzas de entre 13% y 15%, según la fuente.\n\nTres causas, según *Infobae* y *Forbes*: nuevos incidentes en el estrecho de Ormuz (un buque tanque alcanzado con explosivos desde una lancha, según la agencia británica UKMTO); ataques que los hutíes de Yemen **dicen** haber hecho contra refinerías saudíes; y drones ucranianos contra refinerías rusas.",
+   "aMiQue": "El petróleo caro llega a tu negocio por tres puertas: los fletes, el plástico PET y la energía que se usa para hacer vidrio y aluminio. Si vendes una bebida embotellada o un suplemento importado, sumado al peso débil, tus costos de 2027 van a subir aunque nadie te avise.\n\nUna medida concreta: si vas a cerrar contratos de envase o logística para el próximo año, pregunta si puedes fijar precio por más meses.",
+   "contexto": "**Hecho:** la vía diplomática no avanzó. Donald Trump dijo que Vance solo ofreció ayudar a Irán a conseguir insumos médicos, una versión que contradice lo que publicó el WSJ. Ninguna fuente aclara cuál es la correcta.\n\n**Hecho:** las fuentes difieren en el récord. *Infobae* dice que es el mayor cierre desde principios de mayo; *Forbes*, desde abril.\n\n**Interpretación:** los ataques de los hutíes a refinerías saudíes son su reivindicación, no un hecho verificado. Si se confirmaran, el golpe a la oferta sería mayor.",
+   "queVigilar": "Las elecciones de Estados Unidos del martes 3 de noviembre. Casi todo el mercado espera ver qué pasa ahí antes de apostar por una salida diplomática.",
+   "fuentes": [
+    {
+     "nombre": "Infobae: el petróleo suma cuatro meses de alzas",
+     "url": "https://www.infobae.com/america/mundo/2026/10/30/el-petroleo-suma-cuatro-meses-de-alzas-y-alcanzo-su-mayor-cierre-desde-mayo/"
+    },
+    {
+     "nombre": "Forbes Centroamérica: octubre, subida de 13% para el Texas y más de 14% para el Brent",
+     "url": "https://forbescentroamerica.com/2026/10/30/petroleo-octubre-significo-una-subida-de-13-para-el-texas-y-mas-de-14-para-el-brent"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "Un bloque de mármol de más de cinco metros pasó 25 años tirado en un patio porque dos escultores lo habían echado a perder. Un joven de 26 años lo pidió.",
+    "contexto": "Florencia, verano de 1501. En el patio del taller de la catedral hay un bloque enorme de [[mármol de Carrara|Mármol blanco de las canteras de Carrara, en la Toscana. El favorito de los escultores por su grano fino.]]. Mide unos nueve [[brazos|Unidad de medida florentina de unos 58 centímetros. Nueve brazos son unos 5.2 metros.]]. Todos lo llaman *il Gigante*, «el Gigante».\n\nNadie lo quiere. Ya lo empezaron dos escultores y los dos lo dejaron. Está mal desbastado, es estrecho y ha pasado décadas a la intemperie. Ese verano, un escultor joven que acaba de volver de Roma lo pide para él: **Miguel Ángel Buonarroti**.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Daniele_da_volterra,_ritratto_di_michelangelo_buonarroti,_1544_ca..JPG?width=900",
+     "alt": "Retrato de un hombre mayor de barba, vestido de negro, mirando de lado",
+     "pie": "Miguel Ángel retratado por Daniele da Volterra hacia 1544, cuarenta años después del David",
+     "credito": "Wikimedia Commons"
+    },
+    "pregunta": "¿Qué crees que hizo Miguel Ángel con un bloque que otros ya habían empezado y abandonado?",
+    "opciones": [
+     "Lo cortó en piezas más pequeñas para hacer varias estatuas",
+     "Esculpió una sola figura que se acomodara a los cortes que ya tenía",
+     "Lo devolvió y pidió a la ciudad un bloque nuevo de Carrara"
+    ]
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Un gigante que nadie terminaba",
+    "texto": "La historia empieza en 1464. La [[Opera del Duomo|La institución que construía y cuidaba la catedral de Florencia. Encargaba las obras y pagaba a los artistas.]] quería una serie de grandes estatuas de profetas del Antiguo Testamento. Irían en lo alto de los contrafuertes de la catedral, a muchos metros del suelo.\n\nEl encargo fue para **Agostino di Duccio**, un escultor del círculo de Donatello. El bloque llegó de la cantera de Fantiscritti, en Carrara, en 1465. Agostino empezó a trabajarlo, pero lo dejó en 1466, cuando murió Donatello.\n\nDiez años después, en 1476, la Opera le dio el encargo a **Antonio Rossellino**. Tampoco avanzó: el contrato se canceló. El bloque se quedó en el patio del taller unos 25 años, expuesto a la lluvia y al sol.\n\nEn 1501, Florencia es una república sin los Medici, expulsados en 1494. Savonarola ya fue quemado. La ciudad quiere símbolos nuevos. Ese verano, la Opera decide que alguien debe terminar al Gigante.\n\nMiguel Ángel tiene 26 años. Viene de Roma, donde acaba de terminar la *Piedad*, que lo hizo famoso. El **16 de agosto de 1501** firma el contrato: seis florines de oro al mes durante dos años. El 13 de septiembre da los primeros golpes. Trabaja casi tres años encerrado tras una barda de tablas, para que nadie lo vea.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Opere_%27non_finite%27_di_Michelangelo.jpg?width=900",
+     "alt": "Figuras de mármol a medio salir de bloques sin terminar, en una galería",
+     "pie": "Los «Prisioneros» de Miguel Ángel, en la misma galería del David: así se ve una figura que todavía está dentro del bloque",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "giro",
+    "titulo": "Esculpir con lo que hay",
+    "texto": "La respuesta es la segunda. Miguel Ángel no pidió un bloque nuevo ni lo partió. Aceptó el Gigante con sus defectos y diseñó la figura a partir de ellos.\n\nEl bloque era estrecho y poco profundo, y ya tenía cortes. Por eso el David es tan esbelto visto de lado y tan ancho visto de frente. Por eso la postura: el peso en una pierna, la otra relajada, el cuerpo girado. Es el [[contrapposto|Postura en la que el peso descansa en una pierna y hombros y caderas se inclinan en sentidos opuestos. Viene de la escultura griega.]] clásico, pero metido en un espacio que no daba para más.\n\nCircula una frase atribuida a Miguel Ángel: «Vi el ángel en el mármol y tallé hasta liberarlo». No hay fuente de la época que la registre. Lo que sí dejó escrito, en un poema, es parecido pero más humilde: el escultor no pone nada que el bloque no contenga ya.\n\nEl segundo giro llegó al final. El 25 de enero de 1504, con la estatua casi lista, la ciudad reunió una comisión de unos 30 ciudadanos. Entre ellos estaban **Leonardo da Vinci**, **Botticelli**, **Perugino** y **Filippino Lippi**. ¿Dónde ponerla? Ya no iría a lo alto de la catedral. Iría a la [[Plaza de la Señoría|La plaza del poder político de Florencia, frente al Palazzo Vecchio, sede del gobierno.]], frente al palacio de gobierno.\n\nAsí, un profeta religioso se volvió un símbolo político: el pequeño David que vence al gigante, como la república que resiste a los poderosos. Salió del taller la noche del 14 de mayo de 1504. Cuarenta hombres tardaron cuatro días en moverlo unos 400 metros. Se presentó el 8 de septiembre.\n\nEn 1527, en una revuelta contra los Medici, un banco lanzado por una ventana le rompió el brazo izquierdo en tres pedazos. En 1873 lo llevaron a la Galería de la Academia. En la plaza hay una copia desde 1910.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Replica_of_David,_Piazza_della_Signoria,_Florence.jpg?width=900",
+     "alt": "Copia de la estatua del David frente a un palacio de piedra con torre",
+     "pie": "La copia de 1910, en el lugar que eligió la comisión de 1504: la puerta del Palazzo Vecchio",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "Diseña con la restricción, no contra ella",
+    "texto": "Miguel Ángel no peleó con el bloque. Lo leyó. La forma limitada del mármol decidió la postura, y la postura es lo que hace única a la estatua.\n\nCómo usarlo, en tres pasos:\n\n1. **Haz el inventario honesto.** Antes de pedir más presupuesto, más tiempo o más gente, escribe qué tienes de verdad, con sus defectos. El defecto también es información.\n2. **Pregunta qué solo se puede hacer con esto.** Un bloque estrecho no sirve para un caballo; sirve para una figura de pie. Un presupuesto pequeño no sirve para una campaña masiva; sirve para una edición limitada.\n3. **Deja que el destino cambie el significado.** El David se pensó para la catedral y triunfó en la plaza. Un producto pensado para un canal puede funcionar mejor en otro."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Dónde más aparece",
+    "texto": "**En un fracaso de laboratorio.** En 1968, Spencer Silver, químico de 3M, creó un adhesivo que pegaba poco. Nadie le encontró uso hasta que su colega Art Fry lo puso en papelitos para marcar su libro de cantos. Así nacieron los Post-it, lanzados en 1980: el defecto (pegar poco) era la virtud.\n\n**En un despacho de abogados.** Nadie elige los hechos de su cliente. El buen litigante no inventa un caso mejor: construye la defensa con los hechos que hay, incluidos los incómodos, y los usa antes de que los use la otra parte.\n\n**En tu marca.** Si un lote de etiquetas sale con un tono distinto o un insumo escasea, la salida rápida es esconderlo. A veces la salida inteligente es nombrarlo: «lote de temporada», «edición limitada». Solo funciona si es verdad."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿Qué «bloque abandonado» tienes en tu patio: un proyecto, una marca o una idea que otros empezaron y nadie terminó?",
+    "texto": "No preguntes si es perfecto. Pregunta qué figura cabe en él tal como es."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "No siempre eliges tu mármol. Sí eliges qué ver dentro del que te tocó."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Galería de la Academia de Florencia: el David de Miguel Ángel",
+   "url": "https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/",
+   "minutos": 8
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Por qué el David es tan esbelto visto de lado?",
+    "respuesta": "Porque el bloque era estrecho y ya estaba trabajado por otros. Miguel Ángel diseñó la figura dentro de esos límites."
+   },
+   {
+    "pregunta": "¿Qué cambió la comisión de 1504 en la que participaron Leonardo y Botticelli?",
+    "respuesta": "El lugar: la estatua no fue a lo alto de la catedral sino a la Plaza de la Señoría, y se volvió símbolo de la república."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Wikipedia: David (Michelangelo)",
+    "url": "https://en.wikipedia.org/wiki/David_(Michelangelo)"
+   },
+   {
+    "nombre": "Galleria dell'Accademia di Firenze: David",
+    "url": "https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/"
+   },
+   {
+    "nombre": "Opera di Santa Maria del Fiore: A giant on the move",
+    "url": "https://duomo.firenze.it/it/opera-magazine/post/4458/a-giant-on-the-move-michelangelo-s-david-part-2"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Liderazgo e influencia",
+   "pilar": "caracter",
+   "formato": "queHarias",
+   "titulo": "La nota que Eisenhower escribió por si fracasaba el Día D",
+   "contexto": "Inglaterra, 5 de junio de 1944. El general **Dwight D. Eisenhower** acaba de dar la orden: la invasión de Normandía va mañana. El clima apenas da una ventana. Ya no hay forma de detenerla.\n\nMiles de hombres cruzarán el canal esa noche. Si fracasan, habrá que explicarlo al mundo. Esa tarde visita a los paracaidistas que van a saltar primero. Luego se sienta a escribir.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eisenhower_d-day.jpg?width=900",
+    "alt": "Un general habla de pie con un grupo de paracaidistas con la cara pintada",
+    "pie": "Eisenhower con paracaidistas de la 101.ª División Aerotransportada, el 5 de junio de 1944",
+    "credito": "Wikimedia Commons"
+   },
+   "pregunta": "Eres el comandante. La víspera, ¿qué preparas por si la operación fracasa?",
+   "opciones": [
+    "Un comunicado que explique el clima y los errores de los aliados",
+    "Una nota breve que asuma toda la responsabilidad",
+    "Nada: preparar el fracaso desmoraliza"
+   ],
+   "revelacion": "Eisenhower escribió a lápiz una nota de unas pocas líneas. Empieza así: «Nuestros desembarcos en la zona de Cherburgo-El Havre no han logrado una posición satisfactoria y he retirado las tropas». Elogia a los soldados, a la aviación y a la marina. Y cierra: «Si hay alguna culpa o falta en el intento, es solo mía».\n\nNo culpa al clima ni a los aliados. En el borrador se ve una corrección: primero escribió que las tropas «han sido retiradas» y lo cambió por «he retirado las tropas», en primera persona. Por el cansancio la fechó mal: «5 de julio». La tiró, y un ayudante la recuperó. Hoy la guarda el Archivo Nacional de Estados Unidos.\n\nLa invasión salió bien y la nota nunca se usó. Lo que enseña es otra cosa: el líder decide antes de saber el resultado si va a compartir el éxito y quedarse con la culpa. Esa decisión, tomada en frío, es lo que da [[autoridad moral|Influencia que viene de la confianza en el carácter de alguien, no de su cargo.]] cuando llega el momento caliente.",
+   "idea": "La responsabilidad se decide antes del resultado, no después.",
+   "fuente": {
+    "nombre": "National Archives: Eisenhower's «In Case of Failure» message",
+    "url": "https://www.archives.gov/publications/prologue/2004/summer/ike-two-d-day-messages"
+   },
+   "wiki": "Dwight D. Eisenhower",
+   "claves": [
+    {
+     "nombre": "Día D",
+     "quien": "El 6 de junio de 1944, primer día del desembarco aliado en Normandía.",
+     "wiki": "Día D"
+    },
+    {
+     "nombre": "Batalla de Normandía",
+     "quien": "La campaña que siguió al desembarco y abrió el frente occidental contra Alemania.",
+     "wiki": "Batalla de Normandía"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Con qué frase cierra la nota que Eisenhower escribió por si fracasaba el Día D?",
+    "respuesta": "«Si hay alguna culpa o falta en el intento, es solo mía»."
+   }
+  },
+  {
+   "materia": "Arquitectura y diseño",
+   "pilar": "cultura",
+   "formato": "miraEscucha",
+   "titulo": "La casa de Barragán: el muro que esconde el color",
+   "contexto": "En Tacubaya, en la Ciudad de México, en la calle General Francisco Ramírez 12 y 14, hay una casa que pasa casi desapercibida. La construyó entre 1947 y 1948 un arquitecto nacido en Guadalajara en 1902: **Luis Barragán**.\n\nEn 2004, la UNESCO la declaró Patrimonio de la Humanidad. Es una de las pocas casas particulares del siglo XX con ese título.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Luis_Barrag%C3%A1n_House_and_Studio-115242.jpg?width=900",
+    "alt": "Casa Luis Barragán en la Ciudad de México",
+    "pie": "La Casa Luis Barragán, en Tacubaya. Patrimonio de la Humanidad desde 2004",
+    "credito": "Wikimedia Commons"
+   },
+   "pregunta": "Desde la banqueta, ¿qué crees que ves de esta casa famosa?",
+   "opciones": [
+    "Una fachada de colores intensos, rosa y amarillo",
+    "Un muro sobrio, casi sin ventanas",
+    "Un jardín abierto detrás de una reja"
+   ],
+   "correcta": 1,
+   "revelacion": "Ves un muro sencillo, casi ciego. Barragán guardó todo para adentro. Se entra por un vestíbulo pequeño y en penumbra, y de ahí la luz va creciendo. El color aparece de golpe, en muros rosas y amarillos, y la ventana grande de la sala da a un jardín que desde la calle no existe.\n\nCómo mirarla: busca la luz antes que los objetos. Las ventanas están puestas para que el sol entre de lado y cambie el color a lo largo del día. En la biblioteca hay una escalera de tablones de madera empotrados en el muro, sin barandal: parece flotar. Es arquitectura de pocas cosas, y cada una tiene un trabajo.\n\nLa UNESCO la describe como una síntesis de lo moderno con lo tradicional mexicano: los muros gruesos de las haciendas y los conventos, el patio, el agua. En 1980, Barragán se volvió el segundo arquitecto en recibir el [[Premio Pritzker|El premio más importante de la arquitectura, entregado cada año desde 1979.]]. En su discurso habló de la serenidad como el valor central de su obra.",
+   "idea": "El lujo de Barragán no se exhibe hacia la calle: se descubre al entrar.",
+   "fuente": {
+    "nombre": "UNESCO: Luis Barragán House and Studio",
+    "url": "https://whc.unesco.org/en/list/1136/"
+   },
+   "wiki": "Casa Luis Barragán",
+   "claves": [
+    {
+     "nombre": "Luis Barragán",
+     "quien": "Arquitecto tapatío (1902–1988), Premio Pritzker 1980. Empezó su carrera en Guadalajara.",
+     "wiki": "Luis Barragán"
+    },
+    {
+     "nombre": "Premio Pritzker",
+     "quien": "El reconocimiento mayor de la arquitectura; Barragán lo ganó en su segunda edición.",
+     "wiki": "Premio Pritzker"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué la casa de Barragán sorprende al entrar?",
+    "respuesta": "Porque la fachada es un muro sobrio y casi ciego; el color, la luz y el jardín solo aparecen adentro."
+   }
+  },
+  {
+   "materia": "Ciudades del mundo",
+   "pilar": "mundo",
+   "formato": "comoFunciona",
+   "titulo": "Venecia y el Arsenal: una fábrica de barcos 400 años antes de Ford",
+   "contexto": "En el siglo XVI, Venecia era una ciudad de unos 150 mil habitantes que dominaba el comercio del Mediterráneo. Su poder no estaba en la plaza de San Marcos sino en un rincón amurallado del este de la ciudad: el **Arsenal**.\n\nDante ya lo había descrito en el *Infierno*, hacia 1310: compara un foso de brea hirviendo con las calderas donde los venecianos calafateaban sus barcos en invierno.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Campo_de_l%27Arsenal.jpg?width=900",
+    "alt": "Plaza de Venecia frente a la entrada del Arsenal con torres y una puerta monumental",
+    "pie": "La entrada del Arsenal de Venecia. La Porta Magna, de hacia 1460, es una de las primeras obras renacentistas de la ciudad",
+    "credito": "Wikimedia Commons"
+   },
+   "pregunta": "¿Cómo crees que el Arsenal lograba terminar casi un barco al día en su mejor época?",
+   "opciones": [
+    "Con miles de esclavos traídos de Oriente",
+    "Con piezas estandarizadas que avanzaban por etapas",
+    "Comprando cascos ya hechos en Génova y armándolos"
+   ],
+   "correcta": 1,
+   "revelacion": "Con estandarización. En el Arsenal trabajaban unas 16,000 personas a principios del siglo XVI: carpinteros, cordeleros, herreros, calafateadores. Cada grupo hacía siempre la misma parte. Las piezas de las [[galeras|Barcos largos de guerra y comercio movidos sobre todo por remos.]] se fabricaban con medidas fijas, de modo que cualquier tabla servía para cualquier casco del mismo tipo.\n\nEl casco avanzaba por un canal y en cada punto recibía algo: mástiles, remos, cuerdas, armas, comida. Venecia guardaba además cascos a medio hacer, listos para terminarse rápido si estallaba una guerra. Es una línea de montaje cuatro siglos antes de Henry Ford.\n\nSe cuenta que en 1574, durante la visita del rey Enrique III de Francia, se armó una galera completa en un solo día. Las fuentes confirman la visita y la exhibición de un barco hecho con piezas prefabricadas; el detalle de que se terminó mientras el rey comía es tradición, no un hecho comprobado.",
+   "idea": "Venecia no ganó por tener más barcos, sino por poder hacerlos más rápido que nadie.",
+   "fuente": {
+    "nombre": "World History Encyclopedia: Arsenale",
+    "url": "https://www.worldhistory.org/article/2776/arsenale/"
+   },
+   "wiki": "Arsenal de Venecia",
+   "claves": [
+    {
+     "nombre": "Galera",
+     "quien": "El barco de remos que el Arsenal producía en serie.",
+     "wiki": "Galera"
+    },
+    {
+     "nombre": "República de Venecia",
+     "quien": "El Estado comerciante que gobernó la laguna durante más de mil años, hasta 1797.",
+     "wiki": "República de Venecia"
+    },
+    {
+     "nombre": "Dante Alighieri",
+     "quien": "El poeta que describió el Arsenal en el canto XXI del Infierno.",
+     "wiki": "Dante Alighieri"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué método permitía al Arsenal de Venecia producir casi un barco al día?",
+    "respuesta": "Piezas estandarizadas y equipos especializados que trabajaban por etapas: una línea de montaje temprana."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "elCaso",
+   "titulo": "Shutterstock: 30,000 fotos propias para arrancar un catálogo",
+   "contexto": "Nueva York, 2003. **Jon Oringer** es programador y fotógrafo aficionado. Quiere fotos para sus proyectos y descubre que las agencias cobran caro por cada imagen, con licencias complicadas.\n\nSe le ocurre un modelo distinto: una suscripción que deje descargar muchas fotos por una cuota fija. El problema es obvio: no tiene catálogo, y sin catálogo nadie se suscribe.",
+   "pregunta": "¿Cómo crees que resolvió Oringer el problema de arrancar sin fotos?",
+   "opciones": [
+    "Compró el archivo de una agencia en quiebra",
+    "Subió unas 30,000 fotos tomadas por él mismo",
+    "Pagó a estudiantes de fotografía por cada imagen"
+   ],
+   "correcta": 1,
+   "revelacion": "Él mismo fue el primer proveedor. En julio de 2003 lanzó Shutterstock con unas 30,000 fotos propias. Con un catálogo mínimo pudo vender suscripciones; con suscriptores, pudo atraer fotógrafos que subieran sus imágenes a cambio de una parte de cada descarga.\n\nLa clave es el [[costo marginal|Lo que cuesta producir una unidad más. En una foto digital es casi cero: venderla mil veces no cuesta mil veces más.]]. Una foto se toma una vez y puede venderse miles de veces sin costo extra. Por eso el negocio escaló: en 2012 salió a la Bolsa de Nueva York a 17 dólares por acción. En diciembre de 2019 anunció que había pagado más de 1,000 millones de dólares a más de un millón de colaboradores.\n\nOjo con la otra cara: como los colaboradores son millones, cada foto gana poco, y la competencia de las imágenes generadas por IA presiona los precios. El modelo funciona para la plataforma que junta el catálogo; para un fotógrafo individual, lo que paga es el volumen.",
+   "idea": "En un mercado de dos lados, a veces el fundador tiene que ser el primer proveedor.",
+   "fuente": {
+    "nombre": "Shutterstock Investor Relations: Shutterstock turns seven",
+    "url": "https://investor.shutterstock.com/news-releases/news-release-details/shutterstock-turns-seven"
+   },
+   "wiki": "Fotografía de stock",
+   "claves": [
+    {
+     "nombre": "Libre de regalías",
+     "quien": "La licencia que permite usar una imagen muchas veces tras un solo pago.",
+     "wiki": "Libre de regalías"
+    },
+    {
+     "nombre": "Licencia Rights Managed",
+     "quien": "El modelo tradicional: se paga según el uso, el tiempo y el territorio.",
+     "wiki": "Licencia Rights Managed"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué una foto de stock es un producto escalable?",
+    "respuesta": "Porque se produce una vez y puede venderse miles de veces con un costo marginal casi cero."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Retórica y oratoria",
+   "pilar": "mente",
+   "epoca": "52 a. C.",
+   "titulo": "El mejor discurso de Cicerón nunca se dijo",
+   "dato": "El *Pro Milone*, considerado una obra maestra de la oratoria, no es lo que Cicerón dijo en el juicio. Ese día, rodeado de soldados, apenas pudo hablar.",
+   "explicacion": "En el año 52 a. C., Milón fue juzgado en Roma por matar a su rival Clodio. Pompeyo llenó el foro de soldados para mantener el orden. Según el historiador Dion Casio, Cicerón se asustó al verlos, no pronunció el discurso que había preparado y dijo solo unas pocas palabras. Milón fue condenado y se exilió en Marsella.\n\nDespués, Cicerón escribió y publicó la defensa que debió dar. Cuando Milón la leyó en el exilio, dijo con ironía que, si Cicerón la hubiera pronunciado, él no estaría comiendo tan buenos salmonetes en Marsella. La lección: un discurso escrito no es un discurso dicho; la presión del momento también se entrena.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cicero_-_Musei_Capitolini.JPG?width=900",
+    "alt": "Busto de mármol de un hombre romano calvo y de rostro serio",
+    "pie": "Busto de Cicerón en los Museos Capitolinos de Roma",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Dion Casio, Historia romana, 40.54",
+    "url": "https://lexundria.com/dio/40.54/cy"
+   },
+   "wiki": "Cicerón",
+   "claves": [
+    {
+     "nombre": "Tito Annio Milón",
+     "quien": "El político que Cicerón debía defender; terminó exiliado en Marsella.",
+     "wiki": "Tito Annio Milón"
+    },
+    {
+     "nombre": "Dion Casio",
+     "quien": "Historiador romano del siglo III que contó lo que pasó en el juicio.",
+     "wiki": "Dion Casio"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué pasó en realidad cuando Cicerón defendió a Milón?",
+    "respuesta": "Intimidado por los soldados, casi no habló. El famoso Pro Milone lo escribió después."
+   }
+  },
+  {
+   "materia": "Liderazgo e influencia",
+   "pilar": "caracter",
+   "epoca": "1863",
+   "titulo": "La carta furiosa que Lincoln nunca envió",
+   "dato": "Después de Gettysburg, Lincoln escribió una carta durísima al general Meade por dejar escapar al ejército de Lee. La guardó en un sobre: «Al general Meade, nunca enviada ni firmada».",
+   "explicacion": "El 14 de julio de 1863, Lincoln supo que Lee había logrado retirarse al sur. Escribió: «Su oportunidad de oro se ha ido, y estoy angustiado sin medida por ello». Pero no la mandó. Meade acababa de ganar la batalla más importante de la guerra y Lincoln lo necesitaba.\n\nEra un hábito suyo: escribir la carta caliente para sacar el enojo y luego dejarla en un cajón. Separaba dos cosas que solemos mezclar: expresar lo que uno siente y decidir lo que conviene comunicar.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abraham_Lincoln_O-77_by_Gardner,_1863.jpg?width=900",
+    "alt": "Fotografía en blanco y negro de Abraham Lincoln sentado, con barba",
+    "pie": "Abraham Lincoln fotografiado por Alexander Gardner en noviembre de 1863",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "American Battlefield Trust: Lincoln's unsent letter to George Meade",
+    "url": "https://www.battlefields.org/learn/primary-sources/lincolns-unsent-letter-george-meade"
+   },
+   "wiki": "Abraham Lincoln",
+   "claves": [
+    {
+     "nombre": "George Meade",
+     "quien": "El general de la Unión que ganó en Gettysburg y dejó escapar a Lee.",
+     "wiki": "George Meade"
+    },
+    {
+     "nombre": "Batalla de Gettysburg",
+     "quien": "Julio de 1863: el punto de quiebre de la guerra civil de Estados Unidos.",
+     "wiki": "Batalla de Gettysburg"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué hizo Lincoln con la carta furiosa que escribió a Meade?",
+    "respuesta": "La guardó sin enviarla ni firmarla."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "epoca": "1971",
+   "titulo": "El golpe de golf en la Luna no fue tan lejos",
+   "dato": "Alan Shepard dijo que su pelota voló «millas y millas». Un análisis de 2021 calculó que sus dos tiros recorrieron unas 24 y 40 yardas.",
+   "explicacion": "El 6 de febrero de 1971, en la misión Apolo 14, Shepard sacó una cabeza de hierro 6 que había llevado en su equipo y la acopló a una herramienta para recoger muestras. Con el traje espacial solo podía golpear con una mano. En 2021, para los 50 años, el experto en imágenes Andy Saunders analizó las fotos y videos para la USGA: un tiro se fue a un cráter a unas 24 yardas y el otro llegó a unas 40.\n\nLo de «millas y millas» fue una broma. En la Luna la gravedad es una sexta parte de la terrestre y no hay aire que frene, así que un buen golpe sí podría volar muchísimo. El límite era el cuerpo dentro del traje, no la física.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shepard_Plants_Flag_-_GPN-2000-001120.jpg?width=900",
+    "alt": "Un astronauta junto a la bandera de Estados Unidos sobre la superficie lunar",
+    "pie": "Alan Shepard en la Luna durante el Apolo 14, en febrero de 1971",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "USGA: Shepard's moon club, 50th anniversary",
+    "url": "https://www.usga.org/content/usga/home-page/articles/2021/02/shepard-moon-club-50th-anniversary-usga-museum.html"
+   },
+   "wiki": "Alan Shepard",
+   "claves": [
+    {
+     "nombre": "Alan Shepard",
+     "quien": "Primer estadounidense en el espacio (1961) y quinto hombre en pisar la Luna.",
+     "wiki": "Alan Shepard"
+    },
+    {
+     "nombre": "Gravedad lunar",
+     "quien": "En la Luna pesas cerca de una sexta parte de lo que pesas en la Tierra.",
+     "wiki": "Luna"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto voló en realidad la pelota de golf de Shepard en la Luna?",
+    "respuesta": "Unas 24 y 40 yardas en sus dos tiros, según el análisis de 2021."
+   }
+  },
+  {
+   "materia": "Música",
+   "pilar": "cultura",
+   "epoca": "1772",
+   "titulo": "La sinfonía que pidió vacaciones",
+   "dato": "En la *Sinfonía de los adioses*, de Haydn, los músicos apagan su vela y salen uno por uno hasta que quedan dos violines. Era un mensaje al príncipe.",
+   "explicacion": "En 1772, el príncipe Nicolás Esterházy prolongó su estancia de verano en su palacio de Eszterháza, en Hungría. Los músicos llevaban meses lejos de sus esposas, que se habían quedado en Eisenstadt. Haydn, su director, escribió una sinfonía cuyo último movimiento se va vaciando. El príncipe entendió: al día siguiente la corte volvió a casa.\n\nLa anécdota la contaron dos biógrafos de Haydn que hablaron con él. Es un ejemplo perfecto de persuasión indirecta: en vez de quejarse, Haydn hizo que el jefe viera el problema con sus propios ojos, sin humillarlo.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Haydn,_portrait_by_Thomas_Hardy.jpg?width=900",
+    "alt": "Retrato al óleo de un hombre de peluca blanca y casaca, sentado",
+    "pie": "Joseph Haydn retratado por Thomas Hardy en 1791",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: Symphony No. 45 (Haydn)",
+    "url": "https://en.wikipedia.org/wiki/Symphony_No._45_(Haydn)"
+   },
+   "wiki": "Sinfonía n.º 45 (Haydn)",
+   "claves": [
+    {
+     "nombre": "Joseph Haydn",
+     "quien": "Compositor austriaco (1732–1809), llamado «padre de la sinfonía».",
+     "wiki": "Joseph Haydn"
+    },
+    {
+     "nombre": "Nicolás I Esterházy",
+     "quien": "El príncipe que empleó a Haydn durante casi 30 años.",
+     "wiki": "Nicolás I, Príncipe de Esterházy"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué mensaje le mandó Haydn al príncipe con la Sinfonía de los adioses?",
+    "respuesta": "Que los músicos querían volver a casa: en el final salen uno por uno."
+   }
+  },
+  {
+   "materia": "Ciudades del mundo",
+   "pilar": "mundo",
+   "epoca": "1945",
+   "titulo": "Kioto se salvó, pero no por una luna de miel",
+   "dato": "Kioto estaba en la lista de blancos de la bomba atómica. El secretario de Guerra Henry Stimson la sacó. La historia de que pasó ahí su luna de miel es, muy probablemente, falsa.",
+   "explicacion": "Kioto, antigua capital imperial con miles de templos, era para los militares un buen blanco: grande y casi intacta. Stimson se opuso con fuerza, con el apoyo de Truman, por su valor cultural y porque destruirla haría a Japón un enemigo duradero. Los militares intentaron varias veces volver a incluirla.\n\nStimson se casó en 1893 y no hay pruebas de que su luna de miel fuera en Asia. Lo que sí está documentado es que visitó Kioto con su esposa en 1926. El historiador Alex Wellerstein rastreó el mito hasta un artículo de 2002 que llamó a ese viaje «segunda luna de miel». Conocer una ciudad en persona cambió una decisión de guerra.",
+   "fuente": {
+    "nombre": "Alex Wellerstein, Restricted Data: Henry Stimson didn't go to Kyoto on his honeymoon",
+    "url": "https://blog.nuclearsecrecy.com/2023/07/24/henry-stimson-didnt-go-to-kyoto-on-his-honeymoon/"
+   },
+   "wiki": "Bombardeos atómicos de Hiroshima y Nagasaki",
+   "claves": [
+    {
+     "nombre": "Kioto",
+     "quien": "Capital de Japón durante más de mil años; hoy guarda 17 sitios Patrimonio de la Humanidad.",
+     "wiki": "Kioto"
+    },
+    {
+     "nombre": "Harry S. Truman",
+     "quien": "El presidente que autorizó las bombas y apoyó sacar a Kioto de la lista.",
+     "wiki": "Harry S. Truman"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué es dudosa la historia de la luna de miel de Stimson en Kioto?",
+    "respuesta": "Se casó en 1893 sin pruebas de un viaje a Asia; visitó Kioto en 1926 y el mito nació de un artículo de 2002."
+   }
+  },
+  {
+   "materia": "Negocios y estrategia",
+   "pilar": "patrimonio",
+   "epoca": "1865",
+   "titulo": "Nokia empezó haciendo papel",
+   "dato": "La empresa que dominó los teléfonos celulares nació el 12 de mayo de 1865 como una fábrica de pulpa de madera en Finlandia.",
+   "explicacion": "El ingeniero Fredrik Idestam abrió su primer molino en Tampere, junto a unos rápidos. En 1868 abrió otro cerca del río Nokianvirta, a unos 15 kilómetros, y en 1871 la empresa tomó el nombre de ese pueblo: Nokia. En el siglo XX se volvió un conglomerado de papel, botas de hule y cables.\n\nLa lección no es que «hay que reinventarse», que es un cliché. Es más concreta: Nokia entró a la electrónica por los cables y las telecomunicaciones que ya hacía. Cada salto se apoyó en una capacidad que ya tenía.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MECHELIN%281894%29_p201_Nokia,_Paper_Mill.jpg?width=900",
+    "alt": "Grabado antiguo de una fábrica junto a un río con árboles",
+    "pie": "La fábrica de papel de Nokia en una ilustración de 1894",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: History of Nokia",
+    "url": "https://en.wikipedia.org/wiki/History_of_Nokia"
+   },
+   "wiki": "Nokia (ciudad)",
+   "claves": [
+    {
+     "nombre": "Nokia (ciudad)",
+     "quien": "El pueblo finlandés junto al río que le dio nombre a la empresa.",
+     "wiki": "Nokia (ciudad)"
+    },
+    {
+     "nombre": "Tampere",
+     "quien": "La ciudad industrial donde estuvo el primer molino de Idestam.",
+     "wiki": "Tampere"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿A qué se dedicaba Nokia cuando se fundó en 1865?",
+    "respuesta": "A la pulpa de madera y el papel; tomó su nombre de un pueblo junto al río Nokianvirta."
+   }
+  },
+  {
+   "materia": "Ciencia y tecnología",
+   "pilar": "futuro",
+   "epoca": "1947",
+   "titulo": "El primer «bug» no inventó la palabra",
+   "dato": "En 1947, en una computadora de Harvard, encontraron una polilla atrapada en un relé y la pegaron en la bitácora. La nota dice: «Primer caso real de bicho encontrado».",
+   "explicacion": "Fue el 9 de septiembre de 1947, en el relé 70 del Harvard Mark II. La broma de la nota es la palabra «real»: los ingenieros ya llamaban *bug* (bicho) a las fallas. Thomas Edison usó el término en una carta de 1878. La polilla solo fue la primera vez que el bicho era literal.\n\nSe suele decir que la encontró Grace Hopper. El Smithsonian, que guarda la bitácora, dice que probablemente no fue ella, sino ingenieros del equipo. Hopper sí contó la historia muchas veces, y por eso se le atribuyó.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/First_Computer_Bug,_1947.jpg?width=900",
+    "alt": "Página de una bitácora con una polilla pegada con cinta y notas a mano",
+    "pie": "La bitácora del Harvard Mark II con la polilla del 9 de septiembre de 1947",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Smithsonian National Museum of American History: Log book with computer bug",
+    "url": "https://www.si.edu/object/log-book-computer-bug:nmah_334663"
+   },
+   "wiki": "Error de software",
+   "claves": [
+    {
+     "nombre": "Grace Murray Hopper",
+     "quien": "Pionera de la programación; trabajó en las Mark de Harvard y popularizó la historia.",
+     "wiki": "Grace Murray Hopper"
+    },
+    {
+     "nombre": "Thomas Alva Edison",
+     "quien": "El inventor que ya llamaba «bugs» a las fallas en 1878.",
+     "wiki": "Thomas Alva Edison"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué la nota de 1947 dice «primer caso real» de bug?",
+    "respuesta": "Porque la palabra ya se usaba para fallas (Edison, 1878); esa vez el bicho era literal."
+   }
+  },
+  {
+   "materia": "Etiqueta y protocolo",
+   "pilar": "gusto",
+   "epoca": "Siglo XVI",
+   "titulo": "«Brindis» es una frase en alemán",
+   "dato": "La palabra «brindis» viene del alemán *bring dir's*: «te lo ofrezco». Es una frase entera que el español convirtió en sustantivo.",
+   "explicacion": "Así lo recoge el Diccionario de la lengua española. La expresión es la que acompañaba el gesto de levantar la copa hacia otro. Llegó al español en la época de los Austrias, cuando soldados y cortesanos alemanes y españoles convivían en los ejércitos y la corte de Carlos V; esa vía de entrada es la explicación habitual, no un hecho documentado.\n\nEl origen explica la regla de etiqueta: un brindis es un ofrecimiento a otra persona. Por eso se mira a los ojos a quien se brinda y por eso habla primero el anfitrión.",
+   "fuente": {
+    "nombre": "Real Academia Española, Diccionario de la lengua española: brindis",
+    "url": "https://dle.rae.es/brindis"
+   },
+   "wiki": "Brindis",
+   "claves": [
+    {
+     "nombre": "Lansquenete",
+     "quien": "Los soldados mercenarios alemanes de los ejércitos de Carlos V.",
+     "wiki": "Lansquenete"
+    },
+    {
+     "nombre": "Carlos I de España",
+     "quien": "Rey de España y emperador alemán: unió las dos cortes en el siglo XVI.",
+     "wiki": "Carlos I de España"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿De qué frase viene la palabra «brindis»?",
+    "respuesta": "Del alemán «bring dir's», «te lo ofrezco»."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "Cartas a Lucilio",
+  "autor": "Séneca",
+  "capitulo": {
+   "numero": 4,
+   "total": 6,
+   "titulo": "Perderle el miedo a la muerte"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_01.jpg?width=900",
+   "alt": "Busto doble de mármol de dos hombres mayores",
+   "pie": "Sócrates y Séneca en una herma doble romana. Antikensammlung de Berlín",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "Imagina que recibes una demanda. La otra parte está furiosa, tiene buenos abogados y amenaza con quitarte algo que te importa. Llamas a un amigo sabio y le pides consejo. Esperas que te diga: «Tranquilo, todo va a salir bien».\n\nEso es exactamente lo que le pasó a Lucilio. Y la respuesta de Séneca, en la carta 24, es la contraria. No le dice que todo saldrá bien. Le dice: imagina que sale mal. Y luego mídelo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Un pleito y un consejo incómodo"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Lucilio, el amigo y alumno de Séneca, gobernaba Sicilia como funcionario romano. Le escribe preocupado por un juicio: un enemigo enojado lo amenaza con una demanda. Quiere que Séneca lo anime a pensar en un final feliz y a descansar en la esperanza.\n\nSéneca se niega con cariño. Dice que lo llevará a la tranquilidad por otro camino."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Si quieres quitarte toda preocupación, da por hecho que lo que temes que ocurra ocurrirá de todos modos. Sea cual sea el mal, mídelo en tu mente y calcula el tamaño de tu miedo. Entenderás que lo que temes es pequeño o es breve.",
+    "fuente": "Cartas a Lucilio, XXIV, 2"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La técnica es casi de abogado. No discute la probabilidad de perder; discute el tamaño de la pérdida. La esperanza deja al miedo intacto, escondido debajo. El cálculo lo saca a la luz y le pone medida. Y un miedo con medida suele ser más chico que un miedo sin forma."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Qué le pide Séneca a Lucilio que haga con su miedo al juicio?",
+    "opciones": [
+     "Confiar en que el juez estará de su lado",
+     "Suponer que lo peor ocurrirá y medir qué tan grave sería",
+     "Olvidarse del juicio y pensar en otra cosa"
+    ],
+    "correcta": 1,
+    "explicacion": "Séneca no promete un buen resultado. Propone imaginar el peor y medirlo: casi siempre resulta pequeño o pasajero."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Los que perdieron y no se quebraron"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Para que la idea no quede en el aire, Séneca saca ejemplos de la historia romana. Es su forma de enseñar: no definiciones, sino personas.\n\nCuenta el caso de **Rutilio**, un político honrado condenado injustamente al exilio. Lo único que le molestó de la sentencia, dice Séneca, fue que estuviera mal dictada. Cuenta el de **Metelo**, que soportó el destierro con valor. Y el de [[Sócrates|Filósofo ateniense condenado a muerte en 399 a. C. Pasó sus últimos días conversando con sus alumnos en la cárcel.]], que en la cárcel siguió conversando de filosofía y se negó a huir cuando sus amigos le ofrecieron escapar."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Después sube el tono. Recuerda a **Mucio Escévola**, el joven que, capturado por un rey enemigo, metió la mano en el fuego para mostrar que no le temía al dolor. Y a [[Catón de Útica|Político romano (95–46 a. C.) que defendió la república contra César y se quitó la vida antes de rendirse.]], que su última noche leyó a Platón con la espada junto a la almohada.\n\nSéneca no le pide a Lucilio que imite esos gestos extremos. Su argumento es más sencillo: si otros enfrentaron cosas mucho peores que un pleito, tú puedes enfrentar un pleito."
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_01.jpg?width=900",
+    "alt": "Busto doble de mármol con dos cabezas de hombres mayores unidas por la nuca",
+    "pie": "Sócrates y Séneca en una herma doble del siglo III. Séneca pone a Sócrates como ejemplo de alguien que no perdió la calma ante la condena",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Quitarle la máscara a las cosas"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Luego viene la imagen más famosa de la carta. Séneca dice que hay que hacer con las cosas lo mismo que con las personas: quitarles la máscara. En el teatro romano los actores usaban [[máscaras|En latín, *persona*: la máscara del actor. De ahí viene nuestra palabra «persona».]] que exageraban el gesto. El miedo funciona igual: le pone una cara terrible a algo que, sin máscara, es soportable."
+   },
+   {
+    "tipo": "cita",
+    "texto": "No solo a los hombres, también a las cosas hay que quitarles la máscara y devolverles su verdadero rostro.",
+    "fuente": "Cartas a Lucilio, XXIV, 13"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Y entonces repasa, una por una, las máscaras. La cárcel, el destierro, la pobreza, el dolor. Del dolor dice una frase que se volvió clásica: le habla directamente y le dice que, si puede soportarlo, es ligero; y si no puede soportarlo, será breve.\n\nPara un emprendedor, la traducción es directa. «Perder el contrato», «cerrar la tienda», «que el socio se vaya». Dichas así, suenan a catástrofe. Quitadas las máscaras, son hechos con un costo que se puede calcular, una salida que se puede planear y un tiempo que se termina."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Lo que la psicología llama descatastrofizar",
+    "texto": "La terapia cognitiva moderna, que desarrollaron Albert Ellis y Aaron Beck en los años cincuenta y sesenta, usa un ejercicio muy parecido: preguntarse qué es lo peor que podría pasar, qué tan probable es y qué haría uno si pasara. Varios de sus fundadores reconocieron su deuda con los estoicos. Séneca lo escribió casi dos mil años antes."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Morimos todos los días"
+   },
+   {
+    "tipo": "texto",
+    "texto": "A mitad de la carta, Séneca da el salto. Si el miedo al pleito se cura midiéndolo, ¿qué pasa con el miedo más grande de todos, el miedo a la muerte?\n\nSu respuesta es una de las ideas más profundas del libro. Pensamos en la muerte como un evento futuro, un día en el calendario. Séneca dice que no: la muerte es un proceso que ya empezó."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Morimos todos los días, porque cada día se nos quita una parte de la vida. No es la última gota la que vacía la clepsidra, sino toda la que ha salido antes.",
+    "fuente": "Cartas a Lucilio, XXIV, 20"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La [[clepsidra|Reloj de agua: un recipiente que se vacía gota a gota a un ritmo fijo. Se usaba en los tribunales romanos para medir el tiempo de cada orador.]] es un detalle precioso. Era el reloj de los tribunales: medía cuánto podía hablar cada abogado. Séneca, que conocía bien los juicios, usa el reloj del pleito para hablar de la vida.\n\nLa consecuencia es práctica. Si ya llevamos años «muriendo», el último día no es tan distinto de los demás. Lo que importa no es evitarlo, sino qué hacemos con las gotas que quedan."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Qué quiere decir Séneca con la imagen de la clepsidra?",
+    "opciones": [
+     "Que la muerte llega de golpe, como la última gota",
+     "Que el tiempo de los juicios es demasiado corto",
+     "Que la vida se va gastando cada día, no solo al final"
+    ],
+    "correcta": 2,
+    "explicacion": "La última gota no vacía el reloj sola: lo vacía todo lo que salió antes. Igual, la vida se gasta día a día."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Ni correr hacia la muerte ni huir de ella"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Séneca no es un predicador de la muerte. Al final de la carta advierte contra el error contrario: el de quien, cansado de la vida, la desea. Cita a [[Epicuro|Filósofo griego (341–270 a. C.), fundador de una escuela rival de los estoicos. Séneca lo cita con frecuencia.]], el maestro rival, que se burlaba tanto de los que temen a la muerte como de los que la buscan.\n\nDescribe también a un tipo de hombre que reconocemos: el que está harto de hacer y ver siempre lo mismo. Despertar, comer, trabajar, dormir. Séneca no lo desprecia; le dice que el aburrimiento no es un argumento. El problema no es la vida, sino la forma en que la mira."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Es absurdo correr hacia la muerte por cansancio de la vida.",
+    "fuente": "Cartas a Lucilio, XXIV, 22"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El hombre que escribía esto"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Conviene recordar quién firma la carta. Séneca escribió las *Cartas a Lucilio* en sus últimos años, hacia el 62 al 65 d. C. Había sido maestro y consejero de Nerón, uno de los hombres más poderosos de Roma. Se había retirado de la corte porque sabía que el emperador desconfiaba de él.\n\nNo hablaba de la muerte en abstracto. Sabía que podía llegarle una orden en cualquier momento. Llegó en el año 65, tras una conspiración contra Nerón en la que se le acusó de participar. Según el historiador Tácito, la recibió con calma y consoló a sus amigos. La carta 24 no es teoría de un hombre seguro: es el entrenamiento de alguien que se preparaba para su propia prueba."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Lo que Séneca le pide a Lucilio, y a ti"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La carta deja una práctica en dos tiempos. Primero, ante un problema concreto, una demanda, una negociación difícil, un mal trimestre, no te consueles con esperanza. Imagina el peor resultado razonable y escríbelo con números: cuánto cuesta, cuánto dura, qué harías al día siguiente. Casi siempre verás que es pequeño o es breve.\n\nSegundo, ante el miedo grande, cambia la pregunta. No «¿cuándo se acaba?», sino «¿qué hago con lo que queda hoy?». La clepsidra ya está corriendo. La única decisión que tenemos es en qué se van las gotas.\n\nEn el próximo capítulo, Séneca le hablará a Lucilio de algo que parece menor y no lo es: con quién pasar el tiempo, y por qué la multitud nos cambia más de lo que creemos."
+   }
+  ],
+  "paraLlevar": [
+   "No te consueles con esperanza: imagina lo peor y mídelo. Casi siempre es pequeño o es breve.",
+   "Quítale la máscara a lo que temes: sin ella, es un hecho con costo, salida y fin.",
+   "Morimos un poco cada día; lo que decides es en qué se van las gotas."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Por qué Lucilio le escribe a Séneca en la carta 24?",
+    "respuesta": "Porque está preocupado por un juicio con el que lo amenaza un enemigo enojado."
+   },
+   {
+    "pregunta": "¿Qué significa «quitarle la máscara a las cosas»?",
+    "respuesta": "Ver lo que tememos sin la exageración del miedo: devolverle su verdadero rostro, que suele ser soportable."
+   }
+  ],
+  "proximo": "Cartas a Lucilio · Capítulo 5: Huir de la multitud",
+  "fuentes": [
+   {
+    "nombre": "Moral letters to Lucilius, carta 24, traducción de Richard M. Gummere (1917), Wikisource",
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_24"
+   },
+   {
+    "nombre": "Wikipedia: Cartas a Lucilio",
+    "url": "https://es.wikipedia.org/wiki/Cartas_a_Lucilio"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de dominio público de Richard M. Gummere (1917), cotejada con el latín. La numeración sigue la división estándar de carta y párrafo."
+ },
+ "palabra": {
+  "palabra": "Desbastar",
+  "categoria": "Verbo",
+  "pronunciacion": "des-bas-TAR",
+  "definicion": "Quitar las partes más bastas o toscas a algo que se va a labrar, como un bloque de piedra o de madera. En sentido figurado: quitarle lo rudo o tosco a alguien, educarlo.",
+  "origen": "De *des-* y *basto*, «tosco, grosero». Es el primer paso del escultor: antes de los detalles, se quita a golpes la piedra que sobra. El bloque del David había sido mal desbastado por otros antes de llegar a Miguel Ángel.",
+  "ejemplo": "Antes de presentar el plan al consejo, conviene desbastarlo: quitar todo lo que distrae de la idea central.",
+  "repaso": {
+   "pregunta": "¿Qué significa «desbastar» un bloque de mármol?",
+   "respuesta": "Quitarle las partes toscas que sobran antes de labrarlo; en sentido figurado, pulir o educar."
+  }
+ },
+ "frances": {
+  "frase": "Il ne faut pas vendre la peau de l'ours avant de l'avoir tué.",
+  "traduccion": "No hay que vender la piel del oso antes de haberlo cazado.",
+  "pronunciacion": "il ne fo pa VANDR la po de LURS a-VAN de la-VUAR tu-É",
+  "uso": "Cultura. Es el refrán francés para no dar por hecho un resultado: un contrato sin firmar, una negociación abierta, una venta sin cobrar. Viene de una fábula de La Fontaine, «El oso y los dos compañeros» (1678): dos amigos venden la piel de un oso que aún no han cazado y terminan huyendo de él.",
+  "variante": "On n'a pas encore signé : ne vendons pas la peau de l'ours. (Aún no firmamos: no vendamos la piel del oso.)",
+  "repaso": {
+   "pregunta": "¿Cómo dices en francés «no hay que vender la piel del oso antes de cazarlo»?",
+   "respuesta": "« Il ne faut pas vendre la peau de l'ours avant de l'avoir tué. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Por qué el David terminó en la Plaza de la Señoría y no en la catedral?",
+   "opciones": [
+    "Porque era demasiado pesado para subirlo al techo",
+    "Porque una comisión de 1504 decidió ponerlo frente al palacio de gobierno",
+    "Porque Miguel Ángel se negó a entregarlo a la Iglesia"
+   ],
+   "correcta": 1,
+   "explicacion": "El 25 de enero de 1504, una comisión con Leonardo, Botticelli y otros eligió la plaza. El profeta se volvió símbolo de la república."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Cuánto creció el PIB de México en el tercer trimestre de 2026 frente al trimestre anterior, según la estimación oportuna del Inegi?",
+   "opciones": [
+    "0.9%",
+    "3.2%",
+    "1.9%"
+   ],
+   "correcta": 0,
+   "explicacion": "Creció 0.9% trimestral. El 3.2% es la cifra anual y el 1.9% es el acumulado de enero a septiembre."
+  },
+  {
+   "origen": "facts",
+   "pregunta": "¿Qué hizo Lincoln con la carta en la que reprochaba a Meade dejar escapar a Lee?",
+   "opciones": [
+    "La publicó en los periódicos",
+    "Se la leyó al gabinete",
+    "La guardó sin enviarla ni firmarla"
+   ],
+   "correcta": 2,
+   "explicacion": "El sobre dice: «Al general Meade, nunca enviada ni firmada». Escribir la carta caliente y no mandarla era un hábito suyo."
+  }
+ ],
+ "libro": null,
+ "proximo": "1513: Maquiavelo escribe en el exilio"
+}
