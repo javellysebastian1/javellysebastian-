@@ -1,0 +1,897 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-01",
+ "numero": 11,
+ "fecha": "2026-11-01",
+ "disponibleDesde": "2026-11-01T08:00:00-06:00",
+ "titulo": "1513: Maquiavelo escribe en el exilio",
+ "temporada": {
+  "id": "t02",
+  "numero": 2,
+  "titulo": "Florencia: la ciudad que inventó el Renacimiento",
+  "episodio": 5,
+  "totalEpisodios": 6
+ },
+ "calentamiento": [
+  {
+   "pregunta": "¿Por qué el David es tan esbelto visto de lado?",
+   "respuesta": "Porque el bloque era estrecho y ya lo habían trabajado otros. Miguel Ángel diseñó la figura dentro de esos límites.",
+   "origen": "Edición #10"
+  },
+  {
+   "pregunta": "¿Qué hacían los Medici para gobernar Florencia sin ocupar el trono?",
+   "respuesta": "Usaban su banco: prestaban, financiaban y colocaban a sus aliados en los cargos, mientras la república conservaba sus formas.",
+   "origen": "Edición #8"
+  },
+  {
+   "pregunta": "¿Qué hizo Kodak con la cámara digital que inventó en 1975?",
+   "respuesta": "La guardó. Temía dañar su negocio de rollos y papel fotográfico, y otros se quedaron con el mercado.",
+   "origen": "Edición #4"
+  }
+ ],
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg?width=900",
+  "alt": "Retrato de un hombre delgado vestido de negro, con una leve sonrisa",
+  "pie": "Nicolás Maquiavelo pintado por Santi di Tito, varias décadas después de su muerte. Palazzo Vecchio, Florencia",
+  "credito": "Wikimedia Commons"
+ },
+ "libro": null,
+ "proximo": "Síntesis: lo que Florencia enseña sobre arte, dinero y poder",
+ "noticias": [
+  {
+   "id": "n1",
+   "ambito": "local",
+   "ambitoTexto": "Guadalajara",
+   "fecha": "2026-10-31",
+   "historiaEnCurso": {
+    "id": "agua-gdl",
+    "titulo": "Crisis del agua en Guadalajara",
+    "capitulo": 6,
+    "dondeIbamos": "El 28 de octubre, la Federación y Jalisco anunciaron un plan de casi 25 mil millones de pesos: dos acueductos de Conagua y la obra de Miravalle, con el SIAPA como operador."
+   },
+   "titular": "Lemus admite la molestia por el agua sucia: «Me toca dar la cara»",
+   "quePaso": "El sábado 31, el gobernador **Pablo Lemus** publicó un video en redes. Reconoció las quejas por la mala calidad del agua en la zona metropolitana: «Me toca dar la cara y solucionar el problema del agua».\n\nAnunció el inicio del **saneamiento de la presa Las Pintas** y una rotación para mandar agua limpia a las zonas afectadas. Dijo que es «una deuda de décadas». Según *QuieroTV*, la CEA interviene los colectores de Arroyo Seco, El Edén, El Zapote y El Capulín, y la SIOP cambia tuberías.",
+   "aMiQue": "El agua turbia es un costo escondido para cualquier negocio de alimentos y bebidas. Un bar o restaurante que usa agua de la red para hielo, café o limpieza depende de filtros y garrafones, y eso sube cuando la red falla.\n\nSi produces o envasas en la zona metropolitana, revisa qué tan expuesto estás: de dónde viene tu agua, qué tratamiento tiene y cuánto te costaría un mes de agua comprada.",
+   "contexto": "**Hecho:** el plan del 28 de octubre incluye dos acueductos (uno de ellos Chapala-Guadalajara), saneamiento de presas y una nueva planta potabilizadora. La inversión conjunta ronda los 25 mil millones de pesos.\n\n**Hecho:** Ismael Jáuregui, del SIAPA, dijo que el Sistema Antiguo de Abastecimiento «todavía no incorpora agua al sistema de bombeo».\n\n**Hecho:** las quejas no son nuevas. En la protesta del 11 de octubre, la Comisión Estatal de Derechos Humanos reportó 40 detenciones; organizaciones civiles hablan de unas 51.\n\n**Interpretación:** que el gobernador hable en primera persona es un cambio de tono. Pero el video no trae fechas de terminación de las obras.",
+   "queVigilar": "Si el saneamiento de Las Pintas tiene un calendario público y si las colonias afectadas notan el cambio en las próximas semanas.",
+   "fuentes": [
+    {
+     "nombre": "Infobae: «Me toca dar la cara», Lemus reconoce molestias por contaminación del agua",
+     "url": "https://www.infobae.com/mexico/2026/10/31/me-toca-dar-la-cara-pablo-lemus-reconoce-molestias-por-contaminacion-del-agua-en-jalisco-y-destaca-avances-en-limpieza-de-presas/"
+    },
+    {
+     "nombre": "Proyecto Puente: Lemus anuncia saneamiento de la presa Las Pintas",
+     "url": "https://proyectopuente.com.mx/2026/10/31/pablo-lemus-reconoce-molestia-por-agua-contaminada-en-jalisco-y-anuncia-saneamiento-de-presa-las-pintas-me-toca-dar-la-cara"
+    },
+    {
+     "nombre": "QuieroTV: Lemus anuncia obras hidráulicas en Santa Anita",
+     "url": "https://quierotv.mx/2026/10/31/pablo-lemus-anuncia-obras-hidraulicas-en-santa-anita"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-10-31",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 10,
+    "dondeIbamos": "El viernes 30 el Brent cerró en 117.64 dólares y el WTI en 104.12. Octubre fue el cuarto mes seguido de alzas, y todo pende de las elecciones de Estados Unidos del martes 3."
+   },
+   "titular": "Más barcos alcanzados en Ormuz en vísperas de las elecciones de EE. UU.",
+   "quePaso": "El sábado 31, la agencia británica **UKMTO** informó que un buque fue alcanzado por un proyectil no identificado cerca de la isla iraní de Lavan. Hubo un incendio; la tripulación está a salvo.\n\nEl mismo día, Omán evacuó a un tripulante herido de una lancha atacada en el estrecho. Un día antes, la Marina omaní rescató a 25 tripulantes de un buque con bandera de Panamá incendiado frente a Musandam. Irán dijo haber destruido un vehículo no tripulado «enemigo».",
+   "aMiQue": "Los mercados están cerrados el fin de semana. El lunes se verá cuánto de esto pasa al precio, con un Brent que ya estaba en 117 dólares.\n\nPara una marca de bebidas, el petróleo llega por tres lados: el flete, el plástico y el vidrio, que se funde con gas. Si vas a cerrar precios con distribuidores para diciembre, deja una cláusula o un margen para el costo logístico.",
+   "contexto": "**Hecho:** según *Infobae*, el Brent subió 2.4% el viernes, a 117.64 dólares, y el WTI 2.08%, a 104.12. Ambos sumaron más de 13% en octubre.\n\n**Hecho:** ninguna fuente atribuye con certeza los ataques del sábado. La versión iraní habla de buques «infractores».\n\n**Interpretación:** los analistas citados por la prensa esperan una escalada. Es una expectativa, no un hecho.",
+   "queVigilar": "La apertura del Brent el lunes 2 y el resultado de las elecciones del martes 3 en Estados Unidos.",
+   "fuentes": [
+    {
+     "nombre": "Prensa Latina: incendio en buque alcanzado por un proyectil cerca de una isla iraní",
+     "url": "https://www.prensa-latina.cu/2026/10/31/incendio-en-buque-alcanzado-por-un-proyectil-cerca-de-una-isla-irani/"
+    },
+    {
+     "nombre": "Prensa Latina: Omán evacúa a tripulante herido de una lancha atacada en Ormuz",
+     "url": "https://www.prensa-latina.cu/2026/10/31/oman-evacua-a-tripulante-herido-de-una-lancha-atacada-en-ormuz/"
+    },
+    {
+     "nombre": "CGTN: Irán informa de ataque a barco «enemigo»",
+     "url": "https://espanol.cgtn.com/2026/10/31/ARTI1793412464773315"
+    },
+    {
+     "nombre": "Infobae: el petróleo suma cuatro meses de alzas",
+     "url": "https://www.infobae.com/america/mundo/2026/10/30/el-petroleo-suma-cuatro-meses-de-alzas-y-alcanzo-su-mayor-cierre-desde-mayo/"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "ambito": "mundo",
+   "ambitoTexto": "Francia",
+   "fecha": "2026-10-31",
+   "historiaEnCurso": {
+    "id": "francia-protestas",
+    "titulo": "Francia en la calle: costo de vida y huelga del 5 de noviembre",
+    "capitulo": 2,
+    "dondeIbamos": "El 21 de octubre, siete sindicatos salieron de Matignon sin medidas del primer ministro Lecornu y convocaron marchas para el 24 y el 31, y huelga para el 5 de noviembre."
+   },
+   "titular": "Francia marcha otra vez: 410 mil según el gobierno, 800 mil según los sindicatos",
+   "quePaso": "El sábado 31 hubo marchas en todo el país por el costo de vida. El **Ministerio del Interior** contó 410,000 participantes, 110,000 de ellos en París. Los sindicatos calcularon cerca de 800,000.\n\nEl gobierno desplegó 70,000 policías. Hubo 1,314 detenidos y 53 agentes heridos, según el Interior. Murielle Guilbert, de Solidaires, dijo que no han recibido «ninguna respuesta» del gobierno. Sigue en pie la huelga nacional del jueves 5.",
+   "aMiQue": "Una huelga larga en Francia puede frenar puertos, transporte y aduanas. Si importas vino, champán, cognac o insumos franceses para diciembre, pregunta hoy a tu proveedor si el embarque ya salió.\n\nPara tu francés: escucharás mucho *la grève* (la huelga) y *la manif* (la marcha).",
+   "contexto": "**Hecho:** las cifras no coinciden. *Prensa Latina* cita 320,000 según la policía; *TRT* cita 410,000 según el Interior; los sindicatos, 800,000. Es normal: cada parte cuenta distinto.\n\n**Hecho:** el 17 de octubre hubo 2,628 detenidos, el doble que esta vez.\n\n**Interpretación:** el gobierno tiene poco margen. Los sindicatos ligan las protestas al recorte de gasto previsto para 2027.",
+   "queVigilar": "Cuántos sectores se suman a la huelga del 5 de noviembre, sobre todo transporte, puertos y refinerías.",
+   "fuentes": [
+    {
+     "nombre": "TRT World: French unions call for fresh protests after more than 1,300 arrests",
+     "url": "https://www.trtworld.com/article/9720aac4356a"
+    },
+    {
+     "nombre": "Prensa Latina: Francia, la hora de atender quejas",
+     "url": "https://www.prensa-latina.cu/2026/11/01/francia-la-hora-de-atender-quejas-con-marcha-de-medio-millon/"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "En 1513 lo despidieron, lo encarcelaron y lo torturaron. Se fue al campo y escribió un libro. Lo dedicó a alguien inesperado.",
+    "contexto": "Florencia, febrero de 1513. **Nicolás Maquiavelo** tiene 43 años. Durante catorce años fue el segundo canciller de la república: escribió sus cartas, organizó su milicia y fue su embajador ante reyes y papas.\n\nAhora está en una celda del [[Bargello|Palacio florentino que en el siglo XVI era cárcel y sede de la policía; hoy es un museo de escultura.]]. Los Medici volvieron al poder y encontraron su nombre en una lista de conspiradores. Lo torturan para que confiese. No confiesa nada.\n\nUnas semanas después sale libre y se encierra en una pequeña granja al sur de la ciudad. Ahí escribe *El príncipe*.",
+    "pregunta": "¿A quién crees que le dedicó Maquiavelo *El príncipe*?",
+    "opciones": [
+     "A los enemigos de los Medici, para ayudarlos a recuperar la república",
+     "A un Medici, la familia que lo había mandado a la cárcel",
+     "Al rey de Francia, para pedirle trabajo en su corte"
+    ],
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/L%27Albergaccio.jpg?width=900",
+     "alt": "Casa de campo de piedra en las colinas de la Toscana",
+     "pie": "L'Albergaccio, la casa de Maquiavelo en Sant'Andrea in Percussina, al sur de Florencia. Aquí escribió El príncipe",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "historia",
+    "titulo": "De canciller a sospechoso en seis meses",
+    "texto": "En 1498, después de la caída de Savonarola, la república de Florencia necesitaba gente nueva. Eligió a un funcionario de 29 años sin linaje ilustre: Nicolás Maquiavelo. Fue secretario de la [[Segunda Cancillería|Oficina de la república florentina que llevaba la correspondencia de guerra y de política exterior.]] y del consejo de guerra.\n\nDurante catorce años viajó sin parar. Vio de cerca a **César Borgia**, al rey de Francia y al papa Julio II. Convenció a la ciudad de armar una milicia propia en vez de pagar mercenarios.\n\nEn agosto de 1512 todo se vino abajo. Un ejército español saqueó Prato, a 20 kilómetros. La milicia de Maquiavelo huyó. El jefe de la república, Piero Soderini, escapó, y los Medici regresaron a Florencia después de 18 años de exilio.\n\nEl **7 de noviembre de 1512** Maquiavelo fue destituido. Tres días después le prohibieron salir del territorio florentino durante un año, con una fianza de mil florines que pagaron sus amigos.\n\nEn febrero de 1513 apareció un papel con unos veinte nombres. Era de dos jóvenes, Pietro Paolo Boscoli y Agostino Capponi, que planeaban matar a los Medici. Uno de los nombres era el suyo. Lo arrestaron y le aplicaron la [[garrucha|Tortura en la que se ata a la víctima con las manos a la espalda, se la sube con una cuerda y se la deja caer de golpe.]]. Él mismo escribió después, en un soneto, que soportó «seis tirones de cuerda». Boscoli y Capponi fueron decapitados.\n\nLo salvó la suerte. En marzo de 1513, el cardenal Giovanni de' Medici fue elegido papa con el nombre de **León X**. Florencia celebró con una amnistía y Maquiavelo salió de la cárcel.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Faltignano,_casa_di_machiavelli,_02.JPG?width=900",
+     "alt": "Fachada de una casa rural de piedra con ventanas pequeñas",
+     "pie": "La casa de los Maquiavelo en las colinas de Faltignano y Sant'Andrea in Percussina",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "giro",
+    "titulo": "Un manual para el enemigo",
+    "texto": "La respuesta es la segunda. Maquiavelo le dedicó su libro a un Medici. Primero pensó en **Giuliano**, hermano del papa; al final la dedicatoria fue para **Lorenzo di Piero de' Medici**, sobrino del papa y señor de Florencia.\n\nSorprende, pero tiene lógica. Maquiavelo no quería vengarse: quería volver a trabajar. Lo dice en una carta del **10 de diciembre de 1513** a su amigo Francesco Vettori, embajador en Roma. Ahí describe su día: por la mañana vigila a los leñadores de su bosque; a mediodía juega a las cartas en la taberna con el carnicero y el molinero, y discute a gritos por centavos.\n\nY luego viene el pasaje más famoso: al caer la noche se quita la ropa del día, «llena de lodo y de fango», y se pone ropa de corte. Así vestido entra a su estudio a «conversar» con los antiguos, que le responden en sus libros. De esas conversaciones, dice, nació un opúsculo: *De principatibus*, «sobre los principados».\n\nEl libro buscaba demostrarles a los Medici que nadie entendía el poder como él. No funcionó: no le dieron un cargo importante. *El príncipe* se imprimió en 1532, cinco años después de su muerte, y en 1559 entró en el [[Índice de libros prohibidos|Lista de libros que la Iglesia católica prohibía leer, creada en 1559 y abolida en 1966.]].",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Machiavelli_Il_principe_1532_title_page.jpg?width=900",
+     "alt": "Portada impresa de un libro antiguo en italiano",
+     "pie": "Primera edición de El príncipe, impresa en Roma en 1532, cinco años después de la muerte de su autor",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "La verdad efectiva de la cosa",
+    "texto": "En el capítulo XV de *El príncipe*, Maquiavelo explica su método. Muchos han imaginado repúblicas y reinos que nunca existieron, dice. Él prefiere ir a «la [[verdad efectiva|En italiano, *verità effettuale*: cómo funcionan las cosas en los hechos, no cómo deberían funcionar.]] de la cosa». Quien se guía por lo que debería ser, y no por lo que es, aprende a arruinarse.\n\nCómo usarlo, en tres pasos:\n\n1. **Separa las dos columnas.** En una, cómo debería funcionar algo: el contrato, el reglamento, el organigrama. En otra, cómo funciona de verdad: quién decide, quién paga, quién puede bloquear.\n2. **Busca a quien gana con cada versión.** La versión oficial casi siempre le conviene a alguien. Pregunta a quién.\n3. **Decide con la segunda columna.** Puedes desear la primera, pero tus planes deben sobrevivir en la segunda.\n\nOjo: Maquiavelo describe; no te pide ser cruel. Ver el poder sin adornos no obliga a usarlo sin escrúpulos."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Dónde más aparece",
+    "texto": "**En un litigio.** La ley dice que el juez resuelve por el derecho. La verdad efectiva incluye cuánto tarda el juzgado, qué peritos acepta y cómo ha resuelto casos parecidos. El buen abogado le explica al cliente las dos columnas antes de demandar.\n\n**En una marca de consumo.** El plan dice que el cliente elige por calidad. En el anaquel, muchas veces elige por lo que el distribuidor acomoda a la altura de los ojos. Quien negocia el espacio con el distribuidor entiende la verdad efectiva del punto de venta.\n\n**En un trámite sanitario.** La norma tiene plazos. La realidad tiene filas, requisitos no escritos y criterios que cambian. Planear con los plazos reales evita lanzar un producto sin registro."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿Qué proyecto tuyo está planeado con la columna de «cómo debería ser» y no con la de «cómo es»?",
+    "texto": "Revisa quién decide de verdad, no quién firma. Ahí suele estar la respuesta."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Desea el mundo como debería ser. Planea con el mundo como es."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Villa I Tatti (Harvard): el destierro y el arresto de Nicolás Maquiavelo",
+   "url": "https://itatti.harvard.edu/news/banishment-and-arrest-niccol%C3%B2-machiavelli",
+   "minutos": 6
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Qué salvó a Maquiavelo de la cárcel en marzo de 1513?",
+    "respuesta": "La elección de Giovanni de' Medici como papa León X. Florencia celebró con una amnistía."
+   },
+   {
+    "pregunta": "¿Qué quiere decir Maquiavelo con «la verdad efectiva de la cosa»?",
+    "respuesta": "Analizar cómo funciona el poder en los hechos, no cómo debería funcionar en teoría."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Villa I Tatti, Harvard: The banishment and arrest of Niccolò Machiavelli",
+    "url": "https://itatti.harvard.edu/news/banishment-and-arrest-niccol%C3%B2-machiavelli"
+   },
+   {
+    "nombre": "La Nazione: 19 febbraio 1513, Machiavelli arrestato e torturato",
+    "url": "https://www.lanazione.it/firenze/19-febbraio-1513-machiavelli-arrestato-e-torturato-cosera-successo-f43c2d11"
+   },
+   {
+    "nombre": "Wikipedia: Nicolás Maquiavelo",
+    "url": "https://es.wikipedia.org/wiki/Nicol%C3%A1s_Maquiavelo"
+   },
+   {
+    "nombre": "Wikipedia: El príncipe",
+    "url": "https://es.wikipedia.org/wiki/El_pr%C3%ADncipe"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "formato": "comoFunciona",
+   "titulo": "Los cobradores del autobús de dos pisos",
+   "contexto": "Londres, principios de los años cincuenta. Los infartos se están volviendo la gran causa de muerte de los hombres de mediana edad, y nadie sabe bien por qué.\n\nUn médico escocés, **Jerry Morris**, busca una pista en un lugar raro: los autobuses rojos de dos pisos. Cada uno lleva dos empleados de la misma empresa, con el mismo sueldo y la misma ciudad. Uno maneja sentado todo el turno. El otro, el cobrador, sube y baja las escaleras para cobrar los boletos.",
+   "pregunta": "¿Quién crees que tenía menos enfermedad del corazón?",
+   "opciones": [
+    "El conductor, porque su trabajo era menos pesado",
+    "El cobrador, que subía y bajaba escaleras todo el día",
+    "Ninguno: tenían el mismo riesgo"
+   ],
+   "correcta": 1,
+   "revelacion": "En 1953, Morris y su equipo publicaron en *The Lancet* que los cobradores tenían menos [[enfermedad coronaria|Daño del corazón por estrechamiento de las arterias que lo alimentan. Su forma aguda es el infarto.]] que los conductores. Y cuando les daba, era menos grave: morían menos en los primeros días. Encontró lo mismo en el correo: los carteros que caminaban estaban mejor que los oficinistas.\n\nLo más admirable es lo que hizo después. Un crítico podía decir que la empresa ya contrataba a los más delgados como cobradores. Morris revisó las tallas de uniforme de la compañía y vio que sí: los conductores llegaban con cintura más ancha. El efecto no desapareció, pero tuvo que ajustarlo. Así se hace la ciencia seria: buscar uno mismo la objeción.\n\nCon ese trabajo nació la [[epidemiología de la actividad física|Rama de la medicina que estudia, en poblaciones grandes, cómo moverse o no moverse cambia el riesgo de enfermar.]]. Hoy la OMS recomienda a los adultos entre 150 y 300 minutos de actividad moderada a la semana. Morris, por cierto, nadaba y caminaba a diario. Murió en 2009, a los 99 años.",
+   "idea": "No hace falta un gimnasio para proteger el corazón: hace falta dejar de estar sentado todo el día.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1950_AEC_Regent_Mk_III_RT_double_decker_bus_(5956801799).jpg?width=900",
+    "alt": "Autobús rojo de dos pisos de los años cincuenta, con plataforma abierta atrás",
+    "pie": "Un autobús RT de Londres de 1950, como los que estudió Morris: el cobrador subía por la escalera de atrás",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "International Journal of Epidemiology: Morris y el estudio de los autobuses de Londres",
+    "url": "https://academic.oup.com/ije/article/30/5/1184/724212"
+   },
+   "wiki": "Sedentarismo (estilo de vida)",
+   "claves": [
+    {
+     "nombre": "Actividad física",
+     "quien": "Cualquier movimiento del cuerpo que gasta energía, no solo el deporte. Es lo que medía Morris.",
+     "wiki": "Actividad física"
+    },
+    {
+     "nombre": "Infarto agudo de miocardio",
+     "quien": "La muerte de una parte del corazón por falta de sangre. Era lo que Morris contaba en sus estudios.",
+     "wiki": "Infarto agudo de miocardio"
+    },
+    {
+     "nombre": "Enfermedades cardiovasculares",
+     "quien": "El grupo de enfermedades del corazón y los vasos; siguen siendo la primera causa de muerte en el mundo.",
+     "wiki": "Enfermedades cardiovasculares"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué descubrió Jerry Morris en los autobuses de Londres en 1953?",
+    "respuesta": "Que los cobradores, que subían escaleras todo el día, tenían menos enfermedad coronaria que los conductores, que iban sentados."
+   }
+  },
+  {
+   "materia": "Mente y decisiones",
+   "pilar": "mente",
+   "formato": "adivinaNumero",
+   "titulo": "La ruleta que movió una respuesta 20 puntos",
+   "contexto": "Principios de los años setenta. Dos psicólogos israelíes, **Amos Tversky** y **Daniel Kahneman**, preparan una ruleta de feria con números del 0 al 100. Está arreglada: solo cae en el 10 o en el 65.\n\nLa giran frente a cada participante. Luego le hacen dos preguntas. Primero: ¿el porcentaje de países africanos en la ONU es mayor o menor que ese número? Después: ¿cuál es tu estimación exacta?",
+   "pregunta": "Los que vieron el 10 estimaron en promedio 25%. ¿Cuánto estimaron los que vieron el 65?",
+   "opciones": [
+    "25%, lo mismo: la ruleta no tiene nada que ver",
+    "45%",
+    "65%, el número que vieron"
+   ],
+   "correcta": 1,
+   "revelacion": "Los que vieron el 65 estimaron, en la mediana, **45%**. Veinte puntos más, por un número que todos sabían que era al azar. Tversky y Kahneman lo publicaron en 1974 en la revista *Science*, en el artículo «El juicio bajo incertidumbre».\n\nA esto lo llamaron [[anclaje|El sesgo por el que la primera cifra que vemos jala nuestras estimaciones hacia ella, aunque no tenga relación con la pregunta.]]. La mente no parte de cero: toma el primer número a la mano y se ajusta desde ahí, casi siempre poco. Kahneman ganó el Nobel de Economía en 2002 por esta línea de trabajo; Tversky había muerto en 1996.\n\nEl anclaje está en todas partes. En una negociación, quien dice la primera cifra suele mover el resultado hacia ella. En una carta de vinos, la botella carísima de arriba hace que la de en medio parezca razonable. Defenderse es sencillo de decir: antes de ver la cifra del otro, escribe la tuya.",
+   "idea": "El primer número que escuchas no es información: es una ancla. Ten el tuyo antes.",
+   "fuente": {
+    "nombre": "Tversky y Kahneman (1974), «Judgment under Uncertainty: Heuristics and Biases», Science",
+    "url": "https://www.science.org/doi/10.1126/science.185.4157.1124"
+   },
+   "wiki": "Efecto de anclaje",
+   "claves": [
+    {
+     "nombre": "Heurística",
+     "quien": "Un atajo mental para decidir rápido. El anclaje es una de las tres que describieron en 1974.",
+     "wiki": "Heurística (psicología)"
+    },
+    {
+     "nombre": "Pensar rápido, pensar despacio",
+     "quien": "El libro de Kahneman de 2011 que llevó estas ideas al gran público.",
+     "wiki": "Pensar rápido, pensar despacio"
+    },
+    {
+     "nombre": "Economía conductual",
+     "quien": "La disciplina que estudia cómo decidimos de verdad, no como dicen los modelos.",
+     "wiki": "Economía conductual"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué es el efecto de anclaje?",
+    "respuesta": "La tendencia a dejar que la primera cifra que vemos jale nuestras estimaciones, aunque sea al azar."
+   }
+  },
+  {
+   "materia": "Gastronomía, vino y destilados",
+   "pilar": "gusto",
+   "formato": "comoFunciona",
+   "titulo": "La viuda que hizo transparente el champán",
+   "contexto": "Reims, 1805. **Barbe-Nicole Ponsardin** tiene 27 años cuando muere su esposo, François Clicquot. Ella se queda con la pequeña casa de vinos de la familia, algo muy raro para una mujer en la Francia de Napoleón.\n\nEl champán de entonces tenía un defecto. La segunda fermentación ocurre dentro de la botella y deja un sedimento de levaduras muertas. El vino salía turbio, como agua de río.",
+   "pregunta": "¿Cómo crees que logró sacar el sedimento sin perder las burbujas?",
+   "opciones": [
+    "Filtrando el vino y volviéndole a meter gas",
+    "Poniendo las botellas boca abajo, girándolas poco a poco y sacando el depósito del cuello",
+    "Dejando reposar las botellas de pie por años"
+   ],
+   "correcta": 1,
+   "revelacion": "En 1816, ella y su jefe de bodega, Antoine Müller, idearon una mesa con agujeros inclinados. Las botellas entraban de cabeza. Cada día alguien las giraba un poco y las inclinaba más. Semana a semana, el sedimento bajaba hasta juntarse en el corcho. Al abrir, la presión lo expulsaba y quedaba un vino limpio.\n\nA esa técnica se le llama [[removido|En francés, *remuage*: girar y empinar poco a poco las botellas para llevar el sedimento hasta el cuello.]], y a la mesa, *pupitre*. Con los años se añadió el [[degüelle|Abrir la botella para sacar el depósito de levaduras; hoy se congela antes el cuello.]]. Es parte del método tradicional que usan hasta hoy el champán y el cava.\n\nLa Viuda Clicquot guardó el secreto años. Mientras tanto, vendía un champán más claro que el de sus rivales. Hoy las grandes casas usan máquinas que giran cientos de botellas a la vez, pero todavía se ven pupitres de madera en sus cavas.",
+   "idea": "La calidad visible, un vino claro, suele venir de un proceso invisible y paciente.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pol_Roger_pupitre_3.jpg?width=900",
+    "alt": "Botellas de champán colocadas boca abajo en un atril de madera con agujeros",
+    "pie": "Pupitres de removido en las cavas de Pol Roger, en Épernay",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: Barbe-Nicole Clicquot-Ponsardin",
+    "url": "https://es.wikipedia.org/wiki/Barbe-Nicole_Clicquot-Ponsardin"
+   },
+   "wiki": "Barbe-Nicole Clicquot-Ponsardin",
+   "claves": [
+    {
+     "nombre": "Método champenoise",
+     "quien": "La forma de hacer espumoso con segunda fermentación en la botella. El removido es uno de sus pasos.",
+     "wiki": "Método champenoise"
+    },
+    {
+     "nombre": "Champán",
+     "quien": "El vino espumoso de la región de Champaña, con denominación de origen protegida.",
+     "wiki": "Champán"
+    },
+    {
+     "nombre": "Licor de expedición",
+     "quien": "La mezcla de vino y azúcar que se añade tras el degüelle y define si es brut, sec o demi-sec.",
+     "wiki": "Licor de expedición"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué es el removido o remuage?",
+    "respuesta": "Girar e inclinar poco a poco las botellas boca abajo para llevar el sedimento al cuello y sacarlo. Lo perfeccionó la Viuda Clicquot en 1816."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "sigueDinero",
+   "titulo": "Substack: cobrar el 10% de lo que escribe otro",
+   "contexto": "Octubre de 2017. **Bill Bishop** lleva años escribiendo *Sinocism*, un boletín diario sobre política china. Lo leen diplomáticos, inversionistas y periodistas.\n\nUna empresa nueva, **Substack**, le propone algo: cobrar una suscripción por su boletín sin construir nada. Ellos ponen la página, el envío de correos y el cobro. A cambio, se quedan con un porcentaje. Bishop se vuelve su primer publicador de pago.",
+   "pregunta": "Un lector paga 10 dólares al mes. ¿Cuánto se queda Substack?",
+   "opciones": [
+    "5 dólares, la mitad",
+    "1 dólar, el 10%",
+    "Nada: cobra una renta fija por el software"
+   ],
+   "correcta": 1,
+   "revelacion": "Substack se queda con el **10%** de cada suscripción. El procesador de pagos, Stripe, cobra aparte su comisión, alrededor de 3% más unos centavos. De 10 dólares, el escritor recibe cerca de 8.5. Escribir gratis en la plataforma no cuesta nada.\n\nEs un [[modelo de comisión|Ganar un porcentaje de lo que vende otro, en vez de cobrarle una renta fija.]] muy fino. Substack no paga por los textos ni los produce. Cuando un boletín consigue mil lectores más, el costo extra para la empresa es casi cero: enviar un correo más cuesta fracciones de centavo. Por eso el negocio escala.\n\nTiene un riesgo para el escritor. Si su boletín crece mucho, el 10% pesa: con 1,000 suscriptores de 10 dólares, son 1,000 dólares al mes de comisión. Por eso algunos grandes se han ido a herramientas de cuota fija. La lección es elegir el modelo según la etapa: comisión cuando eres pequeño, cuota fija cuando ya eres grande.",
+   "idea": "La comisión es barata cuando empiezas y cara cuando creces. Sabe en qué etapa estás.",
+   "fuente": {
+    "nombre": "TechCrunch (2017): Substack ayuda a convertir boletines en negocios de suscripción",
+    "url": "https://techcrunch.com/2017/10/16/substack-sinocism-launch"
+   },
+   "wiki": "Boletín informativo",
+   "claves": [
+    {
+     "nombre": "Distribución digital",
+     "quien": "Vender contenido por internet sin un objeto físico: la base de que otra copia cueste casi nada.",
+     "wiki": "Distribución digital"
+    },
+    {
+     "nombre": "Creación de contenido",
+     "quien": "El trabajo de producir textos, videos o audios para una audiencia, hoy una industria en sí.",
+     "wiki": "Creación de contenido"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué porcentaje de cada suscripción se queda Substack?",
+    "respuesta": "El 10%, más la comisión aparte del procesador de pagos."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Mente y decisiones",
+   "pilar": "mente",
+   "epoca": "1995",
+   "titulo": "El ladrón que se untó jugo de limón",
+   "dato": "En 1995, un hombre asaltó dos bancos en Pittsburgh a cara descubierta. Creía que el jugo de limón en la cara lo hacía invisible a las cámaras.",
+   "explicacion": "Se llamaba McArthur Wheeler. Lo arrestaron esa misma noche, después de que la televisión pasara su imagen. Le sorprendió: había leído que el jugo de limón sirve como tinta invisible y supuso que funcionaba igual con su cara. El psicólogo David Dunning leyó la noticia y se preguntó cómo alguien podía equivocarse con tanta seguridad.\n\nCon Justin Kruger diseñó experimentos y en 1999 publicó el resultado: quienes peor lo hacían en una prueba eran los que más sobrestimaban su desempeño, porque les faltaba justo la habilidad para notar sus errores. Es el [[efecto Dunning-Kruger|Sesgo por el que la gente con poca habilidad en un tema sobrestima su competencia, por falta de criterio para juzgarse.]]. Hoy se discute qué parte es psicología y qué parte es un efecto estadístico, pero la lección de humildad sigue en pie.",
+   "fuente": {
+    "nombre": "Wikipedia: Efecto Dunning-Kruger",
+    "url": "https://es.wikipedia.org/wiki/Efecto_Dunning-Kruger"
+   },
+   "wiki": "Efecto Dunning-Kruger",
+   "claves": [
+    {
+     "nombre": "Sesgo cognitivo",
+     "quien": "Un error sistemático en la forma de juzgar. El Dunning-Kruger es uno de los más citados.",
+     "wiki": "Sesgo cognitivo"
+    },
+    {
+     "nombre": "Lista de sesgos cognitivos",
+     "quien": "El catálogo de errores de juicio estudiados por la psicología, del anclaje a la confirmación.",
+     "wiki": "Anexo:Sesgos cognitivos"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué caso inspiró el estudio de Dunning y Kruger?",
+    "respuesta": "El de McArthur Wheeler, que en 1995 asaltó bancos con jugo de limón en la cara creyendo que lo hacía invisible a las cámaras."
+   }
+  },
+  {
+   "materia": "Disciplina y hábitos",
+   "pilar": "caracter",
+   "epoca": "1830",
+   "titulo": "Victor Hugo escondió su ropa para poder escribir",
+   "dato": "Para terminar *Nuestra Señora de París* a tiempo, Victor Hugo se encerró en casa con una botella de tinta y un enorme chal de lana. Guardó bajo llave su ropa para no poder salir.",
+   "explicacion": "En 1830, Hugo le debía a su editor una novela que ya había retrasado. El editor le dio un plazo final. Según el relato de su esposa, Adèle, Hugo compró tinta y un chal gris que lo cubría de pies a cabeza, y guardó su ropa para no tener la tentación de salir. La novela se publicó en marzo de 1831.\n\nHoy los psicólogos llaman a esto un [[mecanismo de compromiso|Una decisión que tomas antes para quitarte opciones después, cuando sabes que te vas a tentar.]]. No confías en tu fuerza de voluntad del futuro: le quitas la salida. La anécdota viene de un testimonio familiar, así que conviene tomarla como relato y no como acta notarial.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg?width=900",
+    "alt": "Fotografía en blanco y negro de un hombre mayor de barba blanca",
+    "pie": "Victor Hugo fotografiado por Étienne Carjat en 1876",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: Nuestra Señora de París",
+    "url": "https://es.wikipedia.org/wiki/Nuestra_Se%C3%B1ora_de_Par%C3%ADs"
+   },
+   "wiki": "Nuestra Señora de París",
+   "claves": [
+    {
+     "nombre": "Victor Hugo",
+     "quien": "Escritor francés (1802–1885), autor también de *Los miserables*.",
+     "wiki": "Victor Hugo"
+    },
+    {
+     "nombre": "Catedral de Notre Dame de París",
+     "quien": "La catedral que la novela ayudó a salvar: tras su éxito, Francia la restauró.",
+     "wiki": "Catedral de Notre Dame de París"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué hizo Victor Hugo para obligarse a terminar su novela?",
+    "respuesta": "Guardó su ropa bajo llave y se encerró con tinta y un chal, para no poder salir."
+   }
+  },
+  {
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "epoca": "1796",
+   "titulo": "«Vacuna» viene de «vaca»",
+   "dato": "La palabra *vacuna* viene del latín *vacca*. La primera se hizo con pus de una lechera contagiada de viruela de las vacas.",
+   "explicacion": "En el campo inglés se decía que las lecheras que se contagiaban de la viruela de las vacas, una enfermedad leve, no enfermaban de viruela humana. El 14 de mayo de 1796, el médico Edward Jenner tomó material de las lesiones de una lechera, Sarah Nelmes, y se lo inoculó a James Phipps, un niño de ocho años. Semanas después lo expuso a la viruela. No enfermó.\n\nJenner llamó a su método *vaccination*, de *vacca*. En 1881, Louis Pasteur propuso usar la palabra para todas las vacunas, en honor a Jenner. La [[viruela|Enfermedad causada por un virus que mató a cientos de millones de personas. Fue declarada erradicada en 1980.]] es hasta hoy la única enfermedad humana erradicada del planeta.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jenner_phipps_01.jpg?width=900",
+    "alt": "Pintura de un médico que sostiene el brazo de un niño mientras otros observan",
+    "pie": "Edward Jenner vacuna a James Phipps en 1796, en una pintura posterior",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: Edward Jenner",
+    "url": "https://es.wikipedia.org/wiki/Edward_Jenner"
+   },
+   "wiki": "Edward Jenner",
+   "claves": [
+    {
+     "nombre": "Viruela",
+     "quien": "La enfermedad que la vacuna de Jenner ayudó a erradicar en 1980.",
+     "wiki": "Viruela"
+    },
+    {
+     "nombre": "Vacuna",
+     "quien": "Preparado que entrena al sistema inmune sin causar la enfermedad.",
+     "wiki": "Vacuna"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿De dónde viene la palabra «vacuna»?",
+    "respuesta": "Del latín vacca, «vaca»: Jenner usó la viruela de las vacas para proteger contra la viruela humana en 1796."
+   }
+  },
+  {
+   "materia": "Religiones y grandes textos",
+   "pilar": "cultura",
+   "epoca": "c. 1701",
+   "titulo": "El Popol Vuh sobrevivió gracias a una copia",
+   "dato": "El libro sagrado de los k'iche' de Guatemala existe porque un fraile dominico lo copió hacia 1701. El manuscrito que él leyó se perdió.",
+   "explicacion": "Tras la conquista, unos nobles k'iche' escribieron sus relatos sagrados con el alfabeto latino, a mediados del siglo XVI. Cuenta la creación del mundo, los hombres hechos de maíz y la historia de los gemelos Hunahpú e Ixbalanqué. Ese texto pasó de mano en mano en secreto. Hacia 1701, en Chichicastenango, el fraile Francisco Ximénez lo conoció, lo copió y lo tradujo al español en dos columnas.\n\nEl original nunca volvió a aparecer. La copia de Ximénez, la más antigua que existe, está hoy en la Biblioteca Newberry de Chicago. Sin ese copista, uno de los grandes textos de [[Mesoamérica|Región cultural que va del centro de México a Centroamérica, donde vivieron los mayas, los mexicas y otros pueblos.]] habría desaparecido.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Popol_vuh.jpg?width=900",
+    "alt": "Página manuscrita antigua con texto en dos columnas",
+    "pie": "Una página del manuscrito del Popol Vuh copiado por Francisco Ximénez, con el k'iche' y el español lado a lado",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: Popol Vuh",
+    "url": "https://es.wikipedia.org/wiki/Popol_Vuh"
+   },
+   "wiki": "Popol Vuh",
+   "claves": [
+    {
+     "nombre": "Francisco Ximénez",
+     "quien": "Fraile dominico (1666–c. 1729) que copió y tradujo el Popol Vuh.",
+     "wiki": "Francisco Ximénez"
+    },
+    {
+     "nombre": "Literatura de Guatemala",
+     "quien": "La tradición literaria del país, que empieza con textos como el Popol Vuh.",
+     "wiki": "Literatura de Guatemala"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué conocemos hoy el Popol Vuh?",
+    "respuesta": "Porque el fraile Francisco Ximénez lo copió y tradujo hacia 1701; el manuscrito que leyó se perdió."
+   }
+  },
+  {
+   "materia": "Derecho y poder",
+   "pilar": "mundo",
+   "epoca": "1804",
+   "titulo": "Napoleón valoraba más su código que sus batallas",
+   "dato": "Desterrado en Santa Elena, Napoleón dijo que su gloria no eran sus cuarenta batallas, que Waterloo borraría. Lo que viviría para siempre, dijo, era su Código Civil.",
+   "explicacion": "El Código Civil de los franceses se promulgó el 21 de marzo de 1804. Juntó en un solo libro, claro y ordenado, las reglas sobre personas, familia, propiedad y contratos, que antes variaban de región en región. Napoleón presidió muchas de las sesiones en que se discutió.\n\nAcertó. Las conquistas se perdieron, pero el código sigue vigente en Francia, con muchas reformas, y sirvió de modelo a medio mundo. Los códigos civiles de México del siglo XIX, como el de 1870, tomaron mucho de él. Si eres abogado formado en el [[derecho civil|La tradición jurídica de Europa continental y América Latina, basada en códigos escritos.]], tienes algo de Napoleón en la cabeza.",
+   "fuente": {
+    "nombre": "Wikipedia: Código Civil de Francia",
+    "url": "https://es.wikipedia.org/wiki/C%C3%B3digo_Civil_de_Francia"
+   },
+   "wiki": "Código Civil de Francia",
+   "claves": [
+    {
+     "nombre": "Napoleón Bonaparte",
+     "quien": "Emperador de los franceses (1804–1815), impulsor del código.",
+     "wiki": "Napoleón Bonaparte"
+    },
+    {
+     "nombre": "Código civil",
+     "quien": "El cuerpo de leyes sobre personas, familia, bienes y contratos que adoptaron casi todos los países de tradición continental.",
+     "wiki": "Código civil"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué consideraba Napoleón su verdadera gloria?",
+    "respuesta": "Su Código Civil de 1804, más que sus batallas."
+   }
+  },
+  {
+   "materia": "Economía y mercados",
+   "pilar": "patrimonio",
+   "epoca": "1024",
+   "titulo": "El primer billete nació porque las monedas pesaban",
+   "dato": "En el siglo XI, en Sichuan, China, las monedas eran de hierro y tan pesadas que los comerciantes empezaron a usar recibos de papel. En 1024, el Estado tomó el control y nació el primer papel moneda oficial.",
+   "explicacion": "Sichuan usaba monedas de hierro, que valían poco y pesaban mucho; para una compra grande hacían falta cargas enteras. Unos comerciantes de Chengdu empezaron a recibir monedas en depósito y a dar a cambio certificados de papel, los *jiaozi*. Hubo fraudes y quiebras, y hacia 1024 la [[dinastía Song|Dinastía que gobernó China entre 960 y 1279, una de las épocas de más comercio e inventos de su historia.]] creó una oficina estatal para emitirlos.\n\nEso fue el primer papel moneda emitido por un gobierno. También trajo el primer problema moderno del dinero: con el tiempo se imprimió de más y perdió valor. Cuando Marco Polo describió el papel moneda chino en el siglo XIII, en Europa casi nadie le creyó.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jiao_zi.jpg?width=900",
+    "alt": "Billete chino antiguo impreso con figuras y caracteres",
+    "pie": "Un jiaozi, el papel moneda de la dinastía Song",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: Jiaozi (moneda)",
+    "url": "https://es.wikipedia.org/wiki/Jiaozi_(moneda)"
+   },
+   "wiki": "Jiaozi (moneda)",
+   "claves": [
+    {
+     "nombre": "Dinastía Song",
+     "quien": "La dinastía china que emitió el primer papel moneda estatal.",
+     "wiki": "Dinastía Song"
+    },
+    {
+     "nombre": "Dinero por decreto",
+     "quien": "Dinero que vale porque el Estado lo respalda, no por el metal que contiene.",
+     "wiki": "Dinero por decreto"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué apareció el papel moneda en Sichuan?",
+    "respuesta": "Porque las monedas de hierro eran pesadas y valían poco; los recibos de papel eran más prácticos. En 1024 el Estado tomó su emisión."
+   }
+  },
+  {
+   "materia": "El cosmos",
+   "pilar": "futuro",
+   "epoca": "2178",
+   "titulo": "Plutón no ha dado una vuelta desde que lo vimos",
+   "dato": "Plutón fue descubierto en 1930 y tarda unos 248 años en rodear al Sol. Completará su primera órbita desde su descubrimiento hacia 2178.",
+   "explicacion": "Clyde Tombaugh, un joven de 24 años del observatorio Lowell, en Arizona, lo encontró el 18 de febrero de 1930 comparando fotografías del cielo tomadas en noches distintas. Desde entonces Plutón ha recorrido menos de la mitad de su camino alrededor del Sol. Su órbita es tan alargada que entre 1979 y 1999 estuvo más cerca del Sol que Neptuno.\n\nEn 2006 dejó de ser planeta y pasó a ser [[planeta enano|Cuerpo que gira alrededor del Sol y es casi redondo, pero no ha limpiado su órbita de otros objetos.]]. En 2015, la sonda New Horizons pasó junto a él y descubrió un enorme glaciar en forma de corazón. Llevaba a bordo una pequeña parte de las cenizas de Tombaugh.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pluto_in_True_Color_-_High-Res.jpg?width=900",
+    "alt": "Planeta enano de tonos beige y naranja con una gran mancha clara en forma de corazón",
+    "pie": "Plutón fotografiado por la sonda New Horizons en julio de 2015",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "NASA Science: Pluto facts",
+    "url": "https://science.nasa.gov/dwarf-planets/pluto/facts/"
+   },
+   "wiki": "Plutón (planeta enano)",
+   "claves": [
+    {
+     "nombre": "Clyde Tombaugh",
+     "quien": "Astrónomo estadounidense (1906–1997) que descubrió Plutón.",
+     "wiki": "Clyde Tombaugh"
+    },
+    {
+     "nombre": "Cinturón de Kuiper",
+     "quien": "La región helada más allá de Neptuno donde vive Plutón con miles de objetos más.",
+     "wiki": "Cinturón de Kuiper"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuándo completará Plutón su primera órbita desde que fue descubierto?",
+    "respuesta": "Hacia 2178: tarda unos 248 años en dar la vuelta al Sol y lo descubrieron en 1930."
+   }
+  },
+  {
+   "materia": "Gastronomía, vino y destilados",
+   "pilar": "gusto",
+   "epoca": "Siglo XIX",
+   "titulo": "El vino europeo crece sobre raíces americanas",
+   "dato": "La mayoría de las vides de Europa están injertadas sobre raíces de vides americanas. Es la cura de una plaga que casi acaba con el vino francés.",
+   "explicacion": "Hacia 1860 llegó a Francia, con plantas importadas de Estados Unidos, un insecto diminuto: la [[filoxera|Insecto parecido a un pulgón que ataca las raíces de la vid y la mata.]]. Las vides americanas habían convivido con él y resistían. Las europeas no. En pocas décadas destruyó la mayor parte de los viñedos de Francia y se extendió por Europa.\n\nSe probó de todo, incluso inundar los viñedos. La solución fue injertar las variedades europeas, como Cabernet o Chardonnay, sobre raíces americanas resistentes. La uva y el vino siguen siendo europeos; las raíces, no. Hoy casi todos los viñedos del mundo se plantan así. Una excepción famosa es Chile, donde la filoxera nunca llegó y hay viñas con raíces propias.",
+   "fuente": {
+    "nombre": "Wikipedia: Gran plaga de la filoxera",
+    "url": "https://es.wikipedia.org/wiki/Gran_plaga_de_la_filoxera"
+   },
+   "wiki": "Gran plaga de la filoxera",
+   "claves": [
+    {
+     "nombre": "Daktulosphaira vitifoliae",
+     "quien": "El nombre científico de la filoxera de la vid.",
+     "wiki": "Daktulosphaira vitifoliae"
+    },
+    {
+     "nombre": "Portainjerto",
+     "quien": "La planta que pone la raíz en un injerto; en la vid, casi siempre de origen americano.",
+     "wiki": "Portainjerto"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo se salvó el vino europeo de la filoxera?",
+    "respuesta": "Injertando las vides europeas sobre raíces americanas resistentes al insecto."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "Cartas a Lucilio",
+  "autor": "Séneca",
+  "capitulo": {
+   "numero": 5,
+   "total": 6,
+   "titulo": "No puedes huir de ti mismo"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bust_of_Lucius_Annaeus_Seneca-Busts_of_philosophers_in_Sanssouci.jpg?width=900",
+   "alt": "Busto de mármol de un hombre mayor de mirada cansada",
+   "pie": "Busto de Séneca en la colección de filósofos del palacio de Sanssouci, en Potsdam",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "¿Alguna vez te fuiste de viaje para olvidarte de un problema y descubriste, en la playa o en otra ciudad, que el problema había viajado contigo? Dormías en otro hotel, comías otra comida, y la misma inquietud te despertaba a las cuatro de la mañana.\n\nA Lucilio le pasó lo mismo. Había hecho un viaje largo, con muchos cambios de paisaje, y regresó igual de abatido. Le escribió a Séneca, sorprendido. La respuesta es la carta 28, una de las más citadas del libro."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Cambiar de alma, no de cielo"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Séneca empieza sin rodeos. ¿Crees que eres el único al que le pasa? ¿Te sorprende, como si fuera algo nuevo, que tanto viaje no te haya quitado la tristeza? Y entonces le da la frase que resume la carta:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Lo que necesitas es cambiar de alma, no de cielo.",
+    "fuente": "Cartas a Lucilio, XXVIII, 1"
+   },
+   {
+    "tipo": "texto",
+    "texto": "En latín son cuatro palabras: *animum debes mutare, non caelum*. El cielo, aquí, es el clima, el paisaje, el lugar. Séneca cita a Virgilio, que habla de barcos que dejan atrás tierras y ciudades. Puedes cruzar todos los mares que quieras, dice, pero tus defectos te seguirán adonde vayas.\n\nNo es un ataque contra los viajes. Séneca viajó, gobernó, vivió en el exilio. Es un ataque contra una ilusión: creer que el problema está afuera, en el lugar, y no adentro, en la forma de mirar."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Lo que dijo Sócrates"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Para reforzarlo, Séneca trae a [[Sócrates|Filósofo ateniense (c. 470–399 a. C.), maestro de Platón. No escribió nada; lo conocemos por sus discípulos.]]. Alguien se quejó con él de que sus viajes no le habían servido de nada. La respuesta de Sócrates es casi un chiste:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "¿Por qué te sorprende que viajar no te sirva, si siempre te llevas contigo? Te persigue la misma causa que te hizo salir.",
+    "fuente": "Cartas a Lucilio, XXVIII, 2"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es una frase que conviene leer despacio. La causa que te hizo salir, la inquietud, la insatisfacción, el miedo, no se queda en casa esperándote. Va en la maleta. De hecho, va en el asiento de al lado.\n\nLa psicología moderna tiene un nombre para la tentación contraria: la llaman, medio en broma, «la cura geográfica». Es la esperanza de que una mudanza, un trabajo nuevo o una ciudad distinta arreglen lo que uno no ha querido mirar. A veces el cambio ayuda, claro. Pero solo cuando acompaña un cambio interior; nunca cuando lo reemplaza."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según Sócrates, ¿por qué los viajes no le servían a quien se quejaba?",
+    "opciones": [
+     "Porque elegía destinos aburridos",
+     "Porque siempre se llevaba a sí mismo, y con él la causa de su inquietud",
+     "Porque viajaba demasiado rápido"
+    ],
+    "correcta": 1,
+    "explicacion": "La inquietud no está en el lugar sino en la persona. Cambiar de sitio no la deja atrás."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La carga que se mueve en el barco"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Séneca añade una imagen de marinero. Dice que Lucilio va de aquí para allá tratando de quitarse un peso de encima, y que ese mismo ir y venir lo vuelve más pesado.\n\nEs como la carga de un barco. Mientras está quieta y bien acomodada, no molesta. Pero si se desliza de un lado a otro, hace que el barco se ladee justo hacia donde cayó. La agitación no alivia el peso: lo empeora.\n\nCualquiera que haya intentado resolver un mal momento con actividad sin rumbo lo reconoce. Más juntas, más viajes, más proyectos nuevos. Todo se mueve, y el barco se inclina cada vez más. A veces lo primero no es moverse, sino acomodar la carga: entender qué te pesa."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El mundo entero como patria"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Luego viene el lado luminoso de la carta. Cuando uno se quita ese peso de dentro, dice Séneca, cualquier cambio de lugar se vuelve agradable. Podrían desterrarte al último rincón de la tierra y encontrarías ahí una casa hospitalaria.\n\nLo que importa no es adónde vas, sino quién llega. Y entonces escribe una frase que los estoicos repetían como lema:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "No nací para un solo rincón: mi patria es todo este mundo.",
+    "fuente": "Cartas a Lucilio, XXVIII, 4"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Esta idea tenía nombre en la escuela estoica: el [[cosmopolitismo|Del griego *kosmopolítes*, «ciudadano del mundo». La idea de que todo ser humano pertenece a una sola comunidad universal.]]. No es indiferencia hacia el propio país. Es saber que tu centro no depende de un código postal.\n\nTiene una resonancia especial esta semana. En 1513, Maquiavelo fue expulsado de su oficina, de su ciudad y de su vida pública. Terminó en una granja, jugando a las cartas con el molinero. Y sin embargo, cada noche, en su estudio, conversaba con los antiguos y escribía. Le quitaron el lugar; no le quitaron la mente."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Séneca sabía de exilios",
+    "texto": "En el año 41 d. C., el emperador Claudio lo desterró a Córcega, acusado de adulterio con una princesa. Pasó ahí ocho años. Desde la isla escribió consuelos a su madre en los que dice que ningún lugar es destierro para el sabio. Cuando escribe la carta 28, habla por experiencia."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Aun así, el lugar importa un poco"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Séneca no exagera la idea. Reconoce que hay lugares que empujan al vicio, y que conviene evitarlos mientras uno todavía es débil. No es lo mismo vivir en un puerto lleno de juerga que en un sitio tranquilo.\n\nPero añade un ejemplo que pone las cosas en su tamaño. Sócrates vivió en Atenas bajo los [[Treinta Tiranos|Gobierno oligárquico impuesto en Atenas en el 404 a. C., tras su derrota ante Esparta. Gobernó con terror durante unos ocho meses.]], uno de los gobiernos más brutales de su ciudad, y siguió siendo libre por dentro. El lugar puede ponerte a prueba. No puede decidir por ti."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Empieza por verte"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La carta termina con un consejo práctico. Séneca cita a [[Epicuro|Filósofo griego (341–270 a. C.), fundador de una escuela rival de los estoicos. Séneca lo cita a menudo.]], el maestro rival, al que admiraba sin complejos:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "El principio de la salud es conocer el error.",
+    "fuente": "Cartas a Lucilio, XXVIII, 9"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Quien no sabe que se equivoca, explica Séneca, no quiere corregirse. Hay que sorprenderse a uno mismo en la falta antes de poder enmendarla. Algunos, dice, hasta presumen de sus defectos. ¿Qué remedio cabe para ellos?\n\nY propone un ejercicio en tres papeles, que a un abogado le resultará familiar. Primero hazte el **acusador**: busca tus errores sin piedad. Luego hazte el **juez**: pésalos con justicia, sin exagerar ni minimizar. Al final, hazte el **defensor**: busca lo que se puede salvar y comprométete a cambiar. Todo en el mismo tribunal, y tú en los tres asientos."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿En qué orden propone Séneca juzgarse a uno mismo?",
+    "opciones": [
+     "Juez, defensor y acusador",
+     "Defensor, acusador y juez",
+     "Acusador, juez y defensor"
+    ],
+    "correcta": 2,
+    "explicacion": "Primero se buscan los errores (acusador), luego se pesan con justicia (juez) y al final se busca la salida (defensor)."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Lo que Séneca le pide a Lucilio, y a ti"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La carta deja tres prácticas.\n\nPrimero, **antes de cambiar de lugar, pregunta qué llevas en la maleta.** Un nuevo socio, una nueva ciudad o un nuevo negocio no curan un problema que viene contigo. Nómbralo antes de mudarte.\n\nSegundo, **acomoda la carga antes de acelerar.** Si te sientes agitado, más actividad no siempre ayuda. A veces lo útil es detenerse y ver qué es lo que pesa.\n\nTercero, **haz el juicio en tres tiempos.** Acusador, juez y defensor. Una vez a la semana basta.\n\nEn el próximo y último capítulo, Séneca le hablará a Lucilio de cómo tratar a quienes están abajo, a los esclavos de su casa. Es una de sus cartas más valientes."
+   }
+  ],
+  "paraLlevar": [
+   "Cambia de alma, no de cielo: el problema que viene contigo no se queda en el aeropuerto.",
+   "La agitación no alivia el peso; lo mueve y lo empeora. Primero acomoda la carga.",
+   "Júzgate en tres tiempos: acusador, juez y defensor."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Por qué el viaje largo de Lucilio no le quitó la tristeza?",
+    "respuesta": "Porque la causa estaba en él, no en el lugar. Séneca le dice que necesita cambiar de alma, no de cielo."
+   },
+   {
+    "pregunta": "¿Qué frase de Epicuro cita Séneca al final de la carta 28?",
+    "respuesta": "«El principio de la salud es conocer el error»: nadie se corrige si no sabe que se equivoca."
+   }
+  ],
+  "proximo": "Cartas a Lucilio · Capítulo 6: Cómo tratas a quien está abajo",
+  "fuentes": [
+   {
+    "nombre": "Moral letters to Lucilius, carta 28, traducción de Richard M. Gummere (1917), Wikisource",
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_28"
+   },
+   {
+    "nombre": "Wikipedia: Cartas a Lucilio",
+    "url": "https://es.wikipedia.org/wiki/Cartas_a_Lucilio"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de dominio público de Richard M. Gummere (1917), cotejada con el latín. La numeración sigue la división estándar de carta y párrafo."
+ },
+ "palabra": {
+  "palabra": "Ostracismo",
+  "categoria": "Sustantivo",
+  "pronunciacion": "os-tra-CIS-mo",
+  "definicion": "En la antigua Atenas, destierro político de diez años decidido por votación popular. En sentido figurado: exclusión, voluntaria o impuesta, de la vida pública o de un grupo.",
+  "origen": "Del griego *ostrakismós*, de *óstrakon*, «fragmento de cerámica». Los atenienses escribían en esos pedazos el nombre del político que querían expulsar. Se han encontrado miles en excavaciones del ágora.",
+  "ejemplo": "Tras perder su cargo en 1512, Maquiavelo vivió años de ostracismo en el campo, y desde ahí escribió su obra más famosa.",
+  "repaso": {
+   "pregunta": "¿De dónde viene la palabra «ostracismo»?",
+   "respuesta": "Del griego óstrakon, el pedazo de cerámica donde los atenienses escribían el nombre del político que querían desterrar."
+  }
+ },
+ "frances": {
+  "frase": "Qui ne risque rien n'a rien.",
+  "traduccion": "Quien no arriesga nada no tiene nada.",
+  "pronunciacion": "ki ne RISK rian na RIAN",
+  "uso": "Negocios. Es el equivalente de «el que no arriesga no gana». Se dice para animar a alguien a lanzarse: una propuesta, una inversión, una llamada difícil. Es un registro informal pero se oye mucho en juntas.",
+  "variante": "On tente le coup ? Qui ne risque rien n'a rien. (¿Lo intentamos? El que no arriesga no gana.)",
+  "repaso": {
+   "pregunta": "¿Cómo dices en francés «el que no arriesga no gana»?",
+   "respuesta": "« Qui ne risque rien n'a rien. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "En su carta de diciembre de 1513, ¿qué contaba Maquiavelo que hacía al caer la noche?",
+   "opciones": [
+    "Jugaba a las cartas en la taberna con el molinero",
+    "Se ponía ropa de corte y entraba a su estudio a leer a los antiguos",
+    "Escribía a los Medici para pedir perdón"
+   ],
+   "correcta": 1,
+   "explicacion": "Se quitaba la ropa llena de lodo, se vestía como para la corte y «conversaba» con los autores antiguos. De ahí nació El príncipe."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "Según el Ministerio del Interior de Francia, ¿cuántas personas marcharon el 31 de octubre?",
+   "opciones": [
+    "Unas 800,000",
+    "Unas 320,000",
+    "Unas 410,000"
+   ],
+   "correcta": 2,
+   "explicacion": "El Interior contó 410,000, 110,000 en París. Los sindicatos calcularon 800,000 y la policía, según otra fuente, 320,000."
+  },
+  {
+   "origen": "materias",
+   "pregunta": "En el experimento de Tversky y Kahneman, ¿qué movió las estimaciones de los participantes?",
+   "opciones": [
+    "Un número al azar de una ruleta que vieron antes de responder",
+    "La nacionalidad de cada participante",
+    "Una pista sobre la respuesta correcta"
+   ],
+   "correcta": 0,
+   "explicacion": "Quienes vieron el 10 estimaron 25%; quienes vieron el 65, 45%. Es el efecto de anclaje."
+  }
+ ]
+}
