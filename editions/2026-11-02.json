@@ -1,0 +1,858 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-02",
+ "numero": 12,
+ "fecha": "2026-11-02",
+ "disponibleDesde": "2026-11-02T08:00:00-06:00",
+ "titulo": "Síntesis: lo que Florencia enseña sobre arte, dinero y poder",
+ "temporada": {
+  "id": "t02",
+  "numero": 2,
+  "titulo": "Florencia: la ciudad que inventó el Renacimiento",
+  "episodio": 6,
+  "totalEpisodios": 6
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo_ghiberti,_porta_del_paradiso,_1425-52,_00.JPG?width=900",
+  "alt": "Puertas de bronce dorado con diez paneles en relieve",
+  "pie": "La Puerta del Paraíso de Ghiberti, Baptisterio de Florencia (1425–1452)",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "origen": "Edición #9",
+   "pregunta": "¿Qué hizo caer a Savonarola en 1498?",
+   "respuesta": "Quedó atado a una prueba del fuego que no propuso. Cuando el milagro no llegó, perdió su autoridad en un día."
+  },
+  {
+   "origen": "Edición #7",
+   "pregunta": "¿Por qué Ghiberti le ganó a Brunelleschi el concurso de 1401?",
+   "respuesta": "Fundió su relieve casi en una sola pieza, con menos bronce y menor costo: justo lo que el gremio quería para 28 relieves."
+  },
+  {
+   "origen": "Edición #11",
+   "pregunta": "¿A quién dedicó Maquiavelo El príncipe?",
+   "respuesta": "A un Medici, Lorenzo di Piero, la familia que lo había echado. Quería volver a trabajar."
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n-2026-11-02-petroleo",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-02",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 11,
+    "dondeIbamos": "El viernes 30 el Brent cerró en 117.64 dólares y el WTI en 104.12. El fin de semana hubo nuevos ataques a buques cerca de Ormuz, y todo quedó pendiente de la apertura del lunes."
+   },
+   "titular": "El petróleo cae casi 3% por las pláticas para reabrir Ormuz",
+   "quePaso": "Este lunes, el Brent bajó cerca de 3% en las primeras horas. Según EFE, a las 8:00 de Madrid cotizaba en 110.23 dólares. Euronews reportó después unos 108.5 dólares y un WTI por debajo de 100.\n\nLa causa: Irán dijo el domingo que siguen las pláticas indirectas con Estados Unidos, con Catar como mediador, sobre un «plan de dos días» para reabrir el estrecho de Ormuz. El canciller Abbás Araghchí aclaró que «aún no» hay un resultado concreto.",
+   "aMiQue": "Si la baja se sostiene, alivia lo que más pesa en una marca de bebidas: flete, plástico y vidrio. Pero el precio sigue muy arriba de hace un año y puede volver a saltar en horas.\n\nNo cierres precios de diciembre con distribuidores como si el alivio fuera seguro. Una cláusula de ajuste por logística sigue siendo prudente.",
+   "contexto": "**Hecho:** según EFE, Trump dijo que no atacará Irán antes de las elecciones del martes y que las pláticas «marchan bien». Mantiene el bloqueo naval y las sanciones.\n\n**Hecho:** según Euronews, Trump llamó a los iraníes «no muy fiables». A la pregunta de si volverá la guerra esta semana, respondió: «Supongamos que sí. ¿Te lo diría?».\n\n**Hecho:** la Guardia Revolucionaria dijo que otros dos petroleros chocaron con minas en Ormuz. La OPEP+ mantuvo sin cambios su producción de diciembre, por tercer mes seguido.\n\n**Interpretación:** Goldman Sachs calcula que unos 27 dólares por barril son «prima geopolítica», y subió su pronóstico del Brent para fin de año a 105 dólares. Es decir: buena parte del precio es miedo, y el miedo puede bajar o subir rápido.",
+   "queVigilar": "Si el «plan de dos días» se concreta después del martes, o si Trump retoma los ataques tras las elecciones, como le pidió Netanyahu por teléfono el sábado.",
+   "fuentes": [
+    {
+     "nombre": "Infobae (EFE): El petróleo Brent baja casi un 3 %, hasta los 110 dólares, pendiente de Irán",
+     "url": "https://www.infobae.com/america/agencias/2026/11/02/el-petroleo-brent-baja-casi-un-3-hasta-los-110-dolares-pendiente-de-iran/"
+    },
+    {
+     "nombre": "Yahoo Finanzas (Euronews): El precio del petróleo cae por las negociaciones sobre Ormuz",
+     "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-cae-negociaciones-hormuz-trump-102302556.html"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-02-eeuu",
+   "ambito": "mundo",
+   "ambitoTexto": "Estados Unidos",
+   "fecha": "2026-11-02",
+   "titular": "Mañana vota Estados Unidos: el Congreso entero y 36 gubernaturas",
+   "quePaso": "Este martes 3 de noviembre son las elecciones intermedias de Estados Unidos. Se eligen los 435 escaños de la Cámara de Representantes, 35 del Senado y 36 gubernaturas.\n\nLlegan con Trump en su punto más bajo. La encuesta de Reuters/Ipsos publicada el 20 de octubre le dio 31% de aprobación, la cifra más baja de sus dos mandatos. En la misma encuesta, 47% prefería a los demócratas en el Congreso y 35% a los republicanos.",
+   "aMiQue": "Un Congreso dividido cambia el margen de Trump para aranceles, presupuesto y migración. Eso llega a México por el peso, por las remesas y por el tono de la relación comercial.\n\nPara un emprendedor que importa insumos o vende en dólares: espera volatilidad del tipo de cambio el miércoles 4. No es buen día para cerrar una compra grande de divisas a ciegas.",
+   "contexto": "**Hecho:** según el Cook Political Report, citado por UnoTV el 22 de octubre, siete contiendas al Senado no tenían favorito claro: Texas, Ohio, Maine, Michigan, Iowa, Alaska y Kansas.\n\n**Hecho:** hoy hay 26 gobernadores republicanos y 24 demócratas. Stateline estima que los demócratas podrían tener la mayoría de gubernaturas por primera vez desde 2010.\n\n**Interpretación:** las encuestas de octubre favorecen a los demócratas, pero las intermedias dependen de la participación. Los conteos en estados cerrados pueden tardar días.",
+   "queVigilar": "Quién controla cada cámara, y la reacción del peso y del petróleo el miércoles. Trump dijo que no atacaría Irán antes de la votación: después, esa promesa ya no corre.",
+   "fuentes": [
+    {
+     "nombre": "UnoTV: A días de la elección en EE. UU., aceptación de Trump cae a mínimos (22 de octubre)",
+     "url": "https://www.unotv.com/internacional/a-dias-de-la-eleccion-en-ee-uu-aceptacion-de-trump-cae-a-minimos-asi-van-los-estados-clave/"
+    },
+    {
+     "nombre": "Infobae (EFE): Trump no atacará Irán antes de las elecciones del martes",
+     "url": "https://www.infobae.com/america/agencias/2026/11/02/el-petroleo-brent-baja-casi-un-3-hasta-los-110-dolares-pendiente-de-iran/"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "Cinco historias de Florencia: un concurso, un banco, una hoguera, un bloque de mármol y un exiliado. Todas tienen el mismo secreto.",
+    "contexto": "Durante seis episodios caminamos por Florencia. En **1401**, Ghiberti le ganó a Brunelleschi el concurso de las puertas del Baptisterio. Los **Medici** gobernaron la ciudad desde un banco, sin ocupar el trono. En **1497**, Savonarola quemó lujos en la plaza y un año después ardió él mismo.\n\nEn **1501**, Miguel Ángel aceptó un bloque de mármol que otros habían dejado arruinado. En **1513**, Maquiavelo salió de la cárcel y escribió *El príncipe* en una granja.\n\nSon personajes muy distintos: un orfebre, unos banqueros, un fraile, un escultor y un funcionario. Pero hay un hilo que los une.",
+    "pregunta": "¿Qué tienen en común las cinco historias?",
+    "opciones": [
+     "Todos los protagonistas terminaron ricos y famosos",
+     "En todas, el destino lo decidió quien tenía el poder de elegir y sus reglas",
+     "Todos fueron enemigos declarados de los Medici"
+    ],
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lorenzo_ghiberti,_porta_del_paradiso,_1425-52,_00.JPG?width=900",
+     "alt": "Puertas de bronce dorado divididas en diez paneles con escenas en relieve",
+     "pie": "La Puerta del Paraíso de Ghiberti, en el Baptisterio de Florencia. Su primer encargo lo ganó en el concurso de 1401",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Una ciudad de jueces",
+    "texto": "Florencia no tenía rey. Era una [[república|Forma de gobierno sin monarca, donde el poder lo ejercen cargos elegidos. En Florencia, los consejos y la Signoria se renovaban cada pocos meses.]] de comerciantes, y eso cambiaba todo. Nadie mandaba solo. Siempre había alguien que elegía: un gremio, un consejo, un banco, un papa.\n\nEn el concurso de 1401, el que eligió fue el gremio de comerciantes de telas. No buscaba la obra más audaz. Buscaba al artista que pudiera repetir 28 relieves a buen costo. Por eso ganó Ghiberti.\n\nLos Medici entendieron que en una república el poder no está en el trono, sino en quién decide los votos. Cosme prestaba dinero, pagaba obras y colocaba aliados. El banco hacía el trabajo de una corona.\n\nSavonarola creyó que su juez era Dios. Pero los que decidieron fueron el papa Alejandro VI y la [[Signoria|El gobierno de la república florentina: un pequeño consejo de priores elegidos por sorteo entre los gremios.]]. Cuando no llegó el milagro de la prueba del fuego, la ciudad cambió de veredicto en un día.\n\nMiguel Ángel trabajó para la [[Opera del Duomo|La oficina que administraba las obras de la catedral de Florencia. Encargó el David en 1501.]]. Ella le dio el bloque que nadie quería, y él diseñó dentro de esos límites. Maquiavelo, desde la granja, le escribió un libro al único juez que podía devolverle un empleo: un Medici.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palazzo_Medici_Riccardi-Florence.jpg?width=900",
+     "alt": "Fachada de piedra rústica de un palacio renacentista en una calle de Florencia",
+     "pie": "El palacio de los Medici en la Via Larga: desde aquí se gobernaba sin ocupar ningún cargo",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "giro",
+    "titulo": "Florencia premiaba a quien leía al que decide",
+    "texto": "La respuesta es la segunda. En las cinco historias, el talento no bastó. Lo que decidió fue **quién elegía y con qué reglas**.\n\nLo que sorprende es que los ganadores no fueron siempre los más brillantes. Brunelleschi era quizá más audaz que Ghiberti, y perdió. Savonarola tenía más fuerza moral que los Medici, y terminó en la hoguera. Maquiavelo era mejor diplomático que muchos de sus jefes, y acabó torturado.\n\nGanaron los que entendieron el tablero: Ghiberti, que leyó lo que el gremio quería pagar; Cosme, que vio que en una república se gobierna desde los votos; Miguel Ángel, que convirtió el defecto del mármol en estilo. Y Maquiavelo, que perdió todo, dejó el mejor manual sobre el tema.\n\nEso no es cinismo. Es la condición de cualquier oficio que depende de otros: arte, derecho, empresa. El criterio del que decide es parte de la obra.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Replica_of_David,_Piazza_della_Signoria,_Florence.jpg?width=900",
+     "alt": "Estatua de mármol de un joven desnudo frente a un palacio medieval",
+     "pie": "La réplica del David frente al Palazzo Vecchio, donde estuvo el original de 1504 a 1873",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "Las cinco preguntas de Florencia",
+    "texto": "Cada episodio dejó una herramienta. Juntas forman una lista para revisar cualquier proyecto importante: un lanzamiento, un litigio, una negociación.\n\n1. **¿Quién decide, y con qué criterio?** (el concurso de 1401). Escribe los criterios reales del que elige, no los que te gustarían.\n\n2. **¿Quién revisa las cuentas?** (el banco Medici). Un buen diseño sin vigilancia se rompe. Pon límites por escrito y alguien que los mire.\n\n3. **¿Qué estoy prometiendo que no controlo?** (Savonarola). No apuestes tu autoridad a un milagro, una cifra de ventas o un resultado ajeno.\n\n4. **¿Cuál es mi mármol?** (el David). Haz el inventario honesto de lo que tienes y diseña con esa restricción.\n\n5. **¿Cómo es, no cómo debería ser?** (Maquiavelo). Planea con la [[verdad efectiva|Expresión de Maquiavelo: cómo funcionan las cosas en los hechos, no cómo deberían funcionar.]] de la situación.\n\nNo hace falta usarlas todas cada vez. Basta con pasar por ellas antes de decidir algo que cueste caro."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Dónde más aparece",
+    "texto": "**En una cadena de autoservicio.** Quieres que una cadena de Jalisco ponga tu bebida en anaquel. El comprador no premia la mejor fórmula: premia rotación, margen y entregas sin falla. Es el gremio de 1401 con otra ropa. Antes de la cita, escribe sus tres criterios y lleva una prueba de cada uno.\n\n**En un juicio.** El juez es quien decide, y su criterio está en la ley, pero también en la carga de trabajo del juzgado y en cómo se presentan las pruebas. Un buen abogado no solo tiene razón: la vuelve fácil de reconocer para quien resuelve. Y no le promete al cliente un resultado que depende de otro (la lección de Savonarola)."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿Cuál de las cinco preguntas has estado evitando en tu proyecto más importante?",
+    "texto": "Suele ser la que incomoda. Esa es la que conviene contestar primero."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "El talento abre la puerta. Entender quién decide te deja entrar."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Smarthistory: Brunelleschi y Ghiberti, el sacrificio de Isaac (en inglés)",
+   "url": "https://smarthistory.org/filippo-brunelleschi-and-lorenzo-ghiberti-sacrifice-of-isaac",
+   "minutos": 10
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Qué hilo une las cinco historias de Florencia?",
+    "respuesta": "En todas, el destino lo decidió quien tenía el poder de elegir (gremio, banco, papa, Opera del Duomo, Medici) y sus reglas."
+   },
+   {
+    "pregunta": "¿Cuáles son las cinco preguntas de Florencia?",
+    "respuesta": "¿Quién decide y con qué criterio? ¿Quién revisa las cuentas? ¿Qué prometo que no controlo? ¿Cuál es mi mármol? ¿Cómo es, no cómo debería ser?"
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Wikipedia: República de Florencia",
+    "url": "https://es.wikipedia.org/wiki/República_de_Florencia"
+   },
+   {
+    "nombre": "Wikipedia: Renacimiento florentino",
+    "url": "https://es.wikipedia.org/wiki/Renacimiento_florentino"
+   },
+   {
+    "nombre": "Smarthistory: Filippo Brunelleschi and Lorenzo Ghiberti, Sacrifice of Isaac",
+    "url": "https://smarthistory.org/filippo-brunelleschi-and-lorenzo-ghiberti-sacrifice-of-isaac"
+   },
+   {
+    "nombre": "History Today: The Original Bonfire of the Vanities",
+    "url": "https://www.historytoday.com/node/56978"
+   },
+   {
+    "nombre": "Villa I Tatti, Harvard: The banishment and arrest of Niccolò Machiavelli",
+    "url": "https://itatti.harvard.edu/news/banishment-and-arrest-niccol%C3%B2-machiavelli"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Retórica y oratoria",
+   "pilar": "mente",
+   "formato": "desarmado",
+   "titulo": "Tres productos que eran uno: el truco de Jobs en 2007",
+   "contexto": "San Francisco, 9 de enero de 2007. Steve Jobs sube al escenario de la feria Macworld. Dice que cada tanto llega un producto revolucionario que lo cambia todo.\n\nY anuncia que hoy presentará **tres**: un iPod de pantalla ancha con controles táctiles, un teléfono móvil revolucionario y un comunicador de internet. Los repite despacio, una y otra vez, mientras en la pantalla giran tres íconos.",
+   "pregunta": "¿Por qué anunció «tres productos» si en realidad era uno solo?",
+   "opciones": [
+    "Porque Apple pensaba venderlos por separado",
+    "Para que el público descubriera solo la sorpresa: que eran un mismo aparato",
+    "Porque el reglamento de la feria limitaba cada anuncio a un producto"
+   ],
+   "correcta": 1,
+   "revelacion": "Jobs repitió la lista hasta que el público empezó a reír y aplaudir. Entonces preguntó: «¿Lo están captando?». No eran tres aparatos separados. Era uno, y se llamaba iPhone. El público lo adivinó medio segundo antes de oírlo, y ese medio segundo es la clave.\n\nEl discurso usa tres técnicas viejas. La [[regla de tres|Agrupar ideas de tres en tres: es el número mínimo que forma un patrón y el máximo que se recuerda sin esfuerzo.]], que ya usaban los oradores romanos. La **repetición**, que deja la lista grabada antes de romperla. Y la **revelación diferida**: dar las piezas y dejar que el oyente arme la conclusión. Lo que uno descubre solo se recuerda más que lo que le dicen.\n\nLa lección práctica: no anuncies tu conclusión primero. Presenta los problemas o las piezas, haz que el otro sienta el patrón y entrega el nombre al final. Sirve en una junta de ventas, en un alegato o en la presentación de una marca nueva.",
+   "idea": "La gente cree más en la conclusión que alcanza un segundo antes de que se la digas.",
+   "fuente": {
+    "nombre": "Wikipedia: iPhone (1.ª generación)",
+    "url": "https://es.wikipedia.org/wiki/iPhone_(1.ª_generación)"
+   },
+   "wiki": "iPhone (1.ª generación)",
+   "claves": [
+    {
+     "nombre": "Steve Jobs",
+     "quien": "Cofundador de Apple (1955–2011), famoso por presentaciones construidas como obras de teatro.",
+     "wiki": "Steve Jobs"
+    },
+    {
+     "nombre": "Macworld",
+     "quien": "La feria anual de productos Apple en San Francisco donde se presentó el iPhone.",
+     "wiki": "Macworld/iWorld"
+    },
+    {
+     "nombre": "Historia del iPhone",
+     "quien": "De ese anuncio de 2007 a la llegada a tiendas en junio del mismo año, y lo que vino después.",
+     "wiki": "Historia del iPhone"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué tres técnicas usó Jobs al presentar el iPhone en 2007?",
+    "respuesta": "La regla de tres, la repetición y la revelación diferida: «un iPod, un teléfono y un comunicador de internet» que resultaron ser un solo aparato."
+   }
+  },
+  {
+   "materia": "Relaciones y vida social",
+   "pilar": "caracter",
+   "formato": "elCaso",
+   "titulo": "Las 36 preguntas: cercanía en 45 minutos",
+   "contexto": "Nueva York, años noventa. El psicólogo **Arthur Aron** y su equipo juntan en parejas a estudiantes que no se conocen. Les dan 45 minutos y una lista de preguntas para hacerse por turnos.\n\nA otras parejas les dan el mismo tiempo, pero con preguntas de charla ligera. Al final, todos dicen qué tan cerca se sienten del desconocido. El estudio se publicó en 1997.",
+   "pregunta": "¿Qué crees que generó más cercanía?",
+   "opciones": [
+    "45 minutos de charla ligera, sin presión",
+    "Preguntas que suben poco a poco de intimidad, respondidas por turnos",
+    "Descubrir que piensan igual en temas importantes"
+   ],
+   "correcta": 1,
+   "revelacion": "Ganaron las 36 preguntas. Están en tres bloques, cada uno más personal que el anterior. Empiezan suave: «Si pudieras elegir a cualquier persona del mundo, ¿a quién invitarías a cenar?». A la mitad piden algo más: «Tómate cuatro minutos y cuéntale a tu pareja la historia de tu vida». Al final llegan a temas íntimos.\n\nEl mecanismo tiene nombre: [[autorrevelación|Contar algo personal de uno mismo. Acerca cuando es gradual y recíproca; aleja cuando es brusca o de un solo lado.]] gradual y recíproca. Uno se abre un poco, el otro responde al mismo nivel, y la confianza sube por escalones. Si saltas escalones, incomoda; si nunca subes, la charla se queda en el clima.\n\nUn dato que suele olvidarse: el estudio no buscaba enamorar a nadie. Lo popular vino en 2015, con un ensayo del *New York Times*. Lo que sí probó es más útil: la cercanía no es pura química. Se puede construir con estructura, tiempo y turnos parejos.",
+   "idea": "La confianza se construye por escalones: tú subes uno y esperas a que el otro suba el suyo.",
+   "fuente": {
+    "nombre": "Greater Good in Action (UC Berkeley): 36 Questions for Increasing Closeness",
+    "url": "https://ggia.berkeley.edu/practice/practice_as_pdf/36_questions_for_increasing_closeness"
+   },
+   "wiki": "Comunicación interpersonal",
+   "claves": [
+    {
+     "nombre": "Psicología social",
+     "quien": "La rama que estudia cómo nos influyen los demás. El estudio de Aron es uno de sus clásicos.",
+     "wiki": "Psicología social"
+    },
+    {
+     "nombre": "Amistad",
+     "quien": "Lo que estas preguntas aceleran: un vínculo que suele tardar meses en formarse.",
+     "wiki": "Amistad"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué mecanismo explica el efecto de las 36 preguntas de Aron (1997)?",
+    "respuesta": "La autorrevelación gradual y recíproca: abrirse poco a poco y por turnos, al mismo nivel que el otro."
+   }
+  },
+  {
+   "materia": "Inversión y finanzas personales",
+   "pilar": "patrimonio",
+   "formato": "elCaso",
+   "titulo": "Newton y la burbuja de 1720: lo que sí sabemos",
+   "contexto": "Londres, 1720. La **Compañía del Mar del Sur** promete ganancias enormes con el comercio con la América española. Sus acciones suben sin freno durante la primera mitad del año y medio país compra. Luego se desploman.\n\nEntre los inversionistas está **Isaac Newton**, el hombre que explicó la gravedad y que entonces dirigía la Casa de Moneda inglesa. Circula una historia: perdió 20,000 libras y dijo que podía calcular el movimiento de los astros, pero no la locura de la gente.",
+   "pregunta": "¿Qué dicen los documentos sobre las pérdidas de Newton?",
+   "opciones": [
+    "Que perdió exactamente 20,000 libras, según su testamento",
+    "Que no perdió nada: vendió a tiempo",
+    "Que probablemente perdió dinero, pero la cifra y la frase no están documentadas"
+   ],
+   "correcta": 2,
+   "revelacion": "Los historiadores del proyecto *Newton and the Mint*, de la Universidad de Oxford, son claros: es probable que Newton perdiera algo, pero **la evidencia no es concluyente**. Hay papeles de que tenía acciones de la compañía y de que en 1720 dio un poder para vender 3,000 libras de ellas. No se sabe si eran suyas o de la Casa de Moneda. La frase famosa no tiene fuente.\n\nLa lección de fondo no depende de Newton. Una [[burbuja especulativa|Cuando el precio de algo sube muy por encima de lo que vale, porque la gente compra esperando que otros paguen más después.]] atrapa a gente lista porque el razonamiento cambia: ya no se pregunta «¿cuánto vale?», sino «¿quién me lo comprará más caro?». Esa pregunta funciona hasta el día en que nadie más entra.\n\nY una lección de criterio: las anécdotas más citadas de las finanzas suelen ser las menos verificadas. Antes de usar una historia para decidir con tu dinero, pregunta de dónde sale.",
+   "idea": "En una burbuja nadie pregunta cuánto vale algo, sino quién lo comprará más caro.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Edward_Matthew_Ward_(1816-1879)_-_The_South_Sea_Bubble,_a_Scene_in_%27Change_Alley_in_1720_-_N00432_-_National_Gallery.jpg?width=900",
+    "alt": "Pintura de una multitud agitada en una calle londinense del siglo XVIII",
+    "pie": "«La burbuja de los mares del Sur», de Edward Matthew Ward (1847): la fiebre de compra en Change Alley, Londres. National Gallery",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Universidad de Oxford, Newton and the Mint: Newton and the South Sea Bubble",
+    "url": "https://newtonandthemint.history.ox.ac.uk/global-financial-world/newton-and-the-south-sea-bubble"
+   },
+   "wiki": "Burbuja de los mares del Sur",
+   "claves": [
+    {
+     "nombre": "Compañía del Mar del Sur",
+     "quien": "La empresa inglesa cuyas acciones protagonizaron la burbuja de 1720.",
+     "wiki": "Compañía del Mar del Sur"
+    },
+    {
+     "nombre": "Isaac Newton",
+     "quien": "Físico y matemático (1643–1727), también director de la Casa de Moneda inglesa.",
+     "wiki": "Isaac Newton"
+    },
+    {
+     "nombre": "Crisis económica",
+     "quien": "Lo que suele seguir a una burbuja cuando estalla.",
+     "wiki": "Crisis económica"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Está documentado que Newton perdió 20,000 libras en 1720?",
+    "respuesta": "No. Según Oxford, es probable que perdiera algo, pero la cifra y la frase sobre «la locura de la gente» no tienen fuente sólida."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "sigueDinero",
+   "titulo": "Tailwind: regalar el framework, vender los componentes",
+   "contexto": "**Adam Wathan** creó Tailwind CSS, una herramienta gratuita y de [[código abierto|Software cuyo código cualquiera puede usar, estudiar y modificar sin pagar.]] para dar estilo a páginas web. Millones de programadores la usan sin pagar un centavo.\n\nEn febrero de 2020 lanzó algo de pago: **Tailwind UI**, una biblioteca de componentes ya diseñados (menús, formularios, tablas) listos para copiar. Un archivo digital: venderlo mil veces cuesta casi lo mismo que venderlo una.",
+   "pregunta": "Según Wathan, ¿cuánto había facturado Tailwind UI unos cinco meses después de su lanzamiento?",
+   "opciones": [
+    "Unos 200,000 dólares",
+    "Cerca de 2 millones de dólares",
+    "Más de 20 millones de dólares"
+   ],
+   "correcta": 1,
+   "revelacion": "Cerca de **2 millones de dólares**. Wathan contó en un hilo público que estaban por cruzar esa cifra, y que su empresa llevaba más de 4 millones en menos de dos años. Antes había vendido un libro de diseño, *Refactoring UI* (2018). El modelo: regalar la herramienta para ganar millones de usuarios y venderle a una parte el atajo.\n\nEl embudo tenía una pieza escondida: la **documentación**. La gente entraba a leer cómo usar Tailwind y ahí descubría los productos de pago. En enero de 2026 eso se rompió. Según The New Stack, Wathan despidió a tres de sus cuatro ingenieros. Dijo que la IA es «una gran razón» de sus problemas: la gente pregunta a un asistente en vez de visitar la documentación, y el tráfico había caído 40% desde 2023. Después llegaron patrocinadores como Vercel y Supabase.\n\nLa lección para un producto digital: no basta con que otra copia cueste cero. Importa **por dónde llega el cliente**. Si tu canal depende de una sola puerta, alguien puede cerrarla.",
+   "idea": "Un producto digital escala por su costo, pero sobrevive por su canal.",
+   "fuente": {
+    "nombre": "The New Stack: Tailwind creator says AI played a role in downsizing (enero de 2026)",
+    "url": "https://thenewstack.io/tailwind-creator-says-ai-played-a-role-in-downsizing/"
+   },
+   "wiki": "Distribución digital",
+   "claves": [
+    {
+     "nombre": "Código abierto",
+     "quien": "El modelo de regalar el software y ganar con servicios o productos alrededor.",
+     "wiki": "Código abierto"
+    },
+    {
+     "nombre": "Inteligencia artificial",
+     "quien": "La tecnología que cambió cómo la gente busca respuestas técnicas, y con eso el embudo de Tailwind.",
+     "wiki": "Inteligencia artificial"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué pieza del embudo de Tailwind rompió la IA?",
+    "respuesta": "Las visitas a la documentación, donde los usuarios descubrían los productos de pago. El tráfico cayó 40% desde 2023."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Filosofía para vivir",
+   "pilar": "mente",
+   "epoca": "335 a. C.",
+   "titulo": "Los peripatéticos quizá no caminaban",
+   "dato": "Se cuenta que a los alumnos de Aristóteles les decían «peripatéticos» porque él enseñaba caminando. El nombre probablemente viene de otra cosa: un pasillo techado.",
+   "explicacion": "Aristóteles fundó su escuela en el Liceo de Atenas hacia 335 a. C. Ahí había un *perípatos*, un paseo cubierto con columnas donde se reunían. Desde la Antigüedad conviven dos versiones: que el nombre viene del lugar o del hábito de discutir paseando.\n\nMuchos historiadores creen que el lugar dio el nombre y la anécdota vino después, porque explicaba bien la palabra. Es un patrón frecuente: cuando una palabra tiene una historia bonita, la historia suele ser posterior.",
+   "fuente": {
+    "nombre": "Wikipedia: Escuela peripatética",
+    "url": "https://es.wikipedia.org/wiki/Escuela_peripatética"
+   },
+   "wiki": "Escuela peripatética",
+   "claves": [
+    {
+     "nombre": "Aristóteles",
+     "quien": "Filósofo griego (384–322 a. C.), alumno de Platón y maestro de Alejandro Magno.",
+     "wiki": "Aristóteles"
+    },
+    {
+     "nombre": "Liceo",
+     "quien": "El gimnasio de Atenas donde enseñó Aristóteles; de ahí viene la palabra «liceo».",
+     "wiki": "Liceo (Antigua Grecia)"
+    },
+    {
+     "nombre": "Peripato",
+     "quien": "El paseo cubierto que probablemente dio nombre a la escuela.",
+     "wiki": "Peripato"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿De dónde viene probablemente el nombre «peripatético»?",
+    "respuesta": "Del perípatos, un paseo techado del Liceo de Atenas, más que del hábito de enseñar caminando."
+   }
+  },
+  {
+   "materia": "Relaciones y vida social",
+   "pilar": "caracter",
+   "epoca": "1967",
+   "titulo": "Seis grados, pero casi ninguna carta llegó",
+   "dato": "El famoso experimento de los «seis grados de separación» de Stanley Milgram tuvo un detalle incómodo: la gran mayoría de las cartas nunca llegó a su destino.",
+   "explicacion": "Milgram pidió a personas de Nebraska y Boston que hicieran llegar una carta a un desconocido en Massachusetts, pasándola solo por conocidos. En el informe con Jeffrey Travers de 1969, de 296 cadenas iniciales solo 64 se completaron. Las que llegaron pasaron, en promedio, por unas cinco personas.\n\nLa frase «seis grados» se popularizó después, con una obra de teatro de 1990. Estudios con redes digitales encontraron distancias cortas parecidas. Lo que sí queda claro: estamos más cerca de lo que creemos, pero llegar a alguien depende de a quién conoces y de si se toman la molestia.",
+   "fuente": {
+    "nombre": "Wikipedia: Experimento del mundo pequeño",
+    "url": "https://es.wikipedia.org/wiki/Experimento_del_mundo_pequeño"
+   },
+   "wiki": "Experimento del mundo pequeño",
+   "claves": [
+    {
+     "nombre": "Stanley Milgram",
+     "quien": "Psicólogo estadounidense (1933–1984), también autor del célebre experimento de obediencia.",
+     "wiki": "Stanley Milgram"
+    },
+    {
+     "nombre": "Seis grados de separación",
+     "quien": "La idea de que cualquier persona está a unos seis contactos de cualquier otra.",
+     "wiki": "Seis grados de separación"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuántas de las 296 cadenas de Milgram llegaron a su destino?",
+    "respuesta": "Solo 64, con unas cinco personas intermedias en promedio."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "epoca": "1908",
+   "titulo": "El maratón mide 42.195 km por un palco real",
+   "dato": "El primer maratón olímpico no medía 42.195 km. La cifra salió de Londres 1908: la salida en el castillo de Windsor y la meta frente al palco real.",
+   "explicacion": "En los primeros Juegos, la distancia variaba de una edición a otra, alrededor de 40 km. En Londres 1908 la ruta iba del castillo de Windsor al estadio olímpico: 26 millas, más 385 yardas para terminar frente al palco de la familia real. En total, 42.195 km.\n\nEsa carrera la hizo famosa Dorando Pietri, que entró al estadio desorientado, cayó varias veces y fue descalificado porque lo ayudaron a cruzar la meta. La distancia de 1908 se volvió oficial en 1921. Cada maratonista del mundo corre hoy los metros extra de una decisión de protocolo.",
+   "fuente": {
+    "nombre": "Wikipedia: Maratón",
+    "url": "https://es.wikipedia.org/wiki/Maratón"
+   },
+   "wiki": "Maratón",
+   "claves": [
+    {
+     "nombre": "Juegos Olímpicos de Londres 1908",
+     "quien": "Los Juegos que fijaron la distancia moderna del maratón.",
+     "wiki": "Juegos Olímpicos de Londres 1908"
+    },
+    {
+     "nombre": "Castillo de Windsor",
+     "quien": "Residencia real inglesa desde donde salió el maratón de 1908.",
+     "wiki": "Castillo de Windsor"
+    },
+    {
+     "nombre": "Maratón en los Juegos Olímpicos",
+     "quien": "La historia de la prueba desde Atenas 1896.",
+     "wiki": "Maratón en los Juegos Olímpicos"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué el maratón mide 42.195 km?",
+    "respuesta": "Por la ruta de Londres 1908, del castillo de Windsor al estadio, con meta frente al palco real. Se volvió oficial en 1921."
+   }
+  },
+  {
+   "materia": "Literatura y mitología",
+   "pilar": "cultura",
+   "epoca": "1571",
+   "titulo": "El «manco de Lepanto» no perdió la mano",
+   "dato": "Cervantes conservó su mano izquierda toda la vida. En la batalla de Lepanto, un disparo se la dejó inútil, pero nunca se la amputaron.",
+   "explicacion": "El 7 de octubre de 1571, Cervantes peleó a bordo de la galera *Marquesa* en Lepanto, aunque estaba enfermo con fiebre. Recibió tres disparos de arcabuz: dos en el pecho y uno en la mano izquierda, que quedó anquilosada. «Manco», en su época, también significaba que una mano no servía.\n\nCervantes estaba orgulloso de esa herida. En el prólogo de la segunda parte del *Quijote* responde a un rival que se burló de él: dice que la perdió «en la más alta ocasión que vieron los siglos». Para él, la mano inútil era una medalla.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Battle_of_Lepanto_1571.jpg?width=900",
+    "alt": "Pintura de una gran batalla naval con galeras y humo",
+    "pie": "La batalla de Lepanto (1571), donde Cervantes recibió tres disparos",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: Miguel de Cervantes",
+    "url": "https://es.wikipedia.org/wiki/Miguel_de_Cervantes"
+   },
+   "wiki": "Miguel de Cervantes",
+   "claves": [
+    {
+     "nombre": "Batalla de Lepanto",
+     "quien": "Choque naval de 1571 entre la Liga Santa y el Imperio otomano.",
+     "wiki": "Batalla de Lepanto"
+    },
+    {
+     "nombre": "Don Quijote de la Mancha",
+     "quien": "La novela de Cervantes (1605 y 1615), en cuyo prólogo habla de su herida.",
+     "wiki": "Don Quijote de la Mancha"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cervantes perdió la mano en Lepanto?",
+    "respuesta": "No. Un disparo le dejó inútil la mano izquierda, pero la conservó. «Manco» también significaba eso."
+   }
+  },
+  {
+   "materia": "Historia y geopolítica",
+   "pilar": "mundo",
+   "epoca": "1913",
+   "titulo": "El presidente de menos de una hora",
+   "dato": "Pedro Lascuráin fue presidente de México el 19 de febrero de 1913 por unos 45 minutos. Su único acto importante fue nombrar a Victoriano Huerta y renunciar.",
+   "explicacion": "Era el final de la [[Decena Trágica|Los diez días de combates en la Ciudad de México, en febrero de 1913, que terminaron con el derrocamiento de Madero.]]. Madero y Pino Suárez, presos, renunciaron. Por la ley de sucesión, el cargo le tocaba al secretario de Relaciones Exteriores: Lascuráin.\n\nAsumió, nombró a Huerta secretario de Gobernación y renunció de inmediato. Así Huerta llegó a la presidencia con apariencia legal. Días después, Madero y Pino Suárez fueron asesinados. Es un caso de manual: las formas de la ley usadas para cubrir un golpe.",
+   "fuente": {
+    "nombre": "Wikipedia: Pedro Lascuráin",
+    "url": "https://es.wikipedia.org/wiki/Pedro_Lascuráin"
+   },
+   "wiki": "Pedro Lascuráin",
+   "claves": [
+    {
+     "nombre": "Victoriano Huerta",
+     "quien": "Militar que tomó el poder en 1913 tras traicionar a Madero.",
+     "wiki": "Victoriano Huerta"
+    },
+    {
+     "nombre": "Francisco I. Madero",
+     "quien": "Presidente que inició la Revolución en 1910; derrocado y asesinado en 1913.",
+     "wiki": "Francisco I. Madero"
+    },
+    {
+     "nombre": "Decena Trágica",
+     "quien": "El golpe de febrero de 1913 en la Ciudad de México.",
+     "wiki": "Decena Trágica"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Para qué sirvió la presidencia de 45 minutos de Lascuráin?",
+    "respuesta": "Para nombrar a Huerta secretario de Gobernación y renunciar, de modo que Huerta asumiera con apariencia legal."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "epoca": "2007",
+   "titulo": "Radiohead dejó que cada quien pusiera el precio",
+   "dato": "En octubre de 2007, Radiohead vendió su disco *In Rainbows* en descarga y dejó que cada comprador eligiera cuánto pagar, incluso nada.",
+   "explicacion": "La banda acababa de terminar su contrato con su disquera y lo publicó por su cuenta, el 10 de octubre de 2007. La firma comScore estimó que la mayoría de quienes lo descargaron no pagó nada, y que el resto pagó en promedio unos 6 dólares. La banda dijo que esas cifras eran inexactas y nunca dio las suyas.\n\nLo interesante vino después: la edición física salió meses más tarde y llegó al número uno en Reino Unido y Estados Unidos. El [[paga lo que quieras|Modelo en el que el comprador decide el precio, a veces con un mínimo.]] funcionó como una enorme campaña de prueba gratuita. Para un producto digital, el precio también puede ser una herramienta de difusión.",
+   "fuente": {
+    "nombre": "Wikipedia: Paga lo que quieras",
+    "url": "https://es.wikipedia.org/wiki/Paga_lo_que_quieras"
+   },
+   "wiki": "Paga lo que quieras",
+   "claves": [
+    {
+     "nombre": "Radiohead",
+     "quien": "Banda británica de rock formada en Oxford en 1985.",
+     "wiki": "Radiohead"
+    },
+    {
+     "nombre": "Álbum sorpresa",
+     "quien": "Discos lanzados sin aviso previo, una táctica que se volvió común después.",
+     "wiki": "Álbum sorpresa"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué pasó con In Rainbows después de la descarga de «paga lo que quieras»?",
+    "respuesta": "La edición física salió después y llegó al número uno en Reino Unido y Estados Unidos."
+   }
+  },
+  {
+   "materia": "IA y el futuro",
+   "pilar": "futuro",
+   "epoca": "1921",
+   "titulo": "Los primeros robots eran de carne",
+   "dato": "La palabra «robot» nació en una obra de teatro checa estrenada en 1921. Sus robots no eran máquinas de metal: eran seres artificiales de materia orgánica.",
+   "explicacion": "La obra es *R.U.R. (Robots Universales Rossum)*, de Karel Čapek, estrenada en Praga en enero de 1921. Čapek quería llamar a sus criaturas *labori*. Su hermano, el pintor **Josef Čapek**, le sugirió *roboti*, del checo *robota*: trabajo forzado, servidumbre.\n\nEn la obra, los robots se fabrican para trabajar, se rebelan y acaban con la humanidad. Un siglo antes de los debates actuales sobre IA, la palabra ya nació con su pregunta: ¿qué pasa cuando lo que creamos para servir deja de obedecer?",
+   "fuente": {
+    "nombre": "Wikipedia: R.U.R. (Robots Universales Rossum)",
+    "url": "https://es.wikipedia.org/wiki/R.U.R._(Robots_Universales_Rossum)"
+   },
+   "wiki": "R.U.R. (Robots Universales Rossum)",
+   "claves": [
+    {
+     "nombre": "Karel Čapek",
+     "quien": "Escritor checo (1890–1938), autor de la obra que dio nombre a los robots.",
+     "wiki": "Karel Čapek"
+    },
+    {
+     "nombre": "Robot",
+     "quien": "Del checo *robota*, «trabajo forzado».",
+     "wiki": "Robot"
+    },
+    {
+     "nombre": "Historia de los robots",
+     "quien": "De los autómatas antiguos a las máquinas industriales.",
+     "wiki": "Historia de los robots"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Quién inventó la palabra «robot» y qué significa?",
+    "respuesta": "Josef Čapek, para la obra de su hermano Karel (1921). Viene del checo robota, «trabajo forzado»."
+   }
+  },
+  {
+   "materia": "Oficios del lujo y estilo",
+   "pilar": "gusto",
+   "epoca": "Siglo XVII",
+   "titulo": "«Corbata» quiere decir «croata»",
+   "dato": "La corbata llegó a París en el siglo XVII en el cuello de los soldados croatas. Los franceses llamaron *cravate* a la prenda, de *croate*.",
+   "explicacion": "Durante la guerra de los Treinta Años, mercenarios croatas sirvieron a Francia. Llevaban un pañuelo anudado al cuello que llamó la atención en la corte. La moda se extendió con Luis XIV, y en el siglo XVII se formó un regimiento llamado *Royal-Cravate*.\n\nEsa tela anudada es el antepasado de la corbata moderna, que tomó su forma larga a principios del siglo XX. Croacia celebra el Día de la Corbata cada 18 de octubre. Una prenda que hoy significa oficina empezó como uniforme de soldado.",
+   "fuente": {
+    "nombre": "Wikipedia: Corbata",
+    "url": "https://es.wikipedia.org/wiki/Corbata"
+   },
+   "wiki": "Corbata",
+   "claves": [
+    {
+     "nombre": "Croacia",
+     "quien": "El país que reclama, con razón histórica, el origen de la prenda.",
+     "wiki": "Croacia"
+    },
+    {
+     "nombre": "Luis XIV de Francia",
+     "quien": "El rey (1638–1715) cuya corte puso de moda la *cravate*.",
+     "wiki": "Luis XIV de Francia"
+    },
+    {
+     "nombre": "Corbata de lazo",
+     "quien": "La pajarita o moño, prima de la corbata larga.",
+     "wiki": "Corbata de lazo"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿De dónde viene la palabra «corbata»?",
+    "respuesta": "Del francés cravate, de croate: el pañuelo de los soldados croatas en la Francia del siglo XVII."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "Cartas a Lucilio",
+  "autor": "Séneca",
+  "capitulo": {
+   "numero": 6,
+   "total": 6,
+   "titulo": "Cómo tratas a quien está abajo"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/0_S%C3%A9n%C3%A8que_-_Mus%C3%A9e_du_Prado_-_Cat._144_-_(2).JPG?width=900",
+   "alt": "Busto antiguo de mármol de un hombre de mediana edad",
+   "pie": "Busto de Séneca en el Museo del Prado",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "Piensa en la última cena de trabajo a la que fuiste. Quién se sentó, quién sirvió, quién retiró los platos. ¿Recuerdas la cara del mesero? ¿Sabes su nombre?\n\nHace casi dos mil años, Séneca escribió una carta sobre esa pregunta. Es la carta 47, la más citada de toda la colección, y es la última de nuestra lectura. Habla de los [[esclavos|En Roma, personas que eran propiedad legal de otra. Podían ser prisioneros de guerra, hijos de esclavos o deudores. Hacían desde trabajo de campo hasta labores de médico o secretario.]] que servían en las casas romanas. Pero su tema es más amplio: cómo tratas a quien está debajo de ti."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "«Son esclavos». No: son personas"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Lucilio le cuenta a Séneca que trata con familiaridad a sus esclavos. Séneca lo felicita. Y entonces escribe un párrafo que se volvió famoso por su ritmo. Imagina a alguien que objeta, y le contesta una y otra vez:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "«Son esclavos». No: son personas. «Son esclavos». No: compañeros de casa. «Son esclavos». No: amigos humildes. «Son esclavos». No: compañeros de esclavitud, si piensas que la fortuna tiene el mismo poder sobre ellos y sobre nosotros.",
+    "fuente": "Cartas a Lucilio, XLVII, 1"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Fíjate en la técnica: la misma objeción, cuatro respuestas, cada una un paso más allá. La última es la más fuerte. No dice que el esclavo es igual al amo por naturaleza. Dice algo más inquietante: que el amo también puede caer. La fortuna no respeta rangos.\n\nPara un romano esto no era teoría. Séneca recuerda que, después de la derrota de [[Varo|Publio Quintilio Varo, general romano. En el año 9 d. C. perdió tres legiones en el bosque de Teutoburgo, en Germania.]] en Germania, muchos jóvenes de familias ilustres que aspiraban a ser senadores terminaron como esclavos o pastores. Un mal día bastaba."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La cena donde nadie puede toser"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Séneca describe una escena que cualquiera en Roma reconocía. El amo come y bebe sin medida, más de lo que su estómago aguanta. Alrededor, los esclavos están de pie toda la noche, en silencio. No pueden mover los labios ni para hablar. Un ruido, un hipo, una tos, se castiga con el látigo.\n\nUno trincha las aves con movimientos de artista. Otro sirve el vino vestido como mujer, porque así lo quiere el amo. Otro vigila a los invitados para saber a quién adular y a quién volver a invitar.\n\nY de ahí saca una conclusión que parece de hoy. Había un refrán romano: «tienes tantos enemigos como esclavos». Séneca lo corrige:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "No los tenemos como enemigos: los hacemos enemigos.",
+    "fuente": "Cartas a Lucilio, XLVII, 5"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es una frase que vale para cualquier organización. El resentimiento de quien trabaja para ti no viene con el puesto. Lo produce el trato. Los esclavos a los que se les permitía hablar con el amo, dice Séneca, estaban dispuestos a dar la vida por él. Los que vivían en silencio forzado hablaban mal de él a sus espaldas."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según Séneca, ¿de dónde viene la enemistad de los esclavos?",
+    "opciones": [
+     "De su naturaleza, porque ningún esclavo quiere a su amo",
+     "Del trato: los amos los vuelven enemigos",
+     "De los dioses, que castigan a los ricos"
+    ],
+    "correcta": 1,
+    "explicacion": "Séneca corrige el refrán: «no los tenemos como enemigos, los hacemos». El trato produce el resentimiento."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El que esperaba en la puerta"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Séneca cuenta una historia con veneno. **Calisto** había sido esclavo. Su primer amo lo vendió en una subasta, junto con los esclavos que no servían. Años después, Calisto fue liberado y se volvió un hombre poderoso en la corte del emperador.\n\nUn día, su antiguo amo llegó a su puerta a saludarlo. Calisto lo dejó esperando afuera y no lo recibió. El que lo había echado a la lista de los inútiles terminó en la lista de los que no pasan.\n\nSéneca no aplaude ni condena a Calisto. Solo deja la imagen: la rueda gira. El que hoy está arriba puede estar mañana esperando en una puerta."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Calisto no era un personaje inventado. Fue un [[liberto|Antiguo esclavo al que su amo dio la libertad. En Roma, muchos libertos llegaron a ser ricos y, en la casa imperial, muy poderosos.]] que llegó a manejar asuntos de enorme peso en la corte imperial. Los lectores de Séneca sabían quién era. Por eso la historia funcionaba como advertencia y no como fábula."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Una casa romana por dentro"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Para entender la carta conviene imaginar una casa rica de Roma. No era una familia con dos o tres sirvientes. En las grandes casas había decenas o cientos de esclavos, cada uno con una tarea precisa: el portero, el que anunciaba a las visitas, el que cuidaba la ropa, el que leía en voz alta, el médico, el secretario, el contador.\n\nMuchos eran más cultos que sus amos. Algunos venían de Grecia y enseñaban a los hijos de la familia. Otros llevaban las cuentas de negocios enormes. Que esas personas no pudieran toser en una cena no era un detalle de etiqueta: era una manera de recordarles, a cada minuto, quién mandaba.\n\nSéneca conocía bien ese mundo desde dentro. Fue consejero de Nerón y uno de los hombres más ricos del imperio. Por eso su carta tiene fuerza y, a la vez, deja una pregunta incómoda: cuánto de lo que escribía practicaba en su propia casa."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La regla de oro, en versión romana"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Luego viene el centro de la carta. Séneca lo dice como resumen de todo su consejo:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Vive con tu inferior como quisieras que tu superior viviera contigo.",
+    "fuente": "Cartas a Lucilio, XLVII, 11"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es una regla práctica, no un sermón. Cada persona es a la vez superior de alguien e inferior de alguien. El director trata con su equipo y responde a un consejo. El abogado tiene pasantes y comparece ante un juez. Séneca propone una prueba simple: piensa cómo quieres que te trate quien está arriba de ti, y trata así a quien está abajo.\n\nAñade consejos concretos. Invita a algunos esclavos a tu mesa, porque lo merecen, y a otros para que lleguen a merecerlo. No juzgues a una persona por su oficio. Y una línea fina: el oficio lo asigna la suerte; las costumbres, cada quien."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Muéstrame quién no es esclavo"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Al final, Séneca da la vuelta a la palabra. Si alguien insiste en despreciar a un hombre porque es esclavo, Séneca le pide que mire mejor a su alrededor:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Muéstrame quién no es esclavo. Uno es esclavo del deseo, otro de la avaricia, otro de la ambición; todos, de la esperanza y del miedo.",
+    "fuente": "Cartas a Lucilio, XLVII, 17"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Esta es la idea [[estoica|De la escuela fundada por Zenón de Citio hacia 300 a. C.: la libertad verdadera es interior y depende de gobernar los propios deseos y miedos.]] de fondo. Para Séneca, la libertad que importa no es la del documento legal, sino la del carácter. Un cónsul puede ser esclavo de su vanidad. Un esclavo puede ser libre por dentro."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Cuál es la regla que resume la carta 47?",
+    "opciones": [
+     "Trata a cada quien según lo que paga",
+     "Desconfía de quien trabaja para ti",
+     "Vive con tu inferior como quisieras que tu superior viviera contigo"
+    ],
+    "correcta": 2,
+    "explicacion": "Es el centro de la carta (XLVII, 11): una prueba práctica que sirve en cualquier jerarquía."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Lo que la carta no dice",
+    "texto": "Séneca no pidió abolir la esclavitud. Fue un hombre muy rico, con muchos esclavos, y su carta trata del trato, no de la institución. Los historiadores la leen como una de las voces más humanas de su época, y también como un límite de su época. Conviene leerla con las dos cosas en la cabeza."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La carta 47 en una empresa"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Traducida a hoy, la carta deja tres pruebas sencillas. La primera: **cómo hablas de tu equipo cuando no está**. Si en privado los llamas por su puesto y no por su nombre, ya empezaste a hacerlos enemigos.\n\nLa segunda: **quién puede decirte algo incómodo**. Los esclavos que podían hablar con el amo lo defendían; los que callaban por miedo hablaban a sus espaldas. Una empresa donde nadie se atreve a toser en la junta pierde la información que más necesita.\n\nLa tercera: **cómo tratas a quien no te puede ayudar**. A un cliente grande todos lo tratan bien. El carácter se mide con el mensajero, el pasante y el proveedor pequeño."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Fin de las Cartas: lo que nos llevamos"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Con esta carta cerramos seis capítulos con Séneca. Vimos su manera de usar el tiempo, de elegir amigos, de perderle el miedo a la muerte, de no huir de uno mismo. Hoy, la más social de todas: el carácter se ve en cómo tratas a quien no puede devolverte el favor.\n\nUna prueba para esta semana: aprende el nombre de alguien que te sirve todos los días y que nunca te has detenido a ver. El guardia del edificio, la persona de limpieza, el chofer del reparto. Séneca diría que ahí empieza la filosofía."
+   }
+  ],
+  "paraLlevar": [
+   "No los tenemos como enemigos: los hacemos. El resentimiento lo produce el trato.",
+   "Vive con quien está abajo como quisieras que viviera contigo quien está arriba.",
+   "El oficio lo reparte la suerte; las costumbres, cada quien."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Qué refrán romano corrige Séneca en la carta 47?",
+    "respuesta": "«Tienes tantos enemigos como esclavos». Séneca responde que no los tenemos como enemigos, sino que los hacemos."
+   },
+   {
+    "pregunta": "¿Qué enseña la historia de Calisto?",
+    "respuesta": "Que la fortuna gira: el amo que lo vendió como inútil terminó esperando afuera de su puerta sin ser recibido."
+   }
+  ],
+  "proximo": "El arte de la guerra · Capítulo 1: La guerra se gana antes de la batalla",
+  "fuentes": [
+   {
+    "nombre": "Moral letters to Lucilius, carta 47, traducción de Richard M. Gummere (1917), Wikisource",
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_47"
+   },
+   {
+    "nombre": "Wikipedia: Cartas a Lucilio",
+    "url": "https://es.wikipedia.org/wiki/Cartas_a_Lucilio"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de dominio público de Richard M. Gummere (1917), cotejada con el latín. La numeración sigue la división estándar de carta y párrafo."
+ },
+ "palabra": {
+  "palabra": "Magnánimo",
+  "categoria": "Adjetivo",
+  "pronunciacion": "mag-NÁ-ni-mo",
+  "definicion": "Que tiene grandeza de ánimo: generoso con los demás, sobre todo con quienes están por debajo o lo han ofendido, y por encima de las pequeñas venganzas.",
+  "origen": "Del latín *magnanimus*, de *magnus*, «grande», y *animus*, «ánimo, espíritu». Aristóteles hizo de la magnanimidad una de sus virtudes centrales.",
+  "ejemplo": "Fue magnánimo con el proveedor que le falló: renegoció el plazo en vez de exhibirlo ante todo el sector.",
+  "repaso": {
+   "pregunta": "¿Qué significa «magnánimo» y de qué palabras latinas viene?",
+   "respuesta": "Generoso y por encima de las pequeñas venganzas. De magnus, «grande», y animus, «ánimo»."
+  }
+ },
+ "frances": {
+  "frase": "Rome ne s'est pas faite en un jour.",
+  "traduccion": "Roma no se hizo en un día.",
+  "pronunciacion": "ROM ne se pa FET an an YUR",
+  "uso": "Cultura. Es el mismo refrán que en español, con el femenino de Roma en francés (*faite*). Se usa para pedir paciencia con un proyecto largo: una marca, un idioma, una ciudad.",
+  "variante": "Paris ne s'est pas fait en un jour. (París no se hizo en un día.) También se oye en Francia, con la capital propia.",
+  "repaso": {
+   "pregunta": "¿Cómo dices en francés «Roma no se hizo en un día»?",
+   "respuesta": "« Rome ne s'est pas faite en un jour. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Cuál de estas NO es una de las cinco preguntas de Florencia?",
+   "opciones": [
+    "¿Quién revisa las cuentas?",
+    "¿Cómo convenzo a todos de que tengo razón?",
+    "¿Cuál es mi mármol?"
+   ],
+   "correcta": 1,
+   "explicacion": "Las cinco son: quién decide y con qué criterio, quién revisa las cuentas, qué prometo que no controlo, cuál es mi mármol y cómo es, no cómo debería ser."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Por qué bajó el petróleo este lunes?",
+   "opciones": [
+    "Por las pláticas indirectas entre Irán y Estados Unidos para reabrir Ormuz",
+    "Porque la OPEP+ subió su producción de diciembre",
+    "Porque terminó el bloqueo naval estadounidense"
+   ],
+   "correcta": 0,
+   "explicacion": "Irán dijo que siguen las pláticas, con Catar como mediador, sobre un «plan de dos días». La OPEP+ mantuvo su producción sin cambios y el bloqueo sigue."
+  },
+  {
+   "origen": "facts",
+   "pregunta": "¿Por qué el maratón mide 42.195 km?",
+   "opciones": [
+    "Es la distancia exacta de Maratón a Atenas",
+    "La fijó el COI en 1896 para Atenas",
+    "Por la ruta de Londres 1908: de Windsor al estadio, con meta frente al palco real"
+   ],
+   "correcta": 2,
+   "explicacion": "En 1908 la ruta midió 26 millas y 385 yardas. Esa distancia se volvió oficial en 1921."
+  }
+ ],
+ "libro": null,
+ "proximo": "431 a. C.: Pericles convierte un funeral en un manifiesto"
+}
