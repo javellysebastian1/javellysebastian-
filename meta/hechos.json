@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02",
+ "actualizado": "2026-11-03",
  "materias": {
   "Arquitectura y diseño": [
    {
@@ -149,6 +149,42 @@
   ],
   "Ciencia y tecnología": [
    {
+    "materia": "Ciencia y tecnología",
+    "pilar": "futuro",
+    "epoca": "1971",
+    "titulo": "Nadie recuerda qué decía el primer correo electrónico",
+    "dato": "Ray Tomlinson envió en 1971 el primer correo entre dos computadoras. Eligió la @ para separar usuario y máquina. Y olvidó qué escribió.",
+    "explicacion": "Tomlinson trabajaba en la empresa BBN, en Estados Unidos. Mandó mensajes de prueba entre dos computadoras que estaban una junto a otra, conectadas por ARPANET, la red antecesora de internet. Eligió la [[arroba|El símbolo @. Tomlinson lo usó porque no aparecía en los nombres de las personas.]] porque no se usaba en nombres.\n\nSobre el contenido dijo: «Los mensajes de prueba eran del todo olvidables, y por eso los he olvidado». Probablemente era algo como «QWERTYUIOP». Los inventos que cambian el mundo rara vez se sienten históricos el día que nacen.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arpanet_logical_map%2C_march_1977.png?width=900",
+     "alt": "Diagrama de nodos y líneas que conectan computadoras",
+     "pie": "Mapa lógico de ARPANET, marzo de 1977",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Ray Tomlinson",
+     "url": "https://en.wikipedia.org/wiki/Ray_Tomlinson"
+    },
+    "wiki": "Correo electrónico",
+    "claves": [
+     {
+      "nombre": "Arroba",
+      "quien": "El símbolo que Tomlinson eligió para las direcciones de correo.",
+      "wiki": "Arroba (símbolo)"
+     },
+     {
+      "nombre": "Historia de Internet",
+      "quien": "De ARPANET a la red actual.",
+      "wiki": "Historia de Internet"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Por qué Tomlinson eligió la @ para el correo electrónico?",
+     "respuesta": "Porque no aparecía en los nombres de las personas, así que servía para separar usuario y computadora."
+    },
+    "fecha": "2026-11-03"
+   },
+   {
     "claves": [
      {
       "nombre": "Grace Murray Hopper",
@@ -283,6 +319,42 @@
   ],
   "Cine y fotografía": [
    {
+    "materia": "Cine y fotografía",
+    "pilar": "cultura",
+    "epoca": "1827",
+    "titulo": "La primera foto tardó días en tomarse",
+    "dato": "La fotografía más antigua que se conserva hecha con cámara muestra techos vistos desde una ventana en Francia. Su exposición pudo durar varios días.",
+    "explicacion": "Joseph Nicéphore Niépce la hizo en 1827 en su finca de Le Gras, sobre una placa de peltre cubierta con betún de Judea, que se endurece con la luz. La estimación tradicional era de unas 8 horas, porque el sol ilumina los dos lados de los edificios. El Harry Ransom Center, que la guarda, habla de varios días de exposición.\n\nPor eso la imagen se ve tan rara: el sol se movió durante la toma. Niépce llamó a su técnica [[heliografía|«Escritura del sol»: el proceso de Niépce para fijar imágenes con betún sensible a la luz.]]. Doce años después, el daguerrotipo bajó la exposición a minutos.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/View_from_the_Window_at_Le_Gras%2C_Joseph_Nic%C3%A9phore_Ni%C3%A9pce.jpg?width=900",
+     "alt": "Imagen granulada en tonos grises de techos y un edificio",
+     "pie": "Vista desde la ventana en Le Gras, Niépce (1827)",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Harry Ransom Center (Universidad de Texas): The Niépce Heliograph",
+     "url": "https://www.hrc.utexas.edu/niepce-heliograph"
+    },
+    "wiki": "Vista desde la ventana en Le Gras",
+    "claves": [
+     {
+      "nombre": "Joseph Nicéphore Niépce",
+      "quien": "Inventor francés (1765–1833), autor de la foto más antigua conservada.",
+      "wiki": "Joseph Nicéphore Niépce"
+     },
+     {
+      "nombre": "Heliografía",
+      "quien": "Su técnica: fijar la imagen con betún que se endurece con la luz.",
+      "wiki": "Heliografía"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuánto pudo durar la exposición de la primera foto conservada?",
+     "respuesta": "Se estimaba en 8 horas; el Harry Ransom Center habla de varios días. La hizo Niépce en 1827."
+    },
+    "fecha": "2026-11-03"
+   },
+   {
     "claves": [
      {
       "nombre": "Louis Daguerre",
@@ -350,6 +422,42 @@
    }
   ],
   "Ciudades del mundo": [
+   {
+    "materia": "Ciudades del mundo",
+    "pilar": "mundo",
+    "epoca": "1957",
+    "titulo": "Brasilia no se dibujó como un avión",
+    "dato": "Todo el mundo dice que Brasilia tiene forma de avión. Su urbanista, Lúcio Costa, la explicó de otra manera: dos ejes que se cruzan, el signo de la cruz.",
+    "explicacion": "En 1957 Costa ganó el concurso para la nueva capital de Brasil con un plan muy sencillo: dos ejes que se cruzan en ángulo recto, curvados para adaptarse al terreno. Lo describió como el gesto de quien toma posesión de un lugar: el signo de la cruz. La ciudad se inauguró el 21 de abril de 1960.\n\nLo del avión se volvió la lectura popular. Según el Correio Braziliense, Costa lo comparaba más bien con una mariposa. Es un buen recordatorio: una forma no significa lo mismo para quien la diseña que para quien la mira.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brasilia_Congresso_Nacional_05_2007_221.jpg?width=900",
+     "alt": "Dos torres gemelas entre una cúpula y un cuenco de concreto blanco",
+     "pie": "El Congreso Nacional en Brasilia, de Oscar Niemeyer",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Correio Braziliense: É um pássaro? É um avião? Não, é uma borboleta",
+     "url": "https://blogs.correiobraziliense.com.br/candangando/e-um-passaro-e-um-aviao-nao-e-uma-borboleta/"
+    },
+    "wiki": "Plan Piloto de Brasilia",
+    "claves": [
+     {
+      "nombre": "Lúcio Costa",
+      "quien": "Urbanista (1902–1998) que diseñó el plan de Brasilia.",
+      "wiki": "Lúcio Costa"
+     },
+     {
+      "nombre": "Brasilia",
+      "quien": "La capital de Brasil desde 1960, construida en unos cuatro años.",
+      "wiki": "Brasilia"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cómo describió Lúcio Costa el plan de Brasilia?",
+     "respuesta": "Como dos ejes que se cruzan en ángulo recto: el signo de la cruz. Lo del avión es una lectura popular."
+    },
+    "fecha": "2026-11-03"
+   },
    {
     "claves": [
      {
@@ -490,17 +598,6 @@
   ],
   "Deporte y aire libre": [
    {
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "epoca": "1908",
-    "titulo": "El maratón mide 42.195 km por un palco real",
-    "dato": "El primer maratón olímpico no medía 42.195 km. La cifra salió de Londres 1908: la salida en el castillo de Windsor y la meta frente al palco real.",
-    "explicacion": "En los primeros Juegos, la distancia variaba de una edición a otra, alrededor de 40 km. En Londres 1908 la ruta iba del castillo de Windsor al estadio olímpico: 26 millas, más 385 yardas para terminar frente al palco de la familia real. En total, 42.195 km.\n\nEsa carrera la hizo famosa Dorando Pietri, que entró al estadio desorientado, cayó varias veces y fue descalificado porque lo ayudaron a cruzar la meta. La distancia de 1908 se volvió oficial en 1921. Cada maratonista del mundo corre hoy los metros extra de una decisión de protocolo.",
-    "fuente": {
-     "nombre": "Wikipedia: Maratón",
-     "url": "https://es.wikipedia.org/wiki/Maratón"
-    },
-    "wiki": "Maratón",
     "claves": [
      {
       "nombre": "Juegos Olímpicos de Londres 1908",
@@ -518,11 +615,22 @@
       "wiki": "Maratón en los Juegos Olímpicos"
      }
     ],
+    "dato": "El primer maratón olímpico no medía 42.195 km. La cifra salió de Londres 1908: la salida en el castillo de Windsor y la meta frente al palco real.",
+    "epoca": "1908",
+    "explicacion": "En los primeros Juegos, la distancia variaba de una edición a otra, alrededor de 40 km. En Londres 1908 la ruta iba del castillo de Windsor al estadio olímpico: 26 millas, más 385 yardas para terminar frente al palco de la familia real. En total, 42.195 km.\n\nEsa carrera la hizo famosa Dorando Pietri, que entró al estadio desorientado, cayó varias veces y fue descalificado porque lo ayudaron a cruzar la meta. La distancia de 1908 se volvió oficial en 1921. Cada maratonista del mundo corre hoy los metros extra de una decisión de protocolo.",
+    "fecha": "2026-11-02",
+    "fuente": {
+     "nombre": "Wikipedia: Maratón",
+     "url": "https://es.wikipedia.org/wiki/Maratón"
+    },
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
     "repaso": {
      "pregunta": "¿Por qué el maratón mide 42.195 km?",
      "respuesta": "Por la ruta de Londres 1908, del castillo de Windsor al estadio, con meta frente al palco real. Se volvió oficial en 1921."
     },
-    "fecha": "2026-11-02"
+    "titulo": "El maratón mide 42.195 km por un palco real",
+    "wiki": "Maratón"
    },
    {
     "claves": [
@@ -1229,6 +1337,37 @@
   ],
   "Etiqueta y protocolo": [
    {
+    "materia": "Etiqueta y protocolo",
+    "pilar": "gusto",
+    "epoca": "c. 846 a. C.",
+    "titulo": "Uno de los apretones de manos más antiguos sella un pacto entre reyes",
+    "dato": "Hace unos 2,870 años, un relieve asirio mostró a dos reyes estrechándose la mano. No era un saludo: era un tratado.",
+    "explicacion": "En la base del trono de Salmanasar III, rey de Asiria, aparece él tomando la mano del rey babilonio Marduk-zakir-shumi I, hacia 846 a. C. Se halló en 1962 en Nimrud, Irak, y está en el Museo de Irak, en Bagdad. Es una de las representaciones más antiguas que se conocen del gesto.\n\nEl apretón de manos nació como señal de alianza y confianza: mostrar la mano vacía, sin arma. Por eso todavía hoy sella acuerdos antes que cualquier firma.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shalmaneser_III_greets_Marduk-zakir-shumi%2C_detail%2C_front_panel%2C_Throne_Dais_of_Shalmaneser_III_at_the_Iraq_Museum.jpg?width=900",
+     "alt": "Relieve de piedra de dos reyes barbados que se dan la mano",
+     "pie": "Salmanasar III y Marduk-zakir-shumi I. Base del trono, Museo de Irak",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "World History Encyclopedia: Throne dais of Shalmaneser III",
+     "url": "https://www.worldhistory.org/image/10526/throne-dais-of-shalmaneser-iii-front-panel"
+    },
+    "wiki": "Apretón de manos",
+    "claves": [
+     {
+      "nombre": "Salmanasar III",
+      "quien": "Rey de Asiria (858–824 a. C.) que mandó hacer el relieve.",
+      "wiki": "Salmanasar III"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué muestra el relieve del trono de Salmanasar III?",
+     "respuesta": "A Salmanasar III y al rey babilonio Marduk-zakir-shumi I dándose la mano para sellar una alianza, hacia 846 a. C."
+    },
+    "fecha": "2026-11-03"
+   },
+   {
     "claves": [
      {
       "nombre": "Lansquenete",
@@ -1362,17 +1501,6 @@
   ],
   "Filosofía para vivir": [
    {
-    "materia": "Filosofía para vivir",
-    "pilar": "mente",
-    "epoca": "335 a. C.",
-    "titulo": "Los peripatéticos quizá no caminaban",
-    "dato": "Se cuenta que a los alumnos de Aristóteles les decían «peripatéticos» porque él enseñaba caminando. El nombre probablemente viene de otra cosa: un pasillo techado.",
-    "explicacion": "Aristóteles fundó su escuela en el Liceo de Atenas hacia 335 a. C. Ahí había un *perípatos*, un paseo cubierto con columnas donde se reunían. Desde la Antigüedad conviven dos versiones: que el nombre viene del lugar o del hábito de discutir paseando.\n\nMuchos historiadores creen que el lugar dio el nombre y la anécdota vino después, porque explicaba bien la palabra. Es un patrón frecuente: cuando una palabra tiene una historia bonita, la historia suele ser posterior.",
-    "fuente": {
-     "nombre": "Wikipedia: Escuela peripatética",
-     "url": "https://es.wikipedia.org/wiki/Escuela_peripatética"
-    },
-    "wiki": "Escuela peripatética",
     "claves": [
      {
       "nombre": "Aristóteles",
@@ -1390,11 +1518,22 @@
       "wiki": "Peripato"
      }
     ],
+    "dato": "Se cuenta que a los alumnos de Aristóteles les decían «peripatéticos» porque él enseñaba caminando. El nombre probablemente viene de otra cosa: un pasillo techado.",
+    "epoca": "335 a. C.",
+    "explicacion": "Aristóteles fundó su escuela en el Liceo de Atenas hacia 335 a. C. Ahí había un *perípatos*, un paseo cubierto con columnas donde se reunían. Desde la Antigüedad conviven dos versiones: que el nombre viene del lugar o del hábito de discutir paseando.\n\nMuchos historiadores creen que el lugar dio el nombre y la anécdota vino después, porque explicaba bien la palabra. Es un patrón frecuente: cuando una palabra tiene una historia bonita, la historia suele ser posterior.",
+    "fecha": "2026-11-02",
+    "fuente": {
+     "nombre": "Wikipedia: Escuela peripatética",
+     "url": "https://es.wikipedia.org/wiki/Escuela_peripatética"
+    },
+    "materia": "Filosofía para vivir",
+    "pilar": "mente",
     "repaso": {
      "pregunta": "¿De dónde viene probablemente el nombre «peripatético»?",
      "respuesta": "Del perípatos, un paseo techado del Liceo de Atenas, más que del hábito de enseñar caminando."
     },
-    "fecha": "2026-11-02"
+    "titulo": "Los peripatéticos quizá no caminaban",
+    "wiki": "Escuela peripatética"
    },
    {
     "claves": [
@@ -1633,17 +1772,6 @@
   ],
   "Historia y geopolítica": [
    {
-    "materia": "Historia y geopolítica",
-    "pilar": "mundo",
-    "epoca": "1913",
-    "titulo": "El presidente de menos de una hora",
-    "dato": "Pedro Lascuráin fue presidente de México el 19 de febrero de 1913 por unos 45 minutos. Su único acto importante fue nombrar a Victoriano Huerta y renunciar.",
-    "explicacion": "Era el final de la [[Decena Trágica|Los diez días de combates en la Ciudad de México, en febrero de 1913, que terminaron con el derrocamiento de Madero.]]. Madero y Pino Suárez, presos, renunciaron. Por la ley de sucesión, el cargo le tocaba al secretario de Relaciones Exteriores: Lascuráin.\n\nAsumió, nombró a Huerta secretario de Gobernación y renunció de inmediato. Así Huerta llegó a la presidencia con apariencia legal. Días después, Madero y Pino Suárez fueron asesinados. Es un caso de manual: las formas de la ley usadas para cubrir un golpe.",
-    "fuente": {
-     "nombre": "Wikipedia: Pedro Lascuráin",
-     "url": "https://es.wikipedia.org/wiki/Pedro_Lascuráin"
-    },
-    "wiki": "Pedro Lascuráin",
     "claves": [
      {
       "nombre": "Victoriano Huerta",
@@ -1661,11 +1789,22 @@
       "wiki": "Decena Trágica"
      }
     ],
+    "dato": "Pedro Lascuráin fue presidente de México el 19 de febrero de 1913 por unos 45 minutos. Su único acto importante fue nombrar a Victoriano Huerta y renunciar.",
+    "epoca": "1913",
+    "explicacion": "Era el final de la [[Decena Trágica|Los diez días de combates en la Ciudad de México, en febrero de 1913, que terminaron con el derrocamiento de Madero.]]. Madero y Pino Suárez, presos, renunciaron. Por la ley de sucesión, el cargo le tocaba al secretario de Relaciones Exteriores: Lascuráin.\n\nAsumió, nombró a Huerta secretario de Gobernación y renunció de inmediato. Así Huerta llegó a la presidencia con apariencia legal. Días después, Madero y Pino Suárez fueron asesinados. Es un caso de manual: las formas de la ley usadas para cubrir un golpe.",
+    "fecha": "2026-11-02",
+    "fuente": {
+     "nombre": "Wikipedia: Pedro Lascuráin",
+     "url": "https://es.wikipedia.org/wiki/Pedro_Lascuráin"
+    },
+    "materia": "Historia y geopolítica",
+    "pilar": "mundo",
     "repaso": {
      "pregunta": "¿Para qué sirvió la presidencia de 45 minutos de Lascuráin?",
      "respuesta": "Para nombrar a Huerta secretario de Gobernación y renunciar, de modo que Huerta asumiera con apariencia legal."
     },
-    "fecha": "2026-11-02"
+    "titulo": "El presidente de menos de una hora",
+    "wiki": "Pedro Lascuráin"
    },
    {
     "claves": [
@@ -1771,17 +1910,6 @@
   ],
   "IA y el futuro": [
    {
-    "materia": "IA y el futuro",
-    "pilar": "futuro",
-    "epoca": "1921",
-    "titulo": "Los primeros robots eran de carne",
-    "dato": "La palabra «robot» nació en una obra de teatro checa estrenada en 1921. Sus robots no eran máquinas de metal: eran seres artificiales de materia orgánica.",
-    "explicacion": "La obra es *R.U.R. (Robots Universales Rossum)*, de Karel Čapek, estrenada en Praga en enero de 1921. Čapek quería llamar a sus criaturas *labori*. Su hermano, el pintor **Josef Čapek**, le sugirió *roboti*, del checo *robota*: trabajo forzado, servidumbre.\n\nEn la obra, los robots se fabrican para trabajar, se rebelan y acaban con la humanidad. Un siglo antes de los debates actuales sobre IA, la palabra ya nació con su pregunta: ¿qué pasa cuando lo que creamos para servir deja de obedecer?",
-    "fuente": {
-     "nombre": "Wikipedia: R.U.R. (Robots Universales Rossum)",
-     "url": "https://es.wikipedia.org/wiki/R.U.R._(Robots_Universales_Rossum)"
-    },
-    "wiki": "R.U.R. (Robots Universales Rossum)",
     "claves": [
      {
       "nombre": "Karel Čapek",
@@ -1799,11 +1927,22 @@
       "wiki": "Historia de los robots"
      }
     ],
+    "dato": "La palabra «robot» nació en una obra de teatro checa estrenada en 1921. Sus robots no eran máquinas de metal: eran seres artificiales de materia orgánica.",
+    "epoca": "1921",
+    "explicacion": "La obra es *R.U.R. (Robots Universales Rossum)*, de Karel Čapek, estrenada en Praga en enero de 1921. Čapek quería llamar a sus criaturas *labori*. Su hermano, el pintor **Josef Čapek**, le sugirió *roboti*, del checo *robota*: trabajo forzado, servidumbre.\n\nEn la obra, los robots se fabrican para trabajar, se rebelan y acaban con la humanidad. Un siglo antes de los debates actuales sobre IA, la palabra ya nació con su pregunta: ¿qué pasa cuando lo que creamos para servir deja de obedecer?",
+    "fecha": "2026-11-02",
+    "fuente": {
+     "nombre": "Wikipedia: R.U.R. (Robots Universales Rossum)",
+     "url": "https://es.wikipedia.org/wiki/R.U.R._(Robots_Universales_Rossum)"
+    },
+    "materia": "IA y el futuro",
+    "pilar": "futuro",
     "repaso": {
      "pregunta": "¿Quién inventó la palabra «robot» y qué significa?",
      "respuesta": "Josef Čapek, para la obra de su hermano Karel (1921). Viene del checo robota, «trabajo forzado»."
     },
-    "fecha": "2026-11-02"
+    "titulo": "Los primeros robots eran de carne",
+    "wiki": "R.U.R. (Robots Universales Rossum)"
    },
    {
     "claves": [
@@ -1909,6 +2048,37 @@
   ],
   "Inversión y finanzas personales": [
    {
+    "materia": "Inversión y finanzas personales",
+    "pilar": "patrimonio",
+    "epoca": "1790",
+    "titulo": "El experimento de interés compuesto de Franklin duró 200 años",
+    "dato": "Benjamin Franklin dejó 1,000 libras a Boston y otras 1,000 a Filadelfia con una condición: prestarlas a interés durante 200 años.",
+    "explicacion": "Franklin murió en 1790. En su testamento pidió prestar el dinero a jóvenes artesanos y dejarlo crecer cien años, gastar una parte y dejar crecer el resto otros cien. Quería demostrar el poder del [[interés compuesto|Ganar intereses sobre los intereses anteriores, además del capital. El crecimiento se acelera con el tiempo.]].\n\nEn 1990, el fondo de Boston valía casi 5 millones de dólares y el de Filadelfia solo unos 2 millones. Mismo capital, mismo plazo, resultados muy distintos: el tiempo multiplica, pero la administración decide cuánto.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg?width=900",
+     "alt": "Retrato de un hombre mayor de cabello largo y gris con abrigo oscuro",
+     "pie": "Benjamin Franklin, por Joseph Siffred Duplessis (c. 1778)",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Philanthropy Roundtable: What miracle of compound interest?",
+     "url": "https://www.philanthropyroundtable.org/magazine/what-miracle-of-compound-interest/"
+    },
+    "wiki": "Benjamin Franklin",
+    "claves": [
+     {
+      "nombre": "Interés compuesto",
+      "quien": "El mecanismo que Franklin quiso demostrar con su testamento.",
+      "wiki": "Interés compuesto"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuánto valían en 1990 los fondos que Franklin dejó a Boston y Filadelfia?",
+     "respuesta": "Casi 5 millones de dólares el de Boston y unos 2 millones el de Filadelfia, de 1,000 libras cada uno."
+    },
+    "fecha": "2026-11-03"
+   },
+   {
     "claves": [
      {
       "nombre": "The Vanguard Group",
@@ -2000,6 +2170,42 @@
    }
   ],
   "Liderazgo e influencia": [
+   {
+    "materia": "Liderazgo e influencia",
+    "pilar": "caracter",
+    "epoca": "1783",
+    "titulo": "El rey que admiró a su enemigo por soltar el poder",
+    "dato": "Jorge III, el rey contra el que peleó Washington, dijo que si Washington renunciaba al poder sería «el hombre más grande del mundo». Y renunció.",
+    "explicacion": "El 23 de diciembre de 1783, en Annapolis, Washington devolvió al Congreso su nombramiento de comandante en jefe. Tenía al ejército de su lado y pudo haberse quedado con todo. Según el diario del pintor Joseph Farington, el pintor Benjamin West le contó que el rey había dicho: «si lo hace, será el hombre más grande del mundo».\n\nEn la época, el modelo era [[Cincinato|Político romano que, según la tradición, dejó el poder absoluto y volvió a su granja en cuanto pasó la emergencia.]]. La lección sobre liderazgo es incómoda: la autoridad que más se respeta es la de quien puede soltar el poder y lo suelta.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/General_George_Washington_Resigning_his_Commission.jpg?width=900",
+     "alt": "Pintura de un hombre de uniforme de pie ante un salón de legisladores",
+     "pie": "Washington renuncia a su nombramiento, John Trumbull. Capitolio de EE. UU.",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Library of Congress: George Washington, «the greatest man in the world»",
+     "url": "https://blogs.loc.gov/manuscripts/2022/12/george-washington-the-greatest-man-in-the-world/"
+    },
+    "wiki": "George Washington",
+    "claves": [
+     {
+      "nombre": "Jorge III del Reino Unido",
+      "quien": "Rey británico durante la independencia de Estados Unidos.",
+      "wiki": "Jorge III del Reino Unido"
+     },
+     {
+      "nombre": "Cincinato",
+      "quien": "El romano que dejó el poder y volvió al arado; modelo de Washington.",
+      "wiki": "Cincinato"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué dijo Jorge III sobre la posible renuncia de Washington?",
+     "respuesta": "Que si renunciaba al poder sería «el hombre más grande del mundo». Washington renunció el 23 de diciembre de 1783."
+    },
+    "fecha": "2026-11-03"
+   },
    {
     "claves": [
      {
@@ -2146,23 +2352,6 @@
   ],
   "Literatura y mitología": [
    {
-    "materia": "Literatura y mitología",
-    "pilar": "cultura",
-    "epoca": "1571",
-    "titulo": "El «manco de Lepanto» no perdió la mano",
-    "dato": "Cervantes conservó su mano izquierda toda la vida. En la batalla de Lepanto, un disparo se la dejó inútil, pero nunca se la amputaron.",
-    "explicacion": "El 7 de octubre de 1571, Cervantes peleó a bordo de la galera *Marquesa* en Lepanto, aunque estaba enfermo con fiebre. Recibió tres disparos de arcabuz: dos en el pecho y uno en la mano izquierda, que quedó anquilosada. «Manco», en su época, también significaba que una mano no servía.\n\nCervantes estaba orgulloso de esa herida. En el prólogo de la segunda parte del *Quijote* responde a un rival que se burló de él: dice que la perdió «en la más alta ocasión que vieron los siglos». Para él, la mano inútil era una medalla.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Battle_of_Lepanto_1571.jpg?width=900",
-     "alt": "Pintura de una gran batalla naval con galeras y humo",
-     "pie": "La batalla de Lepanto (1571), donde Cervantes recibió tres disparos",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Wikipedia: Miguel de Cervantes",
-     "url": "https://es.wikipedia.org/wiki/Miguel_de_Cervantes"
-    },
-    "wiki": "Miguel de Cervantes",
     "claves": [
      {
       "nombre": "Batalla de Lepanto",
@@ -2175,11 +2364,28 @@
       "wiki": "Don Quijote de la Mancha"
      }
     ],
+    "dato": "Cervantes conservó su mano izquierda toda la vida. En la batalla de Lepanto, un disparo se la dejó inútil, pero nunca se la amputaron.",
+    "epoca": "1571",
+    "explicacion": "El 7 de octubre de 1571, Cervantes peleó a bordo de la galera *Marquesa* en Lepanto, aunque estaba enfermo con fiebre. Recibió tres disparos de arcabuz: dos en el pecho y uno en la mano izquierda, que quedó anquilosada. «Manco», en su época, también significaba que una mano no servía.\n\nCervantes estaba orgulloso de esa herida. En el prólogo de la segunda parte del *Quijote* responde a un rival que se burló de él: dice que la perdió «en la más alta ocasión que vieron los siglos». Para él, la mano inútil era una medalla.",
+    "fecha": "2026-11-02",
+    "fuente": {
+     "nombre": "Wikipedia: Miguel de Cervantes",
+     "url": "https://es.wikipedia.org/wiki/Miguel_de_Cervantes"
+    },
+    "imagen": {
+     "alt": "Pintura de una gran batalla naval con galeras y humo",
+     "credito": "Wikimedia Commons",
+     "pie": "La batalla de Lepanto (1571), donde Cervantes recibió tres disparos",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Battle_of_Lepanto_1571.jpg?width=900"
+    },
+    "materia": "Literatura y mitología",
+    "pilar": "cultura",
     "repaso": {
      "pregunta": "¿Cervantes perdió la mano en Lepanto?",
      "respuesta": "No. Un disparo le dejó inútil la mano izquierda, pero la conservó. «Manco» también significaba eso."
     },
-    "fecha": "2026-11-02"
+    "titulo": "El «manco de Lepanto» no perdió la mano",
+    "wiki": "Miguel de Cervantes"
    },
    {
     "claves": [
@@ -2589,17 +2795,6 @@
   ],
   "Oficios del lujo y estilo": [
    {
-    "materia": "Oficios del lujo y estilo",
-    "pilar": "gusto",
-    "epoca": "Siglo XVII",
-    "titulo": "«Corbata» quiere decir «croata»",
-    "dato": "La corbata llegó a París en el siglo XVII en el cuello de los soldados croatas. Los franceses llamaron *cravate* a la prenda, de *croate*.",
-    "explicacion": "Durante la guerra de los Treinta Años, mercenarios croatas sirvieron a Francia. Llevaban un pañuelo anudado al cuello que llamó la atención en la corte. La moda se extendió con Luis XIV, y en el siglo XVII se formó un regimiento llamado *Royal-Cravate*.\n\nEsa tela anudada es el antepasado de la corbata moderna, que tomó su forma larga a principios del siglo XX. Croacia celebra el Día de la Corbata cada 18 de octubre. Una prenda que hoy significa oficina empezó como uniforme de soldado.",
-    "fuente": {
-     "nombre": "Wikipedia: Corbata",
-     "url": "https://es.wikipedia.org/wiki/Corbata"
-    },
-    "wiki": "Corbata",
     "claves": [
      {
       "nombre": "Croacia",
@@ -2617,11 +2812,22 @@
       "wiki": "Corbata de lazo"
      }
     ],
+    "dato": "La corbata llegó a París en el siglo XVII en el cuello de los soldados croatas. Los franceses llamaron *cravate* a la prenda, de *croate*.",
+    "epoca": "Siglo XVII",
+    "explicacion": "Durante la guerra de los Treinta Años, mercenarios croatas sirvieron a Francia. Llevaban un pañuelo anudado al cuello que llamó la atención en la corte. La moda se extendió con Luis XIV, y en el siglo XVII se formó un regimiento llamado *Royal-Cravate*.\n\nEsa tela anudada es el antepasado de la corbata moderna, que tomó su forma larga a principios del siglo XX. Croacia celebra el Día de la Corbata cada 18 de octubre. Una prenda que hoy significa oficina empezó como uniforme de soldado.",
+    "fecha": "2026-11-02",
+    "fuente": {
+     "nombre": "Wikipedia: Corbata",
+     "url": "https://es.wikipedia.org/wiki/Corbata"
+    },
+    "materia": "Oficios del lujo y estilo",
+    "pilar": "gusto",
     "repaso": {
      "pregunta": "¿De dónde viene la palabra «corbata»?",
      "respuesta": "Del francés cravate, de croate: el pañuelo de los soldados croatas en la Francia del siglo XVII."
     },
-    "fecha": "2026-11-02"
+    "titulo": "«Corbata» quiere decir «croata»",
+    "wiki": "Corbata"
    },
    {
     "claves": [
@@ -2727,17 +2933,6 @@
   ],
   "Productos digitales escalables": [
    {
-    "materia": "Productos digitales escalables",
-    "pilar": "patrimonio",
-    "epoca": "2007",
-    "titulo": "Radiohead dejó que cada quien pusiera el precio",
-    "dato": "En octubre de 2007, Radiohead vendió su disco *In Rainbows* en descarga y dejó que cada comprador eligiera cuánto pagar, incluso nada.",
-    "explicacion": "La banda acababa de terminar su contrato con su disquera y lo publicó por su cuenta, el 10 de octubre de 2007. La firma comScore estimó que la mayoría de quienes lo descargaron no pagó nada, y que el resto pagó en promedio unos 6 dólares. La banda dijo que esas cifras eran inexactas y nunca dio las suyas.\n\nLo interesante vino después: la edición física salió meses más tarde y llegó al número uno en Reino Unido y Estados Unidos. El [[paga lo que quieras|Modelo en el que el comprador decide el precio, a veces con un mínimo.]] funcionó como una enorme campaña de prueba gratuita. Para un producto digital, el precio también puede ser una herramienta de difusión.",
-    "fuente": {
-     "nombre": "Wikipedia: Paga lo que quieras",
-     "url": "https://es.wikipedia.org/wiki/Paga_lo_que_quieras"
-    },
-    "wiki": "Paga lo que quieras",
     "claves": [
      {
       "nombre": "Radiohead",
@@ -2750,11 +2945,22 @@
       "wiki": "Álbum sorpresa"
      }
     ],
+    "dato": "En octubre de 2007, Radiohead vendió su disco *In Rainbows* en descarga y dejó que cada comprador eligiera cuánto pagar, incluso nada.",
+    "epoca": "2007",
+    "explicacion": "La banda acababa de terminar su contrato con su disquera y lo publicó por su cuenta, el 10 de octubre de 2007. La firma comScore estimó que la mayoría de quienes lo descargaron no pagó nada, y que el resto pagó en promedio unos 6 dólares. La banda dijo que esas cifras eran inexactas y nunca dio las suyas.\n\nLo interesante vino después: la edición física salió meses más tarde y llegó al número uno en Reino Unido y Estados Unidos. El [[paga lo que quieras|Modelo en el que el comprador decide el precio, a veces con un mínimo.]] funcionó como una enorme campaña de prueba gratuita. Para un producto digital, el precio también puede ser una herramienta de difusión.",
+    "fecha": "2026-11-02",
+    "fuente": {
+     "nombre": "Wikipedia: Paga lo que quieras",
+     "url": "https://es.wikipedia.org/wiki/Paga_lo_que_quieras"
+    },
+    "materia": "Productos digitales escalables",
+    "pilar": "patrimonio",
     "repaso": {
      "pregunta": "¿Qué pasó con In Rainbows después de la descarga de «paga lo que quieras»?",
      "respuesta": "La edición física salió después y llegó al número uno en Reino Unido y Estados Unidos."
     },
-    "fecha": "2026-11-02"
+    "titulo": "Radiohead dejó que cada quien pusiera el precio",
+    "wiki": "Paga lo que quieras"
    },
    {
     "claves": [
@@ -2831,17 +3037,6 @@
   ],
   "Relaciones y vida social": [
    {
-    "materia": "Relaciones y vida social",
-    "pilar": "caracter",
-    "epoca": "1967",
-    "titulo": "Seis grados, pero casi ninguna carta llegó",
-    "dato": "El famoso experimento de los «seis grados de separación» de Stanley Milgram tuvo un detalle incómodo: la gran mayoría de las cartas nunca llegó a su destino.",
-    "explicacion": "Milgram pidió a personas de Nebraska y Boston que hicieran llegar una carta a un desconocido en Massachusetts, pasándola solo por conocidos. En el informe con Jeffrey Travers de 1969, de 296 cadenas iniciales solo 64 se completaron. Las que llegaron pasaron, en promedio, por unas cinco personas.\n\nLa frase «seis grados» se popularizó después, con una obra de teatro de 1990. Estudios con redes digitales encontraron distancias cortas parecidas. Lo que sí queda claro: estamos más cerca de lo que creemos, pero llegar a alguien depende de a quién conoces y de si se toman la molestia.",
-    "fuente": {
-     "nombre": "Wikipedia: Experimento del mundo pequeño",
-     "url": "https://es.wikipedia.org/wiki/Experimento_del_mundo_pequeño"
-    },
-    "wiki": "Experimento del mundo pequeño",
     "claves": [
      {
       "nombre": "Stanley Milgram",
@@ -2854,11 +3049,22 @@
       "wiki": "Seis grados de separación"
      }
     ],
+    "dato": "El famoso experimento de los «seis grados de separación» de Stanley Milgram tuvo un detalle incómodo: la gran mayoría de las cartas nunca llegó a su destino.",
+    "epoca": "1967",
+    "explicacion": "Milgram pidió a personas de Nebraska y Boston que hicieran llegar una carta a un desconocido en Massachusetts, pasándola solo por conocidos. En el informe con Jeffrey Travers de 1969, de 296 cadenas iniciales solo 64 se completaron. Las que llegaron pasaron, en promedio, por unas cinco personas.\n\nLa frase «seis grados» se popularizó después, con una obra de teatro de 1990. Estudios con redes digitales encontraron distancias cortas parecidas. Lo que sí queda claro: estamos más cerca de lo que creemos, pero llegar a alguien depende de a quién conoces y de si se toman la molestia.",
+    "fecha": "2026-11-02",
+    "fuente": {
+     "nombre": "Wikipedia: Experimento del mundo pequeño",
+     "url": "https://es.wikipedia.org/wiki/Experimento_del_mundo_pequeño"
+    },
+    "materia": "Relaciones y vida social",
+    "pilar": "caracter",
     "repaso": {
      "pregunta": "¿Cuántas de las 296 cadenas de Milgram llegaron a su destino?",
      "respuesta": "Solo 64, con unas cinco personas intermedias en promedio."
     },
-    "fecha": "2026-11-02"
+    "titulo": "Seis grados, pero casi ninguna carta llegó",
+    "wiki": "Experimento del mundo pequeño"
    },
    {
     "claves": [
@@ -3051,6 +3257,36 @@
   ],
   "Retórica y oratoria": [
    {
+    "materia": "Retórica y oratoria",
+    "pilar": "mente",
+    "epoca": "2025",
+    "titulo": "El discurso más largo del Senado no fue un filibustero",
+    "dato": "En 2025, el senador Cory Booker habló 25 horas y 5 minutos seguidos. Rompió un récord de 1957, pero su discurso no intentaba bloquear ninguna votación.",
+    "explicacion": "Booker habló de las 7:00 p. m. del 31 de marzo a las 8:06 p. m. del 1 de abril de 2025. Superó por 47 minutos a Strom Thurmond, que en 1957 habló 24 horas y 18 minutos contra la Ley de Derechos Civiles.\n\nLa diferencia importa: Thurmond hizo un [[filibustero|Táctica parlamentaria de alargar un debate para retrasar o impedir una votación.]] para frenar una ley. Booker no apuntaba a ninguna votación pendiente: su oficina lo llama el discurso individual más largo. Mismo récord, propósitos opuestos.",
+    "fuente": {
+     "nombre": "Oficina del senador Cory Booker: Long speech by the numbers",
+     "url": "https://www.booker.senate.gov/news/press/cory-bookers-long-speech-by-the-numbers"
+    },
+    "wiki": "Cory Booker",
+    "claves": [
+     {
+      "nombre": "Filibusterismo",
+      "quien": "La táctica de hablar sin parar para frenar una votación.",
+      "wiki": "Filibusterismo"
+     },
+     {
+      "nombre": "Filibustero de Strom Thurmond",
+      "quien": "El récord de 1957 contra la Ley de Derechos Civiles.",
+      "wiki": "Filibusterismo de Strom Thurmond contra la Ley de Derechos Civiles de 1957"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Por qué el discurso de 25 horas de Booker no fue un filibustero?",
+     "respuesta": "Porque no buscaba retrasar ni bloquear una votación pendiente; fue el discurso individual más largo del Senado."
+    },
+    "fecha": "2026-11-03"
+   },
+   {
     "claves": [
      {
       "nombre": "Tito Annio Milón",
@@ -3195,6 +3431,42 @@
    }
   ],
   "Salud y longevidad": [
+   {
+    "materia": "Salud y longevidad",
+    "pilar": "cuerpo",
+    "epoca": "1846",
+    "titulo": "El día que una operación dejó de doler",
+    "dato": "Hasta 1846, a los pacientes se les operaba despiertos. El 16 de octubre de ese año, en Boston, un dentista durmió a un joven con éter frente a un auditorio lleno de médicos.",
+    "explicacion": "El dentista William T. G. Morton dio el [[éter|Líquido volátil cuyos vapores, inhalados, producen inconsciencia. Fue uno de los primeros anestésicos.]] y el cirujano John Collins Warren le quitó un tumor vascular a Edward Gilbert Abbott, de 20 años. La sala del Hospital General de Massachusetts se conoce desde entonces como el Ether Dome. Se le atribuye a Warren la frase: «Señores, esto no es un engaño».\n\nLo interesante: Crawford Long ya había usado éter en Georgia en 1842, pero no lo publicó. La historia recuerda a quien demuestra en público, no solo a quien lo hace primero.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Southworth_%26_Hawes_-_First_etherized_operation_%28re-enactment%29.jpg?width=900",
+     "alt": "Daguerrotipo de cirujanos alrededor de un paciente en un anfiteatro",
+     "pie": "Recreación de la primera operación con éter, Southworth & Hawes (c. 1847)",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Ether Dome",
+     "url": "https://en.wikipedia.org/wiki/Ether_Dome"
+    },
+    "wiki": "Anestesia",
+    "claves": [
+     {
+      "nombre": "Éter etílico",
+      "quien": "El compuesto que se usó como anestésico en 1846.",
+      "wiki": "Éter etílico"
+     },
+     {
+      "nombre": "Crawford Williamson Long",
+      "quien": "Médico de Georgia que usó éter en 1842 pero publicó hasta 1849.",
+      "wiki": "Crawford Williamson Long"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué pasó el 16 de octubre de 1846 en Boston?",
+     "respuesta": "La primera demostración pública de una operación con anestesia de éter, dada por Morton, en el Hospital General de Massachusetts."
+    },
+    "fecha": "2026-11-03"
+   },
    {
     "claves": [
      {

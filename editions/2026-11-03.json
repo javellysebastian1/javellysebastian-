@@ -1,0 +1,904 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-03",
+ "numero": 13,
+ "fecha": "2026-11-03",
+ "disponibleDesde": "2026-11-03T08:00:00-06:00",
+ "titulo": "431 a. C.: Pericles convierte un funeral en un manifiesto",
+ "temporada": {
+  "id": "t03",
+  "numero": 3,
+  "titulo": "Grandes discursos que cambiaron la historia",
+  "episodio": 1,
+  "totalEpisodios": 5
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Discurso_funebre_pericles.PNG?width=900",
+  "alt": "Pintura de un orador en una tribuna frente a una multitud, con la Acrópolis al fondo",
+  "pie": "«Pericles pronuncia la oración fúnebre», Philipp Foltz (1852)",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "pregunta": "¿Por qué Steve Jobs anunció «tres productos» en 2007 si era uno solo?",
+   "respuesta": "Para que el público descubriera la sorpresa por sí mismo: un iPod, un teléfono y un comunicador eran un solo aparato, el iPhone.",
+   "origen": "Edición #12"
+  },
+  {
+   "pregunta": "¿Qué refrán romano corrige Séneca en la carta 47?",
+   "respuesta": "«Tienes tantos enemigos como esclavos». Séneca responde: no los tenemos como enemigos, los hacemos.",
+   "origen": "Edición #12"
+  },
+  {
+   "pregunta": "¿Cómo gana dinero Substack?",
+   "respuesta": "Cobra el 10% de lo que los lectores pagan a cada autor por su suscripción.",
+   "origen": "Edición #11"
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n-2026-11-03-petroleo",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-02",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 12,
+    "dondeIbamos": "Ayer en la mañana el Brent bajaba casi 3%, a unos 110 dólares, por las pláticas indirectas entre Irán y Estados Unidos, con Catar como mediador, sobre un «plan de dos días» para reabrir Ormuz."
+   },
+   "titular": "El petróleo se desploma cerca de 8% en un día",
+   "quePaso": "El lunes 2 de noviembre la baja se hizo mucho más grande. El Brent para enero cerró cerca de **104.5 dólares**, con una caída de alrededor de 7.6%. El WTI también cayó más de 7%. Las cifras exactas de cierre varían un poco según la fuente.\n\nLa causa principal: la expectativa de un acuerdo entre Estados Unidos e Irán. Irán dice que reabriría por completo el estrecho de Ormuz en dos días si Washington levanta el bloqueo de sus puertos.",
+   "aMiQue": "El petróleo más barato es alivio para flete, plástico y vidrio, los costos que más pesan en una bebida embotellada. Pero el alivio llega tarde al costo real: los contratos de transporte y empaque se ajustan con semanas de retraso.\n\nEs buen momento para pedir a proveedores que revisen tarifas a la baja si te subieron por combustible. No para bajar tus precios de lista todavía.",
+   "contexto": "**Hecho:** según Revista Petroquímica, la delegación iraní dejó Doha el domingo, pero el canciller Abbás Araghchí confirmó que siguen los contactos por medio de Catar.\n\n**Hecho:** según The Wall Street Journal, citado por Moncloa.com, Estados Unidos hizo el lunes ataques aéreos que llamó «defensivos» sobre la isla iraní de Qeshm, contra posiciones de misiles. La televisión iraní confirmó explosiones.\n\n**Hecho:** el vicepresidente JD Vance dijo que ve «bastante buenas» las posibilidades de un acuerdo. El programa nuclear iraní sigue sin resolverse.\n\n**Interpretación:** el mercado apuesta por la paz, pero ese mismo día hubo bombardeos. Una caída tan rápida puede revertirse igual de rápido.",
+   "queVigilar": "Si tras las elecciones de hoy en Estados Unidos se anuncia el levantamiento del bloqueo, o si los ataques en Qeshm escalan.",
+   "fuentes": [
+    {
+     "nombre": "El blog del Euríbor: El petróleo se desploma un 7,6% (3 nov 2026)",
+     "url": "https://www.euribor.com.es/2026/11/03/precio-petroleo-hoy-3-noviembre-2026/"
+    },
+    {
+     "nombre": "Revista Petroquímica: Brent cayó a US$ 104,50 ante eventuales avances entre EE. UU. e Irán",
+     "url": "https://revistapetroquimica.com/brent-cayo-a-us-10450-ante-eventuales-avances-entre-ee-uu-e-iran/"
+    },
+    {
+     "nombre": "Moncloa.com: El bombardeo de EE. UU. en el estrecho de Ormuz (3 nov 2026)",
+     "url": "https://www.moncloa.com/2026/11/03/ataque-estrecho-ormuz-crudo-espana-3460634/"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-03-agua-gdl",
+   "ambito": "local",
+   "ambitoTexto": "Guadalajara",
+   "fecha": "2026-11-02",
+   "historiaEnCurso": {
+    "id": "agua-gdl",
+    "titulo": "Crisis del agua en Guadalajara",
+    "capitulo": 7,
+    "dondeIbamos": "El 31 de octubre Lemus dijo en video que le tocaba «dar la cara». Anunció el saneamiento de Las Pintas y una rotación de agua limpia, sin fechas de terminación."
+   },
+   "titular": "Lemus: «Asumo mi responsabilidad»; la solución de fondo, hasta marzo de 2027",
+   "quePaso": "El 2 de noviembre el gobernador Pablo Lemus reconoció la gravedad de la crisis de abasto y calidad del agua en la zona metropolitana: «Asumo mi responsabilidad».\n\nPuso por primera vez una fecha: la primera etapa de la ampliación y modernización de la planta Miravalle debe terminar en **marzo de 2027**. También para entonces espera recuperar el agua del sistema antiguo de Chapala. El gobierno dice que intenta adelantar esa fecha.",
+   "aMiQue": "Cuatro meses más de tandeos es un dato para planear. Si tienes oficina, bodega o producción en una zona con rotación, conviene revisar cisterna, filtración y el calendario del SIAPA.\n\nPara una marca de bebidas o suplementos, el agua de proceso no puede depender de la red en estos meses: documenta tu fuente y su análisis.",
+   "contexto": "**Hecho:** según La Razón, hubo tres episodios de contaminación en 2026 (marzo, junio y octubre) en la planta Miravalle 1. El sistema antiguo de Chapala tiene 70 años y puede perder hasta 50% del agua en su canal abierto. Miravalle surte 42% de la red del SIAPA.\n\n**Hecho:** según El Informador, la rotación afecta a cerca de 40% de la ciudad. No hay cortes totales: cada zona tiene de 2 a 3 días de ajuste por semana. La zona 4 (Tlaquepaque y Tonalá) vuelve a tener ajuste el jueves 5 y la zona 6 (Guadalajara, Zapopan, Tlaquepaque) el viernes 6.\n\n**Hecho:** con Conagua se detectaron 150 descargas irregulares en el canal; Conagua dijo el 29 de octubre que se había cerrado cerca de 60%.\n\n**Interpretación:** hay un desfase entre fechas. Conagua habló de obras estatales terminadas en diciembre y mejoras desde enero; Lemus habla ahora de marzo de 2027.",
+   "queVigilar": "Si el gobierno logra adelantar marzo de 2027 y si los colectores quedan listos en diciembre, como dijo Conagua.",
+   "fuentes": [
+    {
+     "nombre": "La Razón: Pablo Lemus asume el reto por crisis del agua y anuncia soluciones para marzo de 2027",
+     "url": "https://www.razon.com.mx/estados/2026/11/02/pablo-lemus-asume-el-reto-por-crisis-del-agua-y-anuncia-soluciones-para-marzo-de-2027/"
+    },
+    {
+     "nombre": "El Informador: Lista de colonias con cortes de agua, lunes 2 de noviembre",
+     "url": "https://www.informador.mx/jalisco/siapa-lista-de-colonias-con-cortes-de-agua-hoy-lunes-2-de-noviembre-en-el-amg-por-los-tandeos-20261102-0031.html"
+    },
+    {
+     "nombre": "El Informador: Clausuran 60% de las descargas irregulares en la presa Las Pintas",
+     "url": "https://www.informador.mx/jalisco/agua-en-guadalajara-clausuran-60-de-las-descargas-irregulares-en-la-presa-las-pintas-20261029-0031.html"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-03-elecciones-eeuu",
+   "ambito": "mundo",
+   "ambitoTexto": "Estados Unidos",
+   "fecha": "2026-11-03",
+   "historiaEnCurso": {
+    "id": "elecciones-eeuu-2026",
+    "titulo": "Elecciones intermedias de Estados Unidos 2026",
+    "capitulo": 2,
+    "dondeIbamos": "Ayer vimos qué se vota: 435 escaños de la Cámara, 35 del Senado y 36 gubernaturas, con la aprobación de Trump en 31% según Reuters/Ipsos."
+   },
+   "titular": "Hoy vota Estados Unidos: más de 58 millones ya lo hicieron por adelantado",
+   "quePaso": "Hoy, martes 3 de noviembre, Estados Unidos elige toda la Cámara de Representantes (435 escaños), 35 escaños del Senado y 36 gubernaturas.\n\nSegún TIME, más de **58 millones** de personas ya votaron por adelantado, más que todo el voto anticipado de las intermedias de 2022. Las primeras casillas cierran a las 6 p. m. del Este (5 p. m. en Guadalajara) y las últimas, en Alaska, a la 1 a. m. del Este del miércoles.",
+   "aMiQue": "No esperes saber esta noche quién controla el Congreso. En 2024 tomó ocho días saber quién ganaba la Cámara. Mientras tanto, el peso puede moverse con cada conteo.\n\nSi tienes que pagar en dólares a un proveedor esta semana, no hace falta adivinar: puedes dividir la compra en partes en lugar de hacerla toda el miércoles en la mañana.",
+   "contexto": "**Hecho:** según Al Jazeera, algunos estados cuentan despacio: California y Washington por el voto por correo; Arizona y Nevada por la revisión de firmas; Alaska y Maine por el voto preferencial, que en Alaska podría llevar a una ronda el 18 de noviembre.\n\n**Hecho:** a la pregunta de si respetará el resultado, Trump respondió: «Lo haré si hay elecciones honestas». Según TIME, también dijo que «por alguna razón, el presidente en funciones no gana las intermedias».\n\n**Hecho:** la última encuesta NYT/Siena en Ohio da a la demócrata Amy Acton 49% contra 43% del republicano Vivek Ramaswamy para gobernador.\n\n**Interpretación:** si los demócratas ganan una cámara, Trump tendría más difícil aprobar leyes, pero conservaría las herramientas de comercio exterior que más afectan a México, como los aranceles.",
+   "queVigilar": "El conteo de la Cámara y de las contiendas al Senado en Michigan, Ohio y Texas, y la reacción del peso y del petróleo el miércoles.",
+   "fuentes": [
+    {
+     "nombre": "Al Jazeera: When will we know the US midterm election results? (3 nov 2026)",
+     "url": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results"
+    },
+    {
+     "nombre": "TIME: Midterm Elections 2026: Live Results, Key Races, and More",
+     "url": "https://time.com/live/2026/11/03/midterm-elections-2026-key-races-live-results-latest-news-updates/"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "Atenas enterraba a sus primeros muertos de guerra. Pericles subió a la tribuna y casi no habló de ellos.",
+    "contexto": "Atenas, invierno del año 431 a. C. Lleva un año en guerra contra Esparta. Como cada invierno de guerra, la ciudad entierra a sus caídos en una ceremonia pública, en el cementerio del [[Cerámico|El barrio de los alfareros de Atenas, a las afueras de la muralla. Ahí estaba el cementerio público donde se enterraba a los caídos en guerra.]].\n\nLos huesos llegan en diez cofres de ciprés, uno por cada tribu. Hay un féretro vacío para los que nunca se encontraron. Las familias lloran. Y la ciudad elige a un orador para despedirlos: **Pericles**, el político más poderoso de Atenas.\n\nSube a una tribuna alta para que la multitud lo oiga. Lo que dice ese día se volverá uno de los discursos más citados de la historia.",
+    "pregunta": "¿De qué habló Pericles casi todo el discurso?",
+    "opciones": [
+     "De las hazañas de cada soldado muerto, uno por uno",
+     "De Atenas: cómo se gobierna, cómo vive y por qué vale la pena",
+     "De los dioses y del más allá que esperaba a los caídos"
+    ],
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pericles_Pio-Clementino_Inv269.jpg?width=900",
+     "alt": "Busto de mármol de un hombre barbado con casco corintio",
+     "pie": "Busto de Pericles, copia romana de un original griego. Museo Pio-Clementino, Vaticano",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Un funeral en medio de una guerra",
+    "texto": "La guerra del Peloponeso había empezado en la primavera de 431 a. C. De un lado, Atenas, potencia del mar, con su flota y su imperio de ciudades aliadas. Del otro, Esparta, potencia de tierra, con el mejor ejército de Grecia.\n\nLa estrategia de Pericles era fría. Encerrar a la población del campo dentro de las murallas, dejar que los espartanos quemaran los cultivos del Ática y golpear con la flota. Muchos atenienses vieron arder sus casas de campo desde la muralla. No estaban contentos.\n\nEl funeral público era una costumbre ateniense. Cada invierno de guerra se enterraba a los caídos juntos, sin distinguir ricos de pobres, y un ciudadano elegido daba un [[epitafio|En la Atenas clásica, el «epitáphios lógos»: el discurso público en honor de los caídos en guerra.]]. Era un género con reglas: elogiar a los antepasados, a los muertos y consolar a los vivos.\n\nPericles tenía un problema. Habían muerto pocos, porque casi no hubo batallas. Y él era el autor de la estrategia que obligaba a la gente a aguantar. Si el discurso fallaba, el costo político era suyo.\n\nConocemos el discurso por [[Tucídides|Historiador ateniense (c. 460–c. 400 a. C.). Fue general en la guerra y escribió su historia como testigo. Es considerado padre de la historia rigurosa.]], que estuvo ahí. Pero él mismo avisa, en el libro I de su *Historia*, que no copia los discursos palabra por palabra. Escribe lo que, a su juicio, la ocasión exigía, apegado lo más posible al sentido general de lo dicho.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thucydides-bust-cutout_ROM.jpg?width=900",
+     "alt": "Busto de mármol de un hombre barbado de mirada seria",
+     "pie": "Busto de Tucídides. Royal Ontario Museum",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "giro",
+    "titulo": "El elogio de los muertos era un elogio de la ciudad",
+    "texto": "La respuesta es la segunda. Pericles apenas dedica unas frases a los caídos. Casi todo el discurso describe a **Atenas**: su forma de gobierno, sus costumbres y su carácter.\n\nDice que su constitución no copia las leyes de los vecinos: «somos más bien un modelo para otros que imitadores». Que el poder está en manos de muchos, no de pocos, y por eso se llama [[democracia|«Gobierno del pueblo». En Atenas, los ciudadanos varones votaban las leyes en la asamblea. Mujeres, esclavos y extranjeros no votaban.]]. Que se asciende por mérito, no por clase. Que los atenienses aman la belleza sin derroche y el saber sin blandura.\n\nY entonces da el giro: por una ciudad así murieron estos hombres. Ustedes, los vivos, deben mirarla cada día hasta enamorarse de ella. El funeral se convierte en un manifiesto. El dolor se transforma en una razón para seguir.\n\nLo que sorprende es lo que vino después. En el verano de 430 a. C. llegó una [[peste|Epidemia que mató a una parte enorme de la población encerrada tras las murallas. Su causa exacta sigue en discusión: se ha propuesto tifus, fiebre tifoidea y otras.]] a la ciudad abarrotada. Pericles murió por ella en 429 a. C. Y Atenas perdió la guerra en 404 a. C. El discurso sobrevivió a la ciudad que describía, y en parte idealizaba: esa democracia excluía a mujeres y esclavos.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Parthenon_in_Athens.jpg?width=900",
+     "alt": "Templo griego de columnas de mármol sobre una colina",
+     "pie": "El Partenón, construido en la época de Pericles (447–432 a. C.)",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "Del caso al porqué",
+    "texto": "Pericles no negó el dolor. Lo subió un nivel: de **quién cayó** a **por qué valía la pena**. Esa es la herramienta.\n\nCuando tengas que hablar en un momento difícil, usa tres pasos:\n\n**1. Reconoce el hecho en pocas frases.** No lo maquilles. Pericles admite que ningún discurso está a la altura de los muertos.\n\n**2. Describe lo que está en juego.** No los números: la forma de vida, los valores, lo que se perdería. Es la parte larga.\n\n**3. Pide algo concreto a los que quedan.** Pericles termina con una tarea para los vivos, no con una lágrima.\n\nFunciona porque la gente aguanta casi cualquier costo si entiende para qué es. Y ojo: la misma herramienta sirve para manipular. Pregúntate siempre si el «porqué» que te venden es real."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "De Gettysburg a una junta difícil",
+    "texto": "En noviembre de 1863, Lincoln habló en el cementerio de Gettysburg, tras una de las batallas más sangrientas de la guerra civil. Antes que él, el orador Edward Everett habló unas dos horas. Lincoln habló un par de minutos.\n\nEl historiador Garry Wills, en un libro que ganó el Pulitzer en 1993, mostró los paralelos con Pericles. Lincoln tampoco nombra a ningún muerto. Habla de la nación y de una tarea: que «el gobierno del pueblo, por el pueblo y para el pueblo» no desaparezca.\n\nEn una empresa pasa lo mismo. El día que cierras una línea de producto, pierdes un cliente grande o recortas un equipo, el discurso que funciona no es la lista de culpables. Es explicar qué marca quieres seguir siendo y qué le toca a cada quien desde mañana.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lincolnatgettysburgbig.jpg?width=900",
+     "alt": "Fotografía antigua de una multitud; al centro, un hombre alto sin sombrero",
+     "pie": "La única fotografía conocida de Lincoln en Gettysburg, 19 de noviembre de 1863",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "La próxima vez que des malas noticias a tu equipo, ¿vas a empezar por el problema o por lo que está en juego?",
+    "texto": "Haz la prueba con algo pequeño: la próxima junta difícil. Una frase para el hecho, tres para el porqué, una para la tarea."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Pericles honró a los muertos explicando por qué valía la pena la ciudad que defendieron."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Tucídides, Historia de la guerra del Peloponeso, libro II (traducción inglesa de Richard Crawley, dominio público)",
+   "url": "https://classics.mit.edu/Thucydides/pelopwar.2.second.html",
+   "minutos": 20
+  },
+  "repaso": [
+   {
+    "pregunta": "¿De qué trató casi todo el discurso fúnebre de Pericles?",
+    "respuesta": "De Atenas: su democracia, sus costumbres y su carácter. El elogio de los muertos se volvió un elogio de la ciudad."
+   },
+   {
+    "pregunta": "¿Qué pasó en Atenas al año siguiente del discurso?",
+    "respuesta": "Llegó la peste (430 a. C.). Pericles murió por ella en 429 a. C. y Atenas perdió la guerra en 404 a. C."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Tucídides, libro II, trad. Richard Crawley (MIT Internet Classics Archive)",
+    "url": "https://classics.mit.edu/Thucydides/pelopwar.2.second.html"
+   },
+   {
+    "nombre": "Wikipedia: Discurso fúnebre de Pericles",
+    "url": "https://es.wikipedia.org/wiki/Discurso_fúnebre_de_Pericles"
+   },
+   {
+    "nombre": "Wikipedia: Plaga de Atenas",
+    "url": "https://es.wikipedia.org/wiki/Plaga_de_Atenas"
+   },
+   {
+    "nombre": "Pulitzer Prize: Garry Wills, Lincoln at Gettysburg (1993)",
+    "url": "https://www.pulitzer.org/winners/garry-wills"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Historia y geopolítica",
+   "pilar": "mundo",
+   "formato": "diaQueCambio",
+   "titulo": "1648: la paz que se negoció en dos ciudades",
+   "contexto": "En 1648, Europa llevaba 30 años de guerra. La [[guerra de los Treinta Años|Conflicto de 1618 a 1648 en el centro de Europa. Empezó como guerra entre católicos y protestantes y terminó como lucha de poder entre potencias.]] había arrasado regiones enteras de Alemania.\n\nPara acabarla, las potencias tuvieron que sentarse a negociar. Pero había un problema práctico: católicos y protestantes no aceptaban ni el orden en que se sentaban ni quién entraba primero a una sala.",
+   "pregunta": "¿Cómo resolvieron dónde negociar?",
+   "opciones": [
+    "En dos ciudades distintas: los católicos en Münster y los protestantes en Osnabrück",
+    "En una sola sala del palacio imperial de Viena",
+    "Por cartas, sin que los delegados se vieran nunca"
+   ],
+   "correcta": 0,
+   "revelacion": "Negociaron en **dos ciudades de Westfalia**, separadas por unos 50 kilómetros. En Münster estaban Francia, el emperador y los estados católicos. En Osnabrück, Suecia, el emperador y los estados protestantes. Los mensajeros iban y venían. El congreso duró de 1643 a 1648 y los tratados principales se firmaron el 24 de octubre de 1648.\n\nDe ahí viene la llamada [[soberanía westfaliana|La idea de que cada Estado manda dentro de su territorio y los demás no deben intervenir. Se suele fechar en 1648.]]: la idea de que cada Estado manda en su territorio. Pero aquí está la sorpresa. Historiadores como Andreas Osiander (2001) sostienen que eso es en buena parte un mito. Los tratados no hablan de soberanía en ese sentido; la idea se le atribuyó a 1648 en los siglos XIX y XX.\n\nLa lección sirve para cualquier negociación: a veces el diseño del lugar importa tanto como el contenido. Y cuidado con las fechas fundacionales: muchas son relatos posteriores.",
+   "idea": "Para negociar entre enemigos, a veces primero hay que diseñar dónde se sientan.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Westfaelischer_Friede_in_Muenster_%28Gerard_Terborch_1648%29.jpg?width=900",
+    "alt": "Pintura de un salón lleno de delegados que levantan la mano para jurar",
+    "pie": "La ratificación de la paz de Münster, Gerard ter Borch (1648)",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Ciudad de Osnabrück: Peace of Westphalia",
+    "url": "https://friedensstadt.osnabrueck.de/en/die-friedensstadt-wo-frieden-geschichte-und-zukunft-hat/peace-of-westphalia"
+   },
+   "wiki": "Paz de Westfalia",
+   "claves": [
+    {
+     "nombre": "Guerra de los Treinta Años",
+     "quien": "La guerra que esta paz terminó (1618–1648).",
+     "wiki": "Guerra de los Treinta Años"
+    },
+    {
+     "nombre": "Soberanía de Westfalia",
+     "quien": "El principio que se le atribuye a 1648, y que hoy se discute.",
+     "wiki": "Soberanía de Westfalia"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué la paz de Westfalia se negoció en dos ciudades?",
+    "respuesta": "Para separar a católicos (Münster) y protestantes (Osnabrück), que no se ponían de acuerdo ni en el protocolo."
+   }
+  },
+  {
+   "materia": "IA y el futuro",
+   "pilar": "futuro",
+   "formato": "adivinaNumero",
+   "titulo": "¿Cuánta electricidad del mundo usan los centros de datos?",
+   "contexto": "Cada pregunta a un asistente de IA, cada video y cada correo pasan por un [[centro de datos|Edificio lleno de servidores que guardan y procesan información. Necesitan electricidad para operar y para enfriarse.]]. Se habla mucho de que la IA «se va a comer la red eléctrica».\n\nEn abril de 2025, la Agencia Internacional de la Energía publicó su primer gran informe sobre energía e IA. Midió cuánto consumieron todos los centros de datos del mundo en 2024.",
+   "pregunta": "¿Qué parte de la electricidad mundial usaron los centros de datos en 2024?",
+   "opciones": [
+    "Cerca de 10%",
+    "Cerca de 25%",
+    "Cerca de 1.5%"
+   ],
+   "correcta": 2,
+   "revelacion": "**Cerca de 1.5%**: unos 415 [[teravatios hora|Un TWh es mil millones de kilovatios hora. Sirve para medir el consumo de países enteros.]] en 2024, según la AIE. Mucho menos de lo que sugieren los titulares.\n\nPero la tendencia es lo que importa. La misma agencia proyecta unos 945 TWh para 2030: más del doble en seis años, con la IA como motor principal. Y el consumo no se reparte parejo: se concentra en pocos lugares, donde un solo centro grande puede pesar tanto como una ciudad en la red local.\n\nLa lección: un número global pequeño puede esconder un problema local enorme. Para México, la pregunta no es si la IA consume mucho en el mundo, sino si hay red y agua donde se quieren instalar los centros, como en Querétaro.",
+   "idea": "Un promedio mundial pequeño puede esconder un problema local enorme.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wikimedia_Foundation_Servers-8055_35.jpg?width=900",
+    "alt": "Pasillo de racks de servidores con luces y cables",
+    "pie": "Servidores de la Fundación Wikimedia",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Agencia Internacional de la Energía: Energy and AI, resumen ejecutivo (2025)",
+    "url": "https://www.iea.org/reports/energy-and-ai/executive-summary"
+   },
+   "wiki": "Centro de procesamiento de datos",
+   "claves": [
+    {
+     "nombre": "Agencia Internacional de la Energía",
+     "quien": "Organismo con sede en París que mide y proyecta el consumo de energía del mundo.",
+     "wiki": "Agencia Internacional de la Energía"
+    },
+    {
+     "nombre": "Modelo extenso de lenguaje",
+     "quien": "El tipo de IA detrás de los asistentes actuales, que se entrena y opera en centros de datos.",
+     "wiki": "Modelo extenso de lenguaje"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánta electricidad mundial usaron los centros de datos en 2024 y cuánto se proyecta para 2030?",
+    "respuesta": "Cerca de 1.5% (unos 415 TWh). La AIE proyecta unos 945 TWh para 2030."
+   }
+  },
+  {
+   "materia": "Arte y pintura",
+   "pilar": "cultura",
+   "formato": "miraEscucha",
+   "titulo": "La escuela de Atenas: dos manos que resumen la filosofía",
+   "contexto": "Entre 1509 y 1511, un pintor de 26 años llamado **Rafael** pintó un fresco en una sala del Vaticano: la [[Estancia de la Signatura|Sala de los Palacios Vaticanos donde se firmaban documentos papales. Rafael la decoró con frescos sobre la teología, la filosofía, la poesía y el derecho.]]. Reunió ahí a los grandes pensadores griegos bajo una arquitectura enorme.\n\nMira al centro, bajo el arco. Caminan dos ancianos. Platón, a la izquierda, lleva su libro *Timeo* y apunta al cielo con un dedo.",
+   "pregunta": "¿Qué hace Aristóteles, a su lado?",
+   "opciones": [
+    "Apunta también al cielo",
+    "Señala un libro abierto en el suelo",
+    "Extiende la mano con la palma hacia la tierra"
+   ],
+   "correcta": 2,
+   "revelacion": "Aristóteles sostiene su *Ética* y extiende la mano **con la palma hacia abajo**. Es un resumen visual de dos filosofías. Platón busca la verdad en las ideas, fuera del mundo visible. Aristóteles la busca aquí, en lo que se puede observar y medir.\n\nAhora mira los detalles. Según los Museos Vaticanos, el pensador sentado y pensativo al frente, Heráclito, es un retrato de **Miguel Ángel**, que pintaba la Capilla Sixtina a unos pasos. No aparece en el boceto preparatorio, así que Rafael lo añadió después. En el extremo derecho, el joven de boina negra que mira hacia ti es el propio **Rafael**. Muchos creen que Platón tiene el rostro de Leonardo.\n\nCómo mirar un cuadro así: primero el centro y los gestos, luego los grupos y al final los bordes. Ahí suelen estar las firmas escondidas.",
+   "idea": "Un buen cuadro puede resumir un debate de dos mil años en dos gestos.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sanzio_01.jpg?width=900",
+    "alt": "Fresco de una gran sala con arcos y decenas de filósofos griegos",
+    "pie": "La escuela de Atenas, Rafael (1509–1511). Palacios Vaticanos",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Museos Vaticanos: La escuela de Atenas",
+    "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/scuola-di-atene.html"
+   },
+   "wiki": "La escuela de Atenas",
+   "claves": [
+    {
+     "nombre": "Rafael Sanzio",
+     "quien": "Pintor del Renacimiento (1483–1520), rival y admirador de Miguel Ángel.",
+     "wiki": "Rafael Sanzio"
+    },
+    {
+     "nombre": "Platón",
+     "quien": "Filósofo ateniense que buscaba la verdad en las ideas.",
+     "wiki": "Platón"
+    },
+    {
+     "nombre": "Aristóteles",
+     "quien": "Alumno de Platón; buscaba la verdad en la observación del mundo.",
+     "wiki": "Aristóteles"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué significan los gestos de Platón y Aristóteles en La escuela de Atenas?",
+    "respuesta": "Platón apunta al cielo (las ideas); Aristóteles extiende la palma hacia la tierra (el mundo observable)."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "sigueDinero",
+   "titulo": "Envato: de una cochera en Sídney a 245 millones de dólares",
+   "contexto": "En 2006, Collis y Cyan Ta'eed, con Jun Rung, empezaron un negocio en una cochera de Sídney. La idea: un [[mercado en línea|Plataforma donde muchos vendedores ofrecen productos a muchos compradores y la plataforma cobra una comisión.]] donde diseñadores de todo el mundo vendieran plantillas de páginas web, gráficos, música y efectos.\n\nEn 2008 lanzaron ThemeForest, para plantillas web. Cada plantilla se diseña una vez y se vende miles de veces. Los autores se quedaban con una parte de cada venta; Envato, con la comisión.",
+   "pregunta": "¿Por cuánto acordó Shutterstock comprar Envato en 2024?",
+   "opciones": [
+    "24.5 millones de dólares",
+    "245 millones de dólares",
+    "2,450 millones de dólares"
+   ],
+   "correcta": 1,
+   "revelacion": "**245 millones de dólares** en efectivo, anunciados el 2 de mayo de 2024. Para entonces, según Shutterstock, los autores de Envato habían ganado más de 1,300 millones de dólares y la empresa tenía unos 650,000 suscriptores.\n\nEsa última cifra explica el cambio clave. Envato pasó de vender plantillas sueltas a vender una **suscripción**, Envato Elements: una cuota mensual para descargar lo que quieras. El ingreso por pieza baja, pero se vuelve recurrente y predecible. Eso es lo que compran los inversionistas.\n\nLa lección: en lo digital, el producto escala, pero el negocio lo define cómo cobras. Un mismo catálogo vale distinto vendido por pieza o por suscripción.",
+   "idea": "El producto digital escala solo; el modelo de cobro decide cuánto vale el negocio.",
+   "fuente": {
+    "nombre": "Shutterstock: anuncio de la compra de Envato (2 de mayo de 2024)",
+    "url": "https://investor.shutterstock.com/node/13651"
+   },
+   "wiki": "Envato",
+   "claves": [
+    {
+     "nombre": "Mercado en línea",
+     "quien": "El modelo de plataforma con muchos vendedores y una comisión.",
+     "wiki": "Mercado en línea"
+    },
+    {
+     "nombre": "Fotografía de stock",
+     "quien": "El negocio de Shutterstock: imágenes listas para licenciar.",
+     "wiki": "Fotografía de stock"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué cambio de modelo hizo valiosa a Envato?",
+    "respuesta": "Pasar de vender plantillas sueltas a una suscripción (Envato Elements), con ingreso recurrente. Shutterstock la compró por 245 millones de dólares en 2024."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Retórica y oratoria",
+   "pilar": "mente",
+   "epoca": "2025",
+   "titulo": "El discurso más largo del Senado no fue un filibustero",
+   "dato": "En 2025, el senador Cory Booker habló 25 horas y 5 minutos seguidos. Rompió un récord de 1957, pero su discurso no intentaba bloquear ninguna votación.",
+   "explicacion": "Booker habló de las 7:00 p. m. del 31 de marzo a las 8:06 p. m. del 1 de abril de 2025. Superó por 47 minutos a Strom Thurmond, que en 1957 habló 24 horas y 18 minutos contra la Ley de Derechos Civiles.\n\nLa diferencia importa: Thurmond hizo un [[filibustero|Táctica parlamentaria de alargar un debate para retrasar o impedir una votación.]] para frenar una ley. Booker no apuntaba a ninguna votación pendiente: su oficina lo llama el discurso individual más largo. Mismo récord, propósitos opuestos.",
+   "fuente": {
+    "nombre": "Oficina del senador Cory Booker: Long speech by the numbers",
+    "url": "https://www.booker.senate.gov/news/press/cory-bookers-long-speech-by-the-numbers"
+   },
+   "wiki": "Cory Booker",
+   "claves": [
+    {
+     "nombre": "Filibusterismo",
+     "quien": "La táctica de hablar sin parar para frenar una votación.",
+     "wiki": "Filibusterismo"
+    },
+    {
+     "nombre": "Filibustero de Strom Thurmond",
+     "quien": "El récord de 1957 contra la Ley de Derechos Civiles.",
+     "wiki": "Filibusterismo de Strom Thurmond contra la Ley de Derechos Civiles de 1957"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué el discurso de 25 horas de Booker no fue un filibustero?",
+    "respuesta": "Porque no buscaba retrasar ni bloquear una votación pendiente; fue el discurso individual más largo del Senado."
+   }
+  },
+  {
+   "materia": "Liderazgo e influencia",
+   "pilar": "caracter",
+   "epoca": "1783",
+   "titulo": "El rey que admiró a su enemigo por soltar el poder",
+   "dato": "Jorge III, el rey contra el que peleó Washington, dijo que si Washington renunciaba al poder sería «el hombre más grande del mundo». Y renunció.",
+   "explicacion": "El 23 de diciembre de 1783, en Annapolis, Washington devolvió al Congreso su nombramiento de comandante en jefe. Tenía al ejército de su lado y pudo haberse quedado con todo. Según el diario del pintor Joseph Farington, el pintor Benjamin West le contó que el rey había dicho: «si lo hace, será el hombre más grande del mundo».\n\nEn la época, el modelo era [[Cincinato|Político romano que, según la tradición, dejó el poder absoluto y volvió a su granja en cuanto pasó la emergencia.]]. La lección sobre liderazgo es incómoda: la autoridad que más se respeta es la de quien puede soltar el poder y lo suelta.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/General_George_Washington_Resigning_his_Commission.jpg?width=900",
+    "alt": "Pintura de un hombre de uniforme de pie ante un salón de legisladores",
+    "pie": "Washington renuncia a su nombramiento, John Trumbull. Capitolio de EE. UU.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Library of Congress: George Washington, «the greatest man in the world»",
+    "url": "https://blogs.loc.gov/manuscripts/2022/12/george-washington-the-greatest-man-in-the-world/"
+   },
+   "wiki": "George Washington",
+   "claves": [
+    {
+     "nombre": "Jorge III del Reino Unido",
+     "quien": "Rey británico durante la independencia de Estados Unidos.",
+     "wiki": "Jorge III del Reino Unido"
+    },
+    {
+     "nombre": "Cincinato",
+     "quien": "El romano que dejó el poder y volvió al arado; modelo de Washington.",
+     "wiki": "Cincinato"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué dijo Jorge III sobre la posible renuncia de Washington?",
+    "respuesta": "Que si renunciaba al poder sería «el hombre más grande del mundo». Washington renunció el 23 de diciembre de 1783."
+   }
+  },
+  {
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "epoca": "1846",
+   "titulo": "El día que una operación dejó de doler",
+   "dato": "Hasta 1846, a los pacientes se les operaba despiertos. El 16 de octubre de ese año, en Boston, un dentista durmió a un joven con éter frente a un auditorio lleno de médicos.",
+   "explicacion": "El dentista William T. G. Morton dio el [[éter|Líquido volátil cuyos vapores, inhalados, producen inconsciencia. Fue uno de los primeros anestésicos.]] y el cirujano John Collins Warren le quitó un tumor vascular a Edward Gilbert Abbott, de 20 años. La sala del Hospital General de Massachusetts se conoce desde entonces como el Ether Dome. Se le atribuye a Warren la frase: «Señores, esto no es un engaño».\n\nLo interesante: Crawford Long ya había usado éter en Georgia en 1842, pero no lo publicó. La historia recuerda a quien demuestra en público, no solo a quien lo hace primero.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Southworth_%26_Hawes_-_First_etherized_operation_%28re-enactment%29.jpg?width=900",
+    "alt": "Daguerrotipo de cirujanos alrededor de un paciente en un anfiteatro",
+    "pie": "Recreación de la primera operación con éter, Southworth & Hawes (c. 1847)",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (inglés): Ether Dome",
+    "url": "https://en.wikipedia.org/wiki/Ether_Dome"
+   },
+   "wiki": "Anestesia",
+   "claves": [
+    {
+     "nombre": "Éter etílico",
+     "quien": "El compuesto que se usó como anestésico en 1846.",
+     "wiki": "Éter etílico"
+    },
+    {
+     "nombre": "Crawford Williamson Long",
+     "quien": "Médico de Georgia que usó éter en 1842 pero publicó hasta 1849.",
+     "wiki": "Crawford Williamson Long"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué pasó el 16 de octubre de 1846 en Boston?",
+    "respuesta": "La primera demostración pública de una operación con anestesia de éter, dada por Morton, en el Hospital General de Massachusetts."
+   }
+  },
+  {
+   "materia": "Cine y fotografía",
+   "pilar": "cultura",
+   "epoca": "1827",
+   "titulo": "La primera foto tardó días en tomarse",
+   "dato": "La fotografía más antigua que se conserva hecha con cámara muestra techos vistos desde una ventana en Francia. Su exposición pudo durar varios días.",
+   "explicacion": "Joseph Nicéphore Niépce la hizo en 1827 en su finca de Le Gras, sobre una placa de peltre cubierta con betún de Judea, que se endurece con la luz. La estimación tradicional era de unas 8 horas, porque el sol ilumina los dos lados de los edificios. El Harry Ransom Center, que la guarda, habla de varios días de exposición.\n\nPor eso la imagen se ve tan rara: el sol se movió durante la toma. Niépce llamó a su técnica [[heliografía|«Escritura del sol»: el proceso de Niépce para fijar imágenes con betún sensible a la luz.]]. Doce años después, el daguerrotipo bajó la exposición a minutos.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/View_from_the_Window_at_Le_Gras%2C_Joseph_Nic%C3%A9phore_Ni%C3%A9pce.jpg?width=900",
+    "alt": "Imagen granulada en tonos grises de techos y un edificio",
+    "pie": "Vista desde la ventana en Le Gras, Niépce (1827)",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Harry Ransom Center (Universidad de Texas): The Niépce Heliograph",
+    "url": "https://www.hrc.utexas.edu/niepce-heliograph"
+   },
+   "wiki": "Vista desde la ventana en Le Gras",
+   "claves": [
+    {
+     "nombre": "Joseph Nicéphore Niépce",
+     "quien": "Inventor francés (1765–1833), autor de la foto más antigua conservada.",
+     "wiki": "Joseph Nicéphore Niépce"
+    },
+    {
+     "nombre": "Heliografía",
+     "quien": "Su técnica: fijar la imagen con betún que se endurece con la luz.",
+     "wiki": "Heliografía"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto pudo durar la exposición de la primera foto conservada?",
+    "respuesta": "Se estimaba en 8 horas; el Harry Ransom Center habla de varios días. La hizo Niépce en 1827."
+   }
+  },
+  {
+   "materia": "Ciudades del mundo",
+   "pilar": "mundo",
+   "epoca": "1957",
+   "titulo": "Brasilia no se dibujó como un avión",
+   "dato": "Todo el mundo dice que Brasilia tiene forma de avión. Su urbanista, Lúcio Costa, la explicó de otra manera: dos ejes que se cruzan, el signo de la cruz.",
+   "explicacion": "En 1957 Costa ganó el concurso para la nueva capital de Brasil con un plan muy sencillo: dos ejes que se cruzan en ángulo recto, curvados para adaptarse al terreno. Lo describió como el gesto de quien toma posesión de un lugar: el signo de la cruz. La ciudad se inauguró el 21 de abril de 1960.\n\nLo del avión se volvió la lectura popular. Según el Correio Braziliense, Costa lo comparaba más bien con una mariposa. Es un buen recordatorio: una forma no significa lo mismo para quien la diseña que para quien la mira.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brasilia_Congresso_Nacional_05_2007_221.jpg?width=900",
+    "alt": "Dos torres gemelas entre una cúpula y un cuenco de concreto blanco",
+    "pie": "El Congreso Nacional en Brasilia, de Oscar Niemeyer",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Correio Braziliense: É um pássaro? É um avião? Não, é uma borboleta",
+    "url": "https://blogs.correiobraziliense.com.br/candangando/e-um-passaro-e-um-aviao-nao-e-uma-borboleta/"
+   },
+   "wiki": "Plan Piloto de Brasilia",
+   "claves": [
+    {
+     "nombre": "Lúcio Costa",
+     "quien": "Urbanista (1902–1998) que diseñó el plan de Brasilia.",
+     "wiki": "Lúcio Costa"
+    },
+    {
+     "nombre": "Brasilia",
+     "quien": "La capital de Brasil desde 1960, construida en unos cuatro años.",
+     "wiki": "Brasilia"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo describió Lúcio Costa el plan de Brasilia?",
+    "respuesta": "Como dos ejes que se cruzan en ángulo recto: el signo de la cruz. Lo del avión es una lectura popular."
+   }
+  },
+  {
+   "materia": "Inversión y finanzas personales",
+   "pilar": "patrimonio",
+   "epoca": "1790",
+   "titulo": "El experimento de interés compuesto de Franklin duró 200 años",
+   "dato": "Benjamin Franklin dejó 1,000 libras a Boston y otras 1,000 a Filadelfia con una condición: prestarlas a interés durante 200 años.",
+   "explicacion": "Franklin murió en 1790. En su testamento pidió prestar el dinero a jóvenes artesanos y dejarlo crecer cien años, gastar una parte y dejar crecer el resto otros cien. Quería demostrar el poder del [[interés compuesto|Ganar intereses sobre los intereses anteriores, además del capital. El crecimiento se acelera con el tiempo.]].\n\nEn 1990, el fondo de Boston valía casi 5 millones de dólares y el de Filadelfia solo unos 2 millones. Mismo capital, mismo plazo, resultados muy distintos: el tiempo multiplica, pero la administración decide cuánto.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg?width=900",
+    "alt": "Retrato de un hombre mayor de cabello largo y gris con abrigo oscuro",
+    "pie": "Benjamin Franklin, por Joseph Siffred Duplessis (c. 1778)",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Philanthropy Roundtable: What miracle of compound interest?",
+    "url": "https://www.philanthropyroundtable.org/magazine/what-miracle-of-compound-interest/"
+   },
+   "wiki": "Benjamin Franklin",
+   "claves": [
+    {
+     "nombre": "Interés compuesto",
+     "quien": "El mecanismo que Franklin quiso demostrar con su testamento.",
+     "wiki": "Interés compuesto"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto valían en 1990 los fondos que Franklin dejó a Boston y Filadelfia?",
+    "respuesta": "Casi 5 millones de dólares el de Boston y unos 2 millones el de Filadelfia, de 1,000 libras cada uno."
+   }
+  },
+  {
+   "materia": "Ciencia y tecnología",
+   "pilar": "futuro",
+   "epoca": "1971",
+   "titulo": "Nadie recuerda qué decía el primer correo electrónico",
+   "dato": "Ray Tomlinson envió en 1971 el primer correo entre dos computadoras. Eligió la @ para separar usuario y máquina. Y olvidó qué escribió.",
+   "explicacion": "Tomlinson trabajaba en la empresa BBN, en Estados Unidos. Mandó mensajes de prueba entre dos computadoras que estaban una junto a otra, conectadas por ARPANET, la red antecesora de internet. Eligió la [[arroba|El símbolo @. Tomlinson lo usó porque no aparecía en los nombres de las personas.]] porque no se usaba en nombres.\n\nSobre el contenido dijo: «Los mensajes de prueba eran del todo olvidables, y por eso los he olvidado». Probablemente era algo como «QWERTYUIOP». Los inventos que cambian el mundo rara vez se sienten históricos el día que nacen.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arpanet_logical_map%2C_march_1977.png?width=900",
+    "alt": "Diagrama de nodos y líneas que conectan computadoras",
+    "pie": "Mapa lógico de ARPANET, marzo de 1977",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (inglés): Ray Tomlinson",
+    "url": "https://en.wikipedia.org/wiki/Ray_Tomlinson"
+   },
+   "wiki": "Correo electrónico",
+   "claves": [
+    {
+     "nombre": "Arroba",
+     "quien": "El símbolo que Tomlinson eligió para las direcciones de correo.",
+     "wiki": "Arroba (símbolo)"
+    },
+    {
+     "nombre": "Historia de Internet",
+     "quien": "De ARPANET a la red actual.",
+     "wiki": "Historia de Internet"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué Tomlinson eligió la @ para el correo electrónico?",
+    "respuesta": "Porque no aparecía en los nombres de las personas, así que servía para separar usuario y computadora."
+   }
+  },
+  {
+   "materia": "Etiqueta y protocolo",
+   "pilar": "gusto",
+   "epoca": "c. 846 a. C.",
+   "titulo": "Uno de los apretones de manos más antiguos sella un pacto entre reyes",
+   "dato": "Hace unos 2,870 años, un relieve asirio mostró a dos reyes estrechándose la mano. No era un saludo: era un tratado.",
+   "explicacion": "En la base del trono de Salmanasar III, rey de Asiria, aparece él tomando la mano del rey babilonio Marduk-zakir-shumi I, hacia 846 a. C. Se halló en 1962 en Nimrud, Irak, y está en el Museo de Irak, en Bagdad. Es una de las representaciones más antiguas que se conocen del gesto.\n\nEl apretón de manos nació como señal de alianza y confianza: mostrar la mano vacía, sin arma. Por eso todavía hoy sella acuerdos antes que cualquier firma.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shalmaneser_III_greets_Marduk-zakir-shumi%2C_detail%2C_front_panel%2C_Throne_Dais_of_Shalmaneser_III_at_the_Iraq_Museum.jpg?width=900",
+    "alt": "Relieve de piedra de dos reyes barbados que se dan la mano",
+    "pie": "Salmanasar III y Marduk-zakir-shumi I. Base del trono, Museo de Irak",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "World History Encyclopedia: Throne dais of Shalmaneser III",
+    "url": "https://www.worldhistory.org/image/10526/throne-dais-of-shalmaneser-iii-front-panel"
+   },
+   "wiki": "Apretón de manos",
+   "claves": [
+    {
+     "nombre": "Salmanasar III",
+     "quien": "Rey de Asiria (858–824 a. C.) que mandó hacer el relieve.",
+     "wiki": "Salmanasar III"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué muestra el relieve del trono de Salmanasar III?",
+    "respuesta": "A Salmanasar III y al rey babilonio Marduk-zakir-shumi I dándose la mano para sellar una alianza, hacia 846 a. C."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "El arte de la guerra",
+  "autor": "Sun Tzu",
+  "capitulo": {
+   "numero": 1,
+   "total": 6,
+   "titulo": "La guerra se gana antes de la batalla"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Enchoen27n3200.jpg?width=900",
+   "alt": "Estatua de piedra de un general chino con un rollo en la mano",
+   "pie": "Estatua de Sun Tzu en Yurihama, Tottori, Japón",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "Imagina que mañana tienes que decidir si entras a un mercado nuevo, demandas a un socio o lanzas una marca contra un gigante. ¿Qué haces primero? La mayoría responde: actuar rápido. Un general chino de hace unos 2,500 años respondería otra cosa: contar.\n\nEmpezamos *El arte de la guerra*, atribuido a [[Sun Tzu|General y estratega chino del siglo VI a. C. según la tradición. Su existencia histórica se discute; el libro pudo compilarse entre los siglos V y III a. C.]]. Son trece capítulos cortos. Los leeremos en seis entregas. Hoy, el primero: «Planes», o como se traduce a menudo, «Los cálculos»."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Un libro de vida o muerte"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El libro abre sin rodeos. No hay saludo ni historia. Hay una advertencia:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "El arte de la guerra es de importancia vital para el Estado. Es asunto de vida o muerte, un camino hacia la seguridad o hacia la ruina. Por eso es un tema que no puede descuidarse.",
+    "fuente": "El arte de la guerra, I, 1–2"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Fíjate en el tono. Sun Tzu no glorifica la guerra. La trata como un asunto demasiado serio para dejarlo al impulso. Esa es la idea central de todo el capítulo: la batalla se decide antes de que empiece, en la cabeza de quien la planea.\n\nEl texto viene del [[periodo de Primaveras y Otoños|Etapa de la historia china (c. 770–476 a. C.) en que el poder de la dinastía Zhou se fragmentó en muchos estados rivales.]] o de poco después, cuando China estaba partida en estados que peleaban sin cesar. Ganar o perder una guerra podía significar que tu estado desapareciera. No había margen para improvisar."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Los cinco factores"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Sun Tzu propone revisar cinco factores antes de cualquier campaña. Son su lista de verificación:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "El arte de la guerra se rige por cinco factores constantes, que deben tenerse en cuenta en las deliberaciones: la Ley Moral, el Cielo, la Tierra, el Comandante, y el Método y la disciplina.",
+    "fuente": "El arte de la guerra, I, 3–4"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Vamos uno por uno, en lenguaje de hoy.\n\n**La Ley Moral** es que la gente esté de acuerdo con su líder, al grado de seguirlo sin miedo al peligro. Hoy diríamos: alineación y legitimidad. Un equipo que no cree en la causa abandona en la primera crisis.\n\n**El Cielo** son las condiciones que no controlas: noche y día, frío y calor, las estaciones. En un negocio: el ciclo económico, el tipo de cambio, la temporada.\n\n**La Tierra** es el terreno: distancias, peligro o seguridad, espacio abierto o pasos estrechos. En un mercado: la geografía, los canales, dónde están tus clientes.\n\n**El Comandante** es el líder, y Sun Tzu le pide cinco virtudes: sabiduría, sinceridad, benevolencia, valor y rigor. Nota que el valor ocupa el cuarto lugar, no el primero.\n\n**El Método y la disciplina** son la organización: la cadena de mando, la logística, el control del gasto. Lo aburrido que gana guerras."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "En el lenguaje de un negocio, ¿a qué se parece más «el Cielo» de Sun Tzu?",
+    "opciones": [
+     "A la calidad de tu equipo directivo",
+     "A las condiciones que no controlas, como la economía o la temporada",
+     "Al presupuesto de publicidad"
+    ],
+    "correcta": 1,
+    "explicacion": "El Cielo son las condiciones externas: clima, estaciones, el paso del tiempo. Hoy equivalen al ciclo económico, la temporada o el tipo de cambio."
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bamboo_book_-_binding_-_UCR.jpg?width=900",
+    "alt": "Libro hecho de tiras de bambú atadas con cordel, con caracteres chinos",
+    "pie": "Copia de El arte de la guerra en tiras de bambú. Universidad de California en Riverside",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Siete preguntas para comparar"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Con los cinco factores, Sun Tzu arma un ejercicio de comparación. Antes de pelear, pregunta: ¿cuál de los dos gobernantes tiene la Ley Moral? ¿Cuál general es más capaz? ¿Quién tiene a su favor el Cielo y la Tierra? ¿Quién aplica mejor la disciplina? ¿Qué ejército es más fuerte? ¿Quién tiene oficiales y soldados mejor entrenados? ¿Quién premia y castiga con más constancia?\n\nY concluye que con estas siete comparaciones puede predecir la victoria o la derrota. No necesita esperar a la batalla.\n\nEs una idea muy moderna. Es lo que hoy hace un buen análisis de competencia: no preguntas «¿somos buenos?», sino «¿somos mejores que este rival, en esto, en este terreno?»."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Toda guerra se basa en el engaño"
+   },
+   {
+    "tipo": "texto",
+    "texto": "A mitad del capítulo llega la frase más famosa del libro:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Toda guerra se basa en el engaño. Por eso, cuando podemos atacar, debemos parecer incapaces; cuando movemos nuestras fuerzas, debemos parecer inactivos; cuando estamos cerca, debemos hacer creer al enemigo que estamos lejos.",
+    "fuente": "El arte de la guerra, I, 18–19"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Suena cínico, pero hay que leerlo en su contexto. Sun Tzu habla de un enemigo en guerra abierta, no de tus clientes ni de tus socios. Lo que enseña es que el adversario decide con la información que tiene. Si controlas lo que ve, influyes en lo que hará.\n\nEn negocios se traduce con cuidado. No significa mentir: significa no anunciar tu jugada antes de tiempo. Una marca que revela su lanzamiento seis meses antes le regala ese tiempo a la competencia.\n\nSun Tzu sigue con una lista de tácticas: si el enemigo es colérico, irrítalo; si está descansado, cánsalo; si está unido, divídelo. Y remata: atácalo donde no está preparado, aparece donde no te espera."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Una historia para entender a Sun Tzu",
+    "texto": "El historiador Sima Qian (siglo II a. C.) cuenta que el rey de Wu puso a prueba a Sun Tzu: «¿Puedes entrenar a mis concubinas?». Sun Tzu formó dos compañías y nombró capitanas a las dos favoritas del rey. Dio una orden y las mujeres se rieron. Explicó de nuevo: si la orden no es clara, la culpa es del general. Volvieron a reírse. Entonces, si la orden ya es clara, la culpa es de las capitanas. Ordenó ejecutarlas, a pesar de las súplicas del rey. Después, nadie volvió a reírse. Es una historia brutal y quizá legendaria, pero ilustra el quinto factor: sin disciplina no hay método."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El templo antes que el campo"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El capítulo cierra con la idea que da sentido a todo lo anterior:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "El general que gana una batalla hace muchos cálculos en su templo antes de pelear. El general que pierde hace pocos cálculos de antemano.",
+    "fuente": "El arte de la guerra, I, 26"
+   },
+   {
+    "tipo": "texto",
+    "texto": "En la China antigua, el templo era el lugar donde el gobernante y sus consejeros deliberaban antes de una campaña. Sun Tzu dice que la victoria se cocina ahí, no en el campo. Muchos cálculos llevan a la victoria; pocos, a la derrota. Ninguno, a la ruina segura.\n\nPiensa en cuántas decisiones de negocio se toman al revés: primero se actúa y luego se calcula, cuando ya hay pérdidas. Sun Tzu propone invertir el orden."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Dónde dice Sun Tzu que se gana una batalla?",
+    "opciones": [
+     "En el campo, con el valor de los soldados",
+     "En el templo, con muchos cálculos hechos antes de pelear",
+     "En la retirada, cuando el enemigo se confía"
+    ],
+    "correcta": 1,
+    "explicacion": "El general que gana hace muchos cálculos en el templo antes de la batalla. El que pierde calcula poco. La victoria se prepara antes."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "¿Quién escribió esto?"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Aquí conviene una nota de honestidad. No sabemos con certeza si Sun Tzu existió. La tradición lo hace general del rey de Wu hacia el año 500 a. C. Muchos historiadores creen que el libro es una compilación, escrita y corregida por varias manos entre los siglos V y III a. C.\n\nLo que sí sabemos es que el texto es muy antiguo. En 1972, en una tumba de la dinastía Han en Yinqueshan, en el este de China, aparecieron tiras de bambú con partes del libro. Tenían más de dos mil años. El texto que leemos hoy se parece mucho al de esas tiras.\n\nEl libro llegó a Occidente tarde. Un jesuita francés lo tradujo en el siglo XVIII, y la versión inglesa de Lionel Giles, de 1910, es la que usamos aquí porque ya es de dominio público. Giles era especialista del Museo Británico y criticó con dureza las traducciones anteriores. Por eso la suya se volvió la referencia durante décadas.\n\nQue el autor sea dudoso no le quita valor al contenido. Lo que importa es que las ideas han resistido 2,000 años de prueba: generales, diplomáticos y empresarios las siguen usando porque funcionan."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Cómo usarlo esta semana"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Toma una decisión que tengas pendiente: un proveedor nuevo, una negociación, un lanzamiento. Pásala por los cinco factores. ¿Tu equipo cree en esto? ¿Qué condiciones externas no controlas? ¿Conoces el terreno? ¿Tienes al líder correcto? ¿Está lista la operación?\n\nDespués haz las siete comparaciones contra tu rival principal. Si pierdes en la mayoría, quizá no es momento de pelear. Y eso, como veremos en el próximo capítulo, también es estrategia: para Sun Tzu, la mejor victoria es la que se gana sin combatir."
+   }
+  ],
+  "paraLlevar": [
+   "La batalla se gana en el templo, con muchos cálculos, antes de pelear.",
+   "Cinco factores: alineación, condiciones, terreno, líder y método.",
+   "No preguntes si eres bueno: pregunta si eres mejor que este rival, en este terreno."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Cuáles son los cinco factores de Sun Tzu?",
+    "respuesta": "La Ley Moral, el Cielo, la Tierra, el Comandante, y el Método y la disciplina."
+   },
+   {
+    "pregunta": "¿Qué cinco virtudes pide Sun Tzu al comandante?",
+    "respuesta": "Sabiduría, sinceridad, benevolencia, valor y rigor."
+   }
+  ],
+  "proximo": "El arte de la guerra · Capítulo 2: Ganar sin combatir",
+  "fuentes": [
+   {
+    "nombre": "Sun Tzu, The Art of War, trad. Lionel Giles (1910), Proyecto Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/132"
+   },
+   {
+    "nombre": "Wikipedia: El arte de la guerra",
+    "url": "https://es.wikipedia.org/wiki/El_arte_de_la_guerra"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de dominio público de Lionel Giles (1910), Proyecto Gutenberg. Plan de lectura: 1) Planes (cap. I); 2) Costo de la guerra y estrategia ofensiva (II–III); 3) Posición y energía (IV–V); 4) Lleno y vacío, maniobra (VI–VII); 5) Variaciones y terreno (VIII–XI); 6) Fuego y espías (XII–XIII)."
+ },
+ "palabra": {
+  "palabra": "Epitafio",
+  "categoria": "Sustantivo",
+  "pronunciacion": "e-pi-TA-fio",
+  "definicion": "Inscripción breve sobre una tumba en honor de quien está enterrado. En la Grecia clásica, también el discurso público en honor de los caídos en guerra.",
+  "origen": "Del griego *epitáphios*, de *epí*, «sobre», y *táphos*, «tumba»: «lo que va sobre la tumba».",
+  "ejemplo": "El mejor epitafio de una empresa no es su logo, sino lo que sus clientes dicen de ella cuando ya no existe.",
+  "repaso": {
+   "pregunta": "¿Qué significa «epitafio» y de qué palabras griegas viene?",
+   "respuesta": "Inscripción o discurso en honor de un muerto. De epí, «sobre», y táphos, «tumba»."
+  }
+ },
+ "frances": {
+  "frase": "Je voudrais prendre la parole.",
+  "traduccion": "Quisiera tomar la palabra.",
+  "pronunciacion": "ye vu-DRÉ prandr la pa-ROL",
+  "uso": "Cultura y negocios. Es la forma educada de pedir turno para hablar en una junta, un brindis o una ceremonia. *Prendre la parole* es también «hablar en público».",
+  "variante": "Si vous me permettez, j'aimerais dire quelques mots. (Si me permiten, quisiera decir unas palabras.)",
+  "repaso": {
+   "pregunta": "¿Cómo pides la palabra en francés en una junta?",
+   "respuesta": "« Je voudrais prendre la parole. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿De qué trató casi todo el discurso fúnebre de Pericles?",
+   "opciones": [
+    "De las hazañas de cada soldado caído",
+    "De los dioses y el más allá",
+    "De Atenas: su gobierno, su vida y por qué valía la pena"
+   ],
+   "correcta": 2,
+   "explicacion": "Pericles apenas habló de los muertos: elogió la ciudad por la que murieron y pidió a los vivos seguir defendiéndola."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Por qué se desplomó el petróleo cerca de 8% el lunes?",
+   "opciones": [
+    "Por la expectativa de un acuerdo entre Estados Unidos e Irán para reabrir Ormuz",
+    "Porque la OPEP+ duplicó su producción",
+    "Porque terminaron las elecciones en Estados Unidos"
+   ],
+   "correcta": 0,
+   "explicacion": "Irán dijo que reabriría Ormuz en dos días si EE. UU. levanta el bloqueo, y Vance ve «bastante buenas» las posibilidades de acuerdo."
+  },
+  {
+   "origen": "hechos",
+   "pregunta": "¿Qué quiso demostrar Benjamin Franklin con las 1,000 libras que dejó a Boston y a Filadelfia?",
+   "opciones": [
+    "Que el oro vale más que el papel",
+    "El poder del interés compuesto a 200 años",
+    "Que las ciudades administran mejor que los bancos"
+   ],
+   "correcta": 1,
+   "explicacion": "Pidió prestar el dinero a interés por 200 años. En 1990 el fondo de Boston valía casi 5 millones de dólares y el de Filadelfia unos 2 millones."
+  }
+ ],
+ "libro": null,
+ "proximo": "1588: Isabel I en Tilbury, un discurso a caballo"
+}

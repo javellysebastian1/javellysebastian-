@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02",
+ "actualizado": "2026-11-03",
  "lista": [
   {
    "episodios": [
@@ -57,8 +57,8 @@
      "titulo": "1513: Maquiavelo escribe en el exilio"
     },
     {
-     "titulo": "Síntesis: lo que Florencia enseña sobre arte, dinero y poder",
-     "fecha": "2026-11-02"
+     "fecha": "2026-11-02",
+     "titulo": "Síntesis: lo que Florencia enseña sobre arte, dinero y poder"
     }
    ],
    "estado": "terminada",
@@ -70,7 +70,8 @@
   {
    "episodios": [
     {
-     "titulo": "431 a. C.: Pericles convierte un funeral en un manifiesto"
+     "titulo": "431 a. C.: Pericles convierte un funeral en un manifiesto",
+     "fecha": "2026-11-03"
     },
     {
      "titulo": "1588: Isabel I en Tilbury, un discurso a caballo"
