@@ -1,0 +1,886 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-04",
+ "numero": 14,
+ "fecha": "2026-11-04",
+ "disponibleDesde": "2026-11-04T08:00:00-06:00",
+ "titulo": "1588: Isabel I en Tilbury, un discurso a caballo",
+ "temporada": {
+  "id": "t03",
+  "numero": 3,
+  "titulo": "Grandes discursos que cambiaron la historia",
+  "episodio": 2,
+  "totalEpisodios": 5
+ },
+ "libro": null,
+ "proximo": "1940: Churchill y las playas, cómo hablar cuando vas perdiendo",
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth_I_(Armada_Portrait).jpg?width=900",
+  "alt": "Retrato de una reina con vestido bordado de perlas; detrás, dos ventanas con barcos en el mar",
+  "pie": "El «Retrato de la Armada» de Isabel I (c. 1588). Por las ventanas se ve la flota española, primero amenazante y luego hundida en la tormenta",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "origen": "Edición #13",
+   "pregunta": "¿De qué habló Pericles casi todo su discurso fúnebre?",
+   "respuesta": "De Atenas: su gobierno, sus costumbres y por qué valía la pena defenderla. Los muertos casi no aparecen."
+  },
+  {
+   "origen": "Edición #13",
+   "pregunta": "¿Por qué la paz de Westfalia (1648) se negoció en dos ciudades?",
+   "respuesta": "Para separar a católicos (Münster) y protestantes (Osnabrück), que ni en el protocolo se ponían de acuerdo."
+  },
+  {
+   "origen": "Edición #13",
+   "pregunta": "¿Cuáles son los cinco factores de Sun Tzu?",
+   "respuesta": "La Ley Moral, el Cielo, la Tierra, el Comandante, y el Método y la disciplina."
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n-2026-11-04-congreso-eeuu",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-04",
+   "historiaEnCurso": {
+    "id": "elecciones-eeuu-2026",
+    "titulo": "Elecciones intermedias de Estados Unidos 2026",
+    "capitulo": 3,
+    "dondeIbamos": "Ayer era el día de la elección: más de 58 millones de votos anticipados y la advertencia de que el conteo de la Cámara podía tardar días, como en 2024."
+   },
+   "titular": "Los demócratas ganan las dos cámaras del Congreso, según las proyecciones",
+   "quePaso": "Antes de la elección, los republicanos tenían la Cámara 219–214 y el Senado 53–47. Esta madrugada, según el blog en vivo del *Washington Examiner*, los demócratas pasaron los **218 escaños** que dan la mayoría en la Cámara. Según Forbes, la agencia **AP proyectó el Senado** para los demócratas.\n\nHubo resultados de peso. En Texas, Ken Paxton reconoció su derrota ante el demócrata James Talarico. En Maine, la senadora republicana Susan Collins reconoció su derrota ante Troy Jackson. En Michigan, AP proyectó a Abdul El-Sayed para el Senado. Todavía no hay conteo final de escaños: faltan estados como Montana, Nebraska, Mississippi y Alaska.",
+   "aMiQue": "Un Congreso en manos de la oposición le pone freno a la Casa Blanca, también en comercio. Gabriela Siller, de Banco Base, lo resumió así: un Congreso dividido «podría complicar para Trump la imposición de nuevos aranceles».\n\nPara quien importa insumos o vende a Estados Unidos desde Jalisco, eso reduce un riesgo, pero no lo elimina: muchos aranceles se imponen por decreto. Lo sensato es no cambiar contratos ni precios por un titular, y vigilar qué hace el nuevo Congreso a partir de enero.",
+   "contexto": "**Hecho:** en Truth Social, Trump escribió la noche del martes: «No estaba en la boleta, y si hubiera estado, habríamos ganado de forma aplastante». Según Forbes, más tarde, en una llamada a Fox News, reconoció los triunfos demócratas y los felicitó.\n\n**Hecho:** según la encuesta de salida de NBC, citada por eldiario.es, 62% desaprueba a Trump y 75% dice que la economía está mal.\n\n**Interpretación:** *El Tiempo* sostiene que el nuevo Congreso podrá restringir de forma considerable los poderes del presidente. Las proyecciones de los medios no son resultados oficiales; la certificación llega semanas después.",
+   "queVigilar": "El conteo final de la Cámara, los estados pendientes del Senado y si Trump y los líderes demócratas anuncian acuerdos o choques en las primeras semanas.",
+   "fuentes": [
+    {
+     "nombre": "Forbes: Trump congratulates Democrats, says he accepts election results (4 nov 2026)",
+     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/11/04/trump-congratulates-democrats-says-he-accepts-election-results/"
+    },
+    {
+     "nombre": "Washington Examiner: 2026 midterm elections live updates",
+     "url": "https://www.washingtonexaminer.com/live-blog/2026-midterm-elections-live-updates/?highlight=4784792"
+    },
+    {
+     "nombre": "El Tiempo: Resultados elecciones intermedias en Estados Unidos (4 nov 2026)",
+     "url": "https://www.eltiempo.com/mundo/eeuu-y-canada/resultados-elecciones-intermedias-en-estados-unidos-democratas-derrotan-a-republicanos-y-toman-el-control-total-del-congreso-segun-proyecciones-3598282"
+    },
+    {
+     "nombre": "eldiario.es: Elecciones en EE. UU. 2026 en directo",
+     "url": "https://www.eldiario.es/internacional/elecciones-legislativas-eeuu-directo-abren-primeros-colegios-electorales-jornada-clave-futuro-trump_133_13633926.html"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-04-peso",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-11-04",
+   "titular": "El peso cae 1.40% por el miedo electoral, y el jueves decide Banxico",
+   "quePaso": "El martes 3 de noviembre, mientras Estados Unidos votaba, el peso cerró en **18.83 por dólar** en el mercado interbancario, con una caída de **1.40%** (unos 26 centavos), según datos de Banxico citados por Publimetro. En el día se movió entre 18.60 y 18.86. Fue la segunda moneda más depreciada del día, solo detrás del peso colombiano.\n\nLa bolsa fue en sentido contrario: el S&P/BMV IPC subió 0.58%, a 70,184.33 puntos. Hoy miércoles, el tipo de cambio FIX publicado en el Diario Oficial es de **18.7592**.",
+   "aMiQue": "Si tu producto lleva botellas, empaques o ingredientes importados, un peso más débil encarece el siguiente pedido aunque tu precio de venta no se mueva. Un movimiento de un día no justifica subir precios, pero sí revisar cuánto de tu costo está en dólares.\n\nLa fecha clave es mañana: si Banxico baja la tasa, el peso puede presionarse más.",
+   "contexto": "**Hecho:** la tasa de Banxico está en 6.50% y la diferencia con la de Estados Unidos es de 250 puntos base, su mínimo histórico, según Banco Base.\n\n**Interpretación:** Gabriela Siller dice que un recorte de 25 puntos bajaría ese diferencial a 225 y «disminuiría aún más el atractivo de mantener inversiones denominadas en pesos mexicanos», lo que podría acercar el dólar a 19 pesos. Es una proyección, no un hecho.",
+   "queVigilar": "La decisión de política monetaria de Banxico del jueves 5 de noviembre y la reacción del peso ya con los resultados electorales conocidos.",
+   "fuentes": [
+    {
+     "nombre": "Publimetro: Elecciones en EE. UU. golpean al peso y dólar roza 19 pesos",
+     "url": "https://www.publimetro.com.mx/noticias/2026/11/04/elecciones-ee-uu-golpean-peso-dolar-roza-19-pesos/"
+    },
+    {
+     "nombre": "La Razón: Peso mexicano se deprecia 1.40% y BMV gana terreno",
+     "url": "https://www.razon.com.mx/negocios/2026/11/04/peso-mexicano-se-deprecia-140-y-bmv-gana-terreno/"
+    },
+    {
+     "nombre": "N+: Tipo de cambio peso-dólar, miércoles 4 de noviembre",
+     "url": "https://www.nmas.com.mx/economia/dolar/como-esta-tipo-de-cambio-peso-dolar-estadounidense-mexico-miercoles-4-noviembre-2026/"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "Inglaterra esperaba una invasión. Su reina, de 54 años, se subió a un caballo y fue a hablarle a sus soldados.",
+    "contexto": "Agosto de 1588. La [[Armada Invencible|La gran flota que Felipe II de España envió en 1588 contra Inglaterra. El nombre «Invencible» se lo pusieron después, con ironía, los propios ingleses.]], con unos 130 barcos, ha llegado al canal de la Mancha. Su misión: escoltar al ejército del duque de Parma, que espera en Flandes, para cruzar e invadir Inglaterra.\n\nInglaterra no tiene un ejército profesional. Tiene milicias de campesinos y artesanos, reunidas a toda prisa en un campamento en **Tilbury**, a orillas del Támesis, al este de Londres.\n\nEl 9 de agosto (según el calendario inglés de entonces), la reina Isabel I llega al campamento y habla a sus tropas. Lo que dijo se volvió una de las frases más citadas de la historia inglesa.",
+    "pregunta": "Cuando Isabel habló en Tilbury, ¿dónde estaba la Armada española?",
+    "opciones": [
+     "Anclada frente a Calais, lista para cruzar esa misma noche",
+     "Ya derrotada en Gravelinas y huyendo hacia el norte, rodeando Escocia",
+     "Desembarcando tropas en la costa de Kent"
+    ]
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Una reina entre hombres armados",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Dudley,_1st_Earl_of_Leicester.jpg?width=900",
+     "alt": "Retrato de un hombre de barba con gorguera blanca y jubón oscuro",
+     "pie": "Robert Dudley, conde de Leicester, jefe del campamento de Tilbury y amigo de la reina desde la infancia",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "Isabel llevaba treinta años en el trono. Era hija de Enrique VIII y Ana Bolena, protestante, soltera y sin hijos. En 1570 el papa la había excomulgado. Para Felipe II, invadir Inglaterra era a la vez una guerra política y una cruzada.\n\nEl 8 de agosto salió del palacio de St James en la barcaza real, río abajo. Revisó a las tropas ese día y durmió en una casa a unos cinco kilómetros. El campamento lo mandaba [[Robert Dudley|Conde de Leicester (1532–1588). Favorito y amigo cercano de Isabel I durante décadas. Murió pocas semanas después de Tilbury.]], conde de Leicester, su favorito de toda la vida.\n\nSus consejeros tenían miedo. Una reina excomulgada, caminando entre miles de hombres armados, era un blanco fácil para un asesino. Ella fue de todos modos.\n\nEl 9 de agosto pasó revista a caballo. Leicester iba a su derecha; el joven conde de Essex, a su izquierda. Cuántos soldados la escucharon no se sabe bien. El cronista William Camden habló de 23,000, una cifra que los historiadores consideran inflada. Los cálculos modernos hablan de unos miles.\n\nY entonces habló. Según la versión más aceptada, empezó así: «Mi pueblo amado»."
+   },
+   {
+    "tipo": "giro",
+    "titulo": "Un discurso para una batalla que ya había pasado",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Loutherbourg-Spanish_Armada.jpg?width=900",
+     "alt": "Pintura de barcos de vela entre humo y llamas en un mar agitado",
+     "pie": "«La derrota de la Armada española», Philip James de Loutherbourg (1796)",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "La respuesta es la segunda. Once días antes, en la [[batalla de Gravelinas|Combate naval del 8 de agosto de 1588 (calendario actual), frente a la costa de Flandes. Los barcos ingleses, más ágiles, dispersaron a la Armada.]], la flota inglesa había roto la formación española. La Armada, empujada por el viento, huía hacia el norte para volver a España rodeando Escocia e Irlanda.\n\nPero en Tilbury nadie lo sabía con certeza. El ejército de Parma seguía en Flandes y podía cruzar. Por eso Isabel habló como si la batalla estuviera por venir. Y dijo la frase famosa:\n\n«Sé que tengo el cuerpo de una mujer débil y frágil, pero tengo el corazón y el estómago de un rey, y de un rey de Inglaterra».\n\nFíjate en el truco. Isabel dice primero lo que todos pensaban de ella y lo que sus enemigos usaban en su contra: es mujer. Lo concede. Y en la misma frase lo convierte en fuerza. Luego remata: le parece un «desprecio inmundo» que Parma, España o cualquier príncipe de Europa se atreva a invadir su reino.\n\nAhora la letra pequeña. La versión que todos citan viene de una carta del capellán Leonel Sharp, que estaba en Tilbury, al duque de Buckingham. Se imprimió en **1654**, 66 años después. Hay otras versiones: una en verso de 1588 y un sermón de 1612. Muchos historiadores la aceptan; otros dudan. Y la armadura plateada que aparece en tantas pinturas es, probablemente, un adorno posterior."
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "Nombra tu debilidad antes que el rival",
+    "texto": "Los retóricos clásicos la llamaban [[concesión|Figura retórica en la que el orador admite parte de lo que dice el adversario para después darle la vuelta o restarle peso.]]: admites algo que juega en tu contra y, en la misma frase, le das la vuelta.\n\nFunciona por tres razones. Primero, quita el arma al rival: lo que tú ya dijiste no puede usarse como revelación. Segundo, te da credibilidad: quien reconoce un punto débil parece honesto. Tercero, prepara el contraste: «débil y frágil» hace que «corazón de rey» suene más fuerte.\n\n**Cómo usarla en tres pasos:**\n\n1. Identifica la objeción que todos piensan y nadie dice.\n2. Dila tú primero, en palabras simples y sin disculparte.\n3. Pon justo después el argumento que la supera. La palabra clave es «pero».\n\nUn límite: solo funciona si el «pero» es verdad. Si no tienes con qué superar la debilidad, la concesión solo la confirma."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Del número dos de las rentas de autos a tu próxima presentación",
+    "texto": "En 1962, la agencia Doyle Dane Bernbach hizo para la arrendadora de autos Avis una campaña que se estudia hasta hoy: «Somos el número dos. Nos esforzamos más». Avis admitía que no era el líder, Hertz sí, y convertía esa desventaja en una promesa: autos más limpios, filas más cortas.\n\nEn México pasa igual. Una marca joven de bebidas que entra a un anaquel dominado por gigantes puede decir: «Somos pequeños; por eso cada lote lo probamos nosotros». Un abogado joven ante un cliente nuevo: «No tengo treinta años de despacho; tengo tiempo para leer su expediente completo». En los dos casos, la debilidad dicha primero deja de ser una objeción y se vuelve la razón para elegirte."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿Cuál es la debilidad que todos ven en tu marca o en ti, y que todavía no has dicho tú primero?",
+    "texto": "Piensa en tu próxima junta, venta o negociación. Si la otra parte va a pensar «son nuevos», «son caros» o «son chicos», dilo tú, y dilo con su «pero» listo."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Quien nombra primero su debilidad le quita el arma al rival."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "The Whore of Babylon: The Legacy of Tilbury (ensayo sobre las versiones del discurso), Digital Renaissance Editions, Universidad de Victoria",
+   "url": "https://digitalrenaissance.uvic.ca/doc/WoB_Tilbury/complete/?view=print",
+   "minutos": 10
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Cuál es la frase más famosa del discurso de Tilbury?",
+    "respuesta": "«Sé que tengo el cuerpo de una mujer débil y frágil, pero tengo el corazón y el estómago de un rey, y de un rey de Inglaterra»."
+   },
+   {
+    "pregunta": "¿Por qué el texto del discurso está en duda?",
+    "respuesta": "La versión más citada viene de una carta de Leonel Sharp impresa en 1654, 66 años después; hay otras versiones distintas."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Wikipedia (inglés): Speech to the Troops at Tilbury",
+    "url": "https://en.wikipedia.org/wiki/Speech_to_the_Troops_at_Tilbury"
+   },
+   {
+    "nombre": "Royal Museums Greenwich: Queen Elizabeth I's speech to the troops at Tilbury",
+    "url": "https://www.rmg.co.uk/stories/topics/queen-elizabeth-speech-troops-tilbury"
+   },
+   {
+    "nombre": "Historic UK: Queen Elizabeth I and the Tilbury Speech",
+    "url": "https://www.historic-uk.com/HistoryUK/HistoryofEngland/Elizabeth-I-Tilbury-Speech/"
+   },
+   {
+    "nombre": "Women Writers Online: texto de Cabala (1654)",
+    "url": "https://wwo.wwp.northeastern.edu/WWO/xq/view/elizabeth.tilburycabala.xml"
+   },
+   {
+    "nombre": "Kent Archaeological Society: Queen Elizabeth I, Tilbury and Kent",
+    "url": "https://kentarchaeology.org.uk/journal/104/queen-elizabeth-i-tilbury-and-kent"
+   }
+  ]
+ },
+ "palabra": {
+  "palabra": "Arenga",
+  "categoria": "Sustantivo",
+  "pronunciacion": "a-REN-ga",
+  "definicion": "Discurso, generalmente breve y enérgico, para levantar el ánimo de quienes escuchan, sobre todo de soldados antes de una batalla.",
+  "origen": "Del gótico *hriggs*, «círculo» o «reunión»: la asamblea en círculo donde se hablaba al pueblo.",
+  "ejemplo": "La arenga de Isabel en Tilbury duró unos minutos y Inglaterra la sigue citando más de cuatro siglos después.",
+  "repaso": {
+   "pregunta": "¿Qué es una arenga?",
+   "respuesta": "Un discurso breve y enérgico para levantar el ánimo, sobre todo de soldados antes de pelear."
+  }
+ },
+ "frances": {
+  "frase": "Je n'ai qu'une parole.",
+  "traduccion": "Solo tengo una palabra (cumplo lo que digo).",
+  "pronunciacion": "ye ne KÚN pa-ROL",
+  "uso": "Negocios y carácter. Se dice al cerrar un trato o al confirmar un compromiso: «lo que dije, eso haré». El *ne… que* significa «solo».",
+  "variante": "Vous avez ma parole. (Tiene usted mi palabra.)",
+  "repaso": {
+   "pregunta": "¿Cómo dices en francés «soy de una sola palabra»?",
+   "respuesta": "« Je n'ai qu'une parole. »"
+  }
+ },
+ "materias": [
+  {
+   "materia": "Filosofía para vivir",
+   "pilar": "mente",
+   "formato": "dilema",
+   "titulo": "La máquina de experiencias: ¿te conectarías?",
+   "contexto": "En 1974, el filósofo de Harvard Robert Nozick propuso un experimento mental en su libro *Anarquía, Estado y utopía*.\n\nImagina que unos neuropsicólogos pueden estimular tu cerebro para que vivas cualquier experiencia que elijas: escribir una gran novela, hacer un amigo, leer un libro fascinante. Todo el tiempo estarías flotando en un tanque, con electrodos en la cabeza. Desde dentro, no notarías la diferencia. Puedes programar, digamos, los próximos dos años.",
+   "pregunta": "¿Te conectarías?",
+   "opciones": [
+    "Sí: si se siente igual, para mí es igual de real",
+    "No: quiero hacer las cosas, no solo sentir que las hago",
+    "Depende de cómo sea mi vida real"
+   ],
+   "revelacion": "Nozick creía que casi nadie se conectaría, y dio tres razones. Queremos **hacer** ciertas cosas, no solo tener la experiencia de hacerlas. Queremos **ser** cierto tipo de persona: alguien que flota en un tanque no es valiente ni generoso, «no es nadie». Y queremos contacto con la realidad, no con un mundo fabricado. Su conclusión: el placer no es lo único que importa. Es un argumento clásico contra el [[hedonismo|Doctrina que sostiene que el placer es el único bien o el bien supremo de la vida.]].\n\nLa sorpresa vino en 2010. El filósofo Felipe De Brigard le dio la vuelta a la pregunta: dijo a sus participantes que **ya estaban** dentro de la máquina y preguntó si querían desconectarse. Si no les decía nada de su vida real, solo 54% quería salir. Si les decía que afuera eran presos de máxima seguridad, solo 13%.\n\nDe Brigard lo explica con el [[sesgo del statu quo|Tendencia a preferir que las cosas sigan como están, aunque otra opción sea igual o mejor.]]: no nos negamos a la máquina solo por amor a la realidad, sino también porque no queremos cambiar de vida. El dilema no tiene respuesta correcta, pero sí deja una pregunta útil: ¿cuánto de lo que llamas «principios» es en realidad costumbre?",
+   "idea": "No nos basta sentir que vivimos bien: queremos que sea verdad. Pero también nos cuesta dejar lo conocido.",
+   "fuente": {
+    "nombre": "Robert Nozick, Anarchy, State, and Utopia (1974), pp. 42–45 (extracto, Universidad de Colorado)",
+    "url": "https://rintintin.colorado.edu/~vancecd/phil3160/Nozick1.pdf"
+   },
+   "wiki": "Máquina de experiencias",
+   "claves": [
+    {
+     "nombre": "Anarquía, Estado y utopía",
+     "quien": "El libro de Nozick (1974) donde aparece el experimento.",
+     "wiki": "Anarquía, Estado y utopía"
+    },
+    {
+     "nombre": "Experimento mental",
+     "quien": "Escenario imaginario que sirve para poner a prueba una idea.",
+     "wiki": "Experimento mental"
+    },
+    {
+     "nombre": "Hedonismo",
+     "quien": "La doctrina que Nozick quería refutar: solo importa el placer.",
+     "wiki": "Hedonismo"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué descubrió De Brigard al preguntar a la gente si se desconectaría de la máquina?",
+    "respuesta": "Que muchos preferían quedarse: solo 54% salía, y 13% si su vida real era la de un preso. Lo atribuyó al sesgo del statu quo."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "formato": "adivinaNumero",
+   "titulo": "¿Qué deporte se asoció con más años de vida?",
+   "contexto": "En Copenhague, un estudio siguió a **8,577 personas** durante hasta 25 años. Al inicio, entre 1991 y 1994, cada una dijo qué deporte practicaba en su tiempo libre. Después, los investigadores compararon cuánto vivió cada grupo frente a las personas sedentarias.\n\nEntre los deportes estaban correr, nadar, andar en bicicleta, ir al gimnasio, el futbol, el bádminton y el tenis.",
+   "pregunta": "¿Cuál se asoció con más años de vida extra frente a los sedentarios?",
+   "opciones": [
+    "Correr: unos 3 años",
+    "Tenis: casi 10 años",
+    "Ir al gimnasio: unos 6 años"
+   ],
+   "correcta": 1,
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tennis_ball_01.jpg?width=900",
+    "alt": "Pelota de tenis amarilla sobre una cancha",
+    "pie": "Los deportes de raqueta encabezaron la lista del estudio de Copenhague",
+    "credito": "Wikimedia Commons"
+   },
+   "revelacion": "El tenis encabezó la lista: **9.7 años** más de esperanza de vida. Le siguieron el bádminton (6.2), el futbol (4.7), la bicicleta (3.7), la natación (3.4), correr (3.2), la calistenia (3.1) y, al final, el gimnasio (1.5). El estudio lo publicó *Mayo Clinic Proceedings* en 2018.\n\nAhora, la letra pequeña. Es un [[estudio observacional|Investigación que observa lo que la gente ya hace, sin asignar tratamientos. Puede mostrar asociaciones, no probar causas.]]: no prueba que el tenis alargue la vida. Quien juega tenis puede tener más dinero, más tiempo libre o mejor salud desde antes. Los autores lo reconocen.\n\nSu hipótesis es interesante: los deportes con compañeros, como el tenis o el futbol, suman **interacción social**, y la soledad es un factor de riesgo conocido. Correr solo en una caminadora mueve el cuerpo; jugar con alguien también mueve la vida social. La lección prudente no es «juega tenis», sino «busca un ejercicio que te guste y que hagas con otros».",
+   "idea": "El mejor ejercicio quizá no es el más intenso, sino el que haces con otras personas.",
+   "fuente": {
+    "nombre": "Schnohr et al., Mayo Clinic Proceedings (2018), Copenhagen City Heart Study",
+    "url": "https://research.regionh.dk/en/publications/various-leisure-time-physical-activities-associated-with-widely-d/"
+   },
+   "wiki": "Esperanza de vida",
+   "claves": [
+    {
+     "nombre": "Tenis",
+     "quien": "El deporte con la mayor ganancia asociada en el estudio: 9.7 años.",
+     "wiki": "Tenis"
+    },
+    {
+     "nombre": "Bádminton",
+     "quien": "Segundo lugar: 6.2 años.",
+     "wiki": "Bádminton"
+    },
+    {
+     "nombre": "Longevidad",
+     "quien": "Lo que el estudio intentaba medir: cuánto vivimos y por qué.",
+     "wiki": "Longevidad"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué el estudio de Copenhague no prueba que el tenis alargue la vida?",
+    "respuesta": "Porque es observacional: muestra una asociación. Quien juega tenis puede tener otras ventajas. Los autores sugieren que la interacción social explica parte del efecto."
+   }
+  },
+  {
+   "materia": "Etiqueta y protocolo",
+   "pilar": "gusto",
+   "formato": "mitoRealidad",
+   "titulo": "¿El último botón del chaleco se deja abierto por un rey gordo?",
+   "contexto": "Es una de las reglas más conocidas de la sastrería: en un chaleco de una sola hilera de botones, el último se deja **desabrochado**.\n\nLa explicación que se repite en todas partes: el rey Eduardo VII de Inglaterra, que reinó de 1901 a 1910, estaba tan pasado de peso que no podía cerrarlo. Sus cortesanos lo imitaron por respeto y así nació la costumbre.",
+   "pregunta": "¿Mito o realidad?",
+   "opciones": [
+    "Realidad: está documentado que fue por Eduardo VII",
+    "Mito: la historia del rey no tiene pruebas sólidas"
+   ],
+   "correcta": 1,
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Edward_VII_1901-1910.jpg?width=900",
+    "alt": "Retrato de un hombre mayor de barba gris con uniforme y condecoraciones",
+    "pie": "Eduardo VII del Reino Unido, rey de 1901 a 1910 y árbitro de la moda masculina de su época",
+    "credito": "Wikimedia Commons"
+   },
+   "revelacion": "Es, casi seguro, una **leyenda**. Eduardo VII sí marcó la moda de su tiempo: popularizó el tweed, el sombrero Homburg y la corbata de moño negra con esmoquin. Pero hay muchas fotos suyas con el chaleco completamente abrochado, y no hay un documento de la época que cuente la anécdota. La versión inglesa de Wikipedia la considera falsa, citando a GQ.\n\nLas explicaciones más plausibles son prácticas. Montar a caballo con el chaleco cerrado hasta abajo hace que se suba y se arrugue. Y el corte moderno del chaleco, más bajo y en punta, se diseña para llevar el último botón abierto: si lo cierras, tira de la tela.\n\nLa regla tiene límites que pocos conocen: vale para el chaleco de día de una hilera. El chaleco cruzado y el de etiqueta se abrochan completos. En el saco de tres botones la regla es «a veces, siempre, nunca»: el de arriba es opcional, el de en medio siempre, el de abajo nunca.",
+   "idea": "Muchas reglas de etiqueta tienen una razón práctica; la anécdota real suele ser más aburrida que la leyenda.",
+   "fuente": {
+    "nombre": "Gentleman's Gazette: Why the bottom waistcoat button stays undone",
+    "url": "https://www.gentlemansgazette.com/waiscoat-button/"
+   },
+   "wiki": "Eduardo VII del Reino Unido",
+   "claves": [
+    {
+     "nombre": "Eduardo VII del Reino Unido",
+     "quien": "El rey al que se atribuye la regla, sin pruebas sólidas.",
+     "wiki": "Eduardo VII del Reino Unido"
+    },
+    {
+     "nombre": "Chaleco",
+     "quien": "La prenda sin mangas que se usa bajo el saco.",
+     "wiki": "Chaleco"
+    },
+    {
+     "nombre": "Tweed",
+     "quien": "Tela de lana gruesa que Eduardo VII sí puso de moda.",
+     "wiki": "Tweed (tejido)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué botones se abrochan en un saco de tres botones?",
+    "respuesta": "«A veces, siempre, nunca»: el de arriba es opcional, el de en medio siempre, el de abajo nunca."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "elCaso",
+   "titulo": "Wordle: el juego gratis que el New York Times compró por siete cifras",
+   "contexto": "Josh Wardle, ingeniero de software en Brooklyn, hizo un juego de palabras para su pareja, Palak Shah. Una palabra de cinco letras al día, seis intentos, colores que dicen si vas bien. Ella filtró una lista de unas 13,000 palabras hasta dejar unas 2,000 conocidas.\n\nWardle lo publicó en octubre de 2021. Sin anuncios, sin registro, sin cobrar nada. El 1 de noviembre lo jugaban **90 personas**. El 2 de enero de 2022, **más de 300,000**.",
+   "pregunta": "¿Qué crees que compró el New York Times el 31 de enero de 2022?",
+   "opciones": [
+    "Un juego con ingresos por publicidad ya probados",
+    "Un hábito diario de millones de personas, sin un peso de ingresos",
+    "Una base de datos de usuarios registrados con sus correos"
+   ],
+   "correcta": 1,
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wordle_196_example.svg?width=900",
+    "alt": "Cuadrícula de cuadros verdes, amarillos y grises con letras",
+    "pie": "Una partida de Wordle: verde es letra correcta en su lugar; amarillo, letra correcta en otro lugar",
+    "credito": "Wikimedia Commons"
+   },
+   "revelacion": "El Times pagó un precio no revelado «en el rango bajo de siete cifras», es decir, algo más de un millón de dólares. Compró un juego que no cobraba, no tenía anuncios y no pedía ni un correo. Lo que compró fue **un hábito**: millones de personas que volvían una vez al día, a la misma hora, a compartir sus cuadritos de colores.\n\nPara el Times, era la pieza que le faltaba a su estrategia de [[paquete de suscripción|Modelo en que una empresa vende varios productos juntos por una sola cuota mensual: noticias, cocina, juegos.]]: noticias, recetas y juegos por una sola cuota. En su informe del primer trimestre de 2022 dijo que Wordle trajo «decenas de millones» de usuarios nuevos y que su sección de juegos tuvo su mejor trimestre en altas de suscriptores.\n\nLa lección para un producto digital: hacer otra partida de Wordle cuesta casi cero, pero el valor no estaba en el código, que cualquiera podía copiar. Estaba en la escasez (una palabra al día) y en el ritual compartido. El dinero llegó por otro lado: alguien con un modelo de negocio compró la atención que Wardle había creado.",
+   "idea": "A veces el activo no es lo que vendes, sino el hábito que creas; otro puede tener el modelo para cobrarlo.",
+   "fuente": {
+    "nombre": "TechCrunch: Wordle is being purchased by The New York Times (31 ene 2022)",
+    "url": "https://techcrunch.com/2022/01/31/popular-puzzle-game-wordle-is-being-purchased-by-the-new-york-times"
+   },
+   "wiki": "Wordle",
+   "claves": [
+    {
+     "nombre": "The New York Times",
+     "quien": "El periódico que compró Wordle para su paquete de suscripción.",
+     "wiki": "The New York Times"
+    },
+    {
+     "nombre": "Josh Wardle",
+     "quien": "El ingeniero galés que creó el juego para su pareja.",
+     "wiki": "Wordle"
+    },
+    {
+     "nombre": "Economía de la atención",
+     "quien": "La idea de que la atención es el recurso escaso que se compra y se vende.",
+     "wiki": "Economía de la atención"
+    }
+   ],
+   "repaso": {
+    "pregunta": "Si Wordle no cobraba nada, ¿qué compró realmente el New York Times?",
+    "respuesta": "Un hábito diario de millones de personas que podía llevar a su paquete de suscripción de noticias, cocina y juegos."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Mente y decisiones",
+   "pilar": "mente",
+   "epoca": "2011",
+   "titulo": "Pagamos más por lo que armamos nosotros",
+   "dato": "En un experimento, quienes armaron una caja de IKEA ofrecieron pagar por ella 78 centavos de dólar. Quienes recibieron la misma caja ya armada, solo 48: un 63% menos.",
+   "explicacion": "Michael Norton, Daniel Mochon y Dan Ariely lo llamaron el **efecto IKEA** (publicado en 2011 en línea y en 2012 en el *Journal of Consumer Psychology*). Lo repitieron con figuras de origami: quienes las hicieron pagaban por su obra torpe casi lo mismo que otros pagaban por las de un experto.\n\nEl esfuerzo propio infla el valor que le damos a algo. Sirve para entender por qué el cliente que personaliza un producto lo quiere más, y también por qué nos cuesta abandonar un proyecto en el que trabajamos mucho, aunque no funcione. Es pariente del [[efecto dotación|Sesgo por el que valoramos más algo solo porque ya es nuestro.]].",
+   "fuente": {
+    "nombre": "Norton, Mochon y Ariely: The IKEA effect (Harvard DASH)",
+    "url": "https://dash.harvard.edu/bitstream/handle/1/12136084/norton%20mochon%20ariely%20third%20round[1].pdf"
+   },
+   "wiki": "Economía conductual",
+   "claves": [
+    {
+     "nombre": "Efecto dotación",
+     "quien": "Valorar más lo que ya es nuestro; primo del efecto IKEA.",
+     "wiki": "Efecto dotación"
+    },
+    {
+     "nombre": "Economía conductual",
+     "quien": "La disciplina que estudia cómo decidimos en la vida real, no en teoría.",
+     "wiki": "Economía conductual"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué es el efecto IKEA?",
+    "respuesta": "Valoramos más lo que armamos o hicimos nosotros: pagaban 78 centavos por su caja armada frente a 48 por una ya armada."
+   }
+  },
+  {
+   "materia": "Disciplina y hábitos",
+   "pilar": "caracter",
+   "epoca": "Siglo XIX",
+   "titulo": "Darwin contaba sus vueltas con piedras",
+   "dato": "Charles Darwin caminaba a diario por un sendero alrededor de un bosquecillo de su casa. Durante un tiempo contaba las vueltas con pedernales: pateaba uno fuera del camino en cada vuelta.",
+   "explicacion": "Lo contó su hijo Francis en sus recuerdos. El sendero estaba en Down House, al sur de Londres; Darwin rentó el terreno en 1846, plantó el bosque y lo recorrió hasta su última caminata, el 7 de marzo de 1882. Hoy se le llama el Sandwalk o el «sendero del pensamiento», pero Darwin le decía simplemente «el camino». No hay fuente de que él usara el nombre romántico.\n\nLo interesante es el sistema: una ruta fija y un contador externo liberan la mente para pensar. Más tarde, ya mayor, Francis cuenta que no seguía un número fijo de vueltas: daba las que su fuerza le permitía.",
+   "fuente": {
+    "nombre": "Darwin Online: Francis Darwin, Reminiscences (CUL-DAR140.3)",
+    "url": "https://darwin-online.org.uk/converted/manuscripts/Darwin_F_Reminiscences_CUL-DAR140.3.1--159.html"
+   },
+   "wiki": "Charles Darwin",
+   "claves": [
+    {
+     "nombre": "Charles Darwin",
+     "quien": "Naturalista inglés (1809–1882), autor de la teoría de la evolución por selección natural.",
+     "wiki": "Charles Darwin"
+    },
+    {
+     "nombre": "El origen de las especies",
+     "quien": "El libro de 1859 que pensó, en parte, caminando.",
+     "wiki": "El origen de las especies"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo contaba Darwin sus vueltas en el sendero de su casa?",
+    "respuesta": "Pateaba un pedernal fuera del camino en cada vuelta."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "epoca": "1891",
+   "titulo": "El primer partido de basquetbol terminó 1 a 0",
+   "dato": "El 21 de diciembre de 1891, en Springfield, Massachusetts, se jugó el primer partido de basquetbol: 18 jugadores, dos canastas de duraznos y una sola anotación en todo el juego.",
+   "explicacion": "James Naismith, profesor de 31 años en la escuela de la YMCA, recibió un encargo: inventar un juego bajo techo para el invierno. Pidió dos cajas para usarlas de meta; el conserje le trajo canastas de duraznos, que se clavaron al barandal a 10 pies (3.05 m), la misma altura que hoy. Escribió 13 reglas, entre ellas no correr con el balón.\n\nWilliam R. Chase anotó la primera canasta, que fue la única. Durante años, alguien tenía que sacar el balón de la canasta a mano: el fondo se cortó tiempo después. El deporte más rápido del mundo empezó como uno muy lento.",
+   "fuente": {
+    "nombre": "Naismith Memorial Basketball Hall of Fame: The First Team",
+    "url": "https://www.hoophall.com/hall-of-famers/first-team"
+   },
+   "wiki": "Baloncesto",
+   "claves": [
+    {
+     "nombre": "James Naismith",
+     "quien": "Profesor canadiense que inventó el basquetbol en 1891.",
+     "wiki": "James Naismith"
+    },
+    {
+     "nombre": "Springfield (Massachusetts)",
+     "quien": "La ciudad donde nació el juego.",
+     "wiki": "Springfield (Massachusetts)"
+    },
+    {
+     "nombre": "Salón de la Fama del Baloncesto",
+     "quien": "El museo del deporte, en la misma ciudad.",
+     "wiki": "Salón de la Fama del Baloncesto"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Con qué marcador terminó el primer partido de basquetbol, en 1891?",
+    "respuesta": "1 a 0. La única canasta la anotó William R. Chase."
+   }
+  },
+  {
+   "materia": "Arte y pintura",
+   "pilar": "cultura",
+   "epoca": "1642",
+   "titulo": "«La ronda de noche» pasa de día",
+   "dato": "El cuadro más famoso de Rembrandt no muestra una escena nocturna. Se oscureció con el barniz y la suciedad, y el apodo «ronda de noche» apareció hasta 1797.",
+   "explicacion": "Su título real es largo: la compañía de la guardia cívica del distrito II, al mando del capitán Frans Banninck Cocq. Rembrandt lo pintó en 1642. El [[barniz|Capa transparente que protege una pintura; con los años se oxida, amarillea y oscurece.]] oxidado lo volvió sombrío, y una restauración en 1947 mostró que la luz era de día.\n\nHay otra sorpresa: en 1715, al trasladarlo al ayuntamiento de Ámsterdam, lo recortaron por los cuatro lados para que cupiera entre dos puertas. Los pedazos nunca aparecieron; una copia de Gerrit Lundens muestra cómo era completo. Hoy el Rijksmuseum lo estudia en la Operación Ronda de Noche, con una foto de 717 gigapíxeles.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Nightwatch_by_Rembrandt_-_Rijksmuseum.jpg?width=900",
+    "alt": "Pintura de un grupo de milicianos con lanzas y mosquetes, iluminados por una luz dorada",
+    "pie": "«La ronda de noche», Rembrandt (1642). Rijksmuseum, Ámsterdam",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Rijksmuseum: 10 things about Rembrandt's Night Watch",
+    "url": "https://www.rijksmuseum.nl/en/stories/10-things/story/10-things-about-rembrandt-s-night-watch"
+   },
+   "wiki": "La ronda de noche",
+   "claves": [
+    {
+     "nombre": "Rembrandt",
+     "quien": "Pintor neerlandés (1606–1669), maestro de la luz y la sombra.",
+     "wiki": "Rembrandt"
+    },
+    {
+     "nombre": "Rijksmuseum",
+     "quien": "El museo nacional de los Países Bajos, donde está el cuadro.",
+     "wiki": "Rijksmuseum"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué «La ronda de noche» parece nocturna?",
+    "respuesta": "Porque el barniz se oscureció; es una escena de día. El apodo apareció hasta 1797."
+   }
+  },
+  {
+   "materia": "Derecho y poder",
+   "pilar": "mundo",
+   "epoca": "1267",
+   "titulo": "Una ley de 1267 sigue vigente en Inglaterra",
+   "dato": "Cuatro capítulos del Estatuto de Marlborough, aprobado en noviembre de 1267 bajo el rey Enrique III, siguen en vigor en Inglaterra y Gales. Son la ley escrita más antigua vigente del Reino Unido.",
+   "explicacion": "Los capítulos que sobreviven tratan del [[embargo|Retención de bienes de alguien para obligarlo a pagar una deuda.]]: prohíben que alguien se cobre por su propia mano tomando bienes ajenos sin pasar por un tribunal. Hoy se pueden consultar en el sitio oficial de legislación del gobierno británico.\n\nLa idea de fondo es moderna: nadie es juez en su propia causa. Un matiz: Escocia e Irlanda tienen sus propias leyes antiguas, y en 2015 la Comisión de Derecho propuso derogar dos de esos capítulos, cosa que no ha ocurrido.",
+   "fuente": {
+    "nombre": "legislation.gov.uk: Statute of Marlborough 1267",
+    "url": "https://www.legislation.gov.uk/aep/Hen3cc1415/52/1"
+   },
+   "wiki": "Enrique III de Inglaterra",
+   "claves": [
+    {
+     "nombre": "Enrique III de Inglaterra",
+     "quien": "El rey bajo el que se aprobó el estatuto, tras años de guerra con sus barones.",
+     "wiki": "Enrique III de Inglaterra"
+    },
+    {
+     "nombre": "Parlamento de Inglaterra",
+     "quien": "La asamblea que empezaba a formarse en esa época.",
+     "wiki": "Parlamento de Inglaterra"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué prohíbe el Estatuto de Marlborough que sigue vigente?",
+    "respuesta": "Cobrarse por propia mano tomando bienes ajenos sin pasar por un tribunal."
+   }
+  },
+  {
+   "materia": "Negocios y estrategia",
+   "pilar": "patrimonio",
+   "epoca": "1900",
+   "titulo": "La Guía Michelin nació para vender llantas",
+   "dato": "En 1900, cuando Francia tenía menos de 3,000 autos, los hermanos Michelin regalaron 35,000 guías con mapas, talleres y hoteles. Querían que la gente manejara más y gastara más llantas.",
+   "explicacion": "André y Édouard Michelin fabricaban neumáticos. Su apuesta era de largo plazo: si viajar en auto era fácil y placentero, habría más autos y más llantas gastadas. La guía era gratis. En 1920 empezaron a cobrarla, 7 francos, después de que André vio guías usadas para nivelar un banco de taller: «el hombre solo respeta lo que paga».\n\nLas estrellas llegaron después: una en 1926 y la escala de tres en 1931. Es un caso clásico de [[marketing de contenidos|Estrategia de atraer clientes ofreciendo información útil en lugar de anuncios directos.]]: el producto más famoso de una llantera no es una llanta.",
+   "fuente": {
+    "nombre": "Guía Michelin: The history of the Michelin Guide",
+    "url": "https://guide.michelin.com/kr/en/article/features/history-michelin-guide"
+   },
+   "wiki": "Guía Michelin",
+   "claves": [
+    {
+     "nombre": "Michelin",
+     "quien": "La empresa francesa de neumáticos fundada por los hermanos Michelin en 1889.",
+     "wiki": "Michelin"
+    },
+    {
+     "nombre": "Guía Michelin",
+     "quien": "La guía que hoy otorga las estrellas más famosas de la gastronomía.",
+     "wiki": "Guía Michelin"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué los hermanos Michelin regalaban su guía en 1900?",
+    "respuesta": "Para que la gente viajara más en auto y gastara más llantas."
+   }
+  },
+  {
+   "materia": "El cosmos",
+   "pilar": "futuro",
+   "epoca": "1969",
+   "titulo": "La Luna se aleja 3.8 cm cada año",
+   "dato": "La Luna se aleja de la Tierra unos 3.8 centímetros al año. Lo sabemos porque desde 1969 disparamos láseres a espejos que dejaron los astronautas del Apolo 11.",
+   "explicacion": "El 21 de julio de 1969, Armstrong y Aldrin colocaron un [[retrorreflector|Espejo especial que devuelve la luz exactamente hacia donde vino.]] en la superficie lunar. El Apolo 14 y el 15 dejaron más. Los observatorios disparan un láser, cronometran cuánto tarda el reflejo en volver y calculan la distancia con precisión de centímetros. Los espejos no necesitan energía y se siguen usando.\n\n¿Por qué se aleja? Por las mareas: la Luna levanta un bulto en los océanos que, por la rotación de la Tierra, va un poco adelantado y la jala hacia adelante. La Tierra a cambio gira cada vez un poco más despacio: los días se alargan, aunque muy lentamente.",
+   "fuente": {
+    "nombre": "NASA JPL: Apollo 11 experiment continues to return valuable data",
+    "url": "https://www.jpl.nasa.gov/news/apollo-11-experiment-continues-to-return-valuable-data/"
+   },
+   "wiki": "Experimento láser de alcance lunar",
+   "claves": [
+    {
+     "nombre": "Apolo 11",
+     "quien": "La misión de 1969 que llevó a los primeros humanos a la Luna y dejó el primer espejo.",
+     "wiki": "Apolo 11"
+    },
+    {
+     "nombre": "Luna",
+     "quien": "Nuestro satélite natural, a unos 384,000 km en promedio.",
+     "wiki": "Luna"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo sabemos que la Luna se aleja 3.8 cm al año?",
+    "respuesta": "Disparando láseres a los espejos que dejaron las misiones Apolo y midiendo cuánto tarda en volver la luz."
+   }
+  },
+  {
+   "materia": "Gastronomía, vino y destilados",
+   "pilar": "gusto",
+   "epoca": "1889",
+   "titulo": "La pizza Margarita y la reina: una historia probablemente inventada",
+   "dato": "Se cuenta que en 1889 el pizzero Raffaele Esposito creó la pizza con los colores de Italia para la reina Margarita. Pero no hay periódicos de la época que lo cuenten, y la carta del palacio que lo «prueba» tiene señales de ser falsa.",
+   "explicacion": "El historiador Zachary Nowak lo estudió en 2014 en la revista *Food, Culture & Society*. Encontró que las pizzas de tomate, mozzarella y albahaca ya existían antes de 1889, y que la carta de agradecimiento tiene un sello en lugar extraño y una firma que no coincide con otras del archivo. La historia la difundió la propia pizzería, la Brandi, desde los años treinta.\n\nNowak la llama una [[tradición inventada|Costumbre o relato que se presenta como antiguo pero fue creado o arreglado mucho después, a menudo con fines comerciales o políticos.]]. La visita real pudo ocurrir; lo dudoso es el origen heroico. Es una lección de branding: una buena historia de origen vale tanto como la receta.",
+   "fuente": {
+    "nombre": "Wikipedia (inglés): History of pizza, con la referencia de Nowak (2014)",
+    "url": "https://en.wikipedia.org/wiki/History_of_pizza"
+   },
+   "wiki": "Historia de la pizza",
+   "claves": [
+    {
+     "nombre": "Margarita de Saboya",
+     "quien": "Reina de Italia (1878–1900) a quien se dedica la pizza.",
+     "wiki": "Margarita Teresa de Saboya"
+    },
+    {
+     "nombre": "Nápoles",
+     "quien": "La ciudad donde nació la pizza moderna.",
+     "wiki": "Nápoles"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué se duda de la historia de la pizza Margarita?",
+    "respuesta": "Esas pizzas ya existían antes de 1889, ningún periódico registró el episodio y la carta del palacio parece falsa."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "El arte de la guerra",
+  "autor": "Sun Tzu",
+  "capitulo": {
+   "numero": 2,
+   "total": 6,
+   "titulo": "Ganar sin combatir"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Inscribed_bamboo-slips_of_Art_of_War.jpg?width=900",
+   "alt": "Tablillas de bambú con columnas de caracteres chinos antiguos",
+   "pie": "Tablillas de bambú inscritas con *El arte de la guerra*",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "Imagina que ganas una guerra de precios contra tu competidor. Bajas, él baja, vuelves a bajar. Un año después, él cierra. Tú sobrevives, pero sin margen, con el equipo agotado y la caja vacía. ¿Ganaste?\n\nSun Tzu diría que no del todo. En los capítulos II y III de *El arte de la guerra*, «La conducción de la guerra» y «El ataque por estratagema», plantea una idea que suena rara en un libro militar: la mejor victoria es la que no necesita pelea. Y la peor es la que dura demasiado."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La guerra se paga por adelantado"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El capítulo II empieza con cuentas. Sun Tzu calcula lo que cuesta mover un ejército de 100,000 hombres: carros, armaduras, provisiones transportadas a cientos de kilómetros, regalos a los visitantes, pegamento y laca para reparar el equipo. Concluye que se gastan mil onzas de plata al día.\n\nEsa cifra no es retórica. Es la forma de decir que la guerra se financia con la vida diaria del pueblo. Cada día de campaña sube los precios, vacía los graneros y cansa a los soldados."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Cuando se pelea de verdad, si la victoria tarda en llegar, las armas de los hombres se embotan y su ardor se apaga.",
+    "fuente": "El arte de la guerra, II, 2"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Luego viene una de las frases más duras del libro, sin matices:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "No hay ningún caso de un país que se haya beneficiado de una guerra prolongada.",
+    "fuente": "El arte de la guerra, II, 6"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Fíjate en la lógica. Sun Tzu no dice que la guerra rápida sea buena. Dice que la lenta es casi siempre ruinosa, aunque se gane. Por eso añade que solo quien conoce a fondo los males de la guerra puede entender cómo llevarla con provecho. El general que no hace cuentas es un peligro para su propio país."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Come del granero del enemigo"
+   },
+   {
+    "tipo": "texto",
+    "texto": "¿Cómo reducir el costo? La respuesta del capítulo II es práctica: lleva tu equipo de casa, pero aliméntate en territorio enemigo. Sun Tzu calcula que un carro de provisiones del enemigo equivale a veinte de los propios, porque cada carro propio hay que transportarlo, protegerlo y pagarlo durante todo el camino.\n\nTambién habla de motivar a los soldados con botín y de tratar bien a los prisioneros para sumarlos a tus filas. La idea de fondo: cada recurso que le quitas al rival cuenta doble, porque tú lo ganas y él lo pierde."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "En un negocio, ¿qué se parece más a «alimentarse del granero del enemigo»?",
+    "opciones": [
+     "Bajar tus precios hasta que el rival quiebre",
+     "Contratar al equipo o ganar los clientes que el rival descuida",
+     "Copiar la publicidad del líder del mercado"
+    ],
+    "correcta": 1,
+    "explicacion": "Ganar clientes o talento que el rival no atiende suma para ti y resta para él al mismo tiempo. Una guerra de precios, en cambio, te cuesta a ti tanto como a él."
+   },
+   {
+    "tipo": "texto",
+    "texto": "El capítulo cierra con una frase que resume todo:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "En la guerra, pues, que tu gran objetivo sea la victoria, no las campañas largas.",
+    "fuente": "El arte de la guerra, II, 19"
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bamboo_book_-_closed_-_UCR.jpg?width=900",
+    "alt": "Rollo de tablillas de bambú atadas con cordones, enrollado",
+    "pie": "Un libro chino de tablillas de bambú. En 1972 se hallaron en Yinqueshan, en tumbas de la dinastía Han, tablillas con *El arte de la guerra*",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Ganar sin pelear"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El capítulo III da el salto. Si la guerra larga es ruinosa, ¿cuál es la victoria ideal? Sun Tzu responde con una escala. Lo mejor es tomar el país del enemigo entero e intacto; destruirlo es peor. Lo mismo vale para un ejército, un regimiento o una compañía: capturarlos enteros vale más que aniquilarlos.\n\nY entonces escribe la frase más citada del libro:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Pelear y vencer en todas tus batallas no es la excelencia suprema; la excelencia suprema consiste en romper la resistencia del enemigo sin pelear.",
+    "fuente": "El arte de la guerra, III, 2"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Esto no es pacifismo. Es eficiencia. Un enemigo destruido no paga tributo, una ciudad arrasada no produce nada, un soldado muerto no se puede reclutar. Para Sun Tzu, la destrucción es un costo, no un trofeo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La escalera de la estrategia"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El versículo siguiente ordena las opciones de mejor a peor. Vale la pena leerlo despacio, porque es una lista de prioridades:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "La forma más alta de mando es frustrar los planes del enemigo; la siguiente, impedir que sus fuerzas se unan; la siguiente, atacar a su ejército en el campo; y la peor política de todas es sitiar ciudades amuralladas.",
+    "fuente": "El arte de la guerra, III, 3"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Tradúcelo a una empresa. Lo mejor es hacer inútil la estrategia del rival antes de que la ejecute: por ejemplo, cerrar un contrato de exclusividad con el distribuidor que él quería. Lo segundo es evitar que forme alianzas. Lo tercero, competir de frente en el mercado. Y lo peor, atacar donde él es más fuerte: su producto estrella, en su plaza, con su precio.\n\nSun Tzu explica por qué el asedio es lo peor: preparar máquinas y terraplenes lleva meses, y el general impaciente lanza a sus hombres contra los muros «como hormigas». Pierde un tercio de sus tropas y la ciudad sigue en pie. Es la imagen perfecta de la [[falacia del costo hundido|Error de seguir invirtiendo en algo solo porque ya se invirtió mucho, aunque ya no convenga.]]: seguir empujando porque ya invertiste demasiado para retirarte."
+   },
+   {
+    "tipo": "cita",
+    "texto": "El líder hábil somete las tropas del enemigo sin pelear; toma sus ciudades sin sitiarlas; derriba su reino sin largas operaciones en el campo.",
+    "fuente": "El arte de la guerra, III, 6"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El rey que estorba"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El capítulo III tiene una parte que suele olvidarse y que es muy útil para quien dirige. Sun Tzu dice que hay tres maneras en que un gobernante puede arruinar a su propio ejército. La primera: ordenar avanzar o retirarse sin saber que el ejército no puede obedecer. Lo llama «maniatar al ejército». La segunda: querer gobernar el ejército como si fuera un reino, sin entender sus condiciones. La tercera: poner oficiales sin discernimiento, sin entender que cada puesto exige algo distinto.\n\nEs una advertencia para cualquier dueño de empresa: el peligro no siempre está en el rival. A veces está en el jefe que da órdenes desde lejos sin conocer el terreno."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Las cinco claves de la victoria (III, 17)",
+    "texto": "Ganará quien sepa cuándo pelear y cuándo no. Ganará quien sepa manejar fuerzas grandes y pequeñas. Ganará el ejército que tenga el mismo espíritu en todos sus rangos. Ganará quien, preparado, espere a tomar desprevenido al enemigo. Ganará quien tenga capacidad militar y no sufra la interferencia del soberano."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Conócete y conoce al otro"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El capítulo termina con la frase que todos repiten, casi siempre incompleta. La versión entera tiene tres partes:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Si conoces al enemigo y te conoces a ti mismo, no tienes que temer el resultado de cien batallas. Si te conoces a ti mismo pero no al enemigo, por cada victoria sufrirás también una derrota. Si no conoces ni al enemigo ni a ti mismo, sucumbirás en todas las batallas.",
+    "fuente": "El arte de la guerra, III, 18"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La parte olvidada es la del medio. Conocerse a uno mismo sin conocer al otro da resultados de moneda al aire: ganas la mitad, pierdes la mitad. Es el error típico del emprendedor enamorado de su producto. Sabe todo de su fórmula y nada de por qué el cliente compra la del competidor."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según Sun Tzu, ¿qué pasa si te conoces a ti mismo pero no al enemigo?",
+    "opciones": [
+     "Ganarás siempre, porque lo importante es conocerse",
+     "Por cada victoria sufrirás también una derrota",
+     "Perderás todas las batallas"
+    ],
+    "correcta": 1,
+    "explicacion": "Es la parte intermedia de III, 18: conocerse sin conocer al rival da un resultado incierto, una victoria por cada derrota. Solo perder todas corresponde a no conocer a ninguno de los dos."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Lo que llevas de hoy"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Hay un hilo que une estos capítulos con la historia de hoy. En 1588, Inglaterra no ganó destruyendo a la Armada en una gran batalla final. Ganó porque los planes de Felipe II dependían de unir su flota con el ejército de Parma, y esa unión nunca ocurrió. Es justo el segundo peldaño de la escalera de Sun Tzu: impedir que las fuerzas del enemigo se junten. El viento y la geografía hicieron el resto.\n\nY hay un hilo con la vida diaria. La mayoría de los conflictos que vale la pena ganar, con un socio, un proveedor o un competidor, se ganan mejor cambiando el terreno que golpeando más fuerte."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Los dos capítulos forman una sola idea. El capítulo II dice: la guerra cuesta, y cada día de más te empobrece. El capítulo III responde: entonces gana antes de pelear, frustrando planes, separando aliados y evitando los muros.\n\nLa próxima vez que te encuentres en una competencia que parece una pelea de desgaste, haz la pregunta de Sun Tzu: ¿hay una forma de dejar al rival sin estrategia, sin aliados o sin motivo para pelear? Si la hay, es mejor que cualquier batalla ganada."
+   }
+  ],
+  "paraLlevar": [
+   "Ninguna guerra larga ha enriquecido a un país: busca la victoria, no la campaña larga.",
+   "La excelencia suprema es romper la resistencia del rival sin pelear.",
+   "Frustra sus planes, separa a sus aliados y no ataques sus muros."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Cuál es, para Sun Tzu, la peor de todas las estrategias?",
+    "respuesta": "Sitiar ciudades amuralladas: atacar donde el enemigo es más fuerte."
+   },
+   {
+    "pregunta": "¿Por qué un carro de provisiones del enemigo vale veinte de los propios?",
+    "respuesta": "Porque los propios hay que transportarlos y pagarlos durante todo el camino; lo que tomas del rival suma para ti y resta para él."
+   }
+  ],
+  "proximo": "El arte de la guerra · Capítulo 3: Posición y energía",
+  "fuentes": [
+   {
+    "nombre": "Sun Tzu, The Art of War, trad. Lionel Giles (1910), Proyecto Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/132"
+   },
+   {
+    "nombre": "Wikipedia: El arte de la guerra",
+    "url": "https://es.wikipedia.org/wiki/El_arte_de_la_guerra"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de dominio público de Lionel Giles (1910), Proyecto Gutenberg."
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Qué había pasado con la Armada española cuando Isabel I habló en Tilbury?",
+   "opciones": [
+    "Estaba anclada frente a Calais, lista para cruzar",
+    "Ya había sido dispersada en Gravelinas y huía hacia el norte",
+    "Estaba desembarcando en Kent"
+   ],
+   "correcta": 1,
+   "explicacion": "La batalla de Gravelinas había sido once días antes. Pero el ejército de Parma seguía en Flandes y nadie sabía si cruzaría."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Cuánto cayó el peso el martes 3 de noviembre, día de la elección en Estados Unidos?",
+   "opciones": [
+    "0.2%, casi nada",
+    "Más de 5%",
+    "1.40%, hasta 18.83 por dólar"
+   ],
+   "correcta": 2,
+   "explicacion": "Cerró en 18.83 en el interbancario, la segunda moneda más depreciada del día. El jueves 5 decide Banxico su tasa."
+  },
+  {
+   "origen": "hechos",
+   "pregunta": "¿Por qué «La ronda de noche» de Rembrandt parece una escena nocturna?",
+   "opciones": [
+    "Porque el barniz se oscureció con el tiempo",
+    "Porque Rembrandt la pintó a la luz de las velas",
+    "Porque representa una patrulla de medianoche"
+   ],
+   "correcta": 0,
+   "explicacion": "Es una escena de día. El barniz oxidado y la suciedad la oscurecieron; el apodo aparece hasta 1797."
+  }
+ ]
+}
