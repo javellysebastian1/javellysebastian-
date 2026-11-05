@@ -1,0 +1,933 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-05",
+ "numero": 15,
+ "fecha": "2026-11-05",
+ "disponibleDesde": "2026-11-05T08:00:00-06:00",
+ "titulo": "1940: Churchill y las playas, cómo hablar cuando vas perdiendo",
+ "temporada": {
+  "id": "t03",
+  "numero": 3,
+  "titulo": "Grandes discursos que cambiaron la historia",
+  "episodio": 3,
+  "totalEpisodios": 5
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sir_Winston_Churchill_-_19086236948.jpg?width=900",
+  "alt": "Retrato en blanco y negro de Winston Churchill, serio, con traje oscuro",
+  "pie": "Winston Churchill, primer ministro británico desde el 10 de mayo de 1940",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "origen": "Edición #14",
+   "pregunta": "¿Qué truco retórico usó Isabel I en Tilbury con «el cuerpo de una mujer débil y frágil»?",
+   "respuesta": "La concesión: dijo primero la debilidad que todos veían y en la misma frase la volvió fuerza («el corazón y el estómago de un rey»)."
+  },
+  {
+   "origen": "Edición #14",
+   "pregunta": "Si Wordle no cobraba nada, ¿qué compró el New York Times?",
+   "respuesta": "Un hábito diario de millones de personas que podía llevar a su paquete de suscripción."
+  },
+  {
+   "origen": "Edición #13",
+   "pregunta": "¿Por qué la paz de Westfalia (1648) se negoció en dos ciudades?",
+   "respuesta": "Para separar a católicos (Münster) y protestantes (Osnabrück)."
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n-2026-11-05-agua-gdl",
+   "ambito": "jalisco",
+   "ambitoTexto": "Guadalajara",
+   "fecha": "2026-11-04",
+   "historiaEnCurso": {
+    "id": "agua-gdl",
+    "titulo": "Crisis del agua en Guadalajara",
+    "capitulo": 8,
+    "dondeIbamos": "El 2 de noviembre Lemus dijo «Asumo mi responsabilidad». La primera etapa de la nueva potabilizadora de Miravalle se espera para marzo de 2027."
+   },
+   "titular": "El SIAPA alarga los cortes de agua y Lemus pide paciencia a los industriales",
+   "quePaso": "El SIAPA cambió los días de corte en **6 de las 7 zonas** del programa de rotación, que empezó el 15 de octubre. Las zonas 4 y 5 quedan con hasta **4 días seguidos** sin agua; la zona 7 sigue igual (sábado y domingo). **53 colonias** siguen con corte total, cerca del 8.5% de las 627 del programa. Los avisos saldrán con hasta 72 horas de anticipación.\n\nEl director del SIAPA, Ismael Jáuregui, explicó el cambio: «Cuando abrimos una llave en una zona que estuvo en rotación, el agua no llega al instante». Los cortes más largos buscan que la recuperación ocurra en los días asignados.\n\nEsa misma noche, en los 60 años del Consejo de Cámaras Industriales de Jalisco, el gobernador Pablo Lemus dijo: «Yo no voy a escudarme, así se diga que es un problema de hace décadas». Prometió mejoras en «próximas semanas y meses», antes de las obras grandes, que tardarán «dos o tres años».",
+   "aMiQue": "Si tienes bodega, oficina o producción en la zona metropolitana, revisa en qué zona estás: cuatro días sin agua pueden parar una limpieza, un proceso o un turno. Conviene tener contratada una pipa (073 o WhatsApp 33 5164 4440) y almacenamiento propio. Y si vendes bebidas, la conversación sobre el agua en Jalisco va a pesar en cómo se percibe a la industria.",
+   "contexto": "**Hecho:** el Plan Hídrico anunciado el 28 de octubre suma más de 8,000 millones de pesos de inversión inicial, que según Lemus va «sin deuda, sin privatización y sin aumento en la tarifa». Chapala aporta el 60% del agua de la ciudad. La planta de Miravalle, de unos 70 años, abastece el 42% de la red; la nueva potabilizadora tendría su primera etapa en marzo de 2027.\n\n**Interpretación:** que se vean mejoras «en semanas» es una promesa política; todavía no hay forma de comprobarla. El calendario de cortes más largo sugiere que el sistema tarda más en recuperarse de lo que se planeó al principio.",
+   "queVigilar": "Si bajan las 53 colonias con corte total con el nuevo calendario, el avance de las obras en Miravalle y La Calera, y si hay nuevas protestas.",
+   "fuentes": [
+    {
+     "nombre": "Publimetro Jalisco: SIAPA cambia tandeos, nuevo calendario (4 nov 2026)",
+     "url": "https://www.publimetro.com.mx/jalisco/2026/11/04/siapa-cambia-tandeos-en-guadalajara-nuevo-calendario-noviembre-2026/"
+    },
+    {
+     "nombre": "El Informador: Lemus agradece el respaldo de los industriales (4 nov 2026)",
+     "url": "https://www.informador.mx/jalisco/siapa-lemus-agradece-el-respaldo-de-los-industriales-de-jalisco-para-atender-la-crisis-hidrica-de-la-zmg-20261104-0218.html"
+    },
+    {
+     "nombre": "Infobae: Jalisco cierra la presa de Las Pintas; inversión de 8 mil millones (4 nov 2026)",
+     "url": "https://www.infobae.com/mexico/2026/11/04/jalisco-cierra-la-presa-de-las-pintas-lemus-anuncia-inversion-de-8-mil-millones-para-sanear-el-agua-en-guadalajara/"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-05-petroleo",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-04",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 13,
+    "dondeIbamos": "El 2 de noviembre el Brent cayó a unos 104.5 dólares por la expectativa de un acuerdo entre Estados Unidos e Irán, con mediación de Catar."
+   },
+   "titular": "El petróleo se desploma cerca de 9% después de la derrota republicana",
+   "quePaso": "El miércoles 4 de noviembre, a la 1:06 p. m. (hora de Nueva York), el **Brent** bajaba 8.94 dólares (**−8.6%**) hasta **94.66 dólares** por barril, su nivel más bajo desde el 4 de septiembre. El viernes anterior había estado cerca de 118. El **WTI** caía 8.3%, a 88.08 dólares.\n\nEl mercado leyó la elección como una señal de que la guerra con Irán podría acabar antes. Trump dijo a Fox News sobre la derrota: «Creo que es el precio de la gasolina». Al *Financial Times* le dijo que no hay planes inmediatos de atacar a Irán. El vicepresidente Vance escribió en X que la guerra fue la causa de la derrota.",
+   "aMiQue": "El petróleo mueve el costo del flete, del diésel y de los empaques plásticos. Si el precio se sostiene abajo, el siguiente pedido de botellas, etiquetas o transporte puede salir más barato. Pero el mercado está muy volátil: conviene no cerrar contratos largos con base en un solo día.",
+   "contexto": "**Hecho:** las exportaciones de petróleo del Golfo fueron de 17.1 millones de barriles diarios en octubre, contra 18.9 en septiembre, según Vortexa: unas tres cuartas partes del nivel previo a la guerra. Mojtaba Khamenei dijo que la hostilidad de Estados Unidos seguirá sin importar quién controle el Congreso.\n\n**Interpretación:** que un Congreso demócrata acelere la paz es la lectura de un analista (Kissler, de BOK Financial). Otro, Carl Larry (Enverus), advierte que podría haber una escalada antes de cualquier acuerdo. Las cifras cambian por hora: cita siempre el precio con su momento.",
+   "queVigilar": "El precio del Brent hoy, si se confirman o se desmienten las pláticas entre Estados Unidos e Irán, y el tráfico por el estrecho de Ormuz.",
+   "fuentes": [
+    {
+     "nombre": "Oilprice.com: Oil crashes 9% as Trump and Vance blame Iran war for midterm rout (4 nov 2026)",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Crashes-9-as-Trump-and-Vance-Blame-Iran-War-for-Midterm-Rout.html"
+    },
+    {
+     "nombre": "Fortune: Price of oil, 4 de noviembre de 2026",
+     "url": "https://fortune.com/article/price-of-oil-11-04-2026/"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-05-congreso-eeuu",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-04",
+   "historiaEnCurso": {
+    "id": "elecciones-eeuu-2026",
+    "titulo": "Elecciones intermedias de Estados Unidos 2026",
+    "capitulo": 4,
+    "dondeIbamos": "Ayer: los demócratas ganaron las dos cámaras según las proyecciones, y el peso cayó 1.40% el día de la elección."
+   },
+   "titular": "Los demócratas amplían su ventaja y Trump culpa a la gasolina",
+   "quePaso": "Con datos de AP, *Al Jazeera* contaba el miércoles en el **Senado** 54 asientos ganados por los demócratas y uno más donde iban adelante; los republicanos, 44 y uno. Se necesitan 51 para el control. En la **Cámara**, 228 asientos demócratas ganados y 34 más adelante; se necesitan 218. CBS estima que los demócratas tendrán entre 251 y 268.\n\nSiguen abiertas Alaska y Mississippi, donde el demócrata Colom iba adelante por 43 votos con unas 15,000 boletas por contar, según su campaña. Trump dijo: «Si yo hubiera estado en la boleta, habríamos ganado», y aceptó que la guerra con Irán pesó por el precio de la gasolina. Mike Johnson no buscará seguir como líder republicano en la Cámara.",
+   "aMiQue": "La agenda que anuncian los demócratas incluye frenar los aranceles. Para quien importa insumos o exporta a Estados Unidos, eso puede cambiar costos y planes de 2027. Y el peso ya reaccionó: el miércoles cerró en unos 18.59 por dólar, con su mayor ganancia en un día desde abril. Hoy a la 1:00 p. m. decide Banxico su tasa (6.50%).",
+   "contexto": "**Hecho:** los nuevos legisladores asumen en enero; Hakeem Jeffries sería presidente de la Cámara. Entre los resultados destacados, Talarico venció a Paxton en Texas y El-Sayed ganó en Michigan, primer senador musulmán.\n\n**Interpretación:** revertir recortes a Medicaid, frenar aranceles o terminar la guerra son objetivos declarados, no hechos. Un Congreso dividido frente a la Casa Blanca puede frenar leyes, pero no controla por sí solo la política comercial del presidente.",
+   "queVigilar": "El resultado final en Alaska y Mississippi, la cuenta final de la Cámara y la decisión de Banxico de hoy a la 1:00 p. m.",
+   "fuentes": [
+    {
+     "nombre": "Al Jazeera: Democrats win control of House and Senate, key takeaways (4 nov 2026)",
+     "url": "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways"
+    },
+    {
+     "nombre": "CBS News: Election Day 2026 midterms, live updates",
+     "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+    },
+    {
+     "nombre": "Bloomberg Línea: Banxico decide su tasa este jueves con el peso al alza",
+     "url": "https://www.bloomberglinea.com/latinoamerica/mexico/banxico-decide-su-tasa-este-jueves-con-el-peso-al-alza-tras-la-derrota-republicana-que-esperan-los-analistas/"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "Su ejército acababa de salvarse de milagro. Todos querían celebrar. Churchill se levantó a decir otra cosa.",
+    "contexto": "Martes 4 de junio de 1940, Cámara de los Comunes, Londres. Esa misma mañana terminó la [[Operación Dinamo|Nombre en clave de la evacuación por mar de las tropas aliadas atrapadas en Dunkerque, del 26 de mayo al 4 de junio de 1940.]]: más de 338,000 soldados británicos y franceses rescatados de las playas de Dunkerque.\n\nAl empezar, el gobierno esperaba salvar a unos 45,000. Los periódicos hablaban de milagro. El país entero respiraba.\n\nWinston Churchill llevaba menos de un mes como primer ministro. A las 3:40 de la tarde tomó la palabra para informar de la guerra.",
+    "pregunta": "¿Qué dijo Churchill del rescate de Dunkerque?",
+    "opciones": [
+     "Que era la victoria que cambiaba el rumbo de la guerra",
+     "Que era un milagro, pero que las guerras no se ganan con evacuaciones",
+     "Que lo mejor era no hablar de él para no alertar a Alemania"
+    ]
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Tres semanas en el borde",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dunkirk_26-29_May_1940_NYP68075.jpg?width=900",
+     "alt": "Filas de soldados esperando en una playa extensa, con humo al fondo",
+     "pie": "Tropas británicas esperan su turno en la playa de Dunkerque, entre el 26 y el 29 de mayo de 1940",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "El 10 de mayo de 1940, Alemania invadió Bélgica, Holanda y Luxemburgo. Ese mismo día, Churchill se convirtió en primer ministro. Tenía 65 años y muchos en su propio partido desconfiaban de él.\n\nEn dos semanas, los tanques alemanes cruzaron las Ardenas y llegaron al mar. El ejército británico quedó encerrado con parte del francés en un rincón de la costa: Dunkerque.\n\nEntonces vino la crisis dentro del gobierno. Entre el 25 y el 28 de mayo, el ministro de Exteriores, [[Lord Halifax|Edward Wood, conde de Halifax (1881–1959). Ministro de Exteriores en 1940; rival de Churchill para el cargo de primer ministro.]], propuso explorar una mediación de Mussolini para negociar con Hitler. Churchill se opuso. Por unos días, el [[Gabinete de Guerra|El pequeño grupo de ministros que dirigía la guerra en el Reino Unido: cinco personas en mayo de 1940.]] estuvo dividido.\n\nEl 28 de mayo, a las 6:15 de la tarde, Churchill reunió a unos 25 ministros. Según el diario del ministro Hugh Dalton, les dijo: «Si esta larga historia de nuestra isla ha de terminar, que termine solo cuando cada uno de nosotros yazca en el suelo ahogándose en su propia sangre». Dalton la anotó después, así que es una reconstrucción. Pero el resultado está en las actas: los ministros lo respaldaron. No habría negociación.\n\nMientras tanto, más de 800 barcos —destructores, pesqueros, yates, barcazas— cruzaban el canal de la Mancha bajo las bombas. El 4 de junio, a las 9:30 de la mañana, terminó la resistencia en Dunkerque. Unos 90,000 hombres quedaron atrás como prisioneros.\n\nHoras después, Churchill tenía que explicarle todo eso al Parlamento. Y al mundo."
+   },
+   {
+    "tipo": "giro",
+    "titulo": "Un milagro y un desastre en el mismo discurso",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Troops_evacuated_from_Dunkirk_on_a_destroyer_about_to_berth_at_Dover,_31_May_1940._H1637.jpg?width=900",
+     "alt": "Cubierta de un barco de guerra repleta de soldados al llegar a un puerto",
+     "pie": "Soldados evacuados de Dunkerque llegan en un destructor a Dover, 31 de mayo de 1940",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "La respuesta es la segunda. Churchill sí llamó al rescate «un milagro de liberación». Pero de inmediato frenó la euforia: «Debemos tener mucho cuidado de no atribuir a esta liberación los atributos de una victoria. Las guerras no se ganan con evacuaciones».\n\nY dijo la palabra que ningún político quiere decir: lo ocurrido en Francia y Bélgica era «un colosal desastre militar». Contó que al principio pensó que solo podrían reembarcar a 20,000 o 30,000 hombres. Reconoció que habían perdido casi todo el equipo. Hoy se calcula que quedaron en Francia unos 2,500 cañones y cerca de 64,000 vehículos.\n\nSolo después de esa cuenta honesta llegó el final famoso: «Lucharemos en las playas, lucharemos en los aeródromos, lucharemos en los campos y en las calles, lucharemos en las colinas; nunca nos rendiremos».\n\nFíjate en la última frase, la que casi nadie cita. Si la isla caía, el Imperio seguiría peleando «hasta que, cuando Dios quiera, el Nuevo Mundo, con todo su poder y su fuerza, avance para rescatar y liberar al viejo». Churchill también le hablaba a Estados Unidos, que todavía no entraba a la guerra.\n\nHabló unos 34 minutos. Y un detalle para los que coleccionan anécdotas: la frase de que pelearían «con botellas de cerveza, que es casi todo lo que tenemos» viene de una sola biografía de 1952, sin pruebas. La Sociedad Internacional Churchill la considera no demostrada."
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "Primero la cuenta completa, después la razón para seguir",
+    "texto": "Churchill aplicó un orden que hoy se estudia en comunicación de crisis. Si das la esperanza antes que la mala noticia, la gente siente que la engañas cuando llega la verdad. Si das la verdad entera primero, la esperanza que sigue se vuelve creíble.\n\n**Cómo usarla en tres pasos:**\n\n1. **Nombra el problema con su tamaño real.** Sin eufemismos. «Colosal desastre», no «situación compleja».\n2. **Separa lo que salió bien de lo que significa.** Lo bueno se reconoce, pero no se infla: un rescate no es una victoria.\n3. **Termina con un compromiso concreto y una salida.** «Nunca nos rendiremos» funciona porque viene después del inventario de pérdidas, no en lugar de él.\n\nEl límite: este orden solo funciona si la verdad la dices tú antes de que otro la descubra. Una mala noticia contada tarde ya no genera confianza: la destruye."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Del Parlamento de 1940 a tu próxima junta",
+    "texto": "Esta semana en Guadalajara hay un ejemplo en curso. El 2 de noviembre, el gobernador Pablo Lemus dijo sobre la crisis del agua: «Asumo mi responsabilidad». Es el paso uno. Pero el 4 de noviembre prometió mejoras en «próximas semanas y meses». Esa promesa es el paso tres, y será lo que se juzgue: el compromiso concreto que la gente puede comprobar.\n\nEn una empresa pasa igual. Si una marca de bebidas tiene un lote defectuoso, el comunicado que funciona dice primero qué falló y cuántas botellas, luego qué se hizo bien (lo detectamos en 48 horas) y al final qué cambia. Y si un trimestre las ventas caen 30%, el director que lo dice así, con el número, gana el derecho de pedir el esfuerzo extra."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿Hay una mala noticia en tu negocio que estás contando a medias, solo con la parte del rescate?",
+    "texto": "Piensa en tu equipo o en un socio. Si hoy tuvieras que darle la cifra completa, ¿cuál sería tu «colosal desastre» y cuál tu «nunca nos rendiremos»?"
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Un rescate no es una victoria: di la cuenta completa antes de pedir el esfuerzo."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "The National Archives (Reino Unido): Light in the darkest hour, el debate del Gabinete de mayo de 1940",
+   "url": "https://blog.nationalarchives.gov.uk/light-in-the-darkest-hour/",
+   "minutos": 8
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Qué frase usó Churchill para frenar la euforia por Dunkerque?",
+    "respuesta": "«Las guerras no se ganan con evacuaciones». También llamó a lo ocurrido «un colosal desastre militar»."
+   },
+   {
+    "pregunta": "¿A quién le hablaba Churchill en la última frase del discurso?",
+    "respuesta": "A Estados Unidos: el «Nuevo Mundo» que algún día vendría a rescatar y liberar al viejo."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "International Churchill Society: We Shall Fight on the Beaches (texto)",
+    "url": "https://winstonchurchill.org/resources/speeches/1940-the-finest-hour/we-shall-fight-on-the-beaches/"
+   },
+   {
+    "nombre": "Hansard: War Situation, HC Deb 4 de junio de 1940, vol. 361",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1940/jun/04/war-situation"
+   },
+   {
+    "nombre": "Imperial War Museums: What you need to know about the Dunkirk evacuations",
+    "url": "https://www.iwm.org.uk/history/what-you-need-to-know-about-the-dunkirk-evacuations"
+   },
+   {
+    "nombre": "Historic England: Operation Dynamo, the miracle of Dunkirk",
+    "url": "https://heritagecalling.com/2020/05/25/operation-dynamo-the-miracle-of-dunkirk"
+   },
+   {
+    "nombre": "The National Archives: Light in the darkest hour",
+    "url": "https://blog.nationalarchives.gov.uk/light-in-the-darkest-hour/"
+   },
+   {
+    "nombre": "International Churchill Society, Finest Hour 113 (la frase del diario de Dalton)",
+    "url": "https://winstonchurchill.org/publications/finest-hour/finest-hour-113/wit-wisdom-14/"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Cine y fotografía",
+   "pilar": "cultura",
+   "formato": "desarmado",
+   "titulo": "La escalinata de Odesa: una masacre que no ocurrió ahí",
+   "contexto": "En 1925, el director soviético Serguéi Eisenstein estrenó *El acorazado Potemkin*. Contaba el motín de los marineros de ese barco en junio de 1905, frente al puerto de Odesa.\n\nLa escena más famosa dura unos cinco minutos y medio. Una multitud saluda a los marineros en una escalinata enorme. De pronto, una fila de soldados baja marchando y dispara. La gente cae. Una madre recibe un tiro y su cochecito de bebé rueda escalones abajo.\n\nEs una de las secuencias más estudiadas en las escuelas de cine.",
+   "pregunta": "¿Qué pasó de verdad en la escalinata de Odesa en junio de 1905?",
+   "opciones": [
+    "Una masacre como la de la película",
+    "Hubo muertos en Odesa, pero no esa masacre en la escalinata",
+    "Nada: el motín del Potemkin también es un invento"
+   ],
+   "correcta": 1,
+   "revelacion": "El motín sí ocurrió, y en Odesa hubo huelga y represión: las tropas zaristas mataron civiles en otras partes de la ciudad. Pero, como escribió el crítico Roger Ebert, «de hecho, no hubo ninguna masacre zarista en la escalinata de Odesa». Eisenstein juntó en un solo lugar una violencia que estuvo dispersa.\n\nLo que hace inolvidable la escena es el [[montaje|Forma de unir los planos de una película. Para Eisenstein, el sentido nace del choque entre una imagen y la siguiente.]]. Desármala así: **1.** Caras de civiles en primer plano, con nombre propio casi: la madre, el niño, la anciana de lentes. **2.** Soldados sin rostro: solo botas y fusiles que bajan al mismo ritmo. **3.** Cortes cada vez más rápidos que alargan el tiempo: la bajada dura mucho más de lo que tardaría en la realidad. **4.** Un objeto que lo resume todo: el cochecito sin control.\n\nLa escena es tan poderosa que la escalinata hoy se llama Escalera Potemkin. Brian De Palma la copió en *Los intocables* (1987), con un tiroteo en la estación Union Station de Chicago y un cochecito que cae. Ver las dos seguidas es la mejor clase de montaje que existe.",
+   "idea": "Una imagen bien montada puede volverse más real que la historia: por eso conviene preguntar siempre qué se juntó y qué se dejó fuera.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Potemkinstairs.jpg?width=900",
+    "alt": "Postal antigua de una escalinata monumental que baja hacia el puerto",
+    "pie": "La escalinata de Odesa en una postal del siglo XIX. Se construyó entre 1837 y 1841; tenía 200 escalones y hoy tiene 192",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Roger Ebert: Great Movie, Battleship Potemkin",
+    "url": "https://www.rogerebert.com/?p=43983"
+   },
+   "wiki": "El acorazado Potemkin",
+   "claves": [
+    {
+     "nombre": "Serguéi Eisenstein",
+     "quien": "Director soviético (1898–1948), uno de los grandes teóricos del montaje.",
+     "wiki": "Serguéi Eisenstein"
+    },
+    {
+     "nombre": "Odesa",
+     "quien": "La ciudad portuaria del mar Negro, hoy en Ucrania, donde está la escalinata.",
+     "wiki": "Odesa"
+    },
+    {
+     "nombre": "Revolución rusa de 1905",
+     "quien": "La ola de huelgas y motines contra el zar en la que ocurrió el motín del Potemkin.",
+     "wiki": "Revolución rusa de 1905"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué técnica hace funcionar la escena de la escalinata de Odesa?",
+    "respuesta": "El montaje: el choque entre caras de civiles y soldados sin rostro, con cortes que alargan el tiempo. La masacre en la escalinata no ocurrió así."
+   }
+  },
+  {
+   "materia": "Negocios y estrategia",
+   "pilar": "patrimonio",
+   "formato": "sigueDinero",
+   "titulo": "«Un diamante es para siempre»: cuatro palabras que inventaron una costumbre",
+   "contexto": "En 1938, el negocio de los diamantes estaba de capa caída tras la Gran Depresión. La empresa sudafricana De Beers, que controlaba la mayor parte del suministro mundial, contrató a la agencia de publicidad N. W. Ayer, de Estados Unidos.\n\nEn esa época, el anillo de compromiso con diamante no era la norma: antes de la guerra lo recibía una minoría de las novias estadounidenses, cerca de una de cada diez.\n\nEn 1947, una redactora de Ayer, **Frances Gerety**, presentó en una reunión la frase que necesitaban: *A Diamond Is Forever*.",
+   "pregunta": "¿Qué vendía en realidad la frase?",
+   "opciones": [
+    "Que el diamante es la piedra más dura y no se raya",
+    "Que el amor, como el diamante, no se acaba, y que el tuyo no se vende",
+    "Un descuento para parejas que compraban dos anillos"
+   ],
+   "correcta": 1,
+   "revelacion": "La frase no habla de la piedra: habla de lo que significa. Si el diamante es para siempre, también lo es el compromiso. Y algo que muchos analistas han señalado: si es para siempre, casi nadie revende el suyo, así que no hay un gran mercado de segunda mano que presione los precios a la baja.\n\nSigue el dinero. Según el *Washington Post*, para 1951 ocho de cada diez novias en Estados Unidos ya recibían un diamante. La campaña incluso sugirió cuánto gastar: los primeros anuncios hablaban de **un mes de sueldo**; en los años 80, de **dos meses**. En 1999, la revista *Advertising Age* eligió *A Diamond Is Forever* como el eslogan del siglo XX.\n\nLa lección para una marca premium: no vendas el producto, vende el [[ritual|Acto repetido con un significado social: la pedida de mano, el brindis, el regalo de aniversario.]] al que pertenece. Cuando una marca logra que su producto sea la forma «correcta» de celebrar algo, deja de competir por precio.",
+   "idea": "Las marcas que duran no venden un objeto: venden el significado que la gente quiere demostrar con él.",
+   "fuente": {
+    "nombre": "J. Courtney Sullivan, The Washington Post: How an ad slogan brought diamonds to the masses (Star Tribune)",
+    "url": "https://www.startribune.com/how-an-ad-slogan-brought-diamonds-to-the-masses/244743061/"
+   },
+   "wiki": "De Beers",
+   "claves": [
+    {
+     "nombre": "Anillo de compromiso",
+     "quien": "La costumbre que la campaña volvió casi obligatoria en Estados Unidos.",
+     "wiki": "Anillo de compromiso"
+    },
+    {
+     "nombre": "Diamante",
+     "quien": "El producto: carbono cristalizado cuyo precio depende tanto de la escasez como del significado.",
+     "wiki": "Diamante"
+    },
+    {
+     "nombre": "Eslogan",
+     "quien": "Frase corta y repetible que resume la promesa de una marca.",
+     "wiki": "Eslogan"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Quién escribió «A Diamond Is Forever» y en qué año?",
+    "respuesta": "Frances Gerety, redactora de la agencia N. W. Ayer, en 1947."
+   }
+  },
+  {
+   "materia": "Derecho y poder",
+   "pilar": "mundo",
+   "formato": "elCaso",
+   "titulo": "Ernesto Miranda: ganó su caso, le dio nombre a un derecho y volvió a prisión",
+   "contexto": "El 13 de marzo de 1963, la policía de Phoenix, Arizona, detuvo a **Ernesto Miranda**, de 22 años, por el secuestro y la violación de una joven. Lo interrogaron y firmó una confesión. Nadie le dijo que podía quedarse callado ni pedir un abogado.\n\nCon esa confesión lo condenaron a entre 20 y 30 años. Su caso llegó a la Suprema Corte de Estados Unidos. El 13 de junio de 1966, por 5 votos contra 4, la Corte, con el juez presidente [[Earl Warren|Presidente de la Suprema Corte de EE. UU. de 1953 a 1969, autor de fallos que ampliaron los derechos civiles.]], anuló la condena: una confesión obtenida sin advertir esos derechos no vale.",
+   "pregunta": "Tras ganar en la Suprema Corte, ¿qué le pasó a Ernesto Miranda?",
+   "opciones": [
+    "Quedó libre para siempre",
+    "Lo juzgaron de nuevo sin su confesión y lo condenaron otra vez",
+    "Lo deportaron a México"
+   ],
+   "correcta": 1,
+   "revelacion": "Ganar en la Corte no lo liberó. El 1 de marzo de 1967 lo juzgaron otra vez, ahora sin la confesión, y lo condenaron con otras pruebas, entre ellas el testimonio de su expareja. Recibió de nuevo de 20 a 30 años. Lo que cambió no fue su destino, sino el de todos los demás: desde entonces, la policía de Estados Unidos lee la [[advertencia Miranda|«Tiene derecho a guardar silencio; todo lo que diga puede usarse en su contra; tiene derecho a un abogado…».]] antes de interrogar.\n\nEl final es casi literario. El 31 de enero de 1976, Miranda murió apuñalado en una pelea en un bar de Phoenix. Al sospechoso que detuvieron le leyeron sus derechos Miranda. En 2000, en el caso Dickerson, la Corte confirmó por 7 a 2 que es una regla constitucional que el Congreso no puede borrar.\n\n¿Y en México? El artículo 20, apartado B, de la Constitución dice que desde la detención se le hará saber a la persona su derecho a guardar silencio, y que «la confesión rendida sin la asistencia del defensor carecerá de todo valor probatorio».",
+   "idea": "Muchos derechos llevan el nombre de alguien que no ganó nada con ellos: un caso concreto sirve para fijar una regla para todos.",
+   "fuente": {
+    "nombre": "National Constitution Center: Ernesto Miranda's role in constitutional history",
+    "url": "https://constitutioncenter.org/amp/blog/ernesto-mirandas-role-in-constitutional-history"
+   },
+   "wiki": "Advertencia Miranda",
+   "claves": [
+    {
+     "nombre": "Earl Warren",
+     "quien": "El juez presidente que redactó la sentencia de 1966.",
+     "wiki": "Earl Warren"
+    },
+    {
+     "nombre": "Corte Suprema de los Estados Unidos",
+     "quien": "El tribunal que decidió el caso por 5 votos contra 4.",
+     "wiki": "Corte Suprema de los Estados Unidos"
+    },
+    {
+     "nombre": "Constitución mexicana",
+     "quien": "Su artículo 20 recoge el derecho a guardar silencio y a un defensor desde la detención.",
+     "wiki": "Constitución Política de los Estados Unidos Mexicanos"
+    }
+   ],
+   "repaso": {
+    "pregunta": "Según la Constitución mexicana, ¿qué valor tiene una confesión hecha sin abogado?",
+    "respuesta": "Ninguno: «carecerá de todo valor probatorio» (artículo 20, apartado B, fracción II)."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "sigueDinero",
+   "titulo": "Mailchimp: 20 años sin inversionistas y una venta de 12,000 millones",
+   "contexto": "En 2001, en Atlanta, Ben Chestnut y Mark Armstrong tenían una pequeña agencia de diseño web. Como proyecto paralelo hicieron una herramienta para enviar boletines por correo: Mailchimp. Dan Kurzius se sumó después.\n\nDurante años la cobraron como cualquier software. En septiembre de 2009 hicieron algo arriesgado: un plan **gratis** para cuentas pequeñas. En un año pasaron de unos **85,000 a unos 450,000** usuarios.",
+   "pregunta": "¿Por qué regalar el servicio podía hacer crecer el negocio?",
+   "opciones": [
+    "Porque vendían publicidad dentro de los correos gratis",
+    "Porque atender a un usuario más costaba casi nada, y los que crecían pasaban a un plan de pago",
+    "Porque un gobierno pagaba una cuota por cada usuario"
+   ],
+   "correcta": 1,
+   "revelacion": "Ese es el modelo [[freemium|Modelo de negocio en que la versión básica es gratis y se cobra por las funciones avanzadas o por un uso mayor.]]. Funciona cuando el [[costo marginal|Lo que cuesta producir o atender una unidad más. En el software es casi cero.]] es casi cero: enviar correos para una cuenta pequeña no le cuesta casi nada a la empresa. El plan gratis se vuelve publicidad: cada boletín enviado llevaba el nombre de Mailchimp, y el pequeño negocio que crecía ya no se iba.\n\nSigue el dinero. Mailchimp nunca tuvo inversionistas externos: creció con sus propias ventas. En 2020 facturó unos **800 millones de dólares**. El 13 de septiembre de 2021, Intuit anunció su compra por unos **12,000 millones**, mitad en efectivo y mitad en acciones. Tenía entonces unos 800,000 clientes de pago y 13 millones de usuarios.\n\nEl límite: freemium no es una receta. Si cada usuario gratis te cuesta (soporte, servidores, comisiones), o si nadie tiene razones para pagar más, el plan gratis solo acelera las pérdidas.",
+   "idea": "Regalar funciona cuando la unidad extra no cuesta y el cliente que crece necesita más; si no, solo es perder dinero más rápido.",
+   "fuente": {
+    "nombre": "Intuit: comunicado de la compra de Mailchimp (SEC, 13 sep 2021)",
+    "url": "https://www.sec.gov/Archives/edgar/data/896878/000119312521271682/d226456dex991.htm"
+   },
+   "wiki": "Mailchimp",
+   "claves": [
+    {
+     "nombre": "Freemium",
+     "quien": "El modelo que Mailchimp adoptó en 2009: básico gratis, avanzado de pago.",
+     "wiki": "Freemium"
+    },
+    {
+     "nombre": "Intuit",
+     "quien": "La empresa de software contable que compró Mailchimp en 2021.",
+     "wiki": "Intuit"
+    },
+    {
+     "nombre": "Capital de riesgo",
+     "quien": "El financiamiento de inversionistas que Mailchimp nunca aceptó.",
+     "wiki": "Capital riesgo"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuándo funciona un plan gratis como el de Mailchimp?",
+    "respuesta": "Cuando atender a un usuario más cuesta casi nada y los usuarios que crecen tienen razones para pasar a un plan de pago."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Filosofía para vivir",
+   "pilar": "mente",
+   "epoca": "Siglo IV a. C.",
+   "titulo": "Diógenes desplumó un gallo para corregir a Platón",
+   "dato": "Según la anécdota, Platón definió al ser humano como «animal bípedo sin plumas». Diógenes desplumó un gallo, lo llevó a la Academia y dijo: «He aquí el hombre de Platón».",
+   "explicacion": "Lo cuenta Diógenes Laercio en sus *Vidas de los filósofos* (VI, 40), escritas unos 500 años después, así que es una anécdota, no un hecho comprobado. Según el relato, a la definición se le añadió entonces «de uñas anchas».\n\nLa burla tiene fondo. Diógenes, el [[cínico|Escuela filosófica griega que despreciaba las convenciones y buscaba vivir según la naturaleza, con lo mínimo.]] que vivía en una tinaja, desconfiaba de las definiciones abstractas. Su gallo es una lección que sirve hoy: una definición que deja entrar contraejemplos absurdos no define nada.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous_-_Diogenes_brings_a_plucked_chicken_to_Plato.jpg?width=900",
+    "alt": "Grabado antiguo de un hombre que muestra un ave desplumada a un grupo de filósofos",
+    "pie": "Diógenes lleva un gallo desplumado a Platón (grabado anónimo)",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Diógenes Laercio, Vidas, VI, 40 (trad. Hicks), Perseids",
+    "url": "https://fgh.perseids.org/read/greekLit/tlg0004/tlg001/perseus-eng2/6.2.40-6.2.59"
+   },
+   "wiki": "Diógenes de Sinope",
+   "claves": [
+    {
+     "nombre": "Platón",
+     "quien": "Filósofo ateniense (c. 427–347 a. C.), fundador de la Academia.",
+     "wiki": "Platón"
+    },
+    {
+     "nombre": "Escuela cínica",
+     "quien": "La corriente de Diógenes: vivir con lo mínimo y burlarse de las convenciones.",
+     "wiki": "Escuela cínica"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué llevó Diógenes a la Academia para burlarse de la definición de Platón?",
+    "respuesta": "Un gallo desplumado: «He aquí el hombre de Platón», es decir, un bípedo sin plumas."
+   }
+  },
+  {
+   "materia": "Relaciones y vida social",
+   "pilar": "caracter",
+   "epoca": "1954",
+   "titulo": "Dos bandos rivales se reconciliaron jalando un camión",
+   "dato": "En un campamento de Oklahoma, el psicólogo Muzafer Sherif dividió a 22 niños en dos grupos que llegaron a odiarse. La rivalidad bajó cuando tuvieron que resolver juntos problemas que ninguno podía solo.",
+   "explicacion": "Era el experimento de Robbers Cave. Los grupos, Rattlers y Eagles, compitieron en juegos con premios y se insultaban y asaltaban las cabañas. Las comidas juntos no sirvieron. Lo que funcionó fueron [[metas supraordinadas|Objetivos que importan a los dos grupos y que solo pueden lograrse cooperando.]]: arreglar el suministro de agua, arrancar el camión de la comida, juntar dinero para una película.\n\nHoy se lee con cuidado. En 2018, la investigadora Gina Perry mostró que el equipo de Sherif influyó en la escalada y que un intento anterior, en 1953, se abandonó porque los niños no quisieron pelearse. La idea central sigue viva en la psicología social: el contacto solo no une; un problema compartido, sí.",
+   "fuente": {
+    "nombre": "Scientific American: Revisiting the Robbers Cave",
+    "url": "https://www.scientificamerican.com/blog/literally-psyched/revisiting-the-robbers-cave-the-easy-spontaneity-of-intergroup-conflict"
+   },
+   "profundizar": {
+    "titulo": "Nature: reseña de The Lost Boys, de Gina Perry (2018)",
+    "url": "https://www.nature.com/articles/d41586-018-04582-7"
+   },
+   "wiki": "Psicología social",
+   "claves": [
+    {
+     "nombre": "Experimento de la cárcel de Stanford",
+     "quien": "Otro clásico de la psicología social cuyos métodos también se cuestionan hoy.",
+     "wiki": "Experimento de la cárcel de Stanford"
+    },
+    {
+     "nombre": "Prejuicio",
+     "quien": "El juicio previo contra un grupo, que el experimento creó y luego redujo.",
+     "wiki": "Prejuicio"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué redujo la hostilidad entre los grupos de Robbers Cave?",
+    "respuesta": "Las metas supraordinadas: problemas que solo podían resolver cooperando, como el agua o el camión averiado."
+   }
+  },
+  {
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "epoca": "1747",
+   "titulo": "Doce marineros y uno de los primeros ensayos clínicos",
+   "dato": "En 1747, el médico James Lind dio seis remedios distintos a seis parejas de marineros con escorbuto. Solo la pareja que comió naranjas y limón se recuperó rápido. La Marina británica tardó 48 años en adoptar el jugo de limón.",
+   "explicacion": "Fue a bordo del HMS *Salisbury*, desde el 20 de mayo de 1747. Las otras parejas recibieron sidra, ácido sulfúrico diluido, vinagre, agua de mar o una pasta de ajo y mostaza. Comparar grupos tratados de forma distinta en las mismas condiciones es la idea del [[ensayo clínico controlado|Experimento que compara tratamientos en grupos parecidos para saber cuál funciona de verdad.]]; no era aleatorio, pero abrió el camino.\n\nLo sorprendente es la demora. Lind publicó en 1753, recomendó también remedios ineficaces y un jugo hervido que perdía la vitamina C. La Marina adoptó el limón en grande hasta 1795. Tener la evidencia no basta: hay que hacerla clara y convencer a quien decide.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Lind_by_Chalmers.jpg?width=900",
+    "alt": "Retrato de un hombre del siglo XVIII con peluca y traje oscuro",
+    "pie": "James Lind (1716–1794), médico de la Marina británica",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "The James Lind Library: James Lind and scurvy, 1747 to 1795",
+    "url": "https://www.jameslindlibrary.org/articles/james-lind-and-scurvy-1747-to-1795/"
+   },
+   "wiki": "Escorbuto",
+   "claves": [
+    {
+     "nombre": "Vitamina C",
+     "quien": "El nutriente cuya falta causa el escorbuto; abunda en los cítricos.",
+     "wiki": "Vitamina C"
+    },
+    {
+     "nombre": "Ensayo clínico",
+     "quien": "El método para probar tratamientos que el experimento de Lind anticipó.",
+     "wiki": "Ensayo clínico"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuántos años pasaron entre el experimento de Lind y la adopción del limón por la Marina británica?",
+    "respuesta": "48: de 1747 a 1795."
+   }
+  },
+  {
+   "materia": "Arquitectura y diseño",
+   "pilar": "cultura",
+   "epoca": "1931",
+   "titulo": "El Empire State se levantó en 410 días",
+   "dato": "La obra empezó oficialmente el 17 de marzo de 1930 y el edificio se inauguró el 1 de mayo de 1931: un año y 45 días. En su punto más rápido, la estructura subía cuatro pisos y medio por semana.",
+   "explicacion": "El truco fue industrial. Las piezas de acero llegaban fabricadas y numeradas, y se montaban casi en cuanto bajaban del camión. Los trabajos se organizaron como una línea de montaje vertical, con oficios que se seguían piso por piso.\n\nEl contexto lo hace más extraño: se terminó en plena Gran Depresión, y por años tuvo tantas oficinas vacías que lo apodaron *Empty State Building*. Las fotos de los obreros sentados en las vigas que tomó [[Lewis Hine|Fotógrafo estadounidense (1874–1940) que documentó el trabajo obrero y la construcción del Empire State.]] se volvieron el símbolo de esa velocidad.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Old_timer_structural_worker.jpg?width=900",
+    "alt": "Obrero con gorra sentado sobre una viga de acero a gran altura, con la ciudad abajo",
+    "pie": "Un obrero del Empire State fotografiado por Lewis Hine (1930–1931)",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Empire State Building: History (sitio oficial)",
+    "url": "https://www.esbnyc.com/about/history"
+   },
+   "wiki": "Empire State Building",
+   "claves": [
+    {
+     "nombre": "Rascacielos",
+     "quien": "El tipo de edificio que Nueva York convirtió en símbolo del siglo XX.",
+     "wiki": "Rascacielos"
+    },
+    {
+     "nombre": "Art déco",
+     "quien": "El estilo decorativo del edificio, de líneas geométricas.",
+     "wiki": "Art déco"
+    },
+    {
+     "nombre": "Lewis Hine",
+     "quien": "El fotógrafo que documentó a los obreros en las alturas.",
+     "wiki": "Lewis Hine"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto tardó en construirse el Empire State Building?",
+    "respuesta": "Unos 410 días: del 17 de marzo de 1930 al 1 de mayo de 1931."
+   }
+  },
+  {
+   "materia": "Historia y geopolítica",
+   "pilar": "mundo",
+   "epoca": "1989",
+   "titulo": "El Muro cayó por una respuesta improvisada",
+   "dato": "El 9 de noviembre de 1989, el vocero del gobierno de Alemania del Este, Günter Schabowski, leyó en televisión una nueva regla de viajes. Un periodista preguntó desde cuándo. Schabowski, sin saberlo bien, respondió: «Inmediatamente».",
+   "explicacion": "La conferencia se transmitía en vivo. Hacia las 6:57 de la tarde, Schabowski leyó un borrador que no conocía a fondo. La regla debía aplicarse después y con trámite. Pero dijo, con frases rotas, que entraba en vigor «de inmediato, sin demora». Miles de berlineses fueron a los puestos fronterizos.\n\nEn el paso de Bornholmer Straße, el oficial al mando, sin órdenes claras y ante la multitud, abrió la barrera esa noche. El [[Muro de Berlín|Barrera que dividió Berlín de 1961 a 1989 y se volvió el símbolo de la Guerra Fría.]] no cayó por una decisión planeada, sino por un error en público que nadie se atrevió a corregir con la fuerza.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg?width=900",
+    "alt": "Multitud de personas encima del muro frente a la Puerta de Brandeburgo, de noche",
+    "pie": "Alemanes del Este y del Oeste sobre el Muro, frente a la Puerta de Brandeburgo, en noviembre de 1989",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Bundeszentrale für politische Bildung: 9. November 1989",
+    "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/132175/9-november-1989/"
+   },
+   "wiki": "Caída del Muro de Berlín",
+   "claves": [
+    {
+     "nombre": "Muro de Berlín",
+     "quien": "La barrera que separó Berlín Este y Oeste durante 28 años.",
+     "wiki": "Muro de Berlín"
+    },
+    {
+     "nombre": "República Democrática Alemana",
+     "quien": "Alemania del Este, el Estado comunista que construyó el Muro.",
+     "wiki": "República Democrática Alemana"
+    },
+    {
+     "nombre": "Reunificación de Alemania",
+     "quien": "La unión de las dos Alemanias, en octubre de 1990.",
+     "wiki": "Reunificación de Alemania"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué palabra de Günter Schabowski desató la apertura del Muro?",
+    "respuesta": "Que la nueva regla de viajes valía «inmediatamente», aunque estaba pensada para aplicarse después y con trámite."
+   }
+  },
+  {
+   "materia": "Economía y mercados",
+   "pilar": "patrimonio",
+   "epoca": "1946",
+   "titulo": "En Hungría los precios se duplicaban cada 15 horas",
+   "dato": "En julio de 1946, Hungría tuvo la peor inflación registrada en la historia: unos 41.9 mil billones por ciento al mes. Llegó a circular un billete de 100 trillones de pengős.",
+   "explicacion": "Tras la Segunda Guerra Mundial, Hungría estaba destruida, pagaba reparaciones y el gobierno imprimía dinero para cubrir sus gastos. Los precios subían alrededor de 207% al día. La gente cobraba y corría a gastar antes de la tarde. Ojo con la traducción: el billete que en inglés llaman *100 quintillion* es, en español, **cien trillones** (un 1 con 20 ceros).\n\nEl 1 de agosto de 1946, el pengő fue sustituido por el [[forinto|La moneda de Hungría desde 1946; sigue vigente hoy.]], respaldado por un plan de estabilización. La lección para cualquier economía: una moneda vale lo que vale la confianza en que no se imprimirá sin control.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HUP_100MB_1946_obverse.jpg?width=900",
+    "alt": "Billete antiguo con grabados ornamentales e inscripciones en húngaro",
+    "pie": "El billete de 100 millones de b.-pengő (cien trillones de pengős), de 1946",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Guinness World Records: Highest inflation rate ever",
+    "url": "https://www.guinnessworldrecords.com/world-records/762605-highest-inflation-rate-ever"
+   },
+   "wiki": "Hiperinflación",
+   "claves": [
+    {
+     "nombre": "Forinto húngaro",
+     "quien": "La moneda que reemplazó al pengő en agosto de 1946.",
+     "wiki": "Forinto húngaro"
+    },
+    {
+     "nombre": "Inflación",
+     "quien": "El aumento general de precios; la hiperinflación es su versión descontrolada.",
+     "wiki": "Inflación"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cada cuánto se duplicaban los precios en Hungría en julio de 1946?",
+    "respuesta": "Cada unas 15 horas: la peor inflación registrada."
+   }
+  },
+  {
+   "materia": "IA y el futuro",
+   "pilar": "futuro",
+   "epoca": "1770",
+   "titulo": "La máquina que ganaba al ajedrez tenía un hombre dentro",
+   "dato": "En 1770, Wolfgang von Kempelen presentó en Viena un autómata vestido de turco que jugaba ajedrez y derrotaba a casi todos. Dentro de la caja se escondía un jugador humano.",
+   "explicacion": "El Turco recorrió Europa y América durante más de 80 años. La partida más citada es contra Napoleón, en 1809. La de Benjamin Franklin es tradición: existe una carta de Kempelen invitándolo a verlo en 1783, pero no hay prueba de que jugaran. La máquina se destruyó en un incendio en Filadelfia en 1854.\n\nSu nombre volvió en 2005. Amazon llamó Mechanical Turk a un servicio donde personas hacen pequeñas tareas que las computadoras no resolvían, y lo describió como «inteligencia artificial artificial». La pregunta del Turco sigue viva: cuando una máquina parece inteligente, ¿cuánto trabajo humano hay escondido dentro?",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kempelen_chess1.jpg?width=900",
+    "alt": "Grabado de un autómata con turbante sentado frente a un tablero de ajedrez sobre un gabinete",
+    "pie": "El Turco de Wolfgang von Kempelen en un grabado de la época",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "History.com: How a phony 18th-century chess robot fooled the world",
+    "url": "https://www.history.com/articles/how-a-phony-18th-century-chess-robot-fooled-the-world"
+   },
+   "wiki": "El Turco",
+   "claves": [
+    {
+     "nombre": "Autómata",
+     "quien": "Máquina que imita los movimientos de un ser vivo.",
+     "wiki": "Autómata (mecánico)"
+    },
+    {
+     "nombre": "Napoleón Bonaparte",
+     "quien": "El rival más famoso del Turco, en Viena, en 1809.",
+     "wiki": "Napoleón Bonaparte"
+    },
+    {
+     "nombre": "Amazon Mechanical Turk",
+     "quien": "El servicio de 2005 que tomó su nombre del autómata.",
+     "wiki": "Amazon Mechanical Turk"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo ganaba al ajedrez el Turco de Kempelen?",
+    "respuesta": "Con un jugador humano escondido dentro del gabinete."
+   }
+  },
+  {
+   "materia": "Oficios del lujo y estilo",
+   "pilar": "gusto",
+   "epoca": "1837",
+   "titulo": "Hermès empezó haciendo arneses para caballos",
+   "dato": "La casa de los bolsos más deseados del mundo nació en 1837 como un taller de arneses en París. Su primer gran bolso se diseñó para cargar sillas de montar.",
+   "explicacion": "Thierry Hermès abrió su taller en la rue Basse-du-Rempart y fabricaba arneses para carruajes; ganó un premio en la Exposición Universal de 1867. Las sillas de montar llegaron con su hijo Charles-Émile, que en 1880 llevó la casa al 24 de la rue du Faubourg Saint-Honoré, donde sigue hoy.\n\nA principios del siglo XX nació el *Haut à courroies*, un bolso alto para llevar la silla y las botas. Décadas después inspiró el Birkin. La lección de oficio: la [[talabartería|Oficio de trabajar el cuero para hacer arneses, sillas de montar y otros objetos de piel.]] exige costuras que aguanten la tensión de un caballo; esa misma exigencia, llevada a un bolso, es lo que hoy se paga.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermès,_24_rue_du_Faubourg-Saint-Honoré,_Paris_8e_2-1.jpg?width=900",
+    "alt": "Fachada de una tienda de lujo con toldos y vitrinas en una calle de París",
+    "pie": "La casa Hermès en el 24 de la rue du Faubourg Saint-Honoré, París, desde 1880",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Hermès: Six generations of artisans",
+    "url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/"
+   },
+   "profundizar": {
+    "titulo": "Sotheby's: Hermès Haut à courroies, the original Birkin bag",
+    "url": "https://www.sothebys.com/en/articles/hermes-haut-a-courroies-the-original-birkin-bag"
+   },
+   "wiki": "Bolso Birkin",
+   "claves": [
+    {
+     "nombre": "Talabartería",
+     "quien": "El oficio del cuero ecuestre del que viene Hermès.",
+     "wiki": "Talabartería"
+    },
+    {
+     "nombre": "Bolso Kelly",
+     "quien": "Otro bolso emblemático de Hermès, nombrado por Grace Kelly.",
+     "wiki": "Bolso Kelly"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué fabricaba Hermès cuando se fundó en 1837?",
+    "respuesta": "Arneses para caballos de carruaje. Las sillas de montar llegaron en 1880 y los bolsos, a principios del siglo XX."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "El arte de la guerra",
+  "autor": "Sun Tzu",
+  "capitulo": {
+   "numero": 3,
+   "total": 6,
+   "titulo": "Posición y energía"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Warring_States_or_Western_Han_crossbow.jpg?width=900",
+   "alt": "Ballesta antigua de madera y bronce exhibida en un museo",
+   "pie": "Ballesta china de los Reinos Combatientes o de los Han occidentales, la época en que circulaba *El arte de la guerra*",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "Piensa en dos empresas que lanzan el mismo producto. La primera gasta todo en una campaña enorme y espera que el mercado responda. La segunda primero se asegura de tener caja para dos años, proveedores de respaldo y clientes que ya compran. Después espera. Cuando la competencia se equivoca —sube precios, falla una entrega—, entra.\n\nSun Tzu diría que la segunda ya ganó antes de pelear. De eso tratan los capítulos IV y V de *El arte de la guerra*: dónde te paras y cómo acumulas fuerza para el momento justo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Primero, que no puedan vencerte"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El capítulo IV se llama, en la traducción de Lionel Giles, «Disposiciones tácticas». El término chino es *xing*: la forma, la posición. Y empieza con una idea que parece modesta, pero es la base de todo el libro."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Los buenos guerreros de antaño primero se ponían fuera de la posibilidad de ser derrotados, y luego esperaban la oportunidad de derrotar al enemigo.",
+    "fuente": "El arte de la guerra, IV, 1"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Fíjate en el orden. Primero lo que depende de ti; después lo que depende del otro. Sun Tzu lo explica sin rodeos: asegurarte contra la derrota está en tus manos, pero la oportunidad de vencer la da el enemigo. Por eso, dice, el buen guerrero puede evitar perder, pero no puede garantizar que ganará.\n\nEs una frase de gran honestidad. Ningún plan obliga al rival a equivocarse. Lo único que puedes controlar es no darle tú la oportunidad. Un negocio con deudas cortas y un solo cliente grande no está «a la ofensiva»: está expuesto. La primera tarea del estratega es cerrar sus propias puertas."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Sun Tzu añade que defender indica que la fuerza no alcanza, y atacar, que sobra. No es una regla moral: es una lectura de recursos. Quien no tiene suficiente se protege y espera; quien tiene de más puede tomar la iniciativa. El error es invertir los papeles: atacar cuando apenas alcanza."
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Han_Bronze_Crossbow_Mechanism.jpg?width=900",
+    "alt": "Mecanismo de bronce antiguo con gatillo y piezas articuladas",
+    "pie": "Mecanismo de gatillo de una ballesta china de la dinastía Han. Sun Tzu compara la energía con una ballesta tensada",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Las victorias que nadie aplaude"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Luego viene una de las ideas más extrañas del capítulo. Sun Tzu dice que ver la victoria cuando ya la ve todo el mundo no es la excelencia suprema. Tampoco lo es ganar una batalla y que todo el imperio diga «¡bien hecho!». Y lo ilustra con una imagen: levantar un pelo de otoño no es señal de gran fuerza; ver el sol y la luna no es señal de buena vista; oír un trueno no es señal de buen oído."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Lo que los antiguos llamaban un guerrero hábil es el que no solo gana, sino que gana con facilidad. Por eso sus victorias no le traen ni fama de sabio ni crédito de valiente.",
+    "fuente": "El arte de la guerra, IV, 11–12"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es una advertencia contra el [[heroísmo|Aquí: la acción espectacular y arriesgada que se celebra en público, aunque haya sido evitable.]]. La gran remontada, la negociación salvada a medianoche, el lanzamiento que se rescata en el último minuto: todo eso se aplaude. Pero, para Sun Tzu, si llegaste a ese borde, algo hiciste mal antes.\n\nEl buen estratega gana «sin cometer errores», dice el texto, porque vence a un enemigo que ya estaba derrotado. Sus victorias parecen fáciles y por eso nadie las nota. Un director financiero que evita una crisis de liquidez nunca sale en el periódico. El que la sufre y la resuelve, sí."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según Sun Tzu, ¿por qué las victorias del guerrero hábil no le dan fama de valiente?",
+    "opciones": [
+     "Porque prefiere que otros se lleven el crédito",
+     "Porque gana sin arriesgar ni cometer errores, y eso parece fácil",
+     "Porque sus victorias son pequeñas"
+    ],
+    "correcta": 1,
+    "explicacion": "Gana porque se colocó donde no podía perder y esperó el error del rival. Desde fuera parece que no hubo mérito: no hubo drama."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Ganar antes de pelear"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El capítulo IV llega a su frase central, una de las más citadas del libro:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "El estratega victorioso solo busca la batalla después de haber ganado la victoria, mientras que el destinado a la derrota primero pelea y después busca la victoria.",
+    "fuente": "El arte de la guerra, IV, 15"
+   },
+   {
+    "tipo": "texto",
+    "texto": "¿Cómo se gana antes de pelear? Con cálculo. Sun Tzu enumera cinco pasos que se encadenan: la medición del terreno, la estimación de cantidades, el cálculo, la comparación de fuerzas y, al final, la victoria. Cada uno depende del anterior. Primero conoces el espacio; luego cuántos recursos caben ahí; luego qué puedes mover; luego cómo se compara con lo del rival.\n\nTraducido a un negocio: el tamaño del mercado, lo que cuesta llegar a él, lo que puedes producir y lo que produce tu competencia. Si al terminar esa cuenta la balanza está de tu lado, entras. Si no, no hay discurso que la cambie. Sun Tzu cierra con una imagen: un ejército vencedor frente a uno derrotado es como poner una libra en la balanza contra un solo grano."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Cinco notas, infinitas melodías"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El capítulo V se llama «Energía». El término chino, *shi*, también se traduce como «potencial» o «impulso». Si el capítulo IV trata de dónde pararse, el V trata de cómo moverse.\n\nSun Tzu empieza con una lección de organización: dirigir a muchos es lo mismo que dirigir a pocos; solo hay que dividirlos bien y tener señales claras. Luego introduce la pareja que recorre todo el libro: lo [[directo|Zheng: la fuerza ortodoxa, visible, la que el enemigo espera.]] y lo [[indirecto|Qi: la fuerza sorpresiva, la que llega por donde el enemigo no mira.]]."
+   },
+   {
+    "tipo": "cita",
+    "texto": "En toda pelea, el método directo sirve para entablar la batalla, pero se necesitan métodos indirectos para asegurar la victoria.",
+    "fuente": "El arte de la guerra, V, 5"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Y para mostrar que dos elementos bastan para crear lo inagotable, usa la música, el color y el gusto. No hay más de cinco notas, pero sus combinaciones dan más melodías de las que se pueden oír. No hay más de cinco colores primarios ni más de cinco sabores, y aun así sus mezclas no se acaban. En la batalla solo hay dos métodos, el directo y el indirecto, pero combinados dan una serie infinita de maniobras: «como moverse en círculo, nunca llegas al final».\n\nPara una marca, lo directo es lo que todos esperan: precio, distribución, publicidad. Lo indirecto es lo que el rival no anticipa: una colaboración inesperada, un canal nuevo, una edición limitada. Lo directo te pone en el anaquel; lo indirecto hace que te elijan."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "En una marca de bebidas, ¿qué se parece más a una fuerza «indirecta» en el sentido de Sun Tzu?",
+    "opciones": [
+     "Bajar el precio un 10% en todas las tiendas",
+     "Una edición limitada con un chef local que la competencia no esperaba",
+     "Comprar más espacio en el anaquel del supermercado"
+    ],
+    "correcta": 1,
+    "explicacion": "Precio y anaquel son fuerzas directas: el rival las ve y puede igualarlas. La sorpresa que llega por otro lado es lo indirecto, y según Sun Tzu es lo que asegura la victoria."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El torrente, el halcón y la ballesta"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Los últimos párrafos del capítulo V son de los más bellos del libro. Sun Tzu explica la energía con imágenes de la naturaleza. El ataque de las tropas es como un torrente que arrastra hasta las piedras. La decisión es como el descenso del halcón, que golpea en el instante justo. Y luego une las dos ideas:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "La energía puede compararse con tensar una ballesta; la decisión, con soltar el gatillo.",
+    "fuente": "El arte de la guerra, V, 15"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La ballesta es la clave. La fuerza se acumula despacio y en silencio, mientras se tensa la cuerda. Se libera en un instante. Disparar antes de tensar es inútil; tensar y no disparar, también. Sun Tzu habla además del desorden aparente: un ejército puede parecer caótico y no estarlo, puede fingir miedo porque tiene valor, puede fingir debilidad porque tiene fuerza. Fingir exige más disciplina que mostrarse tal cual.\n\nEl capítulo termina con la imagen más famosa: el buen general no le pide demasiado a cada soldado, sino que crea una situación donde la fuerza de todos se suma. Los troncos y las piedras se quedan quietos en terreno plano y ruedan en la pendiente. La energía de buenos soldados es como una piedra redonda que rueda desde una montaña de miles de pies.\n\nEsa es la idea final: no se trata de tener mejores personas, sino de ponerlas en la pendiente correcta."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Lo que une los dos capítulos",
+    "texto": "El capítulo IV te pide colocarte donde no puedas perder. El V, acumular energía y soltarla de golpe por donde no te esperan. Juntos dicen: la posición se prepara con paciencia; el golpe se da rápido."
+   }
+  ],
+  "paraLlevar": [
+   "Primero hazte invencible; la oportunidad de vencer la pone el rival.",
+   "El estratega victorioso gana antes de pelear; el que pierde pelea y luego busca ganar.",
+   "Lo directo te pone en la batalla; lo indirecto te da la victoria."
+  ],
+  "repaso": [
+   {
+    "pregunta": "Según Sun Tzu, ¿qué depende de ti y qué depende del enemigo?",
+    "respuesta": "Asegurarte contra la derrota depende de ti; la oportunidad de vencer la da el enemigo."
+   },
+   {
+    "pregunta": "¿Con qué compara Sun Tzu la energía y la decisión?",
+    "respuesta": "La energía, con tensar una ballesta; la decisión, con soltar el gatillo."
+   }
+  ],
+  "proximo": "El arte de la guerra · Capítulo 4: Lo lleno y lo vacío",
+  "fuentes": [
+   {
+    "nombre": "Sun Tzu, The Art of War, trad. Lionel Giles (1910), Proyecto Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/132"
+   },
+   {
+    "nombre": "Standard Ebooks: The Art of War, cap. IV (trad. Giles)",
+    "url": "https://standardebooks.org/ebooks/sun-tzu/the-art-of-war/lionel-giles/text/chapter-4"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de dominio público de Lionel Giles (1910), Proyecto Gutenberg."
+ },
+ "palabra": {
+  "palabra": "Ominoso",
+  "categoria": "Adjetivo",
+  "pronunciacion": "o-mi-NO-so",
+  "definicion": "Que anuncia algo malo; de mal agüero. También se usa para lo que merece rechazo o condena.",
+  "origen": "Del latín *ominosus*, de *omen*, «presagio»: lo que trae un presagio, casi siempre malo.",
+  "ejemplo": "Churchill no maquilló el panorama ominoso de junio de 1940: lo llamó un colosal desastre militar.",
+  "repaso": {
+   "pregunta": "¿Qué significa «ominoso»?",
+   "respuesta": "Que anuncia algo malo; de mal agüero. Viene del latín *omen*, presagio."
+  }
+ },
+ "frances": {
+  "frase": "Il faut appeler un chat un chat.",
+  "traduccion": "Hay que llamar al gato, gato (al pan, pan, y al vino, vino).",
+  "pronunciacion": "il fo a-pe-LÉ un SHA un SHA",
+  "uso": "Conversación y negocios. Se dice antes de dar una noticia incómoda sin rodeos: «seamos claros». *Il faut* significa «hay que».",
+  "variante": "Parlons franchement. (Hablemos con franqueza.)",
+  "repaso": {
+   "pregunta": "¿Cómo dices en francés «al pan, pan, y al vino, vino»?",
+   "respuesta": "« Il faut appeler un chat un chat. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Qué dijo Churchill del rescate de Dunkerque el 4 de junio de 1940?",
+   "opciones": [
+    "Que era la victoria que decidía la guerra",
+    "Que convenía no hablar de él",
+    "Que era un milagro, pero que las guerras no se ganan con evacuaciones"
+   ],
+   "correcta": 2,
+   "explicacion": "Lo llamó «un milagro de liberación», pero advirtió que no debía verse como victoria y describió lo ocurrido como «un colosal desastre militar»."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Cuánto llegó a caer el Brent el 4 de noviembre, tras la elección en Estados Unidos?",
+   "opciones": [
+    "Cerca de 9%, hasta unos 94.66 dólares",
+    "Menos de 1%",
+    "Subió 5% por miedo a Irán"
+   ],
+   "correcta": 0,
+   "explicacion": "A la 1:06 p. m. de Nueva York bajaba 8.6%, hasta 94.66 dólares, su nivel más bajo desde el 4 de septiembre."
+  },
+  {
+   "origen": "hechos",
+   "pregunta": "¿Qué abrió el Muro de Berlín la noche del 9 de noviembre de 1989?",
+   "opciones": [
+    "Una orden del gobierno soviético",
+    "Una respuesta improvisada de Günter Schabowski: la regla valía «inmediatamente»",
+    "Un acuerdo firmado ese día entre las dos Alemanias"
+   ],
+   "correcta": 1,
+   "explicacion": "Leyó en vivo una regla de viajes que debía aplicarse después y, al preguntarle desde cuándo, dijo que de inmediato. Miles fueron a la frontera."
+  }
+ ],
+ "libro": null,
+ "proximo": "1964: Mandela en el banquillo, el alegato que lo hizo símbolo"
+}

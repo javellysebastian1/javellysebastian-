@@ -1,7 +1,48 @@
 {
- "actualizado": "2026-11-04",
+ "actualizado": "2026-11-05",
  "materias": {
   "Arquitectura y diseño": [
+   {
+    "materia": "Arquitectura y diseño",
+    "pilar": "cultura",
+    "epoca": "1931",
+    "titulo": "El Empire State se levantó en 410 días",
+    "dato": "La obra empezó oficialmente el 17 de marzo de 1930 y el edificio se inauguró el 1 de mayo de 1931: un año y 45 días. En su punto más rápido, la estructura subía cuatro pisos y medio por semana.",
+    "explicacion": "El truco fue industrial. Las piezas de acero llegaban fabricadas y numeradas, y se montaban casi en cuanto bajaban del camión. Los trabajos se organizaron como una línea de montaje vertical, con oficios que se seguían piso por piso.\n\nEl contexto lo hace más extraño: se terminó en plena Gran Depresión, y por años tuvo tantas oficinas vacías que lo apodaron *Empty State Building*. Las fotos de los obreros sentados en las vigas que tomó [[Lewis Hine|Fotógrafo estadounidense (1874–1940) que documentó el trabajo obrero y la construcción del Empire State.]] se volvieron el símbolo de esa velocidad.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Old_timer_structural_worker.jpg?width=900",
+     "alt": "Obrero con gorra sentado sobre una viga de acero a gran altura, con la ciudad abajo",
+     "pie": "Un obrero del Empire State fotografiado por Lewis Hine (1930–1931)",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Empire State Building: History (sitio oficial)",
+     "url": "https://www.esbnyc.com/about/history"
+    },
+    "wiki": "Empire State Building",
+    "claves": [
+     {
+      "nombre": "Rascacielos",
+      "quien": "El tipo de edificio que Nueva York convirtió en símbolo del siglo XX.",
+      "wiki": "Rascacielos"
+     },
+     {
+      "nombre": "Art déco",
+      "quien": "El estilo decorativo del edificio, de líneas geométricas.",
+      "wiki": "Art déco"
+     },
+     {
+      "nombre": "Lewis Hine",
+      "quien": "El fotógrafo que documentó a los obreros en las alturas.",
+      "wiki": "Lewis Hine"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuánto tardó en construirse el Empire State Building?",
+     "respuesta": "Unos 410 días: del 17 de marzo de 1930 al 1 de mayo de 1931."
+    },
+    "fecha": "2026-11-05"
+   },
    {
     "claves": [
      {
@@ -65,23 +106,6 @@
   ],
   "Arte y pintura": [
    {
-    "materia": "Arte y pintura",
-    "pilar": "cultura",
-    "epoca": "1642",
-    "titulo": "«La ronda de noche» pasa de día",
-    "dato": "El cuadro más famoso de Rembrandt no muestra una escena nocturna. Se oscureció con el barniz y la suciedad, y el apodo «ronda de noche» apareció hasta 1797.",
-    "explicacion": "Su título real es largo: la compañía de la guardia cívica del distrito II, al mando del capitán Frans Banninck Cocq. Rembrandt lo pintó en 1642. El [[barniz|Capa transparente que protege una pintura; con los años se oxida, amarillea y oscurece.]] oxidado lo volvió sombrío, y una restauración en 1947 mostró que la luz era de día.\n\nHay otra sorpresa: en 1715, al trasladarlo al ayuntamiento de Ámsterdam, lo recortaron por los cuatro lados para que cupiera entre dos puertas. Los pedazos nunca aparecieron; una copia de Gerrit Lundens muestra cómo era completo. Hoy el Rijksmuseum lo estudia en la Operación Ronda de Noche, con una foto de 717 gigapíxeles.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Nightwatch_by_Rembrandt_-_Rijksmuseum.jpg?width=900",
-     "alt": "Pintura de un grupo de milicianos con lanzas y mosquetes, iluminados por una luz dorada",
-     "pie": "«La ronda de noche», Rembrandt (1642). Rijksmuseum, Ámsterdam",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Rijksmuseum: 10 things about Rembrandt's Night Watch",
-     "url": "https://www.rijksmuseum.nl/en/stories/10-things/story/10-things-about-rembrandt-s-night-watch"
-    },
-    "wiki": "La ronda de noche",
     "claves": [
      {
       "nombre": "Rembrandt",
@@ -94,11 +118,28 @@
       "wiki": "Rijksmuseum"
      }
     ],
+    "dato": "El cuadro más famoso de Rembrandt no muestra una escena nocturna. Se oscureció con el barniz y la suciedad, y el apodo «ronda de noche» apareció hasta 1797.",
+    "epoca": "1642",
+    "explicacion": "Su título real es largo: la compañía de la guardia cívica del distrito II, al mando del capitán Frans Banninck Cocq. Rembrandt lo pintó en 1642. El [[barniz|Capa transparente que protege una pintura; con los años se oxida, amarillea y oscurece.]] oxidado lo volvió sombrío, y una restauración en 1947 mostró que la luz era de día.\n\nHay otra sorpresa: en 1715, al trasladarlo al ayuntamiento de Ámsterdam, lo recortaron por los cuatro lados para que cupiera entre dos puertas. Los pedazos nunca aparecieron; una copia de Gerrit Lundens muestra cómo era completo. Hoy el Rijksmuseum lo estudia en la Operación Ronda de Noche, con una foto de 717 gigapíxeles.",
+    "fecha": "2026-11-04",
+    "fuente": {
+     "nombre": "Rijksmuseum: 10 things about Rembrandt's Night Watch",
+     "url": "https://www.rijksmuseum.nl/en/stories/10-things/story/10-things-about-rembrandt-s-night-watch"
+    },
+    "imagen": {
+     "alt": "Pintura de un grupo de milicianos con lanzas y mosquetes, iluminados por una luz dorada",
+     "credito": "Wikimedia Commons",
+     "pie": "«La ronda de noche», Rembrandt (1642). Rijksmuseum, Ámsterdam",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Nightwatch_by_Rembrandt_-_Rijksmuseum.jpg?width=900"
+    },
+    "materia": "Arte y pintura",
+    "pilar": "cultura",
     "repaso": {
      "pregunta": "¿Por qué «La ronda de noche» parece nocturna?",
      "respuesta": "Porque el barniz se oscureció; es una escena de día. El apodo apareció hasta 1797."
     },
-    "fecha": "2026-11-04"
+    "titulo": "«La ronda de noche» pasa de día",
+    "wiki": "La ronda de noche"
    },
    {
     "claves": [
@@ -634,17 +675,6 @@
   ],
   "Deporte y aire libre": [
    {
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "epoca": "1891",
-    "titulo": "El primer partido de basquetbol terminó 1 a 0",
-    "dato": "El 21 de diciembre de 1891, en Springfield, Massachusetts, se jugó el primer partido de basquetbol: 18 jugadores, dos canastas de duraznos y una sola anotación en todo el juego.",
-    "explicacion": "James Naismith, profesor de 31 años en la escuela de la YMCA, recibió un encargo: inventar un juego bajo techo para el invierno. Pidió dos cajas para usarlas de meta; el conserje le trajo canastas de duraznos, que se clavaron al barandal a 10 pies (3.05 m), la misma altura que hoy. Escribió 13 reglas, entre ellas no correr con el balón.\n\nWilliam R. Chase anotó la primera canasta, que fue la única. Durante años, alguien tenía que sacar el balón de la canasta a mano: el fondo se cortó tiempo después. El deporte más rápido del mundo empezó como uno muy lento.",
-    "fuente": {
-     "nombre": "Naismith Memorial Basketball Hall of Fame: The First Team",
-     "url": "https://www.hoophall.com/hall-of-famers/first-team"
-    },
-    "wiki": "Baloncesto",
     "claves": [
      {
       "nombre": "James Naismith",
@@ -662,11 +692,22 @@
       "wiki": "Salón de la Fama del Baloncesto"
      }
     ],
+    "dato": "El 21 de diciembre de 1891, en Springfield, Massachusetts, se jugó el primer partido de basquetbol: 18 jugadores, dos canastas de duraznos y una sola anotación en todo el juego.",
+    "epoca": "1891",
+    "explicacion": "James Naismith, profesor de 31 años en la escuela de la YMCA, recibió un encargo: inventar un juego bajo techo para el invierno. Pidió dos cajas para usarlas de meta; el conserje le trajo canastas de duraznos, que se clavaron al barandal a 10 pies (3.05 m), la misma altura que hoy. Escribió 13 reglas, entre ellas no correr con el balón.\n\nWilliam R. Chase anotó la primera canasta, que fue la única. Durante años, alguien tenía que sacar el balón de la canasta a mano: el fondo se cortó tiempo después. El deporte más rápido del mundo empezó como uno muy lento.",
+    "fecha": "2026-11-04",
+    "fuente": {
+     "nombre": "Naismith Memorial Basketball Hall of Fame: The First Team",
+     "url": "https://www.hoophall.com/hall-of-famers/first-team"
+    },
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
     "repaso": {
      "pregunta": "¿Con qué marcador terminó el primer partido de basquetbol, en 1891?",
      "respuesta": "1 a 0. La única canasta la anotó William R. Chase."
     },
-    "fecha": "2026-11-04"
+    "titulo": "El primer partido de basquetbol terminó 1 a 0",
+    "wiki": "Baloncesto"
    },
    {
     "claves": [
@@ -880,17 +921,6 @@
   ],
   "Derecho y poder": [
    {
-    "materia": "Derecho y poder",
-    "pilar": "mundo",
-    "epoca": "1267",
-    "titulo": "Una ley de 1267 sigue vigente en Inglaterra",
-    "dato": "Cuatro capítulos del Estatuto de Marlborough, aprobado en noviembre de 1267 bajo el rey Enrique III, siguen en vigor en Inglaterra y Gales. Son la ley escrita más antigua vigente del Reino Unido.",
-    "explicacion": "Los capítulos que sobreviven tratan del [[embargo|Retención de bienes de alguien para obligarlo a pagar una deuda.]]: prohíben que alguien se cobre por su propia mano tomando bienes ajenos sin pasar por un tribunal. Hoy se pueden consultar en el sitio oficial de legislación del gobierno británico.\n\nLa idea de fondo es moderna: nadie es juez en su propia causa. Un matiz: Escocia e Irlanda tienen sus propias leyes antiguas, y en 2015 la Comisión de Derecho propuso derogar dos de esos capítulos, cosa que no ha ocurrido.",
-    "fuente": {
-     "nombre": "legislation.gov.uk: Statute of Marlborough 1267",
-     "url": "https://www.legislation.gov.uk/aep/Hen3cc1415/52/1"
-    },
-    "wiki": "Enrique III de Inglaterra",
     "claves": [
      {
       "nombre": "Enrique III de Inglaterra",
@@ -903,11 +933,22 @@
       "wiki": "Parlamento de Inglaterra"
      }
     ],
+    "dato": "Cuatro capítulos del Estatuto de Marlborough, aprobado en noviembre de 1267 bajo el rey Enrique III, siguen en vigor en Inglaterra y Gales. Son la ley escrita más antigua vigente del Reino Unido.",
+    "epoca": "1267",
+    "explicacion": "Los capítulos que sobreviven tratan del [[embargo|Retención de bienes de alguien para obligarlo a pagar una deuda.]]: prohíben que alguien se cobre por su propia mano tomando bienes ajenos sin pasar por un tribunal. Hoy se pueden consultar en el sitio oficial de legislación del gobierno británico.\n\nLa idea de fondo es moderna: nadie es juez en su propia causa. Un matiz: Escocia e Irlanda tienen sus propias leyes antiguas, y en 2015 la Comisión de Derecho propuso derogar dos de esos capítulos, cosa que no ha ocurrido.",
+    "fecha": "2026-11-04",
+    "fuente": {
+     "nombre": "legislation.gov.uk: Statute of Marlborough 1267",
+     "url": "https://www.legislation.gov.uk/aep/Hen3cc1415/52/1"
+    },
+    "materia": "Derecho y poder",
+    "pilar": "mundo",
     "repaso": {
      "pregunta": "¿Qué prohíbe el Estatuto de Marlborough que sigue vigente?",
      "respuesta": "Cobrarse por propia mano tomando bienes ajenos sin pasar por un tribunal."
     },
-    "fecha": "2026-11-04"
+    "titulo": "Una ley de 1267 sigue vigente en Inglaterra",
+    "wiki": "Enrique III de Inglaterra"
    },
    {
     "claves": [
@@ -1042,17 +1083,6 @@
   ],
   "Disciplina y hábitos": [
    {
-    "materia": "Disciplina y hábitos",
-    "pilar": "caracter",
-    "epoca": "Siglo XIX",
-    "titulo": "Darwin contaba sus vueltas con piedras",
-    "dato": "Charles Darwin caminaba a diario por un sendero alrededor de un bosquecillo de su casa. Durante un tiempo contaba las vueltas con pedernales: pateaba uno fuera del camino en cada vuelta.",
-    "explicacion": "Lo contó su hijo Francis en sus recuerdos. El sendero estaba en Down House, al sur de Londres; Darwin rentó el terreno en 1846, plantó el bosque y lo recorrió hasta su última caminata, el 7 de marzo de 1882. Hoy se le llama el Sandwalk o el «sendero del pensamiento», pero Darwin le decía simplemente «el camino». No hay fuente de que él usara el nombre romántico.\n\nLo interesante es el sistema: una ruta fija y un contador externo liberan la mente para pensar. Más tarde, ya mayor, Francis cuenta que no seguía un número fijo de vueltas: daba las que su fuerza le permitía.",
-    "fuente": {
-     "nombre": "Darwin Online: Francis Darwin, Reminiscences (CUL-DAR140.3)",
-     "url": "https://darwin-online.org.uk/converted/manuscripts/Darwin_F_Reminiscences_CUL-DAR140.3.1--159.html"
-    },
-    "wiki": "Charles Darwin",
     "claves": [
      {
       "nombre": "Charles Darwin",
@@ -1065,11 +1095,22 @@
       "wiki": "El origen de las especies"
      }
     ],
+    "dato": "Charles Darwin caminaba a diario por un sendero alrededor de un bosquecillo de su casa. Durante un tiempo contaba las vueltas con pedernales: pateaba uno fuera del camino en cada vuelta.",
+    "epoca": "Siglo XIX",
+    "explicacion": "Lo contó su hijo Francis en sus recuerdos. El sendero estaba en Down House, al sur de Londres; Darwin rentó el terreno en 1846, plantó el bosque y lo recorrió hasta su última caminata, el 7 de marzo de 1882. Hoy se le llama el Sandwalk o el «sendero del pensamiento», pero Darwin le decía simplemente «el camino». No hay fuente de que él usara el nombre romántico.\n\nLo interesante es el sistema: una ruta fija y un contador externo liberan la mente para pensar. Más tarde, ya mayor, Francis cuenta que no seguía un número fijo de vueltas: daba las que su fuerza le permitía.",
+    "fecha": "2026-11-04",
+    "fuente": {
+     "nombre": "Darwin Online: Francis Darwin, Reminiscences (CUL-DAR140.3)",
+     "url": "https://darwin-online.org.uk/converted/manuscripts/Darwin_F_Reminiscences_CUL-DAR140.3.1--159.html"
+    },
+    "materia": "Disciplina y hábitos",
+    "pilar": "caracter",
     "repaso": {
      "pregunta": "¿Cómo contaba Darwin sus vueltas en el sendero de su casa?",
      "respuesta": "Pateaba un pedernal fuera del camino en cada vuelta."
     },
-    "fecha": "2026-11-04"
+    "titulo": "Darwin contaba sus vueltas con piedras",
+    "wiki": "Charles Darwin"
    },
    {
     "claves": [
@@ -1209,6 +1250,42 @@
   ],
   "Economía y mercados": [
    {
+    "materia": "Economía y mercados",
+    "pilar": "patrimonio",
+    "epoca": "1946",
+    "titulo": "En Hungría los precios se duplicaban cada 15 horas",
+    "dato": "En julio de 1946, Hungría tuvo la peor inflación registrada en la historia: unos 41.9 mil billones por ciento al mes. Llegó a circular un billete de 100 trillones de pengős.",
+    "explicacion": "Tras la Segunda Guerra Mundial, Hungría estaba destruida, pagaba reparaciones y el gobierno imprimía dinero para cubrir sus gastos. Los precios subían alrededor de 207% al día. La gente cobraba y corría a gastar antes de la tarde. Ojo con la traducción: el billete que en inglés llaman *100 quintillion* es, en español, **cien trillones** (un 1 con 20 ceros).\n\nEl 1 de agosto de 1946, el pengő fue sustituido por el [[forinto|La moneda de Hungría desde 1946; sigue vigente hoy.]], respaldado por un plan de estabilización. La lección para cualquier economía: una moneda vale lo que vale la confianza en que no se imprimirá sin control.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HUP_100MB_1946_obverse.jpg?width=900",
+     "alt": "Billete antiguo con grabados ornamentales e inscripciones en húngaro",
+     "pie": "El billete de 100 millones de b.-pengő (cien trillones de pengős), de 1946",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Guinness World Records: Highest inflation rate ever",
+     "url": "https://www.guinnessworldrecords.com/world-records/762605-highest-inflation-rate-ever"
+    },
+    "wiki": "Hiperinflación",
+    "claves": [
+     {
+      "nombre": "Forinto húngaro",
+      "quien": "La moneda que reemplazó al pengő en agosto de 1946.",
+      "wiki": "Forinto húngaro"
+     },
+     {
+      "nombre": "Inflación",
+      "quien": "El aumento general de precios; la hiperinflación es su versión descontrolada.",
+      "wiki": "Inflación"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cada cuánto se duplicaban los precios en Hungría en julio de 1946?",
+     "respuesta": "Cada unas 15 horas: la peor inflación registrada."
+    },
+    "fecha": "2026-11-05"
+   },
+   {
     "claves": [
      {
       "nombre": "Dinastía Song",
@@ -1323,17 +1400,6 @@
   ],
   "El cosmos": [
    {
-    "materia": "El cosmos",
-    "pilar": "futuro",
-    "epoca": "1969",
-    "titulo": "La Luna se aleja 3.8 cm cada año",
-    "dato": "La Luna se aleja de la Tierra unos 3.8 centímetros al año. Lo sabemos porque desde 1969 disparamos láseres a espejos que dejaron los astronautas del Apolo 11.",
-    "explicacion": "El 21 de julio de 1969, Armstrong y Aldrin colocaron un [[retrorreflector|Espejo especial que devuelve la luz exactamente hacia donde vino.]] en la superficie lunar. El Apolo 14 y el 15 dejaron más. Los observatorios disparan un láser, cronometran cuánto tarda el reflejo en volver y calculan la distancia con precisión de centímetros. Los espejos no necesitan energía y se siguen usando.\n\n¿Por qué se aleja? Por las mareas: la Luna levanta un bulto en los océanos que, por la rotación de la Tierra, va un poco adelantado y la jala hacia adelante. La Tierra a cambio gira cada vez un poco más despacio: los días se alargan, aunque muy lentamente.",
-    "fuente": {
-     "nombre": "NASA JPL: Apollo 11 experiment continues to return valuable data",
-     "url": "https://www.jpl.nasa.gov/news/apollo-11-experiment-continues-to-return-valuable-data/"
-    },
-    "wiki": "Experimento láser de alcance lunar",
     "claves": [
      {
       "nombre": "Apolo 11",
@@ -1346,11 +1412,22 @@
       "wiki": "Luna"
      }
     ],
+    "dato": "La Luna se aleja de la Tierra unos 3.8 centímetros al año. Lo sabemos porque desde 1969 disparamos láseres a espejos que dejaron los astronautas del Apolo 11.",
+    "epoca": "1969",
+    "explicacion": "El 21 de julio de 1969, Armstrong y Aldrin colocaron un [[retrorreflector|Espejo especial que devuelve la luz exactamente hacia donde vino.]] en la superficie lunar. El Apolo 14 y el 15 dejaron más. Los observatorios disparan un láser, cronometran cuánto tarda el reflejo en volver y calculan la distancia con precisión de centímetros. Los espejos no necesitan energía y se siguen usando.\n\n¿Por qué se aleja? Por las mareas: la Luna levanta un bulto en los océanos que, por la rotación de la Tierra, va un poco adelantado y la jala hacia adelante. La Tierra a cambio gira cada vez un poco más despacio: los días se alargan, aunque muy lentamente.",
+    "fecha": "2026-11-04",
+    "fuente": {
+     "nombre": "NASA JPL: Apollo 11 experiment continues to return valuable data",
+     "url": "https://www.jpl.nasa.gov/news/apollo-11-experiment-continues-to-return-valuable-data/"
+    },
+    "materia": "El cosmos",
+    "pilar": "futuro",
     "repaso": {
      "pregunta": "¿Cómo sabemos que la Luna se aleja 3.8 cm al año?",
      "respuesta": "Disparando láseres a los espejos que dejaron las misiones Apolo y midiendo cuánto tarda en volver la luz."
     },
-    "fecha": "2026-11-04"
+    "titulo": "La Luna se aleja 3.8 cm cada año",
+    "wiki": "Experimento láser de alcance lunar"
    },
    {
     "claves": [
@@ -1662,6 +1739,42 @@
   ],
   "Filosofía para vivir": [
    {
+    "materia": "Filosofía para vivir",
+    "pilar": "mente",
+    "epoca": "Siglo IV a. C.",
+    "titulo": "Diógenes desplumó un gallo para corregir a Platón",
+    "dato": "Según la anécdota, Platón definió al ser humano como «animal bípedo sin plumas». Diógenes desplumó un gallo, lo llevó a la Academia y dijo: «He aquí el hombre de Platón».",
+    "explicacion": "Lo cuenta Diógenes Laercio en sus *Vidas de los filósofos* (VI, 40), escritas unos 500 años después, así que es una anécdota, no un hecho comprobado. Según el relato, a la definición se le añadió entonces «de uñas anchas».\n\nLa burla tiene fondo. Diógenes, el [[cínico|Escuela filosófica griega que despreciaba las convenciones y buscaba vivir según la naturaleza, con lo mínimo.]] que vivía en una tinaja, desconfiaba de las definiciones abstractas. Su gallo es una lección que sirve hoy: una definición que deja entrar contraejemplos absurdos no define nada.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous_-_Diogenes_brings_a_plucked_chicken_to_Plato.jpg?width=900",
+     "alt": "Grabado antiguo de un hombre que muestra un ave desplumada a un grupo de filósofos",
+     "pie": "Diógenes lleva un gallo desplumado a Platón (grabado anónimo)",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Diógenes Laercio, Vidas, VI, 40 (trad. Hicks), Perseids",
+     "url": "https://fgh.perseids.org/read/greekLit/tlg0004/tlg001/perseus-eng2/6.2.40-6.2.59"
+    },
+    "wiki": "Diógenes de Sinope",
+    "claves": [
+     {
+      "nombre": "Platón",
+      "quien": "Filósofo ateniense (c. 427–347 a. C.), fundador de la Academia.",
+      "wiki": "Platón"
+     },
+     {
+      "nombre": "Escuela cínica",
+      "quien": "La corriente de Diógenes: vivir con lo mínimo y burlarse de las convenciones.",
+      "wiki": "Escuela cínica"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué llevó Diógenes a la Academia para burlarse de la definición de Platón?",
+     "respuesta": "Un gallo desplumado: «He aquí el hombre de Platón», es decir, un bípedo sin plumas."
+    },
+    "fecha": "2026-11-05"
+   },
+   {
     "claves": [
      {
       "nombre": "Aristóteles",
@@ -1800,17 +1913,6 @@
   ],
   "Gastronomía, vino y destilados": [
    {
-    "materia": "Gastronomía, vino y destilados",
-    "pilar": "gusto",
-    "epoca": "1889",
-    "titulo": "La pizza Margarita y la reina: una historia probablemente inventada",
-    "dato": "Se cuenta que en 1889 el pizzero Raffaele Esposito creó la pizza con los colores de Italia para la reina Margarita. Pero no hay periódicos de la época que lo cuenten, y la carta del palacio que lo «prueba» tiene señales de ser falsa.",
-    "explicacion": "El historiador Zachary Nowak lo estudió en 2014 en la revista *Food, Culture & Society*. Encontró que las pizzas de tomate, mozzarella y albahaca ya existían antes de 1889, y que la carta de agradecimiento tiene un sello en lugar extraño y una firma que no coincide con otras del archivo. La historia la difundió la propia pizzería, la Brandi, desde los años treinta.\n\nNowak la llama una [[tradición inventada|Costumbre o relato que se presenta como antiguo pero fue creado o arreglado mucho después, a menudo con fines comerciales o políticos.]]. La visita real pudo ocurrir; lo dudoso es el origen heroico. Es una lección de branding: una buena historia de origen vale tanto como la receta.",
-    "fuente": {
-     "nombre": "Wikipedia (inglés): History of pizza, con la referencia de Nowak (2014)",
-     "url": "https://en.wikipedia.org/wiki/History_of_pizza"
-    },
-    "wiki": "Historia de la pizza",
     "claves": [
      {
       "nombre": "Margarita de Saboya",
@@ -1823,11 +1925,22 @@
       "wiki": "Nápoles"
      }
     ],
+    "dato": "Se cuenta que en 1889 el pizzero Raffaele Esposito creó la pizza con los colores de Italia para la reina Margarita. Pero no hay periódicos de la época que lo cuenten, y la carta del palacio que lo «prueba» tiene señales de ser falsa.",
+    "epoca": "1889",
+    "explicacion": "El historiador Zachary Nowak lo estudió en 2014 en la revista *Food, Culture & Society*. Encontró que las pizzas de tomate, mozzarella y albahaca ya existían antes de 1889, y que la carta de agradecimiento tiene un sello en lugar extraño y una firma que no coincide con otras del archivo. La historia la difundió la propia pizzería, la Brandi, desde los años treinta.\n\nNowak la llama una [[tradición inventada|Costumbre o relato que se presenta como antiguo pero fue creado o arreglado mucho después, a menudo con fines comerciales o políticos.]]. La visita real pudo ocurrir; lo dudoso es el origen heroico. Es una lección de branding: una buena historia de origen vale tanto como la receta.",
+    "fecha": "2026-11-04",
+    "fuente": {
+     "nombre": "Wikipedia (inglés): History of pizza, con la referencia de Nowak (2014)",
+     "url": "https://en.wikipedia.org/wiki/History_of_pizza"
+    },
+    "materia": "Gastronomía, vino y destilados",
+    "pilar": "gusto",
     "repaso": {
      "pregunta": "¿Por qué se duda de la historia de la pizza Margarita?",
      "respuesta": "Esas pizzas ya existían antes de 1889, ningún periódico registró el episodio y la carta del palacio parece falsa."
     },
-    "fecha": "2026-11-04"
+    "titulo": "La pizza Margarita y la reina: una historia probablemente inventada",
+    "wiki": "Historia de la pizza"
    },
    {
     "claves": [
@@ -1962,6 +2075,47 @@
    }
   ],
   "Historia y geopolítica": [
+   {
+    "materia": "Historia y geopolítica",
+    "pilar": "mundo",
+    "epoca": "1989",
+    "titulo": "El Muro cayó por una respuesta improvisada",
+    "dato": "El 9 de noviembre de 1989, el vocero del gobierno de Alemania del Este, Günter Schabowski, leyó en televisión una nueva regla de viajes. Un periodista preguntó desde cuándo. Schabowski, sin saberlo bien, respondió: «Inmediatamente».",
+    "explicacion": "La conferencia se transmitía en vivo. Hacia las 6:57 de la tarde, Schabowski leyó un borrador que no conocía a fondo. La regla debía aplicarse después y con trámite. Pero dijo, con frases rotas, que entraba en vigor «de inmediato, sin demora». Miles de berlineses fueron a los puestos fronterizos.\n\nEn el paso de Bornholmer Straße, el oficial al mando, sin órdenes claras y ante la multitud, abrió la barrera esa noche. El [[Muro de Berlín|Barrera que dividió Berlín de 1961 a 1989 y se volvió el símbolo de la Guerra Fría.]] no cayó por una decisión planeada, sino por un error en público que nadie se atrevió a corregir con la fuerza.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg?width=900",
+     "alt": "Multitud de personas encima del muro frente a la Puerta de Brandeburgo, de noche",
+     "pie": "Alemanes del Este y del Oeste sobre el Muro, frente a la Puerta de Brandeburgo, en noviembre de 1989",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Bundeszentrale für politische Bildung: 9. November 1989",
+     "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/132175/9-november-1989/"
+    },
+    "wiki": "Caída del Muro de Berlín",
+    "claves": [
+     {
+      "nombre": "Muro de Berlín",
+      "quien": "La barrera que separó Berlín Este y Oeste durante 28 años.",
+      "wiki": "Muro de Berlín"
+     },
+     {
+      "nombre": "República Democrática Alemana",
+      "quien": "Alemania del Este, el Estado comunista que construyó el Muro.",
+      "wiki": "República Democrática Alemana"
+     },
+     {
+      "nombre": "Reunificación de Alemania",
+      "quien": "La unión de las dos Alemanias, en octubre de 1990.",
+      "wiki": "Reunificación de Alemania"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué palabra de Günter Schabowski desató la apertura del Muro?",
+     "respuesta": "Que la nueva regla de viajes valía «inmediatamente», aunque estaba pensada para aplicarse después y con trámite."
+    },
+    "fecha": "2026-11-05"
+   },
    {
     "claves": [
      {
@@ -2100,6 +2254,47 @@
    }
   ],
   "IA y el futuro": [
+   {
+    "materia": "IA y el futuro",
+    "pilar": "futuro",
+    "epoca": "1770",
+    "titulo": "La máquina que ganaba al ajedrez tenía un hombre dentro",
+    "dato": "En 1770, Wolfgang von Kempelen presentó en Viena un autómata vestido de turco que jugaba ajedrez y derrotaba a casi todos. Dentro de la caja se escondía un jugador humano.",
+    "explicacion": "El Turco recorrió Europa y América durante más de 80 años. La partida más citada es contra Napoleón, en 1809. La de Benjamin Franklin es tradición: existe una carta de Kempelen invitándolo a verlo en 1783, pero no hay prueba de que jugaran. La máquina se destruyó en un incendio en Filadelfia en 1854.\n\nSu nombre volvió en 2005. Amazon llamó Mechanical Turk a un servicio donde personas hacen pequeñas tareas que las computadoras no resolvían, y lo describió como «inteligencia artificial artificial». La pregunta del Turco sigue viva: cuando una máquina parece inteligente, ¿cuánto trabajo humano hay escondido dentro?",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kempelen_chess1.jpg?width=900",
+     "alt": "Grabado de un autómata con turbante sentado frente a un tablero de ajedrez sobre un gabinete",
+     "pie": "El Turco de Wolfgang von Kempelen en un grabado de la época",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "History.com: How a phony 18th-century chess robot fooled the world",
+     "url": "https://www.history.com/articles/how-a-phony-18th-century-chess-robot-fooled-the-world"
+    },
+    "wiki": "El Turco",
+    "claves": [
+     {
+      "nombre": "Autómata",
+      "quien": "Máquina que imita los movimientos de un ser vivo.",
+      "wiki": "Autómata (mecánico)"
+     },
+     {
+      "nombre": "Napoleón Bonaparte",
+      "quien": "El rival más famoso del Turco, en Viena, en 1809.",
+      "wiki": "Napoleón Bonaparte"
+     },
+     {
+      "nombre": "Amazon Mechanical Turk",
+      "quien": "El servicio de 2005 que tomó su nombre del autómata.",
+      "wiki": "Amazon Mechanical Turk"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cómo ganaba al ajedrez el Turco de Kempelen?",
+     "respuesta": "Con un jugador humano escondido dentro del gabinete."
+    },
+    "fecha": "2026-11-05"
+   },
    {
     "claves": [
      {
@@ -2657,17 +2852,6 @@
   ],
   "Mente y decisiones": [
    {
-    "materia": "Mente y decisiones",
-    "pilar": "mente",
-    "epoca": "2011",
-    "titulo": "Pagamos más por lo que armamos nosotros",
-    "dato": "En un experimento, quienes armaron una caja de IKEA ofrecieron pagar por ella 78 centavos de dólar. Quienes recibieron la misma caja ya armada, solo 48: un 63% menos.",
-    "explicacion": "Michael Norton, Daniel Mochon y Dan Ariely lo llamaron el **efecto IKEA** (publicado en 2011 en línea y en 2012 en el *Journal of Consumer Psychology*). Lo repitieron con figuras de origami: quienes las hicieron pagaban por su obra torpe casi lo mismo que otros pagaban por las de un experto.\n\nEl esfuerzo propio infla el valor que le damos a algo. Sirve para entender por qué el cliente que personaliza un producto lo quiere más, y también por qué nos cuesta abandonar un proyecto en el que trabajamos mucho, aunque no funcione. Es pariente del [[efecto dotación|Sesgo por el que valoramos más algo solo porque ya es nuestro.]].",
-    "fuente": {
-     "nombre": "Norton, Mochon y Ariely: The IKEA effect (Harvard DASH)",
-     "url": "https://dash.harvard.edu/bitstream/handle/1/12136084/norton%20mochon%20ariely%20third%20round[1].pdf"
-    },
-    "wiki": "Economía conductual",
     "claves": [
      {
       "nombre": "Efecto dotación",
@@ -2680,11 +2864,22 @@
       "wiki": "Economía conductual"
      }
     ],
+    "dato": "En un experimento, quienes armaron una caja de IKEA ofrecieron pagar por ella 78 centavos de dólar. Quienes recibieron la misma caja ya armada, solo 48: un 63% menos.",
+    "epoca": "2011",
+    "explicacion": "Michael Norton, Daniel Mochon y Dan Ariely lo llamaron el **efecto IKEA** (publicado en 2011 en línea y en 2012 en el *Journal of Consumer Psychology*). Lo repitieron con figuras de origami: quienes las hicieron pagaban por su obra torpe casi lo mismo que otros pagaban por las de un experto.\n\nEl esfuerzo propio infla el valor que le damos a algo. Sirve para entender por qué el cliente que personaliza un producto lo quiere más, y también por qué nos cuesta abandonar un proyecto en el que trabajamos mucho, aunque no funcione. Es pariente del [[efecto dotación|Sesgo por el que valoramos más algo solo porque ya es nuestro.]].",
+    "fecha": "2026-11-04",
+    "fuente": {
+     "nombre": "Norton, Mochon y Ariely: The IKEA effect (Harvard DASH)",
+     "url": "https://dash.harvard.edu/bitstream/handle/1/12136084/norton%20mochon%20ariely%20third%20round[1].pdf"
+    },
+    "materia": "Mente y decisiones",
+    "pilar": "mente",
     "repaso": {
      "pregunta": "¿Qué es el efecto IKEA?",
      "respuesta": "Valoramos más lo que armamos o hicimos nosotros: pagaban 78 centavos por su caja armada frente a 48 por una ya armada."
     },
-    "fecha": "2026-11-04"
+    "titulo": "Pagamos más por lo que armamos nosotros",
+    "wiki": "Economía conductual"
    },
    {
     "claves": [
@@ -2912,17 +3107,6 @@
   ],
   "Negocios y estrategia": [
    {
-    "materia": "Negocios y estrategia",
-    "pilar": "patrimonio",
-    "epoca": "1900",
-    "titulo": "La Guía Michelin nació para vender llantas",
-    "dato": "En 1900, cuando Francia tenía menos de 3,000 autos, los hermanos Michelin regalaron 35,000 guías con mapas, talleres y hoteles. Querían que la gente manejara más y gastara más llantas.",
-    "explicacion": "André y Édouard Michelin fabricaban neumáticos. Su apuesta era de largo plazo: si viajar en auto era fácil y placentero, habría más autos y más llantas gastadas. La guía era gratis. En 1920 empezaron a cobrarla, 7 francos, después de que André vio guías usadas para nivelar un banco de taller: «el hombre solo respeta lo que paga».\n\nLas estrellas llegaron después: una en 1926 y la escala de tres en 1931. Es un caso clásico de [[marketing de contenidos|Estrategia de atraer clientes ofreciendo información útil en lugar de anuncios directos.]]: el producto más famoso de una llantera no es una llanta.",
-    "fuente": {
-     "nombre": "Guía Michelin: The history of the Michelin Guide",
-     "url": "https://guide.michelin.com/kr/en/article/features/history-michelin-guide"
-    },
-    "wiki": "Guía Michelin",
     "claves": [
      {
       "nombre": "Michelin",
@@ -2935,11 +3119,22 @@
       "wiki": "Guía Michelin"
      }
     ],
+    "dato": "En 1900, cuando Francia tenía menos de 3,000 autos, los hermanos Michelin regalaron 35,000 guías con mapas, talleres y hoteles. Querían que la gente manejara más y gastara más llantas.",
+    "epoca": "1900",
+    "explicacion": "André y Édouard Michelin fabricaban neumáticos. Su apuesta era de largo plazo: si viajar en auto era fácil y placentero, habría más autos y más llantas gastadas. La guía era gratis. En 1920 empezaron a cobrarla, 7 francos, después de que André vio guías usadas para nivelar un banco de taller: «el hombre solo respeta lo que paga».\n\nLas estrellas llegaron después: una en 1926 y la escala de tres en 1931. Es un caso clásico de [[marketing de contenidos|Estrategia de atraer clientes ofreciendo información útil en lugar de anuncios directos.]]: el producto más famoso de una llantera no es una llanta.",
+    "fecha": "2026-11-04",
+    "fuente": {
+     "nombre": "Guía Michelin: The history of the Michelin Guide",
+     "url": "https://guide.michelin.com/kr/en/article/features/history-michelin-guide"
+    },
+    "materia": "Negocios y estrategia",
+    "pilar": "patrimonio",
     "repaso": {
      "pregunta": "¿Por qué los hermanos Michelin regalaban su guía en 1900?",
      "respuesta": "Para que la gente viajara más en auto y gastara más llantas."
     },
-    "fecha": "2026-11-04"
+    "titulo": "La Guía Michelin nació para vender llantas",
+    "wiki": "Guía Michelin"
    },
    {
     "claves": [
@@ -3045,6 +3240,46 @@
    }
   ],
   "Oficios del lujo y estilo": [
+   {
+    "materia": "Oficios del lujo y estilo",
+    "pilar": "gusto",
+    "epoca": "1837",
+    "titulo": "Hermès empezó haciendo arneses para caballos",
+    "dato": "La casa de los bolsos más deseados del mundo nació en 1837 como un taller de arneses en París. Su primer gran bolso se diseñó para cargar sillas de montar.",
+    "explicacion": "Thierry Hermès abrió su taller en la rue Basse-du-Rempart y fabricaba arneses para carruajes; ganó un premio en la Exposición Universal de 1867. Las sillas de montar llegaron con su hijo Charles-Émile, que en 1880 llevó la casa al 24 de la rue du Faubourg Saint-Honoré, donde sigue hoy.\n\nA principios del siglo XX nació el *Haut à courroies*, un bolso alto para llevar la silla y las botas. Décadas después inspiró el Birkin. La lección de oficio: la [[talabartería|Oficio de trabajar el cuero para hacer arneses, sillas de montar y otros objetos de piel.]] exige costuras que aguanten la tensión de un caballo; esa misma exigencia, llevada a un bolso, es lo que hoy se paga.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermès,_24_rue_du_Faubourg-Saint-Honoré,_Paris_8e_2-1.jpg?width=900",
+     "alt": "Fachada de una tienda de lujo con toldos y vitrinas en una calle de París",
+     "pie": "La casa Hermès en el 24 de la rue du Faubourg Saint-Honoré, París, desde 1880",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Hermès: Six generations of artisans",
+     "url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/"
+    },
+    "profundizar": {
+     "titulo": "Sotheby's: Hermès Haut à courroies, the original Birkin bag",
+     "url": "https://www.sothebys.com/en/articles/hermes-haut-a-courroies-the-original-birkin-bag"
+    },
+    "wiki": "Bolso Birkin",
+    "claves": [
+     {
+      "nombre": "Talabartería",
+      "quien": "El oficio del cuero ecuestre del que viene Hermès.",
+      "wiki": "Talabartería"
+     },
+     {
+      "nombre": "Bolso Kelly",
+      "quien": "Otro bolso emblemático de Hermès, nombrado por Grace Kelly.",
+      "wiki": "Bolso Kelly"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué fabricaba Hermès cuando se fundó en 1837?",
+     "respuesta": "Arneses para caballos de carruaje. Las sillas de montar llegaron en 1880 y los bolsos, a principios del siglo XX."
+    },
+    "fecha": "2026-11-05"
+   },
    {
     "claves": [
      {
@@ -3287,6 +3522,40 @@
    }
   ],
   "Relaciones y vida social": [
+   {
+    "materia": "Relaciones y vida social",
+    "pilar": "caracter",
+    "epoca": "1954",
+    "titulo": "Dos bandos rivales se reconciliaron jalando un camión",
+    "dato": "En un campamento de Oklahoma, el psicólogo Muzafer Sherif dividió a 22 niños en dos grupos que llegaron a odiarse. La rivalidad bajó cuando tuvieron que resolver juntos problemas que ninguno podía solo.",
+    "explicacion": "Era el experimento de Robbers Cave. Los grupos, Rattlers y Eagles, compitieron en juegos con premios y se insultaban y asaltaban las cabañas. Las comidas juntos no sirvieron. Lo que funcionó fueron [[metas supraordinadas|Objetivos que importan a los dos grupos y que solo pueden lograrse cooperando.]]: arreglar el suministro de agua, arrancar el camión de la comida, juntar dinero para una película.\n\nHoy se lee con cuidado. En 2018, la investigadora Gina Perry mostró que el equipo de Sherif influyó en la escalada y que un intento anterior, en 1953, se abandonó porque los niños no quisieron pelearse. La idea central sigue viva en la psicología social: el contacto solo no une; un problema compartido, sí.",
+    "fuente": {
+     "nombre": "Scientific American: Revisiting the Robbers Cave",
+     "url": "https://www.scientificamerican.com/blog/literally-psyched/revisiting-the-robbers-cave-the-easy-spontaneity-of-intergroup-conflict"
+    },
+    "profundizar": {
+     "titulo": "Nature: reseña de The Lost Boys, de Gina Perry (2018)",
+     "url": "https://www.nature.com/articles/d41586-018-04582-7"
+    },
+    "wiki": "Psicología social",
+    "claves": [
+     {
+      "nombre": "Experimento de la cárcel de Stanford",
+      "quien": "Otro clásico de la psicología social cuyos métodos también se cuestionan hoy.",
+      "wiki": "Experimento de la cárcel de Stanford"
+     },
+     {
+      "nombre": "Prejuicio",
+      "quien": "El juicio previo contra un grupo, que el experimento creó y luego redujo.",
+      "wiki": "Prejuicio"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué redujo la hostilidad entre los grupos de Robbers Cave?",
+     "respuesta": "Las metas supraordinadas: problemas que solo podían resolver cooperando, como el agua o el camión averiado."
+    },
+    "fecha": "2026-11-05"
+   },
    {
     "claves": [
      {
@@ -3682,6 +3951,42 @@
    }
   ],
   "Salud y longevidad": [
+   {
+    "materia": "Salud y longevidad",
+    "pilar": "cuerpo",
+    "epoca": "1747",
+    "titulo": "Doce marineros y uno de los primeros ensayos clínicos",
+    "dato": "En 1747, el médico James Lind dio seis remedios distintos a seis parejas de marineros con escorbuto. Solo la pareja que comió naranjas y limón se recuperó rápido. La Marina británica tardó 48 años en adoptar el jugo de limón.",
+    "explicacion": "Fue a bordo del HMS *Salisbury*, desde el 20 de mayo de 1747. Las otras parejas recibieron sidra, ácido sulfúrico diluido, vinagre, agua de mar o una pasta de ajo y mostaza. Comparar grupos tratados de forma distinta en las mismas condiciones es la idea del [[ensayo clínico controlado|Experimento que compara tratamientos en grupos parecidos para saber cuál funciona de verdad.]]; no era aleatorio, pero abrió el camino.\n\nLo sorprendente es la demora. Lind publicó en 1753, recomendó también remedios ineficaces y un jugo hervido que perdía la vitamina C. La Marina adoptó el limón en grande hasta 1795. Tener la evidencia no basta: hay que hacerla clara y convencer a quien decide.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Lind_by_Chalmers.jpg?width=900",
+     "alt": "Retrato de un hombre del siglo XVIII con peluca y traje oscuro",
+     "pie": "James Lind (1716–1794), médico de la Marina británica",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "The James Lind Library: James Lind and scurvy, 1747 to 1795",
+     "url": "https://www.jameslindlibrary.org/articles/james-lind-and-scurvy-1747-to-1795/"
+    },
+    "wiki": "Escorbuto",
+    "claves": [
+     {
+      "nombre": "Vitamina C",
+      "quien": "El nutriente cuya falta causa el escorbuto; abunda en los cítricos.",
+      "wiki": "Vitamina C"
+     },
+     {
+      "nombre": "Ensayo clínico",
+      "quien": "El método para probar tratamientos que el experimento de Lind anticipó.",
+      "wiki": "Ensayo clínico"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuántos años pasaron entre el experimento de Lind y la adopción del limón por la Marina británica?",
+     "respuesta": "48: de 1747 a 1795."
+    },
+    "fecha": "2026-11-05"
+   },
    {
     "claves": [
      {
