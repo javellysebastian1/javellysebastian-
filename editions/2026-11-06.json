@@ -1,0 +1,909 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-06",
+ "numero": 16,
+ "fecha": "2026-11-06",
+ "disponibleDesde": "2026-11-06T08:00:00-06:00",
+ "titulo": "1964: Mandela en el banquillo, el alegato que lo hizo símbolo",
+ "temporada": {
+  "id": "t03",
+  "numero": 3,
+  "titulo": "Grandes discursos que cambiaron la historia",
+  "episodio": 4,
+  "totalEpisodios": 5
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nelson_Mandela_1994.jpg?width=900",
+  "alt": "Retrato de Nelson Mandela sonriendo, con camisa clara",
+  "pie": "Nelson Mandela en 1994, treinta años después del juicio de Rivonia y el año en que fue elegido presidente",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "pregunta": "¿Qué frase usó Churchill para frenar la euforia por Dunkerque?",
+   "respuesta": "«Las guerras no se ganan con evacuaciones». Llamó a lo ocurrido un milagro, pero también un colosal desastre militar.",
+   "origen": "Edición #15"
+  },
+  {
+   "pregunta": "¿Qué derecho lleva el nombre de Ernesto Miranda?",
+   "respuesta": "La advertencia de que puedes guardar silencio y pedir un abogado antes de un interrogatorio. Él ganó su caso y aun así volvió a prisión.",
+   "origen": "Edición #15"
+  },
+  {
+   "pregunta": "¿Qué truco retórico usó Isabel I en Tilbury?",
+   "respuesta": "La concesión: admitió la debilidad que todos veían («el cuerpo de una mujer débil») y en la misma frase la volvió fuerza.",
+   "origen": "Edición #14"
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n-2026-11-06-banxico",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-11-05",
+   "historiaEnCurso": {
+    "id": "tasas-banxico",
+    "titulo": "Tasas de Banxico y el peso",
+    "capitulo": 1,
+    "dondeIbamos": "Banxico llevaba tres decisiones seguidas sin mover la tasa (junio, agosto y septiembre), en 6.50%. El consenso esperaba otra pausa."
+   },
+   "titular": "Banxico sorprende: baja la tasa a 6.25% en votación dividida y el peso se debilita",
+   "quePaso": "El jueves 5 de noviembre, el Banco de México bajó su tasa de interés de **6.50% a 6.25%**. Rige desde el 6 de noviembre. Es el nivel más bajo desde marzo de 2022. La mayoría de los analistas esperaba que no la moviera.\n\nLa votación fue **3 contra 2**. A favor: la gobernadora Victoria Rodríguez Ceja y los subgobernadores Gabriel Cuadra y Omar Mejía. En contra: Galia Borja y Jonathan Heath.\n\nEl comunicado dice que la Junta considera «mantener la tasa por un tiempo prolongado en el nivel alcanzado». Es decir: anuncia una pausa larga. Subió su pronóstico de inflación para el cuarto trimestre de 2026 de 3.5% a 3.7%. La inflación de la primera quincena de octubre fue 3.62%.\n\nEl peso cerró en **18.77 por dólar**, una depreciación de 0.81%, según Expansión con datos de Bloomberg. Durante la sesión llegó a 18.95.",
+   "aMiQue": "El crédito se abarata muy poco y Banxico ya avisó que no habrá más recortes pronto: no planees con tasas mucho más bajas. El riesgo que sí se mueve es el tipo de cambio. Si importas materia prima para suplementos, latas, botellas o concentrados, un peso más débil encarece tu costo. Es buen momento para revisar con tus proveedores en dólares cómo y cuándo fijar precios antes de diciembre.",
+   "contexto": "**Hecho:** la diferencia entre la tasa de Banxico y la de la Reserva Federal (3.75%–4.00%) queda en 225 puntos base contra el límite superior, un mínimo histórico según El Financiero. Esa diferencia es lo que paga a los inversionistas por tener pesos. El peso ya había perdido cerca de 10% desde inicios de septiembre, según Banamex citado por Expansión.\n\n**Interpretación:** el recorte llega con la inflación al alza, y por eso dividió a la Junta. Para Renato Campos, de Greyhound Trading, es un reacomodo del [[carry trade|Estrategia de pedir prestado en una moneda con tasa baja e invertir en otra con tasa alta para ganar la diferencia.]], no una huida del peso. El economista Alejandro Gómez Tamez lo llamó «irresponsable». Anunciarlo como un ajuste puntual parece haber limitado la caída del peso.",
+   "queVigilar": "La próxima decisión de Banxico es el **17 de diciembre**, la última del año. Antes: la inflación de octubre completa (INEGI) y la decisión de la Fed en diciembre. Si el dólar pasa de 19 pesos, el tema volverá a la mesa.",
+   "fuentes": [
+    {
+     "nombre": "El Financiero: Banxico sorprende y baja la tasa de interés a 6.25% (5 nov 2026)",
+     "url": "https://www.elfinanciero.com.mx/economia/2026/11/05/tasa-de-interes-del-banco-de-mexico-en-cuanto-quedo-hoy-5-de-noviembre/"
+    },
+    {
+     "nombre": "EFE vía Yahoo Noticias: El Banco de México sorprende al bajar tasa al 6,25% y prevé pausa prolongada (5 nov 2026)",
+     "url": "https://es-us.noticias.yahoo.com/banco-m%C3%A9xico-sorprende-bajar-tasa-200341074.html"
+    },
+    {
+     "nombre": "Expansión: El peso se deprecia a 18.77 por dólar tras el recorte de Banxico (5 nov 2026)",
+     "url": "https://expansion.mx/economia/2026/11/05/peso-se-deprecia-por-sorpresa-de-banxico-y-analistas-preven-mayor-debilidad-para-moneda-mexicana"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-06-agua-gdl",
+   "ambito": "jalisco",
+   "ambitoTexto": "Guadalajara",
+   "fecha": "2026-11-05",
+   "historiaEnCurso": {
+    "id": "agua-gdl",
+    "titulo": "Crisis del agua en Guadalajara",
+    "capitulo": 9,
+    "dondeIbamos": "El 4 de noviembre el SIAPA alargó los cortes en 6 de las 7 zonas; las zonas 4 y 5 quedaron con hasta 4 días seguidos sin agua."
+   },
+   "titular": "Lemus propone no cobrar el agua de octubre a diciembre en 627 colonias con tandeos",
+   "quePaso": "El jueves 5 de noviembre, el gobernador Pablo Lemus anunció que enviará al Congreso de Jalisco una iniciativa para **condonar el pago del agua de octubre, noviembre y diciembre de 2026** a los usuarios afectados por los tandeos.\n\nAlcanzaría a **627 colonias** del área metropolitana, sobre todo en Guadalajara, Zapopan, Tonalá y Tlaquepaque. «Esto conllevaría a que no pagaran el servicio durante los meses de octubre, noviembre y diciembre de este año», dijo. A quienes ya pagaron el año por adelantado se les bonificarían esos meses en el recibo de 2027. Según Lemus, los alcaldes de la Junta de Gobierno del SIAPA están de acuerdo.\n\nNo se informó cuánto costará ni si incluye a comercios. Mientras tanto, El Informador anticipa «restricciones severas» este fin de semana: el domingo 8 habrá cortes en las zonas 1, 2, 4, 6 y 7.",
+   "aMiQue": "Si tu oficina, bodega o planta está en una zona con tandeo, la condonación no resuelve lo importante: que haya agua. Sigue siendo necesario tener cisterna o una pipa contratada. Y revisa si tu toma entra: hoy no está claro que aplique a usuarios comerciales. Si produces con agua de la red, el riesgo operativo sigue igual.",
+   "contexto": "**Hecho:** desde el 15 de octubre rige un programa de cortes por zonas, y el 4 de noviembre se alargó. El Plan Hídrico anunciado el 28 de octubre suma más de 8,000 millones de pesos. La iniciativa todavía tiene que aprobarla el Congreso.\n\n**Interpretación:** no cobrar un servicio que no llega es una forma de bajar la tensión social, que ya incluye bloqueos y protestas. Pero es un gesto sobre la factura, no sobre el abasto. Lemus dijo que en «las próximas semanas» anunciará menos tandeos; no dio fecha.",
+   "queVigilar": "Que el Congreso dictamine y vote la iniciativa. Los nuevos calendarios del SIAPA a partir del 8 de noviembre. Y si la condonación incluye tomas comerciales.",
+   "fuentes": [
+    {
+     "nombre": "Publimetro: Pablo Lemus busca perdonar tres meses de agua a 627 colonias afectadas (5 nov 2026)",
+     "url": "https://www.publimetro.com.mx/noticias/2026/11/05/pablo-lemus-busca-perdonar-tres-meses-de-agua-a-627-colonias-afectadas-en-jalisco/"
+    },
+    {
+     "nombre": "Notisistema: Lemus propone condonar tres meses de agua en 627 colonias (5 nov 2026)",
+     "url": "https://www.notisistema.com/noticias/lemus-propone-condonar-tres-meses-de-agua-a-usuarios-afectados-por-tandeos-en-627-colonias/"
+    },
+    {
+     "nombre": "El Informador: Cortes de agua del SIAPA del 6 al 8 de noviembre (5 nov 2026)",
+     "url": "https://www.informador.mx/jalisco/cortes-de-agua-del-siapa-que-colonias-seran-afectadas-este-fin-de-semana-del-6-al-8-de-noviembre-20261105-0049.html"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-06-petroleo",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-05",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 14,
+    "dondeIbamos": "El 4 de noviembre el Brent cayó 8.6%, hasta 94.66 dólares, su nivel más bajo desde el 4 de septiembre."
+   },
+   "titular": "El petróleo rebota casi 4% un día después del desplome: sin acuerdo con Irán, nadie se confía",
+   "quePaso": "El jueves 5 de noviembre, el Brent cerró en **98.29 dólares por barril**, un alza de 3.9%. El WTI subió 2.7%, a 90.52 dólares, según Bloomberg publicado por Rigzone. Un día antes había tocado su mínimo en dos meses.\n\nIrán revisa propuestas de mediadores, con Qatar al frente, sobre su programa nuclear, según The New York Times citado por Rigzone. Trump dijo que no planea nuevos ataques inmediatos, pero que Estados Unidos está listo para escalar. La marina iraní reportó un petrolero que chocó con una mina al este de Ormuz.\n\n«Las emociones siguen muy altas», dijo Rebecca Babin, de CIBC. Para Ole Hansen, de Saxo Bank, los precios quedan «vulnerables a una nueva volatilidad».",
+   "aMiQue": "Un petróleo más barato alivia fletes, PET, aluminio y empaques. Pero el rebote muestra que el precio puede saltar con cualquier incidente. Y con el peso más débil tras Banxico, lo que importas no necesariamente baja en pesos. Antes de bajar precios o firmar compromisos largos, conviene esperar a que haya un acuerdo de verdad.",
+   "contexto": "**Hecho:** las exportaciones del Golfo ya están cerca de los niveles de antes de la guerra, según The National. La caída de la semana está en disputa entre fuentes: Rigzone habla de alrededor de 18% y The National de alrededor de 14%.\n\n**Interpretación:** el mercado pasa de cobrar una [[prima de guerra|El sobreprecio que se paga por el riesgo de que un conflicto corte el suministro.]] a apostar por un acuerdo. Hansen lo describe como un riesgo binario: si no hay paz, cualquier incidente vuelve a subir el precio. Paul Donovan, de UBS, ve el barril en 80 a 85 dólares en un escenario de posguerra.",
+   "queVigilar": "La respuesta de Irán a los mediadores, cualquier incidente en Ormuz y cómo el nuevo Congreso de Estados Unidos, con mayoría demócrata, limita la política de Trump hacia Irán.",
+   "fuentes": [
+    {
+     "nombre": "Rigzone (Bloomberg): Oil Rebounds After Sharp Iran War Selloff (5 nov 2026)",
+     "url": "https://www.rigzone.com/news/wire/oil_rebounds_after_sharp_iran_war_selloff-05-nov-2026-185023-article/"
+    },
+    {
+     "nombre": "The National: Oil rebounds from two-month low as uncertainty lingers over Iran war (5 nov 2026)",
+     "url": "https://www.thenationalnews.com/business/energy/2026/11/05/oil-rebounds-from-two-month-low-as-uncertainty-lingers-over-iran-war/"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "Podían condenarlo a muerte. Escribió un discurso que terminaba diciendo que estaba dispuesto a morir. Sus abogados se asustaron.",
+    "contexto": "Lunes 20 de abril de 1964, Palacio de Justicia de Pretoria, Sudáfrica. En el banquillo hay diez acusados. El primero es Nelson Mandela, de 45 años.\n\nLos acusan de [[sabotaje|Aquí: delito por el que la fiscalía acusaba a los líderes del brazo armado del CNA de planear ataques contra instalaciones del gobierno. Podía castigarse con la muerte.]] y de conspirar para derrocar al gobierno del [[apartheid|Sistema legal de segregación racial que rigió en Sudáfrica de 1948 a principios de los años noventa.]]. La pena de muerte es una posibilidad real.\n\nMandela no va a declarar como testigo. Va a leer una declaración desde el banquillo. Sus abogados leyeron el final y le pidieron un cambio.",
+    "pregunta": "¿Qué le pidieron sus abogados que cambiara?",
+    "opciones": [
+     "Que suavizara o quitara la frase final sobre estar dispuesto a morir",
+     "Que negara haber fundado el brazo armado de su partido",
+     "Que pidiera clemencia al juez al terminar"
+    ]
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Una granja en Rivonia",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Liliesleaf_hut1.jpg?width=900",
+     "alt": "Construcción sencilla de techo de paja en una granja",
+     "pie": "Una de las construcciones de Liliesleaf, la granja de Rivonia, al norte de Johannesburgo, donde la policía detuvo a la dirección clandestina en 1963",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "La historia empieza en 1960. El 21 de marzo, la policía disparó contra una protesta pacífica en [[Sharpeville|Municipio sudafricano donde la policía mató a 69 manifestantes el 21 de marzo de 1960. La masacre cambió la estrategia de la oposición negra.]] y mató a 69 personas. Poco después, el gobierno prohibió el Congreso Nacional Africano (CNA), el partido de Mandela.\n\nMandela llevaba años defendiendo la protesta pacífica. Era abogado: había abierto en Johannesburgo, con Oliver Tambo, el primer despacho de abogados negros del país. Tras Sharpeville concluyó que la vía pacífica estaba cerrada. En 1961 ayudó a fundar [[Umkhonto we Sizwe|«Lanza de la Nación» en zulú y xhosa: el brazo armado del CNA, fundado en 1961. Empezó con sabotajes contra instalaciones.]], el brazo armado del CNA.\n\nEn agosto de 1962 lo detuvieron y lo condenaron a cinco años por salir del país sin permiso y por incitar a una huelga. Estaba en prisión cuando, el 11 de julio de 1963, la policía entró en Liliesleaf, una granja en el barrio de Rivonia, al norte de Johannesburgo. Ahí detuvo a buena parte de la dirección clandestina, con documentos que mencionaban a Mandela.\n\nAsí nació el [[Proceso de Rivonia|Juicio celebrado en Pretoria entre 1963 y 1964 contra Mandela y otros líderes del movimiento contra el apartheid.]]. El fiscal era Percy Yutar. El juez, Quartus de Wet. Entre los acusados estaban Walter Sisulu, Govan Mbeki y Ahmed Kathrada.\n\nLa defensa, dirigida por el abogado Bram Fischer, tomó una decisión clave. Mandela no subiría al estrado como testigo, donde el fiscal podría interrogarlo. Haría una [[declaración desde el banquillo|Figura del derecho sudafricano de la época: el acusado hablaba sin juramento y sin que la fiscalía pudiera interrogarlo, a cambio de que su palabra pesara menos como prueba.]]. Pesaría menos como prueba. Pero nadie podría interrumpirlo.\n\nEl 20 de abril se levantó y empezó: «Soy el primer acusado». Habló casi tres horas."
+   },
+   {
+    "tipo": "giro",
+    "titulo": "Lo que admitió y lo que defendió",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palace_of_Justice_-_Pretoria.jpg?width=900",
+     "alt": "Edificio monumental de piedra con cúpula en una plaza",
+     "pie": "El Palacio de Justicia de Pretoria, en Church Square, donde Mandela habló el 20 de abril de 1964",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "Sí: sus abogados temían que la frase final sonara como un desafío al juez. Que pareciera que Mandela pedía la horca. Le sugirieron quitarla. El abogado George Bizos lo convenció de matizarla. Las fuentes no coinciden en quién propuso las palabras exactas, pero el resultado fue añadir «si es necesario».\n\nLo sorprendente es todo lo demás. Mandela no negó la acusación principal. Admitió que había ayudado a fundar Umkhonto we Sizwe y que había planeado sabotajes. Explicó que eligieron el sabotaje porque no implicaba quitar vidas. Y luego cambió el tema del juicio: ya no era si él había hecho algo, sino por qué un pueblo sin voto había llegado ahí.\n\nCerró así: «He luchado contra la dominación blanca y he luchado contra la dominación negra. He acariciado el ideal de una sociedad democrática y libre en la que todas las personas vivan juntas en armonía y con iguales oportunidades. Es un ideal por el que espero vivir y que espero alcanzar. Pero, si es necesario, es un ideal por el que estoy dispuesto a morir».\n\nEl 12 de junio de 1964, el juez de Wet condenó a ocho acusados a cadena perpetua. No a muerte. Mandela pasó 27 años preso, 18 de ellos en la isla Robben. El 11 de febrero de 1990 salió libre. Esa tarde, en Ciudad del Cabo, terminó su primer discurso citando las mismas palabras de 1964."
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "Admite el hecho, disputa el sentido",
+    "texto": "Cuando la evidencia es clara, negar el hecho te hace perder dos veces: el argumento y la credibilidad. Mandela hizo lo contrario. Concedió lo que el fiscal podía probar y peleó en otro terreno: qué significaba.\n\nLa herramienta tiene tres pasos:\n\n**1. Separa el hecho de su lectura.** «Sí, planeé sabotajes» es un hecho. «Soy un criminal» es una lectura. Puedes aceptar lo primero sin aceptar lo segundo.\n\n**2. Admite pronto y completo.** Una admisión a medias parece una confesión arrancada. Una admisión clara, dicha por ti, te devuelve el control del relato.\n\n**3. Lleva la discusión a la causa.** Explica qué te llevó ahí y qué alternativas se cerraron. En el derecho procesal se habla de una [[confesión calificada|Confesión en la que el acusado admite el hecho pero añade circunstancias que cambian su valoración.]]: admites, pero con circunstancias que cambian el juicio.\n\nNo es un truco para justificar cualquier cosa. Solo funciona si la razón que das es verdadera y defendible. Si no lo es, solo confiesas dos veces."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "En un despacho y en una marca",
+    "texto": "**En un juicio o una negociación.** Como abogado, ves a menudo al cliente que quiere negar todo, incluso lo que el contrato o los correos prueban. Esa estrategia suele hundir lo único que se podía ganar: la discusión sobre el monto, la intención o las circunstancias. Admitir lo probado y pelear lo interpretable concentra la fuerza donde hay margen.\n\n**En una crisis de marca.** Si un lote de tu bebida o tu suplemento sale mal, la tentación es minimizarlo. Pero la respuesta que conserva la confianza suele ser la de Tylenol en 1982, que vimos en la primera temporada: reconocer el problema completo y pronto, y explicar qué se hace. Lo que se discute después ya no es si fallaste, sino cómo respondiste."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿Hay algo que estés negando o minimizando que en realidad ya es un hecho, y que te convendría admitir para poder discutir lo que de verdad importa?"
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Cuando el hecho es innegable, no lo niegues: ganas la credibilidad y llevas la pelea a lo que significa."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Nelson Mandela Foundation: «I am prepared to die», el discurso de Rivonia",
+   "url": "https://www.nelsonmandela.org/news/entry/i-am-prepared-to-die-2",
+   "minutos": 10
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Por qué Mandela habló desde el banquillo y no como testigo?",
+    "respuesta": "Para que la fiscalía no pudiera interrogarlo ni interrumpirlo. A cambio, su palabra pesaba menos como prueba."
+   },
+   {
+    "pregunta": "¿Qué añadió Mandela a la frase final para matizarla?",
+    "respuesta": "«Si es necesario»: un ideal por el que espera vivir, pero, si es necesario, por el que está dispuesto a morir."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Nelson Mandela Foundation: I am prepared to die",
+    "url": "https://www.nelsonmandela.org/news/entry/i-am-prepared-to-die-2"
+   },
+   {
+    "nombre": "Al Jazeera: «I am prepared to die», when Mandela shook apartheid (20 abr 2024)",
+    "url": "https://www.aljazeera.com/features/2024/4/20/i-am-prepared-to-die-when-mandela-shook-apartheid-changed-south-africa"
+   },
+   {
+    "nombre": "American Rhetoric: discurso de Mandela al salir de prisión (11 feb 1990)",
+    "url": "https://americanrhetoric.com/speeches/nelsonmandelaprisonrelease.htm"
+   },
+   {
+    "nombre": "Wikipedia: Proceso de Rivonia",
+    "url": "https://es.wikipedia.org/wiki/Proceso_de_Rivonia"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Música",
+   "pilar": "cultura",
+   "formato": "miraEscucha",
+   "titulo": "El Bolero de Ravel: quince minutos de la misma melodía",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maurice_Ravel_1925.jpg?width=900",
+    "alt": "Retrato en blanco y negro de un hombre delgado, bien peinado, con traje",
+    "pie": "Maurice Ravel en 1925, tres años antes de componer el Bolero",
+    "credito": "Wikimedia Commons"
+   },
+   "contexto": "22 de noviembre de 1928, Ópera de París. La bailarina Ida Rubinstein estrena un ballet con música nueva de Maurice Ravel. Le había pedido una pieza de inspiración española.\n\nRavel hizo algo que ningún compositor serio se habría atrevido a hacer. Durante unos quince minutos, la tambora toca el mismo ritmo, sin parar. Encima, dos melodías se turnan, una y otra vez.\n\nEscúchalo con una pregunta en la cabeza: ¿qué es lo que cambia?",
+   "pregunta": "¿Cuántas veces suenan las melodías principales del Bolero?",
+   "opciones": [
+    "Dos veces cada una, y luego se desarrollan",
+    "18 veces en total, casi sin cambiar una nota",
+    "Cada instrumento toca una melodía distinta"
+   ],
+   "correcta": 1,
+   "revelacion": "Las dos melodías suenan **18 veces**: nueve cada una. El ritmo de la tambora se repite 169 veces. La pieza no tiene desarrollo, que es lo que se esperaba de una obra sinfónica. Solo cambia una cosa: quién toca y cuántos tocan.\n\nEmpieza una flauta sola, casi en susurro. Luego un clarinete, un fagot, un saxofón. Ravel mezcla instrumentos para crear colores nuevos: en un momento, una trompa, una celesta y dos flautines tocan la melodía en tonos distintos a la vez, y suenan como un órgano. Todo es un [[crescendo|Aumento gradual de la intensidad del sonido.]] de un cuarto de hora. Casi al final, la música cambia de tonalidad por primera y única vez, solo ocho compases. Ese giro, después de tanta repetición, se siente como un golpe.\n\nRavel lo sabía. En 1931 lo describió como un «tejido orquestal sin música». Era un experimento de [[orquestación|El arte de repartir una música entre los instrumentos de una orquesta.]]: demostrar que el color y la intensidad pueden sostener una obra entera.",
+   "idea": "A veces lo que hace inolvidable algo no es la idea, sino cómo se presenta y cómo crece.",
+   "fuente": {
+    "nombre": "Berliner Philharmoniker: 7 facts about Boléro",
+    "url": "https://www.berliner-philharmoniker.de/en/stories/7-facts-about-bolero/"
+   },
+   "wiki": "Bolero (Ravel)",
+   "claves": [
+    {
+     "nombre": "Maurice Ravel",
+     "quien": "Compositor francés (1875–1937), maestro de la orquestación.",
+     "wiki": "Maurice Ravel"
+    },
+    {
+     "nombre": "Ida Rubinstein",
+     "quien": "Bailarina rusa que encargó el Bolero para su compañía en París.",
+     "wiki": "Ida Rubinstein"
+    },
+    {
+     "nombre": "Ostinato",
+     "quien": "Figura musical que se repite sin cambio: la base de todo el Bolero.",
+     "wiki": "Ostinato"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué es lo único que cambia en el Bolero de Ravel?",
+    "respuesta": "La orquestación: quién toca y cuántos tocan. Las melodías se repiten 18 veces y la intensidad crece sin parar."
+   }
+  },
+  {
+   "materia": "Oficios del lujo y estilo",
+   "pilar": "gusto",
+   "formato": "mitoRealidad",
+   "titulo": "¿El zapato «Goodyear» lo inventó la marca de llantas?",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Foot_care_and_shoe_fitting-Fig11_Goodyear_welt_shoe_cross-section,_sole,_welt,_and_insole_fill_exaggerated.png?width=900",
+    "alt": "Diagrama en corte de un zapato con suela, vira y plantilla",
+    "pie": "Corte de un zapato con construcción Goodyear: la vira une el corte y la suela con costuras",
+    "credito": "Wikimedia Commons"
+   },
+   "contexto": "En las zapaterías de lujo, el vendedor suele decirlo con orgullo: «Es Goodyear welted». Se refiere a cómo está unida la suela al resto del zapato.\n\nMucha gente piensa que tiene que ver con Goodyear, la empresa de llantas. Suena lógico: hule, suelas, Goodyear.",
+   "pregunta": "¿Qué tiene que ver la construcción Goodyear con la marca de llantas?",
+   "opciones": [
+    "Todo: la empresa de llantas empezó haciendo suelas",
+    "Nada directo: las dos llevan el nombre de la misma familia por caminos distintos",
+    "Es una marca italiana de zapatos"
+   ],
+   "correcta": 1,
+   "revelacion": "**Mito.** El inventor de la [[vulcanización|Proceso que vuelve el caucho resistente y elástico calentándolo con azufre.]], Charles Goodyear, tuvo un hijo del mismo nombre. Charles Goodyear Jr. financió y dio nombre a las máquinas que, desde 1862 y sobre todo desde 1869, cosían zapatos de esta forma. Las inventaron dos mecánicos que trabajaban con él, Auguste Destouy y Daniel Mills. La empresa de llantas se fundó en 1898 en Akron, Ohio, la fundó Frank Seiberling y le puso el nombre del padre como homenaje. No tenía relación con la familia.\n\nLo importante es qué significa. En un zapato Goodyear, una tira de piel llamada **vira** se cose al corte y a la plantilla. Luego la suela se cose a la vira. Entre plantilla y suela queda un hueco que se rellena, a menudo con corcho, que con el uso toma la forma de tu pie.\n\nAsí se reconoce: busca la costura visible alrededor del borde de la suela. La ventaja es que la suela se puede cambiar varias veces sin tocar el corte. Un zapato con suela pegada casi siempre se tira cuando se gasta. Uno Goodyear bien cuidado puede durar décadas.",
+   "idea": "El lujo verdadero se nota en lo que se puede reparar: lo que está cosido para durar, no pegado para vender.",
+   "fuente": {
+    "nombre": "Wikipedia (inglés): Goodyear welt",
+    "url": "https://en.wikipedia.org/wiki/Goodyear_welt"
+   },
+   "wiki": "Calzado",
+   "claves": [
+    {
+     "nombre": "Charles Goodyear",
+     "quien": "Inventor estadounidense (1800–1860) de la vulcanización del caucho; su hijo dio nombre a la costura.",
+     "wiki": "Charles Goodyear"
+    },
+    {
+     "nombre": "Vulcanización",
+     "quien": "El proceso que hizo útil al caucho y que dio fama al apellido Goodyear.",
+     "wiki": "Vulcanización"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo reconoces un zapato con construcción Goodyear?",
+    "respuesta": "Por la costura visible en el borde de la suela: la suela va cosida a una vira, así que se puede cambiar sin tirar el zapato."
+   }
+  },
+  {
+   "materia": "El cosmos",
+   "pilar": "futuro",
+   "formato": "adivinaNumero",
+   "titulo": "¿Cuántos planetas conocemos fuera del sistema solar?",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Artist_impression_of_the_exoplanet_51_Pegasi_b.jpg?width=900",
+    "alt": "Ilustración de un planeta gigante y caliente junto a su estrella",
+    "pie": "Ilustración de 51 Pegasi b, el primer planeta descubierto alrededor de una estrella como el Sol (1995)",
+    "credito": "Wikimedia Commons"
+   },
+   "contexto": "Hasta 1992, nadie había confirmado un solo planeta fuera del sistema solar. Durante siglos se especuló que existían, pero no había cómo verlos: brillan millones de veces menos que su estrella.\n\nEn 1995, los suizos Michel Mayor y Didier Queloz detectaron uno alrededor de la estrella 51 Pegasi, a unos 50 años luz.",
+   "pregunta": "¿Cuántos planetas fuera del sistema solar ha confirmado la NASA hasta 2026?",
+   "opciones": [
+    "Unos 60",
+    "Unos 600",
+    "Más de 6,000"
+   ],
+   "correcta": 2,
+   "revelacion": "**Más de 6,000.** El Archivo de Exoplanetas de la NASA pasó esa cifra en septiembre de 2025, y en marzo de 2026 ya sumaba más de 6,100. Hay miles de candidatos más esperando confirmación.\n\nCasi ninguno se ha visto en foto. Se detectan por sus efectos. Mayor y Queloz usaron el [[método de la velocidad radial|Técnica que detecta el leve vaivén de una estrella causado por la gravedad de un planeta que gira a su alrededor.]]: el planeta jala a su estrella y la hace tambalearse. El telescopio Kepler, lanzado en 2009, usó el método del tránsito: mide la pequeña caída de brillo cuando el planeta pasa frente a la estrella. Así encontró miles.\n\nEl primer hallazgo de 1995 sorprendió porque era imposible según las teorías: un gigante como Júpiter que da una vuelta a su estrella en poco más de cuatro días. Obligó a reescribir cómo se forman los sistemas planetarios. Por eso Mayor y Queloz recibieron el Nobel de Física en 2019.",
+   "idea": "En 30 años pasamos de no conocer ningún planeta ajeno a más de 6,000: a veces lo que falta no es el objeto, sino la forma de medirlo.",
+   "fuente": {
+    "nombre": "Live Science: It's official, humans have found 6,000 planets beyond our solar system (sept 2025)",
+    "url": "https://www.livescience.com/space/exoplanets/its-official-humans-have-found-6-000-planets-beyond-our-solar-system"
+   },
+   "wiki": "Planeta extrasolar",
+   "claves": [
+    {
+     "nombre": "Michel Mayor",
+     "quien": "Astrofísico suizo; codescubridor de 51 Pegasi b y Nobel de Física 2019.",
+     "wiki": "Michel Mayor"
+    },
+    {
+     "nombre": "Didier Queloz",
+     "quien": "Astrónomo suizo; descubrió 51 Pegasi b con Mayor cuando era su estudiante de doctorado.",
+     "wiki": "Didier Queloz"
+    },
+    {
+     "nombre": "51 Pegasi b",
+     "quien": "El primer planeta hallado alrededor de una estrella como el Sol (1995).",
+     "wiki": "51 Pegasi b"
+    },
+    {
+     "nombre": "Kepler (telescopio espacial)",
+     "quien": "Telescopio de la NASA (2009–2018) que encontró miles de planetas por el método del tránsito.",
+     "wiki": "Kepler (telescopio espacial)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo detectó el telescopio Kepler miles de planetas?",
+    "respuesta": "Por el método del tránsito: midiendo la pequeña caída de brillo de una estrella cuando un planeta pasa frente a ella."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "sigueDinero",
+   "titulo": "Procreate: una app de 12.99 dólares que se negó a cobrar cada mes",
+   "contexto": "Hobart, Tasmania, en el extremo sur de Australia. Ahí nació Savage Interactive, una empresa fundada por James Cuda con Alanna Cuda. Su producto es Procreate, una app para dibujar y pintar en el iPad.\n\nLa usan ilustradores profesionales, animadores y estudios de cine. Compite contra gigantes como Adobe, que cobra por suscripción mensual.",
+   "pregunta": "¿Cómo cobra Procreate por su app?",
+   "opciones": [
+    "Suscripción mensual, como Adobe",
+    "Un solo pago de 12.99 dólares",
+    "Gratis, con anuncios"
+   ],
+   "correcta": 1,
+   "revelacion": "**Un solo pago de 12.99 dólares**, antes 9.99, sin suscripción. Sigue el dinero: cada copia nueva cuesta casi nada en producir. La tienda de Apple se encarga de cobrar y distribuir, a cambio de una comisión. La empresa invierte en mejorar una sola app y la vende a millones de usuarios de iPad. Según sus fundadores, nunca tomaron capital de riesgo. Fue la app de pago más vendida del iPad en 2018. La empresa no publica cifras de ventas, así que no hay un ingreso verificado que citar.\n\nEl riesgo de este modelo es claro: cada cliente paga una vez. Para seguir creciendo necesitas usuarios nuevos o productos nuevos. Por eso lanzaron Procreate Dreams, para animación, también con pago único.\n\nEn agosto de 2024 hicieron otra apuesta: prometieron no incluir nunca [[IA generativa|Sistemas que crean imágenes, texto o audio nuevos a partir de lo que aprendieron de millones de ejemplos.]] en sus productos. «La creatividad se hace, no se genera», escribieron. Mientras otros sumaban funciones, ellos vendieron una postura a su cliente: el artista que teme ser reemplazado.",
+   "idea": "Un precio simple y una postura clara también son producto: a veces lo que vendes es lo que prometes no hacer.",
+   "fuente": {
+    "nombre": "TechCrunch: Procreate takes a stand against generative AI (19 ago 2024)",
+    "url": "https://techcrunch.com/2024/08/19/procreate-takes-a-stand-against-generative-ai-vows-to-never-incorporate-the-tech-into-its-products"
+   },
+   "wiki": "Procreate (programa)",
+   "claves": [
+    {
+     "nombre": "Adobe Photoshop",
+     "quien": "El programa de edición de imagen más conocido; Adobe lo vende por suscripción desde 2013.",
+     "wiki": "Adobe Photoshop"
+    },
+    {
+     "nombre": "Tasmania",
+     "quien": "La isla del sur de Australia donde está Savage Interactive.",
+     "wiki": "Tasmania"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuál es el riesgo de vender una app con un solo pago?",
+    "respuesta": "Cada cliente paga una vez: para crecer necesitas usuarios o productos nuevos, no ingresos recurrentes."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Retórica y oratoria",
+   "pilar": "mente",
+   "epoca": "Siglo IV a. C.",
+   "titulo": "Demóstenes ensayaba con piedras en la boca",
+   "dato": "El orador más admirado de Atenas empezó con dificultades para hablar. Según Plutarco, ensayaba sus discursos con piedritas en la boca.",
+   "explicacion": "Lo cuenta Plutarco en su *Vida de Demóstenes* (11), citando a Demetrio de Falero, que decía haberlo oído del propio Demóstenes ya viejo. Según el relato, también declamaba mientras corría o subía cuestas, para entrenar el aliento. Es una anécdota antigua, no una prueba documental, pero viene de una fuente cercana.\n\nLa idea de fondo sigue vigente: la voz se entrena como un músculo. Hablar con un obstáculo obliga a articular con más fuerza. Demóstenes acabó siendo el gran orador contra Filipo de Macedonia; sus discursos dieron nombre a las [[filípicas|Discursos de ataque. Viene de los de Demóstenes contra Filipo II de Macedonia.]].",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Démosthène_s'exerçant_à_la_parole_(1870)_by_Jean-Jules-Antoine_Lecomte_du_Nouÿ.jpg?width=900",
+    "alt": "Pintura de un hombre que declama solo frente al mar",
+    "pie": "*Demóstenes ejercitándose en la palabra* (1870), de Jean-Jules-Antoine Lecomte du Nouÿ",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Plutarco, Vida de Demóstenes, 11 (Lexundria)",
+    "url": "https://lexundria.com/plut_dem/11/prr"
+   },
+   "wiki": "Demóstenes",
+   "claves": [
+    {
+     "nombre": "Plutarco",
+     "quien": "Biógrafo griego (c. 46–120 d. C.) que escribió las *Vidas paralelas*.",
+     "wiki": "Plutarco"
+    },
+    {
+     "nombre": "Filipo II de Macedonia",
+     "quien": "Rey macedonio, padre de Alejandro Magno, al que Demóstenes atacó en sus discursos.",
+     "wiki": "Filipo II de Macedonia"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Con qué ensayaba Demóstenes sus discursos, según Plutarco?",
+    "respuesta": "Con piedritas en la boca, para obligarse a articular con fuerza."
+   }
+  },
+  {
+   "materia": "Liderazgo e influencia",
+   "pilar": "caracter",
+   "epoca": "1940–1943",
+   "titulo": "El rey de Dinamarca nunca se puso la estrella amarilla",
+   "dato": "Circula la historia de que el rey Cristián X llevó la estrella de David para proteger a los judíos daneses. Es falsa: los nazis nunca impusieron la estrella en Dinamarca.",
+   "explicacion": "El Museo del Holocausto de Estados Unidos la llama una historia ficticia. Lo que sí hizo el rey durante la ocupación alemana fue salir a caballo, solo y sin escolta, por las calles de Copenhague casi todos los días. Era un símbolo silencioso de que el país seguía en pie.\n\nLa historia real es más impresionante que la leyenda. En octubre de 1943, cuando los nazis planearon deportar a los judíos daneses, miles de ciudadanos comunes los escondieron y los llevaron en barcos de pesca a Suecia. En unas tres semanas cruzaron más de 7,000. No lo hizo un rey: lo hizo una sociedad entera.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Christian_X_in_Copenhagen_1940.jpg?width=900",
+    "alt": "Hombre mayor a caballo en una calle, rodeado de gente que lo mira",
+    "pie": "Cristián X en su paseo a caballo por Copenhague, 1940",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "United States Holocaust Memorial Museum: King Christian X of Denmark",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/king-christian-x-of-denmark"
+   },
+   "wiki": "Cristián X de Dinamarca",
+   "claves": [
+    {
+     "nombre": "Rescate de los judíos daneses",
+     "quien": "La evacuación de más de 7,000 judíos a Suecia en octubre de 1943.",
+     "wiki": "Rescate de los judíos daneses"
+    },
+    {
+     "nombre": "Copenhague",
+     "quien": "La capital danesa, donde el rey paseaba a caballo durante la ocupación.",
+     "wiki": "Copenhague"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué es lo falso y lo verdadero de la historia de Cristián X?",
+    "respuesta": "Falso: que llevó la estrella amarilla. Verdadero: paseaba solo a caballo por Copenhague, y en 1943 los daneses llevaron a más de 7,000 judíos a Suecia."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "epoca": "1903",
+   "titulo": "El Tour de Francia nació para vender periódicos",
+   "dato": "La carrera ciclista más famosa del mundo la inventó un diario deportivo, L'Auto, para ganarle lectores a su rival.",
+   "explicacion": "En 1903, *L'Auto* competía contra *Le Vélo*. Al periodista Géo Lefèvre se le ocurrió una carrera alrededor de Francia, y el director, Henri Desgrange, la hizo realidad. Fueron seis etapas y 2,428 km. Algunas duraban toda la noche. Ganó Maurice Garin, un deshollinador de origen italiano, con casi 95 horas de pedaleo.\n\nFuncionó: las ventas del periódico se dispararon. Al año siguiente hubo tantas trampas, incluido subirse al tren, que Garin y otros fueron descalificados. El *maillot* amarillo del líder, que llegó en 1919, tiene ese color por el papel amarillo del periódico, según la tradición más citada.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maurice_Garin_Meurisse_BNF_Gallica.jpg?width=900",
+    "alt": "Ciclista con bigote junto a su bicicleta antigua",
+    "pie": "Maurice Garin, ganador del primer Tour de Francia (1903)",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (inglés): 1903 Tour de France",
+    "url": "https://en.wikipedia.org/wiki/1903_Tour_de_France"
+   },
+   "wiki": "Tour de Francia",
+   "claves": [
+    {
+     "nombre": "Henri Desgrange",
+     "quien": "Ciclista y periodista francés, director de L'Auto y organizador del Tour.",
+     "wiki": "Henri Desgrange"
+    },
+    {
+     "nombre": "L'Équipe",
+     "quien": "El diario deportivo francés heredero de L'Auto.",
+     "wiki": "L'Équipe"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Para qué se creó el Tour de Francia en 1903?",
+    "respuesta": "Para aumentar las ventas del diario L'Auto frente a su rival, Le Vélo."
+   }
+  },
+  {
+   "materia": "Música",
+   "pilar": "cultura",
+   "epoca": "1770",
+   "titulo": "Mozart copió de memoria una música «secreta»",
+   "dato": "A los 14 años, Mozart oyó en la Capilla Sixtina el *Miserere* de Allegri, cuya partitura el Vaticano no dejaba circular. Llegó a casa y lo escribió de memoria.",
+   "explicacion": "Ocurrió en Roma durante la Semana Santa de 1770. La obra, para dos coros, se cantaba solo en esos días, y su copia estaba restringida. Según las cartas de la familia, Mozart la transcribió tras oírla y volvió a escucharla para corregir detalles. Al año siguiente, el historiador Charles Burney la publicó en Londres.\n\nHay un matiz que casi nunca se cuenta: ya existían algunas copias fuera del Vaticano, y Mozart quizá la había escuchado antes en Londres. La hazaña sigue siendo enorme, pero el «secreto» no era tan absoluto como dice la leyenda.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Wolfgang_Amadeus_Mozart_at_the_age_of_13_in_Verona,_1770.jpg?width=900",
+    "alt": "Retrato de un niño con peluca blanca sentado frente a un clavecín",
+    "pie": "Mozart en Verona, enero de 1770, semanas antes de llegar a Roma",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (inglés): Gregorio Allegri",
+    "url": "https://en.wikipedia.org/wiki/Gregorio_Allegri"
+   },
+   "wiki": "Miserere (Allegri)",
+   "claves": [
+    {
+     "nombre": "Gregorio Allegri",
+     "quien": "Compositor italiano (1582–1652) del Miserere.",
+     "wiki": "Gregorio Allegri"
+    },
+    {
+     "nombre": "Capilla Sixtina",
+     "quien": "La capilla del Vaticano donde se cantaba la obra en Semana Santa.",
+     "wiki": "Capilla Sixtina"
+    },
+    {
+     "nombre": "Wolfgang Amadeus Mozart",
+     "quien": "Compositor austriaco (1756–1791).",
+     "wiki": "Wolfgang Amadeus Mozart"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué obra escribió Mozart de memoria en 1770?",
+    "respuesta": "El Miserere de Allegri, tras oírlo en la Capilla Sixtina."
+   }
+  },
+  {
+   "materia": "Ciudades del mundo",
+   "pilar": "mundo",
+   "epoca": "1648–1665",
+   "titulo": "Un palacio de Ámsterdam se apoya en 13,659 troncos",
+   "dato": "El Palacio Real de Ámsterdam, en la plaza Dam, descansa sobre 13,659 pilotes de madera clavados en el lodo.",
+   "explicacion": "Se construyó como ayuntamiento a partir de 1648, en el siglo de oro neerlandés. El suelo de Ámsterdam es turba y arcilla blanda; para llegar a una capa firme de arena hay que clavar troncos de muchos metros. Bajo el agua y sin oxígeno, la madera casi no se pudre.\n\nCasi toda la ciudad histórica está construida así. Por eso los [[pilotes|Postes clavados en el suelo para transmitir el peso de un edificio a una capa firme.]] son un problema actual: donde baja el nivel del agua, la madera queda expuesta al aire, se pudre y las casas se inclinan. Una ciudad entera depende de que sus troncos sigan mojados.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Amsterdam_(NL),_Koninklijk_Paleis_--_2015_--_7189.jpg?width=900",
+    "alt": "Edificio clásico de piedra con cúpula pequeña frente a una plaza",
+    "pie": "El Palacio Real en la plaza Dam de Ámsterdam",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (inglés): Royal Palace of Amsterdam",
+    "url": "https://en.wikipedia.org/wiki/Royal_Palace_of_Amsterdam"
+   },
+   "wiki": "Palacio Real de Ámsterdam",
+   "claves": [
+    {
+     "nombre": "Ámsterdam",
+     "quien": "Capital de los Países Bajos, construida sobre un terreno pantanoso.",
+     "wiki": "Ámsterdam"
+    },
+    {
+     "nombre": "Pilotes",
+     "quien": "La técnica de cimentación con postes que sostiene la ciudad.",
+     "wiki": "Pilote (cimentación)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué los pilotes de Ámsterdam no se pudren?",
+    "respuesta": "Porque están bajo el agua, sin oxígeno. Si el nivel baja y quedan al aire, se pudren."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "epoca": "2009",
+   "titulo": "Angry Birds fue el juego número 52",
+   "dato": "Antes del éxito que salvó a la empresa, el estudio finlandés Rovio había publicado 51 juegos. A principios de 2009 estaba cerca de la quiebra.",
+   "explicacion": "Angry Birds salió en diciembre de 2009, primero en Finlandia y luego en todo el mundo. Encajó con un formato nuevo: el iPhone, la pantalla táctil y una tienda que llevaba un juego de 99 centavos a cualquier país al instante. Cada copia extra costaba casi nada.\n\nLa lección no es que el juego 52 fuera mágico. Es que en los productos digitales el costo de cada intento puede ser bajo, y el éxito suele llegar después de muchos lanzamientos que nadie recuerda. Rovio sobrevivió lo suficiente para probar una vez más.",
+   "fuente": {
+    "nombre": "Wikiwand: Angry Birds (historia del lanzamiento)",
+    "url": "https://www.wikiwand.com/en/articles/Angry_Birds_HD"
+   },
+   "wiki": "Angry Birds (videojuego)",
+   "claves": [
+    {
+     "nombre": "Rovio Entertainment",
+     "quien": "El estudio finlandés que creó Angry Birds.",
+     "wiki": "Rovio Entertainment"
+    },
+    {
+     "nombre": "App Store",
+     "quien": "La tienda de aplicaciones de Apple, lanzada en 2008.",
+     "wiki": "App Store"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué número de juego de Rovio fue Angry Birds?",
+    "respuesta": "El 52: antes habían publicado 51 juegos sin un gran éxito."
+   }
+  },
+  {
+   "materia": "Ciencia y tecnología",
+   "pilar": "futuro",
+   "epoca": "1994",
+   "titulo": "El código QR se inspiró en un tablero de Go",
+   "dato": "El código QR lo inventó un ingeniero de una empresa de autopartes, Masahiro Hara, para seguir piezas en las fábricas de Toyota.",
+   "explicacion": "Hara trabajaba en Denso, proveedora de Toyota. Los códigos de barras guardaban poca información y había que leer varios por caja. Empezó a desarrollar una alternativa en 1992 y la presentó en 1994. Según contó, la idea de las piezas blancas y negras sobre una cuadrícula le vino del Go, el juego de mesa.\n\nLos tres cuadrados de las esquinas son la clave: permiten que el lector sepa dónde está el código y cómo está girado, desde cualquier ángulo. Denso dejó libre la patente para que cualquiera lo usara. Por eso hoy está en menús, boletos y pagos de todo el mundo.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/QR_code_for_mobile_English_Wikipedia.svg?width=900",
+    "alt": "Código QR en blanco y negro con tres cuadrados en las esquinas",
+    "pie": "Un código QR: los tres cuadrados de las esquinas dicen al lector dónde está y cómo está girado",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "IEEE Spectrum: How a board game and skyscrapers inspired the QR code",
+    "url": "https://spectrum.ieee.org/how-a-board-game-and-skyscrapers-inspired-the-development-of-the-qr-code"
+   },
+   "wiki": "Código QR",
+   "claves": [
+    {
+     "nombre": "Denso",
+     "quien": "Empresa japonesa de autopartes, proveedora de Toyota, donde nació el QR.",
+     "wiki": "Denso Corporation"
+    },
+    {
+     "nombre": "Go",
+     "quien": "Juego de mesa de origen chino con piedras blancas y negras sobre una cuadrícula.",
+     "wiki": "Go (juego)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Para qué se inventó el código QR?",
+    "respuesta": "Para seguir autopartes en las fábricas; lo creó Masahiro Hara en Denso en 1994."
+   }
+  },
+  {
+   "materia": "Etiqueta y protocolo",
+   "pilar": "gusto",
+   "epoca": "Siglo XVII",
+   "titulo": "Por qué el cuchillo de mesa tiene la punta redonda",
+   "dato": "La tradición dice que el cardenal Richelieu mandó limar la punta de sus cuchillos de mesa, hacia 1637, porque le molestaba que sus invitados se limpiaran los dientes con ellos.",
+   "explicacion": "Es una atribución de la tradición, no un documento firme. Lo que sí está registrado es que en 1669 Luis XIV prohibió los cuchillos puntiagudos en la mesa en sus provincias de Flandes, en parte para reducir la violencia.\n\nAntes, cada quien llevaba su propio cuchillo afilado y pinchaba la comida con la punta. Cuando el tenedor se generalizó para pinchar, el cuchillo de mesa quedó solo para cortar y empujar. De ahí su punta redonda, que es la que ves hoy en cualquier mesa formal.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Triple_Portrait_of_Cardinal_de_Richelieu_probably_1642,_Philippe_de_Champaigne.jpg?width=900",
+    "alt": "Tres vistas del rostro de un cardenal con barba y capa roja",
+    "pie": "Triple retrato del cardenal Richelieu, de Philippe de Champaigne (hacia 1642)",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (inglés): Table knife",
+    "url": "https://en.wikipedia.org/wiki/Table_knife"
+   },
+   "wiki": "Cuchillo",
+   "claves": [
+    {
+     "nombre": "Cardenal Richelieu",
+     "quien": "Primer ministro de Luis XIII (1585–1642), el hombre más poderoso de Francia en su época.",
+     "wiki": "Cardenal Richelieu"
+    },
+    {
+     "nombre": "Luis XIV de Francia",
+     "quien": "El Rey Sol (1638–1715), que reguló la etiqueta de la corte.",
+     "wiki": "Luis XIV de Francia"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué cuenta la tradición sobre el cuchillo de mesa redondo?",
+    "respuesta": "Que Richelieu mandó limar las puntas hacia 1637 para que sus invitados no se limpiaran los dientes con ellos."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "El arte de la guerra",
+  "autor": "Sun Tzu",
+  "capitulo": {
+   "numero": 4,
+   "total": 6,
+   "titulo": "Lo lleno y lo vacío"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bamboo_book_-_binding_-_UCR.jpg?width=900",
+   "alt": "Tiras de bambú atadas con cordel, con caracteres chinos escritos en columnas",
+   "pie": "Un libro de tiras de bambú, el formato en que circulaban textos como *El arte de la guerra* (copia de la Universidad de California en Riverside)",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "Imagina dos tiendas que abren el mismo día en la misma calle. Una llegó un mes antes: conoce a los vecinos, sabe a qué hora pasa la gente, tiene el aparador listo. La otra llega corriendo, con cajas sin abrir. ¿Cuál de las dos va a marcar el ritmo de la calle?\n\nSun Tzu empieza su capítulo VI con esa misma escena, pero en un campo de batalla. Es el capítulo que Lionel Giles tradujo como «Puntos débiles y fuertes». El título chino habla de [[lo lleno y lo vacío|Traducción del par chino *xu* y *shi*: lo vacío es lo débil, lo desprotegido; lo lleno, lo fuerte y concentrado.]]: dónde hay fuerza y dónde hay hueco. Y es, para muchos lectores, el centro del libro."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Quien llega primero al campo y espera la llegada del enemigo estará fresco para la lucha; quien llega segundo y tiene que apresurarse a la batalla llegará agotado.",
+    "fuente": "El arte de la guerra, VI, 1"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Mover al otro, no dejarse mover"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La primera frase parece de sentido común. La segunda es la que importa. Sun Tzu dice que el combatiente hábil impone su voluntad al enemigo y no deja que el enemigo le imponga la suya.\n\nEsto no se logra con fuerza bruta. Se logra con [[iniciativa|La capacidad de decidir cuándo y dónde ocurre algo, obligando al otro a reaccionar.]]. Si tú eliges el lugar y el momento, el otro tiene que reaccionar. Y quien reacciona siempre va un paso atrás: llega cansado, decide con prisa, ocupa el terreno que tú ya conoces.\n\n¿Cómo se mueve a alguien sin empujarlo? Sun Tzu da dos caminos. Puedes atraerlo ofreciéndole una ventaja, algo que quiera tomar. O puedes impedir que llegue amenazando algo que le duele perder. Si el enemigo descansa, hay que cansarlo. Si está bien abastecido, hay que obligarlo a pasar hambre. Si está quieto, hay que obligarlo a moverse."
+   },
+   {
+    "tipo": "texto",
+    "texto": "En los negocios esto se ve todos los días. Una empresa que lanza primero una categoría obliga a las demás a explicar por qué son distintas. Una marca que fija el precio de referencia hace que el resto discuta en sus términos. La pregunta de Sun Tzu es siempre la misma: ¿quién está marcando el ritmo, tú o el otro?"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Atacar donde no hay nadie"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Luego viene una idea sencilla y poderosa. Sun Tzu aconseja marchar por donde el enemigo no está, y aparecer donde no te espera. Si atacas solo lugares sin defensa, puedes estar seguro de tener éxito. Si defiendes solo lugares que no pueden ser atacados, puedes estar seguro de resistir.\n\nNo se trata de buscar la batalla más gloriosa. Se trata de encontrar el hueco. Un ejército puede recorrer mil *li* sin cansarse, dice, si marcha por territorio donde no hay enemigo. El esfuerzo no está en pelear más, sino en elegir mejor dónde."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Para eso hace falta algo que Sun Tzu celebra casi con poesía: que el otro no sepa lo que vas a hacer. Si el enemigo no sabe dónde vas a atacar, no sabe qué defender. Si no sabe dónde te vas a defender, no sabe qué atacar. Aquí aparece una de las pocas exclamaciones del libro:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "¡Oh, divino arte de la sutileza y el secreto! Por ti aprendemos a ser invisibles, por ti inaudibles; y así podemos tener en nuestras manos el destino del enemigo.",
+    "fuente": "El arte de la guerra, VI, 9"
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según Sun Tzu, ¿por qué es tan valioso que el rival no sepa dónde vas a atacar?",
+    "opciones": [
+     "Porque así el rival se rinde sin pelear",
+     "Porque no sabe qué defender y tiene que repartir sus fuerzas",
+     "Porque así puedes atacar con menos armas"
+    ],
+    "correcta": 1,
+    "explicacion": "Si no sabe por dónde vendrás, tiene que proteger todo. Y quien protege todo queda débil en todas partes. Eso es justo lo que Sun Tzu explica en el siguiente pasaje."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Quien defiende todo, no defiende nada"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Esta es la idea más famosa del capítulo, y la más útil fuera de la guerra. Sun Tzu dice que si el enemigo refuerza su vanguardia, debilita su retaguardia. Si refuerza la izquierda, debilita la derecha. Y remata:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Si envía refuerzos a todas partes, será débil en todas partes.",
+    "fuente": "El arte de la guerra, VI, 17"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Y añade la explicación de por qué unos ejércitos parecen siempre más numerosos que otros, aunque no lo sean:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "La debilidad numérica viene de tener que prepararse contra posibles ataques; la fuerza numérica, de obligar al adversario a hacer esos preparativos contra nosotros.",
+    "fuente": "El arte de la guerra, VI, 18"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Lee esa frase dos veces. Tus recursos son siempre limitados: dinero, tiempo, gente, atención. Si los repartes para cubrir todos los frentes posibles, ninguno queda fuerte. La fuerza no es cuánto tienes, sino cuánto puedes concentrar en un punto.\n\nPor eso Sun Tzu quiere que el enemigo se divida y que él se mantenga unido. Si nosotros somos uno y el enemigo se reparte en diez, atacamos con diez contra uno en cada punto. Somos pocos en total, pero muchos donde importa.\n\nPiensa en una marca pequeña frente a una multinacional. La grande tiene que estar en todos los canales, todas las ciudades y todos los precios. La pequeña puede concentrarse en un solo segmento: un tipo de cliente, una ciudad, un anaquel. Ahí, por un momento, es más fuerte que el gigante. Es la versión comercial de lo lleno y lo vacío."
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bamboo_book_-_unfolded_-_UCR.jpg?width=900",
+    "alt": "Libro de tiras de bambú desplegado sobre una superficie, con columnas de caracteres",
+    "pie": "El mismo libro de bambú desplegado: así se leía el texto, columna por columna",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Tienes una marca pequeña y poco presupuesto. ¿Qué haría Sun Tzu?",
+    "opciones": [
+     "Estar en todos los canales para que nadie te olvide",
+     "Concentrar todo en un segmento donde el grande está débil",
+     "Copiar exactamente lo que hace el líder, pero más barato"
+    ],
+    "correcta": 1,
+    "explicacion": "Repartirte te deja débil en todas partes. Concentrarte en un punto donde el rival está disperso te da ventaja ahí, aunque en total seas más pequeño."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Hacer que el otro se muestre"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Para concentrarte en el hueco, primero tienes que saber dónde está. Sun Tzu no confía en adivinar. Propone provocar al enemigo para conocer cómo actúa y cuándo se queda quieto. Obligarlo a mostrarse para descubrir sus puntos vulnerables. Y comparar con cuidado su ejército con el propio, para saber dónde sobra fuerza y dónde falta.\n\nEs decir: la información no se espera, se busca. Un pequeño movimiento, una prueba, una escaramuza, revela más que semanas de especulación. El que se mueve primero aprende; el que espera, supone.\n\nEn una empresa, esto tiene nombres modernos: un piloto en una sola ciudad, una edición limitada, un precio de prueba. Son formas baratas de obligar al mercado, y a la competencia, a mostrar cómo reaccionan. Antes de lanzar todo, Sun Tzu lanzaría algo pequeño y miraría con atención qué pasa.\n\nHay otra condición, y es la más difícil: que mientras tú lees al otro, él no pueda leerte a ti. Sun Tzu dice que la perfección en el despliegue de las tropas es no tener forma visible. Si no hay forma, ni el espía más atento puede descubrir nada, ni el más sabio puede hacer planes contra ti. La gente ve la táctica con la que ganaste, pero nadie ve la estrategia que la produjo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Como el agua"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El capítulo termina con una de las imágenes más bellas del libro. Sun Tzu advierte primero contra la tentación del éxito: no repitas la táctica que te dio una victoria. Si funcionó una vez, el enemigo ya la vio. Deja que tus métodos sigan la variedad infinita de las circunstancias.\n\nY entonces compara el arte militar con el agua. El agua evita lo alto y corre hacia lo bajo. Un ejército evita lo fuerte y golpea lo débil."
+   },
+   {
+    "tipo": "cita",
+    "texto": "El agua da forma a su curso según la naturaleza del terreno por el que corre; el soldado construye su victoria según el enemigo que tiene enfrente. Así como el agua no conserva una forma constante, en la guerra no hay condiciones constantes.",
+    "fuente": "El arte de la guerra, VI, 31–32"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El agua no tiene un plan fijo y, sin embargo, siempre llega. No pelea contra la roca: la rodea. Con el tiempo, la gasta. Sun Tzu dice que quien sabe cambiar su táctica según el enemigo, y así vencer, merece que lo llamen un capitán nacido del cielo.\n\nHay una paradoja aquí. Los capítulos anteriores pedían preparación, cálculo y posición. Este pide flexibilidad. No se contradicen. La posición se prepara con disciplina; la forma de usarla cambia todos los días. El error no es tener un plan. Es enamorarse de él."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "En una frase",
+    "texto": "Marca tú el ritmo, busca el hueco y no el muro, concentra lo poco que tienes donde el otro está disperso, y no repitas lo que ya funcionó: fluye como el agua según el terreno."
+   }
+  ],
+  "paraLlevar": [
+   "Quien elige el lugar y el momento obliga al otro a llegar cansado.",
+   "Si defiendes todo, eres débil en todas partes: la fuerza es lo que puedes concentrar.",
+   "No repitas la táctica que te dio una victoria: el agua no tiene forma fija."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿De dónde viene la debilidad numérica, según Sun Tzu?",
+    "respuesta": "De tener que prepararse contra todos los ataques posibles. La fuerza viene de obligar al rival a hacer esos preparativos contra ti."
+   },
+   {
+    "pregunta": "¿Por qué Sun Tzu compara el ejército con el agua?",
+    "respuesta": "Porque el agua cambia de forma según el terreno y corre hacia lo bajo: el ejército evita lo fuerte, ataca lo débil y adapta su táctica al enemigo."
+   }
+  ],
+  "proximo": "El arte de la guerra · Capítulo 5: Maniobras, terreno y espías",
+  "fuentes": [
+   {
+    "nombre": "Sun Tzu, The Art of War, trad. Lionel Giles (1910), Proyecto Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/132"
+   },
+   {
+    "nombre": "Standard Ebooks: The Art of War, cap. VI (trad. Giles)",
+    "url": "https://standardebooks.org/ebooks/sun-tzu/the-art-of-war/lionel-giles/text/chapter-6"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de dominio público de Lionel Giles (1910), Proyecto Gutenberg."
+ },
+ "palabra": {
+  "palabra": "Irreductible",
+  "categoria": "Adjetivo",
+  "pronunciacion": "i-rre-duc-TI-ble",
+  "definicion": "Que no se puede reducir ni someter; que se mantiene firme en su postura aunque lo presionen.",
+  "origen": "Del prefijo latino *in-* («no») y *reducere*, «hacer volver, llevar hacia atrás»: lo que no se deja hacer retroceder.",
+  "ejemplo": "Frente a una posible condena a muerte, Mandela se mostró irreductible: admitió los hechos, pero no renunció a su ideal.",
+  "repaso": {
+   "pregunta": "¿Qué significa «irreductible»?",
+   "respuesta": "Que no se puede reducir ni someter; que no cede aunque lo presionen."
+  }
+ },
+ "frances": {
+  "frase": "Il faut aller jusqu'au bout de ses convictions.",
+  "traduccion": "Hay que llegar hasta el final de las propias convicciones.",
+  "pronunciacion": "il fo a-LÉ yus-KO BU de se con-vik-SIÓN",
+  "uso": "Conversación y debate. Se dice para defender a alguien que no abandonó lo que creía, o para animarte a sostener una decisión difícil. *Jusqu'au bout* significa «hasta el final».",
+  "variante": "Il est allé jusqu'au bout. (Llegó hasta el final.)",
+  "repaso": {
+   "pregunta": "¿Cómo dices en francés «hay que llegar hasta el final de las propias convicciones»?",
+   "respuesta": "« Il faut aller jusqu'au bout de ses convictions. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Qué hizo Mandela con la acusación principal en el juicio de Rivonia?",
+   "opciones": [
+    "La negó por completo",
+    "Pidió no declarar",
+    "Admitió los hechos y defendió sus razones"
+   ],
+   "correcta": 2,
+   "explicacion": "Admitió que ayudó a fundar Umkhonto we Sizwe y que planeó sabotajes, y llevó la discusión a por qué un pueblo sin voto había llegado ahí."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Qué decidió Banxico el 5 de noviembre de 2026?",
+   "opciones": [
+    "Bajar la tasa a 6.25% en una votación de 3 contra 2",
+    "Mantener la tasa en 6.50% por unanimidad",
+    "Subir la tasa a 6.75%"
+   ],
+   "correcta": 0,
+   "explicacion": "Recortó 25 puntos base, a 6.25%, con dos votos en contra, y anunció que mantendrá la tasa por un tiempo prolongado."
+  },
+  {
+   "origen": "materias",
+   "pregunta": "¿Cómo se reconoce un zapato con construcción Goodyear?",
+   "opciones": [
+    "Por la marca de llantas en la suela",
+    "Por la costura visible en el borde de la suela",
+    "Porque la suela es de hule vulcanizado"
+   ],
+   "correcta": 1,
+   "explicacion": "La suela va cosida a una tira de piel llamada vira; por eso se ve la costura y la suela se puede cambiar."
+  }
+ ],
+ "libro": null,
+ "proximo": "Síntesis: cómo se construye una palabra que mueve multitudes"
+}

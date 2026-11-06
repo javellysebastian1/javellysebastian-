@@ -1,25 +1,8 @@
 {
- "actualizado": "2026-11-05",
+ "actualizado": "2026-11-06",
  "materias": {
   "Arquitectura y diseño": [
    {
-    "materia": "Arquitectura y diseño",
-    "pilar": "cultura",
-    "epoca": "1931",
-    "titulo": "El Empire State se levantó en 410 días",
-    "dato": "La obra empezó oficialmente el 17 de marzo de 1930 y el edificio se inauguró el 1 de mayo de 1931: un año y 45 días. En su punto más rápido, la estructura subía cuatro pisos y medio por semana.",
-    "explicacion": "El truco fue industrial. Las piezas de acero llegaban fabricadas y numeradas, y se montaban casi en cuanto bajaban del camión. Los trabajos se organizaron como una línea de montaje vertical, con oficios que se seguían piso por piso.\n\nEl contexto lo hace más extraño: se terminó en plena Gran Depresión, y por años tuvo tantas oficinas vacías que lo apodaron *Empty State Building*. Las fotos de los obreros sentados en las vigas que tomó [[Lewis Hine|Fotógrafo estadounidense (1874–1940) que documentó el trabajo obrero y la construcción del Empire State.]] se volvieron el símbolo de esa velocidad.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Old_timer_structural_worker.jpg?width=900",
-     "alt": "Obrero con gorra sentado sobre una viga de acero a gran altura, con la ciudad abajo",
-     "pie": "Un obrero del Empire State fotografiado por Lewis Hine (1930–1931)",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Empire State Building: History (sitio oficial)",
-     "url": "https://www.esbnyc.com/about/history"
-    },
-    "wiki": "Empire State Building",
     "claves": [
      {
       "nombre": "Rascacielos",
@@ -37,11 +20,28 @@
       "wiki": "Lewis Hine"
      }
     ],
+    "dato": "La obra empezó oficialmente el 17 de marzo de 1930 y el edificio se inauguró el 1 de mayo de 1931: un año y 45 días. En su punto más rápido, la estructura subía cuatro pisos y medio por semana.",
+    "epoca": "1931",
+    "explicacion": "El truco fue industrial. Las piezas de acero llegaban fabricadas y numeradas, y se montaban casi en cuanto bajaban del camión. Los trabajos se organizaron como una línea de montaje vertical, con oficios que se seguían piso por piso.\n\nEl contexto lo hace más extraño: se terminó en plena Gran Depresión, y por años tuvo tantas oficinas vacías que lo apodaron *Empty State Building*. Las fotos de los obreros sentados en las vigas que tomó [[Lewis Hine|Fotógrafo estadounidense (1874–1940) que documentó el trabajo obrero y la construcción del Empire State.]] se volvieron el símbolo de esa velocidad.",
+    "fecha": "2026-11-05",
+    "fuente": {
+     "nombre": "Empire State Building: History (sitio oficial)",
+     "url": "https://www.esbnyc.com/about/history"
+    },
+    "imagen": {
+     "alt": "Obrero con gorra sentado sobre una viga de acero a gran altura, con la ciudad abajo",
+     "credito": "Wikimedia Commons",
+     "pie": "Un obrero del Empire State fotografiado por Lewis Hine (1930–1931)",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Old_timer_structural_worker.jpg?width=900"
+    },
+    "materia": "Arquitectura y diseño",
+    "pilar": "cultura",
     "repaso": {
      "pregunta": "¿Cuánto tardó en construirse el Empire State Building?",
      "respuesta": "Unos 410 días: del 17 de marzo de 1930 al 1 de mayo de 1931."
     },
-    "fecha": "2026-11-05"
+    "titulo": "El Empire State se levantó en 410 días",
+    "wiki": "Empire State Building"
    },
    {
     "claves": [
@@ -225,6 +225,42 @@
    }
   ],
   "Ciencia y tecnología": [
+   {
+    "materia": "Ciencia y tecnología",
+    "pilar": "futuro",
+    "epoca": "1994",
+    "titulo": "El código QR se inspiró en un tablero de Go",
+    "dato": "El código QR lo inventó un ingeniero de una empresa de autopartes, Masahiro Hara, para seguir piezas en las fábricas de Toyota.",
+    "explicacion": "Hara trabajaba en Denso, proveedora de Toyota. Los códigos de barras guardaban poca información y había que leer varios por caja. Empezó a desarrollar una alternativa en 1992 y la presentó en 1994. Según contó, la idea de las piezas blancas y negras sobre una cuadrícula le vino del Go, el juego de mesa.\n\nLos tres cuadrados de las esquinas son la clave: permiten que el lector sepa dónde está el código y cómo está girado, desde cualquier ángulo. Denso dejó libre la patente para que cualquiera lo usara. Por eso hoy está en menús, boletos y pagos de todo el mundo.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/QR_code_for_mobile_English_Wikipedia.svg?width=900",
+     "alt": "Código QR en blanco y negro con tres cuadrados en las esquinas",
+     "pie": "Un código QR: los tres cuadrados de las esquinas dicen al lector dónde está y cómo está girado",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "IEEE Spectrum: How a board game and skyscrapers inspired the QR code",
+     "url": "https://spectrum.ieee.org/how-a-board-game-and-skyscrapers-inspired-the-development-of-the-qr-code"
+    },
+    "wiki": "Código QR",
+    "claves": [
+     {
+      "nombre": "Denso",
+      "quien": "Empresa japonesa de autopartes, proveedora de Toyota, donde nació el QR.",
+      "wiki": "Denso Corporation"
+     },
+     {
+      "nombre": "Go",
+      "quien": "Juego de mesa de origen chino con piedras blancas y negras sobre una cuadrícula.",
+      "wiki": "Go (juego)"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Para qué se inventó el código QR?",
+     "respuesta": "Para seguir autopartes en las fábricas; lo creó Masahiro Hara en Denso en 1994."
+    },
+    "fecha": "2026-11-06"
+   },
    {
     "claves": [
      {
@@ -500,6 +536,42 @@
   ],
   "Ciudades del mundo": [
    {
+    "materia": "Ciudades del mundo",
+    "pilar": "mundo",
+    "epoca": "1648–1665",
+    "titulo": "Un palacio de Ámsterdam se apoya en 13,659 troncos",
+    "dato": "El Palacio Real de Ámsterdam, en la plaza Dam, descansa sobre 13,659 pilotes de madera clavados en el lodo.",
+    "explicacion": "Se construyó como ayuntamiento a partir de 1648, en el siglo de oro neerlandés. El suelo de Ámsterdam es turba y arcilla blanda; para llegar a una capa firme de arena hay que clavar troncos de muchos metros. Bajo el agua y sin oxígeno, la madera casi no se pudre.\n\nCasi toda la ciudad histórica está construida así. Por eso los [[pilotes|Postes clavados en el suelo para transmitir el peso de un edificio a una capa firme.]] son un problema actual: donde baja el nivel del agua, la madera queda expuesta al aire, se pudre y las casas se inclinan. Una ciudad entera depende de que sus troncos sigan mojados.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Amsterdam_(NL),_Koninklijk_Paleis_--_2015_--_7189.jpg?width=900",
+     "alt": "Edificio clásico de piedra con cúpula pequeña frente a una plaza",
+     "pie": "El Palacio Real en la plaza Dam de Ámsterdam",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Royal Palace of Amsterdam",
+     "url": "https://en.wikipedia.org/wiki/Royal_Palace_of_Amsterdam"
+    },
+    "wiki": "Palacio Real de Ámsterdam",
+    "claves": [
+     {
+      "nombre": "Ámsterdam",
+      "quien": "Capital de los Países Bajos, construida sobre un terreno pantanoso.",
+      "wiki": "Ámsterdam"
+     },
+     {
+      "nombre": "Pilotes",
+      "quien": "La técnica de cimentación con postes que sostiene la ciudad.",
+      "wiki": "Pilote (cimentación)"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Por qué los pilotes de Ámsterdam no se pudren?",
+     "respuesta": "Porque están bajo el agua, sin oxígeno. Si el nivel baja y quedan al aire, se pudren."
+    },
+    "fecha": "2026-11-06"
+   },
+   {
     "claves": [
      {
       "nombre": "Lúcio Costa",
@@ -674,6 +746,42 @@
    }
   ],
   "Deporte y aire libre": [
+   {
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
+    "epoca": "1903",
+    "titulo": "El Tour de Francia nació para vender periódicos",
+    "dato": "La carrera ciclista más famosa del mundo la inventó un diario deportivo, L'Auto, para ganarle lectores a su rival.",
+    "explicacion": "En 1903, *L'Auto* competía contra *Le Vélo*. Al periodista Géo Lefèvre se le ocurrió una carrera alrededor de Francia, y el director, Henri Desgrange, la hizo realidad. Fueron seis etapas y 2,428 km. Algunas duraban toda la noche. Ganó Maurice Garin, un deshollinador de origen italiano, con casi 95 horas de pedaleo.\n\nFuncionó: las ventas del periódico se dispararon. Al año siguiente hubo tantas trampas, incluido subirse al tren, que Garin y otros fueron descalificados. El *maillot* amarillo del líder, que llegó en 1919, tiene ese color por el papel amarillo del periódico, según la tradición más citada.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maurice_Garin_Meurisse_BNF_Gallica.jpg?width=900",
+     "alt": "Ciclista con bigote junto a su bicicleta antigua",
+     "pie": "Maurice Garin, ganador del primer Tour de Francia (1903)",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Wikipedia (inglés): 1903 Tour de France",
+     "url": "https://en.wikipedia.org/wiki/1903_Tour_de_France"
+    },
+    "wiki": "Tour de Francia",
+    "claves": [
+     {
+      "nombre": "Henri Desgrange",
+      "quien": "Ciclista y periodista francés, director de L'Auto y organizador del Tour.",
+      "wiki": "Henri Desgrange"
+     },
+     {
+      "nombre": "L'Équipe",
+      "quien": "El diario deportivo francés heredero de L'Auto.",
+      "wiki": "L'Équipe"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Para qué se creó el Tour de Francia en 1903?",
+     "respuesta": "Para aumentar las ventas del diario L'Auto frente a su rival, Le Vélo."
+    },
+    "fecha": "2026-11-06"
+   },
    {
     "claves": [
      {
@@ -1250,23 +1358,6 @@
   ],
   "Economía y mercados": [
    {
-    "materia": "Economía y mercados",
-    "pilar": "patrimonio",
-    "epoca": "1946",
-    "titulo": "En Hungría los precios se duplicaban cada 15 horas",
-    "dato": "En julio de 1946, Hungría tuvo la peor inflación registrada en la historia: unos 41.9 mil billones por ciento al mes. Llegó a circular un billete de 100 trillones de pengős.",
-    "explicacion": "Tras la Segunda Guerra Mundial, Hungría estaba destruida, pagaba reparaciones y el gobierno imprimía dinero para cubrir sus gastos. Los precios subían alrededor de 207% al día. La gente cobraba y corría a gastar antes de la tarde. Ojo con la traducción: el billete que en inglés llaman *100 quintillion* es, en español, **cien trillones** (un 1 con 20 ceros).\n\nEl 1 de agosto de 1946, el pengő fue sustituido por el [[forinto|La moneda de Hungría desde 1946; sigue vigente hoy.]], respaldado por un plan de estabilización. La lección para cualquier economía: una moneda vale lo que vale la confianza en que no se imprimirá sin control.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HUP_100MB_1946_obverse.jpg?width=900",
-     "alt": "Billete antiguo con grabados ornamentales e inscripciones en húngaro",
-     "pie": "El billete de 100 millones de b.-pengő (cien trillones de pengős), de 1946",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Guinness World Records: Highest inflation rate ever",
-     "url": "https://www.guinnessworldrecords.com/world-records/762605-highest-inflation-rate-ever"
-    },
-    "wiki": "Hiperinflación",
     "claves": [
      {
       "nombre": "Forinto húngaro",
@@ -1279,11 +1370,28 @@
       "wiki": "Inflación"
      }
     ],
+    "dato": "En julio de 1946, Hungría tuvo la peor inflación registrada en la historia: unos 41.9 mil billones por ciento al mes. Llegó a circular un billete de 100 trillones de pengős.",
+    "epoca": "1946",
+    "explicacion": "Tras la Segunda Guerra Mundial, Hungría estaba destruida, pagaba reparaciones y el gobierno imprimía dinero para cubrir sus gastos. Los precios subían alrededor de 207% al día. La gente cobraba y corría a gastar antes de la tarde. Ojo con la traducción: el billete que en inglés llaman *100 quintillion* es, en español, **cien trillones** (un 1 con 20 ceros).\n\nEl 1 de agosto de 1946, el pengő fue sustituido por el [[forinto|La moneda de Hungría desde 1946; sigue vigente hoy.]], respaldado por un plan de estabilización. La lección para cualquier economía: una moneda vale lo que vale la confianza en que no se imprimirá sin control.",
+    "fecha": "2026-11-05",
+    "fuente": {
+     "nombre": "Guinness World Records: Highest inflation rate ever",
+     "url": "https://www.guinnessworldrecords.com/world-records/762605-highest-inflation-rate-ever"
+    },
+    "imagen": {
+     "alt": "Billete antiguo con grabados ornamentales e inscripciones en húngaro",
+     "credito": "Wikimedia Commons",
+     "pie": "El billete de 100 millones de b.-pengő (cien trillones de pengős), de 1946",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/HUP_100MB_1946_obverse.jpg?width=900"
+    },
+    "materia": "Economía y mercados",
+    "pilar": "patrimonio",
     "repaso": {
      "pregunta": "¿Cada cuánto se duplicaban los precios en Hungría en julio de 1946?",
      "respuesta": "Cada unas 15 horas: la peor inflación registrada."
     },
-    "fecha": "2026-11-05"
+    "titulo": "En Hungría los precios se duplicaban cada 15 horas",
+    "wiki": "Hiperinflación"
    },
    {
     "claves": [
@@ -1575,6 +1683,42 @@
   ],
   "Etiqueta y protocolo": [
    {
+    "materia": "Etiqueta y protocolo",
+    "pilar": "gusto",
+    "epoca": "Siglo XVII",
+    "titulo": "Por qué el cuchillo de mesa tiene la punta redonda",
+    "dato": "La tradición dice que el cardenal Richelieu mandó limar la punta de sus cuchillos de mesa, hacia 1637, porque le molestaba que sus invitados se limpiaran los dientes con ellos.",
+    "explicacion": "Es una atribución de la tradición, no un documento firme. Lo que sí está registrado es que en 1669 Luis XIV prohibió los cuchillos puntiagudos en la mesa en sus provincias de Flandes, en parte para reducir la violencia.\n\nAntes, cada quien llevaba su propio cuchillo afilado y pinchaba la comida con la punta. Cuando el tenedor se generalizó para pinchar, el cuchillo de mesa quedó solo para cortar y empujar. De ahí su punta redonda, que es la que ves hoy en cualquier mesa formal.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Triple_Portrait_of_Cardinal_de_Richelieu_probably_1642,_Philippe_de_Champaigne.jpg?width=900",
+     "alt": "Tres vistas del rostro de un cardenal con barba y capa roja",
+     "pie": "Triple retrato del cardenal Richelieu, de Philippe de Champaigne (hacia 1642)",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Table knife",
+     "url": "https://en.wikipedia.org/wiki/Table_knife"
+    },
+    "wiki": "Cuchillo",
+    "claves": [
+     {
+      "nombre": "Cardenal Richelieu",
+      "quien": "Primer ministro de Luis XIII (1585–1642), el hombre más poderoso de Francia en su época.",
+      "wiki": "Cardenal Richelieu"
+     },
+     {
+      "nombre": "Luis XIV de Francia",
+      "quien": "El Rey Sol (1638–1715), que reguló la etiqueta de la corte.",
+      "wiki": "Luis XIV de Francia"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué cuenta la tradición sobre el cuchillo de mesa redondo?",
+     "respuesta": "Que Richelieu mandó limar las puntas hacia 1637 para que sus invitados no se limpiaran los dientes con ellos."
+    },
+    "fecha": "2026-11-06"
+   },
+   {
     "claves": [
      {
       "nombre": "Salmanasar III",
@@ -1739,23 +1883,6 @@
   ],
   "Filosofía para vivir": [
    {
-    "materia": "Filosofía para vivir",
-    "pilar": "mente",
-    "epoca": "Siglo IV a. C.",
-    "titulo": "Diógenes desplumó un gallo para corregir a Platón",
-    "dato": "Según la anécdota, Platón definió al ser humano como «animal bípedo sin plumas». Diógenes desplumó un gallo, lo llevó a la Academia y dijo: «He aquí el hombre de Platón».",
-    "explicacion": "Lo cuenta Diógenes Laercio en sus *Vidas de los filósofos* (VI, 40), escritas unos 500 años después, así que es una anécdota, no un hecho comprobado. Según el relato, a la definición se le añadió entonces «de uñas anchas».\n\nLa burla tiene fondo. Diógenes, el [[cínico|Escuela filosófica griega que despreciaba las convenciones y buscaba vivir según la naturaleza, con lo mínimo.]] que vivía en una tinaja, desconfiaba de las definiciones abstractas. Su gallo es una lección que sirve hoy: una definición que deja entrar contraejemplos absurdos no define nada.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous_-_Diogenes_brings_a_plucked_chicken_to_Plato.jpg?width=900",
-     "alt": "Grabado antiguo de un hombre que muestra un ave desplumada a un grupo de filósofos",
-     "pie": "Diógenes lleva un gallo desplumado a Platón (grabado anónimo)",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Diógenes Laercio, Vidas, VI, 40 (trad. Hicks), Perseids",
-     "url": "https://fgh.perseids.org/read/greekLit/tlg0004/tlg001/perseus-eng2/6.2.40-6.2.59"
-    },
-    "wiki": "Diógenes de Sinope",
     "claves": [
      {
       "nombre": "Platón",
@@ -1768,11 +1895,28 @@
       "wiki": "Escuela cínica"
      }
     ],
+    "dato": "Según la anécdota, Platón definió al ser humano como «animal bípedo sin plumas». Diógenes desplumó un gallo, lo llevó a la Academia y dijo: «He aquí el hombre de Platón».",
+    "epoca": "Siglo IV a. C.",
+    "explicacion": "Lo cuenta Diógenes Laercio en sus *Vidas de los filósofos* (VI, 40), escritas unos 500 años después, así que es una anécdota, no un hecho comprobado. Según el relato, a la definición se le añadió entonces «de uñas anchas».\n\nLa burla tiene fondo. Diógenes, el [[cínico|Escuela filosófica griega que despreciaba las convenciones y buscaba vivir según la naturaleza, con lo mínimo.]] que vivía en una tinaja, desconfiaba de las definiciones abstractas. Su gallo es una lección que sirve hoy: una definición que deja entrar contraejemplos absurdos no define nada.",
+    "fecha": "2026-11-05",
+    "fuente": {
+     "nombre": "Diógenes Laercio, Vidas, VI, 40 (trad. Hicks), Perseids",
+     "url": "https://fgh.perseids.org/read/greekLit/tlg0004/tlg001/perseus-eng2/6.2.40-6.2.59"
+    },
+    "imagen": {
+     "alt": "Grabado antiguo de un hombre que muestra un ave desplumada a un grupo de filósofos",
+     "credito": "Wikimedia Commons",
+     "pie": "Diógenes lleva un gallo desplumado a Platón (grabado anónimo)",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous_-_Diogenes_brings_a_plucked_chicken_to_Plato.jpg?width=900"
+    },
+    "materia": "Filosofía para vivir",
+    "pilar": "mente",
     "repaso": {
      "pregunta": "¿Qué llevó Diógenes a la Academia para burlarse de la definición de Platón?",
      "respuesta": "Un gallo desplumado: «He aquí el hombre de Platón», es decir, un bípedo sin plumas."
     },
-    "fecha": "2026-11-05"
+    "titulo": "Diógenes desplumó un gallo para corregir a Platón",
+    "wiki": "Diógenes de Sinope"
    },
    {
     "claves": [
@@ -2076,23 +2220,6 @@
   ],
   "Historia y geopolítica": [
    {
-    "materia": "Historia y geopolítica",
-    "pilar": "mundo",
-    "epoca": "1989",
-    "titulo": "El Muro cayó por una respuesta improvisada",
-    "dato": "El 9 de noviembre de 1989, el vocero del gobierno de Alemania del Este, Günter Schabowski, leyó en televisión una nueva regla de viajes. Un periodista preguntó desde cuándo. Schabowski, sin saberlo bien, respondió: «Inmediatamente».",
-    "explicacion": "La conferencia se transmitía en vivo. Hacia las 6:57 de la tarde, Schabowski leyó un borrador que no conocía a fondo. La regla debía aplicarse después y con trámite. Pero dijo, con frases rotas, que entraba en vigor «de inmediato, sin demora». Miles de berlineses fueron a los puestos fronterizos.\n\nEn el paso de Bornholmer Straße, el oficial al mando, sin órdenes claras y ante la multitud, abrió la barrera esa noche. El [[Muro de Berlín|Barrera que dividió Berlín de 1961 a 1989 y se volvió el símbolo de la Guerra Fría.]] no cayó por una decisión planeada, sino por un error en público que nadie se atrevió a corregir con la fuerza.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg?width=900",
-     "alt": "Multitud de personas encima del muro frente a la Puerta de Brandeburgo, de noche",
-     "pie": "Alemanes del Este y del Oeste sobre el Muro, frente a la Puerta de Brandeburgo, en noviembre de 1989",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Bundeszentrale für politische Bildung: 9. November 1989",
-     "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/132175/9-november-1989/"
-    },
-    "wiki": "Caída del Muro de Berlín",
     "claves": [
      {
       "nombre": "Muro de Berlín",
@@ -2110,11 +2237,28 @@
       "wiki": "Reunificación de Alemania"
      }
     ],
+    "dato": "El 9 de noviembre de 1989, el vocero del gobierno de Alemania del Este, Günter Schabowski, leyó en televisión una nueva regla de viajes. Un periodista preguntó desde cuándo. Schabowski, sin saberlo bien, respondió: «Inmediatamente».",
+    "epoca": "1989",
+    "explicacion": "La conferencia se transmitía en vivo. Hacia las 6:57 de la tarde, Schabowski leyó un borrador que no conocía a fondo. La regla debía aplicarse después y con trámite. Pero dijo, con frases rotas, que entraba en vigor «de inmediato, sin demora». Miles de berlineses fueron a los puestos fronterizos.\n\nEn el paso de Bornholmer Straße, el oficial al mando, sin órdenes claras y ante la multitud, abrió la barrera esa noche. El [[Muro de Berlín|Barrera que dividió Berlín de 1961 a 1989 y se volvió el símbolo de la Guerra Fría.]] no cayó por una decisión planeada, sino por un error en público que nadie se atrevió a corregir con la fuerza.",
+    "fecha": "2026-11-05",
+    "fuente": {
+     "nombre": "Bundeszentrale für politische Bildung: 9. November 1989",
+     "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/132175/9-november-1989/"
+    },
+    "imagen": {
+     "alt": "Multitud de personas encima del muro frente a la Puerta de Brandeburgo, de noche",
+     "credito": "Wikimedia Commons",
+     "pie": "Alemanes del Este y del Oeste sobre el Muro, frente a la Puerta de Brandeburgo, en noviembre de 1989",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg?width=900"
+    },
+    "materia": "Historia y geopolítica",
+    "pilar": "mundo",
     "repaso": {
      "pregunta": "¿Qué palabra de Günter Schabowski desató la apertura del Muro?",
      "respuesta": "Que la nueva regla de viajes valía «inmediatamente», aunque estaba pensada para aplicarse después y con trámite."
     },
-    "fecha": "2026-11-05"
+    "titulo": "El Muro cayó por una respuesta improvisada",
+    "wiki": "Caída del Muro de Berlín"
    },
    {
     "claves": [
@@ -2255,23 +2399,6 @@
   ],
   "IA y el futuro": [
    {
-    "materia": "IA y el futuro",
-    "pilar": "futuro",
-    "epoca": "1770",
-    "titulo": "La máquina que ganaba al ajedrez tenía un hombre dentro",
-    "dato": "En 1770, Wolfgang von Kempelen presentó en Viena un autómata vestido de turco que jugaba ajedrez y derrotaba a casi todos. Dentro de la caja se escondía un jugador humano.",
-    "explicacion": "El Turco recorrió Europa y América durante más de 80 años. La partida más citada es contra Napoleón, en 1809. La de Benjamin Franklin es tradición: existe una carta de Kempelen invitándolo a verlo en 1783, pero no hay prueba de que jugaran. La máquina se destruyó en un incendio en Filadelfia en 1854.\n\nSu nombre volvió en 2005. Amazon llamó Mechanical Turk a un servicio donde personas hacen pequeñas tareas que las computadoras no resolvían, y lo describió como «inteligencia artificial artificial». La pregunta del Turco sigue viva: cuando una máquina parece inteligente, ¿cuánto trabajo humano hay escondido dentro?",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kempelen_chess1.jpg?width=900",
-     "alt": "Grabado de un autómata con turbante sentado frente a un tablero de ajedrez sobre un gabinete",
-     "pie": "El Turco de Wolfgang von Kempelen en un grabado de la época",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "History.com: How a phony 18th-century chess robot fooled the world",
-     "url": "https://www.history.com/articles/how-a-phony-18th-century-chess-robot-fooled-the-world"
-    },
-    "wiki": "El Turco",
     "claves": [
      {
       "nombre": "Autómata",
@@ -2289,11 +2416,28 @@
       "wiki": "Amazon Mechanical Turk"
      }
     ],
+    "dato": "En 1770, Wolfgang von Kempelen presentó en Viena un autómata vestido de turco que jugaba ajedrez y derrotaba a casi todos. Dentro de la caja se escondía un jugador humano.",
+    "epoca": "1770",
+    "explicacion": "El Turco recorrió Europa y América durante más de 80 años. La partida más citada es contra Napoleón, en 1809. La de Benjamin Franklin es tradición: existe una carta de Kempelen invitándolo a verlo en 1783, pero no hay prueba de que jugaran. La máquina se destruyó en un incendio en Filadelfia en 1854.\n\nSu nombre volvió en 2005. Amazon llamó Mechanical Turk a un servicio donde personas hacen pequeñas tareas que las computadoras no resolvían, y lo describió como «inteligencia artificial artificial». La pregunta del Turco sigue viva: cuando una máquina parece inteligente, ¿cuánto trabajo humano hay escondido dentro?",
+    "fecha": "2026-11-05",
+    "fuente": {
+     "nombre": "History.com: How a phony 18th-century chess robot fooled the world",
+     "url": "https://www.history.com/articles/how-a-phony-18th-century-chess-robot-fooled-the-world"
+    },
+    "imagen": {
+     "alt": "Grabado de un autómata con turbante sentado frente a un tablero de ajedrez sobre un gabinete",
+     "credito": "Wikimedia Commons",
+     "pie": "El Turco de Wolfgang von Kempelen en un grabado de la época",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kempelen_chess1.jpg?width=900"
+    },
+    "materia": "IA y el futuro",
+    "pilar": "futuro",
     "repaso": {
      "pregunta": "¿Cómo ganaba al ajedrez el Turco de Kempelen?",
      "respuesta": "Con un jugador humano escondido dentro del gabinete."
     },
-    "fecha": "2026-11-05"
+    "titulo": "La máquina que ganaba al ajedrez tenía un hombre dentro",
+    "wiki": "El Turco"
    },
    {
     "claves": [
@@ -2556,6 +2700,42 @@
    }
   ],
   "Liderazgo e influencia": [
+   {
+    "materia": "Liderazgo e influencia",
+    "pilar": "caracter",
+    "epoca": "1940–1943",
+    "titulo": "El rey de Dinamarca nunca se puso la estrella amarilla",
+    "dato": "Circula la historia de que el rey Cristián X llevó la estrella de David para proteger a los judíos daneses. Es falsa: los nazis nunca impusieron la estrella en Dinamarca.",
+    "explicacion": "El Museo del Holocausto de Estados Unidos la llama una historia ficticia. Lo que sí hizo el rey durante la ocupación alemana fue salir a caballo, solo y sin escolta, por las calles de Copenhague casi todos los días. Era un símbolo silencioso de que el país seguía en pie.\n\nLa historia real es más impresionante que la leyenda. En octubre de 1943, cuando los nazis planearon deportar a los judíos daneses, miles de ciudadanos comunes los escondieron y los llevaron en barcos de pesca a Suecia. En unas tres semanas cruzaron más de 7,000. No lo hizo un rey: lo hizo una sociedad entera.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Christian_X_in_Copenhagen_1940.jpg?width=900",
+     "alt": "Hombre mayor a caballo en una calle, rodeado de gente que lo mira",
+     "pie": "Cristián X en su paseo a caballo por Copenhague, 1940",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "United States Holocaust Memorial Museum: King Christian X of Denmark",
+     "url": "https://encyclopedia.ushmm.org/content/en/article/king-christian-x-of-denmark"
+    },
+    "wiki": "Cristián X de Dinamarca",
+    "claves": [
+     {
+      "nombre": "Rescate de los judíos daneses",
+      "quien": "La evacuación de más de 7,000 judíos a Suecia en octubre de 1943.",
+      "wiki": "Rescate de los judíos daneses"
+     },
+     {
+      "nombre": "Copenhague",
+      "quien": "La capital danesa, donde el rey paseaba a caballo durante la ocupación.",
+      "wiki": "Copenhague"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué es lo falso y lo verdadero de la historia de Cristián X?",
+     "respuesta": "Falso: que llevó la estrella amarilla. Verdadero: paseaba solo a caballo por Copenhague, y en 1943 los daneses llevaron a más de 7,000 judíos a Suecia."
+    },
+    "fecha": "2026-11-06"
+   },
    {
     "claves": [
      {
@@ -3004,6 +3184,47 @@
   ],
   "Música": [
    {
+    "materia": "Música",
+    "pilar": "cultura",
+    "epoca": "1770",
+    "titulo": "Mozart copió de memoria una música «secreta»",
+    "dato": "A los 14 años, Mozart oyó en la Capilla Sixtina el *Miserere* de Allegri, cuya partitura el Vaticano no dejaba circular. Llegó a casa y lo escribió de memoria.",
+    "explicacion": "Ocurrió en Roma durante la Semana Santa de 1770. La obra, para dos coros, se cantaba solo en esos días, y su copia estaba restringida. Según las cartas de la familia, Mozart la transcribió tras oírla y volvió a escucharla para corregir detalles. Al año siguiente, el historiador Charles Burney la publicó en Londres.\n\nHay un matiz que casi nunca se cuenta: ya existían algunas copias fuera del Vaticano, y Mozart quizá la había escuchado antes en Londres. La hazaña sigue siendo enorme, pero el «secreto» no era tan absoluto como dice la leyenda.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Wolfgang_Amadeus_Mozart_at_the_age_of_13_in_Verona,_1770.jpg?width=900",
+     "alt": "Retrato de un niño con peluca blanca sentado frente a un clavecín",
+     "pie": "Mozart en Verona, enero de 1770, semanas antes de llegar a Roma",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Gregorio Allegri",
+     "url": "https://en.wikipedia.org/wiki/Gregorio_Allegri"
+    },
+    "wiki": "Miserere (Allegri)",
+    "claves": [
+     {
+      "nombre": "Gregorio Allegri",
+      "quien": "Compositor italiano (1582–1652) del Miserere.",
+      "wiki": "Gregorio Allegri"
+     },
+     {
+      "nombre": "Capilla Sixtina",
+      "quien": "La capilla del Vaticano donde se cantaba la obra en Semana Santa.",
+      "wiki": "Capilla Sixtina"
+     },
+     {
+      "nombre": "Wolfgang Amadeus Mozart",
+      "quien": "Compositor austriaco (1756–1791).",
+      "wiki": "Wolfgang Amadeus Mozart"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué obra escribió Mozart de memoria en 1770?",
+     "respuesta": "El Miserere de Allegri, tras oírlo en la Capilla Sixtina."
+    },
+    "fecha": "2026-11-06"
+   },
+   {
     "claves": [
      {
       "nombre": "Joseph Haydn",
@@ -3241,27 +3462,6 @@
   ],
   "Oficios del lujo y estilo": [
    {
-    "materia": "Oficios del lujo y estilo",
-    "pilar": "gusto",
-    "epoca": "1837",
-    "titulo": "Hermès empezó haciendo arneses para caballos",
-    "dato": "La casa de los bolsos más deseados del mundo nació en 1837 como un taller de arneses en París. Su primer gran bolso se diseñó para cargar sillas de montar.",
-    "explicacion": "Thierry Hermès abrió su taller en la rue Basse-du-Rempart y fabricaba arneses para carruajes; ganó un premio en la Exposición Universal de 1867. Las sillas de montar llegaron con su hijo Charles-Émile, que en 1880 llevó la casa al 24 de la rue du Faubourg Saint-Honoré, donde sigue hoy.\n\nA principios del siglo XX nació el *Haut à courroies*, un bolso alto para llevar la silla y las botas. Décadas después inspiró el Birkin. La lección de oficio: la [[talabartería|Oficio de trabajar el cuero para hacer arneses, sillas de montar y otros objetos de piel.]] exige costuras que aguanten la tensión de un caballo; esa misma exigencia, llevada a un bolso, es lo que hoy se paga.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermès,_24_rue_du_Faubourg-Saint-Honoré,_Paris_8e_2-1.jpg?width=900",
-     "alt": "Fachada de una tienda de lujo con toldos y vitrinas en una calle de París",
-     "pie": "La casa Hermès en el 24 de la rue du Faubourg Saint-Honoré, París, desde 1880",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Hermès: Six generations of artisans",
-     "url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/"
-    },
-    "profundizar": {
-     "titulo": "Sotheby's: Hermès Haut à courroies, the original Birkin bag",
-     "url": "https://www.sothebys.com/en/articles/hermes-haut-a-courroies-the-original-birkin-bag"
-    },
-    "wiki": "Bolso Birkin",
     "claves": [
      {
       "nombre": "Talabartería",
@@ -3274,11 +3474,32 @@
       "wiki": "Bolso Kelly"
      }
     ],
+    "dato": "La casa de los bolsos más deseados del mundo nació en 1837 como un taller de arneses en París. Su primer gran bolso se diseñó para cargar sillas de montar.",
+    "epoca": "1837",
+    "explicacion": "Thierry Hermès abrió su taller en la rue Basse-du-Rempart y fabricaba arneses para carruajes; ganó un premio en la Exposición Universal de 1867. Las sillas de montar llegaron con su hijo Charles-Émile, que en 1880 llevó la casa al 24 de la rue du Faubourg Saint-Honoré, donde sigue hoy.\n\nA principios del siglo XX nació el *Haut à courroies*, un bolso alto para llevar la silla y las botas. Décadas después inspiró el Birkin. La lección de oficio: la [[talabartería|Oficio de trabajar el cuero para hacer arneses, sillas de montar y otros objetos de piel.]] exige costuras que aguanten la tensión de un caballo; esa misma exigencia, llevada a un bolso, es lo que hoy se paga.",
+    "fecha": "2026-11-05",
+    "fuente": {
+     "nombre": "Hermès: Six generations of artisans",
+     "url": "https://www.hermes.com/us/en/content/235056-six-generations-of-artisans/"
+    },
+    "imagen": {
+     "alt": "Fachada de una tienda de lujo con toldos y vitrinas en una calle de París",
+     "credito": "Wikimedia Commons",
+     "pie": "La casa Hermès en el 24 de la rue du Faubourg Saint-Honoré, París, desde 1880",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermès,_24_rue_du_Faubourg-Saint-Honoré,_Paris_8e_2-1.jpg?width=900"
+    },
+    "materia": "Oficios del lujo y estilo",
+    "pilar": "gusto",
+    "profundizar": {
+     "titulo": "Sotheby's: Hermès Haut à courroies, the original Birkin bag",
+     "url": "https://www.sothebys.com/en/articles/hermes-haut-a-courroies-the-original-birkin-bag"
+    },
     "repaso": {
      "pregunta": "¿Qué fabricaba Hermès cuando se fundó en 1837?",
      "respuesta": "Arneses para caballos de carruaje. Las sillas de montar llegaron en 1880 y los bolsos, a principios del siglo XX."
     },
-    "fecha": "2026-11-05"
+    "titulo": "Hermès empezó haciendo arneses para caballos",
+    "wiki": "Bolso Birkin"
    },
    {
     "claves": [
@@ -3419,6 +3640,36 @@
   ],
   "Productos digitales escalables": [
    {
+    "materia": "Productos digitales escalables",
+    "pilar": "patrimonio",
+    "epoca": "2009",
+    "titulo": "Angry Birds fue el juego número 52",
+    "dato": "Antes del éxito que salvó a la empresa, el estudio finlandés Rovio había publicado 51 juegos. A principios de 2009 estaba cerca de la quiebra.",
+    "explicacion": "Angry Birds salió en diciembre de 2009, primero en Finlandia y luego en todo el mundo. Encajó con un formato nuevo: el iPhone, la pantalla táctil y una tienda que llevaba un juego de 99 centavos a cualquier país al instante. Cada copia extra costaba casi nada.\n\nLa lección no es que el juego 52 fuera mágico. Es que en los productos digitales el costo de cada intento puede ser bajo, y el éxito suele llegar después de muchos lanzamientos que nadie recuerda. Rovio sobrevivió lo suficiente para probar una vez más.",
+    "fuente": {
+     "nombre": "Wikiwand: Angry Birds (historia del lanzamiento)",
+     "url": "https://www.wikiwand.com/en/articles/Angry_Birds_HD"
+    },
+    "wiki": "Angry Birds (videojuego)",
+    "claves": [
+     {
+      "nombre": "Rovio Entertainment",
+      "quien": "El estudio finlandés que creó Angry Birds.",
+      "wiki": "Rovio Entertainment"
+     },
+     {
+      "nombre": "App Store",
+      "quien": "La tienda de aplicaciones de Apple, lanzada en 2008.",
+      "wiki": "App Store"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué número de juego de Rovio fue Angry Birds?",
+     "respuesta": "El 52: antes habían publicado 51 juegos sin un gran éxito."
+    },
+    "fecha": "2026-11-06"
+   },
+   {
     "claves": [
      {
       "nombre": "Radiohead",
@@ -3523,21 +3774,6 @@
   ],
   "Relaciones y vida social": [
    {
-    "materia": "Relaciones y vida social",
-    "pilar": "caracter",
-    "epoca": "1954",
-    "titulo": "Dos bandos rivales se reconciliaron jalando un camión",
-    "dato": "En un campamento de Oklahoma, el psicólogo Muzafer Sherif dividió a 22 niños en dos grupos que llegaron a odiarse. La rivalidad bajó cuando tuvieron que resolver juntos problemas que ninguno podía solo.",
-    "explicacion": "Era el experimento de Robbers Cave. Los grupos, Rattlers y Eagles, compitieron en juegos con premios y se insultaban y asaltaban las cabañas. Las comidas juntos no sirvieron. Lo que funcionó fueron [[metas supraordinadas|Objetivos que importan a los dos grupos y que solo pueden lograrse cooperando.]]: arreglar el suministro de agua, arrancar el camión de la comida, juntar dinero para una película.\n\nHoy se lee con cuidado. En 2018, la investigadora Gina Perry mostró que el equipo de Sherif influyó en la escalada y que un intento anterior, en 1953, se abandonó porque los niños no quisieron pelearse. La idea central sigue viva en la psicología social: el contacto solo no une; un problema compartido, sí.",
-    "fuente": {
-     "nombre": "Scientific American: Revisiting the Robbers Cave",
-     "url": "https://www.scientificamerican.com/blog/literally-psyched/revisiting-the-robbers-cave-the-easy-spontaneity-of-intergroup-conflict"
-    },
-    "profundizar": {
-     "titulo": "Nature: reseña de The Lost Boys, de Gina Perry (2018)",
-     "url": "https://www.nature.com/articles/d41586-018-04582-7"
-    },
-    "wiki": "Psicología social",
     "claves": [
      {
       "nombre": "Experimento de la cárcel de Stanford",
@@ -3550,11 +3786,26 @@
       "wiki": "Prejuicio"
      }
     ],
+    "dato": "En un campamento de Oklahoma, el psicólogo Muzafer Sherif dividió a 22 niños en dos grupos que llegaron a odiarse. La rivalidad bajó cuando tuvieron que resolver juntos problemas que ninguno podía solo.",
+    "epoca": "1954",
+    "explicacion": "Era el experimento de Robbers Cave. Los grupos, Rattlers y Eagles, compitieron en juegos con premios y se insultaban y asaltaban las cabañas. Las comidas juntos no sirvieron. Lo que funcionó fueron [[metas supraordinadas|Objetivos que importan a los dos grupos y que solo pueden lograrse cooperando.]]: arreglar el suministro de agua, arrancar el camión de la comida, juntar dinero para una película.\n\nHoy se lee con cuidado. En 2018, la investigadora Gina Perry mostró que el equipo de Sherif influyó en la escalada y que un intento anterior, en 1953, se abandonó porque los niños no quisieron pelearse. La idea central sigue viva en la psicología social: el contacto solo no une; un problema compartido, sí.",
+    "fecha": "2026-11-05",
+    "fuente": {
+     "nombre": "Scientific American: Revisiting the Robbers Cave",
+     "url": "https://www.scientificamerican.com/blog/literally-psyched/revisiting-the-robbers-cave-the-easy-spontaneity-of-intergroup-conflict"
+    },
+    "materia": "Relaciones y vida social",
+    "pilar": "caracter",
+    "profundizar": {
+     "titulo": "Nature: reseña de The Lost Boys, de Gina Perry (2018)",
+     "url": "https://www.nature.com/articles/d41586-018-04582-7"
+    },
     "repaso": {
      "pregunta": "¿Qué redujo la hostilidad entre los grupos de Robbers Cave?",
      "respuesta": "Las metas supraordinadas: problemas que solo podían resolver cooperando, como el agua o el camión averiado."
     },
-    "fecha": "2026-11-05"
+    "titulo": "Dos bandos rivales se reconciliaron jalando un camión",
+    "wiki": "Psicología social"
    },
    {
     "claves": [
@@ -3777,6 +4028,42 @@
   ],
   "Retórica y oratoria": [
    {
+    "materia": "Retórica y oratoria",
+    "pilar": "mente",
+    "epoca": "Siglo IV a. C.",
+    "titulo": "Demóstenes ensayaba con piedras en la boca",
+    "dato": "El orador más admirado de Atenas empezó con dificultades para hablar. Según Plutarco, ensayaba sus discursos con piedritas en la boca.",
+    "explicacion": "Lo cuenta Plutarco en su *Vida de Demóstenes* (11), citando a Demetrio de Falero, que decía haberlo oído del propio Demóstenes ya viejo. Según el relato, también declamaba mientras corría o subía cuestas, para entrenar el aliento. Es una anécdota antigua, no una prueba documental, pero viene de una fuente cercana.\n\nLa idea de fondo sigue vigente: la voz se entrena como un músculo. Hablar con un obstáculo obliga a articular con más fuerza. Demóstenes acabó siendo el gran orador contra Filipo de Macedonia; sus discursos dieron nombre a las [[filípicas|Discursos de ataque. Viene de los de Demóstenes contra Filipo II de Macedonia.]].",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Démosthène_s'exerçant_à_la_parole_(1870)_by_Jean-Jules-Antoine_Lecomte_du_Nouÿ.jpg?width=900",
+     "alt": "Pintura de un hombre que declama solo frente al mar",
+     "pie": "*Demóstenes ejercitándose en la palabra* (1870), de Jean-Jules-Antoine Lecomte du Nouÿ",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Plutarco, Vida de Demóstenes, 11 (Lexundria)",
+     "url": "https://lexundria.com/plut_dem/11/prr"
+    },
+    "wiki": "Demóstenes",
+    "claves": [
+     {
+      "nombre": "Plutarco",
+      "quien": "Biógrafo griego (c. 46–120 d. C.) que escribió las *Vidas paralelas*.",
+      "wiki": "Plutarco"
+     },
+     {
+      "nombre": "Filipo II de Macedonia",
+      "quien": "Rey macedonio, padre de Alejandro Magno, al que Demóstenes atacó en sus discursos.",
+      "wiki": "Filipo II de Macedonia"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Con qué ensayaba Demóstenes sus discursos, según Plutarco?",
+     "respuesta": "Con piedritas en la boca, para obligarse a articular con fuerza."
+    },
+    "fecha": "2026-11-06"
+   },
+   {
     "claves": [
      {
       "nombre": "Filibusterismo",
@@ -3952,23 +4239,6 @@
   ],
   "Salud y longevidad": [
    {
-    "materia": "Salud y longevidad",
-    "pilar": "cuerpo",
-    "epoca": "1747",
-    "titulo": "Doce marineros y uno de los primeros ensayos clínicos",
-    "dato": "En 1747, el médico James Lind dio seis remedios distintos a seis parejas de marineros con escorbuto. Solo la pareja que comió naranjas y limón se recuperó rápido. La Marina británica tardó 48 años en adoptar el jugo de limón.",
-    "explicacion": "Fue a bordo del HMS *Salisbury*, desde el 20 de mayo de 1747. Las otras parejas recibieron sidra, ácido sulfúrico diluido, vinagre, agua de mar o una pasta de ajo y mostaza. Comparar grupos tratados de forma distinta en las mismas condiciones es la idea del [[ensayo clínico controlado|Experimento que compara tratamientos en grupos parecidos para saber cuál funciona de verdad.]]; no era aleatorio, pero abrió el camino.\n\nLo sorprendente es la demora. Lind publicó en 1753, recomendó también remedios ineficaces y un jugo hervido que perdía la vitamina C. La Marina adoptó el limón en grande hasta 1795. Tener la evidencia no basta: hay que hacerla clara y convencer a quien decide.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Lind_by_Chalmers.jpg?width=900",
-     "alt": "Retrato de un hombre del siglo XVIII con peluca y traje oscuro",
-     "pie": "James Lind (1716–1794), médico de la Marina británica",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "The James Lind Library: James Lind and scurvy, 1747 to 1795",
-     "url": "https://www.jameslindlibrary.org/articles/james-lind-and-scurvy-1747-to-1795/"
-    },
-    "wiki": "Escorbuto",
     "claves": [
      {
       "nombre": "Vitamina C",
@@ -3981,11 +4251,28 @@
       "wiki": "Ensayo clínico"
      }
     ],
+    "dato": "En 1747, el médico James Lind dio seis remedios distintos a seis parejas de marineros con escorbuto. Solo la pareja que comió naranjas y limón se recuperó rápido. La Marina británica tardó 48 años en adoptar el jugo de limón.",
+    "epoca": "1747",
+    "explicacion": "Fue a bordo del HMS *Salisbury*, desde el 20 de mayo de 1747. Las otras parejas recibieron sidra, ácido sulfúrico diluido, vinagre, agua de mar o una pasta de ajo y mostaza. Comparar grupos tratados de forma distinta en las mismas condiciones es la idea del [[ensayo clínico controlado|Experimento que compara tratamientos en grupos parecidos para saber cuál funciona de verdad.]]; no era aleatorio, pero abrió el camino.\n\nLo sorprendente es la demora. Lind publicó en 1753, recomendó también remedios ineficaces y un jugo hervido que perdía la vitamina C. La Marina adoptó el limón en grande hasta 1795. Tener la evidencia no basta: hay que hacerla clara y convencer a quien decide.",
+    "fecha": "2026-11-05",
+    "fuente": {
+     "nombre": "The James Lind Library: James Lind and scurvy, 1747 to 1795",
+     "url": "https://www.jameslindlibrary.org/articles/james-lind-and-scurvy-1747-to-1795/"
+    },
+    "imagen": {
+     "alt": "Retrato de un hombre del siglo XVIII con peluca y traje oscuro",
+     "credito": "Wikimedia Commons",
+     "pie": "James Lind (1716–1794), médico de la Marina británica",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Lind_by_Chalmers.jpg?width=900"
+    },
+    "materia": "Salud y longevidad",
+    "pilar": "cuerpo",
     "repaso": {
      "pregunta": "¿Cuántos años pasaron entre el experimento de Lind y la adopción del limón por la Marina británica?",
      "respuesta": "48: de 1747 a 1795."
     },
-    "fecha": "2026-11-05"
+    "titulo": "Doce marineros y uno de los primeros ensayos clínicos",
+    "wiki": "Escorbuto"
    },
    {
     "claves": [
