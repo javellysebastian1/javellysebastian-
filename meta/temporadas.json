@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06",
+ "actualizado": "2026-11-07",
  "lista": [
   {
    "episodios": [
@@ -82,22 +82,42 @@
      "titulo": "1940: Churchill y las playas, cómo hablar cuando vas perdiendo"
     },
     {
-     "titulo": "1964: Mandela en el banquillo, el alegato que lo hizo símbolo",
-     "fecha": "2026-11-06"
+     "fecha": "2026-11-06",
+     "titulo": "1964: Mandela en el banquillo, el alegato que lo hizo símbolo"
     },
     {
-     "titulo": "Síntesis: cómo se construye una palabra que mueve multitudes"
+     "titulo": "Síntesis: cómo se construye una palabra que mueve multitudes",
+     "fecha": "2026-11-07"
     }
    ],
-   "estado": "en_curso",
+   "estado": "terminada",
    "id": "t03",
    "numero": 3,
    "para": "De Pericles a Martin Luther King: cómo se construye una palabra que mueve multitudes.",
    "titulo": "Grandes discursos que cambiaron la historia"
   },
   {
-   "episodios": [],
-   "estado": "pendiente",
+   "episodios": [
+    {
+     "titulo": "1976: el Juicio de París, la cata que humilló a Francia"
+    },
+    {
+     "titulo": "1855: la clasificación de Burdeos que sigue vigente"
+    },
+    {
+     "titulo": "Escoffier y la brigada: la cocina como una orquesta"
+    },
+    {
+     "titulo": "El tequila y su denominación de origen: cómo una bebida se vuelve un lugar"
+    },
+    {
+     "titulo": "1825: Brillat-Savarin y la invención del gourmet"
+    },
+    {
+     "titulo": "Síntesis: qué hace que algo sepa a lujo"
+    }
+   ],
+   "estado": "en_curso",
    "id": "t04",
    "numero": 4,
    "para": "Vino, cocina y los oficios detrás del buen gusto.",

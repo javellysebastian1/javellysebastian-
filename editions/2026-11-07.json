@@ -1,0 +1,837 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-07",
+ "numero": 17,
+ "fecha": "2026-11-07",
+ "disponibleDesde": "2026-11-07T08:00:00-06:00",
+ "titulo": "Síntesis: cómo se construye una palabra que mueve multitudes",
+ "temporada": {
+  "id": "t03",
+  "numero": 3,
+  "titulo": "Grandes discursos que cambiaron la historia",
+  "episodio": 5,
+  "totalEpisodios": 5
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JFK_speech_Ich_bin_ein_berliner_1.jpg?width=900",
+  "alt": "Multitud reunida frente a un edificio durante un discurso",
+  "pie": "Berlín Occidental, 26 de junio de 1963: la plaza frente al ayuntamiento de Schöneberg durante el discurso de Kennedy",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "origen": "Edición #13",
+   "pregunta": "¿Qué hizo Pericles en su oración fúnebre del 431 a. C. que la volvió un manifiesto?",
+   "respuesta": "En vez de hablar solo de los muertos, describió la ciudad por la que murieron: su democracia y su forma de vida."
+  },
+  {
+   "origen": "Edición #14",
+   "pregunta": "¿Qué dijo Isabel I sobre su cuerpo en Tilbury, en 1588?",
+   "respuesta": "Que tenía el cuerpo de una mujer débil y frágil, pero el corazón y el estómago de un rey. Admitió lo que otros pensaban para darle la vuelta."
+  },
+  {
+   "origen": "Edición #16",
+   "pregunta": "¿Por qué Mandela habló desde el banquillo y no como testigo en el juicio de Rivonia?",
+   "respuesta": "Para que la fiscalía no pudiera interrogarlo ni interrumpirlo, aunque así su palabra pesara menos como prueba."
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n-2026-11-07-agua",
+   "ambito": "guadalajara",
+   "ambitoTexto": "Guadalajara",
+   "fecha": "2026-11-06",
+   "historiaEnCurso": {
+    "id": "agua-gdl",
+    "titulo": "Crisis del agua en Guadalajara",
+    "capitulo": 10,
+    "dondeIbamos": "El 5 de noviembre, Lemus propuso condonar el agua de octubre a diciembre en 627 colonias con tandeos; falta que lo apruebe el Congreso. El SIAPA ya había alargado los cortes en seis de siete zonas."
+   },
+   "titular": "El SIAPA fija el calendario: tandeos hasta finales de marzo de 2027",
+   "quePaso": "El 4 de noviembre, el director del SIAPA, **Ismael Jáuregui**, presentó lo que llamó los «ajustes definitivos» al calendario de suministro. Cambiaron los días de rotación; cada colonia conserva su zona.\n\nEl esquema abarca **627 colonias** que reciben agua de la planta de Miravalle, divididas en **siete zonas**. Empezó el 15 de octubre. Jáuregui señaló **finales de marzo de 2027** como fecha prevista para terminar. El nuevo calendario rige desde este domingo 8 de noviembre.",
+   "aMiQue": "Cuatro meses más de agua irregular cambian la operación de cualquier negocio en esas zonas: restaurantes, cafeterías, gimnasios, oficinas. Si tu bodega, tu oficina o tus puntos de venta están en alguna de las 627 colonias, revisa la capacidad de cisternas y tinacos, y planea limpiezas y producción en días con servicio. El buscador del SIAPA dice en qué zona está cada domicilio.",
+   "contexto": "**Hecho:** la causa inmediata es la presa [[Las Pintas|Presa al sur del área metropolitana de Guadalajara que abastece la planta de Miravalle. Se dejó de usar tras detectar descargas irregulares.]]. El gobierno suspendió su uso, junto con el sistema antiguo de Chapala, después de detectar «descargas irregulares» que afectaban la calidad del agua. La Comisión Estatal del Agua estima terminar el saneamiento en la segunda quincena de diciembre. Después falta reactivar el bombeo y comprobar la calidad.\n\n**Hecho:** las autoridades insisten en que no son cortes totales: en los días asignados baja la presión. Para consultar la zona están el buscador rotaciondeserviciosiapa.jalisco.gob.mx, SIAPABOT y el 073.\n\n**Interpretación:** si el saneamiento de Las Pintas termina en diciembre, la fecha de marzo parece dejar margen para las pruebas de calidad. Cualquier retraso en esa obra alarga los tandeos.",
+   "queVigilar": "Si el Congreso aprueba la condonación de octubre a diciembre, y si incluye comercios. Y el avance del saneamiento de Las Pintas en la segunda quincena de diciembre.",
+   "fuentes": [
+    {
+     "nombre": "UnoTV: ¿Hasta cuándo habrá cortes de agua en Guadalajara? (5 nov 2026)",
+     "url": "https://www.unotv.com/estados/jalisco/hasta-cuando-habra-cortes-de-agua-en-guadalajara-esta-es-la-fecha-prevista-por-siapa/"
+    },
+    {
+     "nombre": "El Informador: colonias con cortes de agua el 6 de noviembre (6 nov 2026)",
+     "url": "https://www.informador.mx/jalisco/siapa-lista-de-colonias-con-cortes-de-agua-hoy-6-de-noviembre-en-el-amg-por-los-tandeos-20261106-0040.html"
+    },
+    {
+     "nombre": "Imagen TV: SIAPA oficializa nuevo esquema de rotación (4 nov 2026)",
+     "url": "https://www.imagentv.com/estados/guadalajara/siapa-oficializa-nuevo-esquema-de-rotacion-crisis-hidrica"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-07-petroleo",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-06",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 15,
+    "dondeIbamos": "El 5 de noviembre el Brent rebotó a 98.29 dólares tras tocar un mínimo de dos meses. Irán revisaba propuestas de mediadores encabezados por Qatar."
+   },
+   "titular": "El Brent cierra la semana cerca de 98 dólares, con más minas en Ormuz",
+   "quePaso": "El viernes 6 de noviembre, el Brent para enero quedó en **98.32 dólares** por barril en Londres, casi sin cambio frente al jueves. En la semana acumuló **pérdidas superiores al 6%**, según EFE.\n\nEse día, Trump habló por teléfono con el emir de Qatar, **Tamim bin Hamad Al Thani**, sobre los esfuerzos para evitar una escalada. Un día antes, el primer ministro catarí había hablado con el canciller iraní, **Abás Araqchí**. Irán informó que otros dos petroleros chocaron con minas al navegar por rutas «no autorizadas» en el estrecho de Ormuz.",
+   "aMiQue": "Con el petróleo cerca de 100 dólares, el combustible y el transporte siguen caros. Eso pesa en la distribución de bebidas y suplementos, y en insumos derivados del petróleo, como plásticos y etiquetas. La señal a vigilar no es el precio de un día, sino si se reabre Ormuz: eso sí movería los costos de 2027.",
+   "contexto": "**Hecho:** el 3 de noviembre, fuentes anónimas citadas por la prensa catarí dijeron que Estados Unidos aprobó un borrador de memorando presentado por Qatar. Según esas fuentes, Irán anunciaría una concesión nuclear a cambio de liberar parte de sus activos congelados. Ningún gobierno lo ha confirmado.\n\n**Hecho:** Irán condiciona la reapertura de Ormuz a siete puntos, entre ellos levantar las sanciones a su petróleo, terminar el bloqueo naval y pagar reparaciones. Mohsen Rezaei, del Consejo Supremo de Seguridad Nacional, dijo que la respuesta de Washington «no fue convincente».\n\n**Dato en disputa:** la caída semanal cambia según la fuente y el punto de partida: EFE habla de más de 6%; otros reportes de la semana dieron cifras mayores.\n\n**Interpretación:** para Firas Bechwaty, del bróker ICM, sin avances diplomáticos concretos los precios podrían no bajar de forma sostenible.",
+   "queVigilar": "Si Washington o Teherán confirman el borrador de Qatar, y si se reportan más petroleros dañados en Ormuz la próxima semana.",
+   "fuentes": [
+    {
+     "nombre": "Infobae/EFE: El brent se mantiene en 98 dólares y cierra la semana con pérdidas de más de un 6% (6 nov 2026)",
+     "url": "https://www.infobae.com/america/agencias/2026/11/06/el-brent-se-mantiene-en-98-dolares-y-cierra-la-semana-con-perdidas-de-mas-de-un-6/"
+    },
+    {
+     "nombre": "The Express Tribune (Reuters/Anadolu): US and Iran review draft proposal to end war, Qatar says (3 nov 2026)",
+     "url": "https://tribune.com.pk/story/2638448/us-and-iran-review-draft-proposal-to-end-war-qatar-says"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "Kennedy dijo cuatro palabras en alemán y cientos de miles de personas sintieron que hablaba de ellos.",
+    "contexto": "Miércoles 26 de junio de 1963, Berlín Occidental. Han pasado casi dos años desde que levantaron el [[Muro de Berlín|Barrera que la Alemania comunista construyó en agosto de 1961 para impedir que sus ciudadanos huyeran al Berlín Occidental.]]. La ciudad es una isla rodeada por la Alemania comunista.\n\nFrente al ayuntamiento de Schöneberg, una multitud enorme espera al presidente de Estados Unidos, John F. Kennedy. La cifra más citada es de unos 450,000 asistentes.\n\nKennedy no habla alemán. Aun así, cierra su discurso con una frase en ese idioma: «Ich bin ein Berliner». Décadas después circuló una burla: que en realidad había dicho «soy una dona de mermelada», porque en alemán un *Berliner* también es un pan dulce.",
+    "pregunta": "¿Qué entendió la gente que estaba en la plaza?",
+    "opciones": [
+     "Que se llamaba a sí mismo dona, y se rieron de él",
+     "Que se ponía de su lado: «yo también soy berlinés»",
+     "Nada: la frase se perdió entre los gritos"
+    ]
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Un día en la ciudad partida",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kennedy_in_Berlin.jpg?width=900",
+     "alt": "Un hombre de traje habla en un estrado ante una multitud",
+     "pie": "Kennedy en Berlín Occidental, junio de 1963",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "Kennedy llegó a Berlín en un momento delicado. En 1961, en Viena, el líder soviético [[Nikita Jruschov|Gobernante de la Unión Soviética de 1953 a 1964. Presionaba para que las potencias occidentales salieran de Berlín.]] lo había presionado con dureza. Ese mismo año se levantó el Muro. Muchos berlineses sentían que Washington había protestado poco.\n\nEsa mañana, Kennedy subió a una plataforma junto a la Puerta de Brandeburgo y miró al otro lado. Vio el muro, los guardias y las ventanas tapiadas. Sus colaboradores contaron que bajó conmovido y con enojo.\n\nTenía un texto preparado, revisado por diplomáticos que no querían provocar a Moscú. Pero en el estrado lo dejó de lado en buena parte. Habló unos diez minutos, con frases cortas y un estribillo. Repitió que hay gente que dice que el comunismo es el camino del futuro, o que se puede trabajar con los comunistas, y contestó cada vez en alemán: **«Lass' sie nach Berlin kommen»**, que vengan a Berlín.\n\nAntes de subir, en la oficina del alcalde [[Willy Brandt|Alcalde de Berlín Occidental de 1957 a 1966 y después canciller de Alemania Occidental.]], había pedido ayuda con el alemán. Escribió las frases en una tarjeta, tal como sonaban: *«Ish bin ein Bearleener»*.\n\nY cerró así: «Todos los hombres libres, donde sea que vivan, son ciudadanos de Berlín. Y por eso, como hombre libre, me enorgullecen las palabras: *Ich bin ein Berliner*». La plaza estalló."
+   },
+   {
+    "tipo": "giro",
+    "titulo": "Nadie se rio de la dona",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JFK_speech_Ich_bin_ein_berliner_1.jpg?width=900",
+     "alt": "Multitud frente a un edificio con un estrado",
+     "pie": "La plaza frente al ayuntamiento de Schöneberg durante el discurso, el 26 de junio de 1963",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "La gente entendió exactamente lo que Kennedy quiso decir. La frase es correcta en alemán para decir «me identifico con ustedes». Además, en Berlín ese pan dulce casi nadie lo llama *Berliner*: lo llaman *Pfannkuchen*. El chiste de la dona se popularizó en los años ochenta, lejos de Berlín, en novelas y en la prensa de Estados Unidos.\n\nSí hubo risas aquel día, pero por otra cosa. Kennedy agradeció al intérprete por «traducir mi alemán». Fue una broma sobre sí mismo, y la multitud se rio con él.\n\nLo que sorprende es otra cosa: el discurso más recordado de su viaje casi no tiene argumentos. No propone un plan ni una política. Hace algo más antiguo: se pone del lado del público, en su idioma, y le da una frase para llevarse. Algunos asesores pensaron que había ido demasiado lejos. Esa misma tarde, en la [[Universidad Libre de Berlín|Universidad fundada en 1948 en Berlín Occidental por estudiantes y profesores que dejaron la universidad del sector soviético.]], Kennedy dio un discurso más moderado sobre convivir con el Este.\n\nCuenta su asesor Ted Sorensen que, de regreso, Kennedy le dijo que nunca volverían a tener un día como ese."
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "Las cinco piezas de una palabra que mueve",
+    "texto": "Esta temporada vimos cinco discursos separados por 2,400 años. Funcionan por las mismas cinco piezas. Úsalas como lista antes de hablar frente a un equipo, un cliente o un tribunal.\n\n**1. Habla de quiénes somos, no solo de qué hacemos (Pericles, 431 a. C.).** En un funeral, Pericles no se quedó en los muertos: describió la ciudad por la que habían muerto. La gente se mueve por una identidad, no por una lista de tareas.\n\n**2. Ponte del lado del público (Isabel I, 1588; Kennedy, 1963).** Isabel llegó a caballo, sin escolta, entre sus soldados. Kennedy habló en alemán. Antes de pedir algo, muestra que estás en el mismo lugar que ellos.\n\n**3. Di la verdad completa del peligro (Churchill, 1940).** Churchill llamó a Dunkerque un desastre, no un triunfo. La confianza viene de que el que habla no esconde lo malo.\n\n**4. Admite el hecho, disputa el sentido (Mandela, 1964).** Lo innegable no se niega. La pelea está en qué significa.\n\n**5. Deja una frase que se pueda repetir (todos).** «Lucharemos en las playas». «Ich bin ein Berliner». Lo que el público puede repetir es lo que el público se lleva.\n\nNo necesitas las cinco cada vez. Pero si tu mensaje no tiene ninguna, es solo información."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Dónde más aparece",
+    "texto": "**En una marca que entra a otra ciudad.** Cuando una marca de bebidas llega a un mercado nuevo, puede hablar de sí misma o hablar el idioma del lugar: sus palabras, sus barrios, sus costumbres. Kennedy no explicó la política de Estados Unidos; dijo «soy uno de ustedes». Una campaña que adopta una expresión local con respeto suele ganar más que una que solo presume atributos.\n\n**En una junta difícil con tu equipo.** Si hay malas noticias, la lista funciona en orden: di quiénes somos (pieza 1), di la verdad completa (pieza 3) y termina con una frase corta que todos recuerden (pieza 5). Lo que la gente repite en el pasillo al salir es tu mensaje real."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "Piensa en lo próximo que tienes que comunicar a tu equipo o a un cliente: ¿cuál es la única frase que quieres que repitan al salir?"
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "La gente no recuerda tus argumentos: recuerda de qué lado estabas y la frase que le dejaste."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Smithsonian Magazine: por qué todos creen que Kennedy dijo «soy una dona»",
+   "url": "https://www.smithsonianmag.com/smart-news/why-does-everybody-think-jfk-said-im-jelly-donut-180963779/",
+   "minutos": 5
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Qué entendieron los berlineses con «Ich bin ein Berliner»?",
+    "respuesta": "Que Kennedy se identificaba con ellos. La frase es correcta en alemán; el chiste de la dona se popularizó décadas después, fuera de Berlín."
+   },
+   {
+    "pregunta": "¿Cuáles son las cinco piezas de un discurso que mueve, según la temporada?",
+    "respuesta": "Hablar de quiénes somos, ponerse del lado del público, decir la verdad del peligro, admitir el hecho y disputar el sentido, y dejar una frase repetible."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "JFK Library: Remarks at the Rudolph Wilde Platz, Berlin (26 jun 1963)",
+    "url": "https://www.jfklibrary.org/learn/about-jfk/historic-speeches/remarks-at-the-rudolph-wilde-platz-berlin"
+   },
+   {
+    "nombre": "Smithsonian Magazine: Why does everybody think JFK said «I'm a jelly donut»?",
+    "url": "https://www.smithsonianmag.com/smart-news/why-does-everybody-think-jfk-said-im-jelly-donut-180963779/"
+   },
+   {
+    "nombre": "Snopes: Did JFK call himself a jelly doughnut?",
+    "url": "https://www.snopes.com/fact-check/jfk-doughnut"
+   },
+   {
+    "nombre": "Council on Foreign Relations: John F. Kennedy's «Ich bin ein Berliner» speech",
+    "url": "https://www.cfr.org/blog/twe-remembers-john-f-kennedys-ich-bin-ein-berliner-speech"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Disciplina y hábitos",
+   "pilar": "caracter",
+   "formato": "elCaso",
+   "titulo": "Las 13 virtudes de Franklin: una libreta para vigilarse a sí mismo",
+   "contexto": "Filadelfia, hacia 1728. Benjamin Franklin tiene poco más de 20 años, una imprenta y un problema: sabe lo que debería hacer, pero no lo hace.\n\nSe propone algo que él mismo llamó un proyecto «audaz y arduo»: llegar a la perfección moral. Escribe una lista de 13 virtudes, de la templanza a la humildad. Y se fabrica una libreta: una página por virtud, siete columnas por día de la semana. Cada noche marca con un punto negro cada falta.\n\nNo intenta todo a la vez. Elige una virtud por semana y le da toda su atención.",
+   "pregunta": "Años después, en su autobiografía, ¿qué virtud reconoció que le dio más problemas?",
+   "opciones": [
+    "La templanza: comer y beber con medida",
+    "El orden: cada cosa en su lugar, cada tarea a su hora",
+    "El silencio: hablar solo lo que sirve"
+   ],
+   "correcta": 1,
+   "revelacion": "Fue el **orden**. Franklin cuenta que esa virtud le costó más que ninguna y que nunca la dominó. Su trabajo de impresor lo obligaba a atender a quien llegara, a cualquier hora. Las marcas negras en esa página no desaparecían.\n\nLa humildad tampoco estaba en la lista original. La añadió cuando un amigo [[cuáquero|Miembro de la Sociedad Religiosa de los Amigos, grupo protestante conocido por su sencillez y franqueza.]] le dijo que la gente lo consideraba orgulloso. Su conclusión es de las más honestas del libro: no logró mucho en la realidad de esa virtud, pero sí bastante en su apariencia.\n\nLo valioso del método no es que funcionara al cien por ciento. Es la estructura: una sola cosa a la vez, una revisión diaria y un registro visible. Franklin hacía el ciclo completo en 13 semanas, cuatro veces al año. Y admitió que, aunque nunca llegó a la perfección, fue mejor y más feliz por haberlo intentado.",
+   "idea": "Lo que se registra cada día se puede corregir; lo que solo se desea, no.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg?width=900",
+    "alt": "Retrato de un hombre mayor de cabello largo y gris, con saco oscuro",
+    "pie": "Benjamin Franklin retratado por Joseph Siffred Duplessis, hacia 1785",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Benjamin Franklin, Autobiografía, cap. 9 (Standard Ebooks, dominio público)",
+    "url": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/text/chapter-9"
+   },
+   "wiki": "Benjamin Franklin",
+   "claves": [
+    {
+     "nombre": "Benjamin Franklin",
+     "quien": "Impresor, científico y diplomático estadounidense (1706–1790); contó su método en su autobiografía.",
+     "wiki": "Benjamin Franklin"
+    },
+    {
+     "nombre": "Sociedad Religiosa de los Amigos",
+     "quien": "Los cuáqueros: uno de ellos le hizo ver a Franklin su orgullo.",
+     "wiki": "Sociedad Religiosa de los Amigos"
+    },
+    {
+     "nombre": "Ilustración",
+     "quien": "Movimiento del siglo XVIII que confiaba en la razón para mejorar al individuo y a la sociedad.",
+     "wiki": "Ilustración"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo trabajaba Franklin sus 13 virtudes?",
+    "respuesta": "Una por semana, con una libreta de una página por virtud y un punto negro por cada falta. El orden fue la que nunca dominó."
+   }
+  },
+  {
+   "materia": "Literatura y mitología",
+   "pilar": "cultura",
+   "formato": "desarmado",
+   "titulo": "«Nosotros, pocos»: el discurso de San Crispín desarmado",
+   "contexto": "25 de octubre de 1415, mañana de la batalla de Agincourt, en el norte de Francia. El ejército inglés está agotado, enfermo y es más pequeño que el francés.\n\nAsí lo imaginó Shakespeare en *Enrique V*, hacia 1599. Un noble, Westmoreland, suspira: ojalá tuviéramos aquí a diez mil de los hombres que hoy no trabajan en Inglaterra.\n\nEl rey lo oye. Su respuesta se volvió uno de los discursos más citados en inglés.",
+   "pregunta": "¿Qué hace Enrique con la queja de que son muy pocos?",
+   "opciones": [
+    "Promete que llegarán refuerzos antes del mediodía",
+    "La convierte en privilegio: entre menos sean, más honor para cada uno",
+    "Ofrece pagar el doble a quien se quede"
+   ],
+   "correcta": 1,
+   "revelacion": "Enrique le da la vuelta a la escasez: «Si estamos destinados a morir, somos bastantes para que nuestra patria pierda; y si a vivir, cuanto menos hombres, mayor parte de honor». Desarmado, el discurso tiene cuatro piezas.\n\n**1. Reencuadre.** La desventaja se vuelve exclusividad. **2. Memoria del futuro.** Pide imaginar a los veteranos, cada año en el día de [[San Crispín|Fiesta cristiana del 25 de octubre, día de la batalla de Agincourt.]], mostrando sus cicatrices. **3. Igualdad.** «Quien hoy derrame su sangre conmigo será mi hermano», por humilde que sea. **4. Envidia de los ausentes.** Los caballeros que hoy duermen en Inglaterra se sentirán malditos por no haber estado.\n\nDe ahí sale la frase *«We few, we happy few, we band of brothers»*: nosotros, pocos; nosotros, felices pocos; nosotros, banda de hermanos. Ojo: es teatro, no un discurso real. Y la desventaja numérica de Agincourt está en debate: historiadores como [[Anne Curry|Historiadora británica que revisó los registros administrativos de la campaña de 1415.]] creen que la diferencia fue menor que la de la leyenda.",
+   "idea": "Un líder no niega la desventaja: la vuelve un motivo de orgullo para los que se quedan.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Henry_V_from_NPG.jpg?width=900",
+    "alt": "Retrato de perfil de un rey de cabello corto con ropa roja",
+    "pie": "Enrique V de Inglaterra en un retrato de la National Portrait Gallery de Londres",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Shakespeare, Enrique V (fragmento), Wikisource en español",
+    "url": "https://es.wikisource.org/wiki/Enrique_V_(fragmento)"
+   },
+   "wiki": "Enrique V (obra de teatro)",
+   "claves": [
+    {
+     "nombre": "Enrique V de Inglaterra",
+     "quien": "Rey de Inglaterra de 1413 a 1422; venció en Agincourt.",
+     "wiki": "Enrique V de Inglaterra"
+    },
+    {
+     "nombre": "Batalla de Agincourt",
+     "quien": "Victoria inglesa del 25 de octubre de 1415 en la guerra de los Cien Años.",
+     "wiki": "Batalla de Agincourt"
+    },
+    {
+     "nombre": "William Shakespeare",
+     "quien": "Dramaturgo inglés (1564–1616) que convirtió la batalla en teatro hacia 1599.",
+     "wiki": "William Shakespeare"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué técnica usa Enrique V cuando le dicen que son pocos?",
+    "respuesta": "El reencuadre: convierte la escasez en privilegio. Menos hombres, más honor para cada uno."
+   }
+  },
+  {
+   "materia": "Ciudades del mundo",
+   "pilar": "mundo",
+   "formato": "comoFunciona",
+   "titulo": "Barcelona y sus esquinas cortadas: por qué el Eixample no tiene cruces en ángulo recto",
+   "contexto": "Mira un mapa de Barcelona desde arriba. Fuera del casco antiguo aparece una cuadrícula casi perfecta de manzanas iguales. Pero ninguna es un cuadrado completo: todas tienen las cuatro esquinas cortadas.\n\nEs el [[Eixample|«Ensanche» en catalán: el barrio que creció fuera de las murallas medievales de Barcelona a partir de 1860.]], diseñado por el ingeniero Ildefons Cerdà. Su plan se aprobó en 1859, cuando la ciudad derribaba sus murallas. Barcelona estaba tan apretada que la gente vivía hacinada y enferma.",
+   "pregunta": "¿Por qué Cerdà cortó las esquinas de cada manzana?",
+   "opciones": [
+    "Para que cupieran más departamentos",
+    "Para ver y girar en los cruces: imaginaba calles con máquinas de vapor",
+    "Por imitar las plazas barrocas de Roma"
+   ],
+   "correcta": 1,
+   "revelacion": "Cerdà pensaba en el tráfico del futuro. Imaginó tranvías y vehículos de vapor que necesitaban espacio para girar. Las esquinas cortadas, los [[chaflanes|Esquinas recortadas en diagonal. En el Eixample convierten cada cruce en una pequeña plaza octagonal.]], dan visibilidad y abren un hueco en cada cruce. Las manzanas miden unos 113 metros por lado y las calles, unos 20 metros de ancho.\n\nTambién pensaba en la salud. Su idea original era construir solo en dos lados de cada manzana y dejar el centro como jardín, con luz y aire para todos. La especulación ganó: con los años, casi todas las manzanas se cerraron por los cuatro lados.\n\nHoy Barcelona intenta recuperar algo de esa idea con las [[supermanzanas|Grupos de manzanas donde se limita el paso de coches para dar la calle a peatones y vegetación.]]: calles del Eixample donde se reduce el paso de coches y se ganan plazas y árboles. Un plan de 1859 sigue decidiendo cómo se mueve la ciudad.",
+   "idea": "Una buena cuadrícula no es solo orden: es una apuesta por cómo vivirá la gente dentro de cien años.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/CruillesCerda.jpg?width=900",
+    "alt": "Vista aérea de cruces de calles con esquinas cortadas en diagonal",
+    "pie": "Cruces del Eixample: los chaflanes convierten cada esquina en una pequeña plaza",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Museu d'Història de Barcelona: Cerdà y la Barcelona del futuro (PDF)",
+    "url": "https://www.barcelona.cat/museuhistoria/sites/default/files/cerda_cast.pdf"
+   },
+   "wiki": "Distrito del Ensanche",
+   "claves": [
+    {
+     "nombre": "Ildefons Cerdà",
+     "quien": "Ingeniero catalán (1815–1876), autor del plan del Ensanche y de la palabra «urbanización».",
+     "wiki": "Ildefonso Cerdá"
+    },
+    {
+     "nombre": "Paseo de Gracia",
+     "quien": "La gran avenida del Eixample, donde están casas de Gaudí como la Pedrera.",
+     "wiki": "Paseo de Gracia"
+    },
+    {
+     "nombre": "Barcelona",
+     "quien": "Capital de Cataluña; su Ensanche es un caso de estudio del urbanismo moderno.",
+     "wiki": "Barcelona"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Para qué sirven los chaflanes del Eixample?",
+    "respuesta": "Dan visibilidad y espacio para girar en los cruces. Cerdà los pensó para el tráfico de tranvías y vehículos de vapor."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "elCaso",
+   "titulo": "Stardew Valley: cuatro años de trabajo de una persona y más de 41 millones de copias",
+   "contexto": "Seattle, alrededor de 2012. Eric Barone acaba de terminar la universidad y no encuentra trabajo como programador. Para mejorar su portafolio, empieza un juego de granja inspirado en uno que amaba de niño.\n\nLo hace todo él solo: el código, los dibujos, la música, los diálogos. Trabaja más de cuatro años, a veces doce horas al día. Firma como *ConcernedApe*.\n\nEl juego sale el 26 de febrero de 2016 a 14.99 dólares. Producir una copia más cuesta casi nada: es un archivo.",
+   "pregunta": "En 2024, con el juego vendido a millones, ¿qué hizo Barone?",
+   "opciones": [
+    "Lanzó una secuela a precio completo",
+    "Publicó una gran actualización gratuita, la 1.6",
+    "Pasó el juego a una suscripción mensual"
+   ],
+   "correcta": 1,
+   "revelacion": "Publicó la **actualización 1.6** gratis en marzo de 2024: contenido nuevo para un juego de ocho años. Ese mismo año se informó que el juego superaba los 30 millones de copias y, después, los **41 millones** en todas las plataformas. Barone ha dicho públicamente que no piensa cobrar por expansiones ni actualizaciones.\n\nEl modelo tiene tres piezas. **Un costo fijo grande y un costo por copia casi cero:** los cuatro años de trabajo se pagan una vez; cada venta adicional es casi todo margen, menos la comisión de la tienda. **Un producto que mejora con el tiempo:** cada actualización gratuita trae de vuelta a los jugadores y genera conversación, que es publicidad sin costo. **Más canales para el mismo archivo:** consolas, celulares, otros idiomas.\n\nOjo con la lección: es un caso excepcional. Miles de juegos hechos por una persona venden casi nada. Lo que sí se puede copiar es el criterio: un producto pequeño y muy cuidado, que respeta a quien lo compró, puede crecer durante años sin gastar en anuncios.",
+   "idea": "En un producto digital, cuidar a quien ya compró puede ser la mejor forma de vender la siguiente copia.",
+   "fuente": {
+    "nombre": "PocketGamer.biz: Stardew Valley sells over 41 million copies",
+    "url": "https://www.pocketgamer.biz/stardew-valley-sells-over-41-million-copies"
+   },
+   "wiki": "Stardew Valley",
+   "claves": [
+    {
+     "nombre": "Videojuego independiente",
+     "quien": "Juego hecho por personas o estudios pequeños sin una gran editorial detrás.",
+     "wiki": "Videojuego independiente"
+    },
+    {
+     "nombre": "Harvest Moon",
+     "quien": "Serie japonesa de juegos de granja que inspiró a Barone.",
+     "wiki": "Harvest Moon"
+    },
+    {
+     "nombre": "Steam",
+     "quien": "Tienda digital de videojuegos de Valve, uno de los canales principales del juego.",
+     "wiki": "Steam"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué el modelo de Stardew Valley es escalable?",
+    "respuesta": "Tuvo un costo fijo grande (cuatro años de trabajo) y un costo casi nulo por copia; las actualizaciones gratis renovaron el interés."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Mente y decisiones",
+   "pilar": "mente",
+   "epoca": "2011",
+   "titulo": "Los jueces hambrientos quizá no lo eran tanto",
+   "dato": "Un estudio famoso dijo que los jueces israelíes concedían la libertad condicional al 65% al empezar la sesión y a casi nadie antes de comer. La explicación resultó más complicada.",
+   "explicacion": "El estudio, publicado en *PNAS* en 2011, analizó más de mil decisiones de juntas de libertad condicional. La caída tras horas de trabajo se atribuyó a la [[fatiga de decisión|Idea de que tomar muchas decisiones seguidas desgasta y empuja a elegir la opción más cómoda, como decir «no».]] y se citó en todo el mundo.\n\nPoco después, otros investigadores señalaron que el orden de los casos no era al azar: los presos sin abogado solían ir al final de cada sesión, y esos casos se resolvían más rápido y casi siempre en contra. En 2016, una simulación mostró que el efecto probablemente está exagerado. El cansancio puede influir, pero la cifra del 65% al cero no prueba que el hambre decida.",
+   "fuente": {
+    "nombre": "Judgment and Decision Making: The irrational hungry judge effect revisited (Glöckner, 2016)",
+    "url": "https://dlab.sauder.ubc.ca/sjdm/journal/16/16823/jdm16823.html"
+   },
+   "wiki": "Sesgo cognitivo",
+   "claves": [
+    {
+     "nombre": "Libertad condicional",
+     "quien": "Salida anticipada de prisión bajo condiciones; era la decisión que estudiaron.",
+     "wiki": "Libertad condicional"
+    },
+    {
+     "nombre": "Toma de decisiones",
+     "quien": "El proceso de elegir entre opciones; el estudio buscaba qué lo distorsiona.",
+     "wiki": "Toma de decisiones"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué explicación alternativa se dio al «efecto del juez hambriento»?",
+    "respuesta": "El orden de los casos: los presos sin abogado solían ir al final de la sesión y casi siempre perdían."
+   }
+  },
+  {
+   "materia": "Disciplina y hábitos",
+   "pilar": "caracter",
+   "epoca": "Siglo XX",
+   "titulo": "Maya Angelou escribía en un cuarto de hotel vacío",
+   "dato": "La escritora Maya Angelou rentaba un cuarto de hotel en cada ciudad donde vivía, solo para escribir. Pedía que quitaran todos los cuadros de las paredes.",
+   "explicacion": "Lo contó en su entrevista con *The Paris Review* en 1990. Llegaba temprano, hacia las seis y media de la mañana. Llevaba un diccionario, una Biblia, un tesauro, libretas amarillas, una botella de jerez y una baraja para hacer solitarios. Escribía hasta el mediodía o la primera hora de la tarde, y por la tarde corregía en casa.\n\nLa clave no era el lujo, sino quitar estímulos. Un cuarto sin nada propio no ofrece tareas pendientes ni distracciones. Es la misma lógica que hoy recomiendan los estudios sobre hábitos: diseñar el entorno para que la conducta deseada sea la más fácil.",
+   "fuente": {
+    "nombre": "The Paris Review: Maya Angelou, The Art of Fiction No. 119 (1990)",
+    "url": "https://www.theparisreview.org/interviews/2279/the-art-of-fiction-no-119-maya-angelou"
+   },
+   "wiki": "Maya Angelou",
+   "claves": [
+    {
+     "nombre": "Maya Angelou",
+     "quien": "Escritora y poeta estadounidense (1928–2014), autora de *Yo sé por qué canta el pájaro enjaulado*.",
+     "wiki": "Maya Angelou"
+    },
+    {
+     "nombre": "The Paris Review",
+     "quien": "Revista literaria famosa por sus entrevistas a escritores sobre su oficio.",
+     "wiki": "The Paris Review"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué Maya Angelou pedía quitar los cuadros de su cuarto de hotel?",
+    "respuesta": "Para eliminar estímulos: un espacio vacío no distrae ni recuerda pendientes."
+   }
+  },
+  {
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "epoca": "1958",
+   "titulo": "El primer paciente con marcapasos sobrevivió a sus inventores",
+   "dato": "Arne Larsson recibió el primer marcapasos implantado en 1958, en Estocolmo. El aparato falló en horas. Él vivió 43 años más y usó 26 marcapasos.",
+   "explicacion": "Larsson, ingeniero sueco, tenía un ritmo cardiaco tan lento que se desmayaba decenas de veces al día. Su esposa convenció al cirujano Åke Senning y al ingeniero Rune Elmqvist de probar un aparato experimental. Lo implantaron el 8 de octubre de 1958 en el [[Instituto Karolinska|Universidad médica de Estocolmo, una de las más importantes de Europa.]]. El primero dejó de funcionar pronto y hubo que cambiarlo.\n\nA lo largo de su vida recibió 26 aparatos, cada vez mejores. Murió en 2001, a los 86 años, después que Elmqvist y que Senning. Su caso muestra cómo avanza la medicina: el primer dispositivo casi siempre es imperfecto, y lo que salva vidas es la mejora constante.",
+   "fuente": {
+    "nombre": "Understanding Animal Research: Pacemakers, one of the top ten medical inventions?",
+    "url": "https://www.understandinganimalresearch.org.uk/news/top-ten-medical-inventions-pacemakers"
+   },
+   "wiki": "Marcapasos",
+   "claves": [
+    {
+     "nombre": "Instituto Karolinska",
+     "quien": "Donde se implantó el primer marcapasos, en Estocolmo.",
+     "wiki": "Instituto Karolinska"
+    },
+    {
+     "nombre": "Arritmia",
+     "quien": "Alteración del ritmo del corazón; la de Larsson era un ritmo demasiado lento.",
+     "wiki": "Arritmia"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuántos marcapasos usó Arne Larsson en su vida?",
+    "respuesta": "26. Recibió el primero en 1958 y murió en 2001, a los 86 años."
+   }
+  },
+  {
+   "materia": "Religiones y grandes textos",
+   "pilar": "cultura",
+   "epoca": "Siglo III a. C.",
+   "titulo": "La Biblia griega no se tradujo en 72 días",
+   "dato": "Una leyenda antigua dice que 72 sabios tradujeron la Biblia hebrea al griego en 72 días. En realidad, la traducción tomó unos dos siglos.",
+   "explicacion": "La leyenda viene de la *Carta de Aristeas*: el rey [[Ptolomeo II|Rey de Egipto (c. 285–246 a. C.) de la dinastía fundada por un general de Alejandro Magno.]] habría pedido a seis sabios de cada tribu de Israel traducir la Ley para la biblioteca de Alejandría. Filón de Alejandría añadió que, trabajando por separado, todos produjeron la misma traducción. Por eso se llama *Septuaginta*, «los Setenta».\n\nLos estudiosos creen que en el siglo III a. C. solo se tradujeron los cinco primeros libros, la Torá, para los judíos de Alejandría que ya hablaban griego. El resto se tradujo poco a poco durante los dos siglos siguientes. Fue la Biblia que leyeron los primeros cristianos.",
+   "fuente": {
+    "nombre": "Center for Online Judaic Studies: 250 a. C., la Septuaginta y la Biblioteca de Alejandría",
+    "url": "https://cojs.org/250-b-c-e-septuagint-library-alexandria/"
+   },
+   "wiki": "Septuaginta",
+   "claves": [
+    {
+     "nombre": "Biblioteca de Alejandría",
+     "quien": "La gran biblioteca de la Antigüedad, donde la leyenda sitúa la traducción.",
+     "wiki": "Biblioteca de Alejandría"
+    },
+    {
+     "nombre": "Filón de Alejandría",
+     "quien": "Filósofo judío del siglo I que difundió la versión milagrosa de la leyenda.",
+     "wiki": "Filón de Alejandría"
+    },
+    {
+     "nombre": "Torá",
+     "quien": "Los cinco primeros libros de la Biblia hebrea; lo primero que se tradujo.",
+     "wiki": "Torá"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué se tradujo primero al griego en la Septuaginta?",
+    "respuesta": "La Torá, los cinco primeros libros, en el siglo III a. C. El resto tardó unos dos siglos más."
+   }
+  },
+  {
+   "materia": "Derecho y poder",
+   "pilar": "mundo",
+   "epoca": "1992",
+   "titulo": "Un ensayo calificado con C cambió la Constitución de EE. UU.",
+   "dato": "En 1982, un estudiante de Texas sacó C en un ensayo sobre una enmienda olvidada desde 1789. Diez años después, esa enmienda entró en la Constitución.",
+   "explicacion": "Gregory Watson descubrió que una enmienda propuesta por James Madison en 1789 seguía técnicamente abierta: prohibía que el Congreso se subiera el sueldo con efecto inmediato. Su profesora no lo convenció de que fuera viable. Watson escribió cartas a legisladores estatales durante años, y en mayo de 1992 se alcanzaron los estados necesarios. Es la [[Vigesimoséptima Enmienda|La más reciente de la Constitución de EE. UU.: un aumento de sueldo del Congreso solo rige tras la siguiente elección.]].\n\nTardó más de 202 años en ratificarse. En 2017, la Universidad de Texas le cambió la calificación a A. La lección legal: una propuesta sin fecha límite puede seguir viva por siglos.",
+   "fuente": {
+    "nombre": "NPR: The bad grade that changed the U.S. Constitution (5 may 2017)",
+    "url": "https://www.npr.org/2017/05/05/526900818/the-bad-grade-that-changed-the-u-s-constitution"
+   },
+   "wiki": "Vigesimoséptima Enmienda a la Constitución de los Estados Unidos",
+   "claves": [
+    {
+     "nombre": "James Madison",
+     "quien": "Cuarto presidente de EE. UU. y autor de las primeras enmiendas, incluida esta.",
+     "wiki": "James Madison"
+    },
+    {
+     "nombre": "Carta de Derechos de los Estados Unidos",
+     "quien": "Las diez primeras enmiendas, propuestas en el mismo paquete de 1789.",
+     "wiki": "Carta de Derechos de los Estados Unidos"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto tardó en ratificarse la 27.ª Enmienda de EE. UU.?",
+    "respuesta": "Más de 202 años: se propuso en 1789 y se ratificó en 1992, gracias a la campaña de Gregory Watson."
+   }
+  },
+  {
+   "materia": "Inversión y finanzas personales",
+   "pilar": "patrimonio",
+   "epoca": "1950",
+   "titulo": "La cena sin cartera que inventó la tarjeta de crédito fue publicidad",
+   "dato": "Se cuenta que Diners Club nació porque su fundador olvidó la cartera en una cena en Nueva York. Su propio publicista admitió años después que la historia era inventada.",
+   "explicacion": "Diners Club se fundó en 1950 con Frank McNamara y Ralph Schneider. Era una tarjeta de cartón para pagar en restaurantes de Nueva York y saldar todo a fin de mes. La anécdota de la «primera cena» se volvió leyenda, pero el publicista Matty Simmons reconoció que la habían creado como relato para la prensa.\n\nLo que sí fue nuevo es el modelo: la empresa no cobraba al cliente intereses, sino una comisión al restaurante por cada consumo. El restaurante pagaba porque la tarjeta le traía clientes que gastaban más. Esa idea, cobrar a ambos lados de una transacción, sigue siendo la base del negocio de las tarjetas.",
+   "fuente": {
+    "nombre": "Diners Club International (Wikipedia, con referencias a Matty Simmons)",
+    "url": "https://en.wikipedia.org/wiki/Diners_Club_International"
+   },
+   "wiki": "Tarjeta de crédito",
+   "claves": [
+    {
+     "nombre": "Diners Club International",
+     "quien": "Primera tarjeta de pago de uso general, nacida en Nueva York en 1950.",
+     "wiki": "Diners Club International"
+    },
+    {
+     "nombre": "Comisión",
+     "quien": "Porcentaje que se cobra por intermediar una venta; el ingreso clave de Diners.",
+     "wiki": "Comisión (comercio)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿De quién cobraba Diners Club en su modelo original?",
+    "respuesta": "Sobre todo de los restaurantes, con una comisión por cada consumo. La historia de la cartera olvidada era publicidad."
+   }
+  },
+  {
+   "materia": "El cosmos",
+   "pilar": "futuro",
+   "epoca": "Hoy",
+   "titulo": "La luz del Sol es mucho más vieja que ocho minutos",
+   "dato": "La luz del Sol tarda unos ocho minutos en llegar a la Tierra. Pero la energía que la produjo pudo tardar decenas de miles de años en salir del centro del Sol.",
+   "explicacion": "En el núcleo del Sol, la [[fusión nuclear|Unión de núcleos de hidrógeno en helio que libera la energía del Sol.]] produce energía en forma de luz. Pero el interior es tan denso que esa luz no viaja en línea recta: choca, se absorbe y se vuelve a emitir una y otra vez, en un recorrido en zigzag. Las estimaciones van de unos diez mil a más de cien mil años, según el modelo.\n\nCuando por fin llega a la superficie, la [[fotosfera|Capa visible del Sol, de donde sale la luz que vemos.]], recorre los 150 millones de kilómetros hasta nosotros en unos 8 minutos y 20 segundos. El sol de esta mañana empezó su viaje cuando nuestra especie aún vivía de la caza.",
+   "fuente": {
+    "nombre": "National Geographic: The Sun",
+    "url": "https://www.nationalgeographic.com/science/space/solar-system/the-sun/"
+   },
+   "wiki": "Sol",
+   "claves": [
+    {
+     "nombre": "Fusión nuclear",
+     "quien": "La reacción que alimenta al Sol y a todas las estrellas.",
+     "wiki": "Fusión nuclear"
+    },
+    {
+     "nombre": "Fotosfera",
+     "quien": "La superficie visible del Sol.",
+     "wiki": "Fotosfera"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué la energía del Sol tarda tanto en salir del núcleo?",
+    "respuesta": "Porque el interior es tan denso que la luz se absorbe y se reemite sin parar, en zigzag. Afuera, llega a la Tierra en unos 8 minutos."
+   }
+  },
+  {
+   "materia": "Gastronomía, vino y destilados",
+   "pilar": "gusto",
+   "epoca": "2026",
+   "titulo": "El vino que tiene fecha de estreno: el jueves 19",
+   "dato": "El Beaujolais Nouveau no puede venderse antes del tercer jueves de noviembre. Este año es el jueves 19, y se hizo con uvas cosechadas hace unas semanas.",
+   "explicacion": "Es un vino tinto de la uva [[gamay|Uva tinta típica de Beaujolais, al sur de Borgoña; da vinos ligeros y frutales.]], hecho para beberse joven. Se elabora con [[maceración carbónica|Fermentación de racimos enteros en un ambiente de gas carbónico; da aromas a fruta roja y poca astringencia.]], que lo hace frutal y ligero en pocas semanas. Desde 1985, la fecha de salida es el tercer jueves de noviembre, y en Francia se festeja con un lema: *Le Beaujolais nouveau est arrivé*.\n\nEs un caso de mercadotecnia brillante: un vino sencillo convertido en evento mundial gracias a una fecha fija. Sus críticos dicen que dañó la reputación de la región; los mejores Beaujolais son otros, como los de sus diez *crus*.",
+   "fuente": {
+    "nombre": "Beaujolais Nouveau Day, 19 nov 2026 (National Today)",
+    "url": "https://nationaltoday.com/beaujolais-nouveau-day/"
+   },
+   "wiki": "Beaujolais (vino)",
+   "claves": [
+    {
+     "nombre": "Gamay",
+     "quien": "La uva del Beaujolais.",
+     "wiki": "Gamay"
+    },
+    {
+     "nombre": "Borgoña",
+     "quien": "Región vinícola francesa al norte de Beaujolais.",
+     "wiki": "Borgoña"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuándo sale cada año el Beaujolais Nouveau?",
+    "respuesta": "El tercer jueves de noviembre, desde 1985. En 2026 es el jueves 19."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "El arte de la guerra",
+  "autor": "Sun Tzu",
+  "capitulo": {
+   "numero": 5,
+   "total": 6,
+   "titulo": "Maniobras y terreno"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bamboo_book_-_binding_-_UCR.jpg?width=900",
+   "alt": "Tiras de bambú atadas con cordel, con caracteres chinos en columnas",
+   "pie": "Un libro de tiras de bambú, el formato en que circulaban textos como *El arte de la guerra*",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "¿Qué es más rápido para llegar a una ciudad: la carretera recta o un rodeo? Parece una pregunta tonta. Sun Tzu dice que no lo es.\n\nEste capítulo reúne cinco partes del libro, de la VII a la XI. Ya no hablan de planes ni de fuerzas, sino de movimiento: cómo avanzar, cuándo no obedecer, cómo leer el terreno y qué hacer con la gente que te sigue. Es la parte más práctica de la obra. También es la que más se parece a dirigir una empresa en un mercado que cambia."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El rodeo que llega primero"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El capítulo VII trata de las [[maniobras|Movimientos de un ejército para ocupar una posición ventajosa antes que el enemigo.]]. Sun Tzu advierte que nada es más difícil. La dificultad está en una paradoja: convertir lo tortuoso en directo y la desgracia en ganancia.\n\nSu ejemplo es el rodeo. Si tomas un camino largo, pero distraes al enemigo para que no te espere, puedes salir después y llegar antes. El camino corto que todos vigilan es, en realidad, el más lento."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Tomar un camino largo y tortuoso, después de alejar al enemigo con un señuelo, y aunque partas después que él, llegar antes: eso muestra que conoces el arte de la desviación.",
+    "fuente": "El arte de la guerra, VII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "También advierte contra la prisa. Si haces que todo el ejército corra para ganar una ventaja, los más fuertes llegarán primero, los débiles se quedarán atrás y solo una parte estará lista. Correr de más es otra forma de dividirte.\n\nY entonces llega el pasaje más famoso del libro, el que los samuráis japoneses bordaron siglos después en sus estandartes."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Que tu rapidez sea la del viento; tu orden, el del bosque. Al atacar y saquear, sé como el fuego; al mantenerte firme, como la montaña.",
+    "fuente": "El arte de la guerra, VII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Lee esas cuatro imágenes como una sola regla: cada momento pide una velocidad distinta. Hay tiempos de viento y tiempos de montaña. El error es tener una sola marcha.\n\nEl capítulo cierra con un consejo que sorprende en un libro de guerra: cuando rodees a un ejército, déjale una salida. No presiones demasiado a un enemigo desesperado. Quien no tiene escapatoria pelea hasta morir, y eso te cuesta caro. En una negociación, deja siempre al otro una forma digna de aceptar."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según Sun Tzu, ¿por qué conviene dejarle una salida a un enemigo rodeado?",
+    "opciones": [
+     "Porque así puedes perseguirlo después",
+     "Porque quien no tiene salida pelea con desesperación y te cuesta más",
+     "Porque la ley de la guerra lo exige"
+    ],
+    "correcta": 1,
+    "explicacion": "Un rival sin salida no tiene nada que perder. Dejarle una puerta reduce su resistencia y tu costo. Vale igual en una negociación: deja que el otro pueda aceptar sin humillarse."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Órdenes que no se obedecen"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El capítulo VIII, *Las nueve variaciones*, contiene una lista que debió incomodar a muchos reyes. Sun Tzu dice que hay caminos que no se deben seguir, ejércitos que no se deben atacar, ciudades que no se deben sitiar y posiciones que no se deben disputar. Y remata: hay órdenes del soberano que no se deben obedecer.\n\nNo es un llamado a la rebeldía. Es una idea sobre la [[delegación|Dar a alguien autoridad para decidir dentro de un marco, no solo tareas para ejecutar.]]: quien está en el terreno ve cosas que quien manda desde lejos no ve. Un buen general cumple el objetivo, no la letra de la instrucción."
+   },
+   {
+    "tipo": "texto",
+    "texto": "El mismo capítulo tiene una de las frases más útiles para cualquier negocio. Sun Tzu dice que no hay que confiar en que el enemigo no venga, sino en estar listos para recibirlo. No en que no ataque, sino en haber hecho la posición inatacable.\n\nLuego enumera cinco defectos peligrosos en un líder: la temeridad, que lleva a la destrucción; la cobardía, que lleva a la captura; el mal genio, que se deja provocar; un sentido del honor demasiado delicado, que no soporta la vergüenza; y el exceso de preocupación por sus hombres, que lo paraliza. Cada virtud, llevada al extremo, se vuelve una debilidad que el rival puede usar."
+   },
+   {
+    "tipo": "cita",
+    "texto": "El arte de la guerra nos enseña a no confiar en la probabilidad de que el enemigo no venga, sino en nuestra propia disposición para recibirlo.",
+    "fuente": "El arte de la guerra, VIII"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Leer el terreno"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Los capítulos IX, X y XI son casi un manual de campo. Sun Tzu clasifica los terrenos: accesibles, enredados, estrechos, escarpados, lejanos. Para cada uno da una regla. Ocupa las alturas soleadas. No acampes río abajo del enemigo. Si llegas primero a un paso estrecho, ciérralo; si llega él primero, no lo sigas.\n\nTambién enseña a leer señales. Si los pájaros levantan el vuelo, hay una emboscada. Si el polvo sube alto y estrecho, vienen carros; si sube bajo y ancho, viene infantería. Si los enviados del enemigo hablan humildemente pero él sigue preparándose, está a punto de avanzar. Si hablan con arrogancia, quizá se va a retirar. Sun Tzu pide mirar lo que la gente hace, no solo lo que dice."
+   },
+   {
+    "tipo": "texto",
+    "texto": "El terreno, insiste, es el mejor aliado del soldado. Pero no basta conocerlo: hay que conocer también a tu gente. Aquí aparece una frase sorprendentemente tierna para un tratado militar."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Mira a tus soldados como a tus hijos, y te seguirán a los valles más profundos; míralos como a tus propios hijos amados, y estarán a tu lado hasta la muerte.",
+    "fuente": "El arte de la guerra, X"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Y enseguida pone el límite: si eres indulgente pero no puedes hacer valer tu autoridad, si eres bondadoso pero no puedes dar órdenes, tus soldados serán como niños malcriados, inútiles para cualquier cosa. Cariño y exigencia van juntos. Uno sin el otro no sirve."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Qué combinación pide Sun Tzu a un líder con su gente?",
+    "opciones": [
+     "Solo disciplina: el miedo mantiene el orden",
+     "Solo cariño: la lealtad lo resuelve todo",
+     "Cariño y autoridad a la vez: uno sin la otra produce gente malcriada"
+    ],
+    "correcta": 2,
+    "explicacion": "Sun Tzu pide tratar a los soldados como hijos, pero advierte que la bondad sin autoridad los vuelve inútiles. Es la base de cualquier equipo que funciona."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La serpiente de las dos cabezas"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El capítulo XI, *Las nueve situaciones*, termina con una imagen memorable. Sun Tzu habla de la *shuai-jan*, una serpiente de las montañas Chang. Si la golpeas en la cabeza, te ataca con la cola. Si la golpeas en la cola, te ataca con la cabeza. Si la golpeas en medio, te atacan las dos.\n\nAsí debe ser un ejército bien dirigido: cada parte responde por las demás sin esperar órdenes. Sun Tzu recuerda que los hombres de dos reinos enemigos, si cruzan un río en el mismo barco y los sorprende una tormenta, se ayudan como la mano izquierda ayuda a la derecha. La unión no nace de los discursos, sino de compartir el mismo riesgo."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Por eso, dice Sun Tzu, a veces el general lleva a sus tropas a un lugar sin retirada. No por crueldad, sino porque ahí cada uno entiende que su vida depende del de al lado. Es una idea dura, y conviene leerla con cuidado: no habla de exponer a la gente sin necesidad, sino de que un equipo se une cuando todos ven el mismo riesgo y el mismo objetivo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Del campo de batalla a la oficina"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Piensa en una marca pequeña que entra a un mercado dominado por gigantes. El camino directo, competir en el mismo anaquel con el mismo mensaje, es el que todos vigilan. El rodeo puede ser un canal que los grandes desprecian, una ciudad donde no han puesto atención o un cliente que nadie atiende bien. Se tarda más en planearlo, pero se llega antes.\n\nPiensa también en la lista de los cinco defectos. El mal genio que se deja provocar es el empresario que baja precios porque un competidor lo hizo. El honor demasiado delicado es el que no puede retirar un producto que no funciona porque le da vergüenza. Y el exceso de preocupación por su gente es el que no toma una decisión necesaria por miedo a incomodar. Sun Tzu no pide dejar de sentir, sino que el rival no pueda usar lo que sientes.\n\nPor último, el terreno. En los negocios, el terreno es el mercado: sus reglas, sus distancias, sus pasos estrechos. Quien llega primero a un paso estrecho, una licencia, un distribuidor clave o un permiso sanitario, puede cerrarlo. Quien llega después no debería pelear ahí, sino buscar otro paso."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Queda un capítulo. Sun Tzu dejó para el final dos temas que parecen opuestos: el ataque con fuego, el más destructivo, y los espías, el más silencioso. Los une una misma idea: la información vale más que la fuerza."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "En una frase",
+    "texto": "El camino corto que todos vigilan suele ser el más lento; cambia de velocidad según el momento, deja una salida al rival, lee lo que la gente hace y forma un equipo donde cada parte cuide a las demás."
+   }
+  ],
+  "paraLlevar": [
+   "El rodeo que nadie vigila puede llegar antes que el camino directo.",
+   "No confíes en que el problema no llegue: prepárate para recibirlo.",
+   "Cariño sin autoridad produce un equipo malcriado; autoridad sin cariño, uno que no te sigue."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Qué significa «convertir lo tortuoso en directo» en Sun Tzu?",
+    "respuesta": "Que un rodeo bien pensado, que distrae al rival, puede llegar antes que el camino corto que todos vigilan."
+   },
+   {
+    "pregunta": "¿Qué representa la serpiente shuai-jan?",
+    "respuesta": "Un ejército en el que cada parte responde por las demás: si atacas una, las otras reaccionan."
+   }
+  ],
+  "proximo": "El arte de la guerra · Capítulo 6: El fuego y los espías",
+  "fuentes": [
+   {
+    "nombre": "Sun Tzu, The Art of War, trad. Lionel Giles (1910), Proyecto Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/132"
+   },
+   {
+    "nombre": "Standard Ebooks: The Art of War (trad. Giles)",
+    "url": "https://standardebooks.org/ebooks/sun-tzu/the-art-of-war/lionel-giles"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de dominio público de Lionel Giles (1910), Proyecto Gutenberg."
+ },
+ "palabra": {
+  "palabra": "Facundia",
+  "categoria": "Sustantivo femenino",
+  "pronunciacion": "fa-CUN-dia",
+  "definicion": "Facilidad y abundancia para hablar; don de palabra.",
+  "origen": "Del latín *facundia*, «elocuencia», de *facundus*, «que habla con facilidad», emparentado con *fari*, «hablar».",
+  "ejemplo": "Kennedy no necesitó facundia en alemán: le bastaron cuatro palabras bien elegidas.",
+  "repaso": {
+   "pregunta": "¿Qué significa «facundia»?",
+   "respuesta": "Facilidad y abundancia para hablar; don de palabra."
+  }
+ },
+ "frances": {
+  "frase": "Le style est l'homme même.",
+  "traduccion": "El estilo es el hombre mismo.",
+  "pronunciacion": "le STIL e LOM MEM",
+  "uso": "Cultura. La dijo el naturalista Buffon en 1753, en su discurso de ingreso a la Academia Francesa. Quería decir que las ideas son de todos, pero la forma de expresarlas es solo tuya. Se cita para hablar de escritura, de marcas o de cómo alguien se presenta.",
+  "variante": "Se suele citar abreviada: « Le style, c'est l'homme. »",
+  "repaso": {
+   "pregunta": "¿Cómo se dice en francés «el estilo es el hombre mismo»?",
+   "respuesta": "« Le style est l'homme même. » (Buffon, 1753)"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Qué entendieron los berlineses cuando Kennedy dijo «Ich bin ein Berliner»?",
+   "opciones": [
+    "Que se identificaba con ellos",
+    "Que se comparaba con una dona",
+    "Que pedía asilo en Berlín"
+   ],
+   "correcta": 0,
+   "explicacion": "La frase es correcta en alemán. Las risas fueron por su broma sobre el intérprete; el mito de la dona se popularizó décadas después."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Hasta cuándo prevé el SIAPA que duren los tandeos en Guadalajara?",
+   "opciones": [
+    "Hasta fin de noviembre de 2026",
+    "Hasta la segunda quincena de diciembre",
+    "Hasta finales de marzo de 2027"
+   ],
+   "correcta": 2,
+   "explicacion": "Ismael Jáuregui señaló finales de marzo de 2027. Diciembre es la fecha estimada para terminar el saneamiento de Las Pintas, pero después hay que reactivar el bombeo y revisar la calidad."
+  },
+  {
+   "origen": "hechos",
+   "pregunta": "¿Qué tiene de notable Arne Larsson, el primer paciente con marcapasos implantado?",
+   "opciones": [
+    "Rechazó un segundo aparato",
+    "Usó 26 marcapasos y vivió más que sus inventores",
+    "Fue también el cirujano que lo diseñó"
+   ],
+   "correcta": 1,
+   "explicacion": "Recibió el primero en 1958, usó 26 a lo largo de su vida y murió en 2001, a los 86 años, después que Senning y Elmqvist."
+  }
+ ],
+ "libro": null,
+ "proximo": "1976: el Juicio de París, la cata que humilló a Francia"
+}

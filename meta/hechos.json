@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06",
+ "actualizado": "2026-11-07",
  "materias": {
   "Arquitectura y diseño": [
    {
@@ -226,23 +226,6 @@
   ],
   "Ciencia y tecnología": [
    {
-    "materia": "Ciencia y tecnología",
-    "pilar": "futuro",
-    "epoca": "1994",
-    "titulo": "El código QR se inspiró en un tablero de Go",
-    "dato": "El código QR lo inventó un ingeniero de una empresa de autopartes, Masahiro Hara, para seguir piezas en las fábricas de Toyota.",
-    "explicacion": "Hara trabajaba en Denso, proveedora de Toyota. Los códigos de barras guardaban poca información y había que leer varios por caja. Empezó a desarrollar una alternativa en 1992 y la presentó en 1994. Según contó, la idea de las piezas blancas y negras sobre una cuadrícula le vino del Go, el juego de mesa.\n\nLos tres cuadrados de las esquinas son la clave: permiten que el lector sepa dónde está el código y cómo está girado, desde cualquier ángulo. Denso dejó libre la patente para que cualquiera lo usara. Por eso hoy está en menús, boletos y pagos de todo el mundo.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/QR_code_for_mobile_English_Wikipedia.svg?width=900",
-     "alt": "Código QR en blanco y negro con tres cuadrados en las esquinas",
-     "pie": "Un código QR: los tres cuadrados de las esquinas dicen al lector dónde está y cómo está girado",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "IEEE Spectrum: How a board game and skyscrapers inspired the QR code",
-     "url": "https://spectrum.ieee.org/how-a-board-game-and-skyscrapers-inspired-the-development-of-the-qr-code"
-    },
-    "wiki": "Código QR",
     "claves": [
      {
       "nombre": "Denso",
@@ -255,11 +238,28 @@
       "wiki": "Go (juego)"
      }
     ],
+    "dato": "El código QR lo inventó un ingeniero de una empresa de autopartes, Masahiro Hara, para seguir piezas en las fábricas de Toyota.",
+    "epoca": "1994",
+    "explicacion": "Hara trabajaba en Denso, proveedora de Toyota. Los códigos de barras guardaban poca información y había que leer varios por caja. Empezó a desarrollar una alternativa en 1992 y la presentó en 1994. Según contó, la idea de las piezas blancas y negras sobre una cuadrícula le vino del Go, el juego de mesa.\n\nLos tres cuadrados de las esquinas son la clave: permiten que el lector sepa dónde está el código y cómo está girado, desde cualquier ángulo. Denso dejó libre la patente para que cualquiera lo usara. Por eso hoy está en menús, boletos y pagos de todo el mundo.",
+    "fecha": "2026-11-06",
+    "fuente": {
+     "nombre": "IEEE Spectrum: How a board game and skyscrapers inspired the QR code",
+     "url": "https://spectrum.ieee.org/how-a-board-game-and-skyscrapers-inspired-the-development-of-the-qr-code"
+    },
+    "imagen": {
+     "alt": "Código QR en blanco y negro con tres cuadrados en las esquinas",
+     "credito": "Wikimedia Commons",
+     "pie": "Un código QR: los tres cuadrados de las esquinas dicen al lector dónde está y cómo está girado",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/QR_code_for_mobile_English_Wikipedia.svg?width=900"
+    },
+    "materia": "Ciencia y tecnología",
+    "pilar": "futuro",
     "repaso": {
      "pregunta": "¿Para qué se inventó el código QR?",
      "respuesta": "Para seguir autopartes en las fábricas; lo creó Masahiro Hara en Denso en 1994."
     },
-    "fecha": "2026-11-06"
+    "titulo": "El código QR se inspiró en un tablero de Go",
+    "wiki": "Código QR"
    },
    {
     "claves": [
@@ -536,23 +536,6 @@
   ],
   "Ciudades del mundo": [
    {
-    "materia": "Ciudades del mundo",
-    "pilar": "mundo",
-    "epoca": "1648–1665",
-    "titulo": "Un palacio de Ámsterdam se apoya en 13,659 troncos",
-    "dato": "El Palacio Real de Ámsterdam, en la plaza Dam, descansa sobre 13,659 pilotes de madera clavados en el lodo.",
-    "explicacion": "Se construyó como ayuntamiento a partir de 1648, en el siglo de oro neerlandés. El suelo de Ámsterdam es turba y arcilla blanda; para llegar a una capa firme de arena hay que clavar troncos de muchos metros. Bajo el agua y sin oxígeno, la madera casi no se pudre.\n\nCasi toda la ciudad histórica está construida así. Por eso los [[pilotes|Postes clavados en el suelo para transmitir el peso de un edificio a una capa firme.]] son un problema actual: donde baja el nivel del agua, la madera queda expuesta al aire, se pudre y las casas se inclinan. Una ciudad entera depende de que sus troncos sigan mojados.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Amsterdam_(NL),_Koninklijk_Paleis_--_2015_--_7189.jpg?width=900",
-     "alt": "Edificio clásico de piedra con cúpula pequeña frente a una plaza",
-     "pie": "El Palacio Real en la plaza Dam de Ámsterdam",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Wikipedia (inglés): Royal Palace of Amsterdam",
-     "url": "https://en.wikipedia.org/wiki/Royal_Palace_of_Amsterdam"
-    },
-    "wiki": "Palacio Real de Ámsterdam",
     "claves": [
      {
       "nombre": "Ámsterdam",
@@ -565,11 +548,28 @@
       "wiki": "Pilote (cimentación)"
      }
     ],
+    "dato": "El Palacio Real de Ámsterdam, en la plaza Dam, descansa sobre 13,659 pilotes de madera clavados en el lodo.",
+    "epoca": "1648–1665",
+    "explicacion": "Se construyó como ayuntamiento a partir de 1648, en el siglo de oro neerlandés. El suelo de Ámsterdam es turba y arcilla blanda; para llegar a una capa firme de arena hay que clavar troncos de muchos metros. Bajo el agua y sin oxígeno, la madera casi no se pudre.\n\nCasi toda la ciudad histórica está construida así. Por eso los [[pilotes|Postes clavados en el suelo para transmitir el peso de un edificio a una capa firme.]] son un problema actual: donde baja el nivel del agua, la madera queda expuesta al aire, se pudre y las casas se inclinan. Una ciudad entera depende de que sus troncos sigan mojados.",
+    "fecha": "2026-11-06",
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Royal Palace of Amsterdam",
+     "url": "https://en.wikipedia.org/wiki/Royal_Palace_of_Amsterdam"
+    },
+    "imagen": {
+     "alt": "Edificio clásico de piedra con cúpula pequeña frente a una plaza",
+     "credito": "Wikimedia Commons",
+     "pie": "El Palacio Real en la plaza Dam de Ámsterdam",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Amsterdam_(NL),_Koninklijk_Paleis_--_2015_--_7189.jpg?width=900"
+    },
+    "materia": "Ciudades del mundo",
+    "pilar": "mundo",
     "repaso": {
      "pregunta": "¿Por qué los pilotes de Ámsterdam no se pudren?",
      "respuesta": "Porque están bajo el agua, sin oxígeno. Si el nivel baja y quedan al aire, se pudren."
     },
-    "fecha": "2026-11-06"
+    "titulo": "Un palacio de Ámsterdam se apoya en 13,659 troncos",
+    "wiki": "Palacio Real de Ámsterdam"
    },
    {
     "claves": [
@@ -747,23 +747,6 @@
   ],
   "Deporte y aire libre": [
    {
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "epoca": "1903",
-    "titulo": "El Tour de Francia nació para vender periódicos",
-    "dato": "La carrera ciclista más famosa del mundo la inventó un diario deportivo, L'Auto, para ganarle lectores a su rival.",
-    "explicacion": "En 1903, *L'Auto* competía contra *Le Vélo*. Al periodista Géo Lefèvre se le ocurrió una carrera alrededor de Francia, y el director, Henri Desgrange, la hizo realidad. Fueron seis etapas y 2,428 km. Algunas duraban toda la noche. Ganó Maurice Garin, un deshollinador de origen italiano, con casi 95 horas de pedaleo.\n\nFuncionó: las ventas del periódico se dispararon. Al año siguiente hubo tantas trampas, incluido subirse al tren, que Garin y otros fueron descalificados. El *maillot* amarillo del líder, que llegó en 1919, tiene ese color por el papel amarillo del periódico, según la tradición más citada.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maurice_Garin_Meurisse_BNF_Gallica.jpg?width=900",
-     "alt": "Ciclista con bigote junto a su bicicleta antigua",
-     "pie": "Maurice Garin, ganador del primer Tour de Francia (1903)",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Wikipedia (inglés): 1903 Tour de France",
-     "url": "https://en.wikipedia.org/wiki/1903_Tour_de_France"
-    },
-    "wiki": "Tour de Francia",
     "claves": [
      {
       "nombre": "Henri Desgrange",
@@ -776,11 +759,28 @@
       "wiki": "L'Équipe"
      }
     ],
+    "dato": "La carrera ciclista más famosa del mundo la inventó un diario deportivo, L'Auto, para ganarle lectores a su rival.",
+    "epoca": "1903",
+    "explicacion": "En 1903, *L'Auto* competía contra *Le Vélo*. Al periodista Géo Lefèvre se le ocurrió una carrera alrededor de Francia, y el director, Henri Desgrange, la hizo realidad. Fueron seis etapas y 2,428 km. Algunas duraban toda la noche. Ganó Maurice Garin, un deshollinador de origen italiano, con casi 95 horas de pedaleo.\n\nFuncionó: las ventas del periódico se dispararon. Al año siguiente hubo tantas trampas, incluido subirse al tren, que Garin y otros fueron descalificados. El *maillot* amarillo del líder, que llegó en 1919, tiene ese color por el papel amarillo del periódico, según la tradición más citada.",
+    "fecha": "2026-11-06",
+    "fuente": {
+     "nombre": "Wikipedia (inglés): 1903 Tour de France",
+     "url": "https://en.wikipedia.org/wiki/1903_Tour_de_France"
+    },
+    "imagen": {
+     "alt": "Ciclista con bigote junto a su bicicleta antigua",
+     "credito": "Wikimedia Commons",
+     "pie": "Maurice Garin, ganador del primer Tour de Francia (1903)",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maurice_Garin_Meurisse_BNF_Gallica.jpg?width=900"
+    },
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
     "repaso": {
      "pregunta": "¿Para qué se creó el Tour de Francia en 1903?",
      "respuesta": "Para aumentar las ventas del diario L'Auto frente a su rival, Le Vélo."
     },
-    "fecha": "2026-11-06"
+    "titulo": "El Tour de Francia nació para vender periódicos",
+    "wiki": "Tour de Francia"
    },
    {
     "claves": [
@@ -1029,6 +1029,36 @@
   ],
   "Derecho y poder": [
    {
+    "materia": "Derecho y poder",
+    "pilar": "mundo",
+    "epoca": "1992",
+    "titulo": "Un ensayo calificado con C cambió la Constitución de EE. UU.",
+    "dato": "En 1982, un estudiante de Texas sacó C en un ensayo sobre una enmienda olvidada desde 1789. Diez años después, esa enmienda entró en la Constitución.",
+    "explicacion": "Gregory Watson descubrió que una enmienda propuesta por James Madison en 1789 seguía técnicamente abierta: prohibía que el Congreso se subiera el sueldo con efecto inmediato. Su profesora no lo convenció de que fuera viable. Watson escribió cartas a legisladores estatales durante años, y en mayo de 1992 se alcanzaron los estados necesarios. Es la [[Vigesimoséptima Enmienda|La más reciente de la Constitución de EE. UU.: un aumento de sueldo del Congreso solo rige tras la siguiente elección.]].\n\nTardó más de 202 años en ratificarse. En 2017, la Universidad de Texas le cambió la calificación a A. La lección legal: una propuesta sin fecha límite puede seguir viva por siglos.",
+    "fuente": {
+     "nombre": "NPR: The bad grade that changed the U.S. Constitution (5 may 2017)",
+     "url": "https://www.npr.org/2017/05/05/526900818/the-bad-grade-that-changed-the-u-s-constitution"
+    },
+    "wiki": "Vigesimoséptima Enmienda a la Constitución de los Estados Unidos",
+    "claves": [
+     {
+      "nombre": "James Madison",
+      "quien": "Cuarto presidente de EE. UU. y autor de las primeras enmiendas, incluida esta.",
+      "wiki": "James Madison"
+     },
+     {
+      "nombre": "Carta de Derechos de los Estados Unidos",
+      "quien": "Las diez primeras enmiendas, propuestas en el mismo paquete de 1789.",
+      "wiki": "Carta de Derechos de los Estados Unidos"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuánto tardó en ratificarse la 27.ª Enmienda de EE. UU.?",
+     "respuesta": "Más de 202 años: se propuso en 1789 y se ratificó en 1992, gracias a la campaña de Gregory Watson."
+    },
+    "fecha": "2026-11-07"
+   },
+   {
     "claves": [
      {
       "nombre": "Enrique III de Inglaterra",
@@ -1190,6 +1220,36 @@
    }
   ],
   "Disciplina y hábitos": [
+   {
+    "materia": "Disciplina y hábitos",
+    "pilar": "caracter",
+    "epoca": "Siglo XX",
+    "titulo": "Maya Angelou escribía en un cuarto de hotel vacío",
+    "dato": "La escritora Maya Angelou rentaba un cuarto de hotel en cada ciudad donde vivía, solo para escribir. Pedía que quitaran todos los cuadros de las paredes.",
+    "explicacion": "Lo contó en su entrevista con *The Paris Review* en 1990. Llegaba temprano, hacia las seis y media de la mañana. Llevaba un diccionario, una Biblia, un tesauro, libretas amarillas, una botella de jerez y una baraja para hacer solitarios. Escribía hasta el mediodía o la primera hora de la tarde, y por la tarde corregía en casa.\n\nLa clave no era el lujo, sino quitar estímulos. Un cuarto sin nada propio no ofrece tareas pendientes ni distracciones. Es la misma lógica que hoy recomiendan los estudios sobre hábitos: diseñar el entorno para que la conducta deseada sea la más fácil.",
+    "fuente": {
+     "nombre": "The Paris Review: Maya Angelou, The Art of Fiction No. 119 (1990)",
+     "url": "https://www.theparisreview.org/interviews/2279/the-art-of-fiction-no-119-maya-angelou"
+    },
+    "wiki": "Maya Angelou",
+    "claves": [
+     {
+      "nombre": "Maya Angelou",
+      "quien": "Escritora y poeta estadounidense (1928–2014), autora de *Yo sé por qué canta el pájaro enjaulado*.",
+      "wiki": "Maya Angelou"
+     },
+     {
+      "nombre": "The Paris Review",
+      "quien": "Revista literaria famosa por sus entrevistas a escritores sobre su oficio.",
+      "wiki": "The Paris Review"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Por qué Maya Angelou pedía quitar los cuadros de su cuarto de hotel?",
+     "respuesta": "Para eliminar estímulos: un espacio vacío no distrae ni recuerda pendientes."
+    },
+    "fecha": "2026-11-07"
+   },
    {
     "claves": [
      {
@@ -1508,6 +1568,36 @@
   ],
   "El cosmos": [
    {
+    "materia": "El cosmos",
+    "pilar": "futuro",
+    "epoca": "Hoy",
+    "titulo": "La luz del Sol es mucho más vieja que ocho minutos",
+    "dato": "La luz del Sol tarda unos ocho minutos en llegar a la Tierra. Pero la energía que la produjo pudo tardar decenas de miles de años en salir del centro del Sol.",
+    "explicacion": "En el núcleo del Sol, la [[fusión nuclear|Unión de núcleos de hidrógeno en helio que libera la energía del Sol.]] produce energía en forma de luz. Pero el interior es tan denso que esa luz no viaja en línea recta: choca, se absorbe y se vuelve a emitir una y otra vez, en un recorrido en zigzag. Las estimaciones van de unos diez mil a más de cien mil años, según el modelo.\n\nCuando por fin llega a la superficie, la [[fotosfera|Capa visible del Sol, de donde sale la luz que vemos.]], recorre los 150 millones de kilómetros hasta nosotros en unos 8 minutos y 20 segundos. El sol de esta mañana empezó su viaje cuando nuestra especie aún vivía de la caza.",
+    "fuente": {
+     "nombre": "National Geographic: The Sun",
+     "url": "https://www.nationalgeographic.com/science/space/solar-system/the-sun/"
+    },
+    "wiki": "Sol",
+    "claves": [
+     {
+      "nombre": "Fusión nuclear",
+      "quien": "La reacción que alimenta al Sol y a todas las estrellas.",
+      "wiki": "Fusión nuclear"
+     },
+     {
+      "nombre": "Fotosfera",
+      "quien": "La superficie visible del Sol.",
+      "wiki": "Fotosfera"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Por qué la energía del Sol tarda tanto en salir del núcleo?",
+     "respuesta": "Porque el interior es tan denso que la luz se absorbe y se reemite sin parar, en zigzag. Afuera, llega a la Tierra en unos 8 minutos."
+    },
+    "fecha": "2026-11-07"
+   },
+   {
     "claves": [
      {
       "nombre": "Apolo 11",
@@ -1683,23 +1773,6 @@
   ],
   "Etiqueta y protocolo": [
    {
-    "materia": "Etiqueta y protocolo",
-    "pilar": "gusto",
-    "epoca": "Siglo XVII",
-    "titulo": "Por qué el cuchillo de mesa tiene la punta redonda",
-    "dato": "La tradición dice que el cardenal Richelieu mandó limar la punta de sus cuchillos de mesa, hacia 1637, porque le molestaba que sus invitados se limpiaran los dientes con ellos.",
-    "explicacion": "Es una atribución de la tradición, no un documento firme. Lo que sí está registrado es que en 1669 Luis XIV prohibió los cuchillos puntiagudos en la mesa en sus provincias de Flandes, en parte para reducir la violencia.\n\nAntes, cada quien llevaba su propio cuchillo afilado y pinchaba la comida con la punta. Cuando el tenedor se generalizó para pinchar, el cuchillo de mesa quedó solo para cortar y empujar. De ahí su punta redonda, que es la que ves hoy en cualquier mesa formal.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Triple_Portrait_of_Cardinal_de_Richelieu_probably_1642,_Philippe_de_Champaigne.jpg?width=900",
-     "alt": "Tres vistas del rostro de un cardenal con barba y capa roja",
-     "pie": "Triple retrato del cardenal Richelieu, de Philippe de Champaigne (hacia 1642)",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Wikipedia (inglés): Table knife",
-     "url": "https://en.wikipedia.org/wiki/Table_knife"
-    },
-    "wiki": "Cuchillo",
     "claves": [
      {
       "nombre": "Cardenal Richelieu",
@@ -1712,11 +1785,28 @@
       "wiki": "Luis XIV de Francia"
      }
     ],
+    "dato": "La tradición dice que el cardenal Richelieu mandó limar la punta de sus cuchillos de mesa, hacia 1637, porque le molestaba que sus invitados se limpiaran los dientes con ellos.",
+    "epoca": "Siglo XVII",
+    "explicacion": "Es una atribución de la tradición, no un documento firme. Lo que sí está registrado es que en 1669 Luis XIV prohibió los cuchillos puntiagudos en la mesa en sus provincias de Flandes, en parte para reducir la violencia.\n\nAntes, cada quien llevaba su propio cuchillo afilado y pinchaba la comida con la punta. Cuando el tenedor se generalizó para pinchar, el cuchillo de mesa quedó solo para cortar y empujar. De ahí su punta redonda, que es la que ves hoy en cualquier mesa formal.",
+    "fecha": "2026-11-06",
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Table knife",
+     "url": "https://en.wikipedia.org/wiki/Table_knife"
+    },
+    "imagen": {
+     "alt": "Tres vistas del rostro de un cardenal con barba y capa roja",
+     "credito": "Wikimedia Commons",
+     "pie": "Triple retrato del cardenal Richelieu, de Philippe de Champaigne (hacia 1642)",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Triple_Portrait_of_Cardinal_de_Richelieu_probably_1642,_Philippe_de_Champaigne.jpg?width=900"
+    },
+    "materia": "Etiqueta y protocolo",
+    "pilar": "gusto",
     "repaso": {
      "pregunta": "¿Qué cuenta la tradición sobre el cuchillo de mesa redondo?",
      "respuesta": "Que Richelieu mandó limar las puntas hacia 1637 para que sus invitados no se limpiaran los dientes con ellos."
     },
-    "fecha": "2026-11-06"
+    "titulo": "Por qué el cuchillo de mesa tiene la punta redonda",
+    "wiki": "Cuchillo"
    },
    {
     "claves": [
@@ -2056,6 +2146,36 @@
    }
   ],
   "Gastronomía, vino y destilados": [
+   {
+    "materia": "Gastronomía, vino y destilados",
+    "pilar": "gusto",
+    "epoca": "2026",
+    "titulo": "El vino que tiene fecha de estreno: el jueves 19",
+    "dato": "El Beaujolais Nouveau no puede venderse antes del tercer jueves de noviembre. Este año es el jueves 19, y se hizo con uvas cosechadas hace unas semanas.",
+    "explicacion": "Es un vino tinto de la uva [[gamay|Uva tinta típica de Beaujolais, al sur de Borgoña; da vinos ligeros y frutales.]], hecho para beberse joven. Se elabora con [[maceración carbónica|Fermentación de racimos enteros en un ambiente de gas carbónico; da aromas a fruta roja y poca astringencia.]], que lo hace frutal y ligero en pocas semanas. Desde 1985, la fecha de salida es el tercer jueves de noviembre, y en Francia se festeja con un lema: *Le Beaujolais nouveau est arrivé*.\n\nEs un caso de mercadotecnia brillante: un vino sencillo convertido en evento mundial gracias a una fecha fija. Sus críticos dicen que dañó la reputación de la región; los mejores Beaujolais son otros, como los de sus diez *crus*.",
+    "fuente": {
+     "nombre": "Beaujolais Nouveau Day, 19 nov 2026 (National Today)",
+     "url": "https://nationaltoday.com/beaujolais-nouveau-day/"
+    },
+    "wiki": "Beaujolais (vino)",
+    "claves": [
+     {
+      "nombre": "Gamay",
+      "quien": "La uva del Beaujolais.",
+      "wiki": "Gamay"
+     },
+     {
+      "nombre": "Borgoña",
+      "quien": "Región vinícola francesa al norte de Beaujolais.",
+      "wiki": "Borgoña"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuándo sale cada año el Beaujolais Nouveau?",
+     "respuesta": "El tercer jueves de noviembre, desde 1985. En 2026 es el jueves 19."
+    },
+    "fecha": "2026-11-07"
+   },
    {
     "claves": [
      {
@@ -2578,6 +2698,36 @@
   ],
   "Inversión y finanzas personales": [
    {
+    "materia": "Inversión y finanzas personales",
+    "pilar": "patrimonio",
+    "epoca": "1950",
+    "titulo": "La cena sin cartera que inventó la tarjeta de crédito fue publicidad",
+    "dato": "Se cuenta que Diners Club nació porque su fundador olvidó la cartera en una cena en Nueva York. Su propio publicista admitió años después que la historia era inventada.",
+    "explicacion": "Diners Club se fundó en 1950 con Frank McNamara y Ralph Schneider. Era una tarjeta de cartón para pagar en restaurantes de Nueva York y saldar todo a fin de mes. La anécdota de la «primera cena» se volvió leyenda, pero el publicista Matty Simmons reconoció que la habían creado como relato para la prensa.\n\nLo que sí fue nuevo es el modelo: la empresa no cobraba al cliente intereses, sino una comisión al restaurante por cada consumo. El restaurante pagaba porque la tarjeta le traía clientes que gastaban más. Esa idea, cobrar a ambos lados de una transacción, sigue siendo la base del negocio de las tarjetas.",
+    "fuente": {
+     "nombre": "Diners Club International (Wikipedia, con referencias a Matty Simmons)",
+     "url": "https://en.wikipedia.org/wiki/Diners_Club_International"
+    },
+    "wiki": "Tarjeta de crédito",
+    "claves": [
+     {
+      "nombre": "Diners Club International",
+      "quien": "Primera tarjeta de pago de uso general, nacida en Nueva York en 1950.",
+      "wiki": "Diners Club International"
+     },
+     {
+      "nombre": "Comisión",
+      "quien": "Porcentaje que se cobra por intermediar una venta; el ingreso clave de Diners.",
+      "wiki": "Comisión (comercio)"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿De quién cobraba Diners Club en su modelo original?",
+     "respuesta": "Sobre todo de los restaurantes, con una comisión por cada consumo. La historia de la cartera olvidada era publicidad."
+    },
+    "fecha": "2026-11-07"
+   },
+   {
     "claves": [
      {
       "nombre": "Interés compuesto",
@@ -2701,23 +2851,6 @@
   ],
   "Liderazgo e influencia": [
    {
-    "materia": "Liderazgo e influencia",
-    "pilar": "caracter",
-    "epoca": "1940–1943",
-    "titulo": "El rey de Dinamarca nunca se puso la estrella amarilla",
-    "dato": "Circula la historia de que el rey Cristián X llevó la estrella de David para proteger a los judíos daneses. Es falsa: los nazis nunca impusieron la estrella en Dinamarca.",
-    "explicacion": "El Museo del Holocausto de Estados Unidos la llama una historia ficticia. Lo que sí hizo el rey durante la ocupación alemana fue salir a caballo, solo y sin escolta, por las calles de Copenhague casi todos los días. Era un símbolo silencioso de que el país seguía en pie.\n\nLa historia real es más impresionante que la leyenda. En octubre de 1943, cuando los nazis planearon deportar a los judíos daneses, miles de ciudadanos comunes los escondieron y los llevaron en barcos de pesca a Suecia. En unas tres semanas cruzaron más de 7,000. No lo hizo un rey: lo hizo una sociedad entera.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Christian_X_in_Copenhagen_1940.jpg?width=900",
-     "alt": "Hombre mayor a caballo en una calle, rodeado de gente que lo mira",
-     "pie": "Cristián X en su paseo a caballo por Copenhague, 1940",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "United States Holocaust Memorial Museum: King Christian X of Denmark",
-     "url": "https://encyclopedia.ushmm.org/content/en/article/king-christian-x-of-denmark"
-    },
-    "wiki": "Cristián X de Dinamarca",
     "claves": [
      {
       "nombre": "Rescate de los judíos daneses",
@@ -2730,11 +2863,28 @@
       "wiki": "Copenhague"
      }
     ],
+    "dato": "Circula la historia de que el rey Cristián X llevó la estrella de David para proteger a los judíos daneses. Es falsa: los nazis nunca impusieron la estrella en Dinamarca.",
+    "epoca": "1940–1943",
+    "explicacion": "El Museo del Holocausto de Estados Unidos la llama una historia ficticia. Lo que sí hizo el rey durante la ocupación alemana fue salir a caballo, solo y sin escolta, por las calles de Copenhague casi todos los días. Era un símbolo silencioso de que el país seguía en pie.\n\nLa historia real es más impresionante que la leyenda. En octubre de 1943, cuando los nazis planearon deportar a los judíos daneses, miles de ciudadanos comunes los escondieron y los llevaron en barcos de pesca a Suecia. En unas tres semanas cruzaron más de 7,000. No lo hizo un rey: lo hizo una sociedad entera.",
+    "fecha": "2026-11-06",
+    "fuente": {
+     "nombre": "United States Holocaust Memorial Museum: King Christian X of Denmark",
+     "url": "https://encyclopedia.ushmm.org/content/en/article/king-christian-x-of-denmark"
+    },
+    "imagen": {
+     "alt": "Hombre mayor a caballo en una calle, rodeado de gente que lo mira",
+     "credito": "Wikimedia Commons",
+     "pie": "Cristián X en su paseo a caballo por Copenhague, 1940",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/King_Christian_X_in_Copenhagen_1940.jpg?width=900"
+    },
+    "materia": "Liderazgo e influencia",
+    "pilar": "caracter",
     "repaso": {
      "pregunta": "¿Qué es lo falso y lo verdadero de la historia de Cristián X?",
      "respuesta": "Falso: que llevó la estrella amarilla. Verdadero: paseaba solo a caballo por Copenhague, y en 1943 los daneses llevaron a más de 7,000 judíos a Suecia."
     },
-    "fecha": "2026-11-06"
+    "titulo": "El rey de Dinamarca nunca se puso la estrella amarilla",
+    "wiki": "Cristián X de Dinamarca"
    },
    {
     "claves": [
@@ -3032,6 +3182,36 @@
   ],
   "Mente y decisiones": [
    {
+    "materia": "Mente y decisiones",
+    "pilar": "mente",
+    "epoca": "2011",
+    "titulo": "Los jueces hambrientos quizá no lo eran tanto",
+    "dato": "Un estudio famoso dijo que los jueces israelíes concedían la libertad condicional al 65% al empezar la sesión y a casi nadie antes de comer. La explicación resultó más complicada.",
+    "explicacion": "El estudio, publicado en *PNAS* en 2011, analizó más de mil decisiones de juntas de libertad condicional. La caída tras horas de trabajo se atribuyó a la [[fatiga de decisión|Idea de que tomar muchas decisiones seguidas desgasta y empuja a elegir la opción más cómoda, como decir «no».]] y se citó en todo el mundo.\n\nPoco después, otros investigadores señalaron que el orden de los casos no era al azar: los presos sin abogado solían ir al final de cada sesión, y esos casos se resolvían más rápido y casi siempre en contra. En 2016, una simulación mostró que el efecto probablemente está exagerado. El cansancio puede influir, pero la cifra del 65% al cero no prueba que el hambre decida.",
+    "fuente": {
+     "nombre": "Judgment and Decision Making: The irrational hungry judge effect revisited (Glöckner, 2016)",
+     "url": "https://dlab.sauder.ubc.ca/sjdm/journal/16/16823/jdm16823.html"
+    },
+    "wiki": "Sesgo cognitivo",
+    "claves": [
+     {
+      "nombre": "Libertad condicional",
+      "quien": "Salida anticipada de prisión bajo condiciones; era la decisión que estudiaron.",
+      "wiki": "Libertad condicional"
+     },
+     {
+      "nombre": "Toma de decisiones",
+      "quien": "El proceso de elegir entre opciones; el estudio buscaba qué lo distorsiona.",
+      "wiki": "Toma de decisiones"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué explicación alternativa se dio al «efecto del juez hambriento»?",
+     "respuesta": "El orden de los casos: los presos sin abogado solían ir al final de la sesión y casi siempre perdían."
+    },
+    "fecha": "2026-11-07"
+   },
+   {
     "claves": [
      {
       "nombre": "Efecto dotación",
@@ -3184,23 +3364,6 @@
   ],
   "Música": [
    {
-    "materia": "Música",
-    "pilar": "cultura",
-    "epoca": "1770",
-    "titulo": "Mozart copió de memoria una música «secreta»",
-    "dato": "A los 14 años, Mozart oyó en la Capilla Sixtina el *Miserere* de Allegri, cuya partitura el Vaticano no dejaba circular. Llegó a casa y lo escribió de memoria.",
-    "explicacion": "Ocurrió en Roma durante la Semana Santa de 1770. La obra, para dos coros, se cantaba solo en esos días, y su copia estaba restringida. Según las cartas de la familia, Mozart la transcribió tras oírla y volvió a escucharla para corregir detalles. Al año siguiente, el historiador Charles Burney la publicó en Londres.\n\nHay un matiz que casi nunca se cuenta: ya existían algunas copias fuera del Vaticano, y Mozart quizá la había escuchado antes en Londres. La hazaña sigue siendo enorme, pero el «secreto» no era tan absoluto como dice la leyenda.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Wolfgang_Amadeus_Mozart_at_the_age_of_13_in_Verona,_1770.jpg?width=900",
-     "alt": "Retrato de un niño con peluca blanca sentado frente a un clavecín",
-     "pie": "Mozart en Verona, enero de 1770, semanas antes de llegar a Roma",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Wikipedia (inglés): Gregorio Allegri",
-     "url": "https://en.wikipedia.org/wiki/Gregorio_Allegri"
-    },
-    "wiki": "Miserere (Allegri)",
     "claves": [
      {
       "nombre": "Gregorio Allegri",
@@ -3218,11 +3381,28 @@
       "wiki": "Wolfgang Amadeus Mozart"
      }
     ],
+    "dato": "A los 14 años, Mozart oyó en la Capilla Sixtina el *Miserere* de Allegri, cuya partitura el Vaticano no dejaba circular. Llegó a casa y lo escribió de memoria.",
+    "epoca": "1770",
+    "explicacion": "Ocurrió en Roma durante la Semana Santa de 1770. La obra, para dos coros, se cantaba solo en esos días, y su copia estaba restringida. Según las cartas de la familia, Mozart la transcribió tras oírla y volvió a escucharla para corregir detalles. Al año siguiente, el historiador Charles Burney la publicó en Londres.\n\nHay un matiz que casi nunca se cuenta: ya existían algunas copias fuera del Vaticano, y Mozart quizá la había escuchado antes en Londres. La hazaña sigue siendo enorme, pero el «secreto» no era tan absoluto como dice la leyenda.",
+    "fecha": "2026-11-06",
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Gregorio Allegri",
+     "url": "https://en.wikipedia.org/wiki/Gregorio_Allegri"
+    },
+    "imagen": {
+     "alt": "Retrato de un niño con peluca blanca sentado frente a un clavecín",
+     "credito": "Wikimedia Commons",
+     "pie": "Mozart en Verona, enero de 1770, semanas antes de llegar a Roma",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Wolfgang_Amadeus_Mozart_at_the_age_of_13_in_Verona,_1770.jpg?width=900"
+    },
+    "materia": "Música",
+    "pilar": "cultura",
     "repaso": {
      "pregunta": "¿Qué obra escribió Mozart de memoria en 1770?",
      "respuesta": "El Miserere de Allegri, tras oírlo en la Capilla Sixtina."
     },
-    "fecha": "2026-11-06"
+    "titulo": "Mozart copió de memoria una música «secreta»",
+    "wiki": "Miserere (Allegri)"
    },
    {
     "claves": [
@@ -3640,17 +3820,6 @@
   ],
   "Productos digitales escalables": [
    {
-    "materia": "Productos digitales escalables",
-    "pilar": "patrimonio",
-    "epoca": "2009",
-    "titulo": "Angry Birds fue el juego número 52",
-    "dato": "Antes del éxito que salvó a la empresa, el estudio finlandés Rovio había publicado 51 juegos. A principios de 2009 estaba cerca de la quiebra.",
-    "explicacion": "Angry Birds salió en diciembre de 2009, primero en Finlandia y luego en todo el mundo. Encajó con un formato nuevo: el iPhone, la pantalla táctil y una tienda que llevaba un juego de 99 centavos a cualquier país al instante. Cada copia extra costaba casi nada.\n\nLa lección no es que el juego 52 fuera mágico. Es que en los productos digitales el costo de cada intento puede ser bajo, y el éxito suele llegar después de muchos lanzamientos que nadie recuerda. Rovio sobrevivió lo suficiente para probar una vez más.",
-    "fuente": {
-     "nombre": "Wikiwand: Angry Birds (historia del lanzamiento)",
-     "url": "https://www.wikiwand.com/en/articles/Angry_Birds_HD"
-    },
-    "wiki": "Angry Birds (videojuego)",
     "claves": [
      {
       "nombre": "Rovio Entertainment",
@@ -3663,11 +3832,22 @@
       "wiki": "App Store"
      }
     ],
+    "dato": "Antes del éxito que salvó a la empresa, el estudio finlandés Rovio había publicado 51 juegos. A principios de 2009 estaba cerca de la quiebra.",
+    "epoca": "2009",
+    "explicacion": "Angry Birds salió en diciembre de 2009, primero en Finlandia y luego en todo el mundo. Encajó con un formato nuevo: el iPhone, la pantalla táctil y una tienda que llevaba un juego de 99 centavos a cualquier país al instante. Cada copia extra costaba casi nada.\n\nLa lección no es que el juego 52 fuera mágico. Es que en los productos digitales el costo de cada intento puede ser bajo, y el éxito suele llegar después de muchos lanzamientos que nadie recuerda. Rovio sobrevivió lo suficiente para probar una vez más.",
+    "fecha": "2026-11-06",
+    "fuente": {
+     "nombre": "Wikiwand: Angry Birds (historia del lanzamiento)",
+     "url": "https://www.wikiwand.com/en/articles/Angry_Birds_HD"
+    },
+    "materia": "Productos digitales escalables",
+    "pilar": "patrimonio",
     "repaso": {
      "pregunta": "¿Qué número de juego de Rovio fue Angry Birds?",
      "respuesta": "El 52: antes habían publicado 51 juegos sin un gran éxito."
     },
-    "fecha": "2026-11-06"
+    "titulo": "Angry Birds fue el juego número 52",
+    "wiki": "Angry Birds (videojuego)"
    },
    {
     "claves": [
@@ -3930,6 +4110,41 @@
   ],
   "Religiones y grandes textos": [
    {
+    "materia": "Religiones y grandes textos",
+    "pilar": "cultura",
+    "epoca": "Siglo III a. C.",
+    "titulo": "La Biblia griega no se tradujo en 72 días",
+    "dato": "Una leyenda antigua dice que 72 sabios tradujeron la Biblia hebrea al griego en 72 días. En realidad, la traducción tomó unos dos siglos.",
+    "explicacion": "La leyenda viene de la *Carta de Aristeas*: el rey [[Ptolomeo II|Rey de Egipto (c. 285–246 a. C.) de la dinastía fundada por un general de Alejandro Magno.]] habría pedido a seis sabios de cada tribu de Israel traducir la Ley para la biblioteca de Alejandría. Filón de Alejandría añadió que, trabajando por separado, todos produjeron la misma traducción. Por eso se llama *Septuaginta*, «los Setenta».\n\nLos estudiosos creen que en el siglo III a. C. solo se tradujeron los cinco primeros libros, la Torá, para los judíos de Alejandría que ya hablaban griego. El resto se tradujo poco a poco durante los dos siglos siguientes. Fue la Biblia que leyeron los primeros cristianos.",
+    "fuente": {
+     "nombre": "Center for Online Judaic Studies: 250 a. C., la Septuaginta y la Biblioteca de Alejandría",
+     "url": "https://cojs.org/250-b-c-e-septuagint-library-alexandria/"
+    },
+    "wiki": "Septuaginta",
+    "claves": [
+     {
+      "nombre": "Biblioteca de Alejandría",
+      "quien": "La gran biblioteca de la Antigüedad, donde la leyenda sitúa la traducción.",
+      "wiki": "Biblioteca de Alejandría"
+     },
+     {
+      "nombre": "Filón de Alejandría",
+      "quien": "Filósofo judío del siglo I que difundió la versión milagrosa de la leyenda.",
+      "wiki": "Filón de Alejandría"
+     },
+     {
+      "nombre": "Torá",
+      "quien": "Los cinco primeros libros de la Biblia hebrea; lo primero que se tradujo.",
+      "wiki": "Torá"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué se tradujo primero al griego en la Septuaginta?",
+     "respuesta": "La Torá, los cinco primeros libros, en el siglo III a. C. El resto tardó unos dos siglos más."
+    },
+    "fecha": "2026-11-07"
+   },
+   {
     "claves": [
      {
       "nombre": "Francisco Ximénez",
@@ -4028,23 +4243,6 @@
   ],
   "Retórica y oratoria": [
    {
-    "materia": "Retórica y oratoria",
-    "pilar": "mente",
-    "epoca": "Siglo IV a. C.",
-    "titulo": "Demóstenes ensayaba con piedras en la boca",
-    "dato": "El orador más admirado de Atenas empezó con dificultades para hablar. Según Plutarco, ensayaba sus discursos con piedritas en la boca.",
-    "explicacion": "Lo cuenta Plutarco en su *Vida de Demóstenes* (11), citando a Demetrio de Falero, que decía haberlo oído del propio Demóstenes ya viejo. Según el relato, también declamaba mientras corría o subía cuestas, para entrenar el aliento. Es una anécdota antigua, no una prueba documental, pero viene de una fuente cercana.\n\nLa idea de fondo sigue vigente: la voz se entrena como un músculo. Hablar con un obstáculo obliga a articular con más fuerza. Demóstenes acabó siendo el gran orador contra Filipo de Macedonia; sus discursos dieron nombre a las [[filípicas|Discursos de ataque. Viene de los de Demóstenes contra Filipo II de Macedonia.]].",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Démosthène_s'exerçant_à_la_parole_(1870)_by_Jean-Jules-Antoine_Lecomte_du_Nouÿ.jpg?width=900",
-     "alt": "Pintura de un hombre que declama solo frente al mar",
-     "pie": "*Demóstenes ejercitándose en la palabra* (1870), de Jean-Jules-Antoine Lecomte du Nouÿ",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Plutarco, Vida de Demóstenes, 11 (Lexundria)",
-     "url": "https://lexundria.com/plut_dem/11/prr"
-    },
-    "wiki": "Demóstenes",
     "claves": [
      {
       "nombre": "Plutarco",
@@ -4057,11 +4255,28 @@
       "wiki": "Filipo II de Macedonia"
      }
     ],
+    "dato": "El orador más admirado de Atenas empezó con dificultades para hablar. Según Plutarco, ensayaba sus discursos con piedritas en la boca.",
+    "epoca": "Siglo IV a. C.",
+    "explicacion": "Lo cuenta Plutarco en su *Vida de Demóstenes* (11), citando a Demetrio de Falero, que decía haberlo oído del propio Demóstenes ya viejo. Según el relato, también declamaba mientras corría o subía cuestas, para entrenar el aliento. Es una anécdota antigua, no una prueba documental, pero viene de una fuente cercana.\n\nLa idea de fondo sigue vigente: la voz se entrena como un músculo. Hablar con un obstáculo obliga a articular con más fuerza. Demóstenes acabó siendo el gran orador contra Filipo de Macedonia; sus discursos dieron nombre a las [[filípicas|Discursos de ataque. Viene de los de Demóstenes contra Filipo II de Macedonia.]].",
+    "fecha": "2026-11-06",
+    "fuente": {
+     "nombre": "Plutarco, Vida de Demóstenes, 11 (Lexundria)",
+     "url": "https://lexundria.com/plut_dem/11/prr"
+    },
+    "imagen": {
+     "alt": "Pintura de un hombre que declama solo frente al mar",
+     "credito": "Wikimedia Commons",
+     "pie": "*Demóstenes ejercitándose en la palabra* (1870), de Jean-Jules-Antoine Lecomte du Nouÿ",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Démosthène_s'exerçant_à_la_parole_(1870)_by_Jean-Jules-Antoine_Lecomte_du_Nouÿ.jpg?width=900"
+    },
+    "materia": "Retórica y oratoria",
+    "pilar": "mente",
     "repaso": {
      "pregunta": "¿Con qué ensayaba Demóstenes sus discursos, según Plutarco?",
      "respuesta": "Con piedritas en la boca, para obligarse a articular con fuerza."
     },
-    "fecha": "2026-11-06"
+    "titulo": "Demóstenes ensayaba con piedras en la boca",
+    "wiki": "Demóstenes"
    },
    {
     "claves": [
@@ -4238,6 +4453,36 @@
    }
   ],
   "Salud y longevidad": [
+   {
+    "materia": "Salud y longevidad",
+    "pilar": "cuerpo",
+    "epoca": "1958",
+    "titulo": "El primer paciente con marcapasos sobrevivió a sus inventores",
+    "dato": "Arne Larsson recibió el primer marcapasos implantado en 1958, en Estocolmo. El aparato falló en horas. Él vivió 43 años más y usó 26 marcapasos.",
+    "explicacion": "Larsson, ingeniero sueco, tenía un ritmo cardiaco tan lento que se desmayaba decenas de veces al día. Su esposa convenció al cirujano Åke Senning y al ingeniero Rune Elmqvist de probar un aparato experimental. Lo implantaron el 8 de octubre de 1958 en el [[Instituto Karolinska|Universidad médica de Estocolmo, una de las más importantes de Europa.]]. El primero dejó de funcionar pronto y hubo que cambiarlo.\n\nA lo largo de su vida recibió 26 aparatos, cada vez mejores. Murió en 2001, a los 86 años, después que Elmqvist y que Senning. Su caso muestra cómo avanza la medicina: el primer dispositivo casi siempre es imperfecto, y lo que salva vidas es la mejora constante.",
+    "fuente": {
+     "nombre": "Understanding Animal Research: Pacemakers, one of the top ten medical inventions?",
+     "url": "https://www.understandinganimalresearch.org.uk/news/top-ten-medical-inventions-pacemakers"
+    },
+    "wiki": "Marcapasos",
+    "claves": [
+     {
+      "nombre": "Instituto Karolinska",
+      "quien": "Donde se implantó el primer marcapasos, en Estocolmo.",
+      "wiki": "Instituto Karolinska"
+     },
+     {
+      "nombre": "Arritmia",
+      "quien": "Alteración del ritmo del corazón; la de Larsson era un ritmo demasiado lento.",
+      "wiki": "Arritmia"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuántos marcapasos usó Arne Larsson en su vida?",
+     "respuesta": "26. Recibió el primero en 1958 y murió en 2001, a los 86 años."
+    },
+    "fecha": "2026-11-07"
+   },
    {
     "claves": [
      {
