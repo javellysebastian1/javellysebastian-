@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07",
+ "actualizado": "2026-11-08",
  "materias": {
   "Arquitectura y diseño": [
    {
@@ -747,6 +747,47 @@
   ],
   "Deporte y aire libre": [
    {
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
+    "epoca": "1968",
+    "titulo": "El salto que el aparato no pudo medir",
+    "dato": "En México 68, Bob Beamon saltó 8.90 metros: 55 centímetros más que el récord mundial. El aparato óptico de medición no alcanzaba esa distancia y hubo que medir con cinta.",
+    "explicacion": "Fue el 18 de octubre de 1968, en el Estadio Olímpico Universitario. Hasta entonces el récord había subido de centímetro en centímetro; Beamon lo movió más de medio metro en un solo intento. Lo ayudaron la altitud de la Ciudad de México, unos 2,240 metros, donde el aire ofrece menos resistencia, y un viento a favor de 2.0 m/s, justo el límite permitido.\n\nEl récord mundial duró casi 23 años, hasta que Mike Powell saltó 8.95 metros en Tokio en 1991. Como récord olímpico sigue en pie. Es uno de los casos más claros de cómo el lugar también compite.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Beamon_1968.jpg?width=900",
+     "alt": "Un atleta en el aire durante un salto de longitud",
+     "pie": "Bob Beamon en los Juegos Olímpicos de México 1968",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Olympics.com: Bob Beamon",
+     "url": "https://www.olympics.com/en/athletes/bob-beamon"
+    },
+    "wiki": "Bob Beamon",
+    "claves": [
+     {
+      "nombre": "Juegos Olímpicos de México 1968",
+      "quien": "Los primeros Juegos en América Latina y a gran altitud; se rompieron muchos récords de velocidad y salto.",
+      "wiki": "Juegos Olímpicos de México 1968"
+     },
+     {
+      "nombre": "Salto de longitud",
+      "quien": "La prueba de Beamon: carrera, impulso desde una tabla y caída en arena.",
+      "wiki": "Salto de longitud"
+     },
+     {
+      "nombre": "Progresión del récord mundial",
+      "quien": "La lista histórica muestra cuán grande fue el salto de 1968.",
+      "wiki": "Progresión del récord mundial de salto de longitud"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuánto saltó Bob Beamon en 1968 y cuánto mejoró el récord?",
+     "respuesta": "8.90 metros, 55 centímetros más que el récord anterior. Duró hasta 1991."
+    },
+    "fecha": "2026-11-08"
+   },
+   {
     "claves": [
      {
       "nombre": "Henri Desgrange",
@@ -995,51 +1036,10 @@
     },
     "titulo": "El maratón ganado con veneno",
     "wiki": "Juegos Olímpicos de San Luis 1904"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Roger Bannister",
-      "quien": "Atleta y neurólogo británico, primero en bajar de 4 minutos en la milla",
-      "wiki": "Roger Bannister"
-     },
-     {
-      "nombre": "John Landy",
-      "quien": "Atleta australiano que superó su marca semanas después",
-      "wiki": "John Landy"
-     }
-    ],
-    "dato": "Durante años se dijo que correr una milla en menos de cuatro minutos era imposible. Roger Bannister lo hizo el 6 de mayo de 1954 (3:59.4) y 46 días después John Landy ya había batido su marca.",
-    "epoca": "1954",
-    "explicacion": "Bannister era estudiante de medicina y entrenaba en sus ratos libres. Usó a dos compañeros como liebres para marcar el ritmo y corrió en Oxford con viento cambiante. El récord no duró ni dos meses.\n\nLa historia suele contarse como prueba de que las barreras son mentales. La parte cierta es que muchos atletas estaban ya muy cerca; la marca era un umbral simbólico más que físico. Una vez que alguien lo cruza, los demás dejan de dudar de que se pueda.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Roger Bannister",
-     "url": "https://es.wikipedia.org/wiki/Roger_Bannister"
-    },
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "repaso": {
-     "pregunta": "¿Cuánto duró el récord de la milla de Roger Bannister?",
-     "respuesta": "46 días."
-    },
-    "titulo": "La barrera que duró 46 días",
-    "wiki": "Roger Bannister"
    }
   ],
   "Derecho y poder": [
    {
-    "materia": "Derecho y poder",
-    "pilar": "mundo",
-    "epoca": "1992",
-    "titulo": "Un ensayo calificado con C cambió la Constitución de EE. UU.",
-    "dato": "En 1982, un estudiante de Texas sacó C en un ensayo sobre una enmienda olvidada desde 1789. Diez años después, esa enmienda entró en la Constitución.",
-    "explicacion": "Gregory Watson descubrió que una enmienda propuesta por James Madison en 1789 seguía técnicamente abierta: prohibía que el Congreso se subiera el sueldo con efecto inmediato. Su profesora no lo convenció de que fuera viable. Watson escribió cartas a legisladores estatales durante años, y en mayo de 1992 se alcanzaron los estados necesarios. Es la [[Vigesimoséptima Enmienda|La más reciente de la Constitución de EE. UU.: un aumento de sueldo del Congreso solo rige tras la siguiente elección.]].\n\nTardó más de 202 años en ratificarse. En 2017, la Universidad de Texas le cambió la calificación a A. La lección legal: una propuesta sin fecha límite puede seguir viva por siglos.",
-    "fuente": {
-     "nombre": "NPR: The bad grade that changed the U.S. Constitution (5 may 2017)",
-     "url": "https://www.npr.org/2017/05/05/526900818/the-bad-grade-that-changed-the-u-s-constitution"
-    },
-    "wiki": "Vigesimoséptima Enmienda a la Constitución de los Estados Unidos",
     "claves": [
      {
       "nombre": "James Madison",
@@ -1052,11 +1052,22 @@
       "wiki": "Carta de Derechos de los Estados Unidos"
      }
     ],
+    "dato": "En 1982, un estudiante de Texas sacó C en un ensayo sobre una enmienda olvidada desde 1789. Diez años después, esa enmienda entró en la Constitución.",
+    "epoca": "1992",
+    "explicacion": "Gregory Watson descubrió que una enmienda propuesta por James Madison en 1789 seguía técnicamente abierta: prohibía que el Congreso se subiera el sueldo con efecto inmediato. Su profesora no lo convenció de que fuera viable. Watson escribió cartas a legisladores estatales durante años, y en mayo de 1992 se alcanzaron los estados necesarios. Es la [[Vigesimoséptima Enmienda|La más reciente de la Constitución de EE. UU.: un aumento de sueldo del Congreso solo rige tras la siguiente elección.]].\n\nTardó más de 202 años en ratificarse. En 2017, la Universidad de Texas le cambió la calificación a A. La lección legal: una propuesta sin fecha límite puede seguir viva por siglos.",
+    "fecha": "2026-11-07",
+    "fuente": {
+     "nombre": "NPR: The bad grade that changed the U.S. Constitution (5 may 2017)",
+     "url": "https://www.npr.org/2017/05/05/526900818/the-bad-grade-that-changed-the-u-s-constitution"
+    },
+    "materia": "Derecho y poder",
+    "pilar": "mundo",
     "repaso": {
      "pregunta": "¿Cuánto tardó en ratificarse la 27.ª Enmienda de EE. UU.?",
      "respuesta": "Más de 202 años: se propuso en 1789 y se ratificó en 1992, gracias a la campaña de Gregory Watson."
     },
-    "fecha": "2026-11-07"
+    "titulo": "Un ensayo calificado con C cambió la Constitución de EE. UU.",
+    "wiki": "Vigesimoséptima Enmienda a la Constitución de los Estados Unidos"
    },
    {
     "claves": [
@@ -1221,17 +1232,6 @@
   ],
   "Disciplina y hábitos": [
    {
-    "materia": "Disciplina y hábitos",
-    "pilar": "caracter",
-    "epoca": "Siglo XX",
-    "titulo": "Maya Angelou escribía en un cuarto de hotel vacío",
-    "dato": "La escritora Maya Angelou rentaba un cuarto de hotel en cada ciudad donde vivía, solo para escribir. Pedía que quitaran todos los cuadros de las paredes.",
-    "explicacion": "Lo contó en su entrevista con *The Paris Review* en 1990. Llegaba temprano, hacia las seis y media de la mañana. Llevaba un diccionario, una Biblia, un tesauro, libretas amarillas, una botella de jerez y una baraja para hacer solitarios. Escribía hasta el mediodía o la primera hora de la tarde, y por la tarde corregía en casa.\n\nLa clave no era el lujo, sino quitar estímulos. Un cuarto sin nada propio no ofrece tareas pendientes ni distracciones. Es la misma lógica que hoy recomiendan los estudios sobre hábitos: diseñar el entorno para que la conducta deseada sea la más fácil.",
-    "fuente": {
-     "nombre": "The Paris Review: Maya Angelou, The Art of Fiction No. 119 (1990)",
-     "url": "https://www.theparisreview.org/interviews/2279/the-art-of-fiction-no-119-maya-angelou"
-    },
-    "wiki": "Maya Angelou",
     "claves": [
      {
       "nombre": "Maya Angelou",
@@ -1244,11 +1244,22 @@
       "wiki": "The Paris Review"
      }
     ],
+    "dato": "La escritora Maya Angelou rentaba un cuarto de hotel en cada ciudad donde vivía, solo para escribir. Pedía que quitaran todos los cuadros de las paredes.",
+    "epoca": "Siglo XX",
+    "explicacion": "Lo contó en su entrevista con *The Paris Review* en 1990. Llegaba temprano, hacia las seis y media de la mañana. Llevaba un diccionario, una Biblia, un tesauro, libretas amarillas, una botella de jerez y una baraja para hacer solitarios. Escribía hasta el mediodía o la primera hora de la tarde, y por la tarde corregía en casa.\n\nLa clave no era el lujo, sino quitar estímulos. Un cuarto sin nada propio no ofrece tareas pendientes ni distracciones. Es la misma lógica que hoy recomiendan los estudios sobre hábitos: diseñar el entorno para que la conducta deseada sea la más fácil.",
+    "fecha": "2026-11-07",
+    "fuente": {
+     "nombre": "The Paris Review: Maya Angelou, The Art of Fiction No. 119 (1990)",
+     "url": "https://www.theparisreview.org/interviews/2279/the-art-of-fiction-no-119-maya-angelou"
+    },
+    "materia": "Disciplina y hábitos",
+    "pilar": "caracter",
     "repaso": {
      "pregunta": "¿Por qué Maya Angelou pedía quitar los cuadros de su cuarto de hotel?",
      "respuesta": "Para eliminar estímulos: un espacio vacío no distrae ni recuerda pendientes."
     },
-    "fecha": "2026-11-07"
+    "titulo": "Maya Angelou escribía en un cuarto de hotel vacío",
+    "wiki": "Maya Angelou"
    },
    {
     "claves": [
@@ -1568,17 +1579,6 @@
   ],
   "El cosmos": [
    {
-    "materia": "El cosmos",
-    "pilar": "futuro",
-    "epoca": "Hoy",
-    "titulo": "La luz del Sol es mucho más vieja que ocho minutos",
-    "dato": "La luz del Sol tarda unos ocho minutos en llegar a la Tierra. Pero la energía que la produjo pudo tardar decenas de miles de años en salir del centro del Sol.",
-    "explicacion": "En el núcleo del Sol, la [[fusión nuclear|Unión de núcleos de hidrógeno en helio que libera la energía del Sol.]] produce energía en forma de luz. Pero el interior es tan denso que esa luz no viaja en línea recta: choca, se absorbe y se vuelve a emitir una y otra vez, en un recorrido en zigzag. Las estimaciones van de unos diez mil a más de cien mil años, según el modelo.\n\nCuando por fin llega a la superficie, la [[fotosfera|Capa visible del Sol, de donde sale la luz que vemos.]], recorre los 150 millones de kilómetros hasta nosotros en unos 8 minutos y 20 segundos. El sol de esta mañana empezó su viaje cuando nuestra especie aún vivía de la caza.",
-    "fuente": {
-     "nombre": "National Geographic: The Sun",
-     "url": "https://www.nationalgeographic.com/science/space/solar-system/the-sun/"
-    },
-    "wiki": "Sol",
     "claves": [
      {
       "nombre": "Fusión nuclear",
@@ -1591,11 +1591,22 @@
       "wiki": "Fotosfera"
      }
     ],
+    "dato": "La luz del Sol tarda unos ocho minutos en llegar a la Tierra. Pero la energía que la produjo pudo tardar decenas de miles de años en salir del centro del Sol.",
+    "epoca": "Hoy",
+    "explicacion": "En el núcleo del Sol, la [[fusión nuclear|Unión de núcleos de hidrógeno en helio que libera la energía del Sol.]] produce energía en forma de luz. Pero el interior es tan denso que esa luz no viaja en línea recta: choca, se absorbe y se vuelve a emitir una y otra vez, en un recorrido en zigzag. Las estimaciones van de unos diez mil a más de cien mil años, según el modelo.\n\nCuando por fin llega a la superficie, la [[fotosfera|Capa visible del Sol, de donde sale la luz que vemos.]], recorre los 150 millones de kilómetros hasta nosotros en unos 8 minutos y 20 segundos. El sol de esta mañana empezó su viaje cuando nuestra especie aún vivía de la caza.",
+    "fecha": "2026-11-07",
+    "fuente": {
+     "nombre": "National Geographic: The Sun",
+     "url": "https://www.nationalgeographic.com/science/space/solar-system/the-sun/"
+    },
+    "materia": "El cosmos",
+    "pilar": "futuro",
     "repaso": {
      "pregunta": "¿Por qué la energía del Sol tarda tanto en salir del núcleo?",
      "respuesta": "Porque el interior es tan denso que la luz se absorbe y se reemite sin parar, en zigzag. Afuera, llega a la Tierra en unos 8 minutos."
     },
-    "fecha": "2026-11-07"
+    "titulo": "La luz del Sol es mucho más vieja que ocho minutos",
+    "wiki": "Sol"
    },
    {
     "claves": [
@@ -1973,6 +1984,42 @@
   ],
   "Filosofía para vivir": [
    {
+    "materia": "Filosofía para vivir",
+    "pilar": "mente",
+    "epoca": "c. 300 a. C.",
+    "titulo": "El filósofo del placer pedía queso como lujo",
+    "dato": "Epicuro, cuyo nombre hoy significa gozar de la buena vida, vivía casi a pan y agua. En una carta pidió a un amigo «un tarrito de queso» para darse un banquete.",
+    "explicacion": "La anécdota la conserva Diógenes Laercio, biógrafo de los filósofos griegos. Para Epicuro, el placer no era el exceso: era no sufrir en el cuerpo y no estar perturbado en el alma, lo que llamó [[ataraxia|Estado de calma y tranquilidad del ánimo, sin perturbaciones; meta de la vida según Epicuro.]]. Quien se acostumbra a poco, decía, disfruta más cuando llega algo extra.\n\nSus enemigos lo pintaron como glotón, y la palabra «epicúreo» acabó significando «sibarita». Es casi lo contrario de lo que enseñó. Su lección para hoy: el lujo se disfruta más cuando no lo necesitas.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epicurus_bust2.jpg?width=900",
+     "alt": "Busto de mármol de un hombre con barba",
+     "pie": "Busto de Epicuro, copia romana de un original griego",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Diógenes Laercio, Vidas de los filósofos ilustres, libro X (trad. R. D. Hicks, Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_X"
+    },
+    "wiki": "Epicuro",
+    "claves": [
+     {
+      "nombre": "Diógenes Laercio",
+      "quien": "Biógrafo griego del siglo III; casi todo lo que sabemos de la vida de Epicuro viene de él.",
+      "wiki": "Diógenes Laercio"
+     },
+     {
+      "nombre": "Epicureísmo",
+      "quien": "La escuela fundada por Epicuro en su Jardín de Atenas: placer sereno, amistad y vida sencilla.",
+      "wiki": "Epicureísmo"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué entendía Epicuro por placer?",
+     "respuesta": "No sufrir en el cuerpo y no estar perturbado en el alma. Vivía con sencillez; un tarrito de queso era para él un banquete."
+    },
+    "fecha": "2026-11-08"
+   },
+   {
     "claves": [
      {
       "nombre": "Platón",
@@ -2147,17 +2194,6 @@
   ],
   "Gastronomía, vino y destilados": [
    {
-    "materia": "Gastronomía, vino y destilados",
-    "pilar": "gusto",
-    "epoca": "2026",
-    "titulo": "El vino que tiene fecha de estreno: el jueves 19",
-    "dato": "El Beaujolais Nouveau no puede venderse antes del tercer jueves de noviembre. Este año es el jueves 19, y se hizo con uvas cosechadas hace unas semanas.",
-    "explicacion": "Es un vino tinto de la uva [[gamay|Uva tinta típica de Beaujolais, al sur de Borgoña; da vinos ligeros y frutales.]], hecho para beberse joven. Se elabora con [[maceración carbónica|Fermentación de racimos enteros en un ambiente de gas carbónico; da aromas a fruta roja y poca astringencia.]], que lo hace frutal y ligero en pocas semanas. Desde 1985, la fecha de salida es el tercer jueves de noviembre, y en Francia se festeja con un lema: *Le Beaujolais nouveau est arrivé*.\n\nEs un caso de mercadotecnia brillante: un vino sencillo convertido en evento mundial gracias a una fecha fija. Sus críticos dicen que dañó la reputación de la región; los mejores Beaujolais son otros, como los de sus diez *crus*.",
-    "fuente": {
-     "nombre": "Beaujolais Nouveau Day, 19 nov 2026 (National Today)",
-     "url": "https://nationaltoday.com/beaujolais-nouveau-day/"
-    },
-    "wiki": "Beaujolais (vino)",
     "claves": [
      {
       "nombre": "Gamay",
@@ -2170,11 +2206,22 @@
       "wiki": "Borgoña"
      }
     ],
+    "dato": "El Beaujolais Nouveau no puede venderse antes del tercer jueves de noviembre. Este año es el jueves 19, y se hizo con uvas cosechadas hace unas semanas.",
+    "epoca": "2026",
+    "explicacion": "Es un vino tinto de la uva [[gamay|Uva tinta típica de Beaujolais, al sur de Borgoña; da vinos ligeros y frutales.]], hecho para beberse joven. Se elabora con [[maceración carbónica|Fermentación de racimos enteros en un ambiente de gas carbónico; da aromas a fruta roja y poca astringencia.]], que lo hace frutal y ligero en pocas semanas. Desde 1985, la fecha de salida es el tercer jueves de noviembre, y en Francia se festeja con un lema: *Le Beaujolais nouveau est arrivé*.\n\nEs un caso de mercadotecnia brillante: un vino sencillo convertido en evento mundial gracias a una fecha fija. Sus críticos dicen que dañó la reputación de la región; los mejores Beaujolais son otros, como los de sus diez *crus*.",
+    "fecha": "2026-11-07",
+    "fuente": {
+     "nombre": "Beaujolais Nouveau Day, 19 nov 2026 (National Today)",
+     "url": "https://nationaltoday.com/beaujolais-nouveau-day/"
+    },
+    "materia": "Gastronomía, vino y destilados",
+    "pilar": "gusto",
     "repaso": {
      "pregunta": "¿Cuándo sale cada año el Beaujolais Nouveau?",
      "respuesta": "El tercer jueves de noviembre, desde 1985. En 2026 es el jueves 19."
     },
-    "fecha": "2026-11-07"
+    "titulo": "El vino que tiene fecha de estreno: el jueves 19",
+    "wiki": "Beaujolais (vino)"
    },
    {
     "claves": [
@@ -2339,6 +2386,42 @@
    }
   ],
   "Historia y geopolítica": [
+   {
+    "materia": "Historia y geopolítica",
+    "pilar": "mundo",
+    "epoca": "1867",
+    "titulo": "Alaska costó unos dos centavos por acre",
+    "dato": "En 1867, Estados Unidos compró Alaska a Rusia por 7.2 millones de dólares. Sale a unos dos centavos de dólar por acre.",
+    "explicacion": "El tratado se firmó el 30 de marzo de 1867, impulsado por el secretario de Estado **William H. Seward**. Rusia quería vender: el territorio era difícil de defender, sobre todo frente a Gran Bretaña, y daba pocas ganancias. Estados Unidos pagó con una orden del Tesoro al año siguiente.\n\nSe repite que todo el país se burló de la compra, la «locura de Seward». El apodo existió, pero el Departamento de Estado de EE. UU. señala que buena parte de la prensa la apoyó. Décadas después, el oro del Klondike y luego el petróleo convirtieron la compra en una de las mejores de la historia.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Treasury_Warrant_in_the_Amount_of_%247.2_Million_for_the_Purchase_of_Alaska,_08-01-1868,_Page_2_of_2_(5286025762).jpg?width=900",
+     "alt": "Documento antiguo del Tesoro de EE. UU. con firmas y sellos",
+     "pie": "La orden del Tesoro por 7.2 millones de dólares para pagar Alaska, 1868",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Office of the Historian, U.S. Department of State: Purchase of Alaska, 1867",
+     "url": "https://history.state.gov/milestones/1866-1898/alaska-purchase"
+    },
+    "wiki": "Compra de Alaska",
+    "claves": [
+     {
+      "nombre": "William H. Seward",
+      "quien": "Secretario de Estado de Lincoln y de Johnson; negoció la compra.",
+      "wiki": "William H. Seward"
+     },
+     {
+      "nombre": "Compañía ruso-americana",
+      "quien": "La empresa que administraba la Alaska rusa; sus pocas ganancias empujaron la venta.",
+      "wiki": "Compañía ruso-americana"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Por cuánto compró Estados Unidos Alaska y en qué año?",
+     "respuesta": "Por 7.2 millones de dólares, en 1867; unos dos centavos por acre."
+    },
+    "fecha": "2026-11-08"
+   },
    {
     "claves": [
      {
@@ -2519,6 +2602,47 @@
   ],
   "IA y el futuro": [
    {
+    "materia": "IA y el futuro",
+    "pilar": "futuro",
+    "epoca": "1958",
+    "titulo": "En 1958 prometieron una máquina consciente",
+    "dato": "En julio de 1958, el New York Times informó que la Marina de EE. UU. esperaba que una máquina llegara a caminar, hablar, ver, escribir, reproducirse y ser consciente de su existencia. Era el perceptrón.",
+    "explicacion": "El psicólogo **Frank Rosenblatt** presentó un programa en una computadora IBM 704 que aprendía a distinguir si una marca estaba a la izquierda o a la derecha después de unos 50 intentos. Era una versión muy simple de una neurona artificial: ajustaba sus «pesos» cada vez que se equivocaba. La promesa periodística fue mucho más allá de lo que la máquina hacía.\n\nEn 1969, Marvin Minsky y Seymour Papert publicaron *Perceptrons*, un libro que mostró sus límites, y el financiamiento se enfrió. Pero la idea sobrevivió: las [[redes neuronales|Programas formados por muchas neuronas artificiales conectadas que aprenden ajustando sus conexiones con ejemplos.]] de la IA actual son descendientes directas del perceptrón.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mark_I_Perceptron,_Figure_2_of_operator's_manual.png?width=900",
+     "alt": "Fotografía de una gran máquina con paneles de cables",
+     "pie": "El Mark I Perceptron, en una figura de su manual de operación",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "The New York Times: New Navy Device Learns by Doing (8 jul 1958)",
+     "url": "https://www.nytimes.com/1958/07/08/archives/new-navy-device-learns-by-doing-psychologist-shows-embryo-of.html"
+    },
+    "wiki": "Perceptrón",
+    "claves": [
+     {
+      "nombre": "Frank Rosenblatt",
+      "quien": "Psicólogo estadounidense (1928–1971), creador del perceptrón.",
+      "wiki": "Frank Rosenblatt"
+     },
+     {
+      "nombre": "Perceptrons (libro)",
+      "quien": "El libro de Minsky y Papert (1969) que mostró los límites del perceptrón simple.",
+      "wiki": "Perceptrons (libro)"
+     },
+     {
+      "nombre": "Red neuronal artificial",
+      "quien": "La tecnología de fondo de la IA actual, heredera de la idea de Rosenblatt.",
+      "wiki": "Red neuronal artificial"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué era el perceptrón de 1958?",
+     "respuesta": "Un modelo simple de neurona artificial creado por Frank Rosenblatt que aprendía de sus errores; antecesor de las redes neuronales actuales."
+    },
+    "fecha": "2026-11-08"
+   },
+   {
     "claves": [
      {
       "nombre": "Autómata",
@@ -2698,17 +2822,6 @@
   ],
   "Inversión y finanzas personales": [
    {
-    "materia": "Inversión y finanzas personales",
-    "pilar": "patrimonio",
-    "epoca": "1950",
-    "titulo": "La cena sin cartera que inventó la tarjeta de crédito fue publicidad",
-    "dato": "Se cuenta que Diners Club nació porque su fundador olvidó la cartera en una cena en Nueva York. Su propio publicista admitió años después que la historia era inventada.",
-    "explicacion": "Diners Club se fundó en 1950 con Frank McNamara y Ralph Schneider. Era una tarjeta de cartón para pagar en restaurantes de Nueva York y saldar todo a fin de mes. La anécdota de la «primera cena» se volvió leyenda, pero el publicista Matty Simmons reconoció que la habían creado como relato para la prensa.\n\nLo que sí fue nuevo es el modelo: la empresa no cobraba al cliente intereses, sino una comisión al restaurante por cada consumo. El restaurante pagaba porque la tarjeta le traía clientes que gastaban más. Esa idea, cobrar a ambos lados de una transacción, sigue siendo la base del negocio de las tarjetas.",
-    "fuente": {
-     "nombre": "Diners Club International (Wikipedia, con referencias a Matty Simmons)",
-     "url": "https://en.wikipedia.org/wiki/Diners_Club_International"
-    },
-    "wiki": "Tarjeta de crédito",
     "claves": [
      {
       "nombre": "Diners Club International",
@@ -2721,11 +2834,22 @@
       "wiki": "Comisión (comercio)"
      }
     ],
+    "dato": "Se cuenta que Diners Club nació porque su fundador olvidó la cartera en una cena en Nueva York. Su propio publicista admitió años después que la historia era inventada.",
+    "epoca": "1950",
+    "explicacion": "Diners Club se fundó en 1950 con Frank McNamara y Ralph Schneider. Era una tarjeta de cartón para pagar en restaurantes de Nueva York y saldar todo a fin de mes. La anécdota de la «primera cena» se volvió leyenda, pero el publicista Matty Simmons reconoció que la habían creado como relato para la prensa.\n\nLo que sí fue nuevo es el modelo: la empresa no cobraba al cliente intereses, sino una comisión al restaurante por cada consumo. El restaurante pagaba porque la tarjeta le traía clientes que gastaban más. Esa idea, cobrar a ambos lados de una transacción, sigue siendo la base del negocio de las tarjetas.",
+    "fecha": "2026-11-07",
+    "fuente": {
+     "nombre": "Diners Club International (Wikipedia, con referencias a Matty Simmons)",
+     "url": "https://en.wikipedia.org/wiki/Diners_Club_International"
+    },
+    "materia": "Inversión y finanzas personales",
+    "pilar": "patrimonio",
     "repaso": {
      "pregunta": "¿De quién cobraba Diners Club en su modelo original?",
      "respuesta": "Sobre todo de los restaurantes, con una comisión por cada consumo. La historia de la cartera olvidada era publicidad."
     },
-    "fecha": "2026-11-07"
+    "titulo": "La cena sin cartera que inventó la tarjeta de crédito fue publicidad",
+    "wiki": "Tarjeta de crédito"
    },
    {
     "claves": [
@@ -3068,6 +3192,47 @@
   ],
   "Literatura y mitología": [
    {
+    "materia": "Literatura y mitología",
+    "pilar": "cultura",
+    "epoca": "1709",
+    "titulo": "Aladino no estaba en Las mil y una noches",
+    "dato": "Los cuentos de Aladino y de Alí Babá no aparecen en ningún manuscrito árabe antiguo de Las mil y una noches. Los agregó un francés en el siglo XVIII, a partir de lo que le contó un joven sirio.",
+    "explicacion": "Antoine Galland, orientalista francés, tradujo las *Noches* al francés entre 1704 y 1717. En 1709 conoció en París a **Hanna Diyab**, un joven cristiano maronita de Alepo, que le narró varios cuentos de memoria. Galland los anotó en su diario y los incluyó en sus volúmenes. Entre ellos estaban Aladino y Alí Babá.\n\nEsos cuentos, hoy los más famosos de la colección, son lo que los especialistas llaman [[cuentos huérfanos|Historias incluidas en Las mil y una noches de las que no se conoce un manuscrito árabe original anterior a la versión francesa.]]. Por casi tres siglos, a Diyab casi no se le dio crédito. Su autobiografía se publicó en inglés en 2021.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Galand_Antoine.jpg?width=900",
+     "alt": "Retrato antiguo de un hombre con peluca",
+     "pie": "Antoine Galland, traductor francés de Las mil y una noches",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Words Without Borders: Tales of Aladdin and their tellers, from Aleppo to Paris (Paulo Lemos Horta)",
+     "url": "https://www.wordswithoutborders.org/dispatches/article/tales-of-aladdin-and-their-tellers-from-aleppo-to-paris-paulo-lemos-horta"
+    },
+    "wiki": "Las mil y una noches",
+    "claves": [
+     {
+      "nombre": "Aladino",
+      "quien": "El joven de la lámpara; su cuento llegó a Europa por la versión de Galland.",
+      "wiki": "Aladino (personaje)"
+     },
+     {
+      "nombre": "Alí Babá y los cuarenta ladrones",
+      "quien": "Otro de los cuentos que Diyab narró a Galland.",
+      "wiki": "Alí Babá y los cuarenta ladrones"
+     },
+     {
+      "nombre": "Literatura árabe",
+      "quien": "La tradición de la que vienen las Noches, con siglos de cuentos orales y escritos.",
+      "wiki": "Literatura árabe"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Quién le contó a Galland los cuentos de Aladino y Alí Babá?",
+     "respuesta": "Hanna Diyab, un joven de Alepo, en París, en 1709."
+    },
+    "fecha": "2026-11-08"
+   },
+   {
     "claves": [
      {
       "nombre": "Batalla de Lepanto",
@@ -3182,17 +3347,6 @@
   ],
   "Mente y decisiones": [
    {
-    "materia": "Mente y decisiones",
-    "pilar": "mente",
-    "epoca": "2011",
-    "titulo": "Los jueces hambrientos quizá no lo eran tanto",
-    "dato": "Un estudio famoso dijo que los jueces israelíes concedían la libertad condicional al 65% al empezar la sesión y a casi nadie antes de comer. La explicación resultó más complicada.",
-    "explicacion": "El estudio, publicado en *PNAS* en 2011, analizó más de mil decisiones de juntas de libertad condicional. La caída tras horas de trabajo se atribuyó a la [[fatiga de decisión|Idea de que tomar muchas decisiones seguidas desgasta y empuja a elegir la opción más cómoda, como decir «no».]] y se citó en todo el mundo.\n\nPoco después, otros investigadores señalaron que el orden de los casos no era al azar: los presos sin abogado solían ir al final de cada sesión, y esos casos se resolvían más rápido y casi siempre en contra. En 2016, una simulación mostró que el efecto probablemente está exagerado. El cansancio puede influir, pero la cifra del 65% al cero no prueba que el hambre decida.",
-    "fuente": {
-     "nombre": "Judgment and Decision Making: The irrational hungry judge effect revisited (Glöckner, 2016)",
-     "url": "https://dlab.sauder.ubc.ca/sjdm/journal/16/16823/jdm16823.html"
-    },
-    "wiki": "Sesgo cognitivo",
     "claves": [
      {
       "nombre": "Libertad condicional",
@@ -3205,11 +3359,22 @@
       "wiki": "Toma de decisiones"
      }
     ],
+    "dato": "Un estudio famoso dijo que los jueces israelíes concedían la libertad condicional al 65% al empezar la sesión y a casi nadie antes de comer. La explicación resultó más complicada.",
+    "epoca": "2011",
+    "explicacion": "El estudio, publicado en *PNAS* en 2011, analizó más de mil decisiones de juntas de libertad condicional. La caída tras horas de trabajo se atribuyó a la [[fatiga de decisión|Idea de que tomar muchas decisiones seguidas desgasta y empuja a elegir la opción más cómoda, como decir «no».]] y se citó en todo el mundo.\n\nPoco después, otros investigadores señalaron que el orden de los casos no era al azar: los presos sin abogado solían ir al final de cada sesión, y esos casos se resolvían más rápido y casi siempre en contra. En 2016, una simulación mostró que el efecto probablemente está exagerado. El cansancio puede influir, pero la cifra del 65% al cero no prueba que el hambre decida.",
+    "fecha": "2026-11-07",
+    "fuente": {
+     "nombre": "Judgment and Decision Making: The irrational hungry judge effect revisited (Glöckner, 2016)",
+     "url": "https://dlab.sauder.ubc.ca/sjdm/journal/16/16823/jdm16823.html"
+    },
+    "materia": "Mente y decisiones",
+    "pilar": "mente",
     "repaso": {
      "pregunta": "¿Qué explicación alternativa se dio al «efecto del juez hambriento»?",
      "respuesta": "El orden de los casos: los presos sin abogado solían ir al final de la sesión y casi siempre perdían."
     },
-    "fecha": "2026-11-07"
+    "titulo": "Los jueces hambrientos quizá no lo eran tanto",
+    "wiki": "Sesgo cognitivo"
    },
    {
     "claves": [
@@ -3508,6 +3673,42 @@
   ],
   "Negocios y estrategia": [
    {
+    "materia": "Negocios y estrategia",
+    "pilar": "patrimonio",
+    "epoca": "1968",
+    "titulo": "El Post-it nació de un pegamento fallido",
+    "dato": "En 1968, un químico de 3M buscaba un adhesivo muy fuerte y obtuvo uno que apenas pegaba. Tardó doce años en convertirse en producto.",
+    "explicacion": "Spencer Silver creó un adhesivo que se podía despegar y volver a pegar. Nadie en 3M sabía para qué servía. En 1974, su colega Art Fry, que cantaba en el coro de su iglesia, se cansó de que los separadores se cayeran de su himnario. Usó el pegamento de Silver para hacer separadores que no se caían ni rompían la hoja.\n\nLa primera prueba de mercado, en 1977, salió mal: la gente no entendía el producto sin probarlo. 3M cambió la estrategia y regaló muestras masivas en Boise, Idaho. Al probarlo, la gente lo volvió a comprar. El lanzamiento nacional llegó en 1980. Lección: algunos productos no se explican; se prueban.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Post-it.jpg?width=900",
+     "alt": "Notas adhesivas amarillas",
+     "pie": "Notas Post-it",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Post-it (3M): History Timeline",
+     "url": "https://post-it.com/3M/en_US/post-it/contact-us/about-us/"
+    },
+    "wiki": "Post-it",
+    "claves": [
+     {
+      "nombre": "3M",
+      "quien": "Empresa estadounidense de Minnesota que permitía a sus científicos dedicar tiempo a proyectos propios.",
+      "wiki": "3M"
+     },
+     {
+      "nombre": "Adhesivo",
+      "quien": "Sustancia que une superficies; el de Silver pegaba poco, y ese fue su valor.",
+      "wiki": "Adhesivo"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué hizo que el Post-it por fin se vendiera?",
+     "respuesta": "Regalar muestras para que la gente lo probara: en la prueba de Boise, quien lo usaba volvía a comprarlo. Se lanzó en todo EE. UU. en 1980."
+    },
+    "fecha": "2026-11-08"
+   },
+   {
     "claves": [
      {
       "nombre": "Michelin",
@@ -3641,6 +3842,42 @@
    }
   ],
   "Oficios del lujo y estilo": [
+   {
+    "materia": "Oficios del lujo y estilo",
+    "pilar": "gusto",
+    "epoca": "1845",
+    "titulo": "El azul de Tiffany tiene año de nacimiento",
+    "dato": "El azul de las cajas de Tiffany es un color registrado como marca. Pantone lo fabrica en exclusiva con el nombre «1837 Blue», por el año en que se fundó la casa.",
+    "explicacion": "Tiffany & Co. abrió en Nueva York en 1837. En 1845 usó ese tono en la portada de su *Blue Book*, el catálogo anual de joyas, y desde entonces lo volvió su firma: cajas, bolsas, anuncios. Una casa de lujo rara vez es dueña de un color. Tiffany lo es: lo registró como marca y Pantone no lo vende al público.\n\nDe Charles Lewis Tiffany, el fundador, se cuenta una regla: la caja no se vende sola; solo sale de la tienda con algo que se compró dentro. Así, la caja dejó de ser empaque y se volvió una señal. Para una marca premium es una lección clara: un elemento visual repetido por décadas puede valer tanto como el producto.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiffany_blue_box_2.jpg?width=900",
+     "alt": "Caja azul turquesa con listón blanco",
+     "pie": "La caja azul de Tiffany",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Wikipedia (en): Tiffany Blue",
+     "url": "https://en.wikipedia.org/wiki/Tiffany_Blue"
+    },
+    "wiki": "Tiffany & Co.",
+    "claves": [
+     {
+      "nombre": "Charles Lewis Tiffany",
+      "quien": "Fundador de Tiffany & Co. (1812–1902); convirtió la caja en un símbolo.",
+      "wiki": "Charles Lewis Tiffany"
+     },
+     {
+      "nombre": "Pantone",
+      "quien": "Empresa que estandariza colores con números; fabrica el tono exclusivo de Tiffany.",
+      "wiki": "Pantone"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Por qué el color de Tiffany se llama «1837 Blue»?",
+     "respuesta": "Por el año en que se fundó la casa en Nueva York. Es un color registrado que Pantone fabrica en exclusiva."
+    },
+    "fecha": "2026-11-08"
+   },
    {
     "claves": [
      {
@@ -3954,6 +4191,36 @@
   ],
   "Relaciones y vida social": [
    {
+    "materia": "Relaciones y vida social",
+    "pilar": "caracter",
+    "epoca": "2018",
+    "titulo": "Le caes mejor de lo que crees",
+    "dato": "Después de conversar con un desconocido, la mayoría cree que cayó peor de lo que realmente cayó. Los psicólogos lo llamaron la «brecha de agrado».",
+    "explicacion": "En 2018, Erica Boothby, Gus Cooney, Gillian Sandstrom y Margaret Clark publicaron en *Psychological Science* varios experimentos. Pusieron a desconocidos a platicar y luego preguntaron a cada uno cuánto le había gustado el otro y cuánto creía haberle gustado. Una y otra vez, la gente subestimó cuánto agradó. En un estudio con compañeros de cuarto universitarios, la brecha duró meses.\n\nLa causa probable: al salir de una plática repasamos nuestros errores, lo que dijimos mal, los silencios. El otro casi no se fijó en eso. Saberlo sirve antes de una junta o un evento de *networking*: la impresión que dejaste suele ser mejor que la que te llevas.",
+    "fuente": {
+     "nombre": "Boothby, Cooney, Sandstrom y Clark (2018), The Liking Gap in Conversations, Psychological Science (PDF, Wharton)",
+     "url": "https://faculty.wharton.upenn.edu/wp-content/uploads/2020/05/The-Liking-Gap-in-Conversations.pdf"
+    },
+    "wiki": "Conversación",
+    "claves": [
+     {
+      "nombre": "Psicología social",
+      "quien": "Rama de la psicología que estudia cómo pensamos y actuamos frente a otras personas.",
+      "wiki": "Psicología social"
+     },
+     {
+      "nombre": "Sesgo cognitivo",
+      "quien": "Error sistemático del juicio; la brecha de agrado es uno sobre nosotros mismos.",
+      "wiki": "Sesgo cognitivo"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué es la «brecha de agrado»?",
+     "respuesta": "La tendencia a creer que le caímos peor a alguien de lo que en realidad le caímos después de conversar."
+    },
+    "fecha": "2026-11-08"
+   },
+   {
     "claves": [
      {
       "nombre": "Experimento de la cárcel de Stanford",
@@ -4110,17 +4377,6 @@
   ],
   "Religiones y grandes textos": [
    {
-    "materia": "Religiones y grandes textos",
-    "pilar": "cultura",
-    "epoca": "Siglo III a. C.",
-    "titulo": "La Biblia griega no se tradujo en 72 días",
-    "dato": "Una leyenda antigua dice que 72 sabios tradujeron la Biblia hebrea al griego en 72 días. En realidad, la traducción tomó unos dos siglos.",
-    "explicacion": "La leyenda viene de la *Carta de Aristeas*: el rey [[Ptolomeo II|Rey de Egipto (c. 285–246 a. C.) de la dinastía fundada por un general de Alejandro Magno.]] habría pedido a seis sabios de cada tribu de Israel traducir la Ley para la biblioteca de Alejandría. Filón de Alejandría añadió que, trabajando por separado, todos produjeron la misma traducción. Por eso se llama *Septuaginta*, «los Setenta».\n\nLos estudiosos creen que en el siglo III a. C. solo se tradujeron los cinco primeros libros, la Torá, para los judíos de Alejandría que ya hablaban griego. El resto se tradujo poco a poco durante los dos siglos siguientes. Fue la Biblia que leyeron los primeros cristianos.",
-    "fuente": {
-     "nombre": "Center for Online Judaic Studies: 250 a. C., la Septuaginta y la Biblioteca de Alejandría",
-     "url": "https://cojs.org/250-b-c-e-septuagint-library-alexandria/"
-    },
-    "wiki": "Septuaginta",
     "claves": [
      {
       "nombre": "Biblioteca de Alejandría",
@@ -4138,11 +4394,22 @@
       "wiki": "Torá"
      }
     ],
+    "dato": "Una leyenda antigua dice que 72 sabios tradujeron la Biblia hebrea al griego en 72 días. En realidad, la traducción tomó unos dos siglos.",
+    "epoca": "Siglo III a. C.",
+    "explicacion": "La leyenda viene de la *Carta de Aristeas*: el rey [[Ptolomeo II|Rey de Egipto (c. 285–246 a. C.) de la dinastía fundada por un general de Alejandro Magno.]] habría pedido a seis sabios de cada tribu de Israel traducir la Ley para la biblioteca de Alejandría. Filón de Alejandría añadió que, trabajando por separado, todos produjeron la misma traducción. Por eso se llama *Septuaginta*, «los Setenta».\n\nLos estudiosos creen que en el siglo III a. C. solo se tradujeron los cinco primeros libros, la Torá, para los judíos de Alejandría que ya hablaban griego. El resto se tradujo poco a poco durante los dos siglos siguientes. Fue la Biblia que leyeron los primeros cristianos.",
+    "fecha": "2026-11-07",
+    "fuente": {
+     "nombre": "Center for Online Judaic Studies: 250 a. C., la Septuaginta y la Biblioteca de Alejandría",
+     "url": "https://cojs.org/250-b-c-e-septuagint-library-alexandria/"
+    },
+    "materia": "Religiones y grandes textos",
+    "pilar": "cultura",
     "repaso": {
      "pregunta": "¿Qué se tradujo primero al griego en la Septuaginta?",
      "respuesta": "La Torá, los cinco primeros libros, en el siglo III a. C. El resto tardó unos dos siglos más."
     },
-    "fecha": "2026-11-07"
+    "titulo": "La Biblia griega no se tradujo en 72 días",
+    "wiki": "Septuaginta"
    },
    {
     "claves": [
@@ -4454,17 +4721,6 @@
   ],
   "Salud y longevidad": [
    {
-    "materia": "Salud y longevidad",
-    "pilar": "cuerpo",
-    "epoca": "1958",
-    "titulo": "El primer paciente con marcapasos sobrevivió a sus inventores",
-    "dato": "Arne Larsson recibió el primer marcapasos implantado en 1958, en Estocolmo. El aparato falló en horas. Él vivió 43 años más y usó 26 marcapasos.",
-    "explicacion": "Larsson, ingeniero sueco, tenía un ritmo cardiaco tan lento que se desmayaba decenas de veces al día. Su esposa convenció al cirujano Åke Senning y al ingeniero Rune Elmqvist de probar un aparato experimental. Lo implantaron el 8 de octubre de 1958 en el [[Instituto Karolinska|Universidad médica de Estocolmo, una de las más importantes de Europa.]]. El primero dejó de funcionar pronto y hubo que cambiarlo.\n\nA lo largo de su vida recibió 26 aparatos, cada vez mejores. Murió en 2001, a los 86 años, después que Elmqvist y que Senning. Su caso muestra cómo avanza la medicina: el primer dispositivo casi siempre es imperfecto, y lo que salva vidas es la mejora constante.",
-    "fuente": {
-     "nombre": "Understanding Animal Research: Pacemakers, one of the top ten medical inventions?",
-     "url": "https://www.understandinganimalresearch.org.uk/news/top-ten-medical-inventions-pacemakers"
-    },
-    "wiki": "Marcapasos",
     "claves": [
      {
       "nombre": "Instituto Karolinska",
@@ -4477,11 +4733,22 @@
       "wiki": "Arritmia"
      }
     ],
+    "dato": "Arne Larsson recibió el primer marcapasos implantado en 1958, en Estocolmo. El aparato falló en horas. Él vivió 43 años más y usó 26 marcapasos.",
+    "epoca": "1958",
+    "explicacion": "Larsson, ingeniero sueco, tenía un ritmo cardiaco tan lento que se desmayaba decenas de veces al día. Su esposa convenció al cirujano Åke Senning y al ingeniero Rune Elmqvist de probar un aparato experimental. Lo implantaron el 8 de octubre de 1958 en el [[Instituto Karolinska|Universidad médica de Estocolmo, una de las más importantes de Europa.]]. El primero dejó de funcionar pronto y hubo que cambiarlo.\n\nA lo largo de su vida recibió 26 aparatos, cada vez mejores. Murió en 2001, a los 86 años, después que Elmqvist y que Senning. Su caso muestra cómo avanza la medicina: el primer dispositivo casi siempre es imperfecto, y lo que salva vidas es la mejora constante.",
+    "fecha": "2026-11-07",
+    "fuente": {
+     "nombre": "Understanding Animal Research: Pacemakers, one of the top ten medical inventions?",
+     "url": "https://www.understandinganimalresearch.org.uk/news/top-ten-medical-inventions-pacemakers"
+    },
+    "materia": "Salud y longevidad",
+    "pilar": "cuerpo",
     "repaso": {
      "pregunta": "¿Cuántos marcapasos usó Arne Larsson en su vida?",
      "respuesta": "26. Recibió el primero en 1958 y murió en 2001, a los 86 años."
     },
-    "fecha": "2026-11-07"
+    "titulo": "El primer paciente con marcapasos sobrevivió a sus inventores",
+    "wiki": "Marcapasos"
    },
    {
     "claves": [

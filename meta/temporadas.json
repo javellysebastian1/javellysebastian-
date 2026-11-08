@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07",
+ "actualizado": "2026-11-08",
  "lista": [
   {
    "episodios": [
@@ -86,8 +86,8 @@
      "titulo": "1964: Mandela en el banquillo, el alegato que lo hizo símbolo"
     },
     {
-     "titulo": "Síntesis: cómo se construye una palabra que mueve multitudes",
-     "fecha": "2026-11-07"
+     "fecha": "2026-11-07",
+     "titulo": "Síntesis: cómo se construye una palabra que mueve multitudes"
     }
    ],
    "estado": "terminada",
@@ -99,7 +99,8 @@
   {
    "episodios": [
     {
-     "titulo": "1976: el Juicio de París, la cata que humilló a Francia"
+     "titulo": "1976: el Juicio de París, la cata que humilló a Francia",
+     "fecha": "2026-11-08"
     },
     {
      "titulo": "1855: la clasificación de Burdeos que sigue vigente"

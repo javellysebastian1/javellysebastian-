@@ -1,0 +1,875 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-08",
+ "numero": 18,
+ "fecha": "2026-11-08",
+ "disponibleDesde": "2026-11-08T08:00:00-06:00",
+ "titulo": "1976: el Juicio de París, la cata que humilló a Francia",
+ "temporada": {
+  "id": "t04",
+  "numero": 4,
+  "titulo": "El arte de la mesa",
+  "episodio": 1,
+  "totalEpisodios": 6
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1973_Judgement_of_Paris_Chateau_Montelena.jpg?width=900",
+  "alt": "Botella de vino blanco de California con etiqueta de Chateau Montelena, cosecha 1973",
+  "pie": "El Chardonnay 1973 de Chateau Montelena, el blanco que ganó la cata de París en 1976",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "origen": "Edición #17",
+   "pregunta": "¿De verdad Kennedy dijo «soy una dona» con «Ich bin ein Berliner»?",
+   "respuesta": "No. La frase es correcta en alemán y los berlineses entendieron que se identificaba con ellos. El chiste de la dona se popularizó décadas después, fuera de Berlín."
+  },
+  {
+   "origen": "Edición #17",
+   "pregunta": "¿Qué virtud de su lista reconoció Benjamin Franklin que nunca dominó?",
+   "respuesta": "El orden: cada cosa en su lugar y cada tarea a su hora."
+  },
+  {
+   "origen": "Edición #17",
+   "pregunta": "¿Por qué Sun Tzu aconseja dejarle una salida a un ejército rodeado?",
+   "respuesta": "Porque quien no tiene salida pelea con desesperación. Dejarle una puerta baja su resistencia y tu costo."
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n-2026-11-08-golfo",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-07",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 16,
+    "dondeIbamos": "El viernes 6, el Brent cerraba una semana de caídas; Trump habló con el emir de Qatar e Irán reportó petroleros dañados por minas. Irán exige siete condiciones para reabrir Ormuz."
+   },
+   "titular": "Trump dice que habla con Irán mientras sigue el bloqueo y los ataques en Ormuz",
+   "quePaso": "El viernes 6 de noviembre, **Donald Trump** dijo: «Estamos hablando con Irán». Ese mismo día confirmó lo que llamó «ataques menores»: según él, fuerzas de EE. UU. destruyeron en «unos 15 minutos» una instalación antiaérea iraní cerca de la isla de **Qeshm**.\n\nQatar presentó a Washington y a Teherán un plan en dos etapas: primero, alivio del bloqueo naval estadounidense a cambio de inspecciones nucleares; después, la reapertura de Ormuz. Hasta el sábado ninguno de los dos lo había aceptado formalmente.\n\nEl sábado 7, el Comando Central de EE. UU. (CENTCOM) informó que inutilizó el buque *M/V Huda* en el golfo de Omán porque su tripulación ignoró advertencias, y creó una nueva fuerza, **Iron Gate**, para cortar las rutas terrestres de Irán. Esa noche, la Guardia Revolucionaria dijo que dos petroleros se incendiaron tras chocar con minas.",
+   "aMiQue": "Mientras Ormuz siga casi cerrado, el petróleo se mueve con cada declaración, y eso llega a México por la gasolina, el diésel y los fletes. Para una marca que distribuye bebidas o suplementos, el costo de transporte y de empaques plásticos depende en parte de esto. Una semana de anuncios contradictorios es mala para fijar precios a largo plazo: si negocias contratos de flete o de materia prima, conviene cláusulas de revisión y plazos cortos.",
+   "contexto": "**Hecho:** las dos versiones chocan. Trump dijo el viernes que el estrecho «está abierto»; los rastreadores de barcos muestran un tráfico muy por debajo del normal. Irán dice que no reabrirá hasta que EE. UU. acepte sus condiciones, empezando por levantar el bloqueo.\n\n**Hecho:** según EE. UU., el bloqueo ha impedido unos 25,000 millones de dólares en ventas de crudo iraní. El precio del Brent rondó los 98–100 dólares por barril el viernes 6; las cifras exactas difieren entre fuentes.\n\n**Sin confirmar:** las minas. La Guardia Revolucionaria las anuncia, pero, según CBS, ninguna autoridad marítima ha confirmado esos incidentes. Trump acusa a Irán de inventarlos para subir el precio de la energía.\n\n**Interpretación:** hablar y atacar al mismo tiempo es una forma de negociar con presión. El plan catarí es la señal concreta a seguir.",
+   "queVigilar": "Si Irán y EE. UU. aceptan la primera etapa del plan de Qatar. Y la reunión de cancilleres del G7 en París, el lunes 9 y martes 10, a la que asistirá Marco Rubio.",
+   "fuentes": [
+    {
+     "nombre": "CBS News: Live updates, U.S. expands naval blockade (7 nov 2026)",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+    },
+    {
+     "nombre": "HNGN: Trump confirms new «minor» strike on Iran (7 nov 2026)",
+     "url": "https://www.hngn.com/articles/273722/20261107/trump-says-iran-decision-coming-soon-advisers-split.htm"
+    },
+    {
+     "nombre": "House of Saud: Trump says US and Iran are talking (7 nov 2026)",
+     "url": "https://houseofsaud.com/trump-iran-talking-hormuz-attacks-nov7/"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-08-agua",
+   "ambito": "guadalajara",
+   "ambitoTexto": "Guadalajara",
+   "fecha": "2026-11-06",
+   "historiaEnCurso": {
+    "id": "agua-gdl",
+    "titulo": "Crisis del agua en Guadalajara",
+    "capitulo": 11,
+    "dondeIbamos": "El SIAPA fijó los «ajustes definitivos» al calendario de tandeos en 627 colonias y prevé terminar a finales de marzo de 2027. Lemus propuso condonar el agua de octubre a diciembre; falta el Congreso."
+   },
+   "titular": "El informe de Jalisco pone cifras a la salida de la crisis del agua: más de 24,000 millones",
+   "quePaso": "El viernes 6 de noviembre, el gobierno de Jalisco entregó al Congreso su **segundo informe**, por medio del secretario general de Gobierno, Carlos Arias Madrid.\n\nEn el apartado de agua, el gobierno habla de un acuerdo de inversión de **más de 24,000 millones de pesos** para el área metropolitana. La parte federal es de 14,500 millones: el acueducto Chapala–Guadalajara (9,300 millones) y la obra Calderón–San Gaspar con su tratamiento (5,200 millones). La parte estatal, de 10,200 millones, incluye la planta de Miravalle.\n\nEl informe menciona también un **descuento de 80%** en el recibo del SIAPA para usuarios de 235 colonias afectadas por la calidad del agua, y la entrega de más de 11,700 garrafones.",
+   "aMiQue": "Las obras grandes son la solución de fondo, pero tardan años; los tandeos son el problema de este invierno. Si tienes operación en la zona metropolitana, planea con dos horizontes: cisternas y horarios para los próximos meses, y la ubicación de bodegas o plantas pensando en dónde llegarán primero las obras. Un descuento en el recibo ayuda a los hogares; para un negocio, el costo real es parar o comprar pipas.",
+   "contexto": "**Hecho:** el gobierno afirma que la inversión se hará «sin generar deuda pública ni incrementar las tarifas del SIAPA». Es una afirmación del propio informe.\n\n**Hecho:** el descuento de 80% que aparece en el informe es distinto de la condonación de octubre a diciembre que el gobernador Pablo Lemus propuso el 5 de noviembre para las colonias con tandeos. Esa propuesta todavía tiene que pasar por el Congreso.\n\n**Interpretación:** el informe vende la salida de largo plazo. La pregunta inmediata sigue siendo la presa de Las Pintas, cuyo saneamiento la Comisión Estatal del Agua espera terminar en la segunda quincena de diciembre.",
+   "queVigilar": "Si el Congreso aprueba la condonación propuesta por Lemus y qué colonias incluye. Y el avance del saneamiento de Las Pintas en diciembre.",
+   "fuentes": [
+    {
+     "nombre": "El Informador: En segundo informe de Gobierno, Jalisco destaca avances en materia hídrica (6 nov 2026)",
+     "url": "https://www.informador.mx/jalisco/en-segundo-informe-de-gobierno-jalisco-destaca-avances-en-materia-hidrica-20261106-0154.html"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "Nueve expertos franceses probaron vinos sin ver la etiqueta. Al terminar, una de ellas pidió que le devolvieran su hoja.",
+    "contexto": "París, 24 de mayo de 1976. En un salón del hotel InterContinental hay diez copas de tinto y diez de blanco por juez. Seis vinos de cada color son de California; cuatro, de Francia. Los franceses son de lo mejor que existe: Burdeos de primera línea y Borgoñas famosos.\n\nLos jueces son nueve franceses del más alto nivel: sumilleres, dueños de viñedos, un chef con estrellas, la directora de la revista de vino más influyente del país. Nadie sabe qué vino hay en cada copa. Es una [[cata a ciegas|Prueba en la que se califica un vino sin ver la botella ni la etiqueta, para que la marca o el origen no influyan.]].\n\nEn 1976, la idea de que California pudiera competir con Francia sonaba casi a chiste.",
+    "pregunta": "¿Qué crees que pasó al destapar las botellas?",
+    "opciones": [
+     "Francia ganó en tinto y en blanco, como todos esperaban",
+     "California ganó en las dos categorías",
+     "Empate: cada país ganó un color"
+    ]
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Un inglés, una tienda y una apuesta por publicidad",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chateau_Montelena_Winery.gk.jpg?width=900",
+     "alt": "Edificio de piedra de una bodega rodeado de viñedos y árboles",
+     "pie": "Chateau Montelena, en el norte del valle de Napa, California",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "Steven Spurrier era un comerciante de vino inglés que vivía en París. Tenía una tienda, Les Caves de la Madeleine, y una pequeña escuela de vino, la Académie du Vin. Su socia estadounidense, Patricia Gallagher, le habló de unos vinos nuevos de California que estaban dando de qué hablar.\n\nSpurrier viajó a probarlos. Le gustaron. Y pensó en un evento para el bicentenario de la independencia de Estados Unidos: una cata en París que diera publicidad a su tienda. No esperaba un escándalo. Esperaba una buena tarde.\n\nDetrás de cada botella californiana había una historia de recién llegados. **Warren Winiarski** había sido profesor de ciencia política en Chicago antes de plantar viñas en Napa; su Cabernet Sauvignon 1973 de **Stag's Leap Wine Cellars** era apenas su tercera cosecha. **Mike Grgich**, un inmigrante croata, había hecho el Chardonnay 1973 de **Chateau Montelena**, una bodega que **Jim Barrett**, abogado de Los Ángeles, había comprado y replantado pocos años antes.\n\nDel otro lado estaban nombres que se pronuncian con respeto: [[Mouton-Rothschild|Château de Burdeos clasificado entre los primeros vinos de la región desde 1973.]] 1970, Haut-Brion 1970, Montrose 1970, Léoville-Las Cases 1971, y en blanco los Borgoñas de Meursault, Puligny-Montrachet y Bâtard-Montrachet.\n\nSolo un periodista se presentó: **George Taber**, corresponsal de la revista *Time* en París. Los demás medios no creyeron que valiera la pena."
+   },
+   {
+    "tipo": "giro",
+    "titulo": "California ganó los dos colores",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stag's_Leap_Wine_Cellars,_Napa_Valley,_California,_USA_(6199529950).jpg?width=900",
+     "alt": "Entrada de una bodega con jardín y viñedos en California",
+     "pie": "Stag's Leap Wine Cellars, en Napa: su Cabernet 1973 ganó en tinto",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "El blanco ganador fue el **Chateau Montelena 1973**. Segundo quedó un Meursault-Charmes de Roulot; tercero, otro californiano, el Chalone 1974. En tinto ganó el **Stag's Leap 1973**, por delante del Mouton-Rothschild 1970, el Montrose 1970 y el Haut-Brion 1970.\n\nLo que sorprende no es solo el resultado. Es quién lo decidió: jueces franceses, sin prejuicio a favor de California, que creían reconocer lo francés en la copa. Varios se equivocaron en voz alta, elogiando como francés un vino que era de Napa. Según el relato de Taber, la crítica **Odette Kahn** pidió que le devolvieran su hoja de calificaciones. No se la dieron.\n\nEl 7 de junio, *Time* publicó una nota corta titulada «Judgment of Paris», un juego de palabras con el [[juicio de Paris|Mito griego en el que el príncipe troyano Paris debe elegir a la más bella entre tres diosas.]]. En Francia la prensa casi lo ignoró. En Estados Unidos fue una noticia enorme: un país sin tradición de vino fino acababa de ganarle a la cuna del vino fino.\n\nHubo quien dijo que los tintos franceses necesitaban más años en botella. En 2006, a los 30 años, se repitió la cata con las mismas cosechas. Los californianos ocuparon los cinco primeros lugares en tinto. Hoy el Museo Nacional de Historia Estadounidense, del Smithsonian, guarda botellas de los dos ganadores."
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "La prueba a ciegas: quítale la etiqueta antes de juzgar",
+    "texto": "Los jueces de París no eran malos catadores. Eran de los mejores del mundo. Lo que les estorbaba en la vida diaria era la etiqueta: saber de antemano que un vino es famoso cambia cómo se percibe. Al quitarla, quedó solo lo que había en la copa.\n\nLa herramienta sirve fuera del vino. Funciona en tres pasos:\n\n**1. Separa la reputación del contenido.** Antes de comparar dos opciones (proveedores, candidatos, empaques, propuestas), quita lo que delata el origen: el nombre, el logo, el precio.\n\n**2. Decide de antemano qué vas a medir.** Escribe tres o cuatro criterios antes de ver nada. Si los inventas después, la etiqueta vuelve a colarse.\n\n**3. Compara contra lo mejor, no contra lo cercano.** Spurrier no puso a California contra vinos franceses mediocres. Los puso contra los mejores. Una prueba fácil no te dice nada.\n\nLa regla corta: la marca dice qué esperar; la prueba a ciegas dice qué hay."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Tu producto contra el más famoso, sin etiquetas",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Napa_Valley_vineyards_8.jpg?width=900",
+     "alt": "Hileras de viñedos en un valle con colinas al fondo",
+     "pie": "Viñedos del valle de Napa: en 1976 casi nadie los tomaba en serio",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "**En una marca de bebidas.** Antes de lanzar un RTD, la prueba más honesta es servirlo junto a los líderes de la categoría en vasos idénticos, sin latas a la vista. Si la gente lo prefiere así, tienes producto. Si solo gana con tu etiqueta, tienes marketing. Las dos cosas valen, pero conviene saber cuál de las dos tienes.\n\n**En el vino mexicano.** Los vinos del Valle de Guadalupe, en Baja California, llevan años ganando medallas en concursos internacionales que se califican a ciegas. Muchos consumidores mexicanos todavía pagan más por la etiqueta europea. La historia de Napa en 1976 muestra cómo una sola prueba bien hecha, y bien contada, puede cambiar esa percepción.\n\n**En una decisión de contratación.** Hay despachos y empresas que revisan muestras de trabajo sin el nombre de la universidad ni del candidato. Lo que se busca es lo mismo que en París: juzgar lo que hay en la copa."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿Qué decisión de esta semana estás tomando por la etiqueta (la marca, el precio, el prestigio) y no por lo que hay dentro?"
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "La etiqueta te dice qué esperar. Solo la prueba a ciegas te dice qué hay."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Napa Valley: 50 cosas que saber sobre el Juicio de París",
+   "url": "https://www.napavalley.com/blog/judgment-of-paris-facts/",
+   "minutos": 8
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Qué vinos ganaron la cata de París de 1976?",
+    "respuesta": "Dos californianos: el Chardonnay 1973 de Chateau Montelena en blanco y el Cabernet Sauvignon 1973 de Stag's Leap Wine Cellars en tinto."
+   },
+   {
+    "pregunta": "¿Por qué el resultado tuvo tanto peso?",
+    "respuesta": "Porque fue a ciegas y lo decidieron jueces franceses de primer nivel, comparando contra los mejores vinos de Francia."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Time: «Modern Living: Judgment of Paris» (7 jun 1976)",
+    "url": "https://content.time.com/time/subscriber/article/0,33009,947719,00.html"
+   },
+   {
+    "nombre": "Napa Valley: 50 Years Later, 50 Things to Know About the Judgment of Paris",
+    "url": "https://www.napavalley.com/blog/judgment-of-paris-facts/"
+   },
+   {
+    "nombre": "Taste of France: The Judgement of Paris, the day America beat France",
+    "url": "https://tasteoffrancemag.com/travel/judgement-of-paris-the-day-america-beat-france/"
+   },
+   {
+    "nombre": "WAMC/NPR: The Judgment of Paris, the blind taste test that decanted the wine world (2016)",
+    "url": "https://www.wamc.org/2016-05-24/the-judgment-of-paris-the-blind-taste-test-that-decanted-the-wine-world"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "formato": "mitoRealidad",
+   "titulo": "¿El sueño perdido entre semana se recupera el domingo?",
+   "contexto": "Es domingo. Si esta semana dormiste cinco o seis horas por noche, hoy quizá te levantaste tarde con una idea tranquilizadora: «ya repuse».\n\nLa idea tiene lógica contable. Si debes horas, las pagas el fin de semana. Pero el cuerpo no lleva la cuenta en horas. Lleva la cuenta en [[ritmos circadianos|Ciclos de unas 24 horas que regulan el sueño, el hambre, la temperatura y muchas hormonas.]], en hormonas y en cómo se procesa el azúcar.\n\nDos estudios serios han puesto a prueba esa idea. Llegaron a conclusiones que, a primera vista, chocan.",
+   "pregunta": "«Dormir de más el fin de semana compensa lo que no dormiste entre semana.» ¿Mito o realidad?",
+   "opciones": [
+    "Realidad: las horas se reponen",
+    "Mito: no sirve de nada",
+    "Mitad y mitad: ayuda en algo, pero no deshace el daño metabólico"
+   ],
+   "correcta": 2,
+   "revelacion": "**Mitad y mitad.** En 2019, un equipo de la Universidad de Colorado en Boulder, dirigido por **Kenneth Wright**, publicó en *Current Biology* un experimento controlado en laboratorio. Un grupo durmió cinco horas por noche toda la semana; otro durmió cinco horas entre semana y lo que quiso el fin de semana. El segundo grupo no se salvó: comió más de noche, subió de peso y su [[sensibilidad a la insulina|Qué tan bien responde el cuerpo a la insulina para meter el azúcar de la sangre a las células. Si baja, aumenta el riesgo de diabetes tipo 2.]] empeoró igual o más al volver a la rutina.\n\nEn cambio, en 2018 un estudio sueco publicado en el *Journal of Sleep Research* siguió a más de 43,000 personas durante 13 años. Entre los menores de 65, dormir poco toda la semana se asoció con más mortalidad; dormir poco entre semana pero más el fin de semana, no. Ojo: es un estudio de observación, que muestra asociación, no causa.\n\nLa lectura sensata: el fin de semana puede amortiguar algo, pero no es un botón de reinicio. Lo que más cuenta, según la evidencia, es la regularidad: horarios parecidos todos los días.",
+   "idea": "El sueño no es una cuenta que se salda el domingo: el cuerpo cobra cada noche.",
+   "fuente": {
+    "nombre": "CU Boulder Today: Catching up on sleep on the weekend doesn't work (28 feb 2019)",
+    "url": "https://www.colorado.edu/today/2019/02/28/catching-sleep-weekend-doesnt-work"
+   },
+   "wiki": "Privación de sueño",
+   "claves": [
+    {
+     "nombre": "Ritmo circadiano",
+     "quien": "El reloj interno de unas 24 horas; cambiar de horario el fin de semana lo desajusta.",
+     "wiki": "Ritmo circadiano"
+    },
+    {
+     "nombre": "Insulina",
+     "quien": "Hormona que regula el azúcar en la sangre; fue la medida clave del estudio de 2019.",
+     "wiki": "Insulina"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué encontró el estudio de Colorado (2019) sobre dormir de más el fin de semana?",
+    "respuesta": "Que no evitó el aumento de peso ni el deterioro de la sensibilidad a la insulina causados por dormir poco entre semana."
+   }
+  },
+  {
+   "materia": "Mente y decisiones",
+   "pilar": "mente",
+   "formato": "adivinaNumero",
+   "titulo": "Linda, la cajera: el error que comete casi todo el mundo",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Daniel_Kahneman_(3283955327).jpg?width=900",
+    "alt": "Retrato de un hombre mayor con lentes, sonriendo",
+    "pie": "Daniel Kahneman, que estudió con Amos Tversky cómo nos equivocamos al juzgar probabilidades",
+    "credito": "Wikimedia Commons"
+   },
+   "contexto": "Lee esta descripción. Linda tiene 31 años, es soltera, franca y muy brillante. Estudió filosofía. De estudiante le preocupaban mucho la discriminación y la justicia social, y participó en manifestaciones contra las armas nucleares.\n\n¿Qué es más probable?\n\nA) Linda es cajera de banco.\n\nB) Linda es cajera de banco y participa activamente en el movimiento feminista.\n\nEl problema lo publicaron en 1983 los psicólogos **Amos Tversky** y **Daniel Kahneman**. Lo hicieron con estudiantes universitarios.",
+   "pregunta": "¿Qué porcentaje de los estudiantes eligió la opción B como más probable?",
+   "opciones": [
+    "Cerca de 15%",
+    "Cerca de 50%",
+    "Cerca de 85%"
+   ],
+   "correcta": 2,
+   "revelacion": "**Cerca de 85%.** Y es un error de lógica pura. Todas las cajeras feministas son cajeras. Así que B nunca puede ser más probable que A: es un subconjunto. Es la [[falacia de la conjunción|Error de creer que dos cosas juntas son más probables que una de ellas sola.]].\n\n¿Por qué caemos? Porque no calculamos: comparamos con un estereotipo. La descripción «suena» a feminista, y la opción B se parece más a la historia. Kahneman y Tversky lo llamaron juzgar por [[representatividad|Atajo mental que estima la probabilidad de algo según cuánto se parece a una idea típica, no según los números.]].\n\nHubo críticas serias. El psicólogo Gerd Gigerenzer mostró que el error baja mucho si la pregunta se plantea en frecuencias («de 100 personas como Linda, ¿cuántas son…?»). Pero la lección resiste: cada detalle que vuelve una historia más creíble la vuelve, en realidad, menos probable. Piensa en un plan de negocio con diez supuestos que «cuadran»: todos tienen que cumplirse a la vez.",
+   "idea": "Cada detalle que hace más creíble una historia la vuelve menos probable.",
+   "fuente": {
+    "nombre": "Tversky y Kahneman (1983), Extensional versus intuitive reasoning: The conjunction fallacy, Psychological Review",
+    "url": "https://doi.org/10.1037/0033-295X.90.4.293"
+   },
+   "wiki": "Falacia de la conjunción",
+   "claves": [
+    {
+     "nombre": "Daniel Kahneman",
+     "quien": "Psicólogo israelí-estadounidense (1934–2024), premio Nobel de Economía en 2002 por su trabajo sobre el juicio humano.",
+     "wiki": "Daniel Kahneman"
+    },
+    {
+     "nombre": "Amos Tversky",
+     "quien": "Psicólogo israelí (1937–1996), coautor del problema de Linda y de buena parte de la obra de Kahneman.",
+     "wiki": "Amos Tversky"
+    },
+    {
+     "nombre": "Economía conductual",
+     "quien": "Campo que estudia cómo decidimos de verdad, no como suponen los modelos ideales.",
+     "wiki": "Economía conductual"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué «cajera y feminista» no puede ser más probable que «cajera»?",
+    "respuesta": "Porque es un subconjunto: toda cajera feminista es cajera. Dos condiciones juntas nunca son más probables que una sola."
+   }
+  },
+  {
+   "materia": "Gastronomía, vino y destilados",
+   "pilar": "gusto",
+   "formato": "comoFunciona",
+   "titulo": "Por qué el chile «quema» si no está caliente",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PepperswithscovilleCentralMarketHoustonTX.JPG?width=900",
+    "alt": "Cajas con chiles de varios colores en un mercado, con letreros de su picor",
+    "pie": "Chiles con su valor en la escala Scoville en un mercado de Houston",
+    "credito": "Wikimedia Commons"
+   },
+   "contexto": "Un habanero recién salido del refrigerador está frío. Aun así, al morderlo sientes fuego. Sudas, se te enrojece la cara, buscas agua.\n\nNada en tu boca subió de temperatura. Entonces, ¿qué está pasando?\n\nLa respuesta tardó casi un siglo en completarse. Empieza en 1912 con un farmacéutico de Detroit y termina con un premio Nobel en 2021.",
+   "pregunta": "¿Qué hace la capsaicina, la sustancia que pica en el chile?",
+   "opciones": [
+    "Daña la lengua y por eso arde",
+    "Activa el mismo sensor que detecta el calor",
+    "Sube la temperatura de la boca unos grados"
+   ],
+   "correcta": 1,
+   "revelacion": "**Activa el mismo sensor que detecta el calor.** En los años noventa, el fisiólogo **David Julius** usó la [[capsaicina|Compuesto de los chiles que produce la sensación de picor. Las aves no la perciben.]] para encontrar el receptor que la detecta en las neuronas: el **TRPV1**. Ese receptor también se activa con temperaturas que empiezan a doler, de unos 43 °C hacia arriba. Tu cerebro recibe la misma señal y concluye «me quemo». Por ese hallazgo, Julius compartió el Nobel de Medicina de 2021 con Ardem Patapoutian.\n\nAntes, en 1912, **Wilbur Scoville** había inventado una forma de medir el picor: diluía extracto de chile en agua azucarada hasta que un grupo de catadores dejaba de notarlo. Cuantas más diluciones, más unidades. Un jalapeño queda en miles de unidades; un habanero, en cientos de miles. Hoy se mide en laboratorio, pero la escala conserva su nombre.\n\nDos consecuencias prácticas. El agua casi no ayuda, porque la capsaicina no se disuelve bien en ella; la leche o el yogur sí. Y las aves no sienten el picor: su receptor es distinto. Comen chiles y esparcen las semillas lejos, que es justo lo que le conviene a la planta.",
+   "idea": "El picante no es un sabor: es un engaño al sensor del calor.",
+   "fuente": {
+    "nombre": "Premio Nobel: comunicado del Nobel de Fisiología o Medicina 2021",
+    "url": "https://www.nobelprize.org/prizes/medicine/2021/press-release/"
+   },
+   "wiki": "Escala Scoville",
+   "claves": [
+    {
+     "nombre": "Capsaicina",
+     "quien": "La molécula que pica; Julius la usó como llave para encontrar el sensor del calor.",
+     "wiki": "Capsaicina"
+    },
+    {
+     "nombre": "David Julius",
+     "quien": "Fisiólogo estadounidense, Nobel de Medicina 2021 por descubrir receptores de temperatura y tacto.",
+     "wiki": "David Julius"
+    },
+    {
+     "nombre": "Chile jalapeño",
+     "quien": "El chile veracruzano que sirve de referencia popular en la escala Scoville.",
+     "wiki": "Chile jalapeño"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué la leche calma el picor mejor que el agua?",
+    "respuesta": "Porque la capsaicina casi no se disuelve en agua; la grasa y las proteínas de la leche la arrastran mejor."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "sigueDinero",
+   "titulo": "Fortnite: regalar el juego y vender los trajes",
+   "contexto": "Septiembre de 2017. Epic Games lanza **Fortnite Battle Royale**: cien jugadores caen en una isla y gana el último en pie. El juego cuesta cero pesos. No hay anuncios dentro de la partida. No hay suscripción obligatoria.\n\nEn 2021, durante el juicio de Epic contra Apple, salieron a la luz documentos internos. Fortnite había generado más de **9,000 millones de dólares** en solo dos años, 2018 y 2019.\n\nTodo eso, con un juego gratis.",
+   "pregunta": "¿De dónde salió la mayor parte de ese dinero?",
+   "opciones": [
+    "De publicidad de marcas dentro del juego",
+    "De trajes, bailes y pases que no dan ninguna ventaja para ganar",
+    "De una versión de pago con más mapas y armas"
+   ],
+   "correcta": 1,
+   "revelacion": "**De cosas que no sirven para ganar.** Fortnite vende **V-Bucks**, una moneda virtual, y con ella se compran trajes, bailes, decoraciones y el [[pase de batalla|Compra de temporada que desbloquea recompensas a medida que juegas. Premia volver cada semana.]]. Nada de eso te hace mejor jugador. Te hace distinto. Es la regla clave: si lo que vendes diera ventaja, los que no pagan se irían, y sin ellos el juego se vacía.\n\nSigue el dinero. Un traje nuevo se diseña una vez y se vende millones de veces, sin inventario ni envío: el costo de una unidad más es casi cero. El juego gratis atrae a la multitud, y la multitud es lo que hace valioso el traje: nadie paga por verse bien en una isla vacía. A eso se suman colaboraciones con marcas, películas y músicos que renuevan el catálogo cada temporada.\n\nEl modelo también tiene costos. Exige equipos enormes para producir contenido sin parar. Y depende de las tiendas de apps: Epic peleó con Apple justamente por la comisión de 30% sobre esas compras. La lección para un producto digital pequeño: regala lo que atrae gente y cobra por lo que la gente quiere mostrar.",
+   "idea": "Regala lo que atrae a la multitud; cobra por lo que la gente quiere mostrar frente a ella.",
+   "fuente": {
+    "nombre": "PC Gamer: Fortnite raked in $9.1 billion over two years (2021)",
+    "url": "https://pcgamer.com/fortnite-raked-in-dollar91-billion-over-two-years"
+   },
+   "wiki": "Fortnite",
+   "claves": [
+    {
+     "nombre": "Epic Games contra Apple",
+     "quien": "Juicio de 2020–2021 sobre las comisiones de la App Store; reveló las cifras de Fortnite.",
+     "wiki": "Epic Games contra Apple"
+    },
+    {
+     "nombre": "Battle royale",
+     "quien": "Género de videojuego en el que muchos jugadores compiten hasta que queda uno.",
+     "wiki": "Battle royale (videojuegos)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué Fortnite vende solo artículos que no dan ventaja para ganar?",
+    "respuesta": "Porque si pagar diera ventaja, los jugadores gratuitos se irían, y sin la multitud nadie querría comprar trajes para lucirse."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Filosofía para vivir",
+   "pilar": "mente",
+   "epoca": "c. 300 a. C.",
+   "titulo": "El filósofo del placer pedía queso como lujo",
+   "dato": "Epicuro, cuyo nombre hoy significa gozar de la buena vida, vivía casi a pan y agua. En una carta pidió a un amigo «un tarrito de queso» para darse un banquete.",
+   "explicacion": "La anécdota la conserva Diógenes Laercio, biógrafo de los filósofos griegos. Para Epicuro, el placer no era el exceso: era no sufrir en el cuerpo y no estar perturbado en el alma, lo que llamó [[ataraxia|Estado de calma y tranquilidad del ánimo, sin perturbaciones; meta de la vida según Epicuro.]]. Quien se acostumbra a poco, decía, disfruta más cuando llega algo extra.\n\nSus enemigos lo pintaron como glotón, y la palabra «epicúreo» acabó significando «sibarita». Es casi lo contrario de lo que enseñó. Su lección para hoy: el lujo se disfruta más cuando no lo necesitas.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epicurus_bust2.jpg?width=900",
+    "alt": "Busto de mármol de un hombre con barba",
+    "pie": "Busto de Epicuro, copia romana de un original griego",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Diógenes Laercio, Vidas de los filósofos ilustres, libro X (trad. R. D. Hicks, Wikisource)",
+    "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_X"
+   },
+   "wiki": "Epicuro",
+   "claves": [
+    {
+     "nombre": "Diógenes Laercio",
+     "quien": "Biógrafo griego del siglo III; casi todo lo que sabemos de la vida de Epicuro viene de él.",
+     "wiki": "Diógenes Laercio"
+    },
+    {
+     "nombre": "Epicureísmo",
+     "quien": "La escuela fundada por Epicuro en su Jardín de Atenas: placer sereno, amistad y vida sencilla.",
+     "wiki": "Epicureísmo"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué entendía Epicuro por placer?",
+    "respuesta": "No sufrir en el cuerpo y no estar perturbado en el alma. Vivía con sencillez; un tarrito de queso era para él un banquete."
+   }
+  },
+  {
+   "materia": "Relaciones y vida social",
+   "pilar": "caracter",
+   "epoca": "2018",
+   "titulo": "Le caes mejor de lo que crees",
+   "dato": "Después de conversar con un desconocido, la mayoría cree que cayó peor de lo que realmente cayó. Los psicólogos lo llamaron la «brecha de agrado».",
+   "explicacion": "En 2018, Erica Boothby, Gus Cooney, Gillian Sandstrom y Margaret Clark publicaron en *Psychological Science* varios experimentos. Pusieron a desconocidos a platicar y luego preguntaron a cada uno cuánto le había gustado el otro y cuánto creía haberle gustado. Una y otra vez, la gente subestimó cuánto agradó. En un estudio con compañeros de cuarto universitarios, la brecha duró meses.\n\nLa causa probable: al salir de una plática repasamos nuestros errores, lo que dijimos mal, los silencios. El otro casi no se fijó en eso. Saberlo sirve antes de una junta o un evento de *networking*: la impresión que dejaste suele ser mejor que la que te llevas.",
+   "fuente": {
+    "nombre": "Boothby, Cooney, Sandstrom y Clark (2018), The Liking Gap in Conversations, Psychological Science (PDF, Wharton)",
+    "url": "https://faculty.wharton.upenn.edu/wp-content/uploads/2020/05/The-Liking-Gap-in-Conversations.pdf"
+   },
+   "wiki": "Conversación",
+   "claves": [
+    {
+     "nombre": "Psicología social",
+     "quien": "Rama de la psicología que estudia cómo pensamos y actuamos frente a otras personas.",
+     "wiki": "Psicología social"
+    },
+    {
+     "nombre": "Sesgo cognitivo",
+     "quien": "Error sistemático del juicio; la brecha de agrado es uno sobre nosotros mismos.",
+     "wiki": "Sesgo cognitivo"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué es la «brecha de agrado»?",
+    "respuesta": "La tendencia a creer que le caímos peor a alguien de lo que en realidad le caímos después de conversar."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "epoca": "1968",
+   "titulo": "El salto que el aparato no pudo medir",
+   "dato": "En México 68, Bob Beamon saltó 8.90 metros: 55 centímetros más que el récord mundial. El aparato óptico de medición no alcanzaba esa distancia y hubo que medir con cinta.",
+   "explicacion": "Fue el 18 de octubre de 1968, en el Estadio Olímpico Universitario. Hasta entonces el récord había subido de centímetro en centímetro; Beamon lo movió más de medio metro en un solo intento. Lo ayudaron la altitud de la Ciudad de México, unos 2,240 metros, donde el aire ofrece menos resistencia, y un viento a favor de 2.0 m/s, justo el límite permitido.\n\nEl récord mundial duró casi 23 años, hasta que Mike Powell saltó 8.95 metros en Tokio en 1991. Como récord olímpico sigue en pie. Es uno de los casos más claros de cómo el lugar también compite.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Beamon_1968.jpg?width=900",
+    "alt": "Un atleta en el aire durante un salto de longitud",
+    "pie": "Bob Beamon en los Juegos Olímpicos de México 1968",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Olympics.com: Bob Beamon",
+    "url": "https://www.olympics.com/en/athletes/bob-beamon"
+   },
+   "wiki": "Bob Beamon",
+   "claves": [
+    {
+     "nombre": "Juegos Olímpicos de México 1968",
+     "quien": "Los primeros Juegos en América Latina y a gran altitud; se rompieron muchos récords de velocidad y salto.",
+     "wiki": "Juegos Olímpicos de México 1968"
+    },
+    {
+     "nombre": "Salto de longitud",
+     "quien": "La prueba de Beamon: carrera, impulso desde una tabla y caída en arena.",
+     "wiki": "Salto de longitud"
+    },
+    {
+     "nombre": "Progresión del récord mundial",
+     "quien": "La lista histórica muestra cuán grande fue el salto de 1968.",
+     "wiki": "Progresión del récord mundial de salto de longitud"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto saltó Bob Beamon en 1968 y cuánto mejoró el récord?",
+    "respuesta": "8.90 metros, 55 centímetros más que el récord anterior. Duró hasta 1991."
+   }
+  },
+  {
+   "materia": "Literatura y mitología",
+   "pilar": "cultura",
+   "epoca": "1709",
+   "titulo": "Aladino no estaba en Las mil y una noches",
+   "dato": "Los cuentos de Aladino y de Alí Babá no aparecen en ningún manuscrito árabe antiguo de Las mil y una noches. Los agregó un francés en el siglo XVIII, a partir de lo que le contó un joven sirio.",
+   "explicacion": "Antoine Galland, orientalista francés, tradujo las *Noches* al francés entre 1704 y 1717. En 1709 conoció en París a **Hanna Diyab**, un joven cristiano maronita de Alepo, que le narró varios cuentos de memoria. Galland los anotó en su diario y los incluyó en sus volúmenes. Entre ellos estaban Aladino y Alí Babá.\n\nEsos cuentos, hoy los más famosos de la colección, son lo que los especialistas llaman [[cuentos huérfanos|Historias incluidas en Las mil y una noches de las que no se conoce un manuscrito árabe original anterior a la versión francesa.]]. Por casi tres siglos, a Diyab casi no se le dio crédito. Su autobiografía se publicó en inglés en 2021.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Galand_Antoine.jpg?width=900",
+    "alt": "Retrato antiguo de un hombre con peluca",
+    "pie": "Antoine Galland, traductor francés de Las mil y una noches",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Words Without Borders: Tales of Aladdin and their tellers, from Aleppo to Paris (Paulo Lemos Horta)",
+    "url": "https://www.wordswithoutborders.org/dispatches/article/tales-of-aladdin-and-their-tellers-from-aleppo-to-paris-paulo-lemos-horta"
+   },
+   "wiki": "Las mil y una noches",
+   "claves": [
+    {
+     "nombre": "Aladino",
+     "quien": "El joven de la lámpara; su cuento llegó a Europa por la versión de Galland.",
+     "wiki": "Aladino (personaje)"
+    },
+    {
+     "nombre": "Alí Babá y los cuarenta ladrones",
+     "quien": "Otro de los cuentos que Diyab narró a Galland.",
+     "wiki": "Alí Babá y los cuarenta ladrones"
+    },
+    {
+     "nombre": "Literatura árabe",
+     "quien": "La tradición de la que vienen las Noches, con siglos de cuentos orales y escritos.",
+     "wiki": "Literatura árabe"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Quién le contó a Galland los cuentos de Aladino y Alí Babá?",
+    "respuesta": "Hanna Diyab, un joven de Alepo, en París, en 1709."
+   }
+  },
+  {
+   "materia": "Historia y geopolítica",
+   "pilar": "mundo",
+   "epoca": "1867",
+   "titulo": "Alaska costó unos dos centavos por acre",
+   "dato": "En 1867, Estados Unidos compró Alaska a Rusia por 7.2 millones de dólares. Sale a unos dos centavos de dólar por acre.",
+   "explicacion": "El tratado se firmó el 30 de marzo de 1867, impulsado por el secretario de Estado **William H. Seward**. Rusia quería vender: el territorio era difícil de defender, sobre todo frente a Gran Bretaña, y daba pocas ganancias. Estados Unidos pagó con una orden del Tesoro al año siguiente.\n\nSe repite que todo el país se burló de la compra, la «locura de Seward». El apodo existió, pero el Departamento de Estado de EE. UU. señala que buena parte de la prensa la apoyó. Décadas después, el oro del Klondike y luego el petróleo convirtieron la compra en una de las mejores de la historia.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Treasury_Warrant_in_the_Amount_of_%247.2_Million_for_the_Purchase_of_Alaska,_08-01-1868,_Page_2_of_2_(5286025762).jpg?width=900",
+    "alt": "Documento antiguo del Tesoro de EE. UU. con firmas y sellos",
+    "pie": "La orden del Tesoro por 7.2 millones de dólares para pagar Alaska, 1868",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Office of the Historian, U.S. Department of State: Purchase of Alaska, 1867",
+    "url": "https://history.state.gov/milestones/1866-1898/alaska-purchase"
+   },
+   "wiki": "Compra de Alaska",
+   "claves": [
+    {
+     "nombre": "William H. Seward",
+     "quien": "Secretario de Estado de Lincoln y de Johnson; negoció la compra.",
+     "wiki": "William H. Seward"
+    },
+    {
+     "nombre": "Compañía ruso-americana",
+     "quien": "La empresa que administraba la Alaska rusa; sus pocas ganancias empujaron la venta.",
+     "wiki": "Compañía ruso-americana"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por cuánto compró Estados Unidos Alaska y en qué año?",
+    "respuesta": "Por 7.2 millones de dólares, en 1867; unos dos centavos por acre."
+   }
+  },
+  {
+   "materia": "Negocios y estrategia",
+   "pilar": "patrimonio",
+   "epoca": "1968",
+   "titulo": "El Post-it nació de un pegamento fallido",
+   "dato": "En 1968, un químico de 3M buscaba un adhesivo muy fuerte y obtuvo uno que apenas pegaba. Tardó doce años en convertirse en producto.",
+   "explicacion": "Spencer Silver creó un adhesivo que se podía despegar y volver a pegar. Nadie en 3M sabía para qué servía. En 1974, su colega Art Fry, que cantaba en el coro de su iglesia, se cansó de que los separadores se cayeran de su himnario. Usó el pegamento de Silver para hacer separadores que no se caían ni rompían la hoja.\n\nLa primera prueba de mercado, en 1977, salió mal: la gente no entendía el producto sin probarlo. 3M cambió la estrategia y regaló muestras masivas en Boise, Idaho. Al probarlo, la gente lo volvió a comprar. El lanzamiento nacional llegó en 1980. Lección: algunos productos no se explican; se prueban.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Post-it.jpg?width=900",
+    "alt": "Notas adhesivas amarillas",
+    "pie": "Notas Post-it",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Post-it (3M): History Timeline",
+    "url": "https://post-it.com/3M/en_US/post-it/contact-us/about-us/"
+   },
+   "wiki": "Post-it",
+   "claves": [
+    {
+     "nombre": "3M",
+     "quien": "Empresa estadounidense de Minnesota que permitía a sus científicos dedicar tiempo a proyectos propios.",
+     "wiki": "3M"
+    },
+    {
+     "nombre": "Adhesivo",
+     "quien": "Sustancia que une superficies; el de Silver pegaba poco, y ese fue su valor.",
+     "wiki": "Adhesivo"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué hizo que el Post-it por fin se vendiera?",
+    "respuesta": "Regalar muestras para que la gente lo probara: en la prueba de Boise, quien lo usaba volvía a comprarlo. Se lanzó en todo EE. UU. en 1980."
+   }
+  },
+  {
+   "materia": "IA y el futuro",
+   "pilar": "futuro",
+   "epoca": "1958",
+   "titulo": "En 1958 prometieron una máquina consciente",
+   "dato": "En julio de 1958, el New York Times informó que la Marina de EE. UU. esperaba que una máquina llegara a caminar, hablar, ver, escribir, reproducirse y ser consciente de su existencia. Era el perceptrón.",
+   "explicacion": "El psicólogo **Frank Rosenblatt** presentó un programa en una computadora IBM 704 que aprendía a distinguir si una marca estaba a la izquierda o a la derecha después de unos 50 intentos. Era una versión muy simple de una neurona artificial: ajustaba sus «pesos» cada vez que se equivocaba. La promesa periodística fue mucho más allá de lo que la máquina hacía.\n\nEn 1969, Marvin Minsky y Seymour Papert publicaron *Perceptrons*, un libro que mostró sus límites, y el financiamiento se enfrió. Pero la idea sobrevivió: las [[redes neuronales|Programas formados por muchas neuronas artificiales conectadas que aprenden ajustando sus conexiones con ejemplos.]] de la IA actual son descendientes directas del perceptrón.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mark_I_Perceptron,_Figure_2_of_operator's_manual.png?width=900",
+    "alt": "Fotografía de una gran máquina con paneles de cables",
+    "pie": "El Mark I Perceptron, en una figura de su manual de operación",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "The New York Times: New Navy Device Learns by Doing (8 jul 1958)",
+    "url": "https://www.nytimes.com/1958/07/08/archives/new-navy-device-learns-by-doing-psychologist-shows-embryo-of.html"
+   },
+   "wiki": "Perceptrón",
+   "claves": [
+    {
+     "nombre": "Frank Rosenblatt",
+     "quien": "Psicólogo estadounidense (1928–1971), creador del perceptrón.",
+     "wiki": "Frank Rosenblatt"
+    },
+    {
+     "nombre": "Perceptrons (libro)",
+     "quien": "El libro de Minsky y Papert (1969) que mostró los límites del perceptrón simple.",
+     "wiki": "Perceptrons (libro)"
+    },
+    {
+     "nombre": "Red neuronal artificial",
+     "quien": "La tecnología de fondo de la IA actual, heredera de la idea de Rosenblatt.",
+     "wiki": "Red neuronal artificial"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué era el perceptrón de 1958?",
+    "respuesta": "Un modelo simple de neurona artificial creado por Frank Rosenblatt que aprendía de sus errores; antecesor de las redes neuronales actuales."
+   }
+  },
+  {
+   "materia": "Oficios del lujo y estilo",
+   "pilar": "gusto",
+   "epoca": "1845",
+   "titulo": "El azul de Tiffany tiene año de nacimiento",
+   "dato": "El azul de las cajas de Tiffany es un color registrado como marca. Pantone lo fabrica en exclusiva con el nombre «1837 Blue», por el año en que se fundó la casa.",
+   "explicacion": "Tiffany & Co. abrió en Nueva York en 1837. En 1845 usó ese tono en la portada de su *Blue Book*, el catálogo anual de joyas, y desde entonces lo volvió su firma: cajas, bolsas, anuncios. Una casa de lujo rara vez es dueña de un color. Tiffany lo es: lo registró como marca y Pantone no lo vende al público.\n\nDe Charles Lewis Tiffany, el fundador, se cuenta una regla: la caja no se vende sola; solo sale de la tienda con algo que se compró dentro. Así, la caja dejó de ser empaque y se volvió una señal. Para una marca premium es una lección clara: un elemento visual repetido por décadas puede valer tanto como el producto.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiffany_blue_box_2.jpg?width=900",
+    "alt": "Caja azul turquesa con listón blanco",
+    "pie": "La caja azul de Tiffany",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (en): Tiffany Blue",
+    "url": "https://en.wikipedia.org/wiki/Tiffany_Blue"
+   },
+   "wiki": "Tiffany & Co.",
+   "claves": [
+    {
+     "nombre": "Charles Lewis Tiffany",
+     "quien": "Fundador de Tiffany & Co. (1812–1902); convirtió la caja en un símbolo.",
+     "wiki": "Charles Lewis Tiffany"
+    },
+    {
+     "nombre": "Pantone",
+     "quien": "Empresa que estandariza colores con números; fabrica el tono exclusivo de Tiffany.",
+     "wiki": "Pantone"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué el color de Tiffany se llama «1837 Blue»?",
+    "respuesta": "Por el año en que se fundó la casa en Nueva York. Es un color registrado que Pantone fabrica en exclusiva."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "El arte de la guerra",
+  "autor": "Sun Tzu",
+  "capitulo": {
+   "numero": 6,
+   "total": 6,
+   "titulo": "El fuego y los espías"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Enchoen27n3200.jpg?width=900",
+   "alt": "Estatua de piedra de un general chino antiguo, de pie",
+   "pie": "Estatua de Sun Tzu en Yurihama, Tottori, Japón",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "¿Qué arma es más poderosa: la que destruye todo o la que no hace ruido? Sun Tzu terminó su libro con las dos. El capítulo XII trata del ataque con fuego, el más destructivo que conocía. El XIII, del uso de espías, el más silencioso.\n\nParecen temas opuestos. No lo son. Los dos responden a la misma pregunta con la que empezó el libro: cómo ganar gastando lo menos posible. El fuego, porque bien usado decide en una noche. Los espías, porque el que sabe antes no necesita pelear tanto.\n\nY en medio de esas dos lecciones técnicas, Sun Tzu deja la advertencia más humana de todo el tratado."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Cinco formas de usar el fuego"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Sun Tzu es metódico hasta con las llamas. Enumera cinco blancos: quemar a los soldados en su campamento, quemar las provisiones, quemar los convoyes de [[impedimenta|Bagaje que lleva un ejército en marcha: víveres, equipo y carros de transporte.]], quemar los arsenales y lanzar fuego en medio del enemigo.\n\nLuego da reglas prácticas. El fuego necesita material seco y un día propicio. Hay que vigilar el viento: no ataques desde el lado hacia donde sopla, porque las llamas se volverán contra ti. Y si el fuego estalla dentro del campamento enemigo, prepárate afuera, pero espera: si sus soldados mantienen la calma, no ataques todavía.\n\nLa idea de fondo es que el fuego es un multiplicador. No reemplaza al ejército; lo potencia. Por sí solo, como el agua, puede aislar o desordenar al enemigo. Pero Sun Tzu añade un matiz: el agua corta al rival, mientras que el fuego lo despoja de lo que tiene. Son herramientas distintas para objetivos distintos."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Ganar y no consolidar"
+   },
+   {
+    "tipo": "texto",
+    "texto": "En medio del capítulo aparece una frase que no tiene nada de técnica. Es una crítica a los generales que ganan batallas y no saben qué hacer con la victoria."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Desdichado el destino de quien intenta ganar sus batallas y triunfar en sus ataques sin cultivar el espíritu de empresa: el resultado es tiempo perdido y estancamiento general.",
+    "fuente": "El arte de la guerra, XII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Ganar no basta. Hay que aprovechar lo ganado. Un ejército que toma una ciudad y luego se queda quieto gasta su ventaja. En términos de negocio: un lanzamiento exitoso sin seguimiento (distribución, recompra, siguiente producto) se apaga solo.\n\nPero justo después, Sun Tzu frena en seco. Da tres reglas que deberían estar en la pared de cualquier oficina: no te muevas si no ves una ventaja; no uses tus tropas si no hay algo que ganar; no pelees si la situación no es crítica."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La advertencia contra la ira"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Aquí llega el pasaje más citado del capítulo. Sun Tzu dice que ningún gobernante debe mandar tropas al campo solo para desahogar su enojo, y ningún general debe dar batalla solo por despecho. Si conviene avanzar, avanza; si no, quédate donde estás. Y explica por qué con una imagen que no necesita comentario:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "La ira puede, con el tiempo, volverse alegría; el disgusto puede dar paso a la satisfacción. Pero un reino que ha sido destruido no vuelve a existir, y los muertos no pueden volver a la vida.",
+    "fuente": "El arte de la guerra, XII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es una lección sobre lo [[irreversible|Lo que no se puede deshacer ni devolver a su estado anterior.]]. Las emociones pasan; ciertas decisiones no. Por eso, dice Sun Tzu, el gobernante sabio es cuidadoso y el buen general es prudente. No por cobardía, sino porque distingue entre lo que se puede corregir y lo que no.\n\nPiensa en una negociación que se rompe por orgullo, en un correo enviado con coraje, en un socio que se pierde por una discusión. Al día siguiente el enojo ya pasó. La relación, a veces, no vuelve."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según Sun Tzu, ¿por qué un general no debe pelear por enojo?",
+    "opciones": [
+     "Porque el enojo lo vuelve más lento al atacar",
+     "Porque el enojo pasa, pero lo que destruye una batalla no se puede recuperar",
+     "Porque sus soldados no obedecen a un líder enojado"
+    ],
+    "correcta": 1,
+    "explicacion": "La ira se vuelve alegría con el tiempo; un reino destruido o un muerto no vuelven. La regla separa lo pasajero de lo irreversible."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El precio de no saber"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El capítulo XIII empieza con números. Levantar un ejército de cien mil hombres y llevarlo lejos cuesta mil onzas de plata al día. Setecientas mil familias dejan de trabajar sus campos para sostenerlo. Los ejércitos pueden enfrentarse durante años por una victoria que se decide en un solo día.\n\nCon esa cuenta en la mesa, Sun Tzu hace su acusación más dura."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Permanecer en la ignorancia de la situación del enemigo solo por escatimar cien onzas de plata en honores y pagos es el colmo de la inhumanidad.",
+    "fuente": "El arte de la guerra, XIII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Fíjate en la palabra: inhumanidad. Para Sun Tzu, ahorrar en información no es un error de presupuesto. Es un error moral, porque lo pagan los soldados y las familias. La guerra entera cuesta una fortuna; saber cuesta muy poco. Quien escatima en lo barato arriesga lo caro.\n\nY ¿de dónde sale ese saber? Sun Tzu responde con un realismo sorprendente para su época. El [[conocimiento previo|Saber lo que va a pasar o lo que planea el rival antes de que ocurra.]] no se obtiene de los espíritus ni de los dioses, ni por analogía con el pasado, ni por cálculos. Solo se obtiene de otras personas: de quienes conocen la situación del enemigo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Los cinco tipos de espías"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Sun Tzu distingue cinco clases. Los **locales**, habitantes de la región enemiga. Los **internos**, funcionarios del propio enemigo. Los **convertidos**, espías del enemigo a los que se gana para el propio bando. Los **condenados**, a quienes se les da información falsa a propósito para que la lleven al enemigo. Y los **sobrevivientes**, los que van y regresan con noticias.\n\nDe los cinco, dice, el más importante es el convertido, porque a través de él se pueden reclutar y usar los demás. Por eso pide tratarlo con la mayor generosidad.\n\nAñade tres condiciones para usar espías. Con nadie en el ejército se debe tener una relación más cercana. A nadie se debe recompensar con más largueza. En ningún otro asunto se debe guardar más secreto. Y advierte que no se puede usar espías sin cierta sabiduría intuitiva, ni dirigirlos sin bondad y rectitud."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Qué espía considera Sun Tzu el más importante?",
+    "opciones": [
+     "El local, porque conoce el terreno",
+     "El condenado, porque engaña al enemigo",
+     "El convertido, porque a través de él se pueden usar los demás"
+    ],
+    "correcta": 2,
+    "explicacion": "El espía enemigo que se gana para el propio bando abre la puerta a todos los demás: revela quiénes son los locales e internos útiles y por dónde llevar información falsa."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Cómo cierra el libro"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El arte de la guerra no termina con una batalla. Termina con una idea sobre el conocimiento."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Solo el gobernante iluminado y el general sabio usarán a los más inteligentes del ejército para espiar, y así lograrán grandes resultados. Los espías son un elemento esencial de la guerra, porque de ellos depende la capacidad de moverse de un ejército.",
+    "fuente": "El arte de la guerra, XIII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es un final coherente con todo el libro. Desde el primer capítulo, Sun Tzu repite que la guerra se gana antes de pelearla: en los cálculos, en el conocimiento del terreno y del rival, en saber cuándo no combatir. «Conoce al enemigo y conócete a ti mismo», escribió en el capítulo III. El XIII explica cómo se consigue la primera mitad: preguntando a quien sabe y pagando bien por saberlo.\n\nTraducido a hoy, la lección es menos oscura de lo que suena. No se trata de espionaje, sino de inteligencia de mercado: hablar con clientes, distribuidores, exempleados de la competencia, vendedores de piso. La información más valiosa casi nunca está en un reporte; está en una persona. Y suele costar poco comparada con el error que evita."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "En una frase",
+    "texto": "No pelees por enojo, porque lo destruido no vuelve; y no ahorres en saber, porque la información es lo más barato de toda la guerra."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Con este capítulo terminamos *El arte de la guerra*. Mañana empieza un libro muy distinto: los *Ensayos* de Michel de Montaigne, un abogado francés del siglo XVI que se encerró en una torre a escribir sobre sí mismo y terminó escribiendo sobre todos."
+   }
+  ],
+  "paraLlevar": [
+   "Ganar sin aprovechar la victoria es perder el tiempo.",
+   "El enojo pasa; lo que destruyes con él a veces no vuelve.",
+   "La información es lo más barato de una guerra: escatimar en ella es el error más caro."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Por qué Sun Tzu llama «inhumanidad» a ahorrar en espías?",
+    "respuesta": "Porque una guerra cuesta fortunas y vidas; no pagar el poco dinero que cuesta saber pone en riesgo todo eso."
+   },
+   {
+    "pregunta": "¿Cuáles son los cinco tipos de espías de Sun Tzu?",
+    "respuesta": "Locales, internos, convertidos, condenados y sobrevivientes. El convertido es el más importante."
+   }
+  ],
+  "proximo": "Ensayos (Montaigne) · Capítulo 1: El hombre que se encerró en una torre",
+  "fuentes": [
+   {
+    "nombre": "Sun Tzu, The Art of War, trad. Lionel Giles (1910), Proyecto Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/132"
+   },
+   {
+    "nombre": "Standard Ebooks: The Art of War (trad. Giles), capítulo XIII",
+    "url": "https://standardebooks.org/ebooks/sun-tzu/the-art-of-war/lionel-giles/text/chapter-13"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de dominio público de Lionel Giles (1910), Proyecto Gutenberg."
+ },
+ "palabra": {
+  "palabra": "Sibarita",
+  "categoria": "Adjetivo y sustantivo",
+  "pronunciacion": "si-ba-RI-ta",
+  "definicion": "Persona que busca y disfruta los placeres refinados, sobre todo en la comida, la bebida y las comodidades.",
+  "origen": "Del latín *sybarita*, y este del griego *sybarítēs*, «habitante de Síbaris», una colonia griega del sur de Italia famosa en la Antigüedad por su lujo.",
+  "ejemplo": "Un sibarita no compra la botella por la etiqueta: la compra porque sabe lo que hay dentro.",
+  "repaso": {
+   "pregunta": "¿De dónde viene la palabra «sibarita»?",
+   "respuesta": "De Síbaris, colonia griega del sur de Italia famosa por el lujo de sus habitantes."
+  }
+ },
+ "frances": {
+  "frase": "Quand le vin est tiré, il faut le boire.",
+  "traduccion": "Cuando el vino está servido, hay que beberlo.",
+  "pronunciacion": "kan le VAN e ti-RÉ, il fo le BUAR",
+  "uso": "Cultura. Proverbio que se usa cuando ya no hay vuelta atrás: una vez que empezaste algo, toca asumirlo y terminarlo. *Tiré* aquí significa «sacado del barril». Sirve en una junta: «La decisión ya se tomó; quand le vin est tiré…».",
+  "variante": "Se suele decir abreviada: « Le vin est tiré, il faut le boire. »",
+  "repaso": {
+   "pregunta": "¿Qué quiere decir « Quand le vin est tiré, il faut le boire »?",
+   "respuesta": "Que una vez empezado algo, hay que asumirlo hasta el final, aunque ya no guste."
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Qué ganó California en la cata a ciegas de París de 1976?",
+   "opciones": [
+    "Solo la categoría de tintos",
+    "Las dos categorías: tinto y blanco",
+    "Solo la categoría de blancos"
+   ],
+   "correcta": 1,
+   "explicacion": "Chateau Montelena 1973 ganó en blanco y Stag's Leap 1973 en tinto, ante jueces franceses que no veían las etiquetas."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Qué propone el plan de Qatar entre EE. UU. e Irán?",
+   "opciones": [
+    "Primero aliviar el bloqueo naval a cambio de inspecciones nucleares; después reabrir Ormuz",
+    "Que Irán reabra Ormuz de inmediato sin condiciones",
+    "Que EE. UU. retire todas sus tropas del Golfo antes de hablar"
+   ],
+   "correcta": 0,
+   "explicacion": "Es un plan en dos etapas: alivio del bloqueo con inspecciones, y luego la reapertura del estrecho. Hasta el sábado nadie lo había aceptado formalmente."
+  },
+  {
+   "origen": "hechos",
+   "pregunta": "¿Cómo se midió el salto de 8.90 m de Bob Beamon en México 68?",
+   "opciones": [
+    "Con el aparato óptico, como siempre",
+    "Con una cámara de cine en cámara lenta",
+    "Con cinta métrica, porque el aparato óptico no alcanzaba"
+   ],
+   "correcta": 2,
+   "explicacion": "El salto superó el alcance del aparato óptico; los jueces midieron con cinta. Mejoró el récord por 55 cm."
+  }
+ ],
+ "libro": null,
+ "proximo": "1855: la clasificación de Burdeos que sigue vigente"
+}
