@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08",
+ "actualizado": "2026-11-09",
  "materias": {
   "Arquitectura y diseño": [
    {
@@ -228,6 +228,36 @@
    {
     "claves": [
      {
+      "nombre": "Biomimética",
+      "quien": "Disciplina que copia diseños de la naturaleza para resolver problemas técnicos.",
+      "wiki": "Biomimética"
+     },
+     {
+      "nombre": "Arctium",
+      "quien": "La bardana, planta cuyos frutos con ganchos inspiraron el velcro.",
+      "wiki": "Arctium"
+     }
+    ],
+    "dato": "En 1941, el ingeniero suizo George de Mestral volvió de cazar en los Alpes con su perro lleno de abrojos. Los miró al microscopio y entendió cómo copiarlos.",
+    "epoca": "1941",
+    "explicacion": "Cada abrojo tiene cientos de ganchitos que se enganchan en cualquier rizo de tela o de pelo. De Mestral pasó años buscando cómo fabricar eso: una cinta con ganchos y otra con bucles. Lo logró con nailon y lo patentó en 1955. El nombre une dos palabras francesas: *velours* (terciopelo) y *crochet* (gancho).\n\nEs un caso clásico de [[biomímesis|Diseñar tecnología copiando soluciones que ya existen en la naturaleza.]]. La naturaleza lleva millones de años resolviendo problemas de ingeniería; a veces basta mirar con cuidado lo que nos molesta.",
+    "fecha": "2026-11-09",
+    "fuente": {
+     "nombre": "History.com: Velcro's Invention Was Inspired by a Dog",
+     "url": "https://www.history.com/articles/velcro-invention"
+    },
+    "materia": "Ciencia y tecnología",
+    "pilar": "futuro",
+    "repaso": {
+     "pregunta": "¿De qué palabras viene «velcro»?",
+     "respuesta": "Del francés velours (terciopelo) y crochet (gancho)."
+    },
+    "titulo": "El velcro lo inventó un perro con abrojos",
+    "wiki": "Cierre de gancho y bucle"
+   },
+   {
+    "claves": [
+     {
       "nombre": "Denso",
       "quien": "Empresa japonesa de autopartes, proveedora de Toyota, donde nació el QR.",
       "wiki": "Denso Corporation"
@@ -398,39 +428,39 @@
     },
     "titulo": "La primera foto digital fue un bebé",
     "wiki": "Russell A. Kirsch"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Johannes Gutenberg",
-      "quien": "Orfebre alemán, inventor de la imprenta de tipos móviles",
-      "wiki": "Johannes Gutenberg"
-     },
-     {
-      "nombre": "Tipo móvil",
-      "quien": "Pieza con una letra que se combina para formar textos",
-      "wiki": "Tipo móvil"
-     }
-    ],
-    "dato": "Gutenberg imprimió unas 180 copias de su Biblia hacia 1455. Sobreviven alrededor de 49, y una página suelta puede valer más que un coche de lujo.",
-    "epoca": "c. 1455",
-    "explicacion": "La clave no fue la prensa, que ya existía para vino y papel, sino los tipos móviles de metal fundidos en serie, una tinta con base de aceite que se adhería al metal y un proceso para combinarlo todo. Antes, una Biblia copiada a mano podía tardar años.\n\nEn pocas décadas había imprentas en más de 200 ciudades europeas. La información dejó de depender de copistas, lo que aceleró la Reforma, la ciencia y la circulación de ideas.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Biblia de Gutenberg",
-     "url": "https://es.wikipedia.org/wiki/Biblia_de_Gutenberg"
-    },
-    "materia": "Ciencia y tecnología",
-    "pilar": "futuro",
-    "repaso": {
-     "pregunta": "¿Cuál fue la verdadera innovación de Gutenberg?",
-     "respuesta": "Los tipos móviles de metal fundidos en serie, junto con la tinta y el proceso."
-    },
-    "titulo": "De 180 Biblias quedan unas 49",
-    "wiki": "Biblia de Gutenberg"
    }
   ],
   "Cine y fotografía": [
+   {
+    "claves": [
+     {
+      "nombre": "Robert Doisneau",
+      "quien": "Fotógrafo francés de la vida cotidiana de París.",
+      "wiki": "Robert Doisneau"
+     },
+     {
+      "nombre": "Fotografía humanista",
+      "quien": "Corriente francesa de posguerra que retrató a la gente común con ternura; Doisneau fue su figura central.",
+      "wiki": "Fotografía humanista"
+     }
+    ],
+    "dato": "«El beso del Hôtel de Ville», de Robert Doisneau, parece un momento robado en la calle. Lo hizo con dos jóvenes estudiantes de teatro a quienes pidió posar.",
+    "epoca": "1950",
+    "explicacion": "En 1950, la revista *Life* le encargó a Doisneau fotos de enamorados en París. Vio a Françoise Bornet y Jacques Carteaud besarse en un café y les pidió que repitieran el beso para su cámara. Se supo en los años noventa, cuando otras personas reclamaron ser la pareja y fueron a juicio.\n\nBornet lo resumió así: «La foto fue posada. Pero el beso era real». En 2005, su copia original se subastó en París por unos 202,000 dólares. Muchas fotos «espontáneas» célebres son escenas dirigidas: no las hace menos bellas, pero sí cambia lo que documentan.",
+    "fecha": "2026-11-09",
+    "fuente": {
+     "nombre": "Fox News/AP: Doisneau photo sells for $202K (abr 2005)",
+     "url": "https://www.foxnews.com/story/doisneau-photo-sells-for-202k"
+    },
+    "materia": "Cine y fotografía",
+    "pilar": "cultura",
+    "repaso": {
+     "pregunta": "¿Fue espontánea la foto «El beso del Hôtel de Ville»?",
+     "respuesta": "No. Doisneau pidió a dos estudiantes de teatro que posaran para un encargo de Life en 1950."
+    },
+    "titulo": "El beso más famoso de París fue posado",
+    "wiki": "Le baiser de l'hôtel de ville"
+   },
    {
     "claves": [
      {
@@ -502,39 +532,44 @@
     },
     "titulo": "Ya se sabe dónde estaba el primer hombre fotografiado",
     "wiki": "Boulevard du Temple (fotografía)"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Cinematógrafo",
-      "quien": "Aparato de los Lumière para filmar y proyectar",
-      "wiki": "Cinematógrafo"
-     },
-     {
-      "nombre": "La llegada de un tren",
-      "quien": "Película de 1896 rodeada del famoso mito del pánico",
-      "wiki": "L'Arrivée d'un train en gare de La Ciotat"
-     }
-    ],
-    "dato": "El 28 de diciembre de 1895, los hermanos Lumière proyectaron diez películas cortas en el sótano del Grand Café de París para unas 33 personas que pagaron entrada. Fue el nacimiento del cine como espectáculo.",
-    "epoca": "1895",
-    "explicacion": "Su cinematógrafo era cámara, copiadora y proyector a la vez, y pesaba poco. Las películas duraban menos de un minuto: obreros saliendo de una fábrica, un bebé comiendo, un regador mojado.\n\nSe repite que el público huyó al ver 'La llegada de un tren'. Los historiadores lo consideran un mito o una gran exageración: la película ni siquiera estaba en esa primera función. Lo cierto es que en semanas había filas en la calle.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Hermanos Lumière",
-     "url": "https://es.wikipedia.org/wiki/Hermanos_Lumi%C3%A8re"
-    },
-    "materia": "Cine y fotografía",
-    "pilar": "cultura",
-    "repaso": {
-     "pregunta": "¿Dónde fue la primera proyección pagada de los Lumière?",
-     "respuesta": "En el Grand Café de París, el 28 de diciembre de 1895."
-    },
-    "titulo": "La primera función de cine pagada",
-    "wiki": "Hermanos Lumière"
    }
   ],
   "Ciudades del mundo": [
+   {
+    "claves": [
+     {
+      "nombre": "Central Park",
+      "quien": "El gran parque de Manhattan, añadido en los años 1850 porque la cuadrícula no dejó espacio verde.",
+      "wiki": "Central Park"
+     },
+     {
+      "nombre": "Broadway",
+      "quien": "Avenida más antigua que la cuadrícula; su diagonal crea plazas al cruzar las avenidas.",
+      "wiki": "Broadway"
+     },
+     {
+      "nombre": "Manzana",
+      "quien": "La unidad básica de la cuadrícula: el bloque entre cuatro calles.",
+      "wiki": "Manzana (urbanismo)"
+     }
+    ],
+    "dato": "En 1811, Nueva York decidió el trazo de casi toda Manhattan: 12 avenidas y 155 calles en ángulo recto. La justificación fue económica: las casas rectas eran las más baratas.",
+    "epoca": "1811",
+    "explicacion": "La isla era casi toda campo. Los comisionados dibujaron una cuadrícula sobre colinas, arroyos y granjas, sin plazas grandes ni parques. Escribieron que las casas «de lados rectos y ángulos rectos son las más baratas de construir y las más cómodas para vivir».\n\nCentral Park no estaba en el plan; se agregó décadas después. Broadway tampoco: es un camino anterior que cruza la cuadrícula en diagonal, y por eso donde corta las avenidas nacen plazas como Times Square. Un trazo pensado para el negocio inmobiliario terminó dando su forma a una de las ciudades más reconocibles del mundo.",
+    "fecha": "2026-11-09",
+    "fuente": {
+     "nombre": "Museum of the City of New York: The Greatest Grid, the 1811 Plan",
+     "url": "https://thegreatestgrid.mcny.org/the-1811-plan"
+    },
+    "materia": "Ciudades del mundo",
+    "pilar": "mundo",
+    "repaso": {
+     "pregunta": "¿Por qué los comisionados de 1811 eligieron una cuadrícula para Manhattan?",
+     "respuesta": "Porque las casas de lados y ángulos rectos eran, según ellos, las más baratas de construir y las más cómodas."
+    },
+    "titulo": "Manhattan se trazó en cuadrícula porque era más barato",
+    "wiki": "Plan de los Comisionados de 1811"
+   },
    {
     "claves": [
      {
@@ -708,62 +743,10 @@
     },
     "titulo": "Una iglesia sobre un bosque",
     "wiki": "Venecia"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Chinampa",
-      "quien": "Sistema agrícola de parcelas sobre el lago",
-      "wiki": "Chinampa"
-     },
-     {
-      "nombre": "Lago de Texcoco",
-      "quien": "Lago sobre el que se levantó la ciudad",
-      "wiki": "Lago de Texcoco"
-     },
-     {
-      "nombre": "Templo Mayor",
-      "quien": "Centro ceremonial de la ciudad",
-      "wiki": "Templo Mayor"
-     }
-    ],
-    "dato": "Cuando Hernán Cortés llegó en 1519, Tenochtitlan tenía, según las estimaciones, unos 200,000 habitantes o más: más que casi cualquier ciudad europea de la época.",
-    "epoca": "1519",
-    "explicacion": "Estaba construida sobre un islote del lago de Texcoco, unida a tierra firme por calzadas y alimentada por chinampas, parcelas cultivables sobre el agua. Un acueducto desde Chapultepec llevaba agua dulce. Los cronistas españoles la compararon con Venecia.\n\nLas cifras exactas se discuten, pero el consenso la sitúa entre las mayores ciudades del mundo de su tiempo. La Ciudad de México está encima, y por eso sigue hundiéndose: el suelo del antiguo lago cede.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Tenochtitlan",
-     "url": "https://es.wikipedia.org/wiki/Tenochtitlan"
-    },
-    "materia": "Ciudades del mundo",
-    "pilar": "mundo",
-    "repaso": {
-     "pregunta": "¿Qué eran las chinampas de Tenochtitlan?",
-     "respuesta": "Parcelas de cultivo construidas sobre el agua del lago."
-    },
-    "titulo": "Más grande que casi cualquier ciudad de Europa",
-    "wiki": "Tenochtitlan"
    }
   ],
   "Deporte y aire libre": [
    {
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "epoca": "1968",
-    "titulo": "El salto que el aparato no pudo medir",
-    "dato": "En México 68, Bob Beamon saltó 8.90 metros: 55 centímetros más que el récord mundial. El aparato óptico de medición no alcanzaba esa distancia y hubo que medir con cinta.",
-    "explicacion": "Fue el 18 de octubre de 1968, en el Estadio Olímpico Universitario. Hasta entonces el récord había subido de centímetro en centímetro; Beamon lo movió más de medio metro en un solo intento. Lo ayudaron la altitud de la Ciudad de México, unos 2,240 metros, donde el aire ofrece menos resistencia, y un viento a favor de 2.0 m/s, justo el límite permitido.\n\nEl récord mundial duró casi 23 años, hasta que Mike Powell saltó 8.95 metros en Tokio en 1991. Como récord olímpico sigue en pie. Es uno de los casos más claros de cómo el lugar también compite.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Beamon_1968.jpg?width=900",
-     "alt": "Un atleta en el aire durante un salto de longitud",
-     "pie": "Bob Beamon en los Juegos Olímpicos de México 1968",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Olympics.com: Bob Beamon",
-     "url": "https://www.olympics.com/en/athletes/bob-beamon"
-    },
-    "wiki": "Bob Beamon",
     "claves": [
      {
       "nombre": "Juegos Olímpicos de México 1968",
@@ -781,11 +764,28 @@
       "wiki": "Progresión del récord mundial de salto de longitud"
      }
     ],
+    "dato": "En México 68, Bob Beamon saltó 8.90 metros: 55 centímetros más que el récord mundial. El aparato óptico de medición no alcanzaba esa distancia y hubo que medir con cinta.",
+    "epoca": "1968",
+    "explicacion": "Fue el 18 de octubre de 1968, en el Estadio Olímpico Universitario. Hasta entonces el récord había subido de centímetro en centímetro; Beamon lo movió más de medio metro en un solo intento. Lo ayudaron la altitud de la Ciudad de México, unos 2,240 metros, donde el aire ofrece menos resistencia, y un viento a favor de 2.0 m/s, justo el límite permitido.\n\nEl récord mundial duró casi 23 años, hasta que Mike Powell saltó 8.95 metros en Tokio en 1991. Como récord olímpico sigue en pie. Es uno de los casos más claros de cómo el lugar también compite.",
+    "fecha": "2026-11-08",
+    "fuente": {
+     "nombre": "Olympics.com: Bob Beamon",
+     "url": "https://www.olympics.com/en/athletes/bob-beamon"
+    },
+    "imagen": {
+     "alt": "Un atleta en el aire durante un salto de longitud",
+     "credito": "Wikimedia Commons",
+     "pie": "Bob Beamon en los Juegos Olímpicos de México 1968",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Beamon_1968.jpg?width=900"
+    },
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
     "repaso": {
      "pregunta": "¿Cuánto saltó Bob Beamon en 1968 y cuánto mejoró el récord?",
      "respuesta": "8.90 metros, 55 centímetros más que el récord anterior. Duró hasta 1991."
     },
-    "fecha": "2026-11-08"
+    "titulo": "El salto que el aparato no pudo medir",
+    "wiki": "Bob Beamon"
    },
    {
     "claves": [
@@ -1193,41 +1193,6 @@
     },
     "titulo": "Antes del «ojo por ojo», una multa",
     "wiki": "Código de Hammurabi"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Juan sin Tierra",
-      "quien": "Rey de Inglaterra que selló la carta",
-      "wiki": "Juan I de Inglaterra"
-     },
-     {
-      "nombre": "Inocencio III",
-      "quien": "Papa que la declaró nula",
-      "wiki": "Inocencio III"
-     },
-     {
-      "nombre": "Estado de derecho",
-      "quien": "Principio de que el poder también está sometido a la ley",
-      "wiki": "Estado de derecho"
-     }
-    ],
-    "dato": "El documento que inspiró los límites al poder fue un fracaso inmediato: el papa Inocencio III lo anuló apenas unas diez semanas después de que el rey Juan lo sellara.",
-    "epoca": "1215",
-    "explicacion": "La Carta Magna fue un acuerdo de paz entre el rey y barones rebeldes, no una declaración de derechos para todos. Al anularse, la guerra civil volvió. Sobrevivió porque se reeditó varias veces, en versiones revisadas, después de la muerte de Juan.\n\nHoy solo unas pocas de sus cláusulas siguen vigentes en Inglaterra, entre ellas la que protege de ser encarcelado sin juicio legal. Su fuerza vino de lo que generaciones posteriores leyeron en ella: que incluso el rey está sujeto a la ley.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Carta Magna",
-     "url": "https://es.wikipedia.org/wiki/Carta_Magna"
-    },
-    "materia": "Derecho y poder",
-    "pilar": "mundo",
-    "repaso": {
-     "pregunta": "¿Quién anuló la Carta Magna poco después de 1215?",
-     "respuesta": "El papa Inocencio III."
-    },
-    "titulo": "La Carta Magna duró diez semanas",
-    "wiki": "Carta Magna"
    }
   ],
   "Disciplina y hábitos": [
@@ -1390,44 +1355,39 @@
     },
     "titulo": "250 palabras cada cuarto de hora",
     "wiki": "Prosa victoriana"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "University College de Londres",
-      "quien": "Universidad donde Phillippa Lally y su equipo midieron cuánto tarda en formarse un hábito.",
-      "wiki": "University College de Londres"
-     },
-     {
-      "nombre": "Ciclo del hábito",
-      "quien": "Modelo de señal, rutina y recompensa con el que suele explicarse cómo se automatiza una conducta.",
-      "wiki": "Ciclo de costumbre (habit loop)"
-     },
-     {
-      "nombre": "Psico-Cibernética",
-      "quien": "Libro de 1960 del cirujano Maxwell Maltz, señalado a menudo como el origen del mito de los 21 días.",
-      "wiki": "Psico-Cibernética"
-     }
-    ],
-    "dato": "La idea de que un hábito se forma en 21 días no viene de ningún estudio serio. Cuando en University College London lo midieron, la mediana fue de 66 días, con casos de 18 a 254.",
-    "epoca": "2009",
-    "explicacion": "Phillippa Lally y su equipo siguieron a 96 voluntarios durante 84 días; cada uno eligió una conducta diaria, como comer fruta o caminar. Medían cuándo la acción se volvía automática, sin esfuerzo. Entre quienes dieron datos suficientes, la mediana fue 66 días. Se publicó en el *European Journal of Social Psychology* (2010).\n\nEl hallazgo más útil: fallar un día no borró el avance. La automaticidad apenas bajó y se recuperó pronto. Lo que importa es la repetición en el mismo contexto, no una racha perfecta. Ojo: es un estudio, con muestra pequeña; el número exacto no es una ley.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "The Behavioral Scientist: lo que Lally et al. (2010) encontraron",
-     "url": "https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit"
-    },
-    "materia": "Disciplina y hábitos",
-    "pilar": "caracter",
-    "repaso": {
-     "pregunta": "¿Cuánto tardó en volverse automático un hábito en el estudio de Lally?",
-     "respuesta": "Una mediana de 66 días, con un rango de 18 a 254. Fallar un día no borró el avance."
-    },
-    "titulo": "No son 21 días",
-    "wiki": "Hábito (ciencias de la salud)"
    }
   ],
   "Economía y mercados": [
+   {
+    "claves": [
+     {
+      "nombre": "The Economist",
+      "quien": "Semanario británico fundado en 1843; creó y actualiza el índice.",
+      "wiki": "The Economist"
+     },
+     {
+      "nombre": "Tipo de cambio",
+      "quien": "El precio de una moneda expresado en otra, como pesos por dólar.",
+      "wiki": "Tipo de cambio"
+     }
+    ],
+    "dato": "En 1986, la revista The Economist inventó medio en broma el índice Big Mac: comparar el precio de esa hamburguesa en cada país para saber si una moneda está cara o barata.",
+    "epoca": "1986",
+    "explicacion": "La idea viene de una teoría seria, la [[paridad del poder adquisitivo|Idea de que, a la larga, el tipo de cambio debería igualar el precio de una misma canasta de bienes en dos países.]]. Si un Big Mac cuesta más en dólares en un país que en Estados Unidos, su moneda estaría «sobrevaluada», y al revés. La hamburguesa sirve porque es casi igual en todas partes.\n\nThe Economist lo presentó como una guía «desenfadada», y así hay que tomarlo: el precio también depende de salarios, rentas e impuestos locales. Aun así, se volvió una de las formas más citadas de explicar el tipo de cambio. Una buena metáfora vale más que una tabla.",
+    "fecha": "2026-11-09",
+    "fuente": {
+     "nombre": "The Economist: The Big Mac index",
+     "url": "https://www.economist.com/big-mac-index"
+    },
+    "materia": "Economía y mercados",
+    "pilar": "patrimonio",
+    "repaso": {
+     "pregunta": "¿En qué teoría se basa el índice Big Mac?",
+     "respuesta": "En la paridad del poder adquisitivo: a la larga, el tipo de cambio debería igualar el precio de lo mismo en dos países."
+    },
+    "titulo": "Una hamburguesa para medir monedas",
+    "wiki": "Índice Big Mac"
+   },
    {
     "claves": [
      {
@@ -1540,41 +1500,6 @@
     },
     "titulo": "El dólar de la Edad Media se acuñó en Florencia",
     "wiki": "Florín"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Burbuja económica",
-      "quien": "Cuando el precio de algo sube muy por encima de su valor y luego se desploma.",
-      "wiki": "Burbuja económica"
-     },
-     {
-      "nombre": "Provincias Unidas",
-      "quien": "La república holandesa del siglo XVII, la economía comercial más avanzada de su época.",
-      "wiki": "Provincias Unidas de los Países Bajos"
-     },
-     {
-      "nombre": "Tulipán",
-      "quien": "Flor traída del Imperio otomano; las variedades jaspeadas eran las más caras.",
-      "wiki": "Tulipa"
-     }
-    ],
-    "dato": "La historia de holandeses arruinados por tulipanes en 1637 es en gran parte un mito. La historiadora Anne Goldgar revisó los archivos y no encontró a nadie que hubiera quebrado por eso.",
-    "epoca": "1637",
-    "explicacion": "La versión dramática se popularizó con el libro de Charles Mackay de 1841 sobre las locuras de las multitudes, que tomó relatos de panfletos moralistas de la época. En realidad participaron pocas personas, sobre todo comerciantes acomodados, y el efecto económico fue menor.\n\nSí hubo una crisis: en febrero de 1637 los precios cayeron y muchos compradores se negaron a pagar lo pactado, y los tribunales no intervinieron. Lo que se dañó fue la confianza. Sirve para dudar de las anécdotas perfectas que se citan sobre burbujas.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Smithsonian Magazine: There Never Was a Real Tulip Fever",
-     "url": "https://www.smithsonianmag.com/history/there-never-was-real-tulip-fever-180964915/"
-    },
-    "materia": "Economía y mercados",
-    "pilar": "patrimonio",
-    "repaso": {
-     "pregunta": "¿Qué encontró Anne Goldgar sobre la tulipomanía?",
-     "respuesta": "Que fue mucho menor de lo que se cuenta: no halló a nadie arruinado; el daño real fue a la confianza por contratos impagos."
-    },
-    "titulo": "La tulipomanía no arruinó a Holanda",
-    "wiki": "Tulipomanía"
    }
   ],
   "El cosmos": [
@@ -1739,50 +1664,44 @@
     },
     "titulo": "En Venus, el día dura más que el año",
     "wiki": "Venus (planeta)"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Heliopausa",
-      "quien": "El borde de la burbuja de viento solar; la Voyager 1 lo cruzó en 2012.",
-      "wiki": "Heliopausa"
-     },
-     {
-      "nombre": "Año luz",
-      "quien": "Distancia que recorre la luz en un año; un día luz es 365 veces menos.",
-      "wiki": "Año luz"
-     },
-     {
-      "nombre": "Disco de oro de las Voyager",
-      "quien": "Disco con sonidos e imágenes de la Tierra que viaja en ambas sondas como mensaje para quien lo encuentre.",
-      "wiki": "Disco de oro de las Voyager"
-     }
-    ],
-    "dato": "El 18 de noviembre de 2026, la sonda Voyager 1 estará a un día luz de la Tierra: unos 25,900 millones de km. Un mensaje enviado desde aquí tardará 24 horas en llegarle.",
-    "epoca": "2026",
-    "explicacion": "Despegó el 5 de septiembre de 1977 y lleva más de 49 años viajando. En 2012 cruzó la heliopausa, el borde de la burbuja del Sol, y entró al espacio interestelar. Es el objeto hecho por humanos más lejano que existe.\n\nCada año tiene menos energía, y la NASA apaga instrumentos uno a uno para que siga hablando con la Tierra; en abril de 2026 apagó otro. Que una máquina de los años setenta siga enviando datos es una lección de ingeniería hecha para durar.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "EarthSky: Voyager 1 a un día luz de la Tierra",
-     "url": "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/"
-    },
-    "imagen": {
-     "alt": "Ilustración de la Voyager 1 en el espacio interestelar",
-     "credito": "NASA/JPL-Caltech · Wikimedia Commons",
-     "pie": "Concepto artístico de la Voyager 1 entrando al espacio interestelar",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Artist_concept_of_Voyager_1_entering_interstellar_space_(PIA17462).jpg?width=900"
-    },
-    "materia": "El cosmos",
-    "pilar": "futuro",
-    "repaso": {
-     "pregunta": "¿Qué significa que la Voyager 1 llegue a un día luz?",
-     "respuesta": "Que una señal tardará 24 horas en ir de la Tierra a la sonda: estará a unos 25,900 millones de km, el 18 de noviembre de 2026."
-    },
-    "titulo": "Voyager 1, a un día luz",
-    "wiki": "Sonda interestelar"
    }
   ],
   "Etiqueta y protocolo": [
+   {
+    "claves": [
+     {
+      "nombre": "Ministro plenipotenciario",
+      "quien": "Una de las clases de diplomáticos que fijó Viena, debajo de los embajadores.",
+      "wiki": "Ministro plenipotenciario"
+     },
+     {
+      "nombre": "Nuncio apostólico",
+      "quien": "Representante del papa; muchos países le dan el primer lugar entre los embajadores.",
+      "wiki": "Nuncio apostólico"
+     },
+     {
+      "nombre": "Samuel Pepys",
+      "quien": "Funcionario inglés cuyo diario narra el choque de carrozas de 1661.",
+      "wiki": "Samuel Pepys"
+     }
+    ],
+    "dato": "Durante siglos, los embajadores se pelearon por quién pasaba primero. En 1815, el Congreso de Viena lo resolvió con una regla simple: manda la fecha de llegada.",
+    "epoca": "1815",
+    "explicacion": "La [[precedencia|Orden de prioridad entre personas o cargos: quién entra, se sienta o habla primero.]] era cuestión de honor nacional. En 1661, en Londres, las carrozas de los embajadores de España y Francia chocaron por ir delante en un desfile; hubo muertos, y el diario de Samuel Pepys lo cuenta. Cada corte decía ser la más importante.\n\nEl reglamento de Viena del 19 de marzo de 1815 dividió a los diplomáticos en clases y ordenó cada clase según la fecha en que notificaban oficialmente su llegada. Ya no importaba qué rey era más poderoso, sino quién llegó antes. Una regla neutral y verificable evita más conflictos que cualquier negociación.",
+    "fecha": "2026-11-09",
+    "fuente": {
+     "nombre": "Office of the Historian (EE. UU.): Foreign Relations of the United States 1875, documento 229",
+     "url": "https://history.state.gov/historicaldocuments/frus1875v02/d229"
+    },
+    "materia": "Etiqueta y protocolo",
+    "pilar": "gusto",
+    "repaso": {
+     "pregunta": "¿Qué criterio fijó el Congreso de Viena para ordenar a los embajadores de una misma clase?",
+     "respuesta": "La fecha de notificación oficial de su llegada: quien llegó antes, va primero."
+    },
+    "titulo": "Viena acabó con las peleas de embajadores con un reloj",
+    "wiki": "Congreso de Viena"
+   },
    {
     "claves": [
      {
@@ -1950,57 +1869,10 @@
     },
     "titulo": "El esmoquin es inglés; el «tuxedo», neoyorquino",
     "wiki": "Esmoquin"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Pedro Damián",
-      "quien": "Monje y cardenal que criticó el uso del tenedor",
-      "wiki": "Pedro Damián"
-     },
-     {
-      "nombre": "Imperio bizantino",
-      "quien": "Imperio romano de Oriente, con capital en Constantinopla",
-      "wiki": "Imperio bizantino"
-     }
-    ],
-    "dato": "Según el relato de san Pedro Damián, una princesa bizantina casada en Venecia escandalizó a la corte en el siglo XI por comer con un tenedor de oro. Él lo vio como un lujo pecaminoso.",
-    "epoca": "Siglo XI",
-    "explicacion": "En el Imperio bizantino el tenedor ya se usaba en la mesa; en Europa occidental se comía con cuchillo, cuchara y dedos. Cuando la princesa murió de una enfermedad, el religioso lo presentó como castigo por su refinamiento.\n\nEl tenedor tardó siglos en imponerse: se extendió por Italia en el Renacimiento y llegó a Francia e Inglaterra mucho después. Muchas reglas de mesa que hoy parecen obvias fueron, en su momento, novedades extranjeras mal vistas.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Tenedor",
-     "url": "https://es.wikipedia.org/wiki/Tenedor"
-    },
-    "materia": "Etiqueta y protocolo",
-    "pilar": "gusto",
-    "repaso": {
-     "pregunta": "¿Por qué el tenedor causó escándalo en Venecia en el siglo XI?",
-     "respuesta": "Se veía como un lujo extranjero excesivo; un religioso lo condenó como pecaminoso."
-    },
-    "titulo": "El tenedor fue un escándalo",
-    "wiki": "Tenedor"
    }
   ],
   "Filosofía para vivir": [
    {
-    "materia": "Filosofía para vivir",
-    "pilar": "mente",
-    "epoca": "c. 300 a. C.",
-    "titulo": "El filósofo del placer pedía queso como lujo",
-    "dato": "Epicuro, cuyo nombre hoy significa gozar de la buena vida, vivía casi a pan y agua. En una carta pidió a un amigo «un tarrito de queso» para darse un banquete.",
-    "explicacion": "La anécdota la conserva Diógenes Laercio, biógrafo de los filósofos griegos. Para Epicuro, el placer no era el exceso: era no sufrir en el cuerpo y no estar perturbado en el alma, lo que llamó [[ataraxia|Estado de calma y tranquilidad del ánimo, sin perturbaciones; meta de la vida según Epicuro.]]. Quien se acostumbra a poco, decía, disfruta más cuando llega algo extra.\n\nSus enemigos lo pintaron como glotón, y la palabra «epicúreo» acabó significando «sibarita». Es casi lo contrario de lo que enseñó. Su lección para hoy: el lujo se disfruta más cuando no lo necesitas.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epicurus_bust2.jpg?width=900",
-     "alt": "Busto de mármol de un hombre con barba",
-     "pie": "Busto de Epicuro, copia romana de un original griego",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Diógenes Laercio, Vidas de los filósofos ilustres, libro X (trad. R. D. Hicks, Wikisource)",
-     "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_X"
-    },
-    "wiki": "Epicuro",
     "claves": [
      {
       "nombre": "Diógenes Laercio",
@@ -2013,11 +1885,28 @@
       "wiki": "Epicureísmo"
      }
     ],
+    "dato": "Epicuro, cuyo nombre hoy significa gozar de la buena vida, vivía casi a pan y agua. En una carta pidió a un amigo «un tarrito de queso» para darse un banquete.",
+    "epoca": "c. 300 a. C.",
+    "explicacion": "La anécdota la conserva Diógenes Laercio, biógrafo de los filósofos griegos. Para Epicuro, el placer no era el exceso: era no sufrir en el cuerpo y no estar perturbado en el alma, lo que llamó [[ataraxia|Estado de calma y tranquilidad del ánimo, sin perturbaciones; meta de la vida según Epicuro.]]. Quien se acostumbra a poco, decía, disfruta más cuando llega algo extra.\n\nSus enemigos lo pintaron como glotón, y la palabra «epicúreo» acabó significando «sibarita». Es casi lo contrario de lo que enseñó. Su lección para hoy: el lujo se disfruta más cuando no lo necesitas.",
+    "fecha": "2026-11-08",
+    "fuente": {
+     "nombre": "Diógenes Laercio, Vidas de los filósofos ilustres, libro X (trad. R. D. Hicks, Wikisource)",
+     "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_X"
+    },
+    "imagen": {
+     "alt": "Busto de mármol de un hombre con barba",
+     "credito": "Wikimedia Commons",
+     "pie": "Busto de Epicuro, copia romana de un original griego",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Epicurus_bust2.jpg?width=900"
+    },
+    "materia": "Filosofía para vivir",
+    "pilar": "mente",
     "repaso": {
      "pregunta": "¿Qué entendía Epicuro por placer?",
      "respuesta": "No sufrir en el cuerpo y no estar perturbado en el alma. Vivía con sencillez; un tarrito de queso era para él un banquete."
     },
-    "fecha": "2026-11-08"
+    "titulo": "El filósofo del placer pedía queso como lujo",
+    "wiki": "Epicuro"
    },
    {
     "claves": [
@@ -2155,41 +2044,6 @@
     },
     "titulo": "El estoico que prestaba a interés",
     "wiki": "Séneca"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Estoicismo",
-      "quien": "Escuela filosófica griega que enseña a distinguir lo que depende de ti de lo que no; Marco Aurelio fue su último gran autor.",
-      "wiki": "Estoicismo"
-     },
-     {
-      "nombre": "Guerras marcomanas",
-      "quien": "Guerras de Roma contra pueblos germanos junto al Danubio (166–180); en esas campañas escribió sus notas.",
-      "wiki": "Guerras marcomanas"
-     },
-     {
-      "nombre": "Filosofía romana",
-      "quien": "Cómo los romanos adoptaron y adaptaron la filosofía griega, casi siempre como guía práctica para vivir.",
-      "wiki": "Filosofía romana"
-     }
-    ],
-    "dato": "Las *Meditaciones* de Marco Aurelio, uno de los libros de filosofía más leídos del mundo, nunca fueron pensadas para publicarse. Están escritas en griego, no en latín, y su título original significa \"Para sí mismo\".",
-    "epoca": "c. 170–180 d. C.",
-    "explicacion": "Marco Aurelio gobernó Roma de 161 a 180. Escribió estas notas en campaña militar, en tiendas junto al Danubio, como un cuaderno para corregirse a sí mismo. El griego era la lengua de la filosofía para un romano culto, como el francés lo fue después para las élites europeas.\n\nPor eso el libro se lee tan íntimo: no hay pose ni público. Es un hombre con todo el poder del mundo recordándose ser paciente, justo y breve. La primera edición impresa apareció en Zúrich en 1558 o 1559, casi 1,400 años después.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Meditations",
-     "url": "https://en.wikipedia.org/wiki/Meditations"
-    },
-    "materia": "Filosofía para vivir",
-    "pilar": "mente",
-    "repaso": {
-     "pregunta": "¿En qué idioma escribió Marco Aurelio sus Meditaciones y para quién?",
-     "respuesta": "En griego, y para sí mismo: nunca pensó publicarlas. Su título original significa \"Para sí mismo\"."
-    },
-    "titulo": "El libro que un emperador escribió para nadie",
-    "wiki": "Marco Aurelio"
    }
   ],
   "Gastronomía, vino y destilados": [
@@ -2348,62 +2202,10 @@
     },
     "titulo": "Chile vendió Carménère como Merlot durante un siglo",
     "wiki": "Carmenere"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Pierre Pérignon",
-      "quien": "Monje benedictino de Hautvillers (1638–1715); mejoró la mezcla de uvas, no inventó las burbujas.",
-      "wiki": "Pierre Pérignon"
-     },
-     {
-      "nombre": "Vino espumoso",
-      "quien": "Vino con gas por una segunda fermentación; el champán es el más famoso, no el único.",
-      "wiki": "Vino espumoso"
-     },
-     {
-      "nombre": "Royal Society",
-      "quien": "Academia científica de Londres ante la que Christopher Merret presentó su texto en 1662.",
-      "wiki": "Royal Society"
-     }
-    ],
-    "dato": "Dom Pérignon no inventó el champán espumoso. En 1662, el inglés Christopher Merret describió ante la Royal Society cómo se añadía azúcar al vino para hacerlo burbujeante.",
-    "epoca": "1662",
-    "explicacion": "En Champaña, las burbujas eran al principio un defecto: el frío detenía la fermentación y en primavera se reactivaba, reventando botellas. Dom Pérignon, monje de la abadía de Hautvillers, quizá incluso intentó evitarlas. Su aporte real fue mezclar uvas para lograr vinos blancos más finos.\n\nLos ingleses, con botellas de vidrio grueso y corcho, provocaban a propósito una segunda fermentación. La leyenda del monje la difundió en la década de 1820 uno de sus sucesores. Es una lección de marca: la historia que se cuenta puede valer más que el dato.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "National Geographic: Who put the bubbles in Champagne?",
-     "url": "https://www.nationalgeographic.com/history/history-magazine/article/origin-champagne-france-bubbles"
-    },
-    "materia": "Gastronomía, vino y destilados",
-    "pilar": "gusto",
-    "repaso": {
-     "pregunta": "¿Quién documentó primero cómo hacer vino espumoso a propósito?",
-     "respuesta": "El inglés Christopher Merret, en 1662, ante la Royal Society: añadir azúcar al vino en botella."
-    },
-    "titulo": "Las burbujas del champán son inglesas",
-    "wiki": "Champán"
    }
   ],
   "Historia y geopolítica": [
    {
-    "materia": "Historia y geopolítica",
-    "pilar": "mundo",
-    "epoca": "1867",
-    "titulo": "Alaska costó unos dos centavos por acre",
-    "dato": "En 1867, Estados Unidos compró Alaska a Rusia por 7.2 millones de dólares. Sale a unos dos centavos de dólar por acre.",
-    "explicacion": "El tratado se firmó el 30 de marzo de 1867, impulsado por el secretario de Estado **William H. Seward**. Rusia quería vender: el territorio era difícil de defender, sobre todo frente a Gran Bretaña, y daba pocas ganancias. Estados Unidos pagó con una orden del Tesoro al año siguiente.\n\nSe repite que todo el país se burló de la compra, la «locura de Seward». El apodo existió, pero el Departamento de Estado de EE. UU. señala que buena parte de la prensa la apoyó. Décadas después, el oro del Klondike y luego el petróleo convirtieron la compra en una de las mejores de la historia.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Treasury_Warrant_in_the_Amount_of_%247.2_Million_for_the_Purchase_of_Alaska,_08-01-1868,_Page_2_of_2_(5286025762).jpg?width=900",
-     "alt": "Documento antiguo del Tesoro de EE. UU. con firmas y sellos",
-     "pie": "La orden del Tesoro por 7.2 millones de dólares para pagar Alaska, 1868",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Office of the Historian, U.S. Department of State: Purchase of Alaska, 1867",
-     "url": "https://history.state.gov/milestones/1866-1898/alaska-purchase"
-    },
-    "wiki": "Compra de Alaska",
     "claves": [
      {
       "nombre": "William H. Seward",
@@ -2416,11 +2218,28 @@
       "wiki": "Compañía ruso-americana"
      }
     ],
+    "dato": "En 1867, Estados Unidos compró Alaska a Rusia por 7.2 millones de dólares. Sale a unos dos centavos de dólar por acre.",
+    "epoca": "1867",
+    "explicacion": "El tratado se firmó el 30 de marzo de 1867, impulsado por el secretario de Estado **William H. Seward**. Rusia quería vender: el territorio era difícil de defender, sobre todo frente a Gran Bretaña, y daba pocas ganancias. Estados Unidos pagó con una orden del Tesoro al año siguiente.\n\nSe repite que todo el país se burló de la compra, la «locura de Seward». El apodo existió, pero el Departamento de Estado de EE. UU. señala que buena parte de la prensa la apoyó. Décadas después, el oro del Klondike y luego el petróleo convirtieron la compra en una de las mejores de la historia.",
+    "fecha": "2026-11-08",
+    "fuente": {
+     "nombre": "Office of the Historian, U.S. Department of State: Purchase of Alaska, 1867",
+     "url": "https://history.state.gov/milestones/1866-1898/alaska-purchase"
+    },
+    "imagen": {
+     "alt": "Documento antiguo del Tesoro de EE. UU. con firmas y sellos",
+     "credito": "Wikimedia Commons",
+     "pie": "La orden del Tesoro por 7.2 millones de dólares para pagar Alaska, 1868",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Treasury_Warrant_in_the_Amount_of_%247.2_Million_for_the_Purchase_of_Alaska,_08-01-1868,_Page_2_of_2_(5286025762).jpg?width=900"
+    },
+    "materia": "Historia y geopolítica",
+    "pilar": "mundo",
     "repaso": {
      "pregunta": "¿Por cuánto compró Estados Unidos Alaska y en qué año?",
      "respuesta": "Por 7.2 millones de dólares, en 1867; unos dos centavos por acre."
     },
-    "fecha": "2026-11-08"
+    "titulo": "Alaska costó unos dos centavos por acre",
+    "wiki": "Compra de Alaska"
    },
    {
     "claves": [
@@ -2563,62 +2382,10 @@
     },
     "titulo": "Seis horas de una guerra que ya había terminado",
     "wiki": "Armisticio del 11 de noviembre de 1918"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Sultanato de Zanzíbar",
-      "quien": "Estado de la costa oriental de África, rico por el comercio de clavo y esclavos, bajo influencia británica.",
-      "wiki": "Sultanato de Zanzíbar"
-     },
-     {
-      "nombre": "Khalid bin Barghash",
-      "quien": "Pretendiente que tomó el palacio sin permiso británico y huyó al consulado alemán.",
-      "wiki": "Khalid ibn Barghash de Zanzíbar"
-     },
-     {
-      "nombre": "Imperio británico",
-      "quien": "El mayor imperio de su tiempo; su flota decidía guerras como esta en minutos.",
-      "wiki": "Imperio británico"
-     }
-    ],
-    "dato": "La guerra más corta registrada duró entre 38 y 45 minutos. Fue entre Gran Bretaña y Zanzíbar, la mañana del 27 de agosto de 1896.",
-    "epoca": "1896",
-    "explicacion": "Al morir el sultán, Khalid bin Barghash tomó el poder sin el visto bueno británico. Londres le dio un ultimátum: dejar el palacio antes de las 9:00. A las 9:02 los barcos británicos abrieron fuego; hacia las 9:40 la bandera del palacio había caído.\n\nEl saldo fue desigual: unos 500 muertos o heridos del lado de Zanzíbar y un solo marinero británico herido. Khalid huyó al consulado alemán. Es un recordatorio de cómo funcionaba el poder imperial: la guerra se decidía antes del primer disparo.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Anglo-Zanzibar War",
-     "url": "https://en.wikipedia.org/wiki/Anglo-Zanzibar_War"
-    },
-    "materia": "Historia y geopolítica",
-    "pilar": "mundo",
-    "repaso": {
-     "pregunta": "¿Cuánto duró la guerra anglo-zanzibariana de 1896?",
-     "respuesta": "Entre 38 y 45 minutos, la mañana del 27 de agosto de 1896."
-    },
-    "titulo": "Una guerra de 38 minutos",
-    "wiki": "Guerra anglo-zanzibariana"
    }
   ],
   "IA y el futuro": [
    {
-    "materia": "IA y el futuro",
-    "pilar": "futuro",
-    "epoca": "1958",
-    "titulo": "En 1958 prometieron una máquina consciente",
-    "dato": "En julio de 1958, el New York Times informó que la Marina de EE. UU. esperaba que una máquina llegara a caminar, hablar, ver, escribir, reproducirse y ser consciente de su existencia. Era el perceptrón.",
-    "explicacion": "El psicólogo **Frank Rosenblatt** presentó un programa en una computadora IBM 704 que aprendía a distinguir si una marca estaba a la izquierda o a la derecha después de unos 50 intentos. Era una versión muy simple de una neurona artificial: ajustaba sus «pesos» cada vez que se equivocaba. La promesa periodística fue mucho más allá de lo que la máquina hacía.\n\nEn 1969, Marvin Minsky y Seymour Papert publicaron *Perceptrons*, un libro que mostró sus límites, y el financiamiento se enfrió. Pero la idea sobrevivió: las [[redes neuronales|Programas formados por muchas neuronas artificiales conectadas que aprenden ajustando sus conexiones con ejemplos.]] de la IA actual son descendientes directas del perceptrón.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mark_I_Perceptron,_Figure_2_of_operator's_manual.png?width=900",
-     "alt": "Fotografía de una gran máquina con paneles de cables",
-     "pie": "El Mark I Perceptron, en una figura de su manual de operación",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "The New York Times: New Navy Device Learns by Doing (8 jul 1958)",
-     "url": "https://www.nytimes.com/1958/07/08/archives/new-navy-device-learns-by-doing-psychologist-shows-embryo-of.html"
-    },
-    "wiki": "Perceptrón",
     "claves": [
      {
       "nombre": "Frank Rosenblatt",
@@ -2636,11 +2403,28 @@
       "wiki": "Red neuronal artificial"
      }
     ],
+    "dato": "En julio de 1958, el New York Times informó que la Marina de EE. UU. esperaba que una máquina llegara a caminar, hablar, ver, escribir, reproducirse y ser consciente de su existencia. Era el perceptrón.",
+    "epoca": "1958",
+    "explicacion": "El psicólogo **Frank Rosenblatt** presentó un programa en una computadora IBM 704 que aprendía a distinguir si una marca estaba a la izquierda o a la derecha después de unos 50 intentos. Era una versión muy simple de una neurona artificial: ajustaba sus «pesos» cada vez que se equivocaba. La promesa periodística fue mucho más allá de lo que la máquina hacía.\n\nEn 1969, Marvin Minsky y Seymour Papert publicaron *Perceptrons*, un libro que mostró sus límites, y el financiamiento se enfrió. Pero la idea sobrevivió: las [[redes neuronales|Programas formados por muchas neuronas artificiales conectadas que aprenden ajustando sus conexiones con ejemplos.]] de la IA actual son descendientes directas del perceptrón.",
+    "fecha": "2026-11-08",
+    "fuente": {
+     "nombre": "The New York Times: New Navy Device Learns by Doing (8 jul 1958)",
+     "url": "https://www.nytimes.com/1958/07/08/archives/new-navy-device-learns-by-doing-psychologist-shows-embryo-of.html"
+    },
+    "imagen": {
+     "alt": "Fotografía de una gran máquina con paneles de cables",
+     "credito": "Wikimedia Commons",
+     "pie": "El Mark I Perceptron, en una figura de su manual de operación",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mark_I_Perceptron,_Figure_2_of_operator's_manual.png?width=900"
+    },
+    "materia": "IA y el futuro",
+    "pilar": "futuro",
     "repaso": {
      "pregunta": "¿Qué era el perceptrón de 1958?",
      "respuesta": "Un modelo simple de neurona artificial creado por Frank Rosenblatt que aprendía de sus errores; antecesor de las redes neuronales actuales."
     },
-    "fecha": "2026-11-08"
+    "titulo": "En 1958 prometieron una máquina consciente",
+    "wiki": "Perceptrón"
    },
    {
     "claves": [
@@ -2788,36 +2572,6 @@
     },
     "titulo": "La secretaria que pidió quedarse a solas con la máquina",
     "wiki": "Bot conversacional"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Garry Kasparov",
-      "quien": "Campeón mundial de ajedrez derrotado en 1997",
-      "wiki": "Garri Kaspárov"
-     },
-     {
-      "nombre": "Aprendizaje automático",
-      "quien": "Forma de IA que aprende de datos en lugar de reglas escritas",
-      "wiki": "Aprendizaje automático"
-     }
-    ],
-    "dato": "En 1997, Deep Blue de IBM venció a Garry Kasparov en un match completo. Analizaba unos 200 millones de posiciones por segundo, pero no 'entendía' el juego como un humano.",
-    "epoca": "1997",
-    "explicacion": "Deep Blue usaba fuerza de cálculo y reglas escritas por expertos: buscar muchas jugadas a futuro y evaluar cada posición con una fórmula. Kasparov acusó a IBM de hacer trampa por una jugada que le pareció demasiado humana; IBM negó la revancha y desmontó la máquina.\n\nLa IA de hoy funciona distinto: aprende patrones de enormes cantidades de datos en lugar de seguir reglas escritas. Por eso puede sorprender en tareas abiertas, pero también equivocarse con seguridad.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Deep Blue",
-     "url": "https://es.wikipedia.org/wiki/Deep_Blue_(computadora)"
-    },
-    "materia": "IA y el futuro",
-    "pilar": "futuro",
-    "repaso": {
-     "pregunta": "¿En qué se diferencia Deep Blue de la IA moderna?",
-     "respuesta": "Deep Blue calculaba con reglas escritas; la IA moderna aprende patrones de datos."
-    },
-    "titulo": "La máquina que ganó sin entender ajedrez",
-    "wiki": "Deep Blue (computadora)"
    }
   ],
   "Inversión y finanzas personales": [
@@ -2941,39 +2695,44 @@
     },
     "titulo": "La regla del 72 tiene más de 500 años",
     "wiki": "Interés compuesto"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Bolsa de Ámsterdam",
-      "quien": "Considerada la primera bolsa de valores moderna",
-      "wiki": "Bolsa de Ámsterdam"
-     },
-     {
-      "nombre": "Acción",
-      "quien": "Parte de la propiedad de una empresa",
-      "wiki": "Acción (finanzas)"
-     }
-    ],
-    "dato": "En 1602, la Compañía Neerlandesa de las Indias Orientales vendió participaciones al público en Ámsterdam. Cualquiera podía comprar, y esas acciones se revendían: así nació la bolsa moderna.",
-    "epoca": "1602",
-    "explicacion": "Los viajes a Asia eran carísimos y arriesgados; un barco podía perderse. Repartir la propiedad entre miles de inversionistas diluía el riesgo y juntaba capital enorme. Como no se podía retirar el dinero fácilmente, quien quería salir vendía su parte a otro.\n\nEse mercado secundario es la idea central de toda bolsa: comprar y vender partes de una empresa sin tocar su caja. La misma compañía es también un ejemplo de los abusos de poder económico y colonial de su época.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Compañía Neerlandesa de las Indias Orientales",
-     "url": "https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_Neerlandesa_de_las_Indias_Orientales"
-    },
-    "materia": "Inversión y finanzas personales",
-    "pilar": "patrimonio",
-    "repaso": {
-     "pregunta": "¿Qué innovación financiera nació con la VOC en 1602?",
-     "respuesta": "Acciones abiertas al público que se podían revender: la bolsa moderna."
-    },
-    "titulo": "La primera acción que cualquiera podía comprar",
-    "wiki": "Compañía Neerlandesa de las Indias Orientales"
    }
   ],
   "Liderazgo e influencia": [
+   {
+    "claves": [
+     {
+      "nombre": "Ecuos",
+      "quien": "Pueblo de los montes al este de Roma, enemigo frecuente de la república temprana.",
+      "wiki": "Ecuos"
+     },
+     {
+      "nombre": "George Washington",
+      "quien": "Lo llamaron «el Cincinato de Occidente» por dejar el mando del ejército y, después, la presidencia.",
+      "wiki": "George Washington"
+     },
+     {
+      "nombre": "Cincinnati",
+      "quien": "Ciudad de Ohio nombrada por la sociedad que honraba a Cincinato.",
+      "wiki": "Cincinnati"
+     }
+    ],
+    "dato": "Roma le dio a Cincinato poder absoluto para salvar a un ejército rodeado. Ganó, renunció en unos quince días y regresó a su granja. Una ciudad de Estados Unidos lleva su nombre.",
+    "epoca": "458 a. C.",
+    "explicacion": "En el 458 a. C., los ecuos tenían atrapado a un ejército romano en el monte Álgido. El Senado nombró [[dictador|En la Roma republicana, magistrado con poder total por un plazo máximo de seis meses, nombrado solo en emergencias.]] a Cincinato, a quien encontraron arando su campo. Rescató al ejército y, según Tito Livio, renunció al decimosexto día, aunque podía quedarse seis meses.\n\nPor eso se volvió el modelo del líder que suelta el poder. Los oficiales de Washington fundaron en 1783 la Sociedad de los Cincinnati, y de ella tomó su nombre la ciudad de Cincinnati, Ohio. Renunciar a tiempo también es liderazgo.",
+    "fecha": "2026-11-09",
+    "fuente": {
+     "nombre": "George Washington's Mount Vernon: Cincinnatus",
+     "url": "https://www.mountvernon.org/digital-encyclopedia/article/cincinnatus"
+    },
+    "materia": "Liderazgo e influencia",
+    "pilar": "caracter",
+    "repaso": {
+     "pregunta": "¿Por qué Cincinato se volvió símbolo de liderazgo?",
+     "respuesta": "Porque recibió poder absoluto, resolvió la emergencia y renunció en unos quince días para volver a su granja."
+    },
+    "titulo": "El dictador que volvió a su arado",
+    "wiki": "Cincinato"
+   },
    {
     "claves": [
      {
@@ -3192,23 +2951,6 @@
   ],
   "Literatura y mitología": [
    {
-    "materia": "Literatura y mitología",
-    "pilar": "cultura",
-    "epoca": "1709",
-    "titulo": "Aladino no estaba en Las mil y una noches",
-    "dato": "Los cuentos de Aladino y de Alí Babá no aparecen en ningún manuscrito árabe antiguo de Las mil y una noches. Los agregó un francés en el siglo XVIII, a partir de lo que le contó un joven sirio.",
-    "explicacion": "Antoine Galland, orientalista francés, tradujo las *Noches* al francés entre 1704 y 1717. En 1709 conoció en París a **Hanna Diyab**, un joven cristiano maronita de Alepo, que le narró varios cuentos de memoria. Galland los anotó en su diario y los incluyó en sus volúmenes. Entre ellos estaban Aladino y Alí Babá.\n\nEsos cuentos, hoy los más famosos de la colección, son lo que los especialistas llaman [[cuentos huérfanos|Historias incluidas en Las mil y una noches de las que no se conoce un manuscrito árabe original anterior a la versión francesa.]]. Por casi tres siglos, a Diyab casi no se le dio crédito. Su autobiografía se publicó en inglés en 2021.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Galand_Antoine.jpg?width=900",
-     "alt": "Retrato antiguo de un hombre con peluca",
-     "pie": "Antoine Galland, traductor francés de Las mil y una noches",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Words Without Borders: Tales of Aladdin and their tellers, from Aleppo to Paris (Paulo Lemos Horta)",
-     "url": "https://www.wordswithoutborders.org/dispatches/article/tales-of-aladdin-and-their-tellers-from-aleppo-to-paris-paulo-lemos-horta"
-    },
-    "wiki": "Las mil y una noches",
     "claves": [
      {
       "nombre": "Aladino",
@@ -3226,11 +2968,28 @@
       "wiki": "Literatura árabe"
      }
     ],
+    "dato": "Los cuentos de Aladino y de Alí Babá no aparecen en ningún manuscrito árabe antiguo de Las mil y una noches. Los agregó un francés en el siglo XVIII, a partir de lo que le contó un joven sirio.",
+    "epoca": "1709",
+    "explicacion": "Antoine Galland, orientalista francés, tradujo las *Noches* al francés entre 1704 y 1717. En 1709 conoció en París a **Hanna Diyab**, un joven cristiano maronita de Alepo, que le narró varios cuentos de memoria. Galland los anotó en su diario y los incluyó en sus volúmenes. Entre ellos estaban Aladino y Alí Babá.\n\nEsos cuentos, hoy los más famosos de la colección, son lo que los especialistas llaman [[cuentos huérfanos|Historias incluidas en Las mil y una noches de las que no se conoce un manuscrito árabe original anterior a la versión francesa.]]. Por casi tres siglos, a Diyab casi no se le dio crédito. Su autobiografía se publicó en inglés en 2021.",
+    "fecha": "2026-11-08",
+    "fuente": {
+     "nombre": "Words Without Borders: Tales of Aladdin and their tellers, from Aleppo to Paris (Paulo Lemos Horta)",
+     "url": "https://www.wordswithoutborders.org/dispatches/article/tales-of-aladdin-and-their-tellers-from-aleppo-to-paris-paulo-lemos-horta"
+    },
+    "imagen": {
+     "alt": "Retrato antiguo de un hombre con peluca",
+     "credito": "Wikimedia Commons",
+     "pie": "Antoine Galland, traductor francés de Las mil y una noches",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Galand_Antoine.jpg?width=900"
+    },
+    "materia": "Literatura y mitología",
+    "pilar": "cultura",
     "repaso": {
      "pregunta": "¿Quién le contó a Galland los cuentos de Aladino y Alí Babá?",
      "respuesta": "Hanna Diyab, un joven de Alepo, en París, en 1709."
     },
-    "fecha": "2026-11-08"
+    "titulo": "Aladino no estaba en Las mil y una noches",
+    "wiki": "Las mil y una noches"
    },
    {
     "claves": [
@@ -3673,23 +3432,6 @@
   ],
   "Negocios y estrategia": [
    {
-    "materia": "Negocios y estrategia",
-    "pilar": "patrimonio",
-    "epoca": "1968",
-    "titulo": "El Post-it nació de un pegamento fallido",
-    "dato": "En 1968, un químico de 3M buscaba un adhesivo muy fuerte y obtuvo uno que apenas pegaba. Tardó doce años en convertirse en producto.",
-    "explicacion": "Spencer Silver creó un adhesivo que se podía despegar y volver a pegar. Nadie en 3M sabía para qué servía. En 1974, su colega Art Fry, que cantaba en el coro de su iglesia, se cansó de que los separadores se cayeran de su himnario. Usó el pegamento de Silver para hacer separadores que no se caían ni rompían la hoja.\n\nLa primera prueba de mercado, en 1977, salió mal: la gente no entendía el producto sin probarlo. 3M cambió la estrategia y regaló muestras masivas en Boise, Idaho. Al probarlo, la gente lo volvió a comprar. El lanzamiento nacional llegó en 1980. Lección: algunos productos no se explican; se prueban.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Post-it.jpg?width=900",
-     "alt": "Notas adhesivas amarillas",
-     "pie": "Notas Post-it",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Post-it (3M): History Timeline",
-     "url": "https://post-it.com/3M/en_US/post-it/contact-us/about-us/"
-    },
-    "wiki": "Post-it",
     "claves": [
      {
       "nombre": "3M",
@@ -3702,11 +3444,28 @@
       "wiki": "Adhesivo"
      }
     ],
+    "dato": "En 1968, un químico de 3M buscaba un adhesivo muy fuerte y obtuvo uno que apenas pegaba. Tardó doce años en convertirse en producto.",
+    "epoca": "1968",
+    "explicacion": "Spencer Silver creó un adhesivo que se podía despegar y volver a pegar. Nadie en 3M sabía para qué servía. En 1974, su colega Art Fry, que cantaba en el coro de su iglesia, se cansó de que los separadores se cayeran de su himnario. Usó el pegamento de Silver para hacer separadores que no se caían ni rompían la hoja.\n\nLa primera prueba de mercado, en 1977, salió mal: la gente no entendía el producto sin probarlo. 3M cambió la estrategia y regaló muestras masivas en Boise, Idaho. Al probarlo, la gente lo volvió a comprar. El lanzamiento nacional llegó en 1980. Lección: algunos productos no se explican; se prueban.",
+    "fecha": "2026-11-08",
+    "fuente": {
+     "nombre": "Post-it (3M): History Timeline",
+     "url": "https://post-it.com/3M/en_US/post-it/contact-us/about-us/"
+    },
+    "imagen": {
+     "alt": "Notas adhesivas amarillas",
+     "credito": "Wikimedia Commons",
+     "pie": "Notas Post-it",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Post-it.jpg?width=900"
+    },
+    "materia": "Negocios y estrategia",
+    "pilar": "patrimonio",
     "repaso": {
      "pregunta": "¿Qué hizo que el Post-it por fin se vendiera?",
      "respuesta": "Regalar muestras para que la gente lo probara: en la prueba de Boise, quien lo usaba volvía a comprarlo. Se lanzó en todo EE. UU. en 1980."
     },
-    "fecha": "2026-11-08"
+    "titulo": "El Post-it nació de un pegamento fallido",
+    "wiki": "Post-it"
    },
    {
     "claves": [
@@ -3843,23 +3602,6 @@
   ],
   "Oficios del lujo y estilo": [
    {
-    "materia": "Oficios del lujo y estilo",
-    "pilar": "gusto",
-    "epoca": "1845",
-    "titulo": "El azul de Tiffany tiene año de nacimiento",
-    "dato": "El azul de las cajas de Tiffany es un color registrado como marca. Pantone lo fabrica en exclusiva con el nombre «1837 Blue», por el año en que se fundó la casa.",
-    "explicacion": "Tiffany & Co. abrió en Nueva York en 1837. En 1845 usó ese tono en la portada de su *Blue Book*, el catálogo anual de joyas, y desde entonces lo volvió su firma: cajas, bolsas, anuncios. Una casa de lujo rara vez es dueña de un color. Tiffany lo es: lo registró como marca y Pantone no lo vende al público.\n\nDe Charles Lewis Tiffany, el fundador, se cuenta una regla: la caja no se vende sola; solo sale de la tienda con algo que se compró dentro. Así, la caja dejó de ser empaque y se volvió una señal. Para una marca premium es una lección clara: un elemento visual repetido por décadas puede valer tanto como el producto.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiffany_blue_box_2.jpg?width=900",
-     "alt": "Caja azul turquesa con listón blanco",
-     "pie": "La caja azul de Tiffany",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Wikipedia (en): Tiffany Blue",
-     "url": "https://en.wikipedia.org/wiki/Tiffany_Blue"
-    },
-    "wiki": "Tiffany & Co.",
     "claves": [
      {
       "nombre": "Charles Lewis Tiffany",
@@ -3872,11 +3614,28 @@
       "wiki": "Pantone"
      }
     ],
+    "dato": "El azul de las cajas de Tiffany es un color registrado como marca. Pantone lo fabrica en exclusiva con el nombre «1837 Blue», por el año en que se fundó la casa.",
+    "epoca": "1845",
+    "explicacion": "Tiffany & Co. abrió en Nueva York en 1837. En 1845 usó ese tono en la portada de su *Blue Book*, el catálogo anual de joyas, y desde entonces lo volvió su firma: cajas, bolsas, anuncios. Una casa de lujo rara vez es dueña de un color. Tiffany lo es: lo registró como marca y Pantone no lo vende al público.\n\nDe Charles Lewis Tiffany, el fundador, se cuenta una regla: la caja no se vende sola; solo sale de la tienda con algo que se compró dentro. Así, la caja dejó de ser empaque y se volvió una señal. Para una marca premium es una lección clara: un elemento visual repetido por décadas puede valer tanto como el producto.",
+    "fecha": "2026-11-08",
+    "fuente": {
+     "nombre": "Wikipedia (en): Tiffany Blue",
+     "url": "https://en.wikipedia.org/wiki/Tiffany_Blue"
+    },
+    "imagen": {
+     "alt": "Caja azul turquesa con listón blanco",
+     "credito": "Wikimedia Commons",
+     "pie": "La caja azul de Tiffany",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiffany_blue_box_2.jpg?width=900"
+    },
+    "materia": "Oficios del lujo y estilo",
+    "pilar": "gusto",
     "repaso": {
      "pregunta": "¿Por qué el color de Tiffany se llama «1837 Blue»?",
      "respuesta": "Por el año en que se fundó la casa en Nueva York. Es un color registrado que Pantone fabrica en exclusiva."
     },
-    "fecha": "2026-11-08"
+    "titulo": "El azul de Tiffany tiene año de nacimiento",
+    "wiki": "Tiffany & Co."
    },
    {
     "claves": [
@@ -4191,17 +3950,6 @@
   ],
   "Relaciones y vida social": [
    {
-    "materia": "Relaciones y vida social",
-    "pilar": "caracter",
-    "epoca": "2018",
-    "titulo": "Le caes mejor de lo que crees",
-    "dato": "Después de conversar con un desconocido, la mayoría cree que cayó peor de lo que realmente cayó. Los psicólogos lo llamaron la «brecha de agrado».",
-    "explicacion": "En 2018, Erica Boothby, Gus Cooney, Gillian Sandstrom y Margaret Clark publicaron en *Psychological Science* varios experimentos. Pusieron a desconocidos a platicar y luego preguntaron a cada uno cuánto le había gustado el otro y cuánto creía haberle gustado. Una y otra vez, la gente subestimó cuánto agradó. En un estudio con compañeros de cuarto universitarios, la brecha duró meses.\n\nLa causa probable: al salir de una plática repasamos nuestros errores, lo que dijimos mal, los silencios. El otro casi no se fijó en eso. Saberlo sirve antes de una junta o un evento de *networking*: la impresión que dejaste suele ser mejor que la que te llevas.",
-    "fuente": {
-     "nombre": "Boothby, Cooney, Sandstrom y Clark (2018), The Liking Gap in Conversations, Psychological Science (PDF, Wharton)",
-     "url": "https://faculty.wharton.upenn.edu/wp-content/uploads/2020/05/The-Liking-Gap-in-Conversations.pdf"
-    },
-    "wiki": "Conversación",
     "claves": [
      {
       "nombre": "Psicología social",
@@ -4214,11 +3962,22 @@
       "wiki": "Sesgo cognitivo"
      }
     ],
+    "dato": "Después de conversar con un desconocido, la mayoría cree que cayó peor de lo que realmente cayó. Los psicólogos lo llamaron la «brecha de agrado».",
+    "epoca": "2018",
+    "explicacion": "En 2018, Erica Boothby, Gus Cooney, Gillian Sandstrom y Margaret Clark publicaron en *Psychological Science* varios experimentos. Pusieron a desconocidos a platicar y luego preguntaron a cada uno cuánto le había gustado el otro y cuánto creía haberle gustado. Una y otra vez, la gente subestimó cuánto agradó. En un estudio con compañeros de cuarto universitarios, la brecha duró meses.\n\nLa causa probable: al salir de una plática repasamos nuestros errores, lo que dijimos mal, los silencios. El otro casi no se fijó en eso. Saberlo sirve antes de una junta o un evento de *networking*: la impresión que dejaste suele ser mejor que la que te llevas.",
+    "fecha": "2026-11-08",
+    "fuente": {
+     "nombre": "Boothby, Cooney, Sandstrom y Clark (2018), The Liking Gap in Conversations, Psychological Science (PDF, Wharton)",
+     "url": "https://faculty.wharton.upenn.edu/wp-content/uploads/2020/05/The-Liking-Gap-in-Conversations.pdf"
+    },
+    "materia": "Relaciones y vida social",
+    "pilar": "caracter",
     "repaso": {
      "pregunta": "¿Qué es la «brecha de agrado»?",
      "respuesta": "La tendencia a creer que le caímos peor a alguien de lo que en realidad le caímos después de conversar."
     },
-    "fecha": "2026-11-08"
+    "titulo": "Le caes mejor de lo que crees",
+    "wiki": "Conversación"
    },
    {
     "claves": [
@@ -4512,6 +4271,36 @@
    {
     "claves": [
      {
+      "nombre": "Richmond",
+      "quien": "Ciudad de Virginia donde Henry habló, en la iglesia de San Juan.",
+      "wiki": "Richmond (Virginia)"
+     },
+     {
+      "nombre": "Padres fundadores",
+      "quien": "Los líderes de la independencia de EE. UU.; Henry fue uno de sus oradores más encendidos.",
+      "wiki": "Padres fundadores de los Estados Unidos"
+     }
+    ],
+    "dato": "Nadie anotó el discurso más famoso de la independencia estadounidense cuando Patrick Henry lo dijo, en 1775. El texto que conocemos lo publicó un biógrafo en 1817.",
+    "epoca": "1775",
+    "explicacion": "El 23 de marzo de 1775, en una iglesia de Richmond, Henry pidió a Virginia armarse contra Inglaterra. No hubo taquígrafo. En 1817, William Wirt reconstruyó el discurso para su biografía, sobre todo con los recuerdos del juez St. George Tucker, que estuvo presente.\n\nDurante siglo y medio el texto se aceptó como auténtico. Desde los años setenta, varios historiadores dudan de cuánto es de Henry y cuánto de Wirt, incluida la frase final. Lección: muchas frases célebres son, en parte, obra de quien las contó después.",
+    "fecha": "2026-11-09",
+    "fuente": {
+     "nombre": "World History Encyclopedia: Give Me Liberty or Give Me Death",
+     "url": "https://www.worldhistory.org/article/2350/give-me-liberty-or-give-me-death"
+    },
+    "materia": "Retórica y oratoria",
+    "pilar": "mente",
+    "repaso": {
+     "pregunta": "¿Quién publicó el texto del discurso «Dadme la libertad o dadme la muerte» y cuándo?",
+     "respuesta": "El biógrafo William Wirt, en 1817, 42 años después, con recuerdos de testigos."
+    },
+    "titulo": "«Dadme la libertad o dadme la muerte» se publicó 42 años después",
+    "wiki": "Patrick Henry"
+   },
+   {
+    "claves": [
+     {
       "nombre": "Plutarco",
       "quien": "Biógrafo griego (c. 46–120 d. C.) que escribió las *Vidas paralelas*.",
       "wiki": "Plutarco"
@@ -4720,6 +4509,41 @@
    }
   ],
   "Salud y longevidad": [
+   {
+    "claves": [
+     {
+      "nombre": "Alexander Fleming",
+      "quien": "Médico escocés que descubrió la penicilina en 1928.",
+      "wiki": "Alexander Fleming"
+     },
+     {
+      "nombre": "Howard Walter Florey",
+      "quien": "Patólogo australiano que, en Oxford, convirtió la penicilina en tratamiento.",
+      "wiki": "Howard Walter Florey"
+     },
+     {
+      "nombre": "Ernst Boris Chain",
+      "quien": "Bioquímico que logró purificarla junto con Florey.",
+      "wiki": "Ernst Boris Chain"
+     }
+    ],
+    "dato": "El 3 de septiembre de 1928, Alexander Fleming regresó de vacaciones a su laboratorio de Londres y encontró un moho que mataba a las bacterias de una placa olvidada.",
+    "epoca": "1928",
+    "explicacion": "Fleming estudiaba estafilococos en el hospital St. Mary's. Al revisar las placas que había dejado, vio que alrededor de un moho, *Penicillium notatum*, las bacterias habían desaparecido. Llamó «penicilina» a la sustancia. El descuido fue útil porque él supo mirar.\n\nPero el hallazgo casi se queda en curiosidad: Fleming no logró purificarla en cantidad. Más de una década después, Howard Florey y Ernst Chain, en Oxford, la convirtieron en medicamento. Los tres compartieron el Nobel en 1945. Descubrir no basta; alguien tiene que volverlo útil.",
+    "fecha": "2026-11-09",
+    "fuente": {
+     "nombre": "American Chemical Society: Discovery and Development of Penicillin",
+     "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html"
+    },
+    "materia": "Salud y longevidad",
+    "pilar": "cuerpo",
+    "repaso": {
+     "pregunta": "¿Quiénes convirtieron la penicilina en medicamento?",
+     "respuesta": "Howard Florey y Ernst Chain, en Oxford, más de diez años después del hallazgo de Fleming."
+    },
+    "titulo": "La penicilina apareció al volver de vacaciones",
+    "wiki": "Penicilina"
+   },
    {
     "claves": [
      {
@@ -4953,41 +4777,6 @@
     },
     "titulo": "El médico que se bebió una bacteria",
     "wiki": "Helicobacter pylori"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Fiebre puerperal",
-      "quien": "Infección después del parto que mataba a miles de madres en los hospitales del siglo XIX.",
-      "wiki": "Sepsis puerperal"
-     },
-     {
-      "nombre": "Hospital General de Viena",
-      "quien": "El hospital donde Semmelweis comparó las dos salas de partos y encontró la diferencia.",
-      "wiki": "Hospital general de Viena"
-     },
-     {
-      "nombre": "Teoría microbiana",
-      "quien": "La idea de que los microbios causan enfermedades; Pasteur y Lister la probaron años después.",
-      "wiki": "Teoría microbiana de la enfermedad"
-     }
-    ],
-    "dato": "En abril de 1847 moría el 18.3% de las madres en una sala de partos de Viena. Ignaz Semmelweis ordenó lavarse las manos con cal clorada y en junio la cifra bajó a 2.2%.",
-    "epoca": "1847",
-    "explicacion": "La sala la atendían médicos que llegaban directo de hacer autopsias; la de al lado, parteras, y morían muchas menos mujeres. Cuando un colega de Semmelweis murió tras cortarse con un bisturí en una autopsia, con síntomas iguales a los de las madres, entendió que algo pasaba de los cadáveres a las pacientes.\n\nAún no existía la teoría de los gérmenes y muchos colegas lo rechazaron. Murió en 1865 en un asilo, de una infección. Pasteur y Lister le darían la razón años después. La lección: tener los datos no basta si no tienes una explicación que convenza.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Ignaz Semmelweis",
-     "url": "https://en.wikipedia.org/wiki/Ignaz_Semmelweis"
-    },
-    "materia": "Salud y longevidad",
-    "pilar": "cuerpo",
-    "repaso": {
-     "pregunta": "¿Qué cambió Semmelweis en 1847 y con qué resultado?",
-     "respuesta": "Impuso lavarse las manos con cal clorada; la mortalidad de madres bajó de 18.3% en abril a 2.2% en junio."
-    },
-    "titulo": "El médico que pidió lavarse las manos",
-    "wiki": "Ignaz Semmelweis"
    }
   ]
  }

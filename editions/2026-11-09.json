@@ -1,0 +1,889 @@
+{
+ "calentamiento": [
+  {
+   "origen": "Edición #18",
+   "pregunta": "En la cata de París de 1976, ¿qué hizo que el resultado pesara tanto?",
+   "respuesta": "Que fue a ciegas y los jueces eran franceses de primer nivel. Nadie podía decir que la etiqueta los había influido."
+  },
+  {
+   "origen": "Edición #18",
+   "pregunta": "¿Dormir de más el domingo repara lo que no dormiste entre semana?",
+   "respuesta": "Solo en parte. El estudio de Colorado (2019) encontró que no evitó el daño a la sensibilidad a la insulina. Lo que más cuenta es la regularidad."
+  },
+  {
+   "origen": "Edición #18",
+   "pregunta": "¿Cómo gana dinero Fortnite si el juego es gratis?",
+   "respuesta": "Vendiendo cosas que no cambian quién gana: trajes, bailes y pases de temporada. Producir un traje más casi no cuesta."
+  }
+ ],
+ "disponibleDesde": "2026-11-09T08:00:00-06:00",
+ "fecha": "2026-11-09",
+ "frances": {
+  "frase": "Il faut laisser du temps au temps.",
+  "pronunciacion": "il fo le-SÉ dü TAN o TAN",
+  "repaso": {
+   "pregunta": "¿Cómo se dice en francés «hay que darle tiempo al tiempo»?",
+   "respuesta": "« Il faut laisser du temps au temps. »"
+  },
+  "traduccion": "Hay que darle tiempo al tiempo.",
+  "uso": "Cultura. Se dice cuando algo necesita madurar y apresurarlo sería un error: un vino, una negociación, una relación. En Francia se asocia a François Mitterrand, que la popularizó en los años ochenta; en español es «dar tiempo al tiempo», que ya usaba Cervantes.",
+  "variante": "Más corta y coloquial: « Patience, ça viendra. » (Paciencia, ya llegará.)"
+ },
+ "hechos": [
+  {
+   "claves": [
+    {
+     "nombre": "Richmond",
+     "quien": "Ciudad de Virginia donde Henry habló, en la iglesia de San Juan.",
+     "wiki": "Richmond (Virginia)"
+    },
+    {
+     "nombre": "Padres fundadores",
+     "quien": "Los líderes de la independencia de EE. UU.; Henry fue uno de sus oradores más encendidos.",
+     "wiki": "Padres fundadores de los Estados Unidos"
+    }
+   ],
+   "dato": "Nadie anotó el discurso más famoso de la independencia estadounidense cuando Patrick Henry lo dijo, en 1775. El texto que conocemos lo publicó un biógrafo en 1817.",
+   "epoca": "1775",
+   "explicacion": "El 23 de marzo de 1775, en una iglesia de Richmond, Henry pidió a Virginia armarse contra Inglaterra. No hubo taquígrafo. En 1817, William Wirt reconstruyó el discurso para su biografía, sobre todo con los recuerdos del juez St. George Tucker, que estuvo presente.\n\nDurante siglo y medio el texto se aceptó como auténtico. Desde los años setenta, varios historiadores dudan de cuánto es de Henry y cuánto de Wirt, incluida la frase final. Lección: muchas frases célebres son, en parte, obra de quien las contó después.",
+   "fuente": {
+    "nombre": "World History Encyclopedia: Give Me Liberty or Give Me Death",
+    "url": "https://www.worldhistory.org/article/2350/give-me-liberty-or-give-me-death"
+   },
+   "materia": "Retórica y oratoria",
+   "pilar": "mente",
+   "repaso": {
+    "pregunta": "¿Quién publicó el texto del discurso «Dadme la libertad o dadme la muerte» y cuándo?",
+    "respuesta": "El biógrafo William Wirt, en 1817, 42 años después, con recuerdos de testigos."
+   },
+   "titulo": "«Dadme la libertad o dadme la muerte» se publicó 42 años después",
+   "wiki": "Patrick Henry"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "Ecuos",
+     "quien": "Pueblo de los montes al este de Roma, enemigo frecuente de la república temprana.",
+     "wiki": "Ecuos"
+    },
+    {
+     "nombre": "George Washington",
+     "quien": "Lo llamaron «el Cincinato de Occidente» por dejar el mando del ejército y, después, la presidencia.",
+     "wiki": "George Washington"
+    },
+    {
+     "nombre": "Cincinnati",
+     "quien": "Ciudad de Ohio nombrada por la sociedad que honraba a Cincinato.",
+     "wiki": "Cincinnati"
+    }
+   ],
+   "dato": "Roma le dio a Cincinato poder absoluto para salvar a un ejército rodeado. Ganó, renunció en unos quince días y regresó a su granja. Una ciudad de Estados Unidos lleva su nombre.",
+   "epoca": "458 a. C.",
+   "explicacion": "En el 458 a. C., los ecuos tenían atrapado a un ejército romano en el monte Álgido. El Senado nombró [[dictador|En la Roma republicana, magistrado con poder total por un plazo máximo de seis meses, nombrado solo en emergencias.]] a Cincinato, a quien encontraron arando su campo. Rescató al ejército y, según Tito Livio, renunció al decimosexto día, aunque podía quedarse seis meses.\n\nPor eso se volvió el modelo del líder que suelta el poder. Los oficiales de Washington fundaron en 1783 la Sociedad de los Cincinnati, y de ella tomó su nombre la ciudad de Cincinnati, Ohio. Renunciar a tiempo también es liderazgo.",
+   "fuente": {
+    "nombre": "George Washington's Mount Vernon: Cincinnatus",
+    "url": "https://www.mountvernon.org/digital-encyclopedia/article/cincinnatus"
+   },
+   "materia": "Liderazgo e influencia",
+   "pilar": "caracter",
+   "repaso": {
+    "pregunta": "¿Por qué Cincinato se volvió símbolo de liderazgo?",
+    "respuesta": "Porque recibió poder absoluto, resolvió la emergencia y renunció en unos quince días para volver a su granja."
+   },
+   "titulo": "El dictador que volvió a su arado",
+   "wiki": "Cincinato"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "Alexander Fleming",
+     "quien": "Médico escocés que descubrió la penicilina en 1928.",
+     "wiki": "Alexander Fleming"
+    },
+    {
+     "nombre": "Howard Walter Florey",
+     "quien": "Patólogo australiano que, en Oxford, convirtió la penicilina en tratamiento.",
+     "wiki": "Howard Walter Florey"
+    },
+    {
+     "nombre": "Ernst Boris Chain",
+     "quien": "Bioquímico que logró purificarla junto con Florey.",
+     "wiki": "Ernst Boris Chain"
+    }
+   ],
+   "dato": "El 3 de septiembre de 1928, Alexander Fleming regresó de vacaciones a su laboratorio de Londres y encontró un moho que mataba a las bacterias de una placa olvidada.",
+   "epoca": "1928",
+   "explicacion": "Fleming estudiaba estafilococos en el hospital St. Mary's. Al revisar las placas que había dejado, vio que alrededor de un moho, *Penicillium notatum*, las bacterias habían desaparecido. Llamó «penicilina» a la sustancia. El descuido fue útil porque él supo mirar.\n\nPero el hallazgo casi se queda en curiosidad: Fleming no logró purificarla en cantidad. Más de una década después, Howard Florey y Ernst Chain, en Oxford, la convirtieron en medicamento. Los tres compartieron el Nobel en 1945. Descubrir no basta; alguien tiene que volverlo útil.",
+   "fuente": {
+    "nombre": "American Chemical Society: Discovery and Development of Penicillin",
+    "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html"
+   },
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "repaso": {
+    "pregunta": "¿Quiénes convirtieron la penicilina en medicamento?",
+    "respuesta": "Howard Florey y Ernst Chain, en Oxford, más de diez años después del hallazgo de Fleming."
+   },
+   "titulo": "La penicilina apareció al volver de vacaciones",
+   "wiki": "Penicilina"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "Robert Doisneau",
+     "quien": "Fotógrafo francés de la vida cotidiana de París.",
+     "wiki": "Robert Doisneau"
+    },
+    {
+     "nombre": "Fotografía humanista",
+     "quien": "Corriente francesa de posguerra que retrató a la gente común con ternura; Doisneau fue su figura central.",
+     "wiki": "Fotografía humanista"
+    }
+   ],
+   "dato": "«El beso del Hôtel de Ville», de Robert Doisneau, parece un momento robado en la calle. Lo hizo con dos jóvenes estudiantes de teatro a quienes pidió posar.",
+   "epoca": "1950",
+   "explicacion": "En 1950, la revista *Life* le encargó a Doisneau fotos de enamorados en París. Vio a Françoise Bornet y Jacques Carteaud besarse en un café y les pidió que repitieran el beso para su cámara. Se supo en los años noventa, cuando otras personas reclamaron ser la pareja y fueron a juicio.\n\nBornet lo resumió así: «La foto fue posada. Pero el beso era real». En 2005, su copia original se subastó en París por unos 202,000 dólares. Muchas fotos «espontáneas» célebres son escenas dirigidas: no las hace menos bellas, pero sí cambia lo que documentan.",
+   "fuente": {
+    "nombre": "Fox News/AP: Doisneau photo sells for $202K (abr 2005)",
+    "url": "https://www.foxnews.com/story/doisneau-photo-sells-for-202k"
+   },
+   "materia": "Cine y fotografía",
+   "pilar": "cultura",
+   "repaso": {
+    "pregunta": "¿Fue espontánea la foto «El beso del Hôtel de Ville»?",
+    "respuesta": "No. Doisneau pidió a dos estudiantes de teatro que posaran para un encargo de Life en 1950."
+   },
+   "titulo": "El beso más famoso de París fue posado",
+   "wiki": "Le baiser de l'hôtel de ville"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "Central Park",
+     "quien": "El gran parque de Manhattan, añadido en los años 1850 porque la cuadrícula no dejó espacio verde.",
+     "wiki": "Central Park"
+    },
+    {
+     "nombre": "Broadway",
+     "quien": "Avenida más antigua que la cuadrícula; su diagonal crea plazas al cruzar las avenidas.",
+     "wiki": "Broadway"
+    },
+    {
+     "nombre": "Manzana",
+     "quien": "La unidad básica de la cuadrícula: el bloque entre cuatro calles.",
+     "wiki": "Manzana (urbanismo)"
+    }
+   ],
+   "dato": "En 1811, Nueva York decidió el trazo de casi toda Manhattan: 12 avenidas y 155 calles en ángulo recto. La justificación fue económica: las casas rectas eran las más baratas.",
+   "epoca": "1811",
+   "explicacion": "La isla era casi toda campo. Los comisionados dibujaron una cuadrícula sobre colinas, arroyos y granjas, sin plazas grandes ni parques. Escribieron que las casas «de lados rectos y ángulos rectos son las más baratas de construir y las más cómodas para vivir».\n\nCentral Park no estaba en el plan; se agregó décadas después. Broadway tampoco: es un camino anterior que cruza la cuadrícula en diagonal, y por eso donde corta las avenidas nacen plazas como Times Square. Un trazo pensado para el negocio inmobiliario terminó dando su forma a una de las ciudades más reconocibles del mundo.",
+   "fuente": {
+    "nombre": "Museum of the City of New York: The Greatest Grid, the 1811 Plan",
+    "url": "https://thegreatestgrid.mcny.org/the-1811-plan"
+   },
+   "materia": "Ciudades del mundo",
+   "pilar": "mundo",
+   "repaso": {
+    "pregunta": "¿Por qué los comisionados de 1811 eligieron una cuadrícula para Manhattan?",
+    "respuesta": "Porque las casas de lados y ángulos rectos eran, según ellos, las más baratas de construir y las más cómodas."
+   },
+   "titulo": "Manhattan se trazó en cuadrícula porque era más barato",
+   "wiki": "Plan de los Comisionados de 1811"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "The Economist",
+     "quien": "Semanario británico fundado en 1843; creó y actualiza el índice.",
+     "wiki": "The Economist"
+    },
+    {
+     "nombre": "Tipo de cambio",
+     "quien": "El precio de una moneda expresado en otra, como pesos por dólar.",
+     "wiki": "Tipo de cambio"
+    }
+   ],
+   "dato": "En 1986, la revista The Economist inventó medio en broma el índice Big Mac: comparar el precio de esa hamburguesa en cada país para saber si una moneda está cara o barata.",
+   "epoca": "1986",
+   "explicacion": "La idea viene de una teoría seria, la [[paridad del poder adquisitivo|Idea de que, a la larga, el tipo de cambio debería igualar el precio de una misma canasta de bienes en dos países.]]. Si un Big Mac cuesta más en dólares en un país que en Estados Unidos, su moneda estaría «sobrevaluada», y al revés. La hamburguesa sirve porque es casi igual en todas partes.\n\nThe Economist lo presentó como una guía «desenfadada», y así hay que tomarlo: el precio también depende de salarios, rentas e impuestos locales. Aun así, se volvió una de las formas más citadas de explicar el tipo de cambio. Una buena metáfora vale más que una tabla.",
+   "fuente": {
+    "nombre": "The Economist: The Big Mac index",
+    "url": "https://www.economist.com/big-mac-index"
+   },
+   "materia": "Economía y mercados",
+   "pilar": "patrimonio",
+   "repaso": {
+    "pregunta": "¿En qué teoría se basa el índice Big Mac?",
+    "respuesta": "En la paridad del poder adquisitivo: a la larga, el tipo de cambio debería igualar el precio de lo mismo en dos países."
+   },
+   "titulo": "Una hamburguesa para medir monedas",
+   "wiki": "Índice Big Mac"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "Biomimética",
+     "quien": "Disciplina que copia diseños de la naturaleza para resolver problemas técnicos.",
+     "wiki": "Biomimética"
+    },
+    {
+     "nombre": "Arctium",
+     "quien": "La bardana, planta cuyos frutos con ganchos inspiraron el velcro.",
+     "wiki": "Arctium"
+    }
+   ],
+   "dato": "En 1941, el ingeniero suizo George de Mestral volvió de cazar en los Alpes con su perro lleno de abrojos. Los miró al microscopio y entendió cómo copiarlos.",
+   "epoca": "1941",
+   "explicacion": "Cada abrojo tiene cientos de ganchitos que se enganchan en cualquier rizo de tela o de pelo. De Mestral pasó años buscando cómo fabricar eso: una cinta con ganchos y otra con bucles. Lo logró con nailon y lo patentó en 1955. El nombre une dos palabras francesas: *velours* (terciopelo) y *crochet* (gancho).\n\nEs un caso clásico de [[biomímesis|Diseñar tecnología copiando soluciones que ya existen en la naturaleza.]]. La naturaleza lleva millones de años resolviendo problemas de ingeniería; a veces basta mirar con cuidado lo que nos molesta.",
+   "fuente": {
+    "nombre": "History.com: Velcro's Invention Was Inspired by a Dog",
+    "url": "https://www.history.com/articles/velcro-invention"
+   },
+   "materia": "Ciencia y tecnología",
+   "pilar": "futuro",
+   "repaso": {
+    "pregunta": "¿De qué palabras viene «velcro»?",
+    "respuesta": "Del francés velours (terciopelo) y crochet (gancho)."
+   },
+   "titulo": "El velcro lo inventó un perro con abrojos",
+   "wiki": "Cierre de gancho y bucle"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "Ministro plenipotenciario",
+     "quien": "Una de las clases de diplomáticos que fijó Viena, debajo de los embajadores.",
+     "wiki": "Ministro plenipotenciario"
+    },
+    {
+     "nombre": "Nuncio apostólico",
+     "quien": "Representante del papa; muchos países le dan el primer lugar entre los embajadores.",
+     "wiki": "Nuncio apostólico"
+    },
+    {
+     "nombre": "Samuel Pepys",
+     "quien": "Funcionario inglés cuyo diario narra el choque de carrozas de 1661.",
+     "wiki": "Samuel Pepys"
+    }
+   ],
+   "dato": "Durante siglos, los embajadores se pelearon por quién pasaba primero. En 1815, el Congreso de Viena lo resolvió con una regla simple: manda la fecha de llegada.",
+   "epoca": "1815",
+   "explicacion": "La [[precedencia|Orden de prioridad entre personas o cargos: quién entra, se sienta o habla primero.]] era cuestión de honor nacional. En 1661, en Londres, las carrozas de los embajadores de España y Francia chocaron por ir delante en un desfile; hubo muertos, y el diario de Samuel Pepys lo cuenta. Cada corte decía ser la más importante.\n\nEl reglamento de Viena del 19 de marzo de 1815 dividió a los diplomáticos en clases y ordenó cada clase según la fecha en que notificaban oficialmente su llegada. Ya no importaba qué rey era más poderoso, sino quién llegó antes. Una regla neutral y verificable evita más conflictos que cualquier negociación.",
+   "fuente": {
+    "nombre": "Office of the Historian (EE. UU.): Foreign Relations of the United States 1875, documento 229",
+    "url": "https://history.state.gov/historicaldocuments/frus1875v02/d229"
+   },
+   "materia": "Etiqueta y protocolo",
+   "pilar": "gusto",
+   "repaso": {
+    "pregunta": "¿Qué criterio fijó el Congreso de Viena para ordenar a los embajadores de una misma clase?",
+    "respuesta": "La fecha de notificación oficial de su llegada: quien llegó antes, va primero."
+   },
+   "titulo": "Viena acabó con las peleas de embajadores con un reloj",
+   "wiki": "Congreso de Viena"
+  }
+ ],
+ "historia": {
+  "fuentes": [
+   {
+    "nombre": "Conseil des Grands Crus Classés en 1855: History",
+    "url": "https://gcc-1855.fr/history/"
+   },
+   {
+    "nombre": "Wikipédia (francés): Classification officielle des vins de Bordeaux de 1855",
+    "url": "https://fr.wikipedia.org/wiki/Classification_officielle_des_vins_de_Bordeaux_de_1855"
+   },
+   {
+    "nombre": "Decanter: Anson on Thursday, the day that changed Bordeaux",
+    "url": "https://www.decanter.com/features/anson-on-thursday-the-day-that-changed-bordeaux-245587/"
+   },
+   {
+    "nombre": "Decanter: St-Emilion 2022 classification promotes Château Figeac",
+    "url": "https://www.decanter.com/wine-news/st-emilion-2022-classification-promotes-chateau-figeac-to-premier-grand-cru-classe-a-487144/"
+   }
+  ],
+  "paraProfundizar": {
+   "minutos": 10,
+   "titulo": "Grand Cru Classé en 1855: la historia de la clasificación (en inglés)",
+   "url": "https://gcc-1855.fr/history/"
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Con qué criterio hicieron los corredores la clasificación de 1855?",
+    "respuesta": "Con los precios a los que se vendía cada vino desde hacía décadas, más su reputación. No hubo cata."
+   },
+   {
+    "pregunta": "¿Qué vino subió de segundo a primer cru en 1973?",
+    "respuesta": "Château Mouton Rothschild, tras medio siglo de campaña del barón Philippe de Rothschild."
+   }
+  ],
+  "tarjetas": [
+   {
+    "contexto": "Primavera de 1855. París prepara su primera gran [[Exposición Universal|Feria internacional donde los países mostraban sus mejores productos, inventos y obras. La de París de 1855 fue la respuesta francesa a la de Londres de 1851.]]. Napoleón III quiere lucir lo mejor de Francia, y el vino de Burdeos tiene que estar ahí.\n\nPero hay un problema: el visitante extranjero no sabe distinguir un vino de otro. Hace falta una lista. Alguien tiene que decir cuáles son los mejores.\n\nEsa lista se hizo en unos días. Y desde entonces casi no se ha tocado.",
+    "gancho": "En 1855, unos corredores de vino hicieron una lista en dos semanas. 171 años después, sigue decidiendo precios.",
+    "imagen": {
+     "alt": "Página manuscrita antigua con una lista de vinos",
+     "credito": "Wikimedia Commons",
+     "pie": "Primera página de la clasificación de los vinos de Burdeos de 1855",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Classement_des_vins_de_Bordeaux_de_1855_(page_1).jpg?width=900"
+    },
+    "opciones": [
+     "Ninguna: está congelada desde 1855",
+     "Dos: un añadido en 1855 y un ascenso en 1973",
+     "Se revisa más o menos cada diez años"
+    ],
+    "pregunta": "Desde 1855, ¿cuántas veces se ha cambiado oficialmente la lista de los grandes tintos de Burdeos?",
+    "tipo": "adivina"
+   },
+   {
+    "imagen": {
+     "alt": "Gran edificio de hierro y piedra en París",
+     "credito": "Wikimedia Commons",
+     "pie": "El Palacio de la Industria, sede de la Exposición Universal de París de 1855",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palais_de_l'Industrie_(Exposition_universelle_de_1855).jpg?width=900"
+    },
+    "texto": "El 5 de abril de 1855, la Cámara de Comercio de Burdeos mandó una carta al sindicato de los [[corredores de vino|Intermediarios entre los productores y los comerciantes. Sabían a qué precio se vendía cada vino porque cerraban las operaciones.]]. Les pedía algo concreto: una lista de los mejores vinos de la región, ordenada por categorías.\n\nLos corredores no organizaron ninguna cata. No hacía falta. Tenían algo más frío y más difícil de discutir: los precios. Durante décadas habían visto a qué precio se vendía cada [[château|En Burdeos, la finca que produce y embotella su propio vino. No siempre hay un castillo: a veces es una casa de campo.]]. Si un vino se pagaba más año tras año, era porque el mercado lo consideraba mejor.\n\nEl 18 de abril entregaron la lista. Eran 57 tintos repartidos en cinco niveles, del primero al quinto [[cru|«Crecimiento» en francés. En Burdeos designa una finca y su viñedo; «gran cru clasificado» es un vino de la lista de 1855.]]. Arriba, solo cuatro: **Lafite, Latour, Margaux y Haut-Brion**. Los cuatro eran caros desde hacía más de un siglo.\n\nTodos los tintos eran del [[Médoc|Región al norte de Burdeos, en la orilla izquierda del río Gironda, famosa por sus tintos de Cabernet Sauvignon.]], menos uno: Haut-Brion, de Graves. Aparte, los corredores ordenaron los vinos dulces de Sauternes y Barsac. Ahí pusieron a uno solo por encima de todos: **Château d'Yquem**, el único «primer cru superior».\n\nLa lista no era una ley. Era una foto del mercado de 1855. Pero tenía el sello de la Exposición, y eso la volvió oficial.",
+    "tipo": "historia",
+    "titulo": "Dos semanas para ordenar un siglo de reputación"
+   },
+   {
+    "imagen": {
+     "alt": "Grabado antiguo de una finca con viñedos",
+     "credito": "Wikimedia Commons",
+     "pie": "Château Mouton Rothschild en un grabado de 1893: el único que subió a primer cru",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ch%C3%A2teau_Mouton_Rothschild_-_Cocks%26f%C3%A9ret_1893.jpg?width=900"
+    },
+    "texto": "**La respuesta es dos.** El 16 de septiembre de 1855, unos meses después, se añadió a mano Château Cantemerle al quinto nivel (muchas guías dicen 1856; las fuentes francesas dan 1855). Y en 1973, Château Mouton Rothschild subió de segundo a primero.\n\nEse ascenso costó medio siglo. El barón **Philippe de Rothschild** se tomó el segundo lugar como una ofensa. Desde 1922 su lema decía: «Primero no puedo, segundo no me digno, Mouton soy». Hizo campaña durante décadas. En 1973, un documento firmado por el ministro de Agricultura, **Jacques Chirac**, le dio la razón. Mouton cambió el lema: «Primero soy, segundo fui, Mouton no cambia».\n\nLo sorprendente es todo lo que la lista no registró. Fincas que se dividieron, como Léoville en tres. Viñedos que se compraron, vendieron o fusionaron. Dueños buenos y malos. Un intento de revisión en 1960 fracasó. Hoy hay 61 tintos clasificados, pero la jerarquía es, en lo esencial, la de 1855.\n\nY el mercado la sigue obedeciendo. Un primer cru se vende muy por encima de un quinto, aunque algunos quintos hoy sean excelentes. La lista dejó de describir los precios: ahora ayuda a fijarlos.",
+    "tipo": "giro",
+    "titulo": "Lo raro no es la lista: es que casi nadie la haya podido cambiar"
+   },
+   {
+    "nombre": "La prueba del ranking: ¿qué midió, cuándo y quién lo actualiza?",
+    "texto": "Toda clasificación es útil, pero envejece. La de 1855 midió bien algo concreto: los precios de entonces. El riesgo es usarla hoy como si dijera otra cosa.\n\nAntes de confiar en un ranking, hazle tres preguntas:\n\n**1. ¿Qué midió?** Precio, calidad, ventas, opinión de expertos o popularidad. No es lo mismo «el más caro» que «el mejor».\n\n**2. ¿Cuándo?** Una foto de hace cinco años puede ser falsa hoy. Pregunta la fecha de los datos, no la de la publicación.\n\n**3. ¿Quién lo actualiza y cada cuánto?** Una lista que no se revisa se vuelve tradición. Puede ser valiosa como marca, pero ya no como información.\n\nEl contraste está en el mismo Burdeos: la clasificación de Saint-Émilion, creada en 1955, se revisa más o menos cada diez años. En la de 2022, tres de los nombres más famosos (Cheval Blanc, Ausone y Angélus) prefirieron salirse antes que someterse a las nuevas reglas. Revisar tiene costos, y no revisar también.",
+    "tipo": "herramienta"
+   },
+   {
+    "imagen": {
+     "alt": "Fachada neoclásica de una casa con columnas entre árboles",
+     "credito": "Wikimedia Commons",
+     "pie": "Château Margaux, uno de los cuatro primeros de 1855",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ch%C3%A2teau_Margaux_2014.JPG?width=900"
+    },
+    "texto": "**En una marca de bebidas.** Cuando un distribuidor dice «ese es el número uno de la categoría», pregunta con qué dato y de qué año. Muchas veces es la posición de hace tiempo, sostenida por costumbre. Ahí hay espacio para un recién llegado.\n\n**En el tequila.** La [[denominación de origen|Protección legal que liga un producto a un territorio y a reglas de elaboración. Solo lo hecho ahí y así puede usar el nombre.]] del tequila, de 1974, funciona distinto que una lista de fincas: no dice quién es mejor, sino quién puede usar el nombre. Las dos protegen la reputación de un lugar; solo una ordena a los productores.\n\n**En tu despacho o tu empresa.** El proveedor «de confianza» de hace diez años, el despacho que «siempre ha sido el mejor». Vale la pena revisarlos de vez en cuando con datos actuales, como haría una cata a ciegas.",
+    "tipo": "dondeMas",
+    "titulo": "Listas congeladas en tu día a día"
+   },
+   {
+    "pregunta": "¿Qué ranking o reputación de hace años sigues usando para decidir (un proveedor, un despacho, una marca) sin revisar si todavía es cierto?",
+    "tipo": "llevaloATuVida"
+   },
+   {
+    "frase": "Una clasificación dice quién era el mejor cuando se hizo. Lo que viene después es costumbre.",
+    "tipo": "paraRecordar"
+   }
+  ]
+ },
+ "id": "auxo-2026-11-09",
+ "lectura": {
+  "autor": "Michel de Montaigne",
+  "capitulo": {
+   "numero": 1,
+   "titulo": "El hombre que se encerró en una torre",
+   "total": 6
+  },
+  "fuentes": [
+   {
+    "nombre": "Montaigne, Essays, trad. Charles Cotton, ed. W. C. Hazlitt, Proyecto Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/3600"
+   },
+   {
+    "nombre": "Stanford Encyclopedia of Philosophy: Michel de Montaigne",
+    "url": "https://plato.stanford.edu/entries/montaigne/"
+   },
+   {
+    "nombre": "Internet Encyclopedia of Philosophy: Michel de Montaigne",
+    "url": "https://iep.utm.edu/montaign/"
+   }
+  ],
+  "imagen": {
+   "alt": "Retrato antiguo de un hombre con gorguera blanca y barba corta",
+   "credito": "Wikimedia Commons",
+   "pie": "Michel de Montaigne, retrato atribuido a Daniel Dumonstier",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Montaigne-Dumonstier.jpg?width=900"
+  },
+  "libro": "Ensayos",
+  "minutos": 9,
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de dominio público de Charles Cotton (ed. W. C. Hazlitt), Proyecto Gutenberg; la inscripción, del original latino.",
+  "paraLlevar": [
+   "La mente sin tarea no descansa: se desboca. Escribir lo que piensas es una forma de domarla.",
+   "Hablar con honestidad de uno mismo es hablar de todos.",
+   "«¿Qué sé yo?» no es pereza: es la humildad de quien ha visto cambiar las certezas."
+  ],
+  "proximo": "Ensayos (Montaigne) · Capítulo 2: «Porque era él, porque era yo»: la amistad con La Boétie",
+  "repaso": [
+   {
+    "pregunta": "¿Qué hizo Montaigne en 1571 y qué mandó pintar en su biblioteca?",
+    "respuesta": "Se retiró a su torre a los 38 años y pintó una inscripción en latín que declaraba su retiro «al seno de las doctas vírgenes», para vivir en calma y libertad."
+   },
+   {
+    "pregunta": "¿Qué dice Montaigne en la nota «Al lector»?",
+    "respuesta": "Que es un libro honesto, escrito con un fin privado, y que él mismo es la materia de su libro."
+   }
+  ],
+  "secciones": [
+   {
+    "texto": "¿Qué harías si a los 38 años dejaras tu trabajo para pensar? No para descansar ni para viajar: para pensar. Michel de Montaigne lo hizo. Y lo que encontró no fue la calma que esperaba, sino el desorden de su propia cabeza.\n\nDe ese desorden salió uno de los libros más leídos de la literatura europea. No es una novela ni un tratado. Es algo que no existía: un hombre que se toma a sí mismo como tema y se examina, con honestidad, durante veinte años.",
+    "tipo": "texto"
+   },
+   {
+    "texto": "Un abogado cansado",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "Montaigne nació el 28 de febrero de 1533, en el castillo de su familia, cerca de Burdeos. Su padre, un comerciante ennoblecido, tuvo ideas pedagógicas raras: hizo que el niño aprendiera latín antes que francés, hablándole solo en latín desde la cuna.\n\nDe adulto, Montaigne fue magistrado en el [[Parlamento de Burdeos|En la Francia antigua, un parlamento era un tribunal superior de justicia, no una asamblea legislativa.]]. Conoció la corte, los pleitos y la política de un país desgarrado por las [[guerras de religión|Guerras civiles entre católicos y protestantes que sacudieron Francia entre 1562 y 1598.]]. Ahí hizo la amistad más importante de su vida, con el joven escritor **Étienne de La Boétie**. Cuando La Boétie murió en 1563, Montaigne quedó con un hueco que nunca llenó.\n\nEn 1570 vendió su cargo. Tenía casi 38 años, una herencia y la sensación de haber perdido demasiado tiempo en asuntos ajenos.",
+    "tipo": "texto"
+   },
+   {
+    "texto": "La torre y la inscripción",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "Su castillo tenía una torre redonda en una esquina. Montaigne la convirtió en su refugio. Abajo, una capilla. En medio, su dormitorio. Arriba, la biblioteca: un cuarto circular con unos mil libros y tres ventanas hacia el campo.\n\nEl día de su cumpleaños de 1571 mandó pintar en la pared, en latín, una declaración. Era como un contrato consigo mismo.",
+    "tipo": "texto"
+   },
+   {
+    "fuente": "Inscripción de la biblioteca de Montaigne (1571), traducida del latín",
+    "texto": "En el año de Cristo de 1571, a los 38 años, la víspera de las calendas de marzo, día de su nacimiento, Michel de Montaigne, cansado desde hace tiempo de la servidumbre de la corte y de los cargos públicos, todavía entero, se retiró al seno de las doctas vírgenes, donde, en calma y libre de preocupaciones, pasará lo poco que le queda de una vida ya más que a medias recorrida.",
+    "tipo": "cita"
+   },
+   {
+    "texto": "Las «doctas vírgenes» son las [[musas|En la mitología griega, las nueve diosas que inspiraban las artes y el conocimiento.]]: la vida del estudio. Montaigne creía que le quedaba poco. Tenía miedo a la muerte, que se había llevado a su amigo, a su padre y a un hermano. Quería prepararse para ella leyendo a los sabios antiguos.\n\nEn las vigas del techo hizo grabar más de cincuenta frases, sobre todo de autores griegos y latinos y de la Biblia. Si levantaba la vista del libro, se encontraba con una sentencia. Algunas eran de escépticos: recordaban lo poco que sabemos de verdad.",
+    "tipo": "texto"
+   },
+   {
+    "alt": "Torre redonda de piedra con techo cónico",
+    "credito": "Wikimedia Commons",
+    "pie": "La torre de Montaigne, en Saint-Michel-de-Montaigne: lo único del castillo original que sobrevivió a un incendio en el siglo XIX",
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/St_Michel_de_Montaigne_Tour01.jpg?width=900"
+   },
+   {
+    "texto": "El caballo desbocado",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "El plan era sencillo: retirarse, dejar que la mente reposara y madurara sola. No funcionó. Montaigne lo cuenta en un ensayo breve, *De la ociosidad*, el octavo del primer libro.",
+    "tipo": "texto"
+   },
+   {
+    "fuente": "Ensayos, I, 8, «De la ociosidad»",
+    "texto": "Pero encuentro que, al contrario, es como un caballo que se ha escapado de su jinete, que corre por su cuenta mucho más desbocado de lo que lo haría ningún jinete, y me crea tantas quimeras y monstruos fantásticos, unos sobre otros, sin orden ni propósito, que, para contemplar a gusto su rareza y su absurdo, he empezado a ponerlos por escrito, con la esperanza de que con el tiempo se avergüence de sí misma.",
+    "tipo": "cita"
+   },
+   {
+    "texto": "Es una confesión moderna. La mente sin tarea no se calma: se dispersa. Montaigne no la combate con disciplina estricta, sino con una herramienta: escribir lo que piensa para poder verlo.\n\nDe ahí viene la palabra que usó para su libro. *Essai* significa en francés «prueba» o «intento». Un ensayo era probar una idea, como quien prueba un vino o pone a prueba una espada. No buscaba conclusiones cerradas. Quería ver cómo reaccionaba su juicio ante cada tema.",
+    "tipo": "texto"
+   },
+   {
+    "correcta": 1,
+    "explicacion": "Esperaba que el retiro calmara su mente; en cambio, produjo «quimeras y monstruos». Escribirlos era la forma de examinarlos y, con el tiempo, avergonzarla.",
+    "opciones": [
+     "Porque quería hacerse famoso como filósofo",
+     "Porque su mente, sin tarea, se desbocó y quiso verla por escrito para ordenarla",
+     "Porque el rey le encargó un libro sobre la guerra"
+    ],
+    "pregunta": "Según *De la ociosidad*, ¿por qué empezó Montaigne a escribir?",
+    "tipo": "pregunta"
+   },
+   {
+    "texto": "«Yo mismo soy la materia de mi libro»",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "Nueve años después, en 1580, publicó en Burdeos los dos primeros libros de los *Ensayos*, con el impresor Simon Millanges. El primer libro tiene 57 ensayos, de títulos muy variados: sobre la tristeza, el miedo, los mentirosos, la educación de los niños, los caníbales del Brasil, los olores.\n\nAntes de todo puso una nota al lector. Es una de las páginas más sorprendentes de la literatura, porque casi le pide que no siga.",
+    "tipo": "texto"
+   },
+   {
+    "fuente": "Ensayos, «Al lector» (1580)",
+    "texto": "Lector, tienes aquí un libro honesto. Te advierte desde el principio que, al hacerlo, no me he propuesto otro fin que uno doméstico y privado: no he pensado en servirte a ti ni en mi gloria.",
+    "tipo": "cita"
+   },
+   {
+    "texto": "Dice que lo escribió para sus parientes y amigos, para que lo recuerden como era. Que sus defectos se leerán ahí «al natural». Que, si las costumbres lo permitieran, se habría pintado «entero y desnudo». Y remata:",
+    "tipo": "texto"
+   },
+   {
+    "fuente": "Ensayos, «Al lector» (1580)",
+    "texto": "Así, lector, yo mismo soy la materia de mi libro: no hay razón para que ocupes tu tiempo en un asunto tan frívolo y vano.",
+    "tipo": "cita"
+   },
+   {
+    "texto": "Es [[ironía|Decir algo dando a entender lo contrario o algo más de lo que se dice.]], pero no solo eso. Montaigne cree de verdad que un hombre cualquiera, examinado con cuidado, contiene a toda la humanidad. Al hablar de sí, habla de todos. Por eso el libro no envejece: cualquiera se reconoce en sus dudas.",
+    "tipo": "texto"
+   },
+   {
+    "texto": "El primer ensayo: nada es seguro",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "El ensayo que abre el libro se titula *Por diversos medios se llega al mismo fin*. Cuenta casos de la historia antigua y reciente. A veces un vencedor perdona al enemigo que se le humilla. A veces lo perdona porque el enemigo le planta cara con valor. Y a veces el mismo gesto que salvó a uno condena a otro.\n\nNo hay regla. Lo que funciona con un hombre fracasa con otro. Montaigne saca una conclusión que será la base de todo el libro:",
+    "tipo": "texto"
+   },
+   {
+    "fuente": "Ensayos, I, 1",
+    "texto": "El hombre es, en verdad, un asunto maravillosamente vano, cambiante e inestable, sobre el cual es muy difícil formarse un juicio cierto y uniforme.",
+    "tipo": "cita"
+   },
+   {
+    "texto": "Esta es su semilla [[escéptica|El escepticismo filosófico sostiene que debemos suspender el juicio porque nuestro conocimiento es limitado e inseguro.]]. Hacia 1576 se hizo acuñar una medalla con una pregunta que se volvió su lema: **«Que sais-je?»**, «¿Qué sé yo?». No es pereza intelectual. Es la humildad de quien ha visto cómo cambian las certezas.",
+    "tipo": "texto"
+   },
+   {
+    "alt": "Vigas de madera de un techo con frases pintadas en latín y griego",
+    "credito": "Wikimedia Commons",
+    "pie": "Las vigas de la biblioteca de Montaigne, con las sentencias que mandó grabar",
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ch%C3%A2teau_de_Montaigne_-_tower_-_library_-_roof_with_inscriptions_(26833733672).jpg?width=900"
+   },
+   {
+    "correcta": 0,
+    "explicacion": "Un ensayo era «probar» el propio juicio ante un tema, sin pretender cerrar la cuestión. De ahí nació el género que hoy llamamos ensayo.",
+    "opciones": [
+     "Prueba o intento",
+     "Tratado completo",
+     "Confesión religiosa"
+    ],
+    "pregunta": "¿Qué significa la palabra *essai*, que Montaigne eligió para su libro?",
+    "tipo": "pregunta"
+   },
+   {
+    "texto": "Lo que sigue",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "El retiro no fue tan completo como la inscripción prometía. Montaigne siguió viajando, fue alcalde de Burdeos entre 1581 y 1585 y medió entre bandos durante las guerras. En 1588 publicó en París una edición con un tercer libro, y siguió corrigiendo hasta su muerte, el 13 de septiembre de 1592.\n\nPero la torre fue el origen de todo. Ahí descubrió que retirarse del mundo no es escapar de uno mismo: es encontrarse de frente. Y que la mejor forma de soportar esa compañía es mirarla con curiosidad, con humor y sin mentir.",
+    "tipo": "texto"
+   },
+   {
+    "texto": "Montaigne se retiró para preparar su muerte y terminó inventando una forma de pensar: probar las ideas en uno mismo, por escrito, sin fingir certezas.",
+    "tipo": "nota",
+    "titulo": "En una frase"
+   }
+  ]
+ },
+ "libro": null,
+ "materias": [
+  {
+   "claves": [
+    {
+     "nombre": "Cicerón",
+     "quien": "Abogado, cónsul y el mayor orador de Roma; sus discursos se estudiaron como modelo durante siglos.",
+     "wiki": "Cicerón"
+    },
+    {
+     "nombre": "Catilina",
+     "quien": "Senador arruinado y ambicioso que, según Cicerón, conspiraba para tomar Roma por la fuerza.",
+     "wiki": "Lucio Sergio Catilina"
+    },
+    {
+     "nombre": "Conjuración de Catilina",
+     "quien": "La conspiración del año 63 a. C. que este discurso ayudó a desarmar.",
+     "wiki": "Conjuración de Catilina"
+    }
+   ],
+   "contexto": "Roma, 8 de noviembre del año 63 a. C. El Senado se reúne en el templo de Júpiter Stator, custodiado por guardias. El cónsul **Cicerón** sabe que el senador **Catilina** prepara una [[conjuración|Conspiración de varias personas contra el gobierno o contra alguien poderoso.]] para tomar el poder.\n\nCatilina entra y se sienta como si nada. Cicerón tiene pocas pruebas que pueda mostrar en público. Lo normal sería empezar con una introducción ordenada: saludar, exponer los hechos, presentar pruebas.\n\nCicerón hace otra cosa.",
+   "correcta": 1,
+   "formato": "desarmado",
+   "fuente": {
+    "nombre": "Cicerón, Primera Catilinaria (trad. inglesa de C. D. Yonge), Pomona College",
+    "url": "https://pages.pomona.edu/~cmc24747/sources/cic_web/cic_speeches/cic_cat_1.htm"
+   },
+   "idea": "El que abre con la pregunta incómoda obliga a todos a responderla en su cabeza.",
+   "imagen": {
+    "alt": "Pintura de un senado romano: un orador de pie señala a un hombre sentado solo",
+    "credito": "Wikimedia Commons",
+    "pie": "Cicerón denuncia a Catilina, fresco de Cesare Maccari (c. 1888), Palazzo Madama, Roma",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari.png?width=900"
+   },
+   "materia": "Retórica y oratoria",
+   "opciones": [
+    "Porque expone los hechos con orden desde el principio",
+    "Porque empieza en medio del conflicto y obliga a todos a mirar al acusado, que está ahí",
+    "Porque presenta cifras y pruebas que nadie puede negar"
+   ],
+   "pilar": "mente",
+   "pregunta": "Cicerón abre con: «¿Hasta cuándo, Catilina, abusarás de nuestra paciencia?». ¿Por qué funciona tan bien ese arranque?",
+   "repaso": {
+    "pregunta": "¿Cómo empieza la Primera Catilinaria y qué técnica usa?",
+    "respuesta": "Con «¿Hasta cuándo, Catilina, abusarás de nuestra paciencia?»: empieza en medio del conflicto con tres preguntas retóricas seguidas, dirigidas al acusado presente."
+   },
+   "revelacion": "**Empieza a la mitad.** No hay saludo. La primera palabra es una pregunta, dirigida a un hombre presente en la sala. Siguen otras dos, en serie: «¿Cuánto tiempo más se burlará de nosotros esa locura tuya? ¿Hasta dónde se arrojará tu audacia desenfrenada?». Son tres preguntas paralelas, un [[tricolon|Serie de tres elementos de forma parecida. El tres da sensación de cierre y se recuerda fácil.]], y ninguna espera respuesta.\n\nLuego viene una [[anáfora|Repetir la misma palabra al inicio de frases seguidas para golpear con el ritmo.]]: «¿Nada te han movido la guardia nocturna del Palatino, nada las patrullas de la ciudad, nada el miedo del pueblo…?». Y la exclamación que sobrevivió dos mil años: «¡Oh tiempos, oh costumbres! El Senado sabe esto, el cónsul lo ve, y sin embargo este vive».\n\nEl efecto fue físico. Según el propio Cicerón, al sentarse Catilina, los ex cónsules dejaron vacíos los asientos a su lado. Esa misma noche, Catilina salió de Roma. **La técnica para ti:** cuando tengas que confrontar, no empieces por el contexto. Empieza por la pregunta que todos están pensando y nadie dice.",
+   "titulo": "«¿Hasta cuándo, Catilina?»: el discurso que empieza a la mitad",
+   "wiki": "Catilinarias"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "William H. Seward",
+     "quien": "Favorito para la candidatura de 1860; fue secretario de Estado y terminó como el aliado más leal de Lincoln.",
+     "wiki": "William H. Seward"
+    },
+    {
+     "nombre": "Salmon P. Chase",
+     "quien": "Rival de 1860 y secretario del Tesoro; financió la guerra civil.",
+     "wiki": "Salmon P. Chase"
+    },
+    {
+     "nombre": "Doris Kearns Goodwin",
+     "quien": "Historiadora estadounidense; su libro de 2005 popularizó la expresión «equipo de rivales».",
+     "wiki": "Doris Kearns Goodwin"
+    }
+   ],
+   "contexto": "Mayo de 1860. **Abraham Lincoln**, abogado de Illinois con poca experiencia nacional, gana la candidatura republicana. Sus rivales eran mucho más conocidos: **William Seward**, el favorito; **Salmon Chase**; **Edward Bates**.\n\nLos tres pensaban que el puesto debía haber sido suyo. Seward, sobre todo, se sentía el verdadero líder del partido.\n\nEn noviembre Lincoln gana la presidencia. El país está a punto de partirse en dos. Tiene que armar su gabinete.",
+   "formato": "queHarias",
+   "fuente": {
+    "nombre": "House Divided (Dickinson College): memorando de Seward y respuesta de Lincoln, 1 abr 1861",
+    "url": "https://hd.housedivided.dickinson.edu/node/40441"
+   },
+   "idea": "Rodearte de los mejores, aunque te compitan, solo funciona si queda claro quién decide.",
+   "imagen": {
+    "alt": "Pintura de un grupo de hombres de traje reunidos alrededor de una mesa",
+    "credito": "Wikimedia Commons",
+    "pie": "Lincoln y su gabinete, en la pintura de Francis Bicknell Carpenter (1864)",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emancipation_proclamation.jpg?width=900"
+   },
+   "materia": "Liderazgo e influencia",
+   "opciones": [
+    "Los dejo fuera y armo un equipo de gente leal",
+    "Les doy los tres cargos más importantes del gobierno",
+    "Les ofrezco puestos menores, para tenerlos cerca pero sin poder"
+   ],
+   "pilar": "caracter",
+   "pregunta": "Estás en su lugar. ¿Qué haces con tus tres rivales?",
+   "repaso": {
+    "pregunta": "¿Qué cargos dio Lincoln a sus rivales de 1860?",
+    "respuesta": "Seward, secretario de Estado; Chase, del Tesoro; Bates, procurador general (y Cameron, Guerra)."
+   },
+   "revelacion": "**Lincoln eligió la segunda.** Seward fue secretario de Estado; Chase, del Tesoro; Bates, procurador general. Y otro aspirante de la convención, Simon Cameron, recibió Guerra. Su razonamiento, según los historiadores: el país necesitaba a los hombres más capaces, y él no podía darse el lujo de dejarlos en la oposición.\n\nNo fue cómodo. El 1 de abril de 1861, Seward le mandó un memorando: el gobierno llevaba un mes «sin política», alguien tenía que dirigirla, y se ofrecía. Hasta proponía exigir explicaciones a España y Francia y, si no las daban, declararles la guerra. Lincoln contestó por escrito ese mismo día: «si esto debe hacerse, debo hacerlo yo». La mayoría de los historiadores cree que esa carta nunca se entregó y que se lo dijo en persona.\n\nSeward cambió. Meses después le escribió a su esposa: «En el gabinete hay un solo voto, y lo emite el presidente». Se volvió su aliado más cercano. La historiadora Doris Kearns Goodwin contó todo esto en *Team of Rivals* (2005). **La lección:** integrar a los rivales funciona si dejas claro, pronto y sin humillarlos, quién decide.",
+   "titulo": "El gabinete de rivales: Lincoln metió a sus competidores en su equipo",
+   "wiki": "Abraham Lincoln"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "Milton Friedman",
+     "quien": "Premio Nobel de Economía 1976; usó Yap para explicar qué es el dinero.",
+     "wiki": "Milton Friedman"
+    },
+    {
+     "nombre": "Dinero",
+     "quien": "Cualquier cosa aceptada como medio de pago, medida de valor y forma de guardar riqueza.",
+     "wiki": "Dinero"
+    },
+    {
+     "nombre": "Palau",
+     "quien": "Archipiélago donde se tallaban las piedras; el viaje en canoa era parte de su valor.",
+     "wiki": "Palaos"
+    }
+   ],
+   "contexto": "Yap es un grupo de islas en el Pacífico, en Micronesia. Durante siglos, sus habitantes usaron como dinero enormes discos de piedra caliza con un agujero en el centro: los [[rai|Discos de piedra caliza usados como dinero en Yap; algunos miden más que una persona y pesan toneladas.]].\n\nLa piedra no existía en Yap. Había que tallarla en Palau, a unos 400 kilómetros, y traerla en canoa por mar abierto. Cuanto más difícil el viaje, más valía la piedra.\n\nUn día, una de esas piedras enormes se hundió en una tormenta durante el traslado. Quedó en el fondo del mar.",
+   "correcta": 1,
+   "formato": "sigueDinero",
+   "fuente": {
+    "nombre": "NPR Planet Money: A Giant Stone Coin At The Bottom Of The Sea (10 dic 2010)",
+    "url": "https://www.npr.org/transcripts/131963928"
+   },
+   "idea": "El dinero no es la cosa: es el acuerdo de todos sobre quién tiene qué.",
+   "imagen": {
+    "alt": "Grandes discos de piedra con un agujero en el centro, apoyados en el suelo",
+    "credito": "Wikimedia Commons",
+    "pie": "Piedras rai en la isla de Yap, Micronesia",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yap_Stone_Money.jpg?width=900"
+   },
+   "materia": "Economía y mercados",
+   "opciones": [
+    "Se perdió: nadie podía verla ni usarla",
+    "Siguió contando como riqueza de su dueño",
+    "Pasó a ser propiedad de toda la isla"
+   ],
+   "pilar": "patrimonio",
+   "pregunta": "¿Qué pasó con el valor de la piedra hundida?",
+   "repaso": {
+    "pregunta": "¿Por qué la piedra hundida de Yap seguía valiendo?",
+    "respuesta": "Porque toda la comunidad sabía que existía y de quién era. En Yap la propiedad dependía del acuerdo, no de mover la piedra."
+   },
+   "revelacion": "**Siguió valiendo.** Todos en la isla sabían que existía y de quién era. Eso bastaba. La familia siguió siendo rica, con una piedra que nadie había visto en generaciones.\n\nY es que en Yap las piedras casi nunca se movían. Cuando una cambiaba de dueño, se quedaba donde estaba: lo que cambiaba era el acuerdo y la memoria de la comunidad. Hacia 1900, cuando Alemania administraba las islas, quiso obligar a los jefes a arreglar caminos. Para multarlos, pintó cruces negras en sus piedras: con eso «las confiscaba». Los jefes arreglaron los caminos y las cruces se borraron.\n\nEn 1991, el economista **Milton Friedman** escribió *La isla del dinero de piedra*. Su punto: no somos tan distintos. Durante décadas, los bancos centrales guardaron oro en sótanos y lo «movían» de país a país cambiando la etiqueta del cajón. El dinero es, sobre todo, un registro en el que todos confían. Hoy lo es más que nunca: tu saldo es un número en una base de datos.",
+   "titulo": "Yap: el dinero de piedra que nadie tenía que mover",
+   "wiki": "Yap"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "Freemium",
+     "quien": "El modelo de negocio de Duolingo, Spotify y muchas apps: base gratis, extras de pago.",
+     "wiki": "Freemium"
+    },
+    {
+     "nombre": "Luis von Ahn",
+     "quien": "Informático guatemalteco, cofundador de Duolingo y creador del CAPTCHA.",
+     "wiki": "Luis von Ahn"
+    }
+   ],
+   "contexto": "Duolingo enseña idiomas gratis. No hay que pagar para usarlo, y la mayoría nunca paga. Aun así, es una empresa que cotiza en bolsa y que vende cientos de millones de dólares al trimestre.\n\nSu modelo se llama [[freemium|Modelo en el que el producto básico es gratis y una versión con más funciones se cobra. Viene de «free» (gratis) y «premium».]]. La pregunta es cuánta gente tiene que pagar para que lo gratis se sostenga.",
+   "correcta": 1,
+   "formato": "sigueDinero",
+   "fuente": {
+    "nombre": "Duolingo: carta a accionistas, 3er trimestre de 2026 (SEC, formulario 8-K)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001562088/000162828026069474/q3fy26duolingo9-30x26share.htm"
+   },
+   "idea": "En un freemium, lo gratis es la tienda; el negocio está en la puerta hacia el pago.",
+   "materia": "Productos digitales escalables",
+   "opciones": [
+    "Unos 2",
+    "Unos 9",
+    "Unos 30"
+   ],
+   "pilar": "patrimonio",
+   "pregunta": "En el tercer trimestre de 2026, de cada 100 usuarios mensuales de Duolingo, ¿cuántos tenían una suscripción de pago?",
+   "repaso": {
+    "pregunta": "¿Qué proporción de usuarios mensuales de Duolingo pagaba a fines de septiembre de 2026?",
+    "respuesta": "Cerca de 8.6%: 13.1 millones de suscriptores de 153.1 millones de usuarios mensuales."
+   },
+   "revelacion": "**Unos 9.** Según su carta a accionistas del 3 de noviembre de 2026, Duolingo tuvo **153.1 millones** de usuarios mensuales y **13.1 millones** de suscriptores de pago al cierre de septiembre. Es cerca de 8.6% (el cálculo es nuestro; la empresa no publica ese porcentaje). Sus ingresos del trimestre fueron **309 millones de dólares**, 14% más que un año antes.\n\n¿Por qué funciona? Porque una lección más casi no cuesta: el contenido ya está hecho y el servidor sirve a uno o a un millón. Los usuarios gratis no son un gasto perdido: atraen a otros, generan datos para mejorar las lecciones y son el grupo del que salen los que pagan. El producto gratis es el canal de ventas.\n\nTambién muestra los límites. En ese mismo informe, Duolingo anunció que deja de vender **Max**, su nivel más caro con funciones de IA, y lo integra a su plan familiar. Un nivel premium tiene que valer lo que cuesta; si no, lo mejor es simplificar. **Para tu negocio:** en un freemium, la pregunta clave no es cuántos usan, sino qué hace que un usuario gratis decida pagar. Esto es un modelo, no una promesa: la mayoría de los freemium no llegan a esa proporción.",
+   "titulo": "Duolingo: casi nueve de cada diez no pagan, y así funciona el negocio",
+   "wiki": "Duolingo"
+  }
+ ],
+ "microexamen": [
+  {
+   "correcta": 2,
+   "explicacion": "Los corredores no hicieron cata: usaron los precios históricos y la reputación. Por eso la lista era una foto del mercado de 1855.",
+   "opciones": [
+    "Con una gran cata a ciegas ante jueces internacionales",
+    "Con un voto de los dueños de los châteaux",
+    "Con los precios a los que se vendía cada vino desde hacía décadas"
+   ],
+   "origen": "historia",
+   "pregunta": "¿Con qué criterio se ordenaron los vinos de Burdeos en 1855?"
+  },
+  {
+   "correcta": 0,
+   "explicacion": "La baja respondió a una declaración, no a un acuerdo. Ormuz sigue alterado y el G7 apenas empezaba a reunirse.",
+   "opciones": [
+    "Porque Trump dijo que es muy improbable atacar de nuevo a Irán mientras sigan las pláticas",
+    "Porque Irán reabrió por completo el estrecho de Ormuz",
+    "Porque el G7 firmó un acuerdo con Irán"
+   ],
+   "origen": "noticias",
+   "pregunta": "¿Por qué bajó el petróleo el lunes 9 de noviembre?"
+  },
+  {
+   "correcta": 1,
+   "explicacion": "La propiedad dependía de que todos supieran de quién era. Por eso una piedra hundida en el mar podía seguir valiendo.",
+   "opciones": [
+    "Se llevaba rodando a la casa del nuevo dueño",
+    "Se quedaba donde estaba; cambiaba el acuerdo de la comunidad",
+    "Se partía en pedazos para repartirla"
+   ],
+   "origen": "materias",
+   "pregunta": "En Yap, ¿qué pasaba con una piedra rai cuando cambiaba de dueño?"
+  }
+ ],
+ "noticias": [
+  {
+   "aMiQue": "Un Brent por debajo de 100 dólares es una buena noticia para fletes, diésel y empaques plásticos, que pesan en el costo de una bebida RTD o de un suplemento. Pero la baja depende de una frase, no de un acuerdo. Si estás cerrando precios para diciembre, no conviene fijar costos de transporte a largo plazo con esta cifra: una sola declaración puede devolverlos arriba.",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "contexto": "**Hecho:** la semana pasada el Brent tuvo una de sus mayores caídas semanales en años (Offshore Technology habla de 16%; otras fuentes dan cifras menores).\n\n**Hecho:** el tráfico por Ormuz sigue alterado. Estados Unidos e Irán reportan ataques a barcos cerca del estrecho, y un dron dañó el campo de gas de Khor Mor, en el Kurdistán iraquí, que detuvo su producción. Nadie se lo atribuyó.\n\n**Sin confirmar:** los hutíes dicen que atacaron oficinas de Saudi Aramco en Riad; los reportes hablan de vidrios rotos y sin víctimas.\n\n**Interpretación:** la analista Sugandha Sachdeva (SS WealthStreet) dijo que el mercado «parece estar descontando un escenario relativamente optimista de desescalada». No hay acuerdo completo entre Washington y Teherán.",
+   "fecha": "2026-11-09",
+   "fuentes": [
+    {
+     "nombre": "Offshore Technology: Oil prices fall as Trump signals no immediate strikes on Iran (9 nov 2026)",
+     "url": "https://www.offshore-technology.com/news/oil-prices-fall-trump-no-strikes-iran/"
+    },
+    {
+     "nombre": "Grafa: Brent Oil Falls 1.5% to US$96.91 as Iran Tensions Ease (9 nov 2026)",
+     "url": "https://grafa.com/en/news/united-states/brent-oil-prices-fall-iran-tensions-supply-concerns"
+    },
+    {
+     "nombre": "Infobae/AFP: Los cancilleres del G7 se reúnen en París (9 nov 2026)",
+     "url": "https://www.infobae.com/america/mundo/2026/11/09/los-cancilleres-del-g7-se-reunen-en-paris-para-abordar-la-guerra-en-ucrania-y-la-tension-con-iran-ante-la-presion-de-europa-sobre-eeuu/"
+    },
+    {
+     "nombre": "France Diplomatie: Priorities of the G7 Foreign Ministers' Meeting in Paris (6 nov 2026)",
+     "url": "https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/quelles-priorites-pour-la-reunion-des-ministres-des-affaires-etrangeres-du-g7-a-paris"
+    }
+   ],
+   "historiaEnCurso": {
+    "capitulo": 17,
+    "dondeIbamos": "El viernes 6, Trump dijo «estamos hablando con Irán» y confirmó «ataques menores» cerca de Qeshm. Qatar propuso un plan en dos etapas para reabrir Ormuz, sin respuesta formal.",
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo"
+   },
+   "id": "n-2026-11-09-golfo",
+   "quePaso": "El domingo 8 de noviembre, **Donald Trump** dijo que es «muy improbable» que autorice nuevos ataques contra Irán mientras sigan las pláticas. Antes había insinuado que podían reanudarse después de las elecciones intermedias.\n\nEl mercado lo leyó como una señal de calma. La mañana del lunes 9, el **Brent** bajaba alrededor de 1.5% a 1.7%, a unos **96.7–96.9 dólares** por barril, según Grafa y Offshore Technology. El estadounidense WTI rondaba los 89.9 dólares.\n\nEl mismo lunes empezó en París la reunión de cancilleres del **G7** (9 y 10 de noviembre). En la agenda oficial están Ucrania, la estabilidad de Medio Oriente y la seguridad del suministro de energía. Según AFP, Europa presiona a Estados Unidos para descartar nuevas acciones militares y normalizar el paso de barcos por Ormuz.",
+   "queVigilar": "El comunicado final del G7 (martes 10) y si menciona Ormuz. Si el Brent rompe los 93 dólares, que Sachdeva ve como soporte, la baja sería más que una reacción de un día. Y cualquier respuesta formal al plan de Qatar.",
+   "titular": "El petróleo baja porque Trump dice que es «muy improbable» atacar de nuevo a Irán; el G7 se reúne en París"
+  },
+  {
+   "aMiQue": "Si tienes oficina, bodega o punto de venta en una colonia con tandeo, revisa si entra en la lista: puede ser un ahorro directo en tres recibos. Pero lo que importa más es el costo para el SIAPA: un organismo que deja de cobrar tres meses tiene menos dinero para obras. Para un negocio que depende del agua (producción, limpieza, hielo), sigue siendo prudente tener cisterna y un plan de pipas.",
+   "ambito": "local",
+   "ambitoTexto": "Guadalajara",
+   "contexto": "**Hecho:** la propuesta es del gobernador y aún no es ley; falta el dictamen de la comisión y el voto del pleno.\n\n**Hecho:** los tandeos en 627 colonias están previstos hasta finales de marzo de 2027.\n\n**Interpretación:** con el voto de MC asegurado, lo más probable es que pase. La discusión real será quién entra y cómo se compensa el hueco en las finanzas del SIAPA.",
+   "fecha": "2026-11-06",
+   "fuentes": [
+    {
+     "nombre": "Notisistema: Turnan a comisiones la propuesta para condonar pagos por agua en 627 colonias (6 nov 2026)",
+     "url": "https://www.notisistema.com/noticias/turnan-a-comisiones-la-propuesta-para-condonar-pagos-por-agua-en-627-colonias/"
+    },
+    {
+     "nombre": "Puntual Jalisco: Zapopan condonará pago de agua: 206 colonias por desabasto (6 nov 2026)",
+     "url": "https://puntualjalisco.com/zapopan-condonara-pago-de-agua-206-colonias-por-desabasto"
+    },
+    {
+     "nombre": "El Informador: Zona 6 del esquema de tandeos del SIAPA",
+     "url": "https://www.informador.mx/jalisco/siapa-asi-funcionan-los-cortes-del-servicio-para-la-zona-6-tras-el-nuevo-esquema-de-tandeos-en-la-zmg-20261104-0215.html"
+    }
+   ],
+   "historiaEnCurso": {
+    "capitulo": 12,
+    "dondeIbamos": "El gobernador Pablo Lemus propuso el 5 de noviembre perdonar los recibos de octubre a diciembre en 627 colonias con tandeos; el informe estatal habló de más de 24,000 millones de pesos para agua.",
+    "id": "agua-gdl",
+    "titulo": "Crisis del agua en Guadalajara"
+   },
+   "id": "n-2026-11-09-agua",
+   "quePaso": "El viernes 6 de noviembre, el Congreso de Jalisco turnó a la **Comisión de Hacienda** la propuesta de Lemus para no cobrar el agua de octubre a diciembre en **627 colonias** con tandeos. No hay fecha para votarla.\n\n**José Luis Tostado**, coordinador de Movimiento Ciudadano, dijo que su bancada votará a favor, pero que es «una medida que tenemos que analizar con responsabilidad y con justicia». Todavía no se calcula cuánto le costaría al SIAPA.\n\nPor separado, Zapopan prepara su propia condonación para **206 colonias**. La lista y los detalles siguen pendientes. Mientras, el nuevo esquema de tandeos del SIAPA rige desde el 4 de noviembre.",
+   "queVigilar": "La fecha del dictamen en la Comisión de Hacienda, el cálculo del costo para el SIAPA y la lista oficial de colonias de Zapopan.",
+   "titular": "La condonación del agua pasa a comisión en el Congreso y Zapopan prepara la suya para 206 colonias"
+  }
+ ],
+ "numero": 19,
+ "palabra": {
+  "categoria": "Sustantivo masculino",
+  "definicion": "Ascendencia de abuelos o antepasados, sobre todo cuando es ilustre. Por extensión, el prestigio que da una larga tradición.",
+  "ejemplo": "Los primeros crus de Burdeos venden abolengo tanto como vino: su lugar en la lista tiene 171 años.",
+  "origen": "De *abuelo* y el sufijo *-engo*, que indica pertenencia o procedencia.",
+  "palabra": "Abolengo",
+  "pronunciacion": "a-bo-LEN-go",
+  "repaso": {
+   "pregunta": "¿Qué significa «abolengo»?",
+   "respuesta": "Ascendencia ilustre; por extensión, el prestigio que da una larga tradición."
+  }
+ },
+ "portada": {
+  "alt": "Página manuscrita antigua con una lista de vinos",
+  "credito": "Wikimedia Commons",
+  "pie": "La clasificación de los vinos de Burdeos, entregada el 18 de abril de 1855",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Classement_des_vins_de_Bordeaux_de_1855_(page_1).jpg?width=900"
+ },
+ "proximo": "Escoffier y la brigada: la cocina como una orquesta",
+ "schemaVersion": 6,
+ "temporada": {
+  "episodio": 2,
+  "id": "t04",
+  "numero": 4,
+  "titulo": "El arte de la mesa",
+  "totalEpisodios": 6
+ },
+ "titulo": "1855: la clasificación de Burdeos que sigue vigente"
+}
