@@ -1,0 +1,857 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-10",
+ "numero": 20,
+ "fecha": "2026-11-10",
+ "disponibleDesde": "2026-11-10T08:00:00-06:00",
+ "titulo": "Escoffier y la brigada: la cocina como una orquesta",
+ "temporada": {
+  "id": "t04",
+  "numero": 4,
+  "titulo": "El arte de la mesa",
+  "episodio": 3,
+  "totalEpisodios": 6
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Auguste_Escoffier_01.jpg?width=900",
+  "alt": "Retrato antiguo de un hombre de bigote, de traje oscuro",
+  "pie": "Auguste Escoffier (1846–1935), el cocinero que organizó la cocina como un ejército",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "pregunta": "¿Con qué criterio se hizo la clasificación de Burdeos de 1855?",
+   "respuesta": "Con los precios a los que se vendía cada vino desde hacía décadas, más su reputación. No hubo cata.",
+   "origen": "Edición #19"
+  },
+  {
+   "pregunta": "¿Por qué una piedra de Yap hundida en el mar seguía valiendo?",
+   "respuesta": "Porque toda la comunidad sabía que existía y de quién era. La propiedad dependía del acuerdo, no de mover la piedra.",
+   "origen": "Edición #19"
+  },
+  {
+   "pregunta": "¿Qué hizo Lincoln con sus rivales de 1860?",
+   "respuesta": "Los metió en su gabinete: Seward en Estado, Chase en el Tesoro, Bates como procurador general.",
+   "origen": "Edición #19"
+  }
+ ],
+ "libro": null,
+ "proximo": "El tequila y su denominación de origen: cómo una bebida se vuelve un lugar",
+ "noticias": [
+  {
+   "id": "n-2026-11-10-inflacion",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-11-09",
+   "historiaEnCurso": {
+    "id": "tasas-banxico",
+    "titulo": "Tasas de Banxico y el peso",
+    "capitulo": 2,
+    "dondeIbamos": "El 5 de noviembre, Banxico bajó su tasa de 6.50% a 6.25% por sorpresa, en una votación dividida (3 a 2), y subió a 3.7% su pronóstico de inflación para el cierre de 2026."
+   },
+   "titular": "La inflación sube a 3.75% en octubre, más de lo esperado, empujada por la luz y el tomate verde",
+   "quePaso": "El INEGI informó el lunes 9 que los precios subieron 0.65% en octubre. La inflación anual llegó a 3.75%, su tercer mes seguido al alza (3.45% en septiembre). Los economistas consultados por Reuters esperaban 3.65%.\n\nLa **subyacente**, que quita lo más volátil, subió a 3.80% anual. La electricidad aumentó 18.51% en el mes por el fin del subsidio de verano en 18 ciudades. El tomate verde subió 35.58% y el transporte aéreo, 26.36%.",
+   "aMiQue": "Dentro de la subyacente, **bebidas alcohólicas y tabaco** suben 7% anual y **restaurantes y hoteles**, 6.20%, según Infobae. Si vendes una bebida RTD, tus clientes ya están viendo precios más altos en la categoría: es un mal momento para subir sin explicar por qué, y un buen momento para revisar costos de empaque y flete.\n\nPara el dinero: una inflación por encima del pronóstico de Banxico hace menos probable otro recorte el 17 de diciembre. Si planeabas un crédito esperando tasas más bajas, no cuentes con eso todavía.",
+   "contexto": "**Hecho:** 3.75% está dentro del rango de variación de Banxico (2% a 4%), pero 0.75 puntos arriba de su meta de 3%.\n\n**Hecho:** buena parte del salto es estacional y administrado: la luz sube cada otoño cuando termina el subsidio en ciudades calurosas como Mérida, Monterrey o Villahermosa. Por eso Tabasco tuvo el mayor aumento mensual (2.39%). Guadalajara no está en esa lista.\n\n**Hecho:** también hubo bajas fuertes: limón −16.53%, chile serrano −8.98% y naranja −8.90% en el mes.\n\n**Interpretación:** lo que preocupa a un banco central no es el tomate, que sube y baja, sino la subyacente. Que pase de 3.75% a 3.80% es lo que le complica a Banxico seguir recortando.",
+   "queVigilar": "La inflación de la primera quincena de noviembre (sale el 24 de noviembre) y la próxima decisión de Banxico, el 17 de diciembre.",
+   "fuentes": [
+    {
+     "nombre": "Infobae: Precio del tomate verde se dispara 35% y electricidad aumenta un 18% (9 nov 2026)",
+     "url": "https://www.infobae.com/mexico/2026/11/09/precio-del-tomate-verde-se-dispara-35-y-electricidad-aumenta-un-18-inflacion-en-mexico-acelero-mas-de-lo-esperado-en-octubre/"
+    },
+    {
+     "nombre": "UnoTV: Inflación en México sube a 3.75% en octubre de 2026 (9 nov 2026)",
+     "url": "https://www.unotv.com/negocios/inflacion-mexico-octubre-2026-productos-subieron-bajaron-precios-estados-inegi/"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-10-golfo",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-10",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 18,
+    "dondeIbamos": "El domingo 8, Trump dijo que era «muy improbable» autorizar nuevos ataques a Irán mientras siguieran las pláticas. El lunes temprano el Brent bajaba 1.5%, cerca de 96.9 dólares."
+   },
+   "titular": "El Brent se desploma casi 6% y queda cerca de 92 dólares: ya está 22% abajo de su pico de octubre",
+   "quePaso": "Al cierre del lunes 9, el Brent cayó 5.85%, según datos de Reuters citados por Euribor.com.es. El martes por la mañana seguía bajando: entre 91.4 y 91.9 dólares, según la hora. El WTI rondaba 85.5–86 dólares.\n\nEl detonante: Trump se reunió en la Casa Blanca con el primer ministro de Qatar y habló de un «impulso positivo» para terminar la guerra. Dijo que nuevos ataques son «bastante improbables», aunque Estados Unidos sigue, en sus palabras, «listo para disparar».",
+   "aMiQue": "Si en la última edición la baja dependía de una frase, ahora depende de dos. El petróleo barato llega a la gasolina, al diésel y a los empaques plásticos con semanas de retraso; no esperes ver el ahorro en tus fletes de noviembre.\n\nPara negociar: si un proveedor te subió precios en octubre «por el petróleo», hoy tienes un argumento para pedir que los revise. Hazlo con la cifra en la mano: Brent en 118 el 30 de octubre, cerca de 92 hoy.",
+   "contexto": "**Hecho:** el Brent tocó 118 dólares el 30 de octubre (Euribor, con datos de Reuters). En noviembre, Brent y WTI han perdido alrededor de 20% (Euronews).\n\n**Hecho:** no hay un acuerdo firmado entre Washington y Teherán. Estados Unidos mantiene su bloqueo naval en Ormuz, por donde pasa cerca de una quinta parte del crudo del mundo.\n\n**Interpretación:** Gregory Brew, de Eurasia Group, citado por Reuters, ve difícil que el Brent baje de 90 sin un acuerdo formal, porque siguen los ataques a barcos en el estrecho.\n\n**Sin dato:** la reunión de cancilleres del G7 en París (9 y 10 de noviembre) no había publicado un comunicado al cierre de esta edición.",
+   "queVigilar": "Si hay un anuncio formal con Irán o una reapertura de Ormuz; y la reunión de la OPEP+ del 29 de noviembre.",
+   "fuentes": [
+    {
+     "nombre": "Euronews: Oil prices continue to fall on hopes of US-Iran peace deal talks (10 nov 2026)",
+     "url": "https://www.euronews.com/2026/11/10/oil-prices-continue-to-fall-on-hopes-of-us-iran-peace-deal-talks"
+    },
+    {
+     "nombre": "Euribor.com.es: El petróleo cae un 22% desde su pico (10 nov 2026)",
+     "url": "https://www.euribor.com.es/2026/11/10/precio-petroleo-hoy-10-noviembre-2026/"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "El cocinero que puso orden en todas las cocinas del mundo fue despedido por el desorden de sus cuentas.",
+    "contexto": "Londres, 1898. Auguste Escoffier es el cocinero más famoso de Europa. Dirige la cocina del [[Hotel Savoy|Hotel de lujo inaugurado en 1889 junto al Támesis; fue de los primeros con luz eléctrica y elevadores.]], donde cena el príncipe de Gales. Su socio, el hotelero suizo César Ritz, dirige todo lo demás.\n\nEscoffier inventó una manera de organizar la cocina que todavía se usa: la [[brigada|Sistema que divide la cocina en estaciones con un jefe cada una, bajo una sola cadena de mando.]]. Cada cocinero tiene un puesto, un jefe y una tarea.\n\nY, sin embargo, a principios de 1898 el Savoy despide a los dos. La carta habla de «negligencia grave» y de «faltas a su deber».",
+    "pregunta": "¿Qué encontraron los auditores del Savoy?",
+    "opciones": [
+     "Que la cocina compraba ingredientes de mala calidad para ahorrar",
+     "Vino y licores desaparecidos, y comisiones que los proveedores pagaban por debajo",
+     "Que Escoffier vendía sus recetas a un hotel rival"
+    ]
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Del ejército a la cocina más famosa de Londres",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/H%C3%B4tel_Savoy_%C3%A0_Londres.jpg?width=900",
+     "alt": "Grabado antiguo de un gran hotel junto a un río",
+     "pie": "El Hotel Savoy, en Londres: Ritz y Escoffier lo convirtieron en el lugar de moda de los años noventa del siglo XIX",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "Escoffier nació el 28 de octubre de 1846 en Villeneuve-Loubet, un pueblo cerca de Niza. A los trece años ya trabajaba en el restaurante de su tío. Era bajito; se cuenta que usaba zapatos de tacón alto para alcanzar bien los fogones.\n\nEn la guerra de 1870 contra Prusia sirvió como cocinero del ejército francés. Ahí vio algo que le iba a servir: miles de hombres que comían a tiempo gracias a una jerarquía clara y a órdenes cortas.\n\nLas cocinas de su época eran lo contrario. Un caos de gritos, calor y alcohol, donde cada cocinero preparaba platos enteros a su manera. Si alguien se enfermaba, nadie sabía cómo seguir.\n\nEscoffier lo cambió. Dividió la cocina en estaciones: una para salsas (el *saucier*), otra para pescados (*poissonnier*), otra para asados (*rôtisseur*), otra para verduras (*entremetier*), otra para lo frío (*garde-manger*) y otra para postres (*pâtissier*). Cada una con su jefe, el [[chef de partie|Cocinero responsable de una estación de la brigada y de los ayudantes que trabajan en ella.]]. Arriba, un solo jefe de cocina.\n\nUn plato ya no lo hacía una persona: lo armaban varias estaciones al mismo tiempo, como los músicos de una orquesta tocan partes distintas de la misma obra. Un encargado cantaba los pedidos en voz alta y todos respondían.\n\nEn 1884 conoció a César Ritz en Montecarlo. En 1889 el empresario Richard D'Oyly Carte llevó a Ritz al Savoy, y Ritz llamó a Escoffier. Juntos hicieron del hotel el lugar donde Londres aprendió a cenar fuera. Ahí Escoffier creó el **melocotón Melba**, en honor de la soprano australiana Nellie Melba.\n\nEn lo que estaba en juego, el Savoy era un negocio que dependía de la confianza de unos pocos clientes muy ricos. Y de que nadie mirara las cuentas con demasiado cuidado."
+   },
+   {
+    "tipo": "giro",
+    "titulo": "Vino perdido, comisiones y una confesión firmada",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Escoffier_Kochkunstf%C3%BChrer_1910_frontispiece.jpg?width=900",
+     "alt": "Retrato antiguo de Escoffier en la primera página de un libro",
+     "pie": "Frontispicio de la edición alemana de la *Guía culinaria* (1910): el método de Escoffier se tradujo a varios idiomas",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "**La respuesta es la segunda.** Los auditores encontraron que en el primer semestre de 1897 habían desaparecido más de 3,400 libras en vino y licores. Y que los proveedores pagaban a la cocina [[comisiones|Pagos ocultos de un proveedor a quien decide las compras, a cambio de seguir recibiendo pedidos.]] y regalos.\n\nEl historiador de la comida Paul Levy revisó los archivos del Savoy. Según su relato, Escoffier recibió de proveedores más de 16,000 libras en comisiones, regalos y sobornos; un tendero habló de un «5% regular». Algunos proveedores entregaban menos mercancía de la facturada para compensar.\n\nRitz y Escoffier respondieron con una demanda por despido injustificado. El caso se cerró en 1900 con confesiones firmadas y devoluciones. Ritz pagó más de 6,000 libras. A Escoffier le tocaba pagar unas 8,000; el hotel aceptó 500 en efectivo. Nunca hubo cargos penales.\n\nLa historia se supo hasta los años ochenta, cuando se publicaron los papeles del Savoy. Por eso sorprende: la leyenda de Escoffier es la del orden y la disciplina. Su caída fue por lo que él no organizó: el dinero.\n\nNo le fue mal. En junio de 1898 abrió con Ritz el Hotel Ritz de París, en la plaza Vendôme. En 1903 publicó *Le Guide culinaire*, con miles de recetas, que todavía se usa en las escuelas de cocina. Murió en Montecarlo en 1935."
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "La brigada con dos llaves",
+    "texto": "La brigada de Escoffier resolvió el caos de la producción con tres reglas. La cuarta, la que le faltó, resuelve el del dinero.\n\n**1. Un dueño por estación.** Cada tarea tiene un responsable con nombre. Si algo sale mal en las salsas, se sabe a quién preguntar.\n\n**2. Partes en paralelo.** Divide el trabajo para que varias personas avancen al mismo tiempo en el mismo resultado, en lugar de que una haga todo de principio a fin.\n\n**3. Una sola voz que coordina.** Alguien canta los pedidos y todos confirman. Nadie improvisa el orden.\n\n**4. Dos llaves para el dinero.** Quien elige al proveedor no debe ser quien recibe la mercancía ni quien paga. En auditoría se llama [[segregación de funciones|Principio de control interno: separar en personas distintas las tareas de autorizar, ejecutar y registrar una operación.]]. No es desconfianza: es diseño. Protege también al honesto.\n\nPregunta de prueba: en tu negocio, ¿hay alguna persona que pueda elegir a un proveedor, recibir lo que entrega y aprobar el pago, sin que nadie más lo vea?"
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Dónde más aparece",
+    "texto": "**En una marca de bebidas.** Pingüinos RTD puede tener la mejor receta, pero si la misma persona elige al proveedor de latas, firma la recepción y autoriza el pago, el riesgo es el del Savoy. No hace falta mala fe: basta con que nadie compare lo facturado con lo recibido.\n\n**En una cocina de Guadalajara.** Entra a la cocina abierta de un buen restaurante en Providencia o en la colonia Americana. Verás estaciones fijas, a alguien que canta las comandas y respuestas cortas: «¡Oído!». Es Escoffier, 130 años después.\n\n**En un laboratorio.** En un suplemento como los de Deyun Pharma, la brigada se parece a las buenas prácticas de fabricación: cada etapa con responsable, registro y una segunda firma. La lógica es la misma: el orden protege la calidad y también el dinero."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿En qué parte de tus negocios una sola persona controla una compra de principio a fin?",
+    "texto": "No hace falta acusar a nadie. Basta con agregar una segunda mirada donde hoy hay una sola."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Escoffier ordenó la cocina y olvidó ordenar el dinero. Las dos cosas necesitan brigada."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Paul Levy: ¿Debería Gordon Ramsay portarse como Escoffier? (en inglés)",
+   "url": "https://www.inkl.com/news/should-gordon-ramsay-behave-more-like-escoffier",
+   "minutos": 6
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Cómo organizó Escoffier la cocina?",
+    "respuesta": "En una brigada: estaciones especializadas (salsas, pescados, asados, verduras, frío, postres), cada una con un chef de partie, bajo un solo jefe de cocina y con pedidos cantados en voz alta."
+   },
+   {
+    "pregunta": "¿Por qué despidió el Savoy a Ritz y a Escoffier en 1898?",
+    "respuesta": "Por vino y licores desaparecidos y por comisiones y regalos de proveedores. El caso se cerró en 1900 con confesiones firmadas y devoluciones, sin cargos penales."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Paul Levy (The Guardian, vía inkl): Should Gordon Ramsay behave more like Escoffier?",
+    "url": "https://www.inkl.com/news/should-gordon-ramsay-behave-more-like-escoffier"
+   },
+   {
+    "nombre": "Famous Hotels: Kitchen revolt at The Savoy",
+    "url": "https://famoushotels.org/news/kitchen-revolt-at-the-savoy-16-fiery-cooks-took-their-long-knives"
+   },
+   {
+    "nombre": "Stanley Turkel (Hotel Online): César Ritz and Auguste Escoffier",
+    "url": "https://www.hotel-online.com/press_releases/release/nobody-asked-me-but-no-200-hotel-history-cesar-ritz-and-auguste-escoffier/"
+   },
+   {
+    "nombre": "Wikipedia: Auguste Escoffier",
+    "url": "https://es.wikipedia.org/wiki/Georges_Auguste_Escoffier"
+   },
+   {
+    "nombre": "Wikipedia: Brigade de cuisine",
+    "url": "https://es.wikipedia.org/wiki/Brigade_de_cuisine"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Historia y geopolítica",
+   "pilar": "mundo",
+   "formato": "diaQueCambio",
+   "titulo": "1494: la línea que hizo que Brasil hable portugués",
+   "contexto": "Tordesillas, Castilla, 7 de junio de 1494. Hace dos años que Colón volvió de su primer viaje. España y Portugal, las dos potencias del mar, están a punto de pelear por tierras que casi nadie ha visto.\n\nEl papa Alejandro VI ya había trazado una raya en 1493 con la [[bula Inter caetera|Documento papal de 1493 que daba a Castilla las tierras al oeste de una línea situada a 100 leguas de las Azores y Cabo Verde.]]: todo lo que quedara al oeste, para Castilla. El rey Juan II de Portugal no la aceptó y pidió negociar directamente con Isabel y Fernando.",
+   "pregunta": "¿Por qué en Brasil se habla portugués y no español?",
+   "opciones": [
+    "Porque Portugal se lo quitó a España en una guerra del siglo XVII",
+    "Porque una línea negociada en 1494, antes de que Europa supiera de Brasil, dejó esa costa del lado portugués",
+    "Porque el papa le regaló Brasil a Portugal como premio por sus viajes a la India"
+   ],
+   "correcta": 1,
+   "revelacion": "**El mapa se negoció antes de conocer el territorio.** En Tordesillas, los dos reinos movieron la raya del papa de 100 a 370 leguas al oeste de las islas de Cabo Verde. Lo que quedara al este sería de Portugal; lo del oeste, de Castilla. Juan II quería espacio en el Atlántico para sus rutas hacia África y la India.\n\nSeis años después, el 22 de abril de 1500, la flota de Pedro Álvares Cabral llegó a una costa desconocida. Quedaba al este de la línea: era portuguesa por contrato. Si se sabía o se sospechaba que había tierra ahí en 1494 sigue en debate entre historiadores.\n\nLa línea nunca se respetó del todo. Los colonos portugueses avanzaron muy al oeste, y en 1750 el Tratado de Madrid reconoció lo ocupado en lugar de la raya. Pero el núcleo de Brasil, y su idioma, salió de una negociación sobre un mapa casi en blanco.",
+   "idea": "El que negocia primero las reglas del mapa puede quedarse con lo que todavía nadie ha visto.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tratado_de_Tordesillas_(Archivo_General_de_Indias).jpg?width=900",
+    "alt": "Página manuscrita antigua con sellos y firmas",
+    "pie": "El Tratado de Tordesillas, ejemplar del Archivo General de Indias, en Sevilla",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: Tratado de Tordesillas",
+    "url": "https://es.wikipedia.org/wiki/Tratado_de_Tordesillas"
+   },
+   "wiki": "Tratado de Tordesillas",
+   "claves": [
+    {
+     "nombre": "Bula Inter caetera",
+     "quien": "La raya del papa Alejandro VI (1493) que Portugal rechazó y que Tordesillas movió al oeste.",
+     "wiki": "Bula menor Inter caetera de 1493"
+    },
+    {
+     "nombre": "Pedro Álvares Cabral",
+     "quien": "Navegante portugués que llegó a Brasil en 1500, del lado portugués de la línea.",
+     "wiki": "Pedro Álvares Cabral"
+    },
+    {
+     "nombre": "Reyes Católicos",
+     "quien": "Isabel de Castilla y Fernando de Aragón, que firmaron el tratado con Juan II de Portugal.",
+     "wiki": "Reyes Católicos"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué movió el Tratado de Tordesillas y qué consecuencia tuvo?",
+    "respuesta": "Movió la línea del papa de 100 a 370 leguas al oeste de Cabo Verde. Por eso la costa a la que llegó Cabral en 1500 quedó para Portugal: Brasil."
+   }
+  },
+  {
+   "materia": "Ciencia y tecnología",
+   "pilar": "futuro",
+   "formato": "comoFunciona",
+   "titulo": "Tu GPS funciona porque Einstein tenía razón",
+   "contexto": "Tu teléfono sabe en qué esquina de Zapopan estás con un margen de unos pocos metros. No lo calcula con antenas de celular, sino con relojes que vuelan a unos 20,200 km de altura.\n\nLos satélites del [[GPS|Sistema de posicionamiento global: unos treinta satélites de Estados Unidos que emiten señales de tiempo para calcular posiciones en la Tierra.]] emiten una señal con la hora exacta. Tu teléfono mide cuánto tardó en llegar la señal de al menos cuatro satélites y, con eso, calcula su distancia a cada uno. Un error de una millonésima de segundo equivale a unos 300 metros.\n\nEl problema: esos relojes no marcan el tiempo al mismo ritmo que los de la Tierra.",
+   "pregunta": "Si nadie corrigiera los relojes de los satélites, ¿cuánto se equivocaría tu GPS después de un día?",
+   "opciones": [
+    "Unos centímetros: nada que notes",
+    "Unos 10 kilómetros, y cada día más",
+    "Nada: los relojes atómicos no fallan"
+   ],
+   "correcta": 1,
+   "revelacion": "**Dos efectos de la relatividad, en direcciones contrarias.** Por la velocidad del satélite (unos 14,000 km/h), su reloj se atrasa unos 7 microsegundos al día: es la relatividad especial. Por estar lejos de la gravedad de la Tierra, se adelanta unos 45: es la [[relatividad general|Teoría de Einstein (1915): la gravedad curva el espacio y el tiempo, y el tiempo pasa más lento cerca de una masa grande.]]. El resultado neto: el reloj del satélite va 38 microsegundos por día adelante.\n\nParece nada. Pero la luz recorre unos 300 metros en un microsegundo. Sin corrección, el error de posición crecería unos 10 kilómetros cada día.\n\nLa solución es elegante: antes del lanzamiento, los relojes se ajustan para marcar un poco más lento en tierra. Ya en órbita, la relatividad los acelera justo lo necesario. Cada vez que abres un mapa, haces un experimento de física que Einstein predijo hace más de cien años.",
+   "idea": "La teoría más abstracta del siglo XX es la que te dice dónde dar vuelta.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/GPS_Satellite_NASA_art-iif.jpg?width=900",
+    "alt": "Ilustración de un satélite con paneles solares sobre la Tierra",
+    "pie": "Ilustración de un satélite GPS del bloque IIF en órbita",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Richard Pogge, Ohio State University: Real-World Relativity, the GPS Navigation System",
+    "url": "https://www.astronomy.ohio-state.edu/pogge.1/Ast162/Unit5/gps"
+   },
+   "wiki": "Sistema de posicionamiento global",
+   "claves": [
+    {
+     "nombre": "Relatividad general",
+     "quien": "La teoría de Einstein que explica por qué el tiempo corre más rápido lejos de la Tierra.",
+     "wiki": "Relatividad general"
+    },
+    {
+     "nombre": "Albert Einstein",
+     "quien": "Físico que publicó la relatividad especial (1905) y la general (1915).",
+     "wiki": "Albert Einstein"
+    },
+    {
+     "nombre": "Corrimiento al rojo gravitacional",
+     "quien": "El efecto medido de la gravedad sobre la luz y el tiempo; el mismo que corrige el GPS.",
+     "wiki": "Corrimiento al rojo gravitacional"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto se adelanta al día el reloj de un satélite GPS y por qué?",
+    "respuesta": "Unos 38 microsegundos: se atrasa 7 por su velocidad (relatividad especial) y se adelanta 45 por la menor gravedad (relatividad general). Sin corregir, el error crecería unos 10 km al día."
+   }
+  },
+  {
+   "materia": "Religiones y grandes textos",
+   "pilar": "cultura",
+   "formato": "mitoRealidad",
+   "titulo": "¿Lutero clavó las 95 tesis en la puerta de la iglesia?",
+   "contexto": "Es una de las escenas más pintadas de la historia: un monje con un martillo frente a una puerta de madera, el 31 de octubre de 1517, en Wittenberg. Con ese golpe, dice la escena, empezó la [[Reforma protestante|Movimiento religioso del siglo XVI que dividió a la cristiandad occidental y dio origen a las iglesias protestantes.]].\n\nMartín Lutero era profesor de teología. Le indignaba la venta de [[indulgencias|Documentos de la Iglesia que, a cambio de una obra o un pago, prometían reducir el castigo por los pecados.]] para financiar la basílica de San Pedro. Escribió 95 tesis en latín para discutirlas.",
+   "pregunta": "¿Qué sabemos de verdad sobre el martillazo?",
+   "opciones": [
+    "Lo vieron varios testigos y lo contaron ese mismo día",
+    "Nadie lo contó en vida de Lutero: lo narró Melanchthon después de 1546, aunque una nota hallada en 2006 apoya que sí ocurrió",
+    "Es un invento de pintores del siglo XIX"
+   ],
+   "correcta": 1,
+   "revelacion": "**Lo seguro es una carta.** El 31 de octubre de 1517, Lutero mandó sus tesis al arzobispo Alberto de Maguncia. Eso está documentado. El martillazo, no tanto: el primero en contarlo fue Felipe Melanchthon, en 1546, después de la muerte de Lutero. Y Melanchthon llegó a Wittenberg hasta 1518: no lo vio.\n\nEn 1961, el historiador católico Erwin Iserloh sostuvo que era una leyenda. El debate cambió en 2006, cuando Martin Treu encontró en Jena una nota a mano de Georg Rörer, secretario de Lutero. Dice que las tesis se fijaron en las puertas de las iglesias de Wittenberg la víspera de Todos los Santos. Rörer tampoco fue testigo, pero escribió en vida de Lutero.\n\nLo más probable: sí se fijaron, porque así se anunciaban las discusiones en la universidad, pero fue un trámite, no un desafío teatral. Lo que hizo explosiva la protesta fue la imprenta: en semanas, las tesis circulaban impresas por Alemania. La puerta original se quemó en 1760; la de hoy es de bronce, de 1858, con el texto grabado.",
+   "idea": "Las revoluciones casi nunca empiezan como en la pintura; empiezan con un trámite que alguien decide copiar y repartir.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wittenberg_Schlosskirche_Thesentuer.JPG?width=900",
+    "alt": "Puerta de bronce con texto en latín grabado, en un portal gótico",
+    "pie": "La «puerta de las tesis» de la iglesia del castillo de Wittenberg: bronce de 1858 con las 95 tesis",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "NMHH: The first modern media event. But did Luther in fact nail his theses to that door?",
+    "url": "https://english.nmhh.hu/article/192782/The_first_modern_media_event_But_did_Luther_in_fact_nail_his_theses_to_that_door"
+   },
+   "wiki": "Las noventa y cinco tesis",
+   "claves": [
+    {
+     "nombre": "Martín Lutero",
+     "quien": "Monje y profesor alemán (1483–1546) cuya protesta inició la Reforma.",
+     "wiki": "Martín Lutero"
+    },
+    {
+     "nombre": "Felipe Melanchthon",
+     "quien": "Colaborador de Lutero; el primero que contó la escena del martillazo, en 1546.",
+     "wiki": "Felipe Melanchthon"
+    },
+    {
+     "nombre": "Iglesia de Todos los Santos (Wittenberg)",
+     "quien": "La iglesia del castillo, cuya puerta servía de tablón de anuncios de la universidad.",
+     "wiki": "Iglesia de Todos los Santos (Wittenberg)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué está documentado del 31 de octubre de 1517 y de dónde viene la escena del martillazo?",
+    "respuesta": "Está documentada la carta de Lutero al arzobispo Alberto de Maguncia. El martillazo lo contó Melanchthon en 1546; una nota de Georg Rörer hallada en 2006 apoya que las tesis sí se fijaron."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "elCaso",
+   "titulo": "The Million Dollar Homepage: un millón de píxeles a un dólar",
+   "contexto": "Agosto de 2005. Alex Tew tiene 21 años, vive en Inglaterra y está por empezar la universidad en Nottingham. Le preocupa cómo va a pagar sus estudios.\n\nSe le ocurre una página web con una cuadrícula de 1,000 × 1,000 [[píxeles|Los puntos mínimos de color que forman una imagen en una pantalla.]]: un millón. Cada píxel cuesta un dólar. Se venden en bloques de 10 × 10, así que el mínimo es 100 dólares. El comprador pone ahí su logo y un enlace a su sitio, «para siempre».\n\nLa página abrió el 26 de agosto de 2005. Producirla le costó poco más que el dominio y el alojamiento.",
+   "pregunta": "En semanas aparecieron cientos de copias con la misma idea. ¿Por qué casi ninguna vendió?",
+   "opciones": [
+    "Porque cobraban más caro que Tew",
+    "Porque lo que se compraba era la novedad y la atención de la prensa, y eso no se copia",
+    "Porque Google bloqueó las copias"
+   ],
+   "correcta": 1,
+   "revelacion": "**Tew no vendía píxeles: vendía la atención de todos los que querían ver el experimento.** Cada compra hacía la página más curiosa y la noticia más grande. La prensa británica y luego la de todo el mundo la contaron. Para finales de 2005 había vendido 999,000 píxeles.\n\nLos últimos 1,000 los subastó en eBay en enero de 2006: se pagaron 38,100 dólares. En total ingresó 1,037,100 dólares, antes de impuestos. Las copias tenían el mismo producto, pero no la historia: el segundo «millón de píxeles» ya no era noticia.\n\nEs un caso raro dentro de los productos digitales. Casi siempre copiar otra unidad no cuesta nada y no hay límite. Aquí Tew puso un límite a propósito: escasez artificial. Y lo «permanente» resultó frágil: en 2017, un estudio de la Biblioteca de Innovación de Harvard encontró que una parte grande de los enlaces ya no funcionaba. Tew después cofundó Calm, una app de meditación.",
+   "idea": "Un producto digital puede no costar nada; la primera vez que algo es noticia, no se repite.",
+   "fuente": {
+    "nombre": "Harvard Library Innovation Lab: A Million Squandered, the Million Dollar Homepage as a decaying digital artifact (2017)",
+    "url": "https://lil.law.harvard.edu/blog/2017/07/21/a-million-squandered-the-million-dollar-homepage-as-a-decaying-digital-artifact/"
+   },
+   "wiki": "Marketing viral",
+   "claves": [
+    {
+     "nombre": "eBay",
+     "quien": "El sitio de subastas donde Tew vendió los últimos 1,000 píxeles por 38,100 dólares.",
+     "wiki": "eBay"
+    },
+    {
+     "nombre": "Píxel",
+     "quien": "La unidad que Tew vendió: un punto de color en la pantalla.",
+     "wiki": "Píxel"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto ingresó The Million Dollar Homepage y qué la hizo funcionar?",
+    "respuesta": "1,037,100 dólares (999,000 píxeles a un dólar más 38,100 de la subasta final). Funcionó por la novedad y la atención de la prensa, que las copias no pudieron repetir."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Mente y decisiones",
+   "pilar": "mente",
+   "epoca": "1654",
+   "titulo": "Una partida interrumpida inventó la probabilidad",
+   "dato": "La teoría de la probabilidad nació de una pregunta de un jugador: si un juego se interrumpe a la mitad, ¿cómo se reparte el dinero apostado?",
+   "explicacion": "El escritor Antoine Gombaud, conocido como el caballero de Méré, le planteó el problema a Blaise Pascal. En el verano de 1654, Pascal se lo escribió a Pierre de Fermat, y en unas cuantas cartas los dos lo resolvieron.\n\nSu idea: no repartir según lo que ya pasó, sino contando todos los finales posibles y cuántos gana cada jugador. Es el germen del [[valor esperado|Promedio de lo que puedes ganar o perder, ponderado por la probabilidad de cada resultado.]], que hoy usan seguros, bancos y cualquiera que evalúa un proyecto.",
+   "fuente": {
+    "nombre": "University of York: Pascal and Fermat on the problem of points (correspondencia de 1654)",
+    "url": "https://www.york.ac.uk/depts/maths/histstat/pascal.htm"
+   },
+   "wiki": "Problema de la partida interrumpida",
+   "claves": [
+    {
+     "nombre": "Blaise Pascal",
+     "quien": "Matemático y filósofo francés (1623–1662) que recibió la pregunta del jugador.",
+     "wiki": "Blaise Pascal"
+    },
+    {
+     "nombre": "Pierre de Fermat",
+     "quien": "Abogado y matemático de Toulouse; resolvió el problema con Pascal por carta.",
+     "wiki": "Pierre de Fermat"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué problema resolvieron Pascal y Fermat en 1654?",
+    "respuesta": "Cómo repartir lo apostado en un juego interrumpido: contando los finales posibles. De ahí nació la teoría de la probabilidad."
+   }
+  },
+  {
+   "materia": "Disciplina y hábitos",
+   "pilar": "caracter",
+   "epoca": "2009",
+   "titulo": "Un hábito no tarda 21 días",
+   "dato": "En el estudio más citado sobre el tema, un hábito tardó en promedio 66 días en volverse automático. Para algunos fueron 18; para otros, 254.",
+   "explicacion": "Phillippa Lally y su equipo, en el University College de Londres, siguieron durante 12 semanas a 96 voluntarios que querían adoptar algo nuevo: beber agua, correr, comer fruta. La mediana fue de 66 días, y saltarse un día no arruinaba el proceso.\n\nEl famoso «21 días» viene del cirujano Maxwell Maltz, en *Psico-Cibernética* (1960). Él observó que sus pacientes tardaban un **mínimo** de unos 21 días en acostumbrarse a su nueva cara. Con los años, el mínimo se volvió promesa.",
+   "fuente": {
+    "nombre": "James Clear: How long does it actually take to form a new habit? (resume el estudio de Lally et al., 2009)",
+    "url": "https://jamesclear.com/new-habit"
+   },
+   "wiki": "Hábito",
+   "claves": [
+    {
+     "nombre": "Psico-Cibernética",
+     "quien": "El libro de Maxwell Maltz (1960) de donde salió el mito de los 21 días.",
+     "wiki": "Psico-Cibernética"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto tardó en promedio un hábito en volverse automático en el estudio de Lally (2009)?",
+    "respuesta": "66 días de mediana, con un rango de 18 a 254. Los 21 días eran el mínimo que observó Maltz en sus pacientes."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "epoca": "1954",
+   "titulo": "La barrera de los cuatro minutos duró 46 días",
+   "dato": "Roger Bannister corrió la milla en 3:59.4 el 6 de mayo de 1954. El 21 de junio, el australiano John Landy ya lo había superado: 3:58.0.",
+   "explicacion": "Bannister, estudiante de medicina, corrió en la pista de Iffley Road, en Oxford, con dos compañeros que le marcaban el ritmo. Se dice que después de él «todos» rompieron la barrera porque dejó de parecer imposible.\n\nHay algo de cierto, pero Landy ya había corrido varias veces cerca de 4:02: la barrera estaba a punto de caer. Lo que sí cambió fue la idea de límite. Hoy el récord es 3:43.13, de Hicham El Guerrouj, desde 1999.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bannister_and_Landy.jpg?width=900",
+    "alt": "Dos corredores de mediados del siglo XX",
+    "pie": "Roger Bannister y John Landy, los dos primeros hombres en bajar de cuatro minutos en la milla",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: Carrera de la milla",
+    "url": "https://es.wikipedia.org/wiki/Carrera_de_la_milla"
+   },
+   "wiki": "Roger Bannister",
+   "claves": [
+    {
+     "nombre": "John Landy",
+     "quien": "Corredor australiano que bajó el récord de Bannister 46 días después.",
+     "wiki": "John Michael Landy"
+    },
+    {
+     "nombre": "Carrera de la milla",
+     "quien": "La prueba de 1,609 metros, clásica del atletismo británico.",
+     "wiki": "Carrera de la milla"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto duró el récord de Bannister en la milla?",
+    "respuesta": "46 días: John Landy corrió 3:58.0 el 21 de junio de 1954."
+   }
+  },
+  {
+   "materia": "Arte y pintura",
+   "pilar": "cultura",
+   "epoca": "1890",
+   "titulo": "Van Gogh no vendió solo un cuadro",
+   "dato": "Se repite que Van Gogh vendió un solo cuadro en vida. Lo cierto es que es el único que sabemos con seguridad que se vendió en una exposición: *El viñedo rojo*, por 400 francos, en 1890.",
+   "explicacion": "Lo compró la pintora belga Anna Boch en la exposición del grupo Les XX, en Bruselas, unos meses antes de la muerte de Vincent. Pero hubo más: en 1882 su tío Cornelis le encargó y le pagó dibujos de La Haya, y hay registros de intercambios y ventas pequeñas a través de su hermano Theo, marchante de arte.\n\nEl mito sirve a una historia: el genio que nadie entendió. La verdad es menos dramática y más útil: vendía poco, a precios bajos, y su fama vino después, sobre todo por el trabajo de Johanna, la viuda de Theo.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Red_vineyards.jpg?width=900",
+    "alt": "Pintura de un viñedo rojo al atardecer con campesinos trabajando",
+    "pie": "*El viñedo rojo* (1888), hoy en el Museo Pushkin de Moscú",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Artnet News: The story of the only known painting Van Gogh sold",
+    "url": "https://news.artnet.com/art-world/story-only-known-painting-van-gogh-sold-2432275"
+   },
+   "wiki": "El viñedo rojo",
+   "claves": [
+    {
+     "nombre": "Vincent van Gogh",
+     "quien": "Pintor neerlandés (1853–1890); su fama llegó después de su muerte.",
+     "wiki": "Vincent van Gogh"
+    },
+    {
+     "nombre": "Postimpresionismo",
+     "quien": "El movimiento en el que se suele ubicar su obra, junto a Cézanne y Gauguin.",
+     "wiki": "Postimpresionismo"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué cuadro de Van Gogh se sabe con seguridad que se vendió en vida, y a quién?",
+    "respuesta": "*El viñedo rojo*, en 1890, a Anna Boch por 400 francos. No fue su única venta: hubo encargos y ventas pequeñas."
+   }
+  },
+  {
+   "materia": "Derecho y poder",
+   "pilar": "mundo",
+   "epoca": "1215",
+   "titulo": "La Carta Magna duró diez semanas",
+   "dato": "El documento más famoso de la historia del derecho fue anulado por el papa a las diez semanas de sellarse.",
+   "explicacion": "El rey Juan sin Tierra la selló el 15 de junio de 1215, en Runnymede, para calmar a los barones rebeldes. Juan pidió ayuda al papa Inocencio III, que el 24 de agosto la declaró nula. Siguió una guerra civil.\n\nSobrevivió porque, tras la muerte de Juan, sus sucesores la volvieron a emitir en 1216, 1217 y 1225, cada vez retocada. De sus 63 cláusulas originales, solo tres siguen vigentes en Inglaterra. Una es la que dice que nadie será encarcelado sino por [[juicio legal de sus pares|Ser juzgado por iguales y conforme a la ley del país; base de la idea del debido proceso.]] o por la ley del país.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg?width=900",
+    "alt": "Pergamino medieval escrito en latín con letra apretada",
+    "pie": "Uno de los ejemplares de 1215 de la Carta Magna, en la Biblioteca Británica",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Medievalists.net: 10 things you need to know about Magna Carta",
+    "url": "https://www.medievalists.net/2015/06/10-things-you-need-to-know-about-magna-carta/"
+   },
+   "wiki": "Carta Magna",
+   "claves": [
+    {
+     "nombre": "Juan sin Tierra",
+     "quien": "Rey de Inglaterra (1199–1216) que selló la carta y luego pidió anularla.",
+     "wiki": "Juan I de Inglaterra"
+    },
+    {
+     "nombre": "Inocencio III",
+     "quien": "Papa que la declaró nula el 24 de agosto de 1215.",
+     "wiki": "Inocencio III"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto duró vigente la Carta Magna de 1215 y por qué sobrevivió?",
+    "respuesta": "Unas diez semanas: Inocencio III la anuló el 24 de agosto de 1215. Sobrevivió porque se volvió a emitir en 1216, 1217 y 1225."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "epoca": "1993",
+   "titulo": "Doom regaló la tercera parte del juego",
+   "dato": "Doom se lanzó el 10 de diciembre de 1993 subiendo el primer episodio, gratis, al servidor de una universidad. Para jugar los otros dos había que pagar.",
+   "explicacion": "Id Software, un estudio de Texas de muy pocas personas, usó el modelo [[shareware|Programa que se distribuye gratis, completo o en parte, para que el usuario pague si quiere el resto o seguir usándolo.]]: copia libremente el episodio uno, *Knee-Deep in the Dead*. El archivo se subió al servidor FTP de la Universidad de Wisconsin, que se saturó.\n\nLa lógica: cada copia gratis no le costaba nada a id y trabajaba como anuncio. Los jugadores se lo pasaban en disquetes y por redes. Quien quería más pedía la versión completa por correo. Fue de los primeros grandes éxitos de vender software sin tiendas.",
+   "fuente": {
+    "nombre": "Doom Wiki: Doom",
+    "url": "https://doomwiki.org/wiki/Doom"
+   },
+   "wiki": "Doom (videojuego de 1993)",
+   "claves": [
+    {
+     "nombre": "id Software",
+     "quien": "El estudio de John Carmack y John Romero que creó Doom.",
+     "wiki": "Id Software"
+    },
+    {
+     "nombre": "Shareware",
+     "quien": "El modelo de regalar una parte para vender el resto.",
+     "wiki": "Shareware"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo se distribuyó Doom en 1993?",
+    "respuesta": "Como shareware: el primer episodio gratis, subido al servidor de la Universidad de Wisconsin; los otros dos se compraban."
+   }
+  },
+  {
+   "materia": "El cosmos",
+   "pilar": "futuro",
+   "epoca": "2015",
+   "titulo": "Hay más árboles en la Tierra que estrellas en la galaxia",
+   "dato": "En la Tierra hay unos 3 billones de árboles (3,000,000,000,000). En la Vía Láctea hay entre 100,000 y 400,000 millones de estrellas.",
+   "explicacion": "La cifra de árboles la calculó en 2015 un equipo dirigido por Thomas Crowther, en Yale, con imágenes de satélite y conteos en más de 400,000 parcelas. Antes se pensaba que había unos 400,000 millones: se quedaban cortos casi ocho veces.\n\nEl mismo estudio estimó que se talan unos 15,000 millones de árboles al año y que hoy hay cerca de 46% menos que al inicio de la agricultura. Contar galaxias es más fácil que contar bosques: las estrellas no se esconden bajo otras.",
+   "fuente": {
+    "nombre": "Yale School of the Environment: Yale study reveals there are 3 trillion trees on Earth",
+    "url": "https://environment.yale.edu/news/article/Yale-study-reveals-there-are-3-trillion-trees-on-earth"
+   },
+   "wiki": "Vía Láctea",
+   "claves": [
+    {
+     "nombre": "Árbol",
+     "quien": "Unos 422 por cada persona del planeta, según el estudio de 2015.",
+     "wiki": "Árbol"
+    },
+    {
+     "nombre": "Estrella",
+     "quien": "Hay entre 100,000 y 400,000 millones solo en nuestra galaxia.",
+     "wiki": "Estrella"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuántos árboles hay en la Tierra según Crowther (2015) y cuántas estrellas en la Vía Láctea?",
+    "respuesta": "Unos 3 billones de árboles, contra 100,000 a 400,000 millones de estrellas."
+   }
+  },
+  {
+   "materia": "Gastronomía, vino y destilados",
+   "pilar": "gusto",
+   "epoca": "1839",
+   "titulo": "El cruasán llegó a París desde Viena",
+   "dato": "El cruasán no nació en Francia: su antepasado es el *kipferl* austriaco, que un panadero vienés empezó a vender en París hacia 1839.",
+   "explicacion": "August Zang, un oficial austriaco, abrió en la rue de Richelieu una «panadería vienesa». Los parisinos copiaron sus panes en forma de media luna. El cruasán de [[hojaldre|Masa de capas finas de harina y mantequilla que se separan al hornear.]] con mantequilla, el que conocemos, aparece en recetas francesas ya entrado el siglo XX.\n\nLa historia de que lo inventaron los panaderos de Viena en 1683, para celebrar la derrota de los otomanos, es una leyenda sin documentos de la época. La forma de luna era común en panes mucho antes.",
+   "fuente": {
+    "nombre": "Wikipedia: Cruasán",
+    "url": "https://es.wikipedia.org/wiki/Cruas%C3%A1n"
+   },
+   "wiki": "Cruasán",
+   "claves": [
+    {
+     "nombre": "Kipferl",
+     "quien": "El pan austriaco en forma de media luna del que desciende el cruasán.",
+     "wiki": "Kipferl"
+    },
+    {
+     "nombre": "Batalla de Kahlenberg",
+     "quien": "La derrota otomana frente a Viena (1683), origen de la leyenda del cruasán.",
+     "wiki": "Batalla de Kahlenberg"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿De dónde viene el cruasán?",
+    "respuesta": "Del kipferl austriaco, que August Zang vendió en París hacia 1839. La leyenda del sitio de Viena de 1683 no tiene documentos."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "Ensayos",
+  "autor": "Michel de Montaigne",
+  "capitulo": {
+   "numero": 2,
+   "total": 6,
+   "titulo": "«Porque era él, porque era yo»: la amistad con La Boétie"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Statue_d'%C3%89tienne_de_La_Bo%C3%A9tie.JPG?width=900",
+   "alt": "Estatua de piedra de un hombre joven con ropa del siglo XVI",
+   "pie": "Estatua de Étienne de La Boétie en Sarlat, su ciudad natal",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "¿Puedes explicar por qué tu mejor amigo es tu mejor amigo? Inténtalo. Seguramente salen razones: es leal, es divertido, te entiende. Pero mucha gente es leal y divertida, y no es tu mejor amigo.\n\nMontaigne se hizo esa pregunta durante años. Su respuesta es una de las frases más famosas de la lengua francesa. Y no explica nada. Precisamente por eso es tan buena."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Dos jueces en Burdeos"
+   },
+   {
+    "tipo": "texto",
+    "texto": "En el capítulo anterior vimos a Montaigne encerrarse en su torre en 1571, a los 38 años. Dijimos que tenía miedo a la muerte, que se había llevado a su amigo. Ese amigo es la clave de los *Ensayos*.\n\nSe llamaba Étienne de La Boétie. Nació el 1 de noviembre de 1530 en Sarlat, en el Périgord, al este de Burdeos. Era dos años mayor que Montaigne. Los dos estudiaron derecho y los dos fueron consejeros del [[Parlamento de Burdeos|En la Francia antigua, un parlamento era un alto tribunal de justicia, no una asamblea legislativa.]]: jueces, en lenguaje de hoy.\n\nLa Boétie ya tenía fama. De muy joven había escrito un texto incendiario contra la tiranía, y Montaigne lo había leído antes de conocerlo. Quería conocer a su autor."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Un encuentro en una fiesta"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Se conocieron hacia 1558 o 1559. Montaigne lo cuenta en su ensayo *De la amistad*, el capítulo 28 del primer libro. Dice que se buscaban antes de verse, por lo que cada uno oía del otro. Y luego:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Y en nuestro primer encuentro, que fue por azar en una gran fiesta y reunión de la ciudad, nos hallamos tan prendados, tan conocidos, tan obligados el uno con el otro, que desde entonces nada nos fue tan cercano como el uno al otro.",
+    "fuente": "Ensayos, I, 28, «De la amistad»"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Fue amistad a primera vista. Montaigne insiste en que no se parece a nada de lo que la gente suele llamar amistad. Las amistades comunes, dice, son «conocidos y familiaridades» unidos por alguna ocasión o conveniencia. Esta era otra cosa."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según Montaigne, ¿en qué se distingue la amistad común de la que tuvo con La Boétie?",
+    "opciones": [
+     "La común se basa en la conveniencia o la ocasión; la suya era una unión completa, sin cálculo",
+     "La común es entre personas del mismo oficio; la suya, entre personas distintas",
+     "La común dura poco; la suya duró toda la vida de los dos"
+    ],
+    "correcta": 0,
+    "explicacion": "Montaigne llama a las amistades comunes «conocidos y familiaridades» que nacen de una ocasión o de una utilidad. La suya no tenía propósito: era la unión misma. Y no duró toda la vida, sino unos cuatro años."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Las costuras borradas"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Montaigne trata de describir esa unión con una imagen de costurera. En una amistad común, dos personas se juntan como dos telas cosidas: se ve dónde termina una y empieza la otra. En la suya, no."
+   },
+   {
+    "tipo": "cita",
+    "texto": "En la amistad de la que hablo, las almas se mezclan y se confunden la una en la otra con una mezcla tan universal que borran y ya no encuentran la costura que las unió.",
+    "fuente": "Ensayos, I, 28, «De la amistad»"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Y entonces llega la frase. Montaigne la escribió en dos tiempos. En la primera edición, de 1580, decía que no podía explicar por qué lo quería. Años después, en el margen de su propio ejemplar, agregó a mano «porque era él». Y más tarde, con otra tinta, «porque era yo»."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Si me obligan a decir por qué lo quería, siento que no puede expresarse sino respondiendo: porque era él, porque era yo.",
+    "fuente": "Ensayos, I, 28, «De la amistad» (texto de la edición de 1595)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es una [[tautología|Afirmación que se explica a sí misma y por eso no agrega información; por ejemplo, «es así porque es así».]], y lo sabe. Pero dice algo cierto: las razones que damos para querer a alguien llegan después. Las buscamos para explicarnos lo que ya pasó. La amistad verdadera, para Montaigne, no tiene causa fuera de las dos personas."
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Bo%C3%A9tie_-_Manuscript_du_Discours_de_la_servitude_volontaire,_sd.png?width=900",
+    "alt": "Página manuscrita antigua en francés con letra del siglo XVI",
+    "pie": "Manuscrito del *Discurso de la servidumbre voluntaria*, el texto con el que Montaigne conoció a La Boétie antes de verlo",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El libro que no se publicó"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El texto de juventud de La Boétie se conoce como el *Discurso de la servidumbre voluntaria*. Su pregunta es inquietante: ¿por qué millones de personas obedecen a un solo tirano, que no tiene más fuerza que la que ellos le dan? Su respuesta: porque consienten. Basta con dejar de obedecer, sin violencia, para que el tirano caiga solo.\n\nMontaigne dice que La Boétie lo escribió muy joven, como un ejercicio: en la primera edición habla de menos de 18 años; en las notas posteriores, de 16. Pensaba publicarlo en el centro del primer libro de los *Ensayos*, como un homenaje.\n\nNo lo hizo. En 1574, durante las [[guerras de religión|Guerras civiles entre católicos y protestantes en Francia (1562–1598).]], unos panfletistas protestantes publicaron el *Discurso* sin permiso para atacar a la corona. Montaigne, que era católico y moderado, no quiso que el texto de su amigo sirviera a un bando. En su lugar puso 29 sonetos de amor de La Boétie. Defendió su memoria diciendo que su amigo era un hombre de orden, que respetaba las leyes de su país."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Una idea que viajó lejos",
+    "texto": "El *Discurso* de La Boétie es uno de los primeros textos sobre la desobediencia civil. Siglos después lo leyeron Tolstói y, a través de esa tradición, los movimientos de resistencia pacífica del siglo XX."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Cuatro años"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La amistad fue corta. En agosto de 1563, La Boétie se enfermó de una disentería (algunos dicen que de peste) cerca de Burdeos. Montaigne no se apartó de su cama. Murió el 18 de agosto de 1563, a los 32 años. Le dejó a Montaigne su biblioteca.\n\nMontaigne escribió después una larga carta a su padre contando esos días: las palabras de su amigo, su calma, su última petición de que Montaigne lo recordara. En el ensayo, años más tarde, mide el tamaño de la pérdida con una cuenta:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Si comparo todo el resto de mi vida con los cuatro años que me fue dado gozar de la dulce compañía y sociedad de ese hombre, no es más que humo, no es más que una noche oscura y triste.",
+    "fuente": "Ensayos, I, 28, «De la amistad»"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Y agrega que, desde el día que lo perdió, solo arrastra la vida con languidez. Que se había acostumbrado tanto a ser «dos» en todo, que ahora le parece ser solo la mitad.\n\nAquí se entiende la torre de 1571. Montaigne no escribió los *Ensayos* solo para conocerse. También escribió porque ya no tenía con quién hablar. El libro ocupa el lugar del amigo: es la conversación que siguió sola."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Por qué Montaigne no incluyó el *Discurso de la servidumbre voluntaria* en los *Ensayos*?",
+    "opciones": [
+     "Porque lo consideraba un texto flojo de juventud",
+     "Porque se había perdido el manuscrito",
+     "Porque unos panfletistas protestantes lo publicaron en 1574 para atacar a la corona y no quiso que sirviera a un bando"
+    ],
+    "correcta": 2,
+    "explicacion": "Tras su uso político en plena guerra de religión, Montaigne prefirió proteger la memoria de su amigo y puso en su lugar 29 sonetos de La Boétie."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "«Oh, amigos míos, no hay ningún amigo»"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El ensayo termina citando una frase que se atribuía a Aristóteles: «Oh, amigos míos, no hay ningún amigo». Montaigne la usa para decir que la amistad perfecta es rarísima: aparece, escribe, una vez cada tres siglos.\n\nTambién explica por qué es tan exigente. En una amistad así, dice, no hay favores ni deudas, porque todo es común. Quien da algo a su amigo no le hace un regalo: es el otro quien le hace el favor de dejarlo dar. Y por eso una amistad perfecta no se puede repartir entre muchos: uno no puede darse entero dos veces.\n\nNo es un tratado frío. Es la obra de un hombre que perdió algo y trató de entender qué era. Por eso, cinco siglos después, sigue sonando verdadero."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "En una frase",
+    "texto": "Montaigne no pudo explicar su amistad con La Boétie, y en esa imposibilidad encontró su definición: los mejores vínculos no tienen razones; tienen nombres."
+   }
+  ],
+  "paraLlevar": [
+   "Las razones para querer a alguien suelen llegar después. Lo esencial es la persona.",
+   "Una amistad completa no lleva cuentas: no hay favores ni deudas, porque todo es común.",
+   "A veces escribir es la forma de seguir hablando con quien ya no está."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Cómo explica Montaigne su amistad con La Boétie?",
+    "respuesta": "Con «porque era él, porque era yo», frase que agregó a mano en su ejemplar después de 1580. Dice que no tiene otra explicación."
+   },
+   {
+    "pregunta": "¿Cuándo murió La Boétie y cuánto duró su amistad con Montaigne?",
+    "respuesta": "El 18 de agosto de 1563, a los 32 años. La amistad duró unos cuatro años."
+   }
+  ],
+  "proximo": "Ensayos (Montaigne) · Capítulo 3: «Cada uno llama barbarie a lo que no es de su costumbre»: los caníbales",
+  "fuentes": [
+   {
+    "nombre": "Montaigne, Essays, trad. Charles Cotton, ed. W. C. Hazlitt, Proyecto Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/3600"
+   },
+   {
+    "nombre": "Universidad de Cambridge, exposición Montaigne: Of friendship",
+    "url": "https://wwwe.lib.cam.ac.uk/CUL/exhibitions/Montaigne/c3.html"
+   },
+   {
+    "nombre": "Wikipedia: Discurso sobre la servidumbre voluntaria",
+    "url": "https://es.wikipedia.org/wiki/Discurso_sobre_la_servidumbre_voluntaria"
+   },
+   {
+    "nombre": "Wikipedia: Michel de Montaigne",
+    "url": "https://es.wikipedia.org/wiki/Michel_Eyquem_de_Montaigne"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir del texto francés de la edición de 1595 (dominio público) y de la traducción inglesa de dominio público de Charles Cotton (ed. W. C. Hazlitt), Proyecto Gutenberg."
+ },
+ "palabra": {
+  "palabra": "Dádiva",
+  "categoria": "Sustantivo femenino",
+  "pronunciacion": "DÁ-di-va",
+  "definicion": "Cosa que se da sin pedir nada a cambio. En el lenguaje legal y de negocios, regalo hecho para obtener un favor de quien decide.",
+  "origen": "Del latín *dativa*, «cosas dadas», de *dare*, dar.",
+  "ejemplo": "Los proveedores del Savoy no le vendían a Escoffier: le hacían dádivas, y las cobraban en el precio.",
+  "repaso": {
+   "pregunta": "¿Qué significa «dádiva»?",
+   "respuesta": "Algo que se da sin pedir nada a cambio; también, el regalo que busca un favor de quien decide."
+  }
+ },
+ "frances": {
+  "frase": "Ça marche, chef !",
+  "traduccion": "¡Entendido, chef! (literalmente: «eso camina»)",
+  "pronunciacion": "sa MARSH, shef",
+  "uso": "Cultura de cocina. En una cocina francesa, cuando el encargado canta un pedido, cada estación responde «Ça marche !»: lo recibí y ya está en marcha. Es herencia directa de la brigada de Escoffier. Fuera de la cocina, «ça marche» es un «va» o «de acuerdo» muy común.",
+  "variante": "Para quedar de acuerdo con alguien: « Demain à huit heures ? — Ça marche ! » («¿Mañana a las ocho? —¡Va!»).",
+  "repaso": {
+   "pregunta": "¿Qué responde una estación en una cocina francesa cuando le cantan un pedido?",
+   "respuesta": "« Ça marche ! »: entendido, ya está en marcha."
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Por qué el Savoy despidió a Ritz y a Escoffier en 1898?",
+   "opciones": [
+    "Porque un plato enfermó al príncipe de Gales",
+    "Porque los cocineros se declararon en huelga",
+    "Por vino y licores desaparecidos y comisiones de proveedores"
+   ],
+   "correcta": 2,
+   "explicacion": "Los auditores hallaron más de 3,400 libras en vino y licores perdidos y comisiones de proveedores. El caso se cerró en 1900 con confesiones firmadas y devoluciones."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Cuánto fue la inflación anual de México en octubre de 2026 y qué esperaban los analistas?",
+   "opciones": [
+    "3.75%, por encima del 3.65% esperado",
+    "3.45%, igual a lo esperado",
+    "3.80%, por debajo del 4% esperado"
+   ],
+   "correcta": 0,
+   "explicacion": "El INEGI reportó 3.75%. Los economistas consultados por Reuters esperaban 3.65%. La subyacente fue de 3.80%."
+  },
+  {
+   "origen": "materias",
+   "pregunta": "¿Qué pasaría con tu GPS si nadie corrigiera los relojes de los satélites?",
+   "opciones": [
+    "Nada: los relojes atómicos son perfectos",
+    "Se equivocaría unos 10 km más cada día",
+    "Solo fallaría de noche"
+   ],
+   "correcta": 1,
+   "explicacion": "Los relojes de los satélites se adelantan unos 38 microsegundos al día por la relatividad. Sin corrección, el error de posición crecería unos 10 km diarios."
+  }
+ ]
+}

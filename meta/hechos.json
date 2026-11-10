@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09",
+ "actualizado": "2026-11-10",
  "materias": {
   "Arquitectura y diseño": [
    {
@@ -105,6 +105,42 @@
    }
   ],
   "Arte y pintura": [
+   {
+    "materia": "Arte y pintura",
+    "pilar": "cultura",
+    "epoca": "1890",
+    "titulo": "Van Gogh no vendió solo un cuadro",
+    "dato": "Se repite que Van Gogh vendió un solo cuadro en vida. Lo cierto es que es el único que sabemos con seguridad que se vendió en una exposición: *El viñedo rojo*, por 400 francos, en 1890.",
+    "explicacion": "Lo compró la pintora belga Anna Boch en la exposición del grupo Les XX, en Bruselas, unos meses antes de la muerte de Vincent. Pero hubo más: en 1882 su tío Cornelis le encargó y le pagó dibujos de La Haya, y hay registros de intercambios y ventas pequeñas a través de su hermano Theo, marchante de arte.\n\nEl mito sirve a una historia: el genio que nadie entendió. La verdad es menos dramática y más útil: vendía poco, a precios bajos, y su fama vino después, sobre todo por el trabajo de Johanna, la viuda de Theo.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Red_vineyards.jpg?width=900",
+     "alt": "Pintura de un viñedo rojo al atardecer con campesinos trabajando",
+     "pie": "*El viñedo rojo* (1888), hoy en el Museo Pushkin de Moscú",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Artnet News: The story of the only known painting Van Gogh sold",
+     "url": "https://news.artnet.com/art-world/story-only-known-painting-van-gogh-sold-2432275"
+    },
+    "wiki": "El viñedo rojo",
+    "claves": [
+     {
+      "nombre": "Vincent van Gogh",
+      "quien": "Pintor neerlandés (1853–1890); su fama llegó después de su muerte.",
+      "wiki": "Vincent van Gogh"
+     },
+     {
+      "nombre": "Postimpresionismo",
+      "quien": "El movimiento en el que se suele ubicar su obra, junto a Cézanne y Gauguin.",
+      "wiki": "Postimpresionismo"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué cuadro de Van Gogh se sabe con seguridad que se vendió en vida, y a quién?",
+     "respuesta": "*El viñedo rojo*, en 1890, a Anna Boch por 400 francos. No fue su única venta: hubo encargos y ventas pequeñas."
+    },
+    "fecha": "2026-11-10"
+   },
    {
     "claves": [
      {
@@ -747,6 +783,42 @@
   ],
   "Deporte y aire libre": [
    {
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
+    "epoca": "1954",
+    "titulo": "La barrera de los cuatro minutos duró 46 días",
+    "dato": "Roger Bannister corrió la milla en 3:59.4 el 6 de mayo de 1954. El 21 de junio, el australiano John Landy ya lo había superado: 3:58.0.",
+    "explicacion": "Bannister, estudiante de medicina, corrió en la pista de Iffley Road, en Oxford, con dos compañeros que le marcaban el ritmo. Se dice que después de él «todos» rompieron la barrera porque dejó de parecer imposible.\n\nHay algo de cierto, pero Landy ya había corrido varias veces cerca de 4:02: la barrera estaba a punto de caer. Lo que sí cambió fue la idea de límite. Hoy el récord es 3:43.13, de Hicham El Guerrouj, desde 1999.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bannister_and_Landy.jpg?width=900",
+     "alt": "Dos corredores de mediados del siglo XX",
+     "pie": "Roger Bannister y John Landy, los dos primeros hombres en bajar de cuatro minutos en la milla",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Wikipedia: Carrera de la milla",
+     "url": "https://es.wikipedia.org/wiki/Carrera_de_la_milla"
+    },
+    "wiki": "Roger Bannister",
+    "claves": [
+     {
+      "nombre": "John Landy",
+      "quien": "Corredor australiano que bajó el récord de Bannister 46 días después.",
+      "wiki": "John Michael Landy"
+     },
+     {
+      "nombre": "Carrera de la milla",
+      "quien": "La prueba de 1,609 metros, clásica del atletismo británico.",
+      "wiki": "Carrera de la milla"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuánto duró el récord de Bannister en la milla?",
+     "respuesta": "46 días: John Landy corrió 3:58.0 el 21 de junio de 1954."
+    },
+    "fecha": "2026-11-10"
+   },
+   {
     "claves": [
      {
       "nombre": "Juegos Olímpicos de México 1968",
@@ -1000,45 +1072,45 @@
     },
     "titulo": "El fundador de los Juegos ganó oro en poesía",
     "wiki": "Competiciones de arte en los Juegos Olímpicos"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Félix Carvajal",
-      "quien": "Cartero cubano que llegó a San Luis casi sin dinero y quedó cuarto.",
-      "wiki": "Félix Carvajal"
-     },
-     {
-      "nombre": "Thomas J. Hicks",
-      "quien": "El ganador oficial del maratón de 1904.",
-      "wiki": "Thomas J. Hicks"
-     }
-    ],
-    "dato": "En el maratón olímpico de San Luis 1904, el primero en llegar había hecho parte del recorrido en coche. El ganador oficial, Thomas Hicks, terminó tras recibir estricnina de sus entrenadores.",
-    "epoca": "1904",
-    "explicacion": "Hacía unos 32 °C y los caminos eran de tierra. De 32 corredores, solo 14 terminaron. Fred Lorz abandonó hacia la milla 9, subió a un coche y luego volvió a correr; lo celebraron como ganador hasta que lo descubrieron. Hicks ganó en 3:28:53, medio delirante, tras tomar estricnina con clara de huevo y brandy, que entonces se creía estimulante.\n\nEl cubano Félix Carvajal quedó cuarto después de comer manzanas en mal estado por el camino. Aquella carrera ayudó a que el deporte empezara a tomar en serio la hidratación y las reglas contra sustancias.",
-    "fecha": "2026-10-23",
-    "fuente": {
-     "nombre": "Olympedia: maratón masculino, San Luis 1904",
-     "url": "https://www.olympedia.org/results/56131"
-    },
-    "imagen": {
-     "alt": "Thomas Hicks en el maratón de 1904",
-     "credito": "Wikimedia Commons",
-     "pie": "Thomas Hicks, atendido por sus entrenadores durante el maratón de San Luis 1904",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marathon_Hicks1904.jpg?width=900"
-    },
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "repaso": {
-     "pregunta": "¿Qué le dieron a Thomas Hicks durante el maratón de 1904?",
-     "respuesta": "Estricnina con clara de huevo y brandy, que entonces se creía estimulante."
-    },
-    "titulo": "El maratón ganado con veneno",
-    "wiki": "Juegos Olímpicos de San Luis 1904"
    }
   ],
   "Derecho y poder": [
+   {
+    "materia": "Derecho y poder",
+    "pilar": "mundo",
+    "epoca": "1215",
+    "titulo": "La Carta Magna duró diez semanas",
+    "dato": "El documento más famoso de la historia del derecho fue anulado por el papa a las diez semanas de sellarse.",
+    "explicacion": "El rey Juan sin Tierra la selló el 15 de junio de 1215, en Runnymede, para calmar a los barones rebeldes. Juan pidió ayuda al papa Inocencio III, que el 24 de agosto la declaró nula. Siguió una guerra civil.\n\nSobrevivió porque, tras la muerte de Juan, sus sucesores la volvieron a emitir en 1216, 1217 y 1225, cada vez retocada. De sus 63 cláusulas originales, solo tres siguen vigentes en Inglaterra. Una es la que dice que nadie será encarcelado sino por [[juicio legal de sus pares|Ser juzgado por iguales y conforme a la ley del país; base de la idea del debido proceso.]] o por la ley del país.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg?width=900",
+     "alt": "Pergamino medieval escrito en latín con letra apretada",
+     "pie": "Uno de los ejemplares de 1215 de la Carta Magna, en la Biblioteca Británica",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Medievalists.net: 10 things you need to know about Magna Carta",
+     "url": "https://www.medievalists.net/2015/06/10-things-you-need-to-know-about-magna-carta/"
+    },
+    "wiki": "Carta Magna",
+    "claves": [
+     {
+      "nombre": "Juan sin Tierra",
+      "quien": "Rey de Inglaterra (1199–1216) que selló la carta y luego pidió anularla.",
+      "wiki": "Juan I de Inglaterra"
+     },
+     {
+      "nombre": "Inocencio III",
+      "quien": "Papa que la declaró nula el 24 de agosto de 1215.",
+      "wiki": "Inocencio III"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuánto duró vigente la Carta Magna de 1215 y por qué sobrevivió?",
+     "respuesta": "Unas diez semanas: Inocencio III la anuló el 24 de agosto de 1215. Sobrevivió porque se volvió a emitir en 1216, 1217 y 1225."
+    },
+    "fecha": "2026-11-10"
+   },
    {
     "claves": [
      {
@@ -1196,6 +1268,31 @@
    }
   ],
   "Disciplina y hábitos": [
+   {
+    "materia": "Disciplina y hábitos",
+    "pilar": "caracter",
+    "epoca": "2009",
+    "titulo": "Un hábito no tarda 21 días",
+    "dato": "En el estudio más citado sobre el tema, un hábito tardó en promedio 66 días en volverse automático. Para algunos fueron 18; para otros, 254.",
+    "explicacion": "Phillippa Lally y su equipo, en el University College de Londres, siguieron durante 12 semanas a 96 voluntarios que querían adoptar algo nuevo: beber agua, correr, comer fruta. La mediana fue de 66 días, y saltarse un día no arruinaba el proceso.\n\nEl famoso «21 días» viene del cirujano Maxwell Maltz, en *Psico-Cibernética* (1960). Él observó que sus pacientes tardaban un **mínimo** de unos 21 días en acostumbrarse a su nueva cara. Con los años, el mínimo se volvió promesa.",
+    "fuente": {
+     "nombre": "James Clear: How long does it actually take to form a new habit? (resume el estudio de Lally et al., 2009)",
+     "url": "https://jamesclear.com/new-habit"
+    },
+    "wiki": "Hábito",
+    "claves": [
+     {
+      "nombre": "Psico-Cibernética",
+      "quien": "El libro de Maxwell Maltz (1960) de donde salió el mito de los 21 días.",
+      "wiki": "Psico-Cibernética"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuánto tardó en promedio un hábito en volverse automático en el estudio de Lally (2009)?",
+     "respuesta": "66 días de mediana, con un rango de 18 a 254. Los 21 días eran el mínimo que observó Maltz en sus pacientes."
+    },
+    "fecha": "2026-11-10"
+   },
    {
     "claves": [
      {
@@ -1503,6 +1600,36 @@
    }
   ],
   "El cosmos": [
+   {
+    "materia": "El cosmos",
+    "pilar": "futuro",
+    "epoca": "2015",
+    "titulo": "Hay más árboles en la Tierra que estrellas en la galaxia",
+    "dato": "En la Tierra hay unos 3 billones de árboles (3,000,000,000,000). En la Vía Láctea hay entre 100,000 y 400,000 millones de estrellas.",
+    "explicacion": "La cifra de árboles la calculó en 2015 un equipo dirigido por Thomas Crowther, en Yale, con imágenes de satélite y conteos en más de 400,000 parcelas. Antes se pensaba que había unos 400,000 millones: se quedaban cortos casi ocho veces.\n\nEl mismo estudio estimó que se talan unos 15,000 millones de árboles al año y que hoy hay cerca de 46% menos que al inicio de la agricultura. Contar galaxias es más fácil que contar bosques: las estrellas no se esconden bajo otras.",
+    "fuente": {
+     "nombre": "Yale School of the Environment: Yale study reveals there are 3 trillion trees on Earth",
+     "url": "https://environment.yale.edu/news/article/Yale-study-reveals-there-are-3-trillion-trees-on-earth"
+    },
+    "wiki": "Vía Láctea",
+    "claves": [
+     {
+      "nombre": "Árbol",
+      "quien": "Unos 422 por cada persona del planeta, según el estudio de 2015.",
+      "wiki": "Árbol"
+     },
+     {
+      "nombre": "Estrella",
+      "quien": "Hay entre 100,000 y 400,000 millones solo en nuestra galaxia.",
+      "wiki": "Estrella"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuántos árboles hay en la Tierra según Crowther (2015) y cuántas estrellas en la Vía Láctea?",
+     "respuesta": "Unos 3 billones de árboles, contra 100,000 a 400,000 millones de estrellas."
+    },
+    "fecha": "2026-11-10"
+   },
    {
     "claves": [
      {
@@ -2047,6 +2174,36 @@
    }
   ],
   "Gastronomía, vino y destilados": [
+   {
+    "materia": "Gastronomía, vino y destilados",
+    "pilar": "gusto",
+    "epoca": "1839",
+    "titulo": "El cruasán llegó a París desde Viena",
+    "dato": "El cruasán no nació en Francia: su antepasado es el *kipferl* austriaco, que un panadero vienés empezó a vender en París hacia 1839.",
+    "explicacion": "August Zang, un oficial austriaco, abrió en la rue de Richelieu una «panadería vienesa». Los parisinos copiaron sus panes en forma de media luna. El cruasán de [[hojaldre|Masa de capas finas de harina y mantequilla que se separan al hornear.]] con mantequilla, el que conocemos, aparece en recetas francesas ya entrado el siglo XX.\n\nLa historia de que lo inventaron los panaderos de Viena en 1683, para celebrar la derrota de los otomanos, es una leyenda sin documentos de la época. La forma de luna era común en panes mucho antes.",
+    "fuente": {
+     "nombre": "Wikipedia: Cruasán",
+     "url": "https://es.wikipedia.org/wiki/Cruas%C3%A1n"
+    },
+    "wiki": "Cruasán",
+    "claves": [
+     {
+      "nombre": "Kipferl",
+      "quien": "El pan austriaco en forma de media luna del que desciende el cruasán.",
+      "wiki": "Kipferl"
+     },
+     {
+      "nombre": "Batalla de Kahlenberg",
+      "quien": "La derrota otomana frente a Viena (1683), origen de la leyenda del cruasán.",
+      "wiki": "Batalla de Kahlenberg"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿De dónde viene el cruasán?",
+     "respuesta": "Del kipferl austriaco, que August Zang vendió en París hacia 1839. La leyenda del sitio de Viena de 1683 no tiene documentos."
+    },
+    "fecha": "2026-11-10"
+   },
    {
     "claves": [
      {
@@ -3106,6 +3263,36 @@
   ],
   "Mente y decisiones": [
    {
+    "materia": "Mente y decisiones",
+    "pilar": "mente",
+    "epoca": "1654",
+    "titulo": "Una partida interrumpida inventó la probabilidad",
+    "dato": "La teoría de la probabilidad nació de una pregunta de un jugador: si un juego se interrumpe a la mitad, ¿cómo se reparte el dinero apostado?",
+    "explicacion": "El escritor Antoine Gombaud, conocido como el caballero de Méré, le planteó el problema a Blaise Pascal. En el verano de 1654, Pascal se lo escribió a Pierre de Fermat, y en unas cuantas cartas los dos lo resolvieron.\n\nSu idea: no repartir según lo que ya pasó, sino contando todos los finales posibles y cuántos gana cada jugador. Es el germen del [[valor esperado|Promedio de lo que puedes ganar o perder, ponderado por la probabilidad de cada resultado.]], que hoy usan seguros, bancos y cualquiera que evalúa un proyecto.",
+    "fuente": {
+     "nombre": "University of York: Pascal and Fermat on the problem of points (correspondencia de 1654)",
+     "url": "https://www.york.ac.uk/depts/maths/histstat/pascal.htm"
+    },
+    "wiki": "Problema de la partida interrumpida",
+    "claves": [
+     {
+      "nombre": "Blaise Pascal",
+      "quien": "Matemático y filósofo francés (1623–1662) que recibió la pregunta del jugador.",
+      "wiki": "Blaise Pascal"
+     },
+     {
+      "nombre": "Pierre de Fermat",
+      "quien": "Abogado y matemático de Toulouse; resolvió el problema con Pascal por carta.",
+      "wiki": "Pierre de Fermat"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué problema resolvieron Pascal y Fermat en 1654?",
+     "respuesta": "Cómo repartir lo apostado en un juego interrumpido: contando los finales posibles. De ahí nació la teoría de la probabilidad."
+    },
+    "fecha": "2026-11-10"
+   },
+   {
     "claves": [
      {
       "nombre": "Libertad condicional",
@@ -3815,6 +4002,36 @@
    }
   ],
   "Productos digitales escalables": [
+   {
+    "materia": "Productos digitales escalables",
+    "pilar": "patrimonio",
+    "epoca": "1993",
+    "titulo": "Doom regaló la tercera parte del juego",
+    "dato": "Doom se lanzó el 10 de diciembre de 1993 subiendo el primer episodio, gratis, al servidor de una universidad. Para jugar los otros dos había que pagar.",
+    "explicacion": "Id Software, un estudio de Texas de muy pocas personas, usó el modelo [[shareware|Programa que se distribuye gratis, completo o en parte, para que el usuario pague si quiere el resto o seguir usándolo.]]: copia libremente el episodio uno, *Knee-Deep in the Dead*. El archivo se subió al servidor FTP de la Universidad de Wisconsin, que se saturó.\n\nLa lógica: cada copia gratis no le costaba nada a id y trabajaba como anuncio. Los jugadores se lo pasaban en disquetes y por redes. Quien quería más pedía la versión completa por correo. Fue de los primeros grandes éxitos de vender software sin tiendas.",
+    "fuente": {
+     "nombre": "Doom Wiki: Doom",
+     "url": "https://doomwiki.org/wiki/Doom"
+    },
+    "wiki": "Doom (videojuego de 1993)",
+    "claves": [
+     {
+      "nombre": "id Software",
+      "quien": "El estudio de John Carmack y John Romero que creó Doom.",
+      "wiki": "Id Software"
+     },
+     {
+      "nombre": "Shareware",
+      "quien": "El modelo de regalar una parte para vender el resto.",
+      "wiki": "Shareware"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cómo se distribuyó Doom en 1993?",
+     "respuesta": "Como shareware: el primer episodio gratis, subido al servidor de la Universidad de Wisconsin; los otros dos se compraban."
+    },
+    "fecha": "2026-11-10"
+   },
    {
     "claves": [
      {
