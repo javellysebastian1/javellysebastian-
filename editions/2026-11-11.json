@@ -1,0 +1,951 @@
+{
+ "calentamiento": [
+  {
+   "origen": "Edición #20",
+   "pregunta": "¿Cómo organizó Escoffier la cocina del Savoy?",
+   "respuesta": "En una brigada: estaciones especializadas, cada una con su jefe, bajo una sola cadena de mando y con pedidos cantados en voz alta."
+  },
+  {
+   "origen": "Edición #20",
+   "pregunta": "¿Cuánto fue la inflación anual de México en octubre de 2026?",
+   "respuesta": "3.75%, por encima del 3.65% que esperaban los analistas. La subyacente fue de 3.80%."
+  },
+  {
+   "origen": "Edición #20",
+   "pregunta": "¿Por qué tu GPS necesita la relatividad de Einstein?",
+   "respuesta": "Los relojes de los satélites se adelantan unos 38 microsegundos al día. Sin corregirlos, el error crecería unos 10 km diarios."
+  }
+ ],
+ "disponibleDesde": "2026-11-11T08:00:00-06:00",
+ "fecha": "2026-11-11",
+ "frances": {
+  "frase": "Ça vaut le détour.",
+  "pronunciacion": "sa vo lə de-TUR",
+  "repaso": {
+   "pregunta": "¿Cómo recomiendas en francés un lugar que merece desviarse para visitarlo?",
+   "respuesta": "« Ça vaut le détour. »"
+  },
+  "traduccion": "Vale la pena desviarse para ir (literalmente: «vale el rodeo»).",
+  "uso": "Cultura del gusto. Viene del lenguaje de las guías de viaje: la Guía Michelin describe sus dos estrellas como una cocina que *mérite un détour* («merece un rodeo») y las tres como una que *vaut le voyage* («vale el viaje»). En la conversación diaria se usa para recomendar un restaurante, un pueblo o una destilería.",
+  "variante": "Para recomendar con más fuerza: « Ça vaut vraiment le voyage ! » («¡De verdad vale el viaje!»)."
+ },
+ "hechos": [
+  {
+   "claves": [
+    {
+     "nombre": "Trinity College",
+     "quien": "El colegio de Cambridge al que Wittgenstein volvió en 1929.",
+     "wiki": "Trinity College (Cambridge)"
+    },
+    {
+     "nombre": "Juego de lenguaje",
+     "quien": "La idea de su segunda etapa: el significado de una palabra está en su uso.",
+     "wiki": "Juego del lenguaje (filosofía)"
+    }
+   ],
+   "dato": "En 1919, Ludwig Wittgenstein cedió toda su herencia a sus hermanos. Su familia era la segunda más rica del Imperio austrohúngaro, después de los Rothschild.",
+   "epoca": "1919",
+   "explicacion": "Volvió de la Primera Guerra Mundial convencido de que su libro, el *Tractatus*, ya había resuelto los problemas de la filosofía. Quería una vida austera y exigió que no quedara nada a su nombre. Solo excluyó a su hermana Margarete, que ya era muy rica.\n\nEntre 1920 y 1926 fue maestro rural en pueblos de la Baja Austria. Lo dejó tras golpear a un alumno. Después volvió a Cambridge y cambió de opinión sobre su propio libro: la filosofía no estaba resuelta.",
+   "fuente": {
+    "nombre": "MacTutor, Universidad de St Andrews: Ludwig Wittgenstein",
+    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Wittgenstein/"
+   },
+   "imagen": {
+    "alt": "Retrato en blanco y negro de un joven de mirada seria",
+    "credito": "Wikimedia Commons",
+    "pie": "Ludwig Wittgenstein hacia 1910",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_Wittgenstein_1910.jpg?width=900"
+   },
+   "materia": "Filosofía para vivir",
+   "pilar": "mente",
+   "repaso": {
+    "pregunta": "¿Qué hizo Wittgenstein con su herencia en 1919?",
+    "respuesta": "La cedió a sus hermanos (salvo a Margarete) y se hizo maestro rural en Austria."
+   },
+   "titulo": "El filósofo que regaló una fortuna",
+   "wiki": "Ludwig Wittgenstein"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "Relación interpersonal",
+     "quien": "El vínculo entre dos personas, que puede empezar con una charla de 14 minutos.",
+     "wiki": "Relación interpersonal"
+    },
+    {
+     "nombre": "Conversación de ascensor",
+     "quien": "La plática breve con desconocidos que solemos evitar.",
+     "wiki": "Conversación de ascensor"
+    }
+   ],
+   "dato": "En un experimento de 2014 en Chicago, los viajeros a quienes se pidió conversar con un desconocido disfrutaron más el trayecto. Otro grupo había predicho justo lo contrario.",
+   "epoca": "2014",
+   "explicacion": "Nicholas Epley y Juliana Schroeder, de la Universidad de Chicago, trabajaron con viajeros del tren suburbano. Las conversaciones duraron unos 14 minutos en promedio, y quienes hablaron no fueron menos productivos. El resultado se repitió en autobús.\n\nSubestimamos cuánto le interesa al otro conversar y exageramos el riesgo de rechazo. Como casi nadie se anima, casi nadie descubre que es agradable. Es una [[norma social|Regla no escrita que la mayoría sigue porque cree que los demás la siguen.]] que se sostiene sola.",
+   "fuente": {
+    "nombre": "Epley y Schroeder (2014), Journal of Experimental Psychology: General",
+    "url": "https://faculty.haas.berkeley.edu/jschroeder/Publications/Epley%26Schroeder2014.pdf"
+   },
+   "materia": "Relaciones y vida social",
+   "pilar": "caracter",
+   "repaso": {
+    "pregunta": "¿Qué encontraron Epley y Schroeder en 2014 con viajeros de tren?",
+    "respuesta": "Que conversar con un desconocido hizo el viaje más agradable, aunque la gente predecía lo contrario."
+   },
+   "titulo": "Hablar con un extraño en el tren mejora el viaje",
+   "wiki": "Psicología social"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "Sepsis puerperal",
+     "quien": "La infección después del parto que mataba a las madres en Viena.",
+     "wiki": "Sepsis puerperal"
+    },
+    {
+     "nombre": "Efecto Semmelweis",
+     "quien": "El reflejo de rechazar una verdad incómoda.",
+     "wiki": "Efecto Semmelweis"
+    },
+    {
+     "nombre": "Higiene de manos",
+     "quien": "La práctica que hoy la OMS considera básica para evitar infecciones.",
+     "wiki": "Higiene de manos"
+    }
+   ],
+   "dato": "En abril de 1847, en una clínica de maternidad de Viena, moría el 18.3% de las madres. Ignaz Semmelweis impuso lavarse las manos con cal clorada y en 1848 la cifra bajó a 1.3%.",
+   "epoca": "1847",
+   "explicacion": "Los médicos iban de las autopsias a atender partos sin lavarse. Semmelweis no conocía los gérmenes, pero vio que las madres atendidas por parteras morían mucho menos, y dedujo que algo pasaba de los cadáveres a las pacientes.\n\nSus colegas lo rechazaron: no había teoría que lo explicara y él los acusaba con dureza. Murió en 1865 en un manicomio, de una herida infectada. Hoy el [[efecto Semmelweis|Rechazo automático de evidencias nuevas que contradicen lo establecido.]] lleva su nombre.",
+   "fuente": {
+    "nombre": "European Journal of Epidemiology (2022), vía PMC: Semmelweis y la fiebre puerperal",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9209376/"
+   },
+   "imagen": {
+    "alt": "Retrato antiguo de un hombre calvo con bigote",
+    "credito": "Wikimedia Commons",
+    "pie": "Ignaz Semmelweis en 1860",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ignaz_Semmelweis_1860.jpg?width=900"
+   },
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "repaso": {
+    "pregunta": "¿Qué logró Semmelweis en 1847 y cómo?",
+    "respuesta": "Bajó la mortalidad materna de 18.3% a cerca de 1% haciendo que los médicos se lavaran con cal clorada."
+   },
+   "titulo": "Lavarse las manos bajó la muerte de 18% a 1%",
+   "wiki": "Ignaz Semmelweis"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "Gustave Eiffel",
+     "quien": "Ingeniero francés (1832–1923) que la construyó y la defendió.",
+     "wiki": "Gustave Eiffel"
+    },
+    {
+     "nombre": "Exposición Universal de París (1889)",
+     "quien": "La feria para la que se levantó la torre, en el centenario de la Revolución.",
+     "wiki": "Exposición Universal de París (1889)"
+    }
+   ],
+   "dato": "La Torre Eiffel se construyó con un permiso de 20 años. En 1910 pasaba a la Ciudad de París y podía desmontarse. La salvó la radio.",
+   "epoca": "1889",
+   "explicacion": "Gustave Eiffel sabía que su torre corría peligro y la convirtió en laboratorio. En 1898 se hizo el primer enlace por radio en Morse desde la torre hasta el Panteón. Luego financió los experimentos militares del capitán Gustave Ferrié: en 1908 las señales llegaban a unos 6,000 km.\n\nUna antena de 300 metros era demasiado útil para tirarla. La concesión se prorrogó 70 años desde 1910. En 1918, sus antenas interceptaron mensajes alemanes. Lo que se hizo para una feria sobrevivió por ser útil.",
+   "fuente": {
+    "nombre": "Torre Eiffel, sitio oficial: How did radio save the tower?",
+    "url": "https://www.toureiffel.paris/en/news/130-years/how-did-radio-save-tower"
+   },
+   "imagen": {
+    "alt": "Fotografía antigua de la Torre Eiffel a medio construir",
+    "credito": "Wikimedia Commons",
+    "pie": "La torre en construcción, julio de 1888",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tour_Eiffel,_Juillet_1888.jpg?width=900"
+   },
+   "materia": "Arquitectura y diseño",
+   "pilar": "cultura",
+   "repaso": {
+    "pregunta": "¿Por qué no desmontaron la Torre Eiffel en 1910?",
+    "respuesta": "Porque se volvió una antena de radio y telegrafía militar indispensable; su concesión se prorrogó 70 años."
+   },
+   "titulo": "La Torre Eiffel tenía fecha de caducidad",
+   "wiki": "Torre Eiffel"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "Emperador de los franceses",
+     "quien": "El título que Napoleón se dio en 1804.",
+     "wiki": "Emperador de los franceses"
+    },
+    {
+     "nombre": "Tratado de Amiens",
+     "quien": "La paz de 1802 con Gran Bretaña; al romperse, empezó la guerra de caricaturas.",
+     "wiki": "Tratado de Amiens (1802)"
+    }
+   ],
+   "dato": "Napoleón medía unos 1.68 metros, un poco más que el francés promedio de su época. El mito del emperador diminuto nació de una confusión de unidades y de la propaganda británica.",
+   "epoca": "Siglo XIX",
+   "explicacion": "Sus allegados dieron «5 pies 2 pulgadas», pero en medidas francesas, que eran más largas que las inglesas. Leídas como inglesas, salen unos 1.57 metros: de ahí el error.\n\nEl resto lo hizo el caricaturista [[James Gillray|Caricaturista británico (1756–1815) que dibujaba a Napoleón como un hombrecillo colérico, «Little Boney».]]. Desde 1803 lo dibujó diminuto y furioso. La imagen duró más que los hechos: es propaganda visual que todavía funciona dos siglos después.",
+   "fuente": {
+    "nombre": "History.com: Was Napoleon short?",
+    "url": "https://www.history.com/articles/napoleon-complex-short"
+   },
+   "imagen": {
+    "alt": "Caricatura antigua de un Napoleón pequeño horneando figuras",
+    "credito": "Wikimedia Commons",
+    "pie": "«Tiddy-Doll», caricatura de James Gillray (1806)",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gillray-Tiddy-Doll.png?width=900"
+   },
+   "materia": "Historia y geopolítica",
+   "pilar": "mundo",
+   "repaso": {
+    "pregunta": "¿Cuánto medía Napoleón y por qué se cree que era bajo?",
+    "respuesta": "Unos 1.68 m. El mito viene de leer medidas francesas como inglesas y de las caricaturas de Gillray."
+   },
+   "titulo": "Napoleón no era bajo",
+   "wiki": "Napoleón Bonaparte"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "Euronext Ámsterdam",
+     "quien": "La bolsa heredera del mercado donde se compraban y vendían las participaciones de la VOC.",
+     "wiki": "Euronext Ámsterdam"
+    },
+    {
+     "nombre": "Siglo de Oro neerlandés",
+     "quien": "La época de auge comercial y artístico de los Países Bajos en el siglo XVII.",
+     "wiki": "Siglo de Oro neerlandés"
+    }
+   ],
+   "dato": "El documento de inversión en acciones más antiguo conocido es un recibo del 9 de septiembre de 1606 de la Compañía Neerlandesa de las Indias Orientales. Lo encontró un estudiante en 2010.",
+   "epoca": "1606",
+   "explicacion": "La compañía, la VOC, se fundó en 1602. Pieter Harmensz, mensajero de la ciudad de Enkhuizen, suscribió 150 florines y los pagó a plazos; el papel es el recibo del último pago. El estudiante de historia Ruben Schalk lo halló en el archivo de Enkhuizen.\n\nNo es un «certificado» moderno: la VOC no los emitía. Las participaciones se anotaban en un libro. Lo revolucionario era otra cosa: el capital era permanente y las participaciones se podían vender a otro. De ahí nació la bolsa de Ámsterdam.",
+   "fuente": {
+    "nombre": "Westfries Archief: The oldest share",
+    "url": "https://westfriesarchief.nl/historie/thema-s/geld-en-handel/the-oldest-share"
+   },
+   "imagen": {
+    "alt": "Documento manuscrito antiguo en neerlandés",
+    "credito": "Wikimedia Commons",
+    "pie": "El recibo de 1606 de la cámara de Enkhuizen de la VOC",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/VOC_aandeel_9_september_1606.jpg?width=900"
+   },
+   "materia": "Inversión y finanzas personales",
+   "pilar": "patrimonio",
+   "repaso": {
+    "pregunta": "¿Qué es el documento de 1606 de la VOC y por qué importa?",
+    "respuesta": "Un recibo de pago de participaciones, el más antiguo conocido. La VOC tenía capital permanente y participaciones transferibles: el origen de la bolsa."
+   },
+   "titulo": "El «certificado de acción» más antiguo es un recibo",
+   "wiki": "Compañía Neerlandesa de las Indias Orientales"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "Go",
+     "quien": "El juego antiguo que fue el gran reto de la IA hasta 2016.",
+     "wiki": "Go"
+    },
+    {
+     "nombre": "David Silver",
+     "quien": "Investigador de DeepMind que dirigió el desarrollo de AlphaGo.",
+     "wiki": "David Silver (informático)"
+    }
+   ],
+   "dato": "En marzo de 2016, en la segunda partida contra Lee Sedol, AlphaGo hizo la «jugada 37». Según DeepMind, la probabilidad de que un humano la jugara era de 1 entre 10,000.",
+   "epoca": "2016",
+   "explicacion": "AlphaGo aprendió de partidas humanas y luego jugando millones contra sí mismo. Así encontró jugadas que la tradición del [[go|Juego de mesa chino de más de 2,500 años, con muchas más posiciones posibles que el ajedrez.]] descartaba. Los comentaristas creyeron que era un error; resultó decisiva.\n\nAlphaGo ganó 4 a 1. La única victoria de Lee fue en la cuarta partida, con su propia jugada de 1 entre 10,000. En 2019 se retiró y dijo: «Aunque llegue a ser el número uno, hay una entidad que no puede ser derrotada».",
+   "fuente": {
+    "nombre": "Google DeepMind: AlphaGo",
+    "url": "https://deepmind.google/research/projects/alphago/"
+   },
+   "imagen": {
+    "alt": "Retrato de un hombre joven con lentes",
+    "credito": "Wikimedia Commons",
+    "pie": "Lee Sedol en 2012",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lee_Se-dol_2012.jpg?width=900"
+   },
+   "materia": "IA y el futuro",
+   "pilar": "futuro",
+   "repaso": {
+    "pregunta": "¿Qué fue la «jugada 37» de AlphaGo?",
+    "respuesta": "Una jugada de la segunda partida contra Lee Sedol (2016) que un humano haría con probabilidad de 1 entre 10,000; ayudó a ganar."
+   },
+   "titulo": "La jugada que un humano no habría hecho",
+   "wiki": "Go por computadora"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "Reloj mecánico",
+     "quien": "El tipo de reloj cuyo movimiento debe ser suizo para llevar la etiqueta.",
+     "wiki": "Reloj mecánico"
+    },
+    {
+     "nombre": "Suiza",
+     "quien": "El país cuya ley de 2017, llamada «Swissness», protege su nombre en productos.",
+     "wiki": "Suiza"
+    }
+   ],
+   "dato": "Desde el 1 de enero de 2017, un reloj solo puede llevar «Swiss made» si al menos el 60% de sus costos de fabricación se generan en Suiza. Antes no había ningún umbral para el reloj completo.",
+   "epoca": "2017",
+   "explicacion": "La regla vieja, de 1971, se fijaba sobre todo en el [[movimiento|El mecanismo interior que mueve las manecillas; el «motor» del reloj.]]: bastaba que fuera suizo, con al menos 50% del valor de sus piezas. La caja, la carátula o el cristal podían venir de cualquier parte. La revisión aprobada en 2016 sumó el 60% para todo el reloj, y también exige desarrollo técnico, encajado e inspección final en Suiza.\n\nPor qué importa: dos palabras en una carátula valen dinero, y por eso se regulan como una denominación de origen. Es la misma lógica que el tequila: lo que se protege no es una marca, sino la promesa de un lugar.",
+   "fuente": {
+    "nombre": "Instituto Federal Suizo de la Propiedad Intelectual: revisión de la ordenanza «Swiss» para relojes",
+    "url": "https://www.ige.ch/en/law-and-policy/national-ip-law/indications-of-source/swiss-indications-of-source/industry-ordinances/revision-of-the-ordinance-on-the-use-of-swiss-for-watches"
+   },
+   "materia": "Oficios del lujo y estilo",
+   "pilar": "gusto",
+   "profundizar": {
+    "titulo": "Federación de la Industria Relojera Suiza: guía «Swiss made» (en inglés, PDF)",
+    "url": "https://www.fhs.swiss/file/8/Guide_FH_v.5_en.pdf"
+   },
+   "repaso": {
+    "pregunta": "¿Qué exige desde 2017 la etiqueta «Swiss made» en un reloj?",
+    "respuesta": "Al menos 60% de los costos de fabricación del reloj completo en Suiza, movimiento suizo, y desarrollo, encajado e inspección final en Suiza."
+   },
+   "titulo": "«Swiss made» exige 60% del costo en Suiza",
+   "wiki": "Relojería"
+  }
+ ],
+ "historia": {
+  "fuentes": [
+   {
+    "nombre": "Consejo Regulador del Tequila: Denominación de origen",
+    "url": "https://www.crt.org.mx/en/appellation-of-origin/"
+   },
+   {
+    "nombre": "Consejo Regulador del Tequila: Cronología",
+    "url": "https://old.crt.org.mx/index.php/en/pages-2/chronology"
+   },
+   {
+    "nombre": "El Financiero: Denominación de origen del tequila cumple 40 años",
+    "url": "https://www.elfinanciero.com.mx/after-office/denominacion-de-origen-del-tequila-cumple-40-anos/"
+   },
+   {
+    "nombre": "OMPI: Liquid Gold from the Agave",
+    "url": "https://www.wipo.int/en/web/ip-advantage/w/stories/liquid-gold-from-the-agave"
+   },
+   {
+    "nombre": "Cámara de Diputados: Ley Federal de Protección a la Propiedad Industrial (2020)",
+    "url": "https://portalhcd.diputados.gob.mx/LeyesBiblio/pdf/LFPPI_010720.pdf"
+   },
+   {
+    "nombre": "Forbes México: producción y exportación de tequila 2024",
+    "url": "https://forbes.com.mx/?p=1294491"
+   },
+   {
+    "nombre": "Wikipedia: Denominaciones de origen de México",
+    "url": "https://es.wikipedia.org/wiki/Denominaciones_de_origen_de_M%C3%A9xico"
+   }
+  ],
+  "paraProfundizar": {
+   "minutos": 5,
+   "titulo": "OMPI: Liquid Gold from the Agave, la historia de la denominación del tequila (en inglés)",
+   "url": "https://www.wipo.int/ipadvantage/es/details.jsp?id=2611"
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Cuándo se declaró la denominación de origen Tequila y qué significa que sea un «bien nacional»?",
+    "respuesta": "El 9 de diciembre de 1974, en el Diario Oficial. Ninguna empresa es dueña del nombre: se usa con autorización del IMPI."
+   },
+   {
+    "pregunta": "¿Cuántos municipios abarca la denominación del tequila y en qué estados?",
+    "respuesta": "181: 125 en Jalisco, 30 en Michoacán, 11 en Tamaulipas, 8 en Nayarit y 7 en Guanajuato."
+   }
+  ],
+  "tarjetas": [
+   {
+    "contexto": "Jalisco, principios de los años setenta. El tequila ya se bebe en medio mundo, pero no todo lo que se vende con ese nombre sale de aquí. Según el [[Consejo Regulador del Tequila|Organismo privado sin fines de lucro, creado en 1994, que certifica que cada botella cumple la norma.]], desde los años sesenta Japón y España producían bebidas que llamaban «tequila».\n\nUna marca registrada no servía: protege el nombre de una empresa, no el de una región. Y «tequila» no era de nadie en particular. Era el nombre de un pueblo.\n\nEn 1973, la industria tequilera pidió al gobierno una figura legal que casi nadie usaba en México.",
+    "gancho": "En los años sesenta, en Japón y en España se vendía «tequila». México tuvo que demostrar que una palabra puede ser un lugar.",
+    "opciones": [
+     "Le dio la marca «Tequila» a la empresa más antigua, José Cuervo",
+     "Declaró el nombre una denominación de origen: un bien de la nación ligado a un territorio",
+     "Prohibió exportar agave azul para que nadie más pudiera destilarlo"
+    ],
+    "pregunta": "¿Qué hizo México para que solo el tequila de ciertas tierras pudiera llamarse así?",
+    "tipo": "adivina"
+   },
+   {
+    "imagen": {
+     "alt": "Un jimador corta las hojas de un agave con una coa",
+     "credito": "Wikimedia Commons",
+     "pie": "La jima: el jimador corta las pencas con la coa hasta dejar la «piña», el corazón del agave",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tequila,_Jalisco,_México,_La_Jima_del_Agave.jpg?width=900"
+    },
+    "texto": "La historia empieza mucho antes de la ley. En 1795, el rey Carlos IV autorizó a José María Guadalupe de Cuervo a producir comercialmente en Tequila. Lo que vendía no se llamaba tequila: se llamaba «vino mezcal de Tequila».\n\nEn 1873, Cenobio Sauza compró la destilería La Antigua Cruz, que en 1888 rebautizó La Perseverancia. Fue el primero en exportar a Estados Unidos. En la Feria de Chicago de 1893, la bebida todavía se premió como «mezcal de Tequila».\n\nCon los años, el apellido se comió al sustantivo. «Tequila» dejó de ser «el de Tequila» y se volvió el nombre de la bebida. Ese es el peligro de todo producto exitoso: cuando el nombre se vuelve genérico, cualquiera puede usarlo.\n\nYa en 1943 la industria buscó protegerlo. Ese año, México y Estados Unidos firmaron un acuerdo de reciprocidad: Estados Unidos reconocía el tequila y México reconocía el *bourbon*.\n\nEl paso decisivo vino tres décadas después. Según la cronología del Consejo Regulador, la Cámara Regional de la Industria Tequilera presentó la solicitud el 27 de septiembre de 1973. El Financiero fecha otra solicitud, de Tequila Herradura y la Cámara, en febrero de ese año. Las fuentes no coinciden en el detalle.\n\nEl 9 de diciembre de 1974 se publicó en el *Diario Oficial* la declaratoria. Era la primera [[denominación de origen|Nombre de una región que identifica un producto cuya calidad se debe a ese lugar: su clima, su suelo y sus técnicas.]] de México.",
+    "tipo": "historia",
+    "titulo": "Del «vino mezcal de Tequila» a la ley de 1974"
+   },
+   {
+    "imagen": {
+     "alt": "Estatua de bronce de un jimador con su coa",
+     "credito": "Wikimedia Commons",
+     "pie": "Monumento al jimador en el pueblo de Tequila",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Monumento_al_Jimador_en_Tequila,_Jalisco.jpg?width=900"
+    },
+    "texto": "La respuesta es la segunda. México no le dio el nombre a ninguna empresa. Lo declaró de la nación.\n\nHoy lo dice la Ley Federal de Protección a la Propiedad Industrial de 2020, artículo 268: las denominaciones de origen son **bienes nacionales** y solo pueden usarse con autorización del [[IMPI|Instituto Mexicano de la Propiedad Industrial, la autoridad que registra marcas, patentes y denominaciones de origen.]]. Cuervo, Sauza o Herradura no son dueños de la palabra. Son usuarios autorizados.\n\nLa protección se volvió internacional el 13 de abril de 1978, cuando el tequila quedó inscrito en el registro del [[Arreglo de Lisboa|Tratado de 1958, administrado por la OMPI en Ginebra, para proteger denominaciones de origen entre países.]]. Con la Unión Europea llegó en 1997, con un acuerdo sobre bebidas espirituosas.\n\nY aquí la sorpresa: el «lugar» del tequila no es solo Jalisco. Son 181 municipios en cinco estados: los 125 de Jalisco, 30 de Michoacán, 11 de Tamaulipas, 8 de Nayarit y 7 de Guanajuato. Tamaulipas entró porque una empresa, Tequilera La Gonzaleña, lo pidió en 1976 y se aprobó en 1977. La geografía de una denominación también se negocia.\n\nSegunda sorpresa: la ley no exige que todo sea agave. El «tequila» a secas necesita al menos 51% de azúcares de [[agave azul|*Agave tequilana* Weber variedad azul, la única especie permitida por la norma del tequila.]], y puede embotellarse fuera de México. Solo el «100% de agave» debe envasarse dentro de la zona.",
+    "tipo": "giro",
+    "titulo": "El nombre dejó de ser de las empresas"
+   },
+   {
+    "nombre": "Lugar, reglas y guardián",
+    "texto": "Una denominación de origen convierte un producto en algo que no se puede copiar, porque ata la calidad a un lugar. Funciona con tres piezas. Sirve para pensar cualquier marca premium.\n\n**1. Un lugar con nombre.** El origen tiene que importar de verdad: un suelo, un clima, una planta, un oficio. Si cualquiera puede hacerlo en cualquier parte, no hay nada que proteger.\n\n**2. Reglas escritas.** El tequila tiene su norma, la [[NOM-006-SCFI-2012|Norma Oficial Mexicana que define qué es tequila: especie de agave, porcentaje de azúcares, categorías y añejamiento.]]. Dice qué planta, qué porcentaje y cuánto tiempo en barrica: blanco, reposado (2 a 12 meses), añejo (al menos un año) y extra añejo (al menos tres).\n\n**3. Un guardián.** Alguien que certifica y persigue imitaciones. Para el tequila, el Consejo Regulador, constituido el 17 de mayo de 1994.\n\nPregunta de prueba para tu marca: si mañana alguien copia tu fórmula, ¿qué te queda que no se pueda copiar? Si la respuesta es «nada», tu ventaja es el precio, y esa se pierde fácil.",
+    "tipo": "herramienta"
+   },
+   {
+    "texto": "**En otras bebidas mexicanas.** Al tequila lo siguieron el mezcal (1994) y la raicilla de Jalisco (2019). México tiene alrededor de 18 denominaciones de origen, del café Veracruz al mango Ataúlfo del Soconusco. Cada una repite la jugada: un nombre, un territorio y una norma.\n\n**En las cifras.** En 2024 se produjeron 495.8 millones de litros de tequila y se exportaron 400.3 millones, según datos del Consejo Regulador citados por Forbes México. Alrededor del 84% de lo exportado fue a Estados Unidos. Una palabra protegida sostiene una industria entera de Jalisco.\n\n**En una marca de bebidas.** Para un RTD como Pingüinos, la lección es doble. Si usas tequila en la receta, la palabra «tequila» en la lata está regulada y debe venir de un productor certificado. Y si quieres un valor que no se copie, piensa qué parte de tu historia está atada a un lugar: Guadalajara también es un origen.",
+    "tipo": "dondeMas",
+    "titulo": "Dónde más aparece"
+   },
+   {
+    "pregunta": "¿Qué parte de lo que vendes depende de un lugar, un oficio o una regla que otro no puede imitar?",
+    "texto": "Si encuentras una, escríbela en tu empaque y en tu historia. Si no la encuentras, es una buena pregunta para el próximo producto.",
+    "tipo": "llevaloATuVida"
+   },
+   {
+    "frase": "El tequila dejó de ser de las empresas para ser de un lugar. Por eso nadie lo puede copiar.",
+    "tipo": "paraRecordar"
+   }
+  ]
+ },
+ "id": "auxo-2026-11-11",
+ "lectura": {
+  "autor": "Michel de Montaigne",
+  "capitulo": {
+   "numero": 3,
+   "titulo": "«Cada uno llama barbarie a lo que no es de su costumbre»: los caníbales",
+   "total": 6
+  },
+  "fuentes": [
+   {
+    "nombre": "Montaigne, Essais, edición de 1595 (Marie de Gournay), I, 30, en HyperEssays",
+    "url": "https://hyperessays.net/pdf/gournay/montaigne-essays-book-I-chapter-30-US.pdf"
+   },
+   {
+    "nombre": "Montaigne, Essays, trad. Charles Cotton, «Of Cannibals», en HyperEssays",
+    "url": "https://www.hyperessays.net/pdf/cotton/montaigne-essays-book-I-chapter-30-A4.pdf"
+   },
+   {
+    "nombre": "Shakespeare Birthplace Trust: Montaigne and The Tempest",
+    "url": "https://www.shakespeare.org.uk/explore-shakespeare/blogs/montaigne-and-tempest/"
+   },
+   {
+    "nombre": "Wikipedia: Francia Antártica",
+    "url": "https://es.wikipedia.org/wiki/Francia_Ant%C3%A1rtica"
+   },
+   {
+    "nombre": "Wikipedia: Carlos IX de Francia",
+    "url": "https://es.wikipedia.org/wiki/Carlos_IX_de_Francia"
+   }
+  ],
+  "imagen": {
+   "alt": "Grabado antiguo de indígenas alrededor de un fuego",
+   "credito": "Wikimedia Commons",
+   "pie": "Los tupinambá de Brasil en un grabado de Theodor de Bry (siglo XVI): así imaginaba Europa al «caníbal»",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Theodor_de_Bry_-_Canibais.jpg?width=900"
+  },
+  "libro": "Ensayos",
+  "minutos": 9,
+  "nota": "Citas traducidas por AUXO a partir del texto francés de la edición de 1595 (dominio público) y de la traducción inglesa de dominio público de Charles Cotton. En la edición de 1595 este ensayo es el capítulo 30 del libro I; en las ediciones modernas, el 31.",
+  "paraLlevar": [
+   "Lo que te parece natural casi siempre es solo lo que conoces.",
+   "Juzga tus costumbres con la misma regla con que juzgas las ajenas.",
+   "Un buen testigo no es el más listo, sino el que no tiene interés en convencerte."
+  ],
+  "proximo": "Ensayos (Montaigne) · Capítulo 4: «¿Qué sé yo?»: la duda como forma de vida",
+  "repaso": [
+   {
+    "pregunta": "¿Qué frase resume la idea central de «De los caníbales»?",
+    "respuesta": "«Cada uno llama barbarie a lo que no es de su costumbre»."
+   },
+   {
+    "pregunta": "¿Qué llamaban «mitades» los tupinambá que visitaron Ruán?",
+    "respuesta": "A los demás hombres: el pobre que mendigaba era la «mitad» del rico atiborrado, y esa desigualdad les parecía absurda."
+   }
+  ],
+  "secciones": [
+   {
+    "texto": "Si te dijeran que en una tierra lejana la gente come a sus enemigos, ¿qué pensarías de ellos? La palabra sale sola: salvajes.\n\nMontaigne escuchó esa historia en el siglo XVI y llegó a una conclusión incómoda. Los salvajes, escribió, quizá somos nosotros. Lo dijo en un ensayo corto, *De los caníbales*, que todavía se lee en las universidades de todo el mundo.",
+    "tipo": "texto"
+   },
+   {
+    "texto": "Un sirviente que había vivido en Brasil",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "Montaigne no viajó a América. Tenía algo mejor que un libro: un hombre en su casa que había vivido allá.",
+    "tipo": "texto"
+   },
+   {
+    "fuente": "Ensayos, I, 31, «De los caníbales» (texto de la edición de 1595)",
+    "texto": "Tuve durante mucho tiempo conmigo a un hombre que había vivido diez o doce años en ese otro mundo que se descubrió en nuestro siglo, en el lugar donde Villegaignon tocó tierra y que llamó la Francia Antártica.",
+    "tipo": "cita"
+   },
+   {
+    "texto": "La [[Francia Antártica|Colonia francesa fundada en 1555 en la bahía de Guanabara, donde hoy está Río de Janeiro; los portugueses la destruyeron en 1560.]] fue un intento francés de quedarse con un pedazo de Brasil. El 1 de noviembre de 1555, el almirante Nicolas Durand de Villegaignon desembarcó en una isla de la bahía de Guanabara. Levantó un fuerte y buscó la alianza de los [[tupinambá|Pueblo de lengua tupí de la costa de Brasil; practicaba la antropofagia ritual con los prisioneros de guerra.]].\n\nLa colonia duró poco. Los portugueses destruyeron el fuerte el 15 de marzo de 1560. Pero dejó testigos: marineros, intérpretes y un pastor calvinista, Jean de Léry, que en 1578 publicó un relato de su vida entre los tupinambá.\n\nMontaigne escuchó a su sirviente y lo prefirió a los sabios. Explica por qué: la gente lista adorna lo que cuenta para convencerte. Un hombre sencillo no tiene con qué inventar. Es una idea moderna: desconfiar del testigo que quiere tener razón.",
+    "tipo": "texto"
+   },
+   {
+    "texto": "La frase que lo cambia todo",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "Después de describir a los tupinambá, Montaigne hace la pregunta del ensayo. ¿Son bárbaros? Su respuesta:",
+    "tipo": "texto"
+   },
+   {
+    "fuente": "Ensayos, I, 31, «De los caníbales» (texto de la edición de 1595)",
+    "texto": "No hay nada de bárbaro ni de salvaje en esa nación, por lo que me han contado, sino que cada uno llama barbarie a lo que no es de su costumbre.",
+    "tipo": "cita"
+   },
+   {
+    "texto": "Y sigue: no tenemos otra medida de la verdad que el ejemplo y las costumbres del país donde vivimos. «Ahí está siempre la religión perfecta, el gobierno perfecto, el uso perfecto de todas las cosas».\n\nEs una de las primeras formulaciones del [[relativismo cultural|Idea de que las costumbres de un pueblo deben entenderse desde su propio contexto y no desde las de otro.]]. No dice que todo valga lo mismo. Dice algo más simple: lo que nos parece natural casi siempre es solo lo que conocemos.",
+    "tipo": "texto"
+   },
+   {
+    "correcta": 1,
+    "explicacion": "Para Montaigne, «barbarie» es solo el nombre que damos a lo que no es nuestra costumbre: no tenemos otra medida que el lugar donde vivimos.",
+    "opciones": [
+     "Porque de verdad son más crueles que los europeos",
+     "Porque medimos todo con las costumbres del lugar donde vivimos",
+     "Porque no tienen religión"
+    ],
+    "pregunta": "Según Montaigne, ¿por qué llamamos «bárbaros» a otros pueblos?",
+    "tipo": "pregunta"
+   },
+   {
+    "texto": "Lo que no tienen",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "Luego Montaigne imagina que le habla a Platón, que soñó con una república perfecta. Le dice que esos pueblos superan lo que él imaginó:",
+    "tipo": "texto"
+   },
+   {
+    "fuente": "Ensayos, I, 31, «De los caníbales» (texto de la edición de 1595)",
+    "texto": "Es una nación en la que no hay ninguna especie de comercio, ningún conocimiento de las letras, ninguna ciencia de los números, ningún nombre de magistrado ni de superioridad política, ningún uso de servidumbre, de riqueza o de pobreza; ni contratos, ni herencias, ni repartos.",
+    "tipo": "cita"
+   },
+   {
+    "texto": "Y remata: allá ni siquiera existen las palabras que significan mentira, traición, avaricia, envidia o perdón.\n\nHay que leerlo con cuidado. Montaigne idealiza; no es un etnógrafo. Los tupinambá sí tenían jefes, cultivaban mandioca y peleaban guerras constantes. Esta página ayudó a crear el mito del [[buen salvaje|Idea de que el ser humano «natural», sin civilización, es más bueno y feliz; muy influyente en los siglos XVII y XVIII.]], que Rousseau y otros llevaron mucho más lejos.\n\nPero el propósito no es describir Brasil. Es usar Brasil como espejo. Al enumerar lo que ellos no tienen, Montaigne enumera lo que a Europa le sobra: pleitos de herencias, contratos, avaricia.",
+    "tipo": "texto"
+   },
+   {
+    "texto": "En 1603, John Florio tradujo los *Ensayos* al inglés. En *La tempestad* (hacia 1611), el consejero Gonzalo describe la república ideal que fundaría en una isla. Su discurso sigue casi palabra por palabra la lista de Montaigne: sin comercio, sin magistrados, sin letras, sin riquezas. Lo propuso por primera vez el editor Edward Capell en 1781.",
+    "tipo": "nota",
+    "titulo": "Shakespeare lo leyó"
+   },
+   {
+    "texto": "¿Quién es más bárbaro?",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "Montaigne no esconde lo difícil. Los tupinambá matan a sus prisioneros de guerra y se los comen en una ceremonia. Él lo cuenta sin suavizarlo. Y luego da vuelta a la acusación:",
+    "tipo": "texto"
+   },
+   {
+    "fuente": "Ensayos, I, 31, «De los caníbales» (texto de la edición de 1595)",
+    "texto": "Pienso que hay más barbarie en comer a un hombre vivo que en comerlo muerto, en desgarrar con tormentos un cuerpo todavía lleno de sentimiento, en asarlo poco a poco, en hacerlo morder por perros y cerdos, como no solo lo hemos leído, sino visto hace poco, no entre enemigos antiguos, sino entre vecinos y conciudadanos, y lo peor, con pretexto de piedad y religión.",
+    "tipo": "cita"
+   },
+   {
+    "texto": "Montaigne escribe en plena [[guerras de religión de Francia|Guerras civiles entre católicos y protestantes (1562–1598); su episodio más conocido es la matanza de San Bartolomé de 1572.]]. Ha visto torturas en su propia región, en nombre de Dios. Su argumento es frío: los tupinambá hacen su rito con el muerto. Nosotros hacemos sufrir al vivo y lo llamamos fe.\n\nNo defiende el canibalismo. Hace algo más incómodo: obliga al lector a juzgarse con la misma regla con que juzga a los demás.",
+    "tipo": "texto"
+   },
+   {
+    "alt": "Grabado antiguo de una aldea indígena con chozas y figuras, montada junto a un río",
+    "credito": "Wikimedia Commons",
+    "pie": "La «fiesta brasileña» de Ruán, 1 de octubre de 1550: medio centenar de indígenas actuaron para el rey Enrique II",
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brazilian_ball_for_Henry_II_in_Rouen_October_1_1550.jpg?width=900"
+   },
+   {
+    "texto": "Tres visitantes en Ruán",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "El final del ensayo es una escena real. Hacia 1562, tres tupinambá llegaron a Ruán, en Normandía, cuando el rey Carlos IX estaba en la ciudad. El rey tenía doce años. Alguien les preguntó qué les había parecido lo más notable de Francia. Montaigne dice que olvidó una de las tres respuestas, pero recuerda dos.\n\nLa primera: les parecía muy extraño que tantos hombres barbados, fuertes y armados, obedecieran a un niño, y que no eligieran a uno de ellos para mandar. Montaigne supone que hablaban de los guardias suizos del rey.\n\nLa segunda es la que más pesa:",
+    "tipo": "texto"
+   },
+   {
+    "fuente": "Ensayos, I, 31, «De los caníbales» (texto de la edición de 1595)",
+    "texto": "Habían visto que había entre nosotros hombres llenos y atiborrados de toda clase de comodidades, y que sus mitades mendigaban a sus puertas, descarnados de hambre y de pobreza; y les parecía extraño que esas mitades pudieran soportar tal injusticia y no tomaran a los otros del cuello o prendieran fuego a sus casas.",
+    "tipo": "cita"
+   },
+   {
+    "texto": "«Sus mitades». Montaigne explica que en su lengua llaman a los hombres «mitades» unos de otros. Para ellos, el pobre en la puerta del rico era la otra mitad de ese rico. Ver a una mitad atiborrada y a la otra muriéndose de hambre les parecía absurdo.",
+    "tipo": "texto"
+   },
+   {
+    "correcta": 2,
+    "explicacion": "Montaigne recuerda dos respuestas: la obediencia de los guardias adultos a un rey niño y la desigualdad entre ricos atiborrados y pobres hambrientos, a quienes ellos llamaban «mitades».",
+    "opciones": [
+     "Que las casas fueran de piedra y no de madera",
+     "Que los franceses comieran pan en lugar de mandioca",
+     "Que hombres armados obedecieran a un niño y que unos vivieran en la abundancia mientras sus «mitades» mendigaban"
+    ],
+    "pregunta": "¿Qué les extrañó a los tupinambá en Ruán, según Montaigne?",
+    "tipo": "pregunta"
+   },
+   {
+    "texto": "«Pero, ¡vaya!, no usan calzones»",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "Y entonces Montaigne cierra con una de las últimas líneas más irónicas de la literatura:",
+    "tipo": "texto"
+   },
+   {
+    "fuente": "Ensayos, I, 31, «De los caníbales» (texto de la edición de 1595)",
+    "texto": "Todo esto no está tan mal. Pero, ¿qué quieren? No usan calzones.",
+    "tipo": "cita"
+   },
+   {
+    "texto": "Es un golpe de ironía. Montaigne acaba de mostrar que estos hombres razonan con más claridad que muchos europeos. Y termina con la objeción con la que un francés de su tiempo los despacharía: andan desnudos. Como si la ropa decidiera quién piensa.\n\nEsa línea es el ensayo entero en miniatura. Juzgamos por lo visible y lo familiar, y nos perdemos lo importante.",
+    "tipo": "texto"
+   },
+   {
+    "texto": "El espejo, cuatro siglos después",
+    "tipo": "subtitulo"
+   },
+   {
+    "texto": "¿Por qué seguir leyendo este ensayo hoy? Porque el mecanismo que describe no desapareció. Solo cambió de escenario.\n\nPiensa en cómo hablamos de otros países, de otras generaciones o de la competencia. Lo que hacen ellos es «raro», «atrasado» o «exagerado». Lo que hacemos nosotros es «normal». Montaigne diría que casi siempre estamos midiendo con la única regla que tenemos a mano: la de nuestra casa.\n\nEn los negocios pasa todos los días. Un emprendedor que llega a otro mercado tiende a leer como defecto lo que solo es costumbre: cómo se negocia, cómo se come, cuánto se tarda en confiar. El que entiende primero la lógica del otro, antes de juzgarla, suele ganar.\n\nMontaigne propone un ejercicio sencillo. Antes de llamar «bárbaro» a algo, pregúntate cómo verían tus costumbres desde fuera. Los tres visitantes de Ruán lo hicieron con Francia en unos minutos: vieron lo que los franceses, de tanto verlo, ya no veían.\n\nEso no obliga a aprobarlo todo. Montaigne no dejó de ser católico ni francés. Pero se dio permiso de dudar de lo propio, y esa duda es la puerta al siguiente capítulo de los *Ensayos*.",
+    "tipo": "texto"
+   },
+   {
+    "texto": "Montaigne miró a los «caníbales» para descubrir a los europeos: la barbarie suele estar en el que se cree civilizado y no se mira a sí mismo.",
+    "tipo": "nota",
+    "titulo": "En una frase"
+   }
+  ]
+ },
+ "libro": null,
+ "materias": [
+  {
+   "claves": [
+    {
+     "nombre": "John Rawls",
+     "quien": "Filósofo de Harvard (1921–2002); su *Teoría de la justicia* renovó la filosofía política del siglo XX.",
+     "wiki": "John Rawls"
+    },
+    {
+     "nombre": "John Harsanyi",
+     "quien": "Economista, Nobel 1994; defendió que tras el velo se elegiría el mayor bienestar promedio.",
+     "wiki": "John Harsanyi"
+    },
+    {
+     "nombre": "Teoría de la justicia",
+     "quien": "El libro de 1971 donde Rawls formuló sus dos principios.",
+     "wiki": "Teoría de la justicia (libro)"
+    },
+    {
+     "nombre": "Utilitarismo",
+     "quien": "La doctrina de buscar la mayor felicidad para el mayor número, rival de Rawls.",
+     "wiki": "Utilitarismo"
+    }
+   ],
+   "contexto": "Imagina que vas a nacer de nuevo, pero no sabes dónde. Puedes ser rico o pobre, sano o enfermo, hombre o mujer, de cualquier religión o talento. Antes de nacer, te piden elegir las reglas de la sociedad.\n\nEs el experimento que propuso el filósofo estadounidense John Rawls en *Teoría de la justicia* (1971). Lo llamó la [[posición original|Situación imaginaria en la que se eligen las reglas de una sociedad sin conocer el propio lugar en ella.]], detrás de un «velo de la ignorancia».",
+   "formato": "dilema",
+   "fuente": {
+    "nombre": "Wikipedia: Posición original",
+    "url": "https://es.wikipedia.org/wiki/Posici%C3%B3n_original"
+   },
+   "idea": "Una regla es justa si la aceptarías sin saber de qué lado te va a tocar.",
+   "imagen": {
+    "alt": "Diagrama de una figura humana detrás de un velo, frente a varias posiciones sociales",
+    "credito": "Wikimedia Commons",
+    "pie": "El velo de la ignorancia: elegir reglas sin conocer tu lugar",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Veil_of_Ignorance.svg?width=900"
+   },
+   "materia": "Filosofía para vivir",
+   "opciones": [
+    "La que garantiza la mejor vida posible al que peor esté, aunque el promedio sea menor",
+    "La que da el mayor bienestar promedio, aunque algunos queden muy abajo",
+    "Un promedio alto, pero con un piso mínimo que nadie pueda perforar"
+   ],
+   "pilar": "mente",
+   "pregunta": "Detrás del velo, ¿qué sociedad eliges?",
+   "repaso": {
+    "pregunta": "¿Qué es el velo de la ignorancia y qué regla defendía Rawls detrás de él?",
+    "respuesta": "Elegir las reglas de la sociedad sin saber qué lugar tendrás en ella. Rawls defendía el maximin: proteger al que peor esté."
+   },
+   "revelacion": "**Rawls elegía la primera.** Su razón: la decisión es para siempre y no conoces tus probabilidades. Lo prudente es el [[maximin|Regla de decisión: elegir la opción cuyo peor resultado posible sea el mejor de todos.]]: asegurar el mejor peor caso. De ahí su «principio de diferencia»: las desigualdades solo se justifican si benefician a los menos aventajados.\n\nEl economista John Harsanyi había pensado un experimento parecido en los años cincuenta y llegó a otra conclusión: una persona racional maximizaría el bienestar promedio. Es la segunda opción, la utilitarista.\n\nY la gente real, ¿qué elige? En experimentos de Frohlich, Oppenheimer y Eavey (1987), con universitarios estadounidenses, la mayoría de los grupos eligió la tercera: maximizar el promedio con un piso mínimo. El maximin puro lo prefirió menos del 5% de los participantes. No hay respuesta correcta: hay tres ideas de justicia, y cada una tiene defensores serios.",
+   "titulo": "El velo de la ignorancia: diseña una sociedad sin saber quién serás",
+   "wiki": "Posición original"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "Esquí de fondo",
+     "quien": "El deporte de los atletas del estudio de Seiler, uno de los de mayor exigencia aeróbica.",
+     "wiki": "Esquí de fondo"
+    },
+    {
+     "nombre": "Entrenamiento de intervalos de alta intensidad",
+     "quien": "El HIIT: la parte «dura» del 20%, en bloques cortos y muy intensos.",
+     "wiki": "Entrenamiento de intervalos de alta intensidad"
+    }
+   ],
+   "contexto": "Los esquiadores de fondo noruegos están entre los atletas con más resistencia del planeta. Uno pensaría que entrenan siempre al límite.\n\nEn 2006, el fisiólogo estadounidense Stephen Seiler, que trabaja en Noruega, y Øystein Kjerland registraron 384 sesiones de 11 esquiadores júnior durante 32 días. Midieron la frecuencia cardiaca y el [[lactato|Sustancia que se acumula en la sangre cuando el esfuerzo es intenso; sirve para medir la intensidad del ejercicio.]] de cada entrenamiento.",
+   "correcta": 1,
+   "formato": "adivinaNumero",
+   "fuente": {
+    "nombre": "Stöggl y Sperlich (2014), Frontiers in Physiology",
+    "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2014.00033/full"
+   },
+   "idea": "Para ir más lejos, la mayoría de los días hay que ir más despacio de lo que el ego pide.",
+   "materia": "Deporte y aire libre",
+   "opciones": [
+    "Cerca de 40%",
+    "Cerca de 75%",
+    "Cerca de 95%"
+   ],
+   "pilar": "cuerpo",
+   "pregunta": "¿Qué porcentaje de sus sesiones fue de intensidad baja, de las que te dejan conversar?",
+   "repaso": {
+    "pregunta": "¿Cómo repartían su entrenamiento los esquiadores del estudio de Seiler (2006)?",
+    "respuesta": "Cerca de 75% de las sesiones en intensidad baja, 8% intermedia y 17% alta: un patrón polarizado."
+   },
+   "revelacion": "**Cerca de 75%.** Por frecuencia cardiaca, 75% de las sesiones fue en la zona baja, solo 8% en la intermedia y 17% en la alta. Casi nada «a medio gas». Seiler lo llamó entrenamiento [[polarizado|Distribución que concentra el trabajo en intensidad baja y alta, y evita la zona intermedia.]], y de ahí salió la regla popular del 80/20.\n\nEn 2014, Stöggl y Sperlich compararon cuatro métodos durante nueve semanas con 48 atletas entrenados. El grupo polarizado mejoró su consumo máximo de oxígeno 11.7%, la mayor mejora de los cuatro.\n\nEl matiz importa. Un metaanálisis de 2024 en *Sports Medicine* (17 estudios, 437 personas) encontró que la ventaja es clara en atletas de alto nivel, pero no significativa en atletas en desarrollo. Para un aficionado, lo sólido es esto: la mayoría de tus sesiones pueden ser suaves, y unas pocas de verdad duras.",
+   "titulo": "La regla 80/20: los mejores fondistas entrenan casi siempre despacio",
+   "wiki": "Entrenamiento de resistencia"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "Libación",
+     "quien": "El antecedente antiguo del brindis: vino ofrecido a los dioses.",
+     "wiki": "Libación"
+    },
+    {
+     "nombre": "Las alegres comadres de Windsor",
+     "quien": "Comedia de Shakespeare donde aparece el vino «con una tostada», origen del *toast* inglés.",
+     "wiki": "Las alegres comadres de Windsor"
+    }
+   ],
+   "contexto": "Es la historia que se repite en cada boda: en la Edad Media, los comensales chocaban las copas con fuerza para que el vino saltara de una a otra. Si alguien había envenenado la suya, se envenenaba también.\n\nSuena lógico. Pero ¿es verdad?",
+   "correcta": 1,
+   "formato": "mitoRealidad",
+   "fuente": {
+    "nombre": "Ripley's: Why do we toast?",
+    "url": "https://www.ripleys.com/stories/drink-toasting"
+   },
+   "idea": "La etiqueta no nace del miedo al veneno, sino del deseo de que el otro sepa que lo estás mirando.",
+   "imagen": {
+    "alt": "Dos copas de champán chocando",
+    "credito": "Wikimedia Commons",
+    "pie": "El choque de copas: una costumbre de apenas unos tres siglos",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Toasting_Champagne.jpg?width=900"
+   },
+   "materia": "Etiqueta y protocolo",
+   "opciones": [
+    "Realidad: así nació el choque de copas",
+    "Mito: no hay pruebas, y el brindis es más antiguo que esa explicación"
+   ],
+   "pilar": "gusto",
+   "pregunta": "¿Mito o realidad?",
+   "repaso": {
+    "pregunta": "¿Es cierto que chocamos las copas para mezclar el vino y evitar el veneno?",
+    "respuesta": "No hay pruebas: es un mito reciente. Chocar copas tiene unos 300 años, y el brindis viene de la libación antigua."
+   },
+   "revelacion": "**Mito.** No hay documentos medievales que lo cuenten. Ripley's rastreó la historia hasta un artículo de prensa de 2004, y la revista Mental Floss señala que la costumbre de chocar copas tiene apenas unos 300 años. El brindis, en cambio, viene de mucho antes: de la [[libación|Ofrenda de vino derramado en honor a un dios o a un difunto, común en Grecia y Roma.]] griega.\n\nLas palabras guardan la historia verdadera. En inglés, *toast* era el pan tostado y especiado que se echaba al vino; en *Las alegres comadres de Windsor*, Falstaff pide vino «con una tostada dentro».\n\nLo que sí es regla viva: en Alemania y Francia se mira a los ojos al chocar la copa. No hacerlo se lee como falta de sinceridad. El gesto no protege del veneno; protege la confianza.",
+   "titulo": "¿Chocamos las copas para mezclar el vino y probar que no hay veneno?",
+   "wiki": "Brindis"
+  },
+  {
+   "claves": [
+    {
+     "nombre": "Autopublicación",
+     "quien": "Publicar sin editorial, como hizo Weir en Amazon en 2011.",
+     "wiki": "Autopublicación"
+    },
+    {
+     "nombre": "Ridley Scott",
+     "quien": "Director británico de la película de 2015, con Matt Damon.",
+     "wiki": "Ridley Scott"
+    }
+   ],
+   "contexto": "Andy Weir era programador en California. Desde 2009 publicaba gratis en su sitio web, capítulo por capítulo, la historia de un astronauta abandonado en Marte que sobrevive con ciencia y humor.\n\nLos lectores le pidieron una versión para leer en Kindle. Weir la subió a Amazon en 2011 por autopublicación.",
+   "correcta": 1,
+   "formato": "elCaso",
+   "fuente": {
+    "nombre": "The Hollywood Reporter: How a 99-cent novel became The Martian",
+    "url": "https://www.hollywoodreporter.com/news/how-a-99-cent-novel-842582"
+   },
+   "idea": "Un producto digital barato puede valer más como prueba de demanda que como fuente de ingreso.",
+   "imagen": {
+    "alt": "Retrato de un hombre con lentes sonriendo",
+    "credito": "Wikimedia Commons",
+    "pie": "Andy Weir durante una visita al Centro Espacial Johnson de la NASA",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Andy_Weir_at_NASA_JSC-crop.png?width=900"
+   },
+   "materia": "Productos digitales escalables",
+   "opciones": [
+    "A 15 dólares, el precio de una novela nueva, y vendió poco",
+    "A 99 centavos, el mínimo de Amazon, y se volvió un éxito de ventas",
+    "Gratis, y ganó solo con publicidad en su blog"
+   ],
+   "pilar": "patrimonio",
+   "pregunta": "¿A qué precio la puso, y qué pasó después?",
+   "repaso": {
+    "pregunta": "¿Cómo convirtió Andy Weir un libro de 99 centavos en un gran negocio?",
+    "respuesta": "Las ventas (unas 35,000 copias) probaron la demanda. En 2013 vendió los derechos a Crown (más de 100,000 dólares) y a Fox; la película recaudó 630.6 millones."
+   },
+   "revelacion": "**A 99 centavos**, el precio más bajo que permitía Amazon. Weir dijo que lo habría regalado si pudiera. Se vendieron unas 35,000 copias; Wikipedia habla de tres meses y The Hollywood Reporter de seis. A él le quedaban unos 30 centavos por copia.\n\nEl dinero no estaba en el libro. Las ventas fueron la prueba de mercado. En marzo de 2013, la editorial Crown compró los derechos de impresión por más de 100,000 dólares, y en la misma semana Fox compró los del cine. La película de Ridley Scott (2015) recaudó 630.6 millones de dólares en el mundo.\n\nLa lógica del [[costo marginal|Lo que cuesta producir una unidad más; en un archivo digital es casi cero.]] cero: cada copia digital no le costaba nada a Weir. Su capítulo gratis era el anuncio; el precio bajo, la forma de llegar a miles; y la demanda medible, lo que convenció a los que pagan en serio.",
+   "titulo": "El marciano: un libro gratis en un blog que terminó en Hollywood",
+   "wiki": "El marciano"
+  }
+ ],
+ "microexamen": [
+  {
+   "correcta": 1,
+   "explicacion": "Fue la primera denominación de origen de México. Hoy son 181 municipios en cinco estados, y el «tequila» a secas puede tener solo 51% de azúcares de agave.",
+   "opciones": [
+    "Que José Cuervo era dueño de la marca «Tequila»",
+    "La denominación de origen Tequila: el nombre ligado a un territorio y protegido como bien de la nación",
+    "Que solo podía venderse tequila 100% de agave"
+   ],
+   "origen": "historia",
+   "pregunta": "¿Qué estableció la declaratoria del 9 de diciembre de 1974?"
+  },
+  {
+   "correcta": 0,
+   "explicacion": "El dato de inflación de octubre en Estados Unidos (+0.3% mensual) llevó casi a 100% la probabilidad de una subida de la Fed en diciembre. El peso cerró cerca de 18.67.",
+   "opciones": [
+    "Porque la inflación de Estados Unidos superó lo esperado y el mercado espera que la Fed suba su tasa",
+    "Porque Banxico subió su tasa por sorpresa",
+    "Porque el petróleo subió a 118 dólares"
+   ],
+   "origen": "noticias",
+   "pregunta": "¿Por qué cayó el peso 0.75% el 10 de noviembre?"
+  },
+  {
+   "correcta": 2,
+   "explicacion": "En abril de 1847 moría el 18.3% de las madres de la Primera Clínica; en 1848, el 1.3%. Aun así, sus colegas lo rechazaron.",
+   "opciones": [
+    "Prohibió las autopsias",
+    "Construyó una clínica nueva",
+    "Hizo que los médicos se lavaran las manos con cal clorada, y la mortalidad bajó de 18% a cerca de 1%"
+   ],
+   "origen": "hechos",
+   "pregunta": "¿Qué cambió Semmelweis en la maternidad de Viena en 1847?"
+  }
+ ],
+ "noticias": [
+  {
+   "aMiQue": "Si tienes oficina, bodega o un punto de venta en la zona metropolitana, planea al menos un mes más con tandeos: cisterna llena, horarios de limpieza ajustados y proveedor de pipas identificado.\n\nEn Zapopan hay un alivio fiscal paralelo: hasta 75% de descuento en multas y recargos de predial, agua, licencias y otros trámites si pagas en línea (50% en caja), hasta el 16 de diciembre.",
+   "ambito": "jalisco",
+   "ambitoTexto": "Guadalajara",
+   "contexto": "**Hecho:** con el cierre del sistema antiguo de Chapala, la ciudad perdió cerca del 30% de su capacidad de abasto. Por eso los tandeos.\n\n**Hecho:** la Potabilizadora 1 de Miravalle recibe 2,500 millones del estado y su primera etapa está casi lista. Guadalajara anunció un operativo de abasto para 30 colonias y 8 mercados.\n\n**Interpretación:** el 15 de diciembre es una meta, no un compromiso medible. No hay un indicador público de avance, y columnistas locales dudan de que se cumpla. La condonación de las 627 colonias sigue sin votarse.",
+   "fecha": "2026-11-10",
+   "fuentes": [
+    {
+     "nombre": "El Informador: Pablo Lemus promete disminuir poco a poco los tandeos de agua (10 nov 2026)",
+     "url": "https://www.informador.mx/jalisco/pablo-lemus-promete-disminuir-poco-a-poco-los-tandeos-de-agua-20261110-0078.html"
+    },
+    {
+     "nombre": "Tribuna de la Bahía: Tandeos en Guadalajara podrían terminar antes del 15 de diciembre (10 nov 2026)",
+     "url": "https://tribunadelabahia.com.mx/tandeos-guadalajara-podrian-terminar-15-diciembre/"
+    },
+    {
+     "nombre": "El Informador: ¡Se pusieron las pilas! (11 nov 2026)",
+     "url": "https://www.informador.mx/ideas/se-pusieron-las-pilas-20261111-0026.html"
+    }
+   ],
+   "historiaEnCurso": {
+    "capitulo": 13,
+    "dondeIbamos": "El 6 de noviembre, el Congreso turnó a comisiones la condonación del agua para 627 colonias. Zapopan prepara la suya para 206 colonias y rige un nuevo esquema de tandeos desde el 4 de noviembre.",
+    "id": "agua-gdl",
+    "titulo": "Crisis del agua en Guadalajara"
+   },
+   "id": "n-2026-11-11-agua",
+   "quePaso": "El martes 10, el gobernador Pablo Lemus dijo que la obra de la presa de Las Pintas se adelantó. El 15 de diciembre era «la última fecha que teníamos planeada» para empezar a reducir los tandeos.\n\nEl canal de Las Pintas ya está desazolvado al 100%. El agua entra poco a poco y faltan las pruebas de laboratorio sobre su calidad. La inversión conjunta es de unos 25,000 millones de pesos: 10,500 millones del estado y 14,500 millones de la federación.",
+   "queVigilar": "Los resultados de laboratorio del agua de Las Pintas, la votación de la condonación en la Comisión de Hacienda del Congreso y el plazo de los descuentos de Zapopan (16 de diciembre).",
+   "titular": "Lemus promete bajar los tandeos antes del 15 de diciembre: Las Pintas ya está desazolvada al 100%"
+  },
+  {
+   "aMiQue": "Si importas insumos en dólares (latas, etiquetas, principios activos, maquinaria), un peso más débil sube tu costo de reposición. Es buen momento para revisar a qué tipo de cambio cotizaste tus precios de diciembre.\n\nPara el crédito: si la Fed sube y Banxico acaba de bajar, la diferencia de tasas entre los dos países se achica. Eso hace menos probable otro recorte de Banxico el 17 de diciembre.",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "contexto": "**Hecho:** el bono a 10 años de Estados Unidos estaba en 5.22% y el de México en 9.29%. El FIX de Banxico para el 10 de noviembre fue de 18.6678.\n\n**Hecho:** el 9 de noviembre el peso había tocado 18.50, su mejor nivel en tres semanas.\n\n**Interpretación:** el peso se sostiene en buena parte por el *carry trade*, la ganancia de pedir prestado barato en dólares e invertir en pesos a tasas más altas. Cuando la brecha se cierra, ese apoyo se debilita.",
+   "fecha": "2026-11-10",
+   "fuentes": [
+    {
+     "nombre": "El Financiero: Peso/dólar, tipo de cambio hoy 10 de noviembre de 2026",
+     "url": "https://www.elfinanciero.com.mx/mercados/2026/11/10/peso-dolar-tipo-de-cambio-precio-hoy-10-de-noviembre-de-2026/"
+    },
+    {
+     "nombre": "Heraldo Binario: Precio del peso mexicano a dólar hoy, 11 de noviembre",
+     "url": "https://www.heraldobinario.com.mx/tendencias/2026/11/11/precio-del-peso-mexicano-a-dolar-hoy-11-de-noviembre-a-cuanto-abre-su-cotizacion-43449.html"
+    }
+   ],
+   "historiaEnCurso": {
+    "capitulo": 3,
+    "dondeIbamos": "Banxico bajó su tasa a 6.25% el 5 de noviembre y el 9 el INEGI reportó una inflación de 3.75% en octubre, más alta de lo esperado.",
+    "id": "tasas-banxico",
+    "titulo": "Tasas de Banxico y el peso"
+   },
+   "id": "n-2026-11-11-peso",
+   "quePaso": "El martes 10, la inflación de octubre en Estados Unidos subió 0.3% mensual y superó lo esperado por tercer mes seguido. El peso se depreció 0.75%, a unos 18.67 por dólar, según El Financiero con datos de Bloomberg.\n\nLa probabilidad de que la Reserva Federal suba su tasa en diciembre llegó a casi 100%. El gobernador de la Fed Christopher Waller dijo que apoyaría una subida de 25 puntos base, o de 50 si la inflación sigue acelerándose. El miércoles 11 el peso abrió con una ligera recuperación, cerca de 18.57.",
+   "queVigilar": "La decisión de la Fed en diciembre y la de Banxico el 17 de diciembre. Antes, la inflación de la primera quincena de noviembre en México (24 de noviembre).",
+   "titular": "El peso cae 0.75% tras la inflación de Estados Unidos; el mercado da casi por segura una subida de la Fed en diciembre"
+  },
+  {
+   "aMiQue": "Un petróleo 20% más barato que hace dos semanas alivia fletes, plásticos y empaques, pero con retraso: los proveedores tardan en bajar precios y suben rápido. Si negocias contratos de flete para 2027, este es un mejor momento que el de finales de octubre.\n\nEl riesgo no desapareció: un ataque grande en Ormuz puede revertir la caída en un día.",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "contexto": "**Hecho:** Estados Unidos mantiene el bloqueo naval a los puertos iraníes. Irán propone una soberanía compartida con Omán sobre el estrecho, lo que le permitiría cobrar peaje.\n\n**Hecho:** el 10 de noviembre la Guardia Revolucionaria reportó tres petroleros en llamas en Ormuz, e India informó de un tanquero alcanzado por un proyectil, con cuatro heridos.\n\n**Interpretación:** el mercado ya descuenta la distensión. Lo que puede moverlo ahora son las minas y el plan de peaje, no los discursos.",
+   "fecha": "2026-11-11",
+   "fuentes": [
+    {
+     "nombre": "Euronews: El petróleo sube mientras inversores vigilan ataques en el estrecho de Ormuz (11 nov 2026)",
+     "url": "https://es.euronews.com/2026/11/11/el-petroleo-sube-mientras-inversores-vigilan-ataques-en-el-estrecho-de-ormuz"
+    },
+    {
+     "nombre": "Moncloa.com: El precio del Brent cae a mínimos de 90 dólares (11 nov 2026)",
+     "url": "https://moncloa.com/2026/11/11/precio-brent-minimos-iran-espana-3465641"
+    }
+   ],
+   "historiaEnCurso": {
+    "capitulo": 19,
+    "dondeIbamos": "El 9 de noviembre el Brent cayó 5.85% tras la reunión de Trump con el primer ministro de Qatar. Desde el pico de 118 dólares del 30 de octubre, había bajado cerca de 22%.",
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo"
+   },
+   "id": "n-2026-11-11-petroleo",
+   "quePaso": "El martes 10, el Brent bajó de 90 dólares durante la sesión y cerró en 91.8. Acumula más de 21% de caída en ocho sesiones. Trump dijo que la guerra con Irán está «prácticamente terminada en el plano militar»; Teherán lo negó.\n\nEl miércoles 11 a media mañana, el Brent subía 0.2%, a 91.71 dólares, y el WTI 0.1%, a 86.12, según Euronews. El ejército iraní dijo que un petrolero chocó con una mina naval al este del estrecho de Ormuz y se incendió.",
+   "queVigilar": "Si Irán insiste en cobrar peaje en Ormuz, nuevos incidentes con minas y la reunión de la OPEP+ del 29 de noviembre.",
+   "titular": "El Brent se estabiliza cerca de 92 dólares entre el «fin de la guerra» que anuncia Trump y nuevos ataques en Ormuz"
+  }
+ ],
+ "numero": 21,
+ "palabra": {
+  "categoria": "Sustantivo masculino",
+  "definicion": "Tierra o comarca de donde es alguien o algo. En el vino y los destilados, el conjunto de suelo, clima y oficio que le da a un producto un carácter que no se puede copiar en otra parte.",
+  "ejemplo": "La denominación de origen convirtió el terruño de los Altos y del valle de Tequila en algo que ninguna fábrica de Japón podía imitar.",
+  "origen": "De *terreño*, y este del latín *terrenus*, «de tierra».",
+  "palabra": "Terruño",
+  "pronunciacion": "te-RRU-ño",
+  "repaso": {
+   "pregunta": "¿Qué significa «terruño» cuando se habla de vino o tequila?",
+   "respuesta": "El suelo, el clima y el oficio de un lugar que le dan a un producto un carácter único."
+  }
+ },
+ "portada": {
+  "alt": "Campo de agaves azules en hileras bajo el cielo de Jalisco",
+  "credito": "Wikimedia Commons",
+  "pie": "El paisaje agavero de Tequila, Jalisco: desde 2006 es Patrimonio de la Humanidad",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paisaje_agavero_en_Paraíso_Azul,_Tequila,_Jalisco.jpg?width=900"
+ },
+ "proximo": "1825: Brillat-Savarin y la invención del gourmet",
+ "schemaVersion": 6,
+ "temporada": {
+  "episodio": 4,
+  "id": "t04",
+  "numero": 4,
+  "titulo": "El arte de la mesa",
+  "totalEpisodios": 6
+ },
+ "titulo": "El tequila y su denominación de origen: cómo una bebida se vuelve un lugar"
+}

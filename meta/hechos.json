@@ -1,7 +1,43 @@
 {
- "actualizado": "2026-11-10",
+ "actualizado": "2026-11-11",
  "materias": {
   "Arquitectura y diseño": [
+   {
+    "claves": [
+     {
+      "nombre": "Gustave Eiffel",
+      "quien": "Ingeniero francés (1832–1923) que la construyó y la defendió.",
+      "wiki": "Gustave Eiffel"
+     },
+     {
+      "nombre": "Exposición Universal de París (1889)",
+      "quien": "La feria para la que se levantó la torre, en el centenario de la Revolución.",
+      "wiki": "Exposición Universal de París (1889)"
+     }
+    ],
+    "dato": "La Torre Eiffel se construyó con un permiso de 20 años. En 1910 pasaba a la Ciudad de París y podía desmontarse. La salvó la radio.",
+    "epoca": "1889",
+    "explicacion": "Gustave Eiffel sabía que su torre corría peligro y la convirtió en laboratorio. En 1898 se hizo el primer enlace por radio en Morse desde la torre hasta el Panteón. Luego financió los experimentos militares del capitán Gustave Ferrié: en 1908 las señales llegaban a unos 6,000 km.\n\nUna antena de 300 metros era demasiado útil para tirarla. La concesión se prorrogó 70 años desde 1910. En 1918, sus antenas interceptaron mensajes alemanes. Lo que se hizo para una feria sobrevivió por ser útil.",
+    "fecha": "2026-11-11",
+    "fuente": {
+     "nombre": "Torre Eiffel, sitio oficial: How did radio save the tower?",
+     "url": "https://www.toureiffel.paris/en/news/130-years/how-did-radio-save-tower"
+    },
+    "imagen": {
+     "alt": "Fotografía antigua de la Torre Eiffel a medio construir",
+     "credito": "Wikimedia Commons",
+     "pie": "La torre en construcción, julio de 1888",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tour_Eiffel,_Juillet_1888.jpg?width=900"
+    },
+    "materia": "Arquitectura y diseño",
+    "pilar": "cultura",
+    "repaso": {
+     "pregunta": "¿Por qué no desmontaron la Torre Eiffel en 1910?",
+     "respuesta": "Porque se volvió una antena de radio y telegrafía militar indispensable; su concesión se prorrogó 70 años."
+    },
+    "titulo": "La Torre Eiffel tenía fecha de caducidad",
+    "wiki": "Torre Eiffel"
+   },
    {
     "claves": [
      {
@@ -106,23 +142,6 @@
   ],
   "Arte y pintura": [
    {
-    "materia": "Arte y pintura",
-    "pilar": "cultura",
-    "epoca": "1890",
-    "titulo": "Van Gogh no vendió solo un cuadro",
-    "dato": "Se repite que Van Gogh vendió un solo cuadro en vida. Lo cierto es que es el único que sabemos con seguridad que se vendió en una exposición: *El viñedo rojo*, por 400 francos, en 1890.",
-    "explicacion": "Lo compró la pintora belga Anna Boch en la exposición del grupo Les XX, en Bruselas, unos meses antes de la muerte de Vincent. Pero hubo más: en 1882 su tío Cornelis le encargó y le pagó dibujos de La Haya, y hay registros de intercambios y ventas pequeñas a través de su hermano Theo, marchante de arte.\n\nEl mito sirve a una historia: el genio que nadie entendió. La verdad es menos dramática y más útil: vendía poco, a precios bajos, y su fama vino después, sobre todo por el trabajo de Johanna, la viuda de Theo.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Red_vineyards.jpg?width=900",
-     "alt": "Pintura de un viñedo rojo al atardecer con campesinos trabajando",
-     "pie": "*El viñedo rojo* (1888), hoy en el Museo Pushkin de Moscú",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Artnet News: The story of the only known painting Van Gogh sold",
-     "url": "https://news.artnet.com/art-world/story-only-known-painting-van-gogh-sold-2432275"
-    },
-    "wiki": "El viñedo rojo",
     "claves": [
      {
       "nombre": "Vincent van Gogh",
@@ -135,11 +154,28 @@
       "wiki": "Postimpresionismo"
      }
     ],
+    "dato": "Se repite que Van Gogh vendió un solo cuadro en vida. Lo cierto es que es el único que sabemos con seguridad que se vendió en una exposición: *El viñedo rojo*, por 400 francos, en 1890.",
+    "epoca": "1890",
+    "explicacion": "Lo compró la pintora belga Anna Boch en la exposición del grupo Les XX, en Bruselas, unos meses antes de la muerte de Vincent. Pero hubo más: en 1882 su tío Cornelis le encargó y le pagó dibujos de La Haya, y hay registros de intercambios y ventas pequeñas a través de su hermano Theo, marchante de arte.\n\nEl mito sirve a una historia: el genio que nadie entendió. La verdad es menos dramática y más útil: vendía poco, a precios bajos, y su fama vino después, sobre todo por el trabajo de Johanna, la viuda de Theo.",
+    "fecha": "2026-11-10",
+    "fuente": {
+     "nombre": "Artnet News: The story of the only known painting Van Gogh sold",
+     "url": "https://news.artnet.com/art-world/story-only-known-painting-van-gogh-sold-2432275"
+    },
+    "imagen": {
+     "alt": "Pintura de un viñedo rojo al atardecer con campesinos trabajando",
+     "credito": "Wikimedia Commons",
+     "pie": "*El viñedo rojo* (1888), hoy en el Museo Pushkin de Moscú",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Red_vineyards.jpg?width=900"
+    },
+    "materia": "Arte y pintura",
+    "pilar": "cultura",
     "repaso": {
      "pregunta": "¿Qué cuadro de Van Gogh se sabe con seguridad que se vendió en vida, y a quién?",
      "respuesta": "*El viñedo rojo*, en 1890, a Anna Boch por 400 francos. No fue su única venta: hubo encargos y ventas pequeñas."
     },
-    "fecha": "2026-11-10"
+    "titulo": "Van Gogh no vendió solo un cuadro",
+    "wiki": "El viñedo rojo"
    },
    {
     "claves": [
@@ -428,42 +464,6 @@
     },
     "titulo": "El reactor de fusión que se atrasó una década",
     "wiki": "ITER"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Píxel",
-      "quien": "La unidad mínima de una imagen digital.",
-      "wiki": "Píxel"
-     },
-     {
-      "nombre": "Fotografía digital",
-      "quien": "La foto como datos en lugar de química; nació entre 1957 y 1975.",
-      "wiki": "Fotografía digital"
-     }
-    ],
-    "dato": "La primera imagen digital escaneada es de 1957: un bebé de tres meses, en 176 por 176 píxeles. Era Walden, hijo de Russell Kirsch, del actual NIST.",
-    "epoca": "1957",
-    "explicacion": "Kirsch usó un escáner de tambor conectado a la SEAC, una de las primeras computadoras de Estados Unidos. La imagen medía 5 por 5 centímetros. Fue 18 años antes de la cámara de Sasson en Kodak.\n\nKirsch eligió píxeles cuadrados por sencillez. En 2010, ya mayor, publicó un trabajo con píxeles de forma variable y dijo que el cuadrado había sido una decisión tonta que el mundo arrastraba desde entonces. Las decisiones de los pioneros se vuelven estándares por décadas.",
-    "fecha": "2026-10-23",
-    "fuente": {
-     "nombre": "NIST: First digital image",
-     "url": "https://www.nist.gov/mathematics-statistics/first-digital-image"
-    },
-    "imagen": {
-     "alt": "Primera imagen digital escaneada, 1957",
-     "credito": "Wikimedia Commons",
-     "pie": "La primera imagen escaneada: Walden Kirsch, 1957. NIST",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NBSFirstScanImage.jpg?width=900"
-    },
-    "materia": "Ciencia y tecnología",
-    "pilar": "futuro",
-    "repaso": {
-     "pregunta": "¿Qué muestra la primera imagen digital escaneada (1957)?",
-     "respuesta": "A Walden, el bebé de Russell Kirsch, en 176 por 176 píxeles."
-    },
-    "titulo": "La primera foto digital fue un bebé",
-    "wiki": "Russell A. Kirsch"
    }
   ],
   "Cine y fotografía": [
@@ -743,63 +743,10 @@
     },
     "titulo": "El Ángel ya necesitó 14 escalones más",
     "wiki": "Subsidencia por sobreexplotación de acuíferos"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Puente de Rialto",
-      "quien": "El puente más antiguo sobre el Gran Canal, también apoyado en miles de pilotes.",
-      "wiki": "Puente de Rialto"
-     },
-     {
-      "nombre": "Cimentación",
-      "quien": "La parte de una obra que transmite su peso al suelo.",
-      "wiki": "Cimentación"
-     }
-    ],
-    "dato": "La basílica de Santa Maria della Salute, en Venecia, descansa sobre más de un millón de pilotes de madera clavados en el lodo de la laguna.",
-    "epoca": "Siglo XVII",
-    "explicacion": "Venecia se construyó sobre islas de barro. Para cimentar, se clavaban troncos de roble, aliso, alerce y otras maderas hasta capas más firmes, y encima se ponían plataformas y piedra. La Salute se empezó en 1631, tras una peste, y se consagró en 1687.\n\nLa madera casi no se pudre porque, sin oxígeno, los hongos no actúan. Aun así, estudios del CNR italiano muestran que bacterias la degradan muy despacio. Una ciudad entera se sostiene, literalmente, sobre bosques sumergidos.",
-    "fecha": "2026-10-23",
-    "fuente": {
-     "nombre": "CNR (Italia): estudio sobre los pilotes de madera de Venecia",
-     "url": "https://iris.cnr.it/handle/20.500.14243/313591"
-    },
-    "imagen": {
-     "alt": "Basílica de Santa Maria della Salute en Venecia",
-     "credito": "Wikimedia Commons",
-     "pie": "Santa Maria della Salute, Venecia, consagrada en 1687",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Santa_Maria_della_Salute_in_Venice_001.jpg?width=900"
-    },
-    "materia": "Ciudades del mundo",
-    "pilar": "mundo",
-    "repaso": {
-     "pregunta": "¿Por qué los pilotes de madera de Venecia casi no se pudren?",
-     "respuesta": "Porque están bajo el agua y el lodo, sin oxígeno, donde los hongos no actúan; solo bacterias los degradan muy despacio."
-    },
-    "titulo": "Una iglesia sobre un bosque",
-    "wiki": "Venecia"
    }
   ],
   "Deporte y aire libre": [
    {
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "epoca": "1954",
-    "titulo": "La barrera de los cuatro minutos duró 46 días",
-    "dato": "Roger Bannister corrió la milla en 3:59.4 el 6 de mayo de 1954. El 21 de junio, el australiano John Landy ya lo había superado: 3:58.0.",
-    "explicacion": "Bannister, estudiante de medicina, corrió en la pista de Iffley Road, en Oxford, con dos compañeros que le marcaban el ritmo. Se dice que después de él «todos» rompieron la barrera porque dejó de parecer imposible.\n\nHay algo de cierto, pero Landy ya había corrido varias veces cerca de 4:02: la barrera estaba a punto de caer. Lo que sí cambió fue la idea de límite. Hoy el récord es 3:43.13, de Hicham El Guerrouj, desde 1999.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bannister_and_Landy.jpg?width=900",
-     "alt": "Dos corredores de mediados del siglo XX",
-     "pie": "Roger Bannister y John Landy, los dos primeros hombres en bajar de cuatro minutos en la milla",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Wikipedia: Carrera de la milla",
-     "url": "https://es.wikipedia.org/wiki/Carrera_de_la_milla"
-    },
-    "wiki": "Roger Bannister",
     "claves": [
      {
       "nombre": "John Landy",
@@ -812,11 +759,28 @@
       "wiki": "Carrera de la milla"
      }
     ],
+    "dato": "Roger Bannister corrió la milla en 3:59.4 el 6 de mayo de 1954. El 21 de junio, el australiano John Landy ya lo había superado: 3:58.0.",
+    "epoca": "1954",
+    "explicacion": "Bannister, estudiante de medicina, corrió en la pista de Iffley Road, en Oxford, con dos compañeros que le marcaban el ritmo. Se dice que después de él «todos» rompieron la barrera porque dejó de parecer imposible.\n\nHay algo de cierto, pero Landy ya había corrido varias veces cerca de 4:02: la barrera estaba a punto de caer. Lo que sí cambió fue la idea de límite. Hoy el récord es 3:43.13, de Hicham El Guerrouj, desde 1999.",
+    "fecha": "2026-11-10",
+    "fuente": {
+     "nombre": "Wikipedia: Carrera de la milla",
+     "url": "https://es.wikipedia.org/wiki/Carrera_de_la_milla"
+    },
+    "imagen": {
+     "alt": "Dos corredores de mediados del siglo XX",
+     "credito": "Wikimedia Commons",
+     "pie": "Roger Bannister y John Landy, los dos primeros hombres en bajar de cuatro minutos en la milla",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bannister_and_Landy.jpg?width=900"
+    },
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
     "repaso": {
      "pregunta": "¿Cuánto duró el récord de Bannister en la milla?",
      "respuesta": "46 días: John Landy corrió 3:58.0 el 21 de junio de 1954."
     },
-    "fecha": "2026-11-10"
+    "titulo": "La barrera de los cuatro minutos duró 46 días",
+    "wiki": "Roger Bannister"
    },
    {
     "claves": [
@@ -1000,99 +964,10 @@
     },
     "titulo": "El golpe de golf en la Luna no fue tan lejos",
     "wiki": "Alan Shepard"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Charlotte Cooper",
-      "quien": "Tenista británica, primera mujer en ganar una prueba olímpica individual, el 11 de julio de 1900.",
-      "wiki": "Charlotte Cooper"
-     },
-     {
-      "nombre": "Mujeres en los Juegos Olímpicos",
-      "quien": "La historia de la participación femenina, que empezó justo en París 1900.",
-      "wiki": "Mujeres en los Juegos Olímpicos"
-     }
-    ],
-    "dato": "Los Juegos Olímpicos de París 1900 empezaron el 14 de mayo y terminaron un día como hoy, el 28 de octubre. Duraron más de cinco meses, y muchos atletas murieron sin saber que habían competido en unos Juegos Olímpicos.",
-    "epoca": "1900",
-    "explicacion": "Se celebraron dentro de la Exposición Universal de París y no tuvieron un comité olímpico propio. Las pruebas se mezclaron con las ferias y a veces se anunciaban como «concursos» de la Exposición. La estadounidense Margaret Abbott, campeona de golf, murió en 1955 sin saber que era la primera campeona olímpica de su país.\n\nFueron los primeros Juegos con mujeres. Hubo pruebas que nunca se repitieron, como el tiro a palomas vivas o los globos aerostáticos, y casi todos los ganadores recibieron copas, no medallas. El COI asignó después oros, platas y bronces por posición.",
-    "fecha": "2026-10-28",
-    "fuente": {
-     "nombre": "Wikipedia: 1900 Summer Olympics",
-     "url": "https://en.wikipedia.org/wiki/1900_Summer_Olympics"
-    },
-    "imagen": {
-     "alt": "Cartel de 1900 con una esgrimista y el anuncio de los concursos de la Exposición",
-     "credito": "Wikimedia Commons",
-     "pie": "Cartel de las pruebas de esgrima de la Exposición Universal de 1900, que hoy cuentan como olímpicas",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris_1900_olympic_poster.jpg?width=900"
-    },
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "repaso": {
-     "pregunta": "¿Por qué muchos atletas de París 1900 no sabían que eran olímpicos?",
-     "respuesta": "Porque los Juegos se diluyeron dentro de la Exposición Universal y duraron más de cinco meses, del 14 de mayo al 28 de octubre."
-    },
-    "titulo": "Los Juegos que duraron cinco meses",
-    "wiki": "Juegos Olímpicos de París 1900"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Juegos Olímpicos de Estocolmo 1912",
-      "quien": "Los primeros Juegos con concursos de arte.",
-      "wiki": "Juegos Olímpicos de Estocolmo 1912"
-     },
-     {
-      "nombre": "Arte en Estocolmo 1912",
-      "quien": "La lista de ganadores de aquel primer concurso artístico.",
-      "wiki": "Anexo:Arte en los Juegos Olímpicos de Estocolmo 1912"
-     }
-    ],
-    "dato": "De 1912 a 1948, los Juegos Olímpicos dieron medallas de arte. En Estocolmo 1912, el oro de literatura fue para «Oda al deporte», firmada por Georges Hohrod y M. Eschbach. El autor real era Pierre de Coubertin, fundador de los Juegos modernos.",
-    "epoca": "1912",
-    "explicacion": "Había cinco categorías: arquitectura, música, pintura, escultura y literatura, y toda obra debía inspirarse en el deporte. Coubertin usó seudónimos para que el jurado no supiera quién era. El estadounidense Walter Winans ganó el oro de escultura en 1912 con un caballo de bronce, además de medallas olímpicas de tiro.\n\nSe entregaron 151 medallas, que hoy no cuentan en el medallero oficial. Avery Brundage, luego presidente del COI y defensor del [[amateurismo|Idea de que el deportista olímpico no debía ganar dinero con su disciplina.]], argumentó que los artistas vivían de vender su obra. Tras 1948 se cambiaron por exposiciones sin competencia.",
-    "fecha": "2026-10-25",
-    "fuente": {
-     "nombre": "Smithsonian Magazine: When the Olympics Gave Out Medals for Art",
-     "url": "https://www.smithsonianmag.com/arts-culture/when-the-olympics-gave-out-medals-for-art-6878965/"
-    },
-    "imagen": {
-     "alt": "Retrato del barón Pierre de Coubertin",
-     "credito": "Wikimedia Commons",
-     "pie": "Pierre de Coubertin, fundador de los Juegos Olímpicos modernos",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baron_Pierre_de_Coubertin.jpg?width=900"
-    },
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "repaso": {
-     "pregunta": "¿Quién ganó el oro olímpico de literatura en 1912 y cómo firmó?",
-     "respuesta": "Pierre de Coubertin, con «Oda al deporte», firmada con los seudónimos Georges Hohrod y M. Eschbach."
-    },
-    "titulo": "El fundador de los Juegos ganó oro en poesía",
-    "wiki": "Competiciones de arte en los Juegos Olímpicos"
    }
   ],
   "Derecho y poder": [
    {
-    "materia": "Derecho y poder",
-    "pilar": "mundo",
-    "epoca": "1215",
-    "titulo": "La Carta Magna duró diez semanas",
-    "dato": "El documento más famoso de la historia del derecho fue anulado por el papa a las diez semanas de sellarse.",
-    "explicacion": "El rey Juan sin Tierra la selló el 15 de junio de 1215, en Runnymede, para calmar a los barones rebeldes. Juan pidió ayuda al papa Inocencio III, que el 24 de agosto la declaró nula. Siguió una guerra civil.\n\nSobrevivió porque, tras la muerte de Juan, sus sucesores la volvieron a emitir en 1216, 1217 y 1225, cada vez retocada. De sus 63 cláusulas originales, solo tres siguen vigentes en Inglaterra. Una es la que dice que nadie será encarcelado sino por [[juicio legal de sus pares|Ser juzgado por iguales y conforme a la ley del país; base de la idea del debido proceso.]] o por la ley del país.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg?width=900",
-     "alt": "Pergamino medieval escrito en latín con letra apretada",
-     "pie": "Uno de los ejemplares de 1215 de la Carta Magna, en la Biblioteca Británica",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Medievalists.net: 10 things you need to know about Magna Carta",
-     "url": "https://www.medievalists.net/2015/06/10-things-you-need-to-know-about-magna-carta/"
-    },
-    "wiki": "Carta Magna",
     "claves": [
      {
       "nombre": "Juan sin Tierra",
@@ -1105,11 +980,28 @@
       "wiki": "Inocencio III"
      }
     ],
+    "dato": "El documento más famoso de la historia del derecho fue anulado por el papa a las diez semanas de sellarse.",
+    "epoca": "1215",
+    "explicacion": "El rey Juan sin Tierra la selló el 15 de junio de 1215, en Runnymede, para calmar a los barones rebeldes. Juan pidió ayuda al papa Inocencio III, que el 24 de agosto la declaró nula. Siguió una guerra civil.\n\nSobrevivió porque, tras la muerte de Juan, sus sucesores la volvieron a emitir en 1216, 1217 y 1225, cada vez retocada. De sus 63 cláusulas originales, solo tres siguen vigentes en Inglaterra. Una es la que dice que nadie será encarcelado sino por [[juicio legal de sus pares|Ser juzgado por iguales y conforme a la ley del país; base de la idea del debido proceso.]] o por la ley del país.",
+    "fecha": "2026-11-10",
+    "fuente": {
+     "nombre": "Medievalists.net: 10 things you need to know about Magna Carta",
+     "url": "https://www.medievalists.net/2015/06/10-things-you-need-to-know-about-magna-carta/"
+    },
+    "imagen": {
+     "alt": "Pergamino medieval escrito en latín con letra apretada",
+     "credito": "Wikimedia Commons",
+     "pie": "Uno de los ejemplares de 1215 de la Carta Magna, en la Biblioteca Británica",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg?width=900"
+    },
+    "materia": "Derecho y poder",
+    "pilar": "mundo",
     "repaso": {
      "pregunta": "¿Cuánto duró vigente la Carta Magna de 1215 y por qué sobrevivió?",
      "respuesta": "Unas diez semanas: Inocencio III la anuló el 24 de agosto de 1215. Sobrevivió porque se volvió a emitir en 1216, 1217 y 1225."
     },
-    "fecha": "2026-11-10"
+    "titulo": "La Carta Magna duró diez semanas",
+    "wiki": "Carta Magna"
    },
    {
     "claves": [
@@ -1269,17 +1161,6 @@
   ],
   "Disciplina y hábitos": [
    {
-    "materia": "Disciplina y hábitos",
-    "pilar": "caracter",
-    "epoca": "2009",
-    "titulo": "Un hábito no tarda 21 días",
-    "dato": "En el estudio más citado sobre el tema, un hábito tardó en promedio 66 días en volverse automático. Para algunos fueron 18; para otros, 254.",
-    "explicacion": "Phillippa Lally y su equipo, en el University College de Londres, siguieron durante 12 semanas a 96 voluntarios que querían adoptar algo nuevo: beber agua, correr, comer fruta. La mediana fue de 66 días, y saltarse un día no arruinaba el proceso.\n\nEl famoso «21 días» viene del cirujano Maxwell Maltz, en *Psico-Cibernética* (1960). Él observó que sus pacientes tardaban un **mínimo** de unos 21 días en acostumbrarse a su nueva cara. Con los años, el mínimo se volvió promesa.",
-    "fuente": {
-     "nombre": "James Clear: How long does it actually take to form a new habit? (resume el estudio de Lally et al., 2009)",
-     "url": "https://jamesclear.com/new-habit"
-    },
-    "wiki": "Hábito",
     "claves": [
      {
       "nombre": "Psico-Cibernética",
@@ -1292,11 +1173,22 @@
       "wiki": "University College de Londres"
      }
     ],
+    "dato": "En el estudio más citado sobre el tema, un hábito tardó en promedio 66 días en volverse automático. Para algunos fueron 18; para otros, 254.",
+    "epoca": "2009",
+    "explicacion": "Phillippa Lally y su equipo, en el University College de Londres, siguieron durante 12 semanas a 96 voluntarios que querían adoptar algo nuevo: beber agua, correr, comer fruta. La mediana fue de 66 días, y saltarse un día no arruinaba el proceso.\n\nEl famoso «21 días» viene del cirujano Maxwell Maltz, en *Psico-Cibernética* (1960). Él observó que sus pacientes tardaban un **mínimo** de unos 21 días en acostumbrarse a su nueva cara. Con los años, el mínimo se volvió promesa.",
+    "fecha": "2026-11-10",
+    "fuente": {
+     "nombre": "James Clear: How long does it actually take to form a new habit? (resume el estudio de Lally et al., 2009)",
+     "url": "https://jamesclear.com/new-habit"
+    },
+    "materia": "Disciplina y hábitos",
+    "pilar": "caracter",
     "repaso": {
      "pregunta": "¿Cuánto tardó en promedio un hábito en volverse automático en el estudio de Lally (2009)?",
      "respuesta": "66 días de mediana, con un rango de 18 a 254. Los 21 días eran el mínimo que observó Maltz en sus pacientes."
     },
-    "fecha": "2026-11-10"
+    "titulo": "Un hábito no tarda 21 días",
+    "wiki": "Hábito"
    },
    {
     "claves": [
@@ -1606,17 +1498,6 @@
   ],
   "El cosmos": [
    {
-    "materia": "El cosmos",
-    "pilar": "futuro",
-    "epoca": "2015",
-    "titulo": "Hay más árboles en la Tierra que estrellas en la galaxia",
-    "dato": "En la Tierra hay unos 3 billones de árboles (3,000,000,000,000). En la Vía Láctea hay entre 100,000 y 400,000 millones de estrellas.",
-    "explicacion": "La cifra de árboles la calculó en 2015 un equipo dirigido por Thomas Crowther, en Yale, con imágenes de satélite y conteos en más de 400,000 parcelas. Antes se pensaba que había unos 400,000 millones: se quedaban cortos casi ocho veces.\n\nEl mismo estudio estimó que se talan unos 15,000 millones de árboles al año y que hoy hay cerca de 46% menos que al inicio de la agricultura. Contar galaxias es más fácil que contar bosques: las estrellas no se esconden bajo otras.",
-    "fuente": {
-     "nombre": "Yale School of the Environment: Yale study reveals there are 3 trillion trees on Earth",
-     "url": "https://environment.yale.edu/news/article/Yale-study-reveals-there-are-3-trillion-trees-on-earth"
-    },
-    "wiki": "Vía Láctea",
     "claves": [
      {
       "nombre": "Árbol",
@@ -1629,11 +1510,22 @@
       "wiki": "Estrella"
      }
     ],
+    "dato": "En la Tierra hay unos 3 billones de árboles (3,000,000,000,000). En la Vía Láctea hay entre 100,000 y 400,000 millones de estrellas.",
+    "epoca": "2015",
+    "explicacion": "La cifra de árboles la calculó en 2015 un equipo dirigido por Thomas Crowther, en Yale, con imágenes de satélite y conteos en más de 400,000 parcelas. Antes se pensaba que había unos 400,000 millones: se quedaban cortos casi ocho veces.\n\nEl mismo estudio estimó que se talan unos 15,000 millones de árboles al año y que hoy hay cerca de 46% menos que al inicio de la agricultura. Contar galaxias es más fácil que contar bosques: las estrellas no se esconden bajo otras.",
+    "fecha": "2026-11-10",
+    "fuente": {
+     "nombre": "Yale School of the Environment: Yale study reveals there are 3 trillion trees on Earth",
+     "url": "https://environment.yale.edu/news/article/Yale-study-reveals-there-are-3-trillion-trees-on-earth"
+    },
+    "materia": "El cosmos",
+    "pilar": "futuro",
     "repaso": {
      "pregunta": "¿Cuántos árboles hay en la Tierra según Crowther (2015) y cuántas estrellas en la Vía Láctea?",
      "respuesta": "Unos 3 billones de árboles, contra 100,000 a 400,000 millones de estrellas."
     },
-    "fecha": "2026-11-10"
+    "titulo": "Hay más árboles en la Tierra que estrellas en la galaxia",
+    "wiki": "Vía Láctea"
    },
    {
     "claves": [
@@ -1971,39 +1863,45 @@
     },
     "titulo": "Un duelo por un asiento en un baile",
     "wiki": "Convención de Viena sobre Relaciones Diplomáticas"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Eduardo VII del Reino Unido",
-      "quien": "El príncipe de Gales que encargó la chaqueta; árbitro de la moda masculina de su época.",
-      "wiki": "Eduardo VII del Reino Unido"
-     },
-     {
-      "nombre": "Ropa semiformal",
-      "quien": "Código de vestimenta entre lo casual y la etiqueta, donde hoy cabe el esmoquin.",
-      "wiki": "Ropa semiformal"
-     }
-    ],
-    "dato": "Según la sastrería Henry Poole, en 1865 el príncipe de Gales le pidió una chaqueta corta para cenas informales. De ahí nace el esmoquin, que en Estados Unidos tomó el nombre de un club: Tuxedo Park.",
-    "epoca": "1865",
-    "explicacion": "La versión de Henry Poole viene de sus propios registros, así que es tradición más que prueba independiente. La historia de que un neoyorquino la llevó al club de Tuxedo Park en 1886 tampoco está documentada; el primer uso escrito de *tuxedo* para la chaqueta es de 1889.\n\nEn español decimos *esmoquin* por la *smoking jacket* inglesa: la prenda para fumar tras la cena. Nació como ropa relajada frente al frac, y hoy es lo más formal que usa casi cualquiera: la etiqueta cambia de nivel con el tiempo.",
-    "fecha": "2026-10-23",
-    "fuente": {
-     "nombre": "Henry Poole & Co: historia del dinner jacket",
-     "url": "https://henrypoole.com/?p=10230"
-    },
-    "materia": "Etiqueta y protocolo",
-    "pilar": "gusto",
-    "repaso": {
-     "pregunta": "¿De dónde viene la palabra «esmoquin»?",
-     "respuesta": "De la «smoking jacket» inglesa, la chaqueta para fumar tras la cena. En EE. UU. se llama tuxedo por el club de Tuxedo Park."
-    },
-    "titulo": "El esmoquin es inglés; el «tuxedo», neoyorquino",
-    "wiki": "Esmoquin"
    }
   ],
   "Filosofía para vivir": [
+   {
+    "claves": [
+     {
+      "nombre": "Trinity College",
+      "quien": "El colegio de Cambridge al que Wittgenstein volvió en 1929.",
+      "wiki": "Trinity College (Cambridge)"
+     },
+     {
+      "nombre": "Juego de lenguaje",
+      "quien": "La idea de su segunda etapa: el significado de una palabra está en su uso.",
+      "wiki": "Juego del lenguaje (filosofía)"
+     }
+    ],
+    "dato": "En 1919, Ludwig Wittgenstein cedió toda su herencia a sus hermanos. Su familia era la segunda más rica del Imperio austrohúngaro, después de los Rothschild.",
+    "epoca": "1919",
+    "explicacion": "Volvió de la Primera Guerra Mundial convencido de que su libro, el *Tractatus*, ya había resuelto los problemas de la filosofía. Quería una vida austera y exigió que no quedara nada a su nombre. Solo excluyó a su hermana Margarete, que ya era muy rica.\n\nEntre 1920 y 1926 fue maestro rural en pueblos de la Baja Austria. Lo dejó tras golpear a un alumno. Después volvió a Cambridge y cambió de opinión sobre su propio libro: la filosofía no estaba resuelta.",
+    "fecha": "2026-11-11",
+    "fuente": {
+     "nombre": "MacTutor, Universidad de St Andrews: Ludwig Wittgenstein",
+     "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Wittgenstein/"
+    },
+    "imagen": {
+     "alt": "Retrato en blanco y negro de un joven de mirada seria",
+     "credito": "Wikimedia Commons",
+     "pie": "Ludwig Wittgenstein hacia 1910",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_Wittgenstein_1910.jpg?width=900"
+    },
+    "materia": "Filosofía para vivir",
+    "pilar": "mente",
+    "repaso": {
+     "pregunta": "¿Qué hizo Wittgenstein con su herencia en 1919?",
+     "respuesta": "La cedió a sus hermanos (salvo a Margarete) y se hizo maestro rural en Austria."
+    },
+    "titulo": "El filósofo que regaló una fortuna",
+    "wiki": "Ludwig Wittgenstein"
+   },
    {
     "claves": [
      {
@@ -2180,17 +2078,6 @@
   ],
   "Gastronomía, vino y destilados": [
    {
-    "materia": "Gastronomía, vino y destilados",
-    "pilar": "gusto",
-    "epoca": "1839",
-    "titulo": "El cruasán llegó a París desde Viena",
-    "dato": "El cruasán no nació en Francia: su antepasado es el *kipferl* austriaco, que un panadero vienés empezó a vender en París hacia 1839.",
-    "explicacion": "August Zang, un oficial austriaco, abrió en la rue de Richelieu una «panadería vienesa». Los parisinos copiaron sus panes en forma de media luna. El cruasán de [[hojaldre|Masa de capas finas de harina y mantequilla que se separan al hornear.]] con mantequilla, el que conocemos, aparece en recetas francesas ya entrado el siglo XX.\n\nLa historia de que lo inventaron los panaderos de Viena en 1683, para celebrar la derrota de los otomanos, es una leyenda sin documentos de la época. La forma de luna era común en panes mucho antes.",
-    "fuente": {
-     "nombre": "Wikipedia: Cruasán",
-     "url": "https://es.wikipedia.org/wiki/Cruas%C3%A1n"
-    },
-    "wiki": "Cruasán",
     "claves": [
      {
       "nombre": "Kipferl",
@@ -2203,11 +2090,22 @@
       "wiki": "Batalla de Kahlenberg"
      }
     ],
+    "dato": "El cruasán no nació en Francia: su antepasado es el *kipferl* austriaco, que un panadero vienés empezó a vender en París hacia 1839.",
+    "epoca": "1839",
+    "explicacion": "August Zang, un oficial austriaco, abrió en la rue de Richelieu una «panadería vienesa». Los parisinos copiaron sus panes en forma de media luna. El cruasán de [[hojaldre|Masa de capas finas de harina y mantequilla que se separan al hornear.]] con mantequilla, el que conocemos, aparece en recetas francesas ya entrado el siglo XX.\n\nLa historia de que lo inventaron los panaderos de Viena en 1683, para celebrar la derrota de los otomanos, es una leyenda sin documentos de la época. La forma de luna era común en panes mucho antes.",
+    "fecha": "2026-11-10",
+    "fuente": {
+     "nombre": "Wikipedia: Cruasán",
+     "url": "https://es.wikipedia.org/wiki/Cruas%C3%A1n"
+    },
+    "materia": "Gastronomía, vino y destilados",
+    "pilar": "gusto",
     "repaso": {
      "pregunta": "¿De dónde viene el cruasán?",
      "respuesta": "Del kipferl austriaco, que August Zang vendió en París hacia 1839. La leyenda del sitio de Viena de 1683 no tiene documentos."
     },
-    "fecha": "2026-11-10"
+    "titulo": "El cruasán llegó a París desde Viena",
+    "wiki": "Cruasán"
    },
    {
     "claves": [
@@ -2367,6 +2265,42 @@
    }
   ],
   "Historia y geopolítica": [
+   {
+    "claves": [
+     {
+      "nombre": "Emperador de los franceses",
+      "quien": "El título que Napoleón se dio en 1804.",
+      "wiki": "Emperador de los franceses"
+     },
+     {
+      "nombre": "Tratado de Amiens",
+      "quien": "La paz de 1802 con Gran Bretaña; al romperse, empezó la guerra de caricaturas.",
+      "wiki": "Tratado de Amiens (1802)"
+     }
+    ],
+    "dato": "Napoleón medía unos 1.68 metros, un poco más que el francés promedio de su época. El mito del emperador diminuto nació de una confusión de unidades y de la propaganda británica.",
+    "epoca": "Siglo XIX",
+    "explicacion": "Sus allegados dieron «5 pies 2 pulgadas», pero en medidas francesas, que eran más largas que las inglesas. Leídas como inglesas, salen unos 1.57 metros: de ahí el error.\n\nEl resto lo hizo el caricaturista [[James Gillray|Caricaturista británico (1756–1815) que dibujaba a Napoleón como un hombrecillo colérico, «Little Boney».]]. Desde 1803 lo dibujó diminuto y furioso. La imagen duró más que los hechos: es propaganda visual que todavía funciona dos siglos después.",
+    "fecha": "2026-11-11",
+    "fuente": {
+     "nombre": "History.com: Was Napoleon short?",
+     "url": "https://www.history.com/articles/napoleon-complex-short"
+    },
+    "imagen": {
+     "alt": "Caricatura antigua de un Napoleón pequeño horneando figuras",
+     "credito": "Wikimedia Commons",
+     "pie": "«Tiddy-Doll», caricatura de James Gillray (1806)",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gillray-Tiddy-Doll.png?width=900"
+    },
+    "materia": "Historia y geopolítica",
+    "pilar": "mundo",
+    "repaso": {
+     "pregunta": "¿Cuánto medía Napoleón y por qué se cree que era bajo?",
+     "respuesta": "Unos 1.68 m. El mito viene de leer medidas francesas como inglesas y de las caricaturas de Gillray."
+    },
+    "titulo": "Napoleón no era bajo",
+    "wiki": "Napoleón Bonaparte"
+   },
    {
     "claves": [
      {
@@ -2547,6 +2481,42 @@
    }
   ],
   "IA y el futuro": [
+   {
+    "claves": [
+     {
+      "nombre": "Go",
+      "quien": "El juego antiguo que fue el gran reto de la IA hasta 2016.",
+      "wiki": "Go"
+     },
+     {
+      "nombre": "David Silver",
+      "quien": "Investigador de DeepMind que dirigió el desarrollo de AlphaGo.",
+      "wiki": "David Silver (informático)"
+     }
+    ],
+    "dato": "En marzo de 2016, en la segunda partida contra Lee Sedol, AlphaGo hizo la «jugada 37». Según DeepMind, la probabilidad de que un humano la jugara era de 1 entre 10,000.",
+    "epoca": "2016",
+    "explicacion": "AlphaGo aprendió de partidas humanas y luego jugando millones contra sí mismo. Así encontró jugadas que la tradición del [[go|Juego de mesa chino de más de 2,500 años, con muchas más posiciones posibles que el ajedrez.]] descartaba. Los comentaristas creyeron que era un error; resultó decisiva.\n\nAlphaGo ganó 4 a 1. La única victoria de Lee fue en la cuarta partida, con su propia jugada de 1 entre 10,000. En 2019 se retiró y dijo: «Aunque llegue a ser el número uno, hay una entidad que no puede ser derrotada».",
+    "fecha": "2026-11-11",
+    "fuente": {
+     "nombre": "Google DeepMind: AlphaGo",
+     "url": "https://deepmind.google/research/projects/alphago/"
+    },
+    "imagen": {
+     "alt": "Retrato de un hombre joven con lentes",
+     "credito": "Wikimedia Commons",
+     "pie": "Lee Sedol en 2012",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lee_Se-dol_2012.jpg?width=900"
+    },
+    "materia": "IA y el futuro",
+    "pilar": "futuro",
+    "repaso": {
+     "pregunta": "¿Qué fue la «jugada 37» de AlphaGo?",
+     "respuesta": "Una jugada de la segunda partida contra Lee Sedol (2016) que un humano haría con probabilidad de 1 entre 10,000; ayudó a ganar."
+    },
+    "titulo": "La jugada que un humano no habría hecho",
+    "wiki": "Go por computadora"
+   },
    {
     "claves": [
      {
@@ -2737,6 +2707,42 @@
    }
   ],
   "Inversión y finanzas personales": [
+   {
+    "claves": [
+     {
+      "nombre": "Euronext Ámsterdam",
+      "quien": "La bolsa heredera del mercado donde se compraban y vendían las participaciones de la VOC.",
+      "wiki": "Euronext Ámsterdam"
+     },
+     {
+      "nombre": "Siglo de Oro neerlandés",
+      "quien": "La época de auge comercial y artístico de los Países Bajos en el siglo XVII.",
+      "wiki": "Siglo de Oro neerlandés"
+     }
+    ],
+    "dato": "El documento de inversión en acciones más antiguo conocido es un recibo del 9 de septiembre de 1606 de la Compañía Neerlandesa de las Indias Orientales. Lo encontró un estudiante en 2010.",
+    "epoca": "1606",
+    "explicacion": "La compañía, la VOC, se fundó en 1602. Pieter Harmensz, mensajero de la ciudad de Enkhuizen, suscribió 150 florines y los pagó a plazos; el papel es el recibo del último pago. El estudiante de historia Ruben Schalk lo halló en el archivo de Enkhuizen.\n\nNo es un «certificado» moderno: la VOC no los emitía. Las participaciones se anotaban en un libro. Lo revolucionario era otra cosa: el capital era permanente y las participaciones se podían vender a otro. De ahí nació la bolsa de Ámsterdam.",
+    "fecha": "2026-11-11",
+    "fuente": {
+     "nombre": "Westfries Archief: The oldest share",
+     "url": "https://westfriesarchief.nl/historie/thema-s/geld-en-handel/the-oldest-share"
+    },
+    "imagen": {
+     "alt": "Documento manuscrito antiguo en neerlandés",
+     "credito": "Wikimedia Commons",
+     "pie": "El recibo de 1606 de la cámara de Enkhuizen de la VOC",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/VOC_aandeel_9_september_1606.jpg?width=900"
+    },
+    "materia": "Inversión y finanzas personales",
+    "pilar": "patrimonio",
+    "repaso": {
+     "pregunta": "¿Qué es el documento de 1606 de la VOC y por qué importa?",
+     "respuesta": "Un recibo de pago de participaciones, el más antiguo conocido. La VOC tenía capital permanente y participaciones transferibles: el origen de la bolsa."
+    },
+    "titulo": "El «certificado de acción» más antiguo es un recibo",
+    "wiki": "Compañía Neerlandesa de las Indias Orientales"
+   },
    {
     "claves": [
      {
@@ -3038,77 +3044,6 @@
     },
     "titulo": "El anuncio de Shackleton nunca apareció",
     "wiki": "Ernest Shackleton"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Sistema de producción Toyota",
-      "quien": "El método de Toyota que inspiró la manufactura esbelta en todo el mundo.",
-      "wiki": "Sistema de producción Toyota"
-     },
-     {
-      "nombre": "Jidōka",
-      "quien": "Principio de detener el proceso ante un defecto en lugar de dejarlo pasar.",
-      "wiki": "Jidōka"
-     }
-    ],
-    "dato": "En las plantas de Toyota, cualquier obrero puede jalar un cordón, el *andon*, para pedir ayuda cuando ve un problema. Si no se resuelve a tiempo, la línea entera se detiene.",
-    "epoca": "Siglo XX",
-    "explicacion": "La idea viene de Sakichi Toyoda, cuyo telar se detenía solo cuando se rompía un hilo. Toyota la convirtió en principio, el *jidoka*: no dejar pasar un defecto. Al jalar el cordón, la línea avanza hasta el final del ciclo mientras llega el jefe de equipo; si el problema sigue, se para.\n\nLo radical es quién tiene el poder. Según un reportaje de la BBC de 2007, en una planta de Toyota en Kentucky se jalaba unas 2,000 veces por semana. Un líder que premia que le avisen de los errores los descubre cuando todavía son baratos.",
-    "fecha": "2026-10-23",
-    "fuente": {
-     "nombre": "Lean Enterprise Institute: How NUMMI changed its culture",
-     "url": "https://www.lean.org/the-lean-post/articles/how-nummi-changed-its-culture/"
-    },
-    "imagen": {
-     "alt": "Tablero andon en una planta de producción",
-     "credito": "Wikimedia Commons",
-     "pie": "Un tablero andon: muestra en qué estación se pidió ayuda",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Andon-Board_in_einem_Produktionswerk.png?width=900"
-    },
-    "materia": "Liderazgo e influencia",
-    "pilar": "caracter",
-    "repaso": {
-     "pregunta": "¿Qué es el andon de Toyota?",
-     "respuesta": "Un cordón que cualquier obrero puede jalar para avisar de un problema; si no se resuelve, la línea se detiene."
-    },
-    "titulo": "El cordón que cualquiera puede jalar",
-    "wiki": "Andon (sistema de control)"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Ernest Shackleton",
-      "quien": "Explorador anglo-irlandés que dirigió la expedición",
-      "wiki": "Ernest Shackleton"
-     },
-     {
-      "nombre": "Endurance",
-      "quien": "El barco de la expedición, hundido en el mar de Weddell en 1915",
-      "wiki": "Endurance (barco)"
-     },
-     {
-      "nombre": "Georgia del Sur",
-      "quien": "Isla a la que llegaron en bote para pedir ayuda",
-      "wiki": "Isla San Pedro (Georgia del Sur)"
-     }
-    ],
-    "dato": "El Endurance de Ernest Shackleton quedó atrapado y aplastado por el hielo antártico, pero los 28 hombres de la expedición sobrevivieron casi dos años después. El barco hundido apareció en 2022, a unos 3,000 metros de profundidad.",
-    "epoca": "1914–1916",
-    "explicacion": "La meta original, cruzar la Antártida, fracasó por completo. Shackleton cambió el objetivo a uno solo: que todos volvieran vivos. Mantuvo rutinas, repartió tareas, cuidó la moral y se quedó cerca de los más conflictivos para que no contagiaran al grupo.\n\nAl final cruzó en un bote abierto unos 1,300 km de mar helado hasta Georgia del Sur para pedir rescate. Su caso se estudia en escuelas de negocios porque muestra que liderar en crisis es redefinir el éxito a tiempo y proteger al equipo antes que al plan.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Expedición Imperial Transantártica",
-     "url": "https://es.wikipedia.org/wiki/Expedici%C3%B3n_Imperial_Transant%C3%A1rtica"
-    },
-    "materia": "Liderazgo e influencia",
-    "pilar": "caracter",
-    "repaso": {
-     "pregunta": "¿Cuántos hombres de la expedición del Endurance sobrevivieron?",
-     "respuesta": "Los 28."
-    },
-    "titulo": "Perdió el barco, no a un solo hombre",
-    "wiki": "Ernest Shackleton"
    }
   ],
   "Literatura y mitología": [
@@ -3268,17 +3203,6 @@
   ],
   "Mente y decisiones": [
    {
-    "materia": "Mente y decisiones",
-    "pilar": "mente",
-    "epoca": "1654",
-    "titulo": "Una partida interrumpida inventó la probabilidad",
-    "dato": "La teoría de la probabilidad nació de una pregunta de un jugador: si un juego se interrumpe a la mitad, ¿cómo se reparte el dinero apostado?",
-    "explicacion": "El escritor Antoine Gombaud, conocido como el caballero de Méré, le planteó el problema a Blaise Pascal. En el verano de 1654, Pascal se lo escribió a Pierre de Fermat, y en unas cuantas cartas los dos lo resolvieron.\n\nSu idea: no repartir según lo que ya pasó, sino contando todos los finales posibles y cuántos gana cada jugador. Es el germen del [[valor esperado|Promedio de lo que puedes ganar o perder, ponderado por la probabilidad de cada resultado.]], que hoy usan seguros, bancos y cualquiera que evalúa un proyecto.",
-    "fuente": {
-     "nombre": "University of York: Pascal and Fermat on the problem of points (correspondencia de 1654)",
-     "url": "https://www.york.ac.uk/depts/maths/histstat/pascal.htm"
-    },
-    "wiki": "Problema de la partida interrumpida",
     "claves": [
      {
       "nombre": "Blaise Pascal",
@@ -3291,11 +3215,22 @@
       "wiki": "Pierre de Fermat"
      }
     ],
+    "dato": "La teoría de la probabilidad nació de una pregunta de un jugador: si un juego se interrumpe a la mitad, ¿cómo se reparte el dinero apostado?",
+    "epoca": "1654",
+    "explicacion": "El escritor Antoine Gombaud, conocido como el caballero de Méré, le planteó el problema a Blaise Pascal. En el verano de 1654, Pascal se lo escribió a Pierre de Fermat, y en unas cuantas cartas los dos lo resolvieron.\n\nSu idea: no repartir según lo que ya pasó, sino contando todos los finales posibles y cuántos gana cada jugador. Es el germen del [[valor esperado|Promedio de lo que puedes ganar o perder, ponderado por la probabilidad de cada resultado.]], que hoy usan seguros, bancos y cualquiera que evalúa un proyecto.",
+    "fecha": "2026-11-10",
+    "fuente": {
+     "nombre": "University of York: Pascal and Fermat on the problem of points (correspondencia de 1654)",
+     "url": "https://www.york.ac.uk/depts/maths/histstat/pascal.htm"
+    },
+    "materia": "Mente y decisiones",
+    "pilar": "mente",
     "repaso": {
      "pregunta": "¿Qué problema resolvieron Pascal y Fermat en 1654?",
      "respuesta": "Cómo repartir lo apostado en un juego interrumpido: contando los finales posibles. De ahí nació la teoría de la probabilidad."
     },
-    "fecha": "2026-11-10"
+    "titulo": "Una partida interrumpida inventó la probabilidad",
+    "wiki": "Problema de la partida interrumpida"
    },
    {
     "claves": [
@@ -3446,36 +3381,6 @@
     },
     "titulo": "Diez mil cartas para decirle que estaba equivocada",
     "wiki": "Problema de Monty Hall"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Solomon Asch",
-      "quien": "Psicólogo polaco-estadounidense que diseñó el experimento",
-      "wiki": "Solomon Asch"
-     },
-     {
-      "nombre": "Conformidad",
-      "quien": "Tendencia a ajustar opiniones o conductas a las del grupo",
-      "wiki": "Conformidad"
-     }
-    ],
-    "dato": "En el experimento de Solomon Asch, alrededor de 75% de los participantes dio al menos una vez una respuesta claramente falsa solo porque el grupo la decía.",
-    "epoca": "1951",
-    "explicacion": "Asch pidió a estudiantes comparar la longitud de unas líneas. Todos los demás en la sala eran actores que, a propósito, elegían la respuesta equivocada. La tarea era tan fácil que solos casi nadie fallaba; en grupo, más de un tercio de las respuestas se alinearon con el error.\n\nLa lección no es que la gente sea tonta, sino que el costo social de disentir pesa en el juicio. Asch también encontró el antídoto: cuando un solo actor rompía la unanimidad, la conformidad caía de golpe. En una junta, basta una voz distinta para que otros se atrevan a decir lo que ven.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Experimento de Asch",
-     "url": "https://es.wikipedia.org/wiki/Experimento_de_Asch"
-    },
-    "materia": "Mente y decisiones",
-    "pilar": "mente",
-    "repaso": {
-     "pregunta": "¿Qué reducía casi por completo la conformidad en el experimento de Asch?",
-     "respuesta": "Que una sola persona del grupo rompiera la unanimidad."
-    },
-    "titulo": "Tres de cada cuatro dijeron lo que no veían",
-    "wiki": "Experimento de Asch"
    }
   ],
   "Música": [
@@ -3796,6 +3701,40 @@
    {
     "claves": [
      {
+      "nombre": "Reloj mecánico",
+      "quien": "El tipo de reloj cuyo movimiento debe ser suizo para llevar la etiqueta.",
+      "wiki": "Reloj mecánico"
+     },
+     {
+      "nombre": "Suiza",
+      "quien": "El país cuya ley de 2017, llamada «Swissness», protege su nombre en productos.",
+      "wiki": "Suiza"
+     }
+    ],
+    "dato": "Desde el 1 de enero de 2017, un reloj solo puede llevar «Swiss made» si al menos el 60% de sus costos de fabricación se generan en Suiza. Antes no había ningún umbral para el reloj completo.",
+    "epoca": "2017",
+    "explicacion": "La regla vieja, de 1971, se fijaba sobre todo en el [[movimiento|El mecanismo interior que mueve las manecillas; el «motor» del reloj.]]: bastaba que fuera suizo, con al menos 50% del valor de sus piezas. La caja, la carátula o el cristal podían venir de cualquier parte. La revisión aprobada en 2016 sumó el 60% para todo el reloj, y también exige desarrollo técnico, encajado e inspección final en Suiza.\n\nPor qué importa: dos palabras en una carátula valen dinero, y por eso se regulan como una denominación de origen. Es la misma lógica que el tequila: lo que se protege no es una marca, sino la promesa de un lugar.",
+    "fecha": "2026-11-11",
+    "fuente": {
+     "nombre": "Instituto Federal Suizo de la Propiedad Intelectual: revisión de la ordenanza «Swiss» para relojes",
+     "url": "https://www.ige.ch/en/law-and-policy/national-ip-law/indications-of-source/swiss-indications-of-source/industry-ordinances/revision-of-the-ordinance-on-the-use-of-swiss-for-watches"
+    },
+    "materia": "Oficios del lujo y estilo",
+    "pilar": "gusto",
+    "profundizar": {
+     "titulo": "Federación de la Industria Relojera Suiza: guía «Swiss made» (en inglés, PDF)",
+     "url": "https://www.fhs.swiss/file/8/Guide_FH_v.5_en.pdf"
+    },
+    "repaso": {
+     "pregunta": "¿Qué exige desde 2017 la etiqueta «Swiss made» en un reloj?",
+     "respuesta": "Al menos 60% de los costos de fabricación del reloj completo en Suiza, movimiento suizo, y desarrollo, encajado e inspección final en Suiza."
+    },
+    "titulo": "«Swiss made» exige 60% del costo en Suiza",
+    "wiki": "Relojería"
+   },
+   {
+    "claves": [
+     {
       "nombre": "Charles Lewis Tiffany",
       "quien": "Fundador de Tiffany & Co. (1812–1902); convirtió la caja en un símbolo.",
       "wiki": "Charles Lewis Tiffany"
@@ -3974,51 +3913,10 @@
     },
     "titulo": "El primer reloj de pulsera de Patek fue para una condesa",
     "wiki": "Patek Philippe & Co."
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Jane Birkin",
-      "quien": "Actriz y cantante anglo-francesa que inspiró el bolso",
-      "wiki": "Jane Birkin"
-     },
-     {
-      "nombre": "Hermès",
-      "quien": "Casa francesa nacida en 1837 como taller de arneses",
-      "wiki": "Hermès"
-     }
-    ],
-    "dato": "El Birkin de Hermès surgió en 1984, cuando la actriz Jane Birkin se sentó junto a Jean-Louis Dumas, director de Hermès, en un vuelo, y se quejó de que no encontraba un bolso práctico.",
-    "epoca": "1984",
-    "explicacion": "Según el relato de ambos, Birkin dibujó lo que quería en una bolsa de mareo y Dumas lo convirtió en un bolso. Cada pieza la arma a mano un solo artesano, con costura de silla de montar, el oficio original de Hermès.\n\nSu escasez es parte del diseño: Hermès produce menos de lo que la demanda pediría. Es el ejemplo clásico de cómo el lujo protege su valor controlando la oferta, no bajando el precio.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Hermès",
-     "url": "https://es.wikipedia.org/wiki/Herm%C3%A8s"
-    },
-    "materia": "Oficios del lujo y estilo",
-    "pilar": "gusto",
-    "repaso": {
-     "pregunta": "¿Cómo nació el bolso Birkin?",
-     "respuesta": "De una conversación entre Jane Birkin y Jean-Louis Dumas en un vuelo en 1984."
-    },
-    "titulo": "El bolso nació en un avión",
-    "wiki": "Birkin (bolso)"
    }
   ],
   "Productos digitales escalables": [
    {
-    "materia": "Productos digitales escalables",
-    "pilar": "patrimonio",
-    "epoca": "1993",
-    "titulo": "Doom regaló la tercera parte del juego",
-    "dato": "Doom se lanzó el 10 de diciembre de 1993 subiendo el primer episodio, gratis, al servidor de una universidad. Para jugar los otros dos había que pagar.",
-    "explicacion": "Id Software, un estudio de Texas de muy pocas personas, usó el modelo [[shareware|Programa que se distribuye gratis, completo o en parte, para que el usuario pague si quiere el resto o seguir usándolo.]]: copia libremente el episodio uno, *Knee-Deep in the Dead*. El archivo se subió al servidor FTP de la Universidad de Wisconsin, que se saturó.\n\nLa lógica: cada copia gratis no le costaba nada a id y trabajaba como anuncio. Los jugadores se lo pasaban en disquetes y por redes. Quien quería más pedía la versión completa por correo. Fue de los primeros grandes éxitos de vender software sin tiendas.",
-    "fuente": {
-     "nombre": "Doom Wiki: Doom",
-     "url": "https://doomwiki.org/wiki/Doom"
-    },
-    "wiki": "Doom (videojuego de 1993)",
     "claves": [
      {
       "nombre": "id Software",
@@ -4031,11 +3929,22 @@
       "wiki": "Shareware"
      }
     ],
+    "dato": "Doom se lanzó el 10 de diciembre de 1993 subiendo el primer episodio, gratis, al servidor de una universidad. Para jugar los otros dos había que pagar.",
+    "epoca": "1993",
+    "explicacion": "Id Software, un estudio de Texas de muy pocas personas, usó el modelo [[shareware|Programa que se distribuye gratis, completo o en parte, para que el usuario pague si quiere el resto o seguir usándolo.]]: copia libremente el episodio uno, *Knee-Deep in the Dead*. El archivo se subió al servidor FTP de la Universidad de Wisconsin, que se saturó.\n\nLa lógica: cada copia gratis no le costaba nada a id y trabajaba como anuncio. Los jugadores se lo pasaban en disquetes y por redes. Quien quería más pedía la versión completa por correo. Fue de los primeros grandes éxitos de vender software sin tiendas.",
+    "fecha": "2026-11-10",
+    "fuente": {
+     "nombre": "Doom Wiki: Doom",
+     "url": "https://doomwiki.org/wiki/Doom"
+    },
+    "materia": "Productos digitales escalables",
+    "pilar": "patrimonio",
     "repaso": {
      "pregunta": "¿Cómo se distribuyó Doom en 1993?",
      "respuesta": "Como shareware: el primer episodio gratis, subido al servidor de la Universidad de Wisconsin; los otros dos se compraban."
     },
-    "fecha": "2026-11-10"
+    "titulo": "Doom regaló la tercera parte del juego",
+    "wiki": "Doom (videojuego de 1993)"
    },
    {
     "claves": [
@@ -4171,6 +4080,36 @@
    }
   ],
   "Relaciones y vida social": [
+   {
+    "claves": [
+     {
+      "nombre": "Relación interpersonal",
+      "quien": "El vínculo entre dos personas, que puede empezar con una charla de 14 minutos.",
+      "wiki": "Relación interpersonal"
+     },
+     {
+      "nombre": "Conversación de ascensor",
+      "quien": "La plática breve con desconocidos que solemos evitar.",
+      "wiki": "Conversación de ascensor"
+     }
+    ],
+    "dato": "En un experimento de 2014 en Chicago, los viajeros a quienes se pidió conversar con un desconocido disfrutaron más el trayecto. Otro grupo había predicho justo lo contrario.",
+    "epoca": "2014",
+    "explicacion": "Nicholas Epley y Juliana Schroeder, de la Universidad de Chicago, trabajaron con viajeros del tren suburbano. Las conversaciones duraron unos 14 minutos en promedio, y quienes hablaron no fueron menos productivos. El resultado se repitió en autobús.\n\nSubestimamos cuánto le interesa al otro conversar y exageramos el riesgo de rechazo. Como casi nadie se anima, casi nadie descubre que es agradable. Es una [[norma social|Regla no escrita que la mayoría sigue porque cree que los demás la siguen.]] que se sostiene sola.",
+    "fecha": "2026-11-11",
+    "fuente": {
+     "nombre": "Epley y Schroeder (2014), Journal of Experimental Psychology: General",
+     "url": "https://faculty.haas.berkeley.edu/jschroeder/Publications/Epley%26Schroeder2014.pdf"
+    },
+    "materia": "Relaciones y vida social",
+    "pilar": "caracter",
+    "repaso": {
+     "pregunta": "¿Qué encontraron Epley y Schroeder en 2014 con viajeros de tren?",
+     "respuesta": "Que conversar con un desconocido hizo el viaje más agradable, aunque la gente predecía lo contrario."
+    },
+    "titulo": "Hablar con un extraño en el tren mejora el viaje",
+    "wiki": "Psicología social"
+   },
    {
     "claves": [
      {
@@ -4324,36 +4263,6 @@
     },
     "titulo": "El número 150 quizá no existe",
     "wiki": "Número de Dunbar"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Robert Waldinger",
-      "quien": "Psiquiatra, director actual del estudio",
-      "wiki": "Robert Waldinger"
-     },
-     {
-      "nombre": "George Vaillant",
-      "quien": "Psiquiatra que dirigió el estudio durante décadas",
-      "wiki": "George Eman Vaillant"
-     }
-    ],
-    "dato": "El Estudio de Harvard sobre el Desarrollo Adulto sigue a las mismas personas desde 1938. Su conclusión más repetida: la calidad de las relaciones predice la salud y la felicidad en la vejez mejor que el dinero o la fama.",
-    "epoca": "Desde 1938",
-    "explicacion": "Comenzó con 268 estudiantes de Harvard y luego sumó a jóvenes de barrios pobres de Boston; hoy incluye también a sus hijos. Durante décadas se midieron salud, ingresos, matrimonio y hábitos. Quienes estaban más satisfechos con sus relaciones a los 50 resultaron los más sanos a los 80.\n\nSu director actual, Robert Waldinger, resume que la soledad pesa sobre la salud de forma comparable a otros riesgos conocidos. No se trata de tener muchos contactos, sino pocos vínculos en los que de verdad se pueda confiar.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Harvard Study of Adult Development",
-     "url": "https://www.adultdevelopmentstudy.org/"
-    },
-    "materia": "Relaciones y vida social",
-    "pilar": "caracter",
-    "repaso": {
-     "pregunta": "Según el estudio de Harvard, ¿qué predice mejor la salud en la vejez?",
-     "respuesta": "La calidad de las relaciones personales."
-    },
-    "titulo": "El estudio más largo sobre la felicidad",
-    "wiki": "Robert Waldinger"
    }
   ],
   "Religiones y grandes textos": [
@@ -4657,80 +4566,50 @@
     },
     "titulo": "«Les tengo un sueño» fue improvisado",
     "wiki": "Yo tengo un sueño"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Operación Dinamo",
-      "quien": "La evacuación de Dunkerque (mayo-junio de 1940), el contexto del discurso.",
-      "wiki": "Operación Dinamo"
-     },
-     {
-      "nombre": "Sangre, esfuerzo, lágrimas y sudor",
-      "quien": "Su primer gran discurso como primer ministro, un mes antes.",
-      "wiki": "Sangre, esfuerzo, lágrimas y sudor"
-     }
-    ],
-    "dato": "El famoso «Lucharemos en las playas» de Churchill no se transmitió en su voz en 1940. Ese día lo dijo en la Cámara de los Comunes y, por la noche, un locutor de la BBC leyó fragmentos en la radio.",
-    "epoca": "1940",
-    "explicacion": "Churchill habló en el Parlamento el 4 de junio de 1940, tras la evacuación de Dunkerque. Entonces no se grababan las sesiones. La grabación que hoy escuchamos la hizo él mismo en 1949, en su casa de Chartwell, y se publicó en disco en los años sesenta.\n\nCircula una versión de que un actor, Norman Shelley, lo imitó en la radio; los Archivos Nacionales británicos la desmienten. La lección retórica es otra: el discurso se volvió legendario por su texto, que se citó y reimprimió, antes de que la mayoría oyera la voz.",
-    "fecha": "2026-10-23",
-    "fuente": {
-     "nombre": "The National Archives (blog de historia del gobierno británico)",
-     "url": "https://history.blog.gov.uk/2013/12/02/we-shall-fight-on-the-beaches-three-things-you-never-knew-about-churchills-most-famous-speech/"
-    },
-    "imagen": {
-     "alt": "Winston Churchill como primer ministro",
-     "credito": "Wikimedia Commons",
-     "pie": "Winston Churchill, primer ministro británico de 1940 a 1945",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Winston_Churchill_As_Prime_Minister_1940-1945_H2646A.jpg?width=900"
-    },
-    "materia": "Retórica y oratoria",
-    "pilar": "mente",
-    "repaso": {
-     "pregunta": "¿Cuándo grabó Churchill «Lucharemos en las playas» en su propia voz?",
-     "respuesta": "En 1949, en Chartwell. En 1940 lo dijo en el Parlamento y la BBC leyó fragmentos."
-    },
-    "titulo": "El discurso que nadie oyó en su voz",
-    "wiki": "Lucharemos en las playas"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Abraham Lincoln",
-      "quien": "Presidente de EE. UU. durante la Guerra de Secesión",
-      "wiki": "Abraham Lincoln"
-     },
-     {
-      "nombre": "Edward Everett",
-      "quien": "Político y orador, el ponente principal de aquel día",
-      "wiki": "Edward Everett"
-     },
-     {
-      "nombre": "Batalla de Gettysburg",
-      "quien": "Batalla de 1863, punto de inflexión de la guerra",
-      "wiki": "Batalla de Gettysburg"
-     }
-    ],
-    "dato": "En Gettysburg, el orador principal fue Edward Everett, que habló unas dos horas. Lincoln habló después, unos dos minutos y apenas 272 palabras, y es su discurso el que se recuerda.",
-    "epoca": "1863",
-    "explicacion": "Everett era el gran orador de su tiempo y cumplió con lo esperado: un repaso largo y erudito de la batalla. Lincoln, invitado a decir 'unas palabras', convirtió el homenaje a los muertos en una definición de la nación: igualdad, sacrificio y un 'gobierno del pueblo, por el pueblo y para el pueblo'.\n\nEl propio Everett le escribió al día siguiente que le habría gustado acercarse en dos horas a la idea central que Lincoln logró en dos minutos. La brevedad no es falta de contenido: obliga a elegir una sola idea y a decirla con fuerza.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Discurso de Gettysburg",
-     "url": "https://es.wikipedia.org/wiki/Discurso_de_Gettysburg"
-    },
-    "materia": "Retórica y oratoria",
-    "pilar": "mente",
-    "repaso": {
-     "pregunta": "¿Cuánto duró aproximadamente el discurso de Lincoln en Gettysburg?",
-     "respuesta": "Unos dos minutos, 272 palabras."
-    },
-    "titulo": "Dos horas contra dos minutos",
-    "wiki": "Discurso de Gettysburg"
    }
   ],
   "Salud y longevidad": [
+   {
+    "claves": [
+     {
+      "nombre": "Sepsis puerperal",
+      "quien": "La infección después del parto que mataba a las madres en Viena.",
+      "wiki": "Sepsis puerperal"
+     },
+     {
+      "nombre": "Efecto Semmelweis",
+      "quien": "El reflejo de rechazar una verdad incómoda.",
+      "wiki": "Efecto Semmelweis"
+     },
+     {
+      "nombre": "Higiene de manos",
+      "quien": "La práctica que hoy la OMS considera básica para evitar infecciones.",
+      "wiki": "Higiene de manos"
+     }
+    ],
+    "dato": "En abril de 1847, en una clínica de maternidad de Viena, moría el 18.3% de las madres. Ignaz Semmelweis impuso lavarse las manos con cal clorada y en 1848 la cifra bajó a 1.3%.",
+    "epoca": "1847",
+    "explicacion": "Los médicos iban de las autopsias a atender partos sin lavarse. Semmelweis no conocía los gérmenes, pero vio que las madres atendidas por parteras morían mucho menos, y dedujo que algo pasaba de los cadáveres a las pacientes.\n\nSus colegas lo rechazaron: no había teoría que lo explicara y él los acusaba con dureza. Murió en 1865 en un manicomio, de una herida infectada. Hoy el [[efecto Semmelweis|Rechazo automático de evidencias nuevas que contradicen lo establecido.]] lleva su nombre.",
+    "fecha": "2026-11-11",
+    "fuente": {
+     "nombre": "European Journal of Epidemiology (2022), vía PMC: Semmelweis y la fiebre puerperal",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9209376/"
+    },
+    "imagen": {
+     "alt": "Retrato antiguo de un hombre calvo con bigote",
+     "credito": "Wikimedia Commons",
+     "pie": "Ignaz Semmelweis en 1860",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ignaz_Semmelweis_1860.jpg?width=900"
+    },
+    "materia": "Salud y longevidad",
+    "pilar": "cuerpo",
+    "repaso": {
+     "pregunta": "¿Qué logró Semmelweis en 1847 y cómo?",
+     "respuesta": "Bajó la mortalidad materna de 18.3% a cerca de 1% haciendo que los médicos se lavaran con cal clorada."
+    },
+    "titulo": "Lavarse las manos bajó la muerte de 18% a 1%",
+    "wiki": "Ignaz Semmelweis"
+   },
    {
     "claves": [
      {
@@ -4903,102 +4782,6 @@
     },
     "titulo": "«Vacuna» viene de «vaca»",
     "wiki": "Edward Jenner"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Supercentenario",
-      "quien": "Persona que llega a los 110 años o más.",
-      "wiki": "Supercentenario"
-     },
-     {
-      "nombre": "Longevidad",
-      "quien": "La duración de la vida y los factores que la alargan.",
-      "wiki": "Longevidad"
-     }
-    ],
-    "dato": "Jeanne Calment murió en Arlés, Francia, el 4 de agosto de 1997, a los 122 años y 164 días. Es la persona más longeva con edad comprobada. En 2018 dos investigadores rusos dijeron que era un fraude; un equipo francés revisó los papeles y la edad se sostuvo.",
-    "epoca": "1997",
-    "explicacion": "La teoría de 2018 decía que su hija Yvonne había tomado su identidad en 1934 para evitar impuestos. Se volvió viral. Investigadores franceses como Jean-Marie Robine revisaron registros civiles, fotos y testimonios, y en 2019 publicaron que no había pruebas del cambio y sí muchas de la edad real.\n\nPor qué importa: los récords de edad extrema suelen fallar por falta de papeles. Calment nació en 1875 en un país con buen registro civil, y su caso se revisó a fondo dos veces. Ningún otro ser humano comprobado ha pasado de los 120 años. Eso sugiere que, por ahora, ahí está cerca el techo de la vida humana.",
-    "fecha": "2026-10-30",
-    "fuente": {
-     "nombre": "Wikipedia: Jeanne Calment (sección sobre la hipótesis del cambio de identidad)",
-     "url": "https://en.wikipedia.org/wiki/Jeanne_Calment"
-    },
-    "materia": "Salud y longevidad",
-    "pilar": "cuerpo",
-    "repaso": {
-     "pregunta": "¿Qué pasó con la teoría de 2018 de que Jeanne Calment era un fraude?",
-     "respuesta": "Investigadores franceses revisaron los registros y en 2019 concluyeron que no había pruebas: su edad de 122 años se sostuvo."
-    },
-    "titulo": "La mujer de 122 años pasó la prueba",
-    "wiki": "Jeanne Calment"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Epidemiología",
-      "quien": "La ciencia que estudia cómo se reparten y propagan las enfermedades.",
-      "wiki": "Epidemiología"
-     },
-     {
-      "nombre": "Tercera pandemia de cólera",
-      "quien": "La ola mundial de cólera en la que ocurrió el brote de Londres.",
-      "wiki": "Tercera pandemia de cólera"
-     }
-    ],
-    "dato": "John Snow convenció a las autoridades de Londres de quitar la manija de la bomba de Broad Street el 8 de septiembre de 1854. Es el gesto fundador de la epidemiología. Pero el propio Snow admitió que el brote ya iba en descenso.",
-    "epoca": "1854",
-    "explicacion": "El brote de [[cólera|Infección intestinal causada por una bacteria que se transmite por agua o alimentos contaminados.]] mató a cientos de personas en Soho. Snow marcó las muertes en un mapa y vio que se agrupaban alrededor de una bomba pública. El pozo estaba a un metro de un pozo negro con fugas, donde se había lavado la ropa de un bebé enfermo. Los trabajadores de la cervecería vecina no se enfermaron: bebían su ración de cerveza, no agua del pozo.\n\nQuitar la manija no detuvo la epidemia por sí solo. Lo valioso fue el método: mapear, comparar y buscar la fuente común, cuando casi todos creían que el cólera venía del «mal aire».",
-    "fecha": "2026-10-27",
-    "fuente": {
-     "nombre": "Wikipedia (inglés): 1854 Broad Street cholera outbreak",
-     "url": "https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak"
-    },
-    "imagen": {
-     "alt": "Mapa de John Snow con las muertes por cólera marcadas alrededor de Broad Street",
-     "credito": "Wikimedia Commons",
-     "pie": "El mapa de John Snow: cada marca es una muerte por cólera en 1854",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Snow-cholera-map.jpg?width=900"
-    },
-    "materia": "Salud y longevidad",
-    "pilar": "cuerpo",
-    "repaso": {
-     "pregunta": "¿Por qué no se enfermaron los trabajadores de la cervecería de Broad Street?",
-     "respuesta": "Porque bebían su ración diaria de cerveza en lugar del agua contaminada del pozo."
-    },
-    "titulo": "La bomba de agua ya había hecho su daño",
-    "wiki": "Epidemia de cólera de Broad Street"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Autoexperimentación en ciencia",
-      "quien": "La historia de los científicos que se usaron a sí mismos como sujetos de prueba.",
-      "wiki": "Autoexperimentación en ciencia"
-     },
-     {
-      "nombre": "Bacteriología",
-      "quien": "La ciencia que estudia las bacterias, incluida la que Marshall bebió.",
-      "wiki": "Bacteriología"
-     }
-    ],
-    "dato": "En 1984, el médico australiano Barry Marshall se tomó un cultivo de *Helicobacter pylori* para probar que esa bacteria causaba gastritis. Cinco días después empezó a vomitar. En 2005 ganó el Nobel de Medicina con Robin Warren.",
-    "epoca": "1984",
-    "explicacion": "Durante décadas se creyó que las úlceras de estómago venían del estrés y del ácido, y que ninguna bacteria sobrevivía en el estómago. Marshall llevaba dos años discutiendo con escépticos y no tenía un animal de laboratorio en el que demostrarlo. Se hizo una endoscopia, comprobó que estaba sano y, unas tres semanas después, bebió la bacteria. La nueva endoscopia mostró una gastritis activa severa.\n\nGracias a eso, hoy muchas úlceras se tratan con antibióticos. No es un ejemplo para copiar: es un recordatorio de que el consenso puede estar equivocado y de que la evidencia, no la autoridad, es la que lo cambia.",
-    "fecha": "2026-10-24",
-    "fuente": {
-     "nombre": "Marshall y Adams: Helicobacter pylori, a Nobel pursuit? (Canadian Journal of Gastroenterology, 2008)",
-     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2661189"
-    },
-    "materia": "Salud y longevidad",
-    "pilar": "cuerpo",
-    "repaso": {
-     "pregunta": "¿Qué hizo Barry Marshall en 1984 y qué demostró?",
-     "respuesta": "Se bebió un cultivo de Helicobacter pylori y desarrolló gastritis: demostró que la bacteria causa enfermedad en el estómago. Nobel en 2005."
-    },
-    "titulo": "El médico que se bebió una bacteria",
-    "wiki": "Helicobacter pylori"
    }
   ]
  }
