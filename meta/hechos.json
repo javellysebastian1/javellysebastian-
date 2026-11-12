@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11",
+ "actualizado": "2026-11-12",
  "materias": {
   "Arquitectura y diseño": [
    {
@@ -298,6 +298,36 @@
   ],
   "Ciencia y tecnología": [
    {
+    "materia": "Ciencia y tecnología",
+    "pilar": "futuro",
+    "epoca": "1947",
+    "titulo": "El primer microondas pesaba como un piano",
+    "dato": "El primer horno de microondas comercial, el Radarange de 1947, medía casi 1.8 metros y pesaba unos 340 kilos.",
+    "explicacion": "El ingeniero Percy Spencer, de Raytheon, trabajaba con magnetrones para radares. Notó que una barra de chocolate se derretía en su bolsillo y probó con palomitas. Raytheon patentó la idea en 1945.\n\nEl Radarange costaba miles de dólares y lo compraban restaurantes, barcos y trenes. El modelo doméstico de mesa no llegó hasta 1967, y tardó décadas más en volverse común en las casas.",
+    "fuente": {
+     "nombre": "Smithsonian Magazine: Hot Food, Fast: The Home Microwave Oven",
+     "url": "https://www.smithsonianmag.com/innovation/hot-food-fast-home-microwave-oven-turns-50-180962545/"
+    },
+    "wiki": "Horno de microondas",
+    "claves": [
+     {
+      "nombre": "Percy Spencer",
+      "quien": "Ingeniero estadounidense sin título universitario que inventó el microondas.",
+      "wiki": "Percy Spencer"
+     },
+     {
+      "nombre": "Magnetrón",
+      "quien": "El tubo que genera las microondas en radares y hornos.",
+      "wiki": "Magnetrón"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cómo descubrió Percy Spencer el horno de microondas?",
+     "respuesta": "Una barra de chocolate se derritió en su bolsillo mientras trabajaba con un magnetrón de radar."
+    },
+    "fecha": "2026-11-12"
+   },
+   {
     "claves": [
      {
       "nombre": "Biomimética",
@@ -572,6 +602,36 @@
   ],
   "Ciudades del mundo": [
    {
+    "materia": "Ciudades del mundo",
+    "pilar": "mundo",
+    "epoca": "Siglos I–III",
+    "titulo": "Roma tiene un cerro hecho de basura",
+    "dato": "El Monte Testaccio, en Roma, es una colina artificial de unos 35 metros formada por pedazos de ánforas rotas: se calcula que unos 50 millones.",
+    "explicacion": "Casi todas eran ánforas de aceite de oliva traídas de la Bética, el sur de Hispania. El barro poroso absorbía el aceite y se ponía rancio, así que no se podían reutilizar. Los romanos las rompían y las apilaban con orden, cubriéndolas de cal.\n\nHoy es un archivo económico: muchas piezas tienen sellos y fechas, y permiten reconstruir cuánto aceite comía Roma y quién lo vendía.",
+    "fuente": {
+     "nombre": "Turismo Roma: El Monte dei Cocci",
+     "url": "https://www.turismoroma.it/es/places/el-monte-dei-cocci"
+    },
+    "wiki": "Testaccio (rione de Roma)",
+    "claves": [
+     {
+      "nombre": "Ánfora",
+      "quien": "Vasija de barro con dos asas para transportar aceite o vino.",
+      "wiki": "Ánfora"
+     },
+     {
+      "nombre": "Bética",
+      "quien": "Provincia romana del sur de Hispania, gran exportadora de aceite.",
+      "wiki": "Bética"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿De qué está hecho el Monte Testaccio?",
+     "respuesta": "De fragmentos de unos 50 millones de ánforas de aceite, sobre todo de Hispania."
+    },
+    "fecha": "2026-11-12"
+   },
+   {
     "claves": [
      {
       "nombre": "Central Park",
@@ -746,6 +806,36 @@
    }
   ],
   "Deporte y aire libre": [
+   {
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
+    "epoca": "1912–1948",
+    "titulo": "Los Juegos Olímpicos daban medallas de poesía",
+    "dato": "Entre 1912 y 1948, los Juegos Olímpicos entregaron medallas en arquitectura, literatura, música, pintura y escultura.",
+    "explicacion": "Pierre de Coubertin, fundador de los Juegos modernos, quería unir cuerpo y mente, como en la Grecia antigua. En Estocolmo 1912 él mismo ganó el oro de literatura con una *Oda al deporte*, firmada con seudónimo.\n\nLas obras debían tratar sobre el deporte. Las competencias se eliminaron después de 1948, en gran parte porque los artistas eran profesionales y los Juegos todavía exigían ser aficionado.",
+    "fuente": {
+     "nombre": "Olympics.com: When Olympic medals were awarded for architecture, music and literature",
+     "url": "https://www.olympics.com/en/news/look-to-the-past-when-olympic-medals-were-awarded-for-architecture-music-and-lit"
+    },
+    "wiki": "Competiciones de arte en los Juegos Olímpicos",
+    "claves": [
+     {
+      "nombre": "Pierre de Coubertin",
+      "quien": "Pedagogo francés que fundó los Juegos Olímpicos modernos en 1896.",
+      "wiki": "Pierre de Coubertin"
+     },
+     {
+      "nombre": "Juegos Olímpicos de Estocolmo 1912",
+      "quien": "Los primeros Juegos con competencias de arte.",
+      "wiki": "Juegos Olímpicos de Estocolmo 1912"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿En qué años hubo medallas olímpicas de arte?",
+     "respuesta": "De 1912 a 1948; Coubertin ganó el oro de literatura en 1912."
+    },
+    "fecha": "2026-11-12"
+   },
    {
     "claves": [
      {
@@ -1691,6 +1781,36 @@
    }
   ],
   "Etiqueta y protocolo": [
+   {
+    "materia": "Etiqueta y protocolo",
+    "pilar": "gusto",
+    "epoca": "c. 1004",
+    "titulo": "El tenedor llegó a Venecia como un escándalo",
+    "dato": "Hacia el año 1004, una princesa bizantina casada con el hijo del dux de Venecia comía con un tenedor de oro. Un santo lo llamó vanidad.",
+    "explicacion": "En Constantinopla el tenedor ya era común en la mesa de la corte. En Italia se comía con cuchillo y con los dedos. San Pedro Damián criticó el lujo de la princesa, y cuando ella murió de una peste lo presentó como castigo divino. Las fuentes discuten su nombre exacto.\n\nEl tenedor tardó siglos en extenderse: Italia lo adoptó primero, y en Inglaterra se seguía viendo como afectado en el siglo XVII.",
+    "fuente": {
+     "nombre": "Smithsonian Magazine: A History of Western Eating Utensils",
+     "url": "https://www.smithsonianmag.com/arts-culture/a-history-of-western-eating-utensils-from-the-scandalous-fork-to-the-incredible-spork-64593179/"
+    },
+    "wiki": "Tenedor",
+    "claves": [
+     {
+      "nombre": "Pedro Damián",
+      "quien": "Monje y cardenal italiano del siglo XI, crítico del lujo.",
+      "wiki": "Pedro Damián"
+     },
+     {
+      "nombre": "Imperio bizantino",
+      "quien": "El Imperio romano de Oriente, con capital en Constantinopla.",
+      "wiki": "Imperio bizantino"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Por qué escandalizó el tenedor en Venecia hacia el año 1004?",
+     "respuesta": "Porque una princesa bizantina lo usaba en vez de los dedos, y el clero lo vio como lujo y vanidad."
+    },
+    "fecha": "2026-11-12"
+   },
    {
     "claves": [
      {
@@ -2867,6 +2987,36 @@
   ],
   "Liderazgo e influencia": [
    {
+    "materia": "Liderazgo e influencia",
+    "pilar": "caracter",
+    "epoca": "1783",
+    "titulo": "Unos anteojos detuvieron un posible golpe militar",
+    "dato": "En marzo de 1783, oficiales sin paga amenazaban con desafiar al Congreso. Washington los calmó con un gesto: se puso los anteojos.",
+    "explicacion": "El 15 de marzo de 1783, en Newburgh (Nueva York), Washington leyó un discurso a los oficiales. Para leer una carta sacó unos anteojos que casi nadie le había visto y dijo: «Señores, permítanme ponerme los anteojos, pues no solo he encanecido, sino que casi he quedado ciego al servicio de mi país».\n\nVarios oficiales lloraron. La conspiración se disolvió. Washington no ganó con argumentos, sino recordando cuánto había sacrificado él mismo: la autoridad moral pesa más que el rango.",
+    "fuente": {
+     "nombre": "Mount Vernon: «Gentlemen, you will permit me to put on my spectacles…»",
+     "url": "https://www.mountvernon.org/library/digitalhistory/past-projects/quotes/article/gentlemen-you-will-permit-me-to-put-on-my-spectacles-for-i-have-grown-not-only-gray-but-almost-blind-in-the-service-of-my-country"
+    },
+    "wiki": "George Washington",
+    "claves": [
+     {
+      "nombre": "Ejército Continental",
+      "quien": "El ejército de las Trece Colonias en la guerra de independencia.",
+      "wiki": "Ejército Continental"
+     },
+     {
+      "nombre": "Congreso de la Confederación",
+      "quien": "El gobierno central de EE. UU. que no podía pagar a sus soldados.",
+      "wiki": "Congreso de la Confederación"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué hizo Washington en Newburgh en 1783 para calmar a los oficiales?",
+     "respuesta": "Se puso los anteojos y dijo que había encanecido y casi quedado ciego al servicio del país; la conspiración se disolvió."
+    },
+    "fecha": "2026-11-12"
+   },
+   {
     "claves": [
      {
       "nombre": "Ecuos",
@@ -3385,6 +3535,42 @@
   ],
   "Música": [
    {
+    "materia": "Música",
+    "pilar": "cultura",
+    "epoca": "1792",
+    "titulo": "La Marsellesa se escribió en Estrasburgo",
+    "dato": "El himno de Francia nació en la frontera con Alemania, no en Marsella. Se llamaba *Canto de guerra para el Ejército del Rin*.",
+    "explicacion": "Rouget de Lisle, un oficial de ingenieros, lo compuso en Estrasburgo la noche del 25 al 26 de abril de 1792, días después de que Francia declarara la guerra a Austria.\n\nTomó su nombre porque lo cantaban los voluntarios de Marsella que llegaron a París en el verano de 1792. Los parisinos lo oyeron en su boca y lo llamaron «la marsellesa». Fue declarado himno nacional en 1795.",
+    "fuente": {
+     "nombre": "Wikipedia: La Marsellesa",
+     "url": "https://es.wikipedia.org/wiki/La_marsellesa"
+    },
+    "wiki": "La Marsellesa",
+    "claves": [
+     {
+      "nombre": "Claude Joseph Rouget de Lisle",
+      "quien": "Oficial francés que escribió letra y música en 1792.",
+      "wiki": "Claude Joseph Rouget de Lisle"
+     },
+     {
+      "nombre": "Estrasburgo",
+      "quien": "Ciudad de Alsacia donde se cantó por primera vez.",
+      "wiki": "Estrasburgo"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Dónde se compuso La Marsellesa y por qué se llama así?",
+     "respuesta": "En Estrasburgo, en 1792; la popularizaron en París los voluntarios de Marsella."
+    },
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pils_-_Rouget_de_Lisle_chantant_la_Marseillaise.jpg?width=900",
+     "alt": "Pintura de un hombre cantando de pie ante un grupo en un salón",
+     "pie": "Isidore Pils, *Rouget de Lisle canta la Marsellesa* (1849)",
+     "credito": "Wikimedia Commons"
+    },
+    "fecha": "2026-11-12"
+   },
+   {
     "claves": [
      {
       "nombre": "Gregorio Allegri",
@@ -3528,6 +3714,36 @@
    }
   ],
   "Negocios y estrategia": [
+   {
+    "materia": "Negocios y estrategia",
+    "pilar": "patrimonio",
+    "epoca": "1985",
+    "titulo": "La «nueva Coca-Cola» duró 79 días",
+    "dato": "El 23 de abril de 1985, Coca-Cola cambió su fórmula. El 11 de julio tuvo que traer de vuelta la original como «Coca-Cola Classic».",
+    "explicacion": "La empresa había hecho pruebas a ciegas con unas 200,000 personas, y la mayoría prefería el nuevo sabor, más dulce. Lo que las pruebas no midieron fue el apego: la gente sintió que le quitaban algo suyo, y llamó y escribió por miles.\n\nLa lección de marca es clara. Un producto también es una memoria compartida. Cambiar el sabor fue un error de lectura del cliente, no de química.",
+    "fuente": {
+     "nombre": "The Coca-Cola Company: New Coke, the most memorable marketing blunder ever?",
+     "url": "https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever"
+    },
+    "wiki": "New Coke",
+    "claves": [
+     {
+      "nombre": "Roberto Goizueta",
+      "quien": "Presidente de Coca-Cola, nacido en Cuba, que impulsó el cambio.",
+      "wiki": "Roberto Goizueta"
+     },
+     {
+      "nombre": "Coca-Cola",
+      "quien": "El refresco más vendido del mundo, creado en 1886.",
+      "wiki": "Coca-Cola"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuánto duró la «nueva Coca-Cola» de 1985 y por qué falló?",
+     "respuesta": "79 días. Las pruebas de sabor la favorecían, pero no midieron el apego de la gente a la fórmula original."
+    },
+    "fecha": "2026-11-12"
+   },
    {
     "claves": [
      {
@@ -4399,6 +4615,36 @@
    }
   ],
   "Retórica y oratoria": [
+   {
+    "materia": "Retórica y oratoria",
+    "pilar": "mente",
+    "epoca": "1863",
+    "titulo": "El orador estrella habló dos horas; Lincoln, dos minutos",
+    "dato": "En Gettysburg, el discurso principal no era el de Lincoln. Edward Everett habló unas dos horas; Lincoln, después, dijo 272 palabras.",
+    "explicacion": "Everett era el orador más famoso de Estados Unidos y lo invitaron para el discurso central del 19 de noviembre de 1863. Lincoln solo debía decir «unas palabras» de dedicación.\n\nAl día siguiente, Everett le escribió que le gustaría pensar que se había acercado a la idea central de la ocasión en dos horas tanto como Lincoln en dos minutos. La brevedad no fue un accidente: cada frase del texto estaba trabajada para ser recordada.",
+    "fuente": {
+     "nombre": "Abraham Lincoln Online: carta de Lincoln a Edward Everett (20 nov 1863)",
+     "url": "https://www.abrahamlincolnonline.org/lincoln/speeches/everett.htm"
+    },
+    "wiki": "Discurso de Gettysburg",
+    "claves": [
+     {
+      "nombre": "Edward Everett",
+      "quien": "Político y orador de Massachusetts; dio el discurso principal en Gettysburg.",
+      "wiki": "Edward Everett"
+     },
+     {
+      "nombre": "Abraham Lincoln",
+      "quien": "Presidente de EE. UU. durante la Guerra Civil.",
+      "wiki": "Abraham Lincoln"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuánto habló Edward Everett en Gettysburg y cuánto Lincoln?",
+     "respuesta": "Everett, unas dos horas; Lincoln, unos dos minutos (272 palabras)."
+    },
+    "fecha": "2026-11-12"
+   },
    {
     "claves": [
      {

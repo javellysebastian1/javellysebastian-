@@ -1,0 +1,837 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-12",
+ "numero": 22,
+ "fecha": "2026-11-12",
+ "disponibleDesde": "2026-11-12T08:00:00-06:00",
+ "titulo": "1825: Brillat-Savarin y la invención del gourmet",
+ "temporada": {
+  "id": "t04",
+  "numero": 4,
+  "titulo": "El arte de la mesa",
+  "episodio": 5,
+  "totalEpisodios": 6
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Anthelme_Brillat-Savarin.jpg?width=900",
+  "alt": "Retrato antiguo de un caballero francés de edad",
+  "pie": "Jean Anthelme Brillat-Savarin, el juez que escribió la Fisiología del gusto (1825)",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "pregunta": "¿Cuándo se declaró la denominación de origen Tequila?",
+   "respuesta": "El 9 de diciembre de 1974, en el Diario Oficial. Fue la primera de México y el nombre es un bien de la nación.",
+   "origen": "Edición #21"
+  },
+  {
+   "pregunta": "¿Qué cambió Semmelweis en la maternidad de Viena en 1847?",
+   "respuesta": "Hizo que los médicos se lavaran las manos con cal clorada; la mortalidad de las madres bajó de cerca de 18% a cerca de 1%.",
+   "origen": "Edición #21"
+  },
+  {
+   "pregunta": "¿Qué exige la etiqueta «Swiss made» en un reloj?",
+   "respuesta": "Que al menos 60% del costo de fabricación se genere en Suiza.",
+   "origen": "Edición #21"
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n-2026-11-12-petroleo",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-11",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 20,
+    "dondeIbamos": "El 10 de noviembre el Brent cerró en 91.8 dólares, con más de 21% de caída en ocho sesiones. Trump dijo que la guerra estaba «prácticamente terminada en el plano militar»; Irán lo negó."
+   },
+   "titular": "El petróleo rebota: el Brent sube 1.39%, a 92.76 dólares, porque el diálogo entre Estados Unidos e Irán no avanza",
+   "quePaso": "El miércoles 11, el Brent para entrega en enero subió 1.39% y cerró en 92.76 dólares. El WTI para diciembre subió 0.57%, a 86.53. Así se cortó la racha de caídas de los días anteriores, cuando el mercado apostaba por un acuerdo.\n\nSegún Infobae, en octubre 37 embarcaciones fueron atacadas en el estrecho de Ormuz, y 130 desde el inicio de la guerra. Irán pide liberar sus activos en el exterior y levantar sanciones a cambio de reabrir el paso.",
+   "aMiQue": "Si esperabas que la gasolina, los fletes y los envases de plástico bajaran rápido, conviene ser prudente. La caída de las últimas semanas puede revertirse con cualquier incidente en Ormuz.\n\nPara una marca de bebidas o suplementos, la lección práctica es no fijar todavía precios de 2027 suponiendo un petróleo barato.",
+   "contexto": "**Hecho:** a principios de mes el Brent superó los 110 dólares y el WTI los 100. Después cayó con las señales de distensión.\n\n**Hecho:** el jefe de seguridad iraní Mohsen Rezaei advirtió que Irán atacaría bases estadounidenses fuera de Oriente Medio si desde ellas se bombardea Irán.\n\n**Interpretación:** el precio ya no se mueve por los discursos, sino por lo que pasa en el estrecho. Mientras no haya un acuerdo firmado, cada barco atacado pesa más que cada declaración.",
+   "queVigilar": "Si hay avances concretos entre Washington y Teherán, nuevos ataques en Ormuz y la reunión de la OPEP+ del 29 de noviembre.",
+   "fuentes": [
+    {
+     "nombre": "Infobae: El petróleo volvió a subir tras varios días de caídas (11 nov 2026)",
+     "url": "https://www.infobae.com/america/mundo/2026/11/11/el-petroleo-volvio-a-subir-tras-varios-dias-de-caidas-por-el-estancamiento-de-las-negociaciones-entre-estados-unidos-e-iran/"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-12-peso",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-11-11",
+   "historiaEnCurso": {
+    "id": "tasas-banxico",
+    "titulo": "Tasas de Banxico y el peso",
+    "capitulo": 4,
+    "dondeIbamos": "El 10 de noviembre la inflación de octubre en Estados Unidos (+0.3% mensual) superó lo esperado por tercer mes. El mercado dio casi por segura una subida de la Fed en diciembre y el peso cayó 0.75%."
+   },
+   "titular": "El peso cierra en 18.63 por dólar: si la Fed sube y Banxico no, la diferencia de tasas llegaría a un mínimo histórico",
+   "quePaso": "El miércoles 11, el peso se depreció 0.05% y cerró en 18.63 por dólar, dos centavos más que el martes, según Bloomberg citado por El Financiero. El FIX de Banxico publicado para ese día fue de 18.6678.\n\nLa razón es el [[diferencial de tasas|La diferencia entre la tasa de interés de México y la de Estados Unidos; si se achica, invertir en pesos atrae menos.]]. Si la Fed sube 25 puntos base en diciembre y Banxico se queda quieto, la diferencia bajaría a 200 puntos base, un mínimo histórico.",
+   "aMiQue": "Un peso que se debilita encarece lo que importas: envases, ingredientes, maquinaria o publicidad digital que se paga en dólares. Si tienes compras en dólares para el primer trimestre, este es un buen momento para revisar a qué tipo de cambio las tienes calculadas.\n\nSi exportas o cobras en dólares, el movimiento te favorece, pero es pequeño todavía.",
+   "contexto": "**Hecho:** el bono a 10 años de Estados Unidos rinde 5.22% y el de México 9.29%.\n\n**Hecho:** Marco Oviedo, de XP Investments, advirtió que si la Fed sube 50 puntos base, el dólar podría llegar a 19 pesos.\n\n**Interpretación:** el peso ha resistido porque México paga tasas altas. Si esa ventaja se reduce, el peso pierde uno de sus apoyos. No es un pronóstico: depende de lo que decidan la Fed y Banxico.",
+   "queVigilar": "La inflación de México de la primera quincena de noviembre (24 de noviembre), la reunión de la Fed de diciembre y la decisión de Banxico del 17 de diciembre.",
+   "fuentes": [
+    {
+     "nombre": "El Financiero: Peso pierde «una ligera pluma» frente al dólar por diferencial de tasas (11 nov 2026)",
+     "url": "https://www.elfinanciero.com.mx/mercados/2026/11/11/peso-dolar-tipo-de-cambio-precio-hoy-11-de-noviembre-de-2026/"
+    },
+    {
+     "nombre": "La Opinión: Precio del dólar en México hoy, 11 de noviembre del 2026",
+     "url": "https://laopinion.com/2026/11/11/precio-del-dolar-en-mexico-hoy-11-de-noviembre-del-2026/"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "El hombre que enseñó a Francia a escribir sobre la comida no era cocinero.",
+    "contexto": "París, finales de 1825. Sale a la venta un libro sin nombre de autor: *Fisiología del gusto*. Mezcla recetas, química, anécdotas de viaje y frases cortas que parecen leyes.\n\nUna de ellas se cita todavía en todo el mundo: «Dime lo que comes y te diré quién eres». El autor tenía setenta años y un cargo serio que prefería no mezclar con el placer.",
+    "pregunta": "¿A qué se dedicaba el autor, Jean Anthelme Brillat-Savarin?",
+    "opciones": [
+     "Era el chef de la casa del rey Carlos X",
+     "Era juez del más alto tribunal de Francia",
+     "Era dueño de un restaurante en el Palais-Royal"
+    ]
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Un abogado de provincia que sobrevivió a la Revolución",
+    "texto": "Brillat-Savarin nació en abril de 1755 en Belley, un pueblo entre Lyon y los Alpes. Estudió Derecho y ejerció como abogado. En 1789 fue diputado del [[Tercer Estado|La representación del pueblo llano en los Estados Generales de 1789, frente al clero y la nobleza.]] en la Asamblea que abrió la Revolución francesa.\n\nEn 1793, durante el [[Terror|Periodo de 1793–1794 en que el gobierno revolucionario ejecutó a miles de presuntos enemigos.]], era alcalde de Belley y quedó en la lista de sospechosos. Huyó a Suiza y después a Estados Unidos. Allí vivió unos dos años: daba clases de francés y tocaba el violín en la orquesta de un teatro de Nueva York.\n\nEn su libro cuenta que cazó un pavo silvestre cerca de Hartford y lo cocinó para sus anfitriones. Para él, la mesa era una forma de conocer un país.\n\nVolvió a Francia en 1796. Desde 1800 fue juez del [[Tribunal de Casación|El tribunal más alto de Francia en materia civil y penal; revisa si los jueces aplicaron bien la ley.]] y lo siguió siendo hasta su muerte. Soltero, buen anfitrión y gran conversador, pasó casi treinta años tomando notas sobre lo que comía y por qué le gustaba.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brillat-Savarin_Sautelet_Ed.jpg?width=900",
+     "alt": "Portada antigua de un libro impreso",
+     "pie": "Una edición de la Fisiología del gusto publicada por Sautelet en París",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "giro",
+    "titulo": "El juez que convirtió el placer en una ciencia",
+    "texto": "La respuesta es la segunda. Brillat-Savarin era juez del Tribunal de Casación. Por eso publicó el libro sin su nombre: un magistrado no firmaba un tratado sobre el placer de comer.\n\nLo sorprendente es el método. No escribió un recetario. Escribió como un jurista que observa casos: 30 «meditaciones» sobre el apetito, la sed, el sueño, la obesidad, el café, el chocolate o el arte de recibir. Abrió con 20 aforismos, como si fueran los artículos de una ley.\n\nDos meses después de publicarlo murió. El 21 de enero de 1826 asistió a la misa por Luis XVI en la basílica de Saint-Denis, se enfrió en la iglesia helada y murió a principios de febrero (las fuentes dicen el 1 o el 2).\n\nNo inventó la palabra. *Gastronomía* la había popularizado el poeta Joseph Berchoux en 1801, y Grimod de La Reynière ya publicaba desde 1803 el *Almanaque de los gourmets*, una especie de primera crítica de restaurantes. Lo que hizo Brillat-Savarin fue darle prestigio intelectual: el gusto podía estudiarse, como el derecho o la química.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Anthelme_Brillat-Savarin.jpg?width=900",
+     "alt": "Retrato antiguo de un hombre mayor con peinado del siglo XVIII",
+     "pie": "Jean Anthelme Brillat-Savarin (1755–1826)",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "Las tres sensaciones: probar, completar, juzgar",
+    "texto": "En su segunda meditación, Brillat-Savarin divide el gusto en tres momentos.\n\n**1. Sensación directa.** La primera impresión, cuando el alimento toca la lengua. Es rápida y casi automática.\n\n**2. Sensación completa.** Lo que llega al tragar: el aroma que sube por detrás de la nariz y el sabor que se queda. Aquí aparece la [[retronasal|Vía por la que los aromas de la boca suben a la nariz por detrás del paladar; explica gran parte de lo que llamamos sabor.]].\n\n**3. Sensación reflexiva.** El juicio: comparas, nombras y decides si vale la pena.\n\nLa herramienta sirve para cualquier cosa que se evalúa con los sentidos: un vino, un perfume, una tela, un empaque. Separa lo que sientes al primer contacto, lo que queda después y lo que piensas al final. Quien sabe nombrar esos tres momentos tiene criterio; quien solo dice «me gusta», no."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Dónde más aparece",
+    "texto": "**En la crítica y las guías.** La Guía Michelin, los premios de restaurantes y las notas de cata de un vino siguen el camino que abrieron Grimod y Brillat-Savarin: escribir sobre el gusto con reglas y vocabulario. Una buena nota de cata describe la nariz, la boca y el final, que son casi sus tres sensaciones.\n\n**En una marca de bebidas.** Si vendes un coctel listo para beber, tu cliente juzga en ese orden. La primera impresión depende de la temperatura y el gas; la sensación completa, del aroma y del final; la reflexiva, de si el precio y la historia lo justifican. Diseñar las tres es la diferencia entre una bebida que se prueba y una que se vuelve a comprar.\n\n**En la vida diaria.** Su nombre quedó en la cocina: el pastel *savarin*, bañado en almíbar, y un queso cremoso de Normandía y Borgoña, el *brillat-savarin*, bautizado así en el siglo XX."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "En lo próximo que pruebes con atención, ¿sabrías decir qué sentiste al principio, qué quedó al final y qué opinas?",
+    "texto": "No hace falta escribirlo. Basta con hacerlo una vez en silencio. Es el ejercicio con el que empieza cualquier catador profesional."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "El gusto no es un capricho: es una sensación que se puede observar, nombrar y juzgar."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Proyecto Gutenberg: The Physiology of Taste, de Brillat-Savarin (texto completo, en inglés)",
+   "url": "https://www.gutenberg.org/ebooks/5434",
+   "minutos": 15
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Quién fue Brillat-Savarin y por qué publicó su libro sin firmarlo?",
+    "respuesta": "Un abogado y juez del Tribunal de Casación de Francia. Un magistrado no firmaba un tratado sobre el placer de comer; publicó la Fisiología del gusto a finales de 1825 y murió dos meses después."
+   },
+   {
+    "pregunta": "¿Cuáles son las tres sensaciones del gusto según Brillat-Savarin?",
+    "respuesta": "La directa (el primer contacto), la completa (lo que llega al tragar, con el aroma) y la reflexiva (el juicio)."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Proyecto Gutenberg: The Physiology of Taste (trad. Fayette Robinson)",
+    "url": "https://www.gutenberg.org/files/5434/5434.txt"
+   },
+   {
+    "nombre": "Napoleon & Empire: Brillat-Savarin",
+    "url": "https://www.napoleon-empire.org/en/personalities/brillat-savarin.php"
+   },
+   {
+    "nombre": "Hérodote.net: Anthelme Brillat-Savarin (1755–1826)",
+    "url": "https://www.herodote.net/Premier_theoricien_du_gout-synthese-2901.php"
+   },
+   {
+    "nombre": "Wikipedia: Jean Anthelme Brillat-Savarin",
+    "url": "https://en.wikipedia.org/wiki/Jean_Anthelme_Brillat-Savarin"
+   },
+   {
+    "nombre": "Britannica: Anthelme Brillat-Savarin",
+    "url": "https://www.britannica.com/biography/Anthelme-Brillat-Savarin/quotes"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Arquitectura y diseño",
+   "pilar": "cultura",
+   "formato": "miraEscucha",
+   "titulo": "El Hospicio Cabañas: un asilo con 23 patios en el centro de Guadalajara",
+   "contexto": "Camina por el centro de Guadalajara hacia el oriente y llegas a un edificio enorme, de una sola planta casi todo, con una cúpula en medio. Hoy es museo. Durante más de siglo y medio fue un asilo.\n\nLo fundó a principios del siglo XIX el obispo Juan Cruz Ruiz de Cabañas. Lo diseñó Manuel Tolsá, el arquitecto y escultor [[neoclásico|Estilo de finales del siglo XVIII que imita la sencillez y la proporción de la arquitectura griega y romana.]] que hizo el Palacio de Minería en la Ciudad de México. Mira el plano antes que la fachada.",
+   "pregunta": "Tolsá llenó el edificio de patios. ¿Para qué servían?",
+   "opciones": [
+    "Solo para decorar, como en un palacio",
+    "Para separar a huérfanos, ancianos y enfermos, y dar luz y aire a cada grupo",
+    "Para que el edificio pudiera defenderse como un fuerte"
+   ],
+   "correcta": 1,
+   "revelacion": "**Para separar y ventilar.** El Hospicio recibía huérfanos, ancianos, personas con discapacidad y enfermos crónicos. Cada grupo necesitaba su espacio, y antes de la electricidad la única forma de dar luz y aire a tantas salas era abrir patios. El resultado son 23 patios unidos por corredores, alrededor de una capilla con cúpula.\n\nMira cómo funciona: no hay un gran salón, sino muchas piezas iguales y ordenadas. Es la idea neoclásica de que la razón y la proporción también sirven para cuidar personas. La UNESCO lo inscribió como Patrimonio de la Humanidad en 1997 por esa mezcla de arquitectura y función social.\n\nY luego mira hacia arriba. Entre 1936 y 1939, José Clemente Orozco pintó en la capilla un ciclo de murales. En la cúpula está *El hombre de fuego*, una figura que se consume en llamas. La arquitectura racional de Tolsá terminó sosteniendo una de las pinturas más intensas del siglo XX.",
+   "idea": "Un buen edificio se entiende desde el plano: la forma sigue a las personas que lo van a usar.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hospicio_Cabañas,_Guadalajara,_Jal.jpg?width=900",
+    "alt": "Fachada neoclásica de un gran edificio con cúpula",
+    "pie": "El Hospicio Cabañas, hoy Instituto Cultural Cabañas, en Guadalajara",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "UNESCO: Hospicio Cabañas, Guadalajara",
+    "url": "https://whc.unesco.org/en/list/815/"
+   },
+   "wiki": "Instituto Cultural Cabañas",
+   "claves": [
+    {
+     "nombre": "Manuel Tolsá",
+     "quien": "Arquitecto y escultor valenciano (1757–1816), el gran neoclásico de la Nueva España.",
+     "wiki": "Manuel Tolsá"
+    },
+    {
+     "nombre": "José Clemente Orozco",
+     "quien": "Muralista jalisciense (1883–1949); pintó la capilla del Hospicio entre 1936 y 1939.",
+     "wiki": "José Clemente Orozco"
+    },
+    {
+     "nombre": "Juan Cruz Ruiz de Cabañas",
+     "quien": "Obispo de Guadalajara que fundó el Hospicio a principios del siglo XIX.",
+     "wiki": "Juan Cruz Ruiz de Cabañas y Crespo"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué el Hospicio Cabañas tiene 23 patios?",
+    "respuesta": "Para separar a los grupos que atendía (huérfanos, ancianos, enfermos) y dar luz y ventilación a todas las salas."
+   }
+  },
+  {
+   "materia": "Inversión y finanzas personales",
+   "pilar": "patrimonio",
+   "formato": "elCaso",
+   "titulo": "El experimento de 200 años de Benjamin Franklin con el interés compuesto",
+   "contexto": "En 1789, un año antes de morir, Benjamin Franklin agregó una cláusula a su testamento. Dejó 1,000 libras esterlinas a Boston y otras 1,000 a Filadelfia, unos 4,000 dólares de la época entre las dos.\n\nCon una condición: durante 100 años el dinero se prestaría a jóvenes artesanos casados, y los intereses se sumarían al fondo. Al cumplir un siglo, cada ciudad podría usar el 75% en obras públicas y dejar el resto crecer otros 100 años. Era un experimento con el [[interés compuesto|Interés que se calcula sobre el capital más los intereses acumulados; hace crecer el dinero cada vez más rápido.]].",
+   "pregunta": "En 1990, al terminar los 200 años, ¿cuánto había en el fondo de Boston?",
+   "opciones": [
+    "Unos 4.5 millones de dólares",
+    "Unos 500 millones de dólares",
+    "Unos 45,000 dólares"
+   ],
+   "correcta": 0,
+   "revelacion": "**Unos 4.5 millones de dólares.** Filadelfia tenía cerca de 2 millones. Es mucho más que el regalo inicial, pero mucho menos de lo que Franklin calculó. Él había imaginado millones de libras.\n\nLa cuenta explica por qué. Pasar de unos 2,000 dólares a 4.5 millones en dos siglos equivale a crecer alrededor de 4% al año. Hubo préstamos que no se pagaron, años en que casi nadie pedía crédito y retiros a mitad de camino. Cada fuga pequeña, repetida durante décadas, se comió buena parte del efecto.\n\nEl dinero sí dejó huella. Boston fundó con él una escuela técnica, la actual Benjamin Franklin Cummings Institute of Technology. Filadelfia destinó parte a becas para estudiantes de oficios y parte al Franklin Institute. Este es un caso histórico, no una recomendación: muestra cómo funciona el interés compuesto y lo que lo frena.",
+   "idea": "El interés compuesto necesita tiempo, pero sobre todo necesita que nada se escape por el camino.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Benjamin_Franklin_by_Joseph-Siffred_Duplessis.jpg?width=900",
+    "alt": "Retrato al óleo de un hombre mayor con cabello largo y gris",
+    "pie": "Benjamin Franklin, retratado por Joseph-Siffred Duplessis",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Mental Floss: The 200-year-old gift from Benjamin Franklin to Boston and Philadelphia",
+    "url": "https://www.mentalfloss.com/article/627475/200-year-old-gift-from-benjamin-franklin-to-boston-and-philadelphia"
+   },
+   "wiki": "Benjamin Franklin",
+   "claves": [
+    {
+     "nombre": "Interés compuesto",
+     "quien": "El mecanismo que Franklin quiso demostrar con su legado.",
+     "wiki": "Interés compuesto"
+    },
+    {
+     "nombre": "Franklin Institute",
+     "quien": "Museo de ciencia de Filadelfia que recibió parte del fondo en 1990.",
+     "wiki": "Instituto Franklin"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué enseñó el legado de 200 años de Franklin sobre el interés compuesto?",
+    "respuesta": "Que hace crecer el dinero (Boston llegó a unos 4.5 millones), pero que los impagos, los retiros y los años sin préstamos reducen mucho el resultado."
+   }
+  },
+  {
+   "materia": "Derecho y poder",
+   "pilar": "mundo",
+   "formato": "elCaso",
+   "titulo": "«Yo acuso»: el artículo que reabrió el caso Dreyfus",
+   "contexto": "Diciembre de 1894. Un tribunal militar francés condena por traición al capitán Alfred Dreyfus, un oficial de artillería judío. Lo acusan de pasar secretos a Alemania por una nota manuscrita. Lo degradan en público y lo envían a la Isla del Diablo, en la Guayana.\n\nEn 1896, el coronel Georges Picquart descubre que la letra es de otro oficial, Ferdinand Walsin Esterhazy. El ejército lo aparta. En enero de 1898, un consejo de guerra absuelve a Esterhazy en dos días.\n\nDos días después, el 13 de enero, el novelista Émile Zola publica en el diario *L'Aurore* una carta al presidente de la República con un titular de dos palabras: *J'accuse…!*",
+   "pregunta": "¿Qué le pasó a Zola por publicarla?",
+   "opciones": [
+    "Lo condecoraron con la Legión de Honor",
+    "Lo condenaron por difamación y huyó a Inglaterra",
+    "Lo eligieron diputado en las siguientes elecciones"
+   ],
+   "correcta": 1,
+   "revelacion": "**Lo condenaron por difamación.** Zola lo buscaba: acusó por nombre a generales y jueces para que lo demandaran y el caso volviera a un tribunal civil, a la vista de todos. En febrero de 1898 lo sentenciaron a un año de prisión y a una multa. En julio huyó a Inglaterra.\n\nLa jugada funcionó. Francia se partió en dos: *dreyfusards* y *antidreyfusards*. En 1899, Dreyfus fue juzgado otra vez en Rennes y, contra toda evidencia, condenado de nuevo, «con circunstancias atenuantes». El presidente lo indultó semanas después.\n\nLa justicia completa tardó. El 12 de julio de 1906, el Tribunal de Casación anuló la condena y Dreyfus volvió al ejército. El caso dejó una lección que estudian los abogados: cuando una institución se protege a sí misma, a veces solo la presión pública reabre el expediente.",
+   "idea": "Un error judicial no se corrige solo: alguien tiene que arriesgar algo para obligar a revisarlo.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/J%E2%80%99accuse.jpg?width=900",
+    "alt": "Primera plana de un periódico antiguo con el titular J'accuse",
+    "pie": "L'Aurore, 13 de enero de 1898: la carta de Zola al presidente Félix Faure",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: Caso Dreyfus",
+    "url": "https://es.wikipedia.org/wiki/Caso_Dreyfus"
+   },
+   "wiki": "Caso Dreyfus",
+   "claves": [
+    {
+     "nombre": "Émile Zola",
+     "quien": "Novelista francés (1840–1902); arriesgó su prestigio y su libertad por Dreyfus.",
+     "wiki": "Émile Zola"
+    },
+    {
+     "nombre": "J'accuse…!",
+     "quien": "La carta abierta de Zola publicada el 13 de enero de 1898.",
+     "wiki": "J’accuse…!"
+    },
+    {
+     "nombre": "Alfred Dreyfus",
+     "quien": "Capitán francés condenado por un crimen que no cometió; rehabilitado en 1906.",
+     "wiki": "Alfred Dreyfus"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué Zola quería que lo demandaran tras publicar «Yo acuso»?",
+    "respuesta": "Para llevar el caso Dreyfus a un tribunal civil y público. Lo condenaron por difamación y huyó a Inglaterra, pero el caso se reabrió."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "sigueDinero",
+   "titulo": "Adobe 2013: dejar de vender la caja y cobrar cada mes",
+   "contexto": "Hasta 2013, comprar Photoshop era como comprar un mueble. Pagabas una vez y era tuyo. El paquete *Creative Suite 6 Design and Web Premium* costaba 1,899 dólares.\n\nEl 6 de mayo de 2013, en su conferencia MAX, Adobe anunció que dejaría de vender nuevas versiones con [[licencia perpetua|Permiso de uso que se paga una vez y no caduca.]]. Todo pasaría a *Creative Cloud*: unos 50 dólares al mes con contrato de un año. En cuatro días, una petición en Change.org para revertirlo juntó más de 4,400 firmas.",
+   "pregunta": "¿Qué pasó con los ingresos de Adobe en el primer año del cambio?",
+   "opciones": [
+    "Subieron 50% de inmediato",
+    "Bajaron un poco antes de empezar a crecer",
+    "No cambiaron nada"
+   ],
+   "correcta": 1,
+   "revelacion": "**Bajaron primero.** Es el «valle» de toda transición a suscripción. En lugar de cobrar 1,899 dólares hoy, Adobe cobraba 50 al mes. Según sus informes anuales, sus ingresos pasaron de unos 4,400 millones de dólares en 2012 a unos 4,000 millones en 2013.\n\nDespués, la curva cambió. Un cliente que antes compraba cada tres o cuatro años ahora pagaba todos los meses. Adobe pudo predecir sus ingresos y atraer a gente que nunca habría pagado 1,899 dólares de golpe. En el año fiscal 2024 reportó más de 21,000 millones.\n\nEl modelo tiene costo: muchos usuarios odian no ser dueños de su herramienta, y eso abrió espacio a rivales de pago único, como Procreate. Para un producto digital, la pregunta no es cuál modelo es mejor, sino si tu cliente usa el producto cada mes o solo de vez en cuando.",
+   "idea": "La suscripción cambia un ingreso grande hoy por uno pequeño y repetido; solo funciona si el cliente usa el producto todo el tiempo.",
+   "fuente": {
+    "nombre": "CreativePro: Adobe Ends the Creative Suite Era and Embraces the Cloud (6 may 2013)",
+    "url": "https://creativepro.com/adobe-ends-creative-suite-era-and-embraces-cloud/"
+   },
+   "wiki": "Adobe Creative Cloud",
+   "claves": [
+    {
+     "nombre": "Software como servicio",
+     "quien": "El modelo de cobrar por usar un programa en lugar de venderlo.",
+     "wiki": "Software como servicio"
+    },
+    {
+     "nombre": "Adobe Creative Suite",
+     "quien": "El paquete de pago único que Adobe dejó de actualizar en 2013.",
+     "wiki": "Adobe Creative Suite"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué es el «valle» de una transición a suscripción, como la de Adobe en 2013?",
+    "respuesta": "La caída temporal de ingresos al cambiar pagos grandes y únicos por cuotas mensuales pequeñas, antes de que se acumulen los suscriptores."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Retórica y oratoria",
+   "pilar": "mente",
+   "epoca": "1863",
+   "titulo": "El orador estrella habló dos horas; Lincoln, dos minutos",
+   "dato": "En Gettysburg, el discurso principal no era el de Lincoln. Edward Everett habló unas dos horas; Lincoln, después, dijo 272 palabras.",
+   "explicacion": "Everett era el orador más famoso de Estados Unidos y lo invitaron para el discurso central del 19 de noviembre de 1863. Lincoln solo debía decir «unas palabras» de dedicación.\n\nAl día siguiente, Everett le escribió que le gustaría pensar que se había acercado a la idea central de la ocasión en dos horas tanto como Lincoln en dos minutos. La brevedad no fue un accidente: cada frase del texto estaba trabajada para ser recordada.",
+   "fuente": {
+    "nombre": "Abraham Lincoln Online: carta de Lincoln a Edward Everett (20 nov 1863)",
+    "url": "https://www.abrahamlincolnonline.org/lincoln/speeches/everett.htm"
+   },
+   "wiki": "Discurso de Gettysburg",
+   "claves": [
+    {
+     "nombre": "Edward Everett",
+     "quien": "Político y orador de Massachusetts; dio el discurso principal en Gettysburg.",
+     "wiki": "Edward Everett"
+    },
+    {
+     "nombre": "Abraham Lincoln",
+     "quien": "Presidente de EE. UU. durante la Guerra Civil.",
+     "wiki": "Abraham Lincoln"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto habló Edward Everett en Gettysburg y cuánto Lincoln?",
+    "respuesta": "Everett, unas dos horas; Lincoln, unos dos minutos (272 palabras)."
+   }
+  },
+  {
+   "materia": "Liderazgo e influencia",
+   "pilar": "caracter",
+   "epoca": "1783",
+   "titulo": "Unos anteojos detuvieron un posible golpe militar",
+   "dato": "En marzo de 1783, oficiales sin paga amenazaban con desafiar al Congreso. Washington los calmó con un gesto: se puso los anteojos.",
+   "explicacion": "El 15 de marzo de 1783, en Newburgh (Nueva York), Washington leyó un discurso a los oficiales. Para leer una carta sacó unos anteojos que casi nadie le había visto y dijo: «Señores, permítanme ponerme los anteojos, pues no solo he encanecido, sino que casi he quedado ciego al servicio de mi país».\n\nVarios oficiales lloraron. La conspiración se disolvió. Washington no ganó con argumentos, sino recordando cuánto había sacrificado él mismo: la autoridad moral pesa más que el rango.",
+   "fuente": {
+    "nombre": "Mount Vernon: «Gentlemen, you will permit me to put on my spectacles…»",
+    "url": "https://www.mountvernon.org/library/digitalhistory/past-projects/quotes/article/gentlemen-you-will-permit-me-to-put-on-my-spectacles-for-i-have-grown-not-only-gray-but-almost-blind-in-the-service-of-my-country"
+   },
+   "wiki": "George Washington",
+   "claves": [
+    {
+     "nombre": "Ejército Continental",
+     "quien": "El ejército de las Trece Colonias en la guerra de independencia.",
+     "wiki": "Ejército Continental"
+    },
+    {
+     "nombre": "Congreso de la Confederación",
+     "quien": "El gobierno central de EE. UU. que no podía pagar a sus soldados.",
+     "wiki": "Congreso de la Confederación"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué hizo Washington en Newburgh en 1783 para calmar a los oficiales?",
+    "respuesta": "Se puso los anteojos y dijo que había encanecido y casi quedado ciego al servicio del país; la conspiración se disolvió."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "epoca": "1912–1948",
+   "titulo": "Los Juegos Olímpicos daban medallas de poesía",
+   "dato": "Entre 1912 y 1948, los Juegos Olímpicos entregaron medallas en arquitectura, literatura, música, pintura y escultura.",
+   "explicacion": "Pierre de Coubertin, fundador de los Juegos modernos, quería unir cuerpo y mente, como en la Grecia antigua. En Estocolmo 1912 él mismo ganó el oro de literatura con una *Oda al deporte*, firmada con seudónimo.\n\nLas obras debían tratar sobre el deporte. Las competencias se eliminaron después de 1948, en gran parte porque los artistas eran profesionales y los Juegos todavía exigían ser aficionado.",
+   "fuente": {
+    "nombre": "Olympics.com: When Olympic medals were awarded for architecture, music and literature",
+    "url": "https://www.olympics.com/en/news/look-to-the-past-when-olympic-medals-were-awarded-for-architecture-music-and-lit"
+   },
+   "wiki": "Competiciones de arte en los Juegos Olímpicos",
+   "claves": [
+    {
+     "nombre": "Pierre de Coubertin",
+     "quien": "Pedagogo francés que fundó los Juegos Olímpicos modernos en 1896.",
+     "wiki": "Pierre de Coubertin"
+    },
+    {
+     "nombre": "Juegos Olímpicos de Estocolmo 1912",
+     "quien": "Los primeros Juegos con competencias de arte.",
+     "wiki": "Juegos Olímpicos de Estocolmo 1912"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿En qué años hubo medallas olímpicas de arte?",
+    "respuesta": "De 1912 a 1948; Coubertin ganó el oro de literatura en 1912."
+   }
+  },
+  {
+   "materia": "Música",
+   "pilar": "cultura",
+   "epoca": "1792",
+   "titulo": "La Marsellesa se escribió en Estrasburgo",
+   "dato": "El himno de Francia nació en la frontera con Alemania, no en Marsella. Se llamaba *Canto de guerra para el Ejército del Rin*.",
+   "explicacion": "Rouget de Lisle, un oficial de ingenieros, lo compuso en Estrasburgo la noche del 25 al 26 de abril de 1792, días después de que Francia declarara la guerra a Austria.\n\nTomó su nombre porque lo cantaban los voluntarios de Marsella que llegaron a París en el verano de 1792. Los parisinos lo oyeron en su boca y lo llamaron «la marsellesa». Fue declarado himno nacional en 1795.",
+   "fuente": {
+    "nombre": "Wikipedia: La Marsellesa",
+    "url": "https://es.wikipedia.org/wiki/La_marsellesa"
+   },
+   "wiki": "La Marsellesa",
+   "claves": [
+    {
+     "nombre": "Claude Joseph Rouget de Lisle",
+     "quien": "Oficial francés que escribió letra y música en 1792.",
+     "wiki": "Claude Joseph Rouget de Lisle"
+    },
+    {
+     "nombre": "Estrasburgo",
+     "quien": "Ciudad de Alsacia donde se cantó por primera vez.",
+     "wiki": "Estrasburgo"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Dónde se compuso La Marsellesa y por qué se llama así?",
+    "respuesta": "En Estrasburgo, en 1792; la popularizaron en París los voluntarios de Marsella."
+   },
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pils_-_Rouget_de_Lisle_chantant_la_Marseillaise.jpg?width=900",
+    "alt": "Pintura de un hombre cantando de pie ante un grupo en un salón",
+    "pie": "Isidore Pils, *Rouget de Lisle canta la Marsellesa* (1849)",
+    "credito": "Wikimedia Commons"
+   }
+  },
+  {
+   "materia": "Ciudades del mundo",
+   "pilar": "mundo",
+   "epoca": "Siglos I–III",
+   "titulo": "Roma tiene un cerro hecho de basura",
+   "dato": "El Monte Testaccio, en Roma, es una colina artificial de unos 35 metros formada por pedazos de ánforas rotas: se calcula que unos 50 millones.",
+   "explicacion": "Casi todas eran ánforas de aceite de oliva traídas de la Bética, el sur de Hispania. El barro poroso absorbía el aceite y se ponía rancio, así que no se podían reutilizar. Los romanos las rompían y las apilaban con orden, cubriéndolas de cal.\n\nHoy es un archivo económico: muchas piezas tienen sellos y fechas, y permiten reconstruir cuánto aceite comía Roma y quién lo vendía.",
+   "fuente": {
+    "nombre": "Turismo Roma: El Monte dei Cocci",
+    "url": "https://www.turismoroma.it/es/places/el-monte-dei-cocci"
+   },
+   "wiki": "Testaccio (rione de Roma)",
+   "claves": [
+    {
+     "nombre": "Ánfora",
+     "quien": "Vasija de barro con dos asas para transportar aceite o vino.",
+     "wiki": "Ánfora"
+    },
+    {
+     "nombre": "Bética",
+     "quien": "Provincia romana del sur de Hispania, gran exportadora de aceite.",
+     "wiki": "Bética"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿De qué está hecho el Monte Testaccio?",
+    "respuesta": "De fragmentos de unos 50 millones de ánforas de aceite, sobre todo de Hispania."
+   }
+  },
+  {
+   "materia": "Negocios y estrategia",
+   "pilar": "patrimonio",
+   "epoca": "1985",
+   "titulo": "La «nueva Coca-Cola» duró 79 días",
+   "dato": "El 23 de abril de 1985, Coca-Cola cambió su fórmula. El 11 de julio tuvo que traer de vuelta la original como «Coca-Cola Classic».",
+   "explicacion": "La empresa había hecho pruebas a ciegas con unas 200,000 personas, y la mayoría prefería el nuevo sabor, más dulce. Lo que las pruebas no midieron fue el apego: la gente sintió que le quitaban algo suyo, y llamó y escribió por miles.\n\nLa lección de marca es clara. Un producto también es una memoria compartida. Cambiar el sabor fue un error de lectura del cliente, no de química.",
+   "fuente": {
+    "nombre": "The Coca-Cola Company: New Coke, the most memorable marketing blunder ever?",
+    "url": "https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever"
+   },
+   "wiki": "New Coke",
+   "claves": [
+    {
+     "nombre": "Roberto Goizueta",
+     "quien": "Presidente de Coca-Cola, nacido en Cuba, que impulsó el cambio.",
+     "wiki": "Roberto Goizueta"
+    },
+    {
+     "nombre": "Coca-Cola",
+     "quien": "El refresco más vendido del mundo, creado en 1886.",
+     "wiki": "Coca-Cola"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto duró la «nueva Coca-Cola» de 1985 y por qué falló?",
+    "respuesta": "79 días. Las pruebas de sabor la favorecían, pero no midieron el apego de la gente a la fórmula original."
+   }
+  },
+  {
+   "materia": "Ciencia y tecnología",
+   "pilar": "futuro",
+   "epoca": "1947",
+   "titulo": "El primer microondas pesaba como un piano",
+   "dato": "El primer horno de microondas comercial, el Radarange de 1947, medía casi 1.8 metros y pesaba unos 340 kilos.",
+   "explicacion": "El ingeniero Percy Spencer, de Raytheon, trabajaba con magnetrones para radares. Notó que una barra de chocolate se derretía en su bolsillo y probó con palomitas. Raytheon patentó la idea en 1945.\n\nEl Radarange costaba miles de dólares y lo compraban restaurantes, barcos y trenes. El modelo doméstico de mesa no llegó hasta 1967, y tardó décadas más en volverse común en las casas.",
+   "fuente": {
+    "nombre": "Smithsonian Magazine: Hot Food, Fast: The Home Microwave Oven",
+    "url": "https://www.smithsonianmag.com/innovation/hot-food-fast-home-microwave-oven-turns-50-180962545/"
+   },
+   "wiki": "Horno de microondas",
+   "claves": [
+    {
+     "nombre": "Percy Spencer",
+     "quien": "Ingeniero estadounidense sin título universitario que inventó el microondas.",
+     "wiki": "Percy Spencer"
+    },
+    {
+     "nombre": "Magnetrón",
+     "quien": "El tubo que genera las microondas en radares y hornos.",
+     "wiki": "Magnetrón"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo descubrió Percy Spencer el horno de microondas?",
+    "respuesta": "Una barra de chocolate se derritió en su bolsillo mientras trabajaba con un magnetrón de radar."
+   }
+  },
+  {
+   "materia": "Etiqueta y protocolo",
+   "pilar": "gusto",
+   "epoca": "c. 1004",
+   "titulo": "El tenedor llegó a Venecia como un escándalo",
+   "dato": "Hacia el año 1004, una princesa bizantina casada con el hijo del dux de Venecia comía con un tenedor de oro. Un santo lo llamó vanidad.",
+   "explicacion": "En Constantinopla el tenedor ya era común en la mesa de la corte. En Italia se comía con cuchillo y con los dedos. San Pedro Damián criticó el lujo de la princesa, y cuando ella murió de una peste lo presentó como castigo divino. Las fuentes discuten su nombre exacto.\n\nEl tenedor tardó siglos en extenderse: Italia lo adoptó primero, y en Inglaterra se seguía viendo como afectado en el siglo XVII.",
+   "fuente": {
+    "nombre": "Smithsonian Magazine: A History of Western Eating Utensils",
+    "url": "https://www.smithsonianmag.com/arts-culture/a-history-of-western-eating-utensils-from-the-scandalous-fork-to-the-incredible-spork-64593179/"
+   },
+   "wiki": "Tenedor",
+   "claves": [
+    {
+     "nombre": "Pedro Damián",
+     "quien": "Monje y cardenal italiano del siglo XI, crítico del lujo.",
+     "wiki": "Pedro Damián"
+    },
+    {
+     "nombre": "Imperio bizantino",
+     "quien": "El Imperio romano de Oriente, con capital en Constantinopla.",
+     "wiki": "Imperio bizantino"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué escandalizó el tenedor en Venecia hacia el año 1004?",
+    "respuesta": "Porque una princesa bizantina lo usaba en vez de los dedos, y el clero lo vio como lujo y vanidad."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "Ensayos",
+  "autor": "Michel de Montaigne",
+  "capitulo": {
+   "numero": 4,
+   "total": 6,
+   "titulo": "«¿Qué sé yo?»: la duda como forma de vida"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Michel_de_Montaigne_1.jpg?width=900",
+   "alt": "Retrato antiguo de un hombre con gorguera blanca",
+   "pie": "Michel de Montaigne (1533–1592)",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "¿Cuánto de lo que crees saber podrías demostrar? No lo que te enseñaron ni lo que todos repiten: lo que de verdad podrías probar.\n\nMontaigne se hizo esa pregunta durante años. La respuesta le pareció tan incómoda que la convirtió en su lema. Tres palabras en francés que se volvieron una forma de vivir: *Que sais-je?*, «¿Qué sé yo?»."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Un encargo de su padre"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La historia empieza con un libro que Montaigne no escribió. Hacia 1567, su padre, Pierre Eyquem, le pidió traducir al francés la *Teología natural* de [[Raimundo Sebond|Teólogo catalán (m. 1436) que enseñó en Toulouse; intentó probar las verdades cristianas solo con la razón, observando la naturaleza.]].\n\nSebond quería algo ambicioso: demostrar la fe cristiana usando solo la razón, leyendo el mundo como un libro escrito por Dios. Al padre de Montaigne le encantaba. El hijo obedeció."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Algunos días antes de su muerte, mi padre, que por casualidad encontró este libro bajo un montón de papeles abandonados, me ordenó traducírselo al francés.",
+    "fuente": "Ensayos, II, 12, «Apología de Raimundo Sebond» (traducción de Charles Cotton, 1685)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El padre murió en 1568, y la traducción salió en 1569. Años después, algunos lectores atacaron a Sebond: decían que la razón humana no basta para probar nada sobre Dios. Montaigne decidió defenderlo.\n\nEl resultado fue el ensayo más largo de todo su libro. Y es una defensa muy extraña: para proteger a Sebond, Montaigne termina desarmando la razón de todos, incluida la de sus críticos."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El hombre, la criatura más orgullosa"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La jugada es esta. Si me dices que los argumentos de Sebond son débiles, te respondo: ¿y los tuyos? ¿Qué te hace pensar que la razón humana es tan fuerte?\n\nMontaigne apunta a nuestra vanidad. Nos creemos el centro del universo, los únicos que piensan, los dueños de la naturaleza."
+   },
+   {
+    "tipo": "cita",
+    "texto": "La más miserable y frágil de todas las criaturas es el hombre, y al mismo tiempo la más orgullosa.",
+    "fuente": "Ensayos, II, 12, «Apología de Raimundo Sebond» (traducción de Charles Cotton, 1685)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Para bajarnos de ese pedestal, compara al ser humano con los animales. Cuenta historias de perros, elefantes, abejas y golondrinas que parecen razonar, construir y organizarse. Algunas son exageradas, sacadas de autores antiguos como Plutarco. Pero el punto no es la zoología. El punto es preguntarse con qué derecho decidimos que solo nosotros entendemos algo."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Cuál es la estrategia de Montaigne para defender a Sebond?",
+    "opciones": [
+     "Demostrar que Sebond tenía razón en todo",
+     "Mostrar que la razón de sus críticos es tan débil como la que ellos atacan",
+     "Pedir que se prohibieran los libros contra Sebond"
+    ],
+    "correcta": 1,
+    "explicacion": "Montaigne no prueba que Sebond acertara. Muestra que nadie tiene una razón tan firme como para juzgarlo con soberbia."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El gato que lo mira"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Y entonces aparece una de las frases más famosas de los *Ensayos*. Montaigne está jugando con su gata en la casa de su castillo, en el Périgord. De pronto se le ocurre mirar la escena al revés."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Cuando juego con mi gata, ¿quién sabe si no soy yo más su pasatiempo que ella el mío?",
+    "fuente": "Ensayos, II, 12, «Apología de Raimundo Sebond» (traducción de Charles Cotton, 1685)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es una broma, pero tiene filo. Damos por hecho que nosotros jugamos con el gato. ¿Y si él piensa lo mismo de nosotros? No tenemos acceso a su cabeza. Lo que llamamos «la verdad» suele ser solo nuestro punto de vista, tomado como si fuera el único.\n\nEs la misma idea que vimos en *De los caníbales*, pero llevada más lejos. Allá dudaba de que su cultura fuera la medida de todas las demás. Aquí duda de que la especie humana sea la medida del mundo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La balanza y la palabra «me abstengo»"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Montaigne no inventó esta duda. La tomó de los [[pirrónicos|Seguidores de Pirrón de Elis (s. IV a. C.), filósofo griego que proponía suspender el juicio ante cualquier afirmación dudosa.]], escépticos griegos que conoció en los textos de [[Sexto Empírico|Médico y filósofo griego (s. II–III d. C.) cuya obra conserva la doctrina escéptica; se tradujo al latín en 1562.]], traducidos al latín pocos años antes.\n\nLos pirrónicos tenían una práctica: ante dos argumentos igual de fuertes, no elegir. Suspender el juicio. En griego, *epoché*. Montaigne la tomó tan en serio que en 1576 mandó hacer una medalla con una balanza en equilibrio y la palabra griega ΕΠΕΧΩ: «me abstengo»."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Una biblioteca con frases en el techo",
+    "texto": "En su torre, Montaigne hizo pintar en las vigas del techo de su biblioteca decenas de frases en griego y latín, muchas de ellas escépticas. Al levantar la vista del libro, se encontraba con recordatorios como «no hay nada seguro» o «a todo argumento se opone otro igual». Todavía se pueden ver."
+   },
+   {
+    "tipo": "texto",
+    "texto": "De ahí sale su lema. Montaigne explica que la duda se expresa mejor como pregunta que como afirmación. Decir «no sé nada» ya es afirmar algo. Preguntar «¿qué sé yo?» deja la puerta abierta."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Por qué Montaigne prefiere «¿Qué sé yo?» a «No sé nada»?",
+    "opciones": [
+     "Porque suena más elegante en francés",
+     "Porque era la frase de su padre",
+     "Porque «no sé nada» ya es una afirmación; la pregunta mantiene la duda abierta"
+    ],
+    "correcta": 2,
+    "explicacion": "Afirmar que no sabes nada es otra certeza. La pregunta es más honesta: no cierra nada."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "¿Dudar de todo no paraliza?"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La objeción es obvia: si dudas de todo, ¿cómo decides? ¿Cómo vives?\n\nMontaigne no era un ermitaño. Fue magistrado del Parlamento de Burdeos, alcalde de esa ciudad dos veces y negociador entre bandos en plena [[guerras de religión de Francia|Guerras civiles entre católicos y protestantes (hugonotes) que dividieron Francia entre 1562 y 1598.]]. Tomaba decisiones todos los días.\n\nSu duda no lo paralizaba porque no era una duda sobre qué hacer, sino sobre cuánta seguridad tener. Actuaba, pero sin creer que tenía la verdad completa. Y eso, en un país donde católicos y protestantes se mataban por estar seguros, era una forma de prudencia política."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Por eso muchos lo leen como un antídoto contra el fanatismo. Quien sabe que puede estar equivocado escucha más, castiga menos y cambia de opinión sin vergüenza. La duda de Montaigne no es cobardía: es una disciplina para no confundir lo que uno cree con lo que uno sabe."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Los que le contestaron"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La duda de Montaigne no se quedó en su torre. Durante el siglo siguiente, los grandes pensadores franceses tuvieron que responderle.\n\nBlaise Pascal lo leyó con pasión y con miedo. Admiraba cómo Montaigne humillaba la soberbia de la razón, pero le parecía peligroso quedarse ahí. Para Pascal, la duda debía empujar hacia la fe, no hacia la calma de quien se abstiene.\n\nRené Descartes tomó otro camino. En el *Discurso del método* (1637) decidió dudar de todo a propósito, como Montaigne, pero para encontrar algo que resistiera la duda. Lo encontró en una frase: «Pienso, luego existo». Muchos historiadores leen ese libro como una respuesta directa al escepticismo que los *Ensayos* habían puesto de moda.\n\nAsí, la pregunta de un juez de provincia que jugaba con su gata terminó en el arranque de la filosofía moderna. No porque Montaigne tuviera la respuesta, sino porque hizo la pregunta de una forma que nadie pudo ignorar."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Lo que queda hoy"
+   },
+   {
+    "tipo": "texto",
+    "texto": "En el mundo de Montaigne, la soberbia venía de los teólogos y los príncipes. En el nuestro, viene de cualquier pantalla. Todos opinamos con certeza sobre economía, salud o política después de leer un titular.\n\nSu pregunta sigue siendo útil en una sala de juntas o en un tribunal. Antes de decidir, separa tres cosas: lo que sabes, lo que crees y lo que te conviene creer. Muchas malas decisiones nacen de mezclar las tres."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Para llevar",
+    "texto": "Montaigne defendió a Sebond mostrando que la razón humana, incluida la de sus críticos, es más frágil de lo que creemos. De ahí su lema, «¿Qué sé yo?»: no una renuncia a pensar, sino una forma de pensar sin soberbia."
+   }
+  ],
+  "paraLlevar": [
+   "Antes de juzgar los argumentos de otro, mide la fuerza real de los tuyos.",
+   "Decir «no sé nada» es otra certeza; preguntar «¿qué sé yo?» mantiene abierta la puerta.",
+   "Se puede decidir con firmeza sin creer que se tiene la verdad completa."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Por qué escribió Montaigne la «Apología de Raimundo Sebond»?",
+    "respuesta": "Para defender el libro de Sebond, que había traducido por encargo de su padre; lo defendió mostrando que la razón de sus críticos también es frágil."
+   },
+   {
+    "pregunta": "¿Qué decía la medalla que Montaigne mandó hacer en 1576?",
+    "respuesta": "Tenía una balanza en equilibrio y la palabra griega ΕΠΕΧΩ, «me abstengo»: la suspensión del juicio de los escépticos."
+   }
+  ],
+  "proximo": "Ensayos (Montaigne) · Capítulo 5: «Cada hombre lleva la forma entera de la condición humana»: del arrepentimiento",
+  "fuentes": [
+   {
+    "nombre": "Montaigne, Apology for Raymond Sebond, trad. Charles Cotton (1685), en HyperEssays",
+    "url": "https://hyperessays.net/pdf/essays/apology-for-raymond-sebond-A4.pdf"
+   },
+   {
+    "nombre": "Cambridge University Library: Montaigne, Sebond and scepticism",
+    "url": "https://wwwe.lib.cam.ac.uk/CUL/exhibitions/Montaigne/c5.html"
+   },
+   {
+    "nombre": "Stanford Encyclopedia of Philosophy: Michel de Montaigne",
+    "url": "https://plato.stanford.edu/archives/fall2006/entries/montaigne/"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de Charles Cotton (1685, dominio público). En las ediciones modernas, la «Apología» es el capítulo 12 del libro II."
+ },
+ "palabra": {
+  "palabra": "Gollería",
+  "categoria": "Sustantivo femenino",
+  "pronunciacion": "go-lle-RÍ-a",
+  "definicion": "Manjar exquisito y delicado. En sentido figurado, un refinamiento o lujo que va más allá de lo necesario.",
+  "origen": "De origen discutido; se relaciona con *gola*, «garganta», del latín *gula*, la misma familia de *goloso* y *gula*.",
+  "ejemplo": "Para Brillat-Savarin, una trufa bien servida no era una gollería, sino un tema digno de estudio.",
+  "repaso": {
+   "pregunta": "¿Qué es una «gollería»?",
+   "respuesta": "Un manjar exquisito; también, un lujo o refinamiento superfluo."
+  }
+ },
+ "frances": {
+  "frase": "L'appétit vient en mangeant.",
+  "traduccion": "El apetito llega comiendo.",
+  "pronunciacion": "la-pe-TI vien an man-JAN",
+  "uso": "Cultura del gusto. La frase aparece en *Gargantúa* (1534), de Rabelais, y hoy se usa para algo más que la comida: cuando empiezas un proyecto sin ganas y el interés llega al hacerlo, o cuando alguien que ya obtuvo algo quiere más.",
+  "variante": "Para la segunda idea, la ambición que crece: « Plus on en a, plus on en veut. » («Cuanto más se tiene, más se quiere»).",
+  "repaso": {
+   "pregunta": "¿Cómo dices en francés que las ganas llegan al empezar?",
+   "respuesta": "« L'appétit vient en mangeant. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿A qué se dedicaba Brillat-Savarin cuando publicó la Fisiología del gusto?",
+   "opciones": [
+    "Era chef del rey",
+    "Tenía un restaurante en París",
+    "Era juez del Tribunal de Casación"
+   ],
+   "correcta": 2,
+   "explicacion": "Era magistrado del tribunal más alto de Francia desde 1800. Por eso publicó el libro sin su nombre."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Qué pasaría con el diferencial de tasas entre México y EE. UU. si la Fed sube 25 puntos base y Banxico no se mueve?",
+   "opciones": [
+    "Bajaría a 200 puntos base, un mínimo histórico",
+    "Subiría a un máximo histórico",
+    "No cambiaría"
+   ],
+   "correcta": 0,
+   "explicacion": "Una diferencia menor hace menos atractivo invertir en pesos; por eso el peso cerró el 11 de noviembre en 18.63."
+  },
+  {
+   "origen": "hechos",
+   "pregunta": "¿Cuánto duró la «nueva Coca-Cola» de 1985?",
+   "opciones": [
+    "Tres años",
+    "79 días",
+    "Una semana"
+   ],
+   "correcta": 1,
+   "explicacion": "Salió el 23 de abril y el 11 de julio volvió la fórmula original como «Coca-Cola Classic»."
+  }
+ ],
+ "libro": null,
+ "proximo": "Síntesis: qué hace que algo sepa a lujo"
+}
