@@ -1,0 +1,913 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-13",
+ "numero": 23,
+ "fecha": "2026-11-13",
+ "disponibleDesde": "2026-11-13T08:00:00-06:00",
+ "titulo": "Síntesis: qué hace que algo sepa a lujo",
+ "temporada": {
+  "id": "t04",
+  "numero": 4,
+  "titulo": "El arte de la mesa",
+  "episodio": 6,
+  "totalEpisodios": 6
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Glass_of_red_wine.jpg?width=900",
+  "alt": "Copa de vino tinto",
+  "pie": "¿Cuánto del placer de un vino viene de la etiqueta? Un experimento de 2008 lo midió.",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "pregunta": "¿Quién fue Brillat-Savarin y por qué publicó su libro sin firmarlo?",
+   "respuesta": "Un juez del Tribunal de Casación de Francia. Un magistrado no firmaba un tratado sobre el placer de comer; la Fisiología del gusto salió a finales de 1825.",
+   "origen": "Edición #22"
+  },
+  {
+   "pregunta": "¿Por qué Zola quería que lo demandaran tras publicar «Yo acuso»?",
+   "respuesta": "Para llevar el caso Dreyfus a un tribunal civil y público. Lo condenaron por difamación, pero el caso se reabrió.",
+   "origen": "Edición #22"
+  },
+  {
+   "pregunta": "¿Qué significa «gollería»?",
+   "respuesta": "Un manjar exquisito; en sentido figurado, un lujo o refinamiento que va más allá de lo necesario.",
+   "origen": "Edición #22"
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n-2026-11-13-petroleo",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-12",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 21,
+    "dondeIbamos": "El 11 de noviembre el Brent subió 1.39%, a 92.76 dólares, porque el diálogo entre Estados Unidos e Irán seguía atorado. A inicios de mes había pasado de 110."
+   },
+   "titular": "El petróleo bajó en la mañana por esperanzas de paz y cerró arriba: el Brent subió 3.3%, a 95.82 dólares",
+   "quePaso": "El jueves 12 empezó con caídas: hacia la mañana el Brent perdía 1.1%, a 91.72 dólares, por la esperanza de diálogo entre Estados Unidos e Irán y entre Rusia y Ucrania.\n\nAl cierre, el movimiento fue el contrario. El Brent terminó en 95.82 dólares (+3.30%) y el WTI en 88.74 (+2.55%). Aun así, los dos van hacia una segunda semana de baja: alrededor de 2.4% después de caer 16% (Brent) la semana anterior.",
+   "aMiQue": "El petróleo cambia de dirección dentro de un mismo día. Para una marca que compra envases de plástico, flete o aluminio, eso significa que los costos no van a bajar en línea recta. Conviene cotizar con margen y no prometer precios fijos largos a distribuidores mientras Ormuz siga en disputa.",
+   "contexto": "**Hecho (según Reuters):** Trump escribió que no hace falta un acuerdo con Irán para terminar la guerra, que va en su noveno mes. Reuters lo leyó como señal de que mantendrá el bloqueo y las sanciones. El ejército iraní dijo que cuatro petroleros sufrieron explosiones en el Estrecho de Ormuz por ignorar advertencias; Reuters no pudo verificarlo. Los hutíes dijeron haber atacado instalaciones petroleras saudíes.\n\n**Hecho:** los inventarios de crudo de EE. UU. subieron 4.7 millones de barriles en la semana al 6 de noviembre, a 414.4 millones; se esperaba una baja.\n\n**Interpretación:** el mercado oscila entre dos fuerzas. Las noticias de paz lo bajan; los ataques y el bloqueo lo suben. Ninguna de las dos domina todavía.",
+   "queVigilar": "Si Washington y Teherán retoman conversaciones concretas, si se confirman los ataques a petroleros en Ormuz y la reunión de la OPEP+ del 29 de noviembre.",
+   "fuentes": [
+    {
+     "nombre": "Euribor.com.es: Precio del petróleo hoy, 13 de noviembre de 2026 (cierre del 12)",
+     "url": "https://www.euribor.com.es/2026/11/13/precio-petroleo-hoy-13-noviembre-2026/"
+    },
+    {
+     "nombre": "Reuters vía Investing.com: Oil prices set for second weekly decline (13 nov 2026)",
+     "url": "https://www.investing.com/news/commodities-news/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade-5024008"
+    },
+    {
+     "nombre": "5paisa: Brent Crude Falls 1.11% to $91.72 (12 nov 2026, mañana)",
+     "url": "https://www.5paisa.com/blog/brent-crude-falls-wti-oil-prices-peace-talks-us-crude-inventories-november-12-2026"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-13-aranceles",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-11-12",
+   "titular": "Trump amenaza con duplicar los aranceles a México por las caravanas migrantes; Sheinbaum responde que no ha llegado ninguna a la frontera",
+   "quePaso": "Trump publicó en Truth Social que México debe detener las caravanas migrantes y que, si no lo hace, los aranceles a México «se duplicarán inmediatamente».\n\nEn su conferencia del jueves 12, Claudia Sheinbaum respondió que desde que Trump llegó al gobierno «no ha llegado ninguna caravana migrante a la frontera norte». Dijo que la caravana que salió de Arriaga, Chiapas, pasó de 500–600 personas a unas 100, y descartó la represión. También dijo que probablemente verá a Trump en la reunión del G20; según el Tesoro de EE. UU., será en Doral, Miami, el 14 y 15 de diciembre. No hay reunión bilateral confirmada.",
+   "aMiQue": "Si algo de tu cadena toca acero, aluminio o envases metálicos, ya paga el efecto del arancel de 50% de EE. UU. a esos metales. Una amenaza de duplicar aranceles no cambia hoy ningún precio, pero mueve al peso: el jueves cerró cerca de 18.60 por dólar. Para un importador, es un recordatorio de no apostar a un tipo de cambio fijo hasta que haya acuerdo.",
+   "contexto": "**Hecho:** según Proceso, hoy rigen aranceles de EE. UU. de 50% al acero y al aluminio, 25% a camiones medianos y pesados y 10% a productos que no cumplen las reglas del T-MEC. La revisión del T-MEC se activó en julio y corre en paralelo a la negociación bilateral, que lleva Marcelo Ebrard.\n\n**Hecho:** el subsecretario de Comercio Exterior, Luis Rosendo Gutiérrez, dijo que confía en tener «buenas noticias» antes de que termine el año y que alrededor de 80% de las exportaciones entra sin arancel.\n\n**Interpretación:** la amenaza mezcla migración y comercio. México responde con datos de migración, no con concesiones comerciales.",
+   "queVigilar": "Si la amenaza se convierte en una orden formal, el avance de la caravana desde Chiapas, y si se confirma la reunión Sheinbaum–Trump en el G20 de diciembre.",
+   "fuentes": [
+    {
+     "nombre": "Expansión Política: Sheinbaum responde a Trump sobre aranceles y caravanas migrantes (12 nov 2026)",
+     "url": "https://politica.expansion.mx/presidencia/2026/11/12/sheinbaum-responde-trump-aranceles-caravanas-migrantes"
+    },
+    {
+     "nombre": "Proceso: Así respondió Sheinbaum a la amenaza de Trump de duplicar los aranceles (12 nov 2026)",
+     "url": "https://www.proceso.com.mx/nacional/2026/11/12/asi-respondio-sheinbaum-a-la-amenaza-de-trump-de-duplicar-los-aranceles-si-no-detiene-la-caravana-migrante-383585.html"
+    },
+    {
+     "nombre": "Publimetro: ¿Cuándo podría reunirse Sheinbaum con Trump? (12 nov 2026)",
+     "url": "https://www.publimetro.com.mx/nacional/2026/11/12/sheinbaum-trump-reunion-acuerdo-arancelario/"
+    },
+    {
+     "nombre": "Infobae: Precio del dólar, cierre del 12 de noviembre",
+     "url": "https://www.infobae.com/mexico/2026/11/12/precio-del-dolar-hoy-en-mexico-cotizacion-de-cierre-del-12-de-noviembre/"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-13-agua",
+   "ambito": "gdl",
+   "ambitoTexto": "Guadalajara",
+   "fecha": "2026-11-12",
+   "historiaEnCurso": {
+    "id": "agua-gdl",
+    "titulo": "Crisis del agua en Guadalajara",
+    "capitulo": 14,
+    "dondeIbamos": "El 10 de noviembre Pablo Lemus dijo que la obra de Las Pintas se adelantó y que los tandeos podrían terminar antes del 15 de diciembre. La condonación para 627 colonias sigue en comisiones del Congreso."
+   },
+   "titular": "Fin de semana con tandeos: el SIAPA publica los cortes del 13 al 15 de noviembre",
+   "quePaso": "El SIAPA publicó el calendario de cortes de este fin de semana. El viernes 13 tocan las zonas 1, 3 y 6 (unas 112 colonias); el sábado 14, las zonas 4, 6 y 7 (unas 157); y el domingo 15, las zonas 1, 2, 4, 6 y 7 (unas 204). Algunas colonias se repiten entre zonas, así que el total real es menor.\n\nEl organismo lo atribuye a la dificultad para bombear agua a las zonas altas. La nota no da fecha de fin de los tandeos.",
+   "aMiQue": "Si tu casa, tu oficina o un punto de venta está en esas zonas, conviene revisar la lista por colonia y llenar cisternas antes. Para un negocio de alimentos o bebidas, un corte en sábado o domingo pega justo en los días de más venta.",
+   "contexto": "**Hecho:** no hubo votación nueva sobre la condonación del agua de octubre a diciembre para las 627 colonias afectadas; sigue turnada a la Comisión de Hacienda del Congreso.\n\n**Hecho (10 de noviembre):** la inversión anunciada para el sistema es de unos 25,000 millones de pesos (10,500 del estado y 14,500 federales). La primera etapa de la potabilizadora de Miravalle lleva cerca de 40% de avance y se prevé que opere desde abril de 2027.",
+   "queVigilar": "Si el SIAPA anuncia menos zonas de tandeo la próxima semana y si el Congreso vota la condonación.",
+   "fuentes": [
+    {
+     "nombre": "El Informador: SIAPA, lista de colonias con cortes de agua del 13 al 15 de noviembre",
+     "url": "https://www.informador.mx/jalisco/siapa-lista-de-colonias-con-cortes-de-agua-del-13-al-15-de-noviembre-por-los-tandeos-20261112-0209.html"
+    },
+    {
+     "nombre": "Notisistema: Turnan a comisiones la propuesta para condonar pagos por agua en 627 colonias",
+     "url": "https://www.notisistema.com/noticias/turnan-a-comisiones-la-propuesta-para-condonar-pagos-por-agua-en-627-colonias/"
+    },
+    {
+     "nombre": "Meganoticias: Pablo Lemus busca reducir los tandeos de agua (10 nov 2026)",
+     "url": "https://www.meganoticias.mx/guadalajara/noticia/pablo-lemus-busca-reducir-los-tandeos-de-agua/787219"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "El mismo vino, con dos precios distintos. ¿Cambia solo la etiqueta o también el placer?",
+    "contexto": "California, 2007. En un laboratorio de Caltech, 20 voluntarios están acostados dentro de un escáner cerebral. Por un tubo reciben sorbos de Cabernet Sauvignon. Antes de cada sorbo, una pantalla les dice cuánto cuesta la botella.\n\nLo que no saben: uno de los vinos aparece dos veces. Una vez como vino de 5 dólares y otra como vino de 45.",
+    "pregunta": "Cuando les dijeron que ese mismo vino costaba 45 dólares en lugar de 5, ¿qué pasó?",
+    "opciones": [
+     "Nada: el sabor es el sabor",
+     "Dijeron que les gustaba más, pero su cerebro reaccionó igual",
+     "Les gustó más y la zona del placer en su cerebro se activó más"
+    ]
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Cinco episodios y un experimento",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Margaux_exterior.jpg?width=900",
+     "alt": "Fachada clásica de un château rodeado de jardines",
+     "pie": "Château Margaux, uno de los primeros grandes vinos de la clasificación de Burdeos de 1855",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "Esta temporada recorrimos cinco maneras de convertir algo comestible en algo valioso.\n\nEn 1855, Burdeos ordenó sus vinos por el precio que alcanzaban, y esa lista sigue casi intacta. En 1825, un juez llamado Brillat-Savarin le dio al gusto un vocabulario. Escoffier convirtió la cocina en una [[brigada|Sistema de organización de la cocina con puestos y jerarquías fijas, inspirado en el ejército.]] donde cada plato sale igual. En 1974, México declaró la denominación de origen Tequila y convirtió un lugar en una garantía. Y en 1976, en París, una cata a ciegas puso vinos de California por encima de los grandes franceses.\n\nFaltaba una pregunta: cuando algo nos sabe a lujo, ¿cuánto viene del objeto y cuánto de lo que sabemos de él?\n\nEn 2008, Hilke Plassmann, Antonio Rangel y su equipo publicaron en la revista *PNAS* un experimento para medirlo. Usaron tres Cabernet Sauvignon. El primero se presentó a 5 dólares (su precio real) y a 45. El segundo, a 10 y a 90 (su precio real). Un tercero, a 35, servía para despistar.\n\nLos voluntarios calificaban cuánto les gustaba cada sorbo. Mientras tanto, el escáner registraba la [[corteza orbitofrontal medial|Zona del cerebro, detrás de la frente, que se asocia con el placer que produce una experiencia.]]."
+   },
+   {
+    "tipo": "giro",
+    "titulo": "El precio cambió el placer, no la lengua",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Glass_of_red_wine.jpg?width=900",
+     "alt": "Copa de vino tinto",
+     "pie": "Una copa de vino tinto",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "**Les gustó más, y su cerebro lo registró.** Con el precio alto, los voluntarios calificaron mejor el mismo vino en los dos casos. Y la actividad de la corteza orbitofrontal medial subió. No mentían por quedar bien: el placer medido era mayor.\n\nLo curioso es lo que no cambió. La intensidad del sabor que reportaban fue la misma. La lengua percibía igual; lo que cambiaba era cuánto lo disfrutaban.\n\nUnas ocho semanas después, los mismos voluntarios probaron los vinos a ciegas, sin precios. Ya no hubo diferencia.\n\nNo es un caso aislado. En 2001, en Burdeos, Gil Morrot, Frédéric Brochet y Denis Dubourdieu sirvieron un vino blanco teñido de rojo con un colorante sin olor. Un panel de 54 catadores lo describió con palabras de vino tinto.\n\nLa conclusión no es que el lujo sea un engaño. Es que la expectativa forma parte de la experiencia. Por eso la cata a ciegas de 1976 fue tan brutal: quitó la etiqueta y dejó solo el vino."
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "Las cinco capas del lujo",
+    "texto": "Cada episodio de la temporada fue una capa. Juntas sirven para analizar cualquier producto que aspire a ser premium.\n\n**1. Lugar.** ¿De dónde viene y por qué ese lugar importa? Es lo que protege una [[denominación de origen|Nombre geográfico que solo pueden usar los productos hechos en esa zona y con sus reglas.]], como el tequila.\n\n**2. Juicio externo.** ¿Quién, aparte de ti, dice que es bueno? La lista de 1855, una guía o un premio.\n\n**3. Oficio.** ¿Se hace igual de bien cada vez? Es la brigada de Escoffier: un sistema, no un genio.\n\n**4. Lenguaje.** ¿Puede el cliente decir por qué le gusta? Brillat-Savarin le dio palabras al gusto.\n\n**5. Expectativa.** Precio, botella, historia. Sube el placer de verdad, como mostró Caltech.\n\nY una prueba final: **la cata a ciegas**. Si al quitar las capas 2 y 5 el producto se cae, lo que vendías era solo precio."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Dónde más aparece",
+    "texto": "**En una marca de bebidas listas para tomar.** La lata, la temperatura, el precio y la historia preparan el primer sorbo. Eso es legítimo: el cliente lo disfruta más. Pero si un consumidor prueba tu coctel junto a uno más barato y no nota diferencia, la capa de expectativa no alcanza para que vuelva a comprar. Hacer pruebas a ciegas con tu propio equipo, antes de lanzar, es barato y revela mucho.\n\n**En el tequila.** La denominación de origen garantiza el lugar y unas reglas mínimas. No garantiza el sabor de cada marca. Por eso dos botellas con la misma clase y precios muy distintos pueden sorprender en una cata a ciegas.\n\n**En un restaurante de Guadalajara.** La vajilla, el servicio y la carta preparan la expectativa. La cocina tiene que sostenerla en cada plato. Eso es Escoffier más Brillat-Savarin."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "La próxima vez que algo te sepa a lujo, ¿cuánto viene del objeto y cuánto de lo que sabías antes de probarlo?",
+    "texto": "Un experimento sencillo: pide a alguien que te sirva dos tequilas o dos vinos sin decirte cuál es cuál. Elige el que prefieres y luego mira las botellas. No es para desconfiar del lujo, sino para saber qué estás pagando."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "El lujo verdadero es calidad que sobrevive a la cata a ciegas, más una historia que te enseña a disfrutarla."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "PNAS (2008): Marketing actions can modulate neural representations of experienced pleasantness (artículo completo, en inglés)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2242704",
+   "minutos": 15
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Qué encontró el experimento de Caltech publicado en 2008 al cambiar el precio del mismo vino?",
+    "respuesta": "Con el precio alto, a los voluntarios les gustó más y se activó más la corteza orbitofrontal medial; la intensidad del sabor no cambió. A ciegas, semanas después, no hubo diferencia."
+   },
+   {
+    "pregunta": "¿Cuáles son las cinco capas del lujo de esta temporada?",
+    "respuesta": "Lugar, juicio externo, oficio, lenguaje y expectativa. La prueba final es la cata a ciegas."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Plassmann et al., PNAS 105(3):1050–1054 (2008), en PubMed Central",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2242704"
+   },
+   {
+    "nombre": "Morrot, Brochet y Dubourdieu, «The color of odors», Brain and Language (2001), PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11712849/"
+   },
+   {
+    "nombre": "JancisRobinson.com: Are wine tasters idiots? (2013)",
+    "url": "https://www.jancisrobinson.com/articles/are-wine-tasters-idiots"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Arte y pintura",
+   "pilar": "cultura",
+   "formato": "miraEscucha",
+   "titulo": "La gran ola de Kanagawa: busca el Fuji",
+   "contexto": "Hacia 1831, Katsushika Hokusai tenía unos 70 años y publicó una serie de [[xilografías|Estampas impresas con planchas de madera talladas; una por cada color.]] llamada *Treinta y seis vistas del monte Fuji*. La más famosa muestra una ola gigante a punto de caer sobre tres barcas de remeros.\n\nMírala un momento antes de seguir. La serie se llama «vistas del Fuji», pero la ola se roba toda la atención.",
+   "pregunta": "¿Dónde está el monte Fuji en esta estampa?",
+   "opciones": [
+    "En la cresta de la ola, dibujado con la espuma",
+    "Al fondo, pequeño, en el hueco que deja la ola",
+    "No aparece: el título es una metáfora"
+   ],
+   "correcta": 1,
+   "revelacion": "**Al fondo, pequeño.** El Fuji aparece abajo, en el centro, nevado, enmarcado por el hueco de la ola. La montaña más sagrada de Japón parece diminuta y quieta frente al agua. Ese contraste es el tema: lo eterno al fondo, el peligro en primer plano.\n\nFíjate también en el azul. Es [[azul de Prusia|Pigmento sintético inventado en Berlín hacia 1706; llegó a Japón a través de China y daba un azul intenso y estable.]], que llegaba a Japón desde China en grandes cantidades y barato. Le dio a Hokusai un azul profundo que no se borraba.\n\nY un dato que cambia cómo la ves: no era una pieza única. Era un producto popular. El Museo Británico dice que sobreviven muchos cientos de impresiones, y un estudio estima que de cada diseño se pudieron imprimir hasta 8,000. Aun así, el 21 de marzo de 2023 una impresión se vendió en Christie's Nueva York en 2.76 millones de dólares. El tiempo convirtió un objeto barato en uno escaso.",
+   "idea": "Mirar bien es encontrar lo pequeño que le da sentido a lo grande.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tsunami_by_hokusai_19th_century.jpg?width=900",
+    "alt": "Una ola gigante con espuma en forma de garras sobre tres barcas; al fondo, un monte nevado pequeño",
+    "pie": "La gran ola de Kanagawa, de Hokusai (c. 1830–1832). Ejemplar del Museo Metropolitano de Nueva York",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "British Museum: Under the Wave off Kanagawa (A_2008-3008-1)",
+    "url": "https://www.britishmuseum.org/collection/object/A_2008-3008-1"
+   },
+   "wiki": "La gran ola de Kanagawa",
+   "claves": [
+    {
+     "nombre": "Katsushika Hokusai",
+     "quien": "Pintor y grabador japonés (1760–1849), autor de la serie del Fuji.",
+     "wiki": "Katsushika Hokusai"
+    },
+    {
+     "nombre": "Treinta y seis vistas del monte Fuji",
+     "quien": "La serie de estampas a la que pertenece La gran ola.",
+     "wiki": "Treinta y seis vistas del monte Fuji"
+    },
+    {
+     "nombre": "Azul de Prusia",
+     "quien": "El pigmento importado que dio a la estampa su azul intenso.",
+     "wiki": "Azul de Prusia"
+    },
+    {
+     "nombre": "Ukiyo-e",
+     "quien": "El género de estampas populares japonesas del periodo Edo.",
+     "wiki": "Ukiyo-e"
+    }
+   ],
+   "profundizar": {
+    "titulo": "The Met: Hokusai, The Great Wave (ensayo)",
+    "url": "https://www.metmuseum.org/essays/hokusai-great-wave"
+   },
+   "repaso": {
+    "pregunta": "¿Dónde está el Fuji en La gran ola y qué pigmento usó Hokusai para el azul?",
+    "respuesta": "Al fondo, pequeño, en el hueco de la ola. El azul es azul de Prusia, que llegaba a Japón desde China."
+   }
+  },
+  {
+   "materia": "Oficios del lujo y estilo",
+   "pilar": "gusto",
+   "formato": "mitoRealidad",
+   "titulo": "¿«Genuine leather» quiere decir el mejor cuero?",
+   "contexto": "Volteas un cinturón y ves la etiqueta: *genuine leather*, «piel genuina». Suena a garantía. Muchos la leen como sello de calidad.\n\nPara entenderla hay que saber que una piel de res es gruesa y se corta en capas. La de arriba, la que tenía el pelo, se llama [[flor|La capa exterior de la piel, la más densa y resistente; conserva los poros y las marcas naturales.]]. Las de abajo son más débiles.",
+   "pregunta": "¿Qué te garantiza la etiqueta «genuine leather»?",
+   "opciones": [
+    "Que es el cuero de mayor calidad",
+    "Que es cuero real, pero no dice qué capa ni qué calidad",
+    "Que es piel sintética de buena calidad"
+   ],
+   "correcta": 1,
+   "revelacion": "**Es un mito que signifique «el mejor».** Es cuero de verdad, pero la etiqueta no describe un grado de calidad. Suele usarse para cuero de las capas inferiores, muy procesado. Un fabricante lo llama, de hecho, uno de los grados más bajos del cuero real.\n\nLa escala, de mejor a peor, suele ser esta. **Plena flor** (*full-grain*): la capa exterior completa, sin lijar; se considera la de mayor calidad. **Flor corregida**: lijada para borrar marcas, teñida y grabada con un dibujo de poro falso. **Serraje** (*split*): las capas de abajo. Y el **cuero reconstituido** (*bonded*): fibras pegadas, con entre 10% y 90% de cuero.\n\nCómo reconocer la plena flor: se ven poros irregulares y pequeñas marcas, como en la piel de una mano. Con el uso se oscurece y gana [[pátina|Cambio de color y brillo que adquiere un material con el tiempo y el uso.]]. Una superficie perfectamente uniforme, como plástico, casi siempre es flor corregida.",
+   "idea": "En el lujo, una palabra que suena a garantía puede ser solo una etiqueta: pregunta qué capa estás comprando.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dar_Dbagh_Chouara_A_Fes.jpg?width=900",
+    "alt": "Pozas de colores en una curtiduría tradicional al aire libre",
+    "pie": "La curtiduría Chouara, en Fez (Marruecos), donde se curte piel con métodos tradicionales",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (inglés): Leather, sección de grados",
+    "url": "https://en.wikipedia.org/wiki/Leather"
+   },
+   "wiki": "Cuero",
+   "claves": [
+    {
+     "nombre": "Curtido",
+     "quien": "El proceso que convierte la piel en cuero que no se pudre.",
+     "wiki": "Curtido"
+    },
+    {
+     "nombre": "Hermès",
+     "quien": "Casa francesa que empezó con arneses y hoy es referencia del trabajo en piel.",
+     "wiki": "Hermès"
+    }
+   ],
+   "profundizar": {
+    "titulo": "Galen Leather: Leather grades (guía de un taller, en inglés)",
+    "url": "https://www.galenleather.com/blogs/news/leather-grades"
+   },
+   "repaso": {
+    "pregunta": "¿Cuál se considera el cuero de mayor calidad y qué significa «genuine leather»?",
+    "respuesta": "La plena flor (full-grain). «Genuine leather» solo dice que es cuero real; no es un grado y suele aplicarse a capas inferiores muy procesadas."
+   }
+  },
+  {
+   "materia": "IA y el futuro",
+   "pilar": "futuro",
+   "formato": "comoFunciona",
+   "titulo": "Mata contra Avianca: los precedentes que ChatGPT inventó",
+   "contexto": "Nueva York, 2023. Un pasajero demanda a Avianca en un tribunal federal. Sus abogados, Steven A. Schwartz y Peter LoDuca, presentan un escrito con precedentes que apoyan su caso. Tienen nombres de partes, tribunales y fechas.\n\nNi la aerolínea ni el juez P. Kevin Castel logran encontrarlos. Seis de esos casos no existen. Schwartz los había obtenido de ChatGPT.",
+   "pregunta": "¿Por qué un modelo como ChatGPT puede inventar una sentencia con nombre, fecha y citas?",
+   "opciones": [
+    "Porque copia de una base de datos de sentencias que tiene errores",
+    "Porque genera el texto más probable palabra por palabra, sin consultar un archivo de sentencias",
+    "Porque está programado para mentir cuando no sabe la respuesta"
+   ],
+   "correcta": 1,
+   "revelacion": "**Porque predice texto, no consulta un archivo.** Un [[modelo de lenguaje|Programa entrenado con enormes cantidades de texto para predecir qué palabra sigue a otra.]] aprende cómo suelen verse las cosas: cómo se llama un caso, cómo se cita, qué tribunal suena bien. Si le pides un precedente, produce algo con la forma correcta. Si no tiene el dato real, puede rellenar el hueco con algo plausible. A eso se le llama [[alucinación|Respuesta de una IA que suena segura y coherente, pero es falsa o inventada.]].\n\nNo es mala intención: el modelo no distingue por sí mismo entre «recordar» y «componer». Por eso puede inventar con la misma seguridad con la que acierta.\n\nEl 22 de junio de 2023, el juez Castel multó con 5,000 dólares a los dos abogados y a su despacho. Además, les ordenó notificar a su cliente y a cada juez al que se le atribuyó una sentencia falsa. La lección para cualquier abogado: la IA sirve para pensar y redactar, pero cada cita se verifica en la fuente primaria.",
+   "idea": "Una IA que escribe con seguridad no es una IA que verificó: la responsabilidad de la cita sigue siendo tuya.",
+   "fuente": {
+    "nombre": "LawNext: Court imposes sanctions on lawyers who filed bogus cases after relying on ChatGPT (22 jun 2023)",
+    "url": "https://www.lawnext.com/2023/06/court-imposes-sanctions-on-lawyers-who-filed-bogus-cases-after-relying-on-chatgpt-for-legal-research.html"
+   },
+   "wiki": "Alucinación (inteligencia artificial)",
+   "claves": [
+    {
+     "nombre": "ChatGPT",
+     "quien": "El asistente de OpenAI que los abogados usaron para buscar precedentes.",
+     "wiki": "ChatGPT"
+    },
+    {
+     "nombre": "Jurisprudencia",
+     "quien": "El conjunto de decisiones de tribunales que sirve de guía; lo que los abogados creían estar citando.",
+     "wiki": "Jurisprudencia"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué pasó en Mata contra Avianca (2023)?",
+    "respuesta": "Los abogados citaron seis precedentes inventados por ChatGPT; el juez Castel los multó con 5,000 dólares el 22 de junio de 2023."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "comoFunciona",
+   "titulo": "Kindle Direct Publishing: por qué un ebook cobra 70% o 35%",
+   "contexto": "Escribiste una guía digital y la subes a Amazon con [[Kindle Direct Publishing|Plataforma de Amazon para que cualquier autor publique libros electrónicos e impresos sin editorial.]]. No hay imprenta ni bodega. Cada copia extra cuesta centavos de transmisión.\n\nAmazon te deja elegir entre dos regalías: 70% o 35% del precio. Parece obvio cuál escoger. Pero hay letra pequeña.",
+   "pregunta": "Pones tu ebook a 12.99 dólares en la tienda de EE. UU. ¿Qué regalía recibes?",
+   "opciones": [
+    "70%, como cualquier ebook",
+    "35%, porque el precio está fuera del rango que exige el 70%",
+    "50%, un punto intermedio"
+   ],
+   "correcta": 1,
+   "revelacion": "**35%.** Para tener el 70% en la tienda de EE. UU., el precio de lista debe estar entre 2.99 y 9.99 dólares, y el libro debe venderse en los territorios elegibles. Además, Amazon descuenta un costo de entrega según el peso del archivo; su página de ayuda da un promedio de 0.06 dólares por copia. Las obras de dominio público solo pueden cobrar 35%.\n\nHaz la cuenta. A 9.99 dólares con 70%, te quedan unos 6.93 por copia. A 12.99 con 35%, unos 4.55. Subir el precio puede hacerte ganar menos por unidad.\n\nPor qué funciona así: Amazon empuja a los autores hacia una franja de precio que vende más volumen en su tienda. Para ti, la lección es que en un producto digital el canal fija parte de tu estrategia de precio. Las reglas cambian por país y con el tiempo; revisa siempre las condiciones vigentes antes de decidir. Nada de esto garantiza ventas: solo explica cuánto te toca de cada una.",
+   "idea": "En un producto digital, el canal decide parte de tu precio: lee sus reglas antes de fijarlo.",
+   "fuente": {
+    "nombre": "Amazon KDP: eBook Royalties (ayuda)",
+    "url": "https://kdp.amazon.com/en_US/help/topic/G200644210"
+   },
+   "wiki": "Amazon Kindle",
+   "claves": [
+    {
+     "nombre": "Libro electrónico",
+     "quien": "El formato digital que se vende en KDP.",
+     "wiki": "Libro electrónico"
+    },
+    {
+     "nombre": "Edición de autor",
+     "quien": "Publicar sin editorial; KDP la hizo masiva.",
+     "wiki": "Edición de autor"
+    }
+   ],
+   "profundizar": {
+    "titulo": "Amazon KDP: eBook List Price Requirements",
+    "url": "https://kdp.amazon.com/en_US/help/topic/G200634560"
+   },
+   "repaso": {
+    "pregunta": "¿Qué condición de precio exige el 70% de regalía en KDP (tienda de EE. UU.)?",
+    "respuesta": "Un precio de lista entre 2.99 y 9.99 dólares, en territorios elegibles y menos el costo de entrega; fuera de eso, 35%."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Mente y decisiones",
+   "pilar": "mente",
+   "epoca": "1974",
+   "titulo": "Una ruleta trucada movió las respuestas 20 puntos",
+   "dato": "Tversky y Kahneman giraban una ruleta que caía en 10 o en 65 y luego pedían estimar qué porcentaje de los países de la ONU eran africanos. Quienes vieron 10 respondieron 25%; quienes vieron 65, 45%.",
+   "explicacion": "El número de la ruleta era obviamente irrelevante, y aun así sirvió de punto de partida. La gente «ajustaba» desde ahí, pero se quedaba corta. A esto lo llamaron [[efecto de anclaje|Tendencia a apoyarse demasiado en el primer número que se ve al hacer una estimación.]].\n\nEn una negociación, el primer precio que se dice funciona igual. Por eso quien abre la conversación con una cifra suele mover el resultado a su favor.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Daniel_Kahneman_(3283955327).jpg?width=900",
+    "alt": "Retrato de un hombre mayor con anteojos",
+    "pie": "Daniel Kahneman, coautor del estudio con Amos Tversky",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Plous, «Anchoring and Adjustment» (resumen del estudio de Tversky y Kahneman, Science 1974)",
+    "url": "https://courses.eller.arizona.edu/mgmt/delaney/p_chapter13.pdf"
+   },
+   "wiki": "Efecto de anclaje",
+   "claves": [
+    {
+     "nombre": "Daniel Kahneman",
+     "quien": "Psicólogo, Nobel de Economía 2002 por estudiar cómo decidimos.",
+     "wiki": "Daniel Kahneman"
+    },
+    {
+     "nombre": "Amos Tversky",
+     "quien": "Psicólogo cognitivo, su socio en el estudio de los sesgos.",
+     "wiki": "Amos Tversky"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué mostró la ruleta trucada de Tversky y Kahneman?",
+    "respuesta": "Que un número irrelevante ancla las estimaciones: con 10 la mediana fue 25%; con 65, 45%."
+   }
+  },
+  {
+   "materia": "Disciplina y hábitos",
+   "pilar": "caracter",
+   "epoca": "Siglo XVIII",
+   "titulo": "Franklin nunca pudo con la virtud del orden",
+   "dato": "Benjamin Franklin se puso 13 virtudes y las vigilaba en una libreta, una por semana. Él mismo admitió que el orden fue la que más trabajo le costó y que se sentía «incorregible» en ella.",
+   "explicacion": "En su *Autobiografía* cuenta que trazó con tinta roja una tabla por virtud, con siete columnas para los días. Cada semana atendía una sola; así completaba el ciclo en 13 semanas y cuatro veces al año. Con el tiempo hizo menos ciclos.\n\nLo valioso no es que lo lograra, sino el método: atender una cosa a la vez y registrar las fallas sin engañarse. Hasta él reconoció que una de las 13 nunca la dominó.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BenFranklinDuplessis.jpg?width=900",
+    "alt": "Retrato de un hombre mayor de cabello largo y gris",
+    "pie": "Benjamin Franklin, retratado por Joseph-Siffred Duplessis (1778)",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Standard Ebooks: The Autobiography of Benjamin Franklin, capítulo 9",
+    "url": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/text/chapter-9"
+   },
+   "wiki": "Benjamin Franklin",
+   "claves": [
+    {
+     "nombre": "Virtud",
+     "quien": "Disposición estable a obrar bien; Franklin hizo una lista de 13.",
+     "wiki": "Virtud"
+    },
+    {
+     "nombre": "Hábito",
+     "quien": "Lo que Franklin intentaba formar con su registro semanal.",
+     "wiki": "Hábito"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo trabajaba Franklin sus 13 virtudes y cuál le costó más?",
+    "respuesta": "Una por semana, con una tabla en una libreta; el orden fue la que más le costó."
+   }
+  },
+  {
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "epoca": "1948",
+   "titulo": "Unos sobres cerrados decidieron quién recibía el fármaco",
+   "dato": "En 1948, un ensayo británico de estreptomicina contra la tuberculosis asignó a 107 pacientes con números al azar guardados en sobres sellados. Suele considerarse el primer ensayo aleatorizado moderno publicado.",
+   "explicacion": "Austin Bradford Hill diseñó el sistema para que ningún médico eligiera, ni sin querer, a los pacientes más sanos para el fármaco. A los seis meses, según el informe, murieron 4 de 55 con estreptomicina y 14 de 52 sin ella.\n\nHubo antecedentes, así que no fue tan nuevo como a veces se cuenta. Pero se volvió el modelo: el azar protege la prueba de nuestras propias expectativas.",
+   "fuente": {
+    "nombre": "James Lind Library: Why the 1948 MRC trial of streptomycin used treatment allocation based on random numbers",
+    "url": "https://www.jameslindlibrary.org/articles/why-the-1948-mrc-trial-of-streptomycin-used-treatment-allocation-based-on-random-numbers/"
+   },
+   "wiki": "Prueba controlada aleatorizada",
+   "claves": [
+    {
+     "nombre": "Estreptomicina",
+     "quien": "Antibiótico de los años cuarenta, el primero eficaz contra la tuberculosis.",
+     "wiki": "Estreptomicina"
+    },
+    {
+     "nombre": "Tuberculosis",
+     "quien": "La enfermedad que estudiaba el ensayo.",
+     "wiki": "Tuberculosis"
+    },
+    {
+     "nombre": "Criterios de Bradford Hill",
+     "quien": "Las pautas de Bradford Hill para juzgar si algo causa una enfermedad.",
+     "wiki": "Criterios de Bradford Hill"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Para qué sirvieron los sobres sellados del ensayo de estreptomicina de 1948?",
+    "respuesta": "Para asignar a los pacientes al azar, sin que los médicos eligieran; así nadie sesgaba quién recibía el fármaco."
+   }
+  },
+  {
+   "materia": "Religiones y grandes textos",
+   "pilar": "cultura",
+   "epoca": "c. 1455",
+   "titulo": "De unas 180 Biblias de Gutenberg quedan 49",
+   "dato": "Gutenberg imprimió unas 180 Biblias: unas 145 en papel y 35 en vitela. Al siglo XX llegaron 49, y solo unas 20 o 21 están completas.",
+   "explicacion": "Fue el primer gran libro impreso en Europa con tipos móviles. Cada ejemplar en vitela necesitaba las pieles de muchos animales, por eso hubo tan pocas. Muchas se decoraron a mano después, así que no hay dos iguales.\n\nLa Biblioteca del Congreso de EE. UU. guarda una de las tres completas en vitela. Las otras están en la Biblioteca Nacional de Francia y en la Biblioteca Británica.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg?width=900",
+    "alt": "Libro antiguo abierto con texto en dos columnas",
+    "pie": "La Biblia de Gutenberg del ejemplar Lenox, en la Biblioteca Pública de Nueva York",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Library of Congress: The Gutenberg Bible",
+    "url": "https://www.loc.gov/exhibits/bibles/interactives/gutenberg/index.html"
+   },
+   "wiki": "Biblia de Gutenberg",
+   "claves": [
+    {
+     "nombre": "Johannes Gutenberg",
+     "quien": "Orfebre de Maguncia que desarrolló la imprenta de tipos móviles.",
+     "wiki": "Johannes Gutenberg"
+    },
+    {
+     "nombre": "Imprenta",
+     "quien": "La técnica que hizo posible copiar libros en serie.",
+     "wiki": "Imprenta"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuántas Biblias imprimió Gutenberg y cuántas sobreviven?",
+    "respuesta": "Unas 180 (145 en papel y 35 en vitela); sobreviven 49, unas 20–21 completas."
+   }
+  },
+  {
+   "materia": "Derecho y poder",
+   "pilar": "mundo",
+   "epoca": "1841",
+   "titulo": "El amparo nació en Yucatán",
+   "dato": "El juicio de amparo, la gran defensa del ciudadano frente a la autoridad en México, apareció primero en la Constitución de Yucatán de 1841, cuando el estado se había apartado del gobierno central.",
+   "explicacion": "La redactó sobre todo Manuel Crescencio Rejón. Se sancionó el 31 de marzo de 1841 y entró en vigor el 16 de mayo. Yucatán se había distanciado de México por el [[centralismo|Régimen que concentraba el poder en el gobierno de la capital y quitaba autonomía a los estados.]].\n\nEn 1847, gracias al voto particular de Mariano Otero, el amparo pasó al nivel federal con el Acta de Reformas. De ahí llegó a la Constitución de 1857 y sigue vivo en la de 1917.",
+   "fuente": {
+    "nombre": "Poder Judicial del Estado de Yucatán: Mensaje sobre la Constitución de 1841",
+    "url": "https://www.poderjudicialyucatan.gob.mx/constitucionyucatan/pdf/MensajeMinistro.pdf"
+   },
+   "wiki": "Juicio de amparo",
+   "claves": [
+    {
+     "nombre": "Manuel Crescencio Rejón",
+     "quien": "Jurista yucateco (1799–1849), autor del proyecto que creó el amparo.",
+     "wiki": "Manuel Crescencio García Rejón"
+    },
+    {
+     "nombre": "Mariano Otero",
+     "quien": "Jurista jalisciense que llevó el amparo a la federación en 1847.",
+     "wiki": "Mariano Otero"
+    },
+    {
+     "nombre": "Constitución de Yucatán de 1841",
+     "quien": "El texto donde apareció el amparo por primera vez.",
+     "wiki": "Constitución de Yucatán de 1841"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Dónde y cuándo apareció por primera vez el juicio de amparo?",
+    "respuesta": "En la Constitución de Yucatán de 1841, redactada sobre todo por Manuel Crescencio Rejón."
+   }
+  },
+  {
+   "materia": "Economía y mercados",
+   "pilar": "patrimonio",
+   "epoca": "1945",
+   "titulo": "En un campo de prisioneros, el cigarro se volvió dinero",
+   "dato": "En un campo de prisioneros de la Segunda Guerra Mundial, los cigarros se convirtieron en moneda: con ellos se pagaba lavar ropa o un retrato. Lo contó el economista R. A. Radford en 1945.",
+   "explicacion": "Los cigarros llegaban en raciones y paquetes de la Cruz Roja, eran fáciles de contar y todos los aceptaban. Cuando llegaban muchos, los precios subían; cuando escaseaban, bajaban. Hubo incluso un intento fallido de papel moneda.\n\nRadford mostró que un mercado con precios y moneda surge solo, incluso sin bancos ni Estado. Después trabajó 33 años en el Fondo Monetario Internacional.",
+   "fuente": {
+    "nombre": "R. A. Radford, «The Economic Organisation of a P.O.W. Camp», Economica (1945)",
+    "url": "https://gwern.net/doc/economics/1945-radford.pdf"
+   },
+   "wiki": "Dinero mercancía",
+   "claves": [
+    {
+     "nombre": "Prisionero de guerra",
+     "quien": "La condición de Radford, capturado en Libia en 1942.",
+     "wiki": "Prisionero de guerra"
+    },
+    {
+     "nombre": "Fondo Monetario Internacional",
+     "quien": "Donde Radford trabajó de 1947 a 1980.",
+     "wiki": "Fondo Monetario Internacional"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué funcionó como dinero en el campo que describió Radford y qué pasaba cuando llegaban muchos?",
+    "respuesta": "Los cigarros; cuando llegaban muchos, los precios subían."
+   }
+  },
+  {
+   "materia": "El cosmos",
+   "pilar": "futuro",
+   "epoca": "Hace 1,400 millones de años",
+   "titulo": "Hace 1,400 millones de años el día duraba 18 horas",
+   "dato": "Un estudio de 2018 calculó que hace 1,400 millones de años un día en la Tierra duraba poco más de 18 horas.",
+   "explicacion": "La Luna estaba más cerca y la Tierra giraba más rápido. Las [[mareas|Subida y bajada del mar causada sobre todo por la atracción de la Luna.]] frenan poco a poco el giro del planeta y, a cambio, empujan a la Luna hacia afuera: hoy se aleja 3.82 cm al año.\n\nStephen Meyers y Alberto Malinverno lo reconstruyeron leyendo ciclos en rocas antiguas. Es decir, el día que vivimos no es fijo: se sigue alargando, muy despacio.",
+   "fuente": {
+    "nombre": "EurekAlert (UW–Madison y Columbia): Days getting longer as Moon moves away (4 jun 2018)",
+    "url": "https://www.eurekalert.org/news-releases/772634"
+   },
+   "wiki": "Rotación de la Tierra",
+   "claves": [
+    {
+     "nombre": "Luna",
+     "quien": "El satélite cuyas mareas frenan la rotación de la Tierra.",
+     "wiki": "Luna"
+    },
+    {
+     "nombre": "Día",
+     "quien": "La unidad que cambia de duración a escala geológica.",
+     "wiki": "Día"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto duraba el día hace 1,400 millones de años y por qué se alarga?",
+    "respuesta": "Poco más de 18 horas; las mareas de la Luna frenan el giro de la Tierra."
+   }
+  },
+  {
+   "materia": "Gastronomía, vino y destilados",
+   "pilar": "gusto",
+   "epoca": "1884",
+   "titulo": "La primera máquina de espresso no servía tazas",
+   "dato": "Angelo Moriondo patentó en Turín, en 1884, una máquina de café a vapor y la mostró funcionando en la Exposición General. Pero preparaba café en cantidad, no taza por taza.",
+   "explicacion": "La patente es del 16 de mayo de 1884. La idea de una taza al momento llegó después: Luigi Bezzera registró sus mejoras en 1901 y Desiderio Pavoni compró la patente y fundó La Pavoni en Milán en 1905.\n\nPor eso el *espresso* es, literalmente, café «hecho expresamente» para ti: la clave no fue la presión, sino servir al instante.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A_cup_of_espresso.jpg?width=900",
+    "alt": "Taza pequeña de café espresso con crema",
+    "pie": "Un espresso",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: Cafetera expreso",
+    "url": "https://es.wikipedia.org/wiki/Cafetera_expreso"
+   },
+   "wiki": "Café expreso",
+   "claves": [
+    {
+     "nombre": "Cafetera expreso",
+     "quien": "La máquina que hace pasar agua caliente a presión por el café molido.",
+     "wiki": "Cafetera expreso"
+    },
+    {
+     "nombre": "Turín",
+     "quien": "La ciudad italiana donde Moriondo presentó su máquina.",
+     "wiki": "Turín"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué diferenciaba la máquina de Moriondo (1884) de las de Bezzera y Pavoni?",
+    "respuesta": "Moriondo hacía café en cantidad; Bezzera y Pavoni lograron la taza individual al momento (1901–1905)."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "Ensayos",
+  "autor": "Michel de Montaigne",
+  "capitulo": {
+   "numero": 5,
+   "total": 6,
+   "titulo": "«Cada hombre lleva la forma entera de la condición humana»: del arrepentimiento"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/St_Michel_de_Montaigne_Tour01.jpg?width=900",
+   "alt": "Torre redonda de piedra con techo cónico",
+   "pie": "La torre del castillo de Montaigne, donde estaba su biblioteca",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "¿De qué te arrepientes? Piensa en algo concreto. Ahora otra pregunta, más incómoda: ¿te arrepientes de verdad, o solo te molesta cómo salió?\n\nMontaigne se hizo esa pregunta cuando tenía unos 55 años. La respuesta que dio es una de las más honestas que se han escrito, y también una de las más polémicas."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El hombre que regresó de la política"
+   },
+   {
+    "tipo": "texto",
+    "texto": "En 1571, con 38 años, Montaigne se retiró a la torre de su castillo, cerca de Burdeos, para leer y escribir. En 1580 publicó los dos primeros libros de los *Ensayos*. No se quedó encerrado: viajó por Italia y, estando allá, supo que lo habían elegido alcalde de Burdeos. Gobernó la ciudad dos periodos, de 1581 a 1585, en plena guerra de religión.\n\nEn junio de 1588 salió una nueva edición con un tercer libro de 13 capítulos. Ahí está «Del arrepentimiento». Lo escribe un hombre que ya conoció el poder, la peste y la guerra, y que regresó a su torre con menos ilusiones y más criterio."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Otros forman al hombre; yo lo cuento, y represento a uno en particular, bastante mal hecho.",
+    "fuente": "Ensayos, III, 2, «Del arrepentimiento» (traducción de Charles Cotton)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Fíjate en la jugada. Los moralistas de su época escribían cómo *debe* ser el hombre. Montaigne dice que él no hace eso: describe a uno real, a él mismo, con sus defectos. Si pudiera rehacerse, dice, se haría distinto. Pero ya está hecho.\n\nEsa diferencia entre *formar* y *contar* es el centro del ensayo. Antes de hablar de arrepentimiento, Montaigne necesita aclarar qué es exactamente lo que está mirando."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Pintar el paso, no el ser"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Para Montaigne, todo cambia: el mundo, las montañas, las pirámides y, sobre todo, él mismo. Hasta lo que llamamos constancia, dice, no es más que un movimiento más lento y lánguido.\n\nEntonces, ¿cómo describir a alguien que cambia todo el tiempo? Su solución es una de sus frases más famosas."
+   },
+   {
+    "tipo": "cita",
+    "texto": "No pinto el ser; pinto el paso.",
+    "fuente": "Ensayos, III, 2, «Del arrepentimiento» (traducción de Charles Cotton)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "No retrata a un Montaigne fijo, sino al de cada momento. Si se contradice, no es descuido: es que el de ayer y el de hoy no son el mismo. Por eso escribe *ensayos*, que en francés quiere decir «intentos», «pruebas». No pretende entregar un retrato terminado, sino una serie de bocetos.\n\nY aquí viene el salto. Alguien podría objetar: ¿a quién le importa la vida de un señor de provincia? Montaigne responde con la frase que da título a este capítulo."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Cada hombre lleva la forma entera de la condición humana.",
+    "fuente": "Ensayos, III, 2, «Del arrepentimiento» (traducción de Charles Cotton)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "No hace falta ser un rey o un héroe para que la vida valga la pena de examinarse. La moral se aplica igual a una vida común y privada que a una vida ilustre. Al estudiarse a sí mismo, Montaigne estudia a todos. Por eso un lector del siglo XXI se reconoce en un noble del siglo XVI."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Por qué Montaigne cree que vale la pena estudiar su propia vida, aunque sea la de un hombre común?",
+    "opciones": [
+     "Porque se consideraba más sabio que los filósofos de su época",
+     "Porque cada persona contiene la forma entera de la condición humana",
+     "Porque su familia le pidió que escribiera sus memorias"
+    ],
+    "correcta": 1,
+    "explicacion": "Para Montaigne, cualquier vida, por sencilla que sea, sirve para entender a todos. Por eso se toma a sí mismo como tema."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La prueba de la casa"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Antes de hablar de culpa, Montaigne propone una prueba de carácter que sigue funcionando. Cualquiera, dice, puede hacer bien su papel en público y parecer un hombre honrado en el escenario. Lo difícil es otra cosa."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Es una vida bien ajustada la que se mantiene en orden en privado.",
+    "fuente": "Ensayos, III, 2, «Del arrepentimiento» (traducción de Charles Cotton)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "En casa no hay público, ni aplausos, ni nadie a quien impresionar. Por eso, observa, pocos hombres han sido admirados por su propia servidumbre. La verdadera medida de alguien es cómo trata a los suyos cuando nadie lo ve.\n\nMontaigne, que acababa de dejar la alcaldía, sabía de qué hablaba. Gobernar una ciudad es visible. Gobernar el propio carácter en lo cotidiano, sin testigos, es más raro. Lo dice alguien que conoció las dos cosas."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "El ensayo que corrigió hasta su muerte",
+    "texto": "Montaigne nunca dio por terminados los *Ensayos*. Sobre un ejemplar de la edición de 1588 siguió escribiendo correcciones y añadidos a mano hasta su muerte, en 1592. Ese libro anotado se conserva y se conoce como el «Ejemplar de Burdeos». Es la prueba física de su idea: pintar el paso, no el ser."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "¿Qué es arrepentirse de verdad?"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Ahora sí, el tema. Para Montaigne, el arrepentimiento es retractar la voluntad: oponerse a lo que nuestros impulsos nos llevaron a hacer. Funciona bien con los errores sueltos, los que cometemos de golpe, por sorpresa o por un arrebato.\n\nPero los vicios de hábito son otra cosa. Cuando una falta está arraigada en una voluntad firme, dice, no hay contradicción interna: la persona no se opone a sí misma. Por eso desconfía de los arrepentimientos de fórmula. Él no conoce, escribe, ningún arrepentimiento superficial, a medias y ceremonioso: o toca la raíz, o no es arrepentimiento.\n\nHay además una distinción fina. Una decisión pudo ser buena aunque salió mal. Si decidiste con lo que sabías y con buen juicio, el mal resultado es fortuna, no culpa. Montaigne se niega a arrepentirse de lo que no dependía de él."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según Montaigne, ¿de qué no tiene sentido arrepentirse?",
+    "opciones": [
+     "De nada: el arrepentimiento siempre es inútil",
+     "De los errores que cometemos por un arrebato",
+     "De una decisión bien pensada cuyo mal resultado dependió de la fortuna"
+    ],
+    "correcta": 2,
+    "explicacion": "Montaigne separa la calidad de una decisión de su resultado. Si decidiste bien con lo que sabías, el mal resultado no es culpa tuya."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La virtud de la vejez, sospechosa"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El final del ensayo es el más audaz. Con los años, muchos hombres se vuelven moderados: ya no beben, ya no persiguen placeres, ya no se enojan. Y lo llaman virtud. Montaigne no se lo cree."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Aborrezco ese arrepentimiento accidental que trae consigo la vejez.",
+    "fuente": "Ensayos, III, 2, «Del arrepentimiento» (traducción de Charles Cotton)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Si dejaste un vicio porque el cuerpo ya no da, eso no es arrepentimiento: es debilidad. El juicio no mejoró; solo se apagó el deseo. Montaigne prefiere ser honesto: no va a convertir en mérito lo que el tiempo le quitó.\n\nNo es cinismo. Es una exigencia muy alta. Para él, el cambio verdadero ocurre cuando todavía podrías elegir lo contrario, y eliges bien."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Una idea de 1588 que hoy se enseña en las escuelas de negocios"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La distinción entre decisión y resultado parece obvia, pero casi nadie la aplica. Cuando un proyecto sale bien, decimos que la decisión fue brillante. Cuando sale mal, que fue un error. Los estudiosos de la decisión llaman a esa trampa juzgar por el resultado, y es uno de los sesgos más caros que existen.\n\nImagina que lanzas un producto después de estudiar el mercado, probar con clientes y calcular márgenes con cuidado. Tres meses después, un arancel nuevo dispara tus costos y el lanzamiento fracasa. ¿Te arrepientes? Montaigne diría que revises el proceso, no el desenlace. Si con la información que tenías decidiste bien, la próxima vez debes decidir igual. Si te castigas por la mala suerte, aprenderás la lección equivocada.\n\nY al revés: si un negocio salió bien por pura fortuna, no hay nada que celebrar en tu juicio. Montaigne, que vio caer y subir a tantos poderosos en las guerras de religión, sabía que la fortuna reparte sin pedir permiso. Lo único que depende de nosotros es la calidad con la que pensamos antes de actuar."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Hay una última lección escondida en el tono del ensayo. Montaigne no se flagela ni se absuelve. Se observa con la misma curiosidad con la que observaría a un desconocido. Esa distancia amable es, quizá, lo más útil que se puede aprender de él: mirarse sin drama, corregir lo que depende de uno y dejar en paz lo demás."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Lo que queda"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Este ensayo deja tres herramientas. La primera: mírate como eres, no como deberías ser; solo así puedes cambiar algo. La segunda: mide tu carácter en casa, donde nadie aplaude. La tercera: separa la decisión del resultado. Arrepiéntete de las malas decisiones, no de la mala suerte.\n\nEn el próximo y último capítulo, Montaigne cierra los *Ensayos* con «De la experiencia»: qué aprendió, después de toda una vida observándose, sobre cómo vivir bien."
+   }
+  ],
+  "paraLlevar": [
+   "Antes de querer cambiar, mírate como eres, no como deberías ser.",
+   "La medida real del carácter es cómo vives en privado, donde nadie aplaude.",
+   "Arrepiéntete de las malas decisiones, no de los malos resultados que dependieron de la suerte."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Qué quiere decir Montaigne con «no pinto el ser; pinto el paso»?",
+    "respuesta": "Que no describe a un Montaigne fijo, sino al de cada momento, porque todo, incluido él, está cambiando."
+   },
+   {
+    "pregunta": "¿Por qué Montaigne desconfía del «arrepentimiento» que llega con la vejez?",
+    "respuesta": "Porque dejar un vicio cuando el cuerpo ya no puede no es mejorar el juicio, sino debilidad; no es un cambio elegido."
+   }
+  ],
+  "proximo": "Ensayos (Montaigne) · Capítulo 6: «De la experiencia»: vivir bien es nuestra obra maestra",
+  "fuentes": [
+   {
+    "nombre": "Proyecto Gutenberg: Essays of Michel de Montaigne, vol. 14 (trad. Charles Cotton), «Of Repentance»",
+    "url": "https://www.gutenberg.org/cache/epub/3594/pg3594.html"
+   },
+   {
+    "nombre": "Encyclopaedia Britannica: Michel de Montaigne",
+    "url": "https://www.britannica.com/biography/Michel-de-Montaigne"
+   },
+   {
+    "nombre": "Wikipedia: Castillo de Montaigne",
+    "url": "https://es.wikipedia.org/wiki/Castillo_de_Montaigne"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de Charles Cotton (1685, dominio público), edición de W. C. Hazlitt en el Proyecto Gutenberg. En las ediciones modernas, «Del arrepentimiento» es el capítulo 2 del libro III."
+ },
+ "palabra": {
+  "palabra": "Prestancia",
+  "categoria": "Sustantivo femenino",
+  "pronunciacion": "pres-TAN-cia",
+  "definicion": "Excelencia o calidad superior entre los de su clase. También, aspecto de distinción, porte elegante.",
+  "origen": "Del latín *praestantia*, «superioridad», de *praestare*, «sobresalir», «estar delante».",
+  "ejemplo": "Una botella puede dar prestancia a un vino, pero la cata a ciegas dice si la merece.",
+  "repaso": {
+   "pregunta": "¿Qué significa «prestancia»?",
+   "respuesta": "Excelencia o calidad superior entre los de su clase; también, aspecto de distinción."
+  }
+ },
+ "frances": {
+  "frase": "Des goûts et des couleurs, on ne discute pas.",
+  "traduccion": "De gustos y colores no se discute.",
+  "pronunciacion": "de GU e de cu-LER, on ne dis-KIUT pa",
+  "uso": "Cultura del gusto. Se dice para cerrar con elegancia una discusión sobre preferencias: un vino, una película, un traje. Reconoce que el gusto es personal sin pelear.",
+  "variante": "Más breve y coloquial: « Chacun ses goûts. » («Cada quien sus gustos.»)",
+  "repaso": {
+   "pregunta": "¿Cómo dices en francés «de gustos y colores no se discute»?",
+   "respuesta": "« Des goûts et des couleurs, on ne discute pas. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "En el experimento de Caltech (2008), ¿qué NO cambió cuando el mismo vino se presentó con un precio más alto?",
+   "opciones": [
+    "La intensidad del sabor que reportaron",
+    "Cuánto dijeron que les gustaba",
+    "La actividad de la corteza orbitofrontal medial"
+   ],
+   "correcta": 0,
+   "explicacion": "Les gustó más y su cerebro registró más placer, pero la intensidad del sabor que percibían fue la misma."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Cómo terminó el Brent el jueves 12 de noviembre?",
+   "opciones": [
+    "Bajó 1.1%, a 91.72 dólares",
+    "Sin cambios, por la falta de noticias",
+    "Subió 3.3%, a 95.82 dólares"
+   ],
+   "correcta": 2,
+   "explicacion": "En la mañana bajaba por esperanzas de paz, pero cerró al alza: 95.82 dólares, +3.30%."
+  },
+  {
+   "origen": "materias",
+   "pregunta": "En Kindle Direct Publishing (tienda de EE. UU.), ¿qué regalía recibe un ebook con precio de 12.99 dólares?",
+   "opciones": [
+    "70%",
+    "35%",
+    "50%"
+   ],
+   "correcta": 1,
+   "explicacion": "El 70% exige un precio entre 2.99 y 9.99 dólares; fuera de ese rango, la regalía es 35%."
+  }
+ ],
+ "libro": null,
+ "proximo": "c. 240 a. C.: Eratóstenes mide la Tierra con una sombra"
+}

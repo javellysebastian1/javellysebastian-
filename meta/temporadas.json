@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12",
+ "actualizado": "2026-11-13",
  "lista": [
   {
    "episodios": [
@@ -115,22 +115,42 @@
      "titulo": "El tequila y su denominación de origen: cómo una bebida se vuelve un lugar"
     },
     {
-     "titulo": "1825: Brillat-Savarin y la invención del gourmet",
-     "fecha": "2026-11-12"
+     "fecha": "2026-11-12",
+     "titulo": "1825: Brillat-Savarin y la invención del gourmet"
     },
     {
-     "titulo": "Síntesis: qué hace que algo sepa a lujo"
+     "titulo": "Síntesis: qué hace que algo sepa a lujo",
+     "fecha": "2026-11-13"
     }
    ],
-   "estado": "en_curso",
+   "estado": "terminada",
    "id": "t04",
    "numero": 4,
    "para": "Vino, cocina y los oficios detrás del buen gusto.",
    "titulo": "El arte de la mesa"
   },
   {
-   "episodios": [],
-   "estado": "pendiente",
+   "episodios": [
+    {
+     "titulo": "c. 240 a. C.: Eratóstenes mide la Tierra con una sombra"
+    },
+    {
+     "titulo": "1610: Galileo apunta su telescopio a Júpiter"
+    },
+    {
+     "titulo": "1919: un eclipse le da la razón a Einstein"
+    },
+    {
+     "titulo": "1929: Hubble descubre que el universo se expande"
+    },
+    {
+     "titulo": "2022: el James Webb y la luz más antigua"
+    },
+    {
+     "titulo": "Síntesis: cómo sabemos lo que sabemos del cielo"
+    }
+   ],
+   "estado": "en_curso",
    "id": "t05",
    "numero": 5,
    "para": "Cómo aprendimos dónde estamos en el universo.",

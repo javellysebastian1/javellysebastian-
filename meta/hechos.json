@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12",
+ "actualizado": "2026-11-13",
  "materias": {
   "Arquitectura y diseño": [
    {
@@ -108,36 +108,6 @@
     },
     "titulo": "Las guerras salvaron la Torre de Pisa",
     "wiki": "Torre de Pisa"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Filippo Brunelleschi",
-      "quien": "Arquitecto y orfebre florentino, pionero del Renacimiento",
-      "wiki": "Filippo Brunelleschi"
-     },
-     {
-      "nombre": "Cimbra",
-      "quien": "Armazón provisional que sostiene un arco o bóveda en construcción",
-      "wiki": "Cimbra"
-     }
-    ],
-    "dato": "Brunelleschi construyó la cúpula de la catedral de Florencia, la mayor de ladrillo del mundo, sin la cimbra de madera que se usaba para sostener una bóveda mientras se levantaba.",
-    "epoca": "1420–1436",
-    "explicacion": "El hueco medía unos 43 metros y no había bosques suficientes para una cimbra de ese tamaño. Brunelleschi hizo dos cúpulas, una dentro de otra, y colocó los ladrillos en espina de pescado para que cada hilada se sostuviera sola mientras el mortero endurecía. También inventó grúas y montacargas para subir los materiales.\n\nMás de 600 años después, sigue siendo el punto más alto de Florencia. Es un ejemplo perfecto de cómo una restricción imposible obliga a inventar un método nuevo.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Catedral de Santa María del Fiore",
-     "url": "https://es.wikipedia.org/wiki/Catedral_de_Santa_Mar%C3%ADa_del_Fiore"
-    },
-    "materia": "Arquitectura y diseño",
-    "pilar": "cultura",
-    "repaso": {
-     "pregunta": "¿Qué técnica usó Brunelleschi para que los ladrillos se sostuvieran sin cimbra?",
-     "respuesta": "Colocarlos en espina de pescado, dentro de una doble cúpula."
-    },
-    "titulo": "Una cúpula sin andamio de soporte",
-    "wiki": "Catedral de Santa María del Fiore"
    }
   ],
   "Arte y pintura": [
@@ -253,62 +223,10 @@
     },
     "titulo": "El primer desnudo en bronce en mil años",
     "wiki": "David (Donatello)"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Leonardo da Vinci",
-      "quien": "Pintor, ingeniero e inventor del Renacimiento; pintó la Gioconda entre 1503 y 1519.",
-      "wiki": "Leonardo da Vinci"
-     },
-     {
-      "nombre": "Museo del Louvre",
-      "quien": "Museo de París que guarda la Gioconda desde la Revolución francesa; de ahí la robaron en 1911.",
-      "wiki": "Museo del Louvre"
-     },
-     {
-      "nombre": "Robo de arte",
-      "quien": "Los grandes robos de obras, del caso Peruggia a los de hoy, y por qué casi nunca se pueden vender.",
-      "wiki": "Robo de arte"
-     }
-    ],
-    "dato": "En agosto de 1911, un exempleado del Louvre, Vincenzo Peruggia, descolgó la Mona Lisa, la escondió bajo la ropa y salió caminando. Estuvo perdida más de dos años, y eso la volvió el cuadro más famoso del mundo.",
-    "epoca": "1911",
-    "explicacion": "Antes del robo era una obra admirada por conocedores, no un ícono popular. Los periódicos de todo el mundo publicaron su rostro durante meses; la gente hacía fila para ver el hueco en la pared. En noviembre de 1913, Peruggia intentó venderla a un marchante de Florencia y fue capturado. El cuadro estaba intacto.\n\nPeruggia dijo que la devolvía a Italia por patriotismo y cumplió siete meses de cárcel. La lección para una marca: la fama no solo depende de la calidad, también de la historia que la gente se cuenta sobre algo.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "History.com: se descubre el robo de la Mona Lisa",
-     "url": "https://www.history.com/this-day-in-history/August-22/theft-of-mona-lisa-is-discovered"
-    },
-    "imagen": {
-     "alt": "La Mona Lisa de Leonardo da Vinci",
-     "credito": "Wikimedia Commons",
-     "pie": "La Gioconda, Leonardo da Vinci. Museo del Louvre",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg?width=900"
-    },
-    "materia": "Arte y pintura",
-    "pilar": "cultura",
-    "repaso": {
-     "pregunta": "¿Qué hizo de la Mona Lisa un ícono mundial?",
-     "respuesta": "Su robo en 1911 por Vincenzo Peruggia: pasó más de dos años perdida y su rostro llenó los periódicos."
-    },
-    "titulo": "El robo que hizo famosa a la Mona Lisa",
-    "wiki": "La Gioconda"
    }
   ],
   "Ciencia y tecnología": [
    {
-    "materia": "Ciencia y tecnología",
-    "pilar": "futuro",
-    "epoca": "1947",
-    "titulo": "El primer microondas pesaba como un piano",
-    "dato": "El primer horno de microondas comercial, el Radarange de 1947, medía casi 1.8 metros y pesaba unos 340 kilos.",
-    "explicacion": "El ingeniero Percy Spencer, de Raytheon, trabajaba con magnetrones para radares. Notó que una barra de chocolate se derretía en su bolsillo y probó con palomitas. Raytheon patentó la idea en 1945.\n\nEl Radarange costaba miles de dólares y lo compraban restaurantes, barcos y trenes. El modelo doméstico de mesa no llegó hasta 1967, y tardó décadas más en volverse común en las casas.",
-    "fuente": {
-     "nombre": "Smithsonian Magazine: Hot Food, Fast: The Home Microwave Oven",
-     "url": "https://www.smithsonianmag.com/innovation/hot-food-fast-home-microwave-oven-turns-50-180962545/"
-    },
-    "wiki": "Horno de microondas",
     "claves": [
      {
       "nombre": "Percy Spencer",
@@ -321,11 +239,22 @@
       "wiki": "Magnetrón"
      }
     ],
+    "dato": "El primer horno de microondas comercial, el Radarange de 1947, medía casi 1.8 metros y pesaba unos 340 kilos.",
+    "epoca": "1947",
+    "explicacion": "El ingeniero Percy Spencer, de Raytheon, trabajaba con magnetrones para radares. Notó que una barra de chocolate se derretía en su bolsillo y probó con palomitas. Raytheon patentó la idea en 1945.\n\nEl Radarange costaba miles de dólares y lo compraban restaurantes, barcos y trenes. El modelo doméstico de mesa no llegó hasta 1967, y tardó décadas más en volverse común en las casas.",
+    "fecha": "2026-11-12",
+    "fuente": {
+     "nombre": "Smithsonian Magazine: Hot Food, Fast: The Home Microwave Oven",
+     "url": "https://www.smithsonianmag.com/innovation/hot-food-fast-home-microwave-oven-turns-50-180962545/"
+    },
+    "materia": "Ciencia y tecnología",
+    "pilar": "futuro",
     "repaso": {
      "pregunta": "¿Cómo descubrió Percy Spencer el horno de microondas?",
      "respuesta": "Una barra de chocolate se derritió en su bolsillo mientras trabajaba con un magnetrón de radar."
     },
-    "fecha": "2026-11-12"
+    "titulo": "El primer microondas pesaba como un piano",
+    "wiki": "Horno de microondas"
    },
    {
     "claves": [
@@ -602,17 +531,6 @@
   ],
   "Ciudades del mundo": [
    {
-    "materia": "Ciudades del mundo",
-    "pilar": "mundo",
-    "epoca": "Siglos I–III",
-    "titulo": "Roma tiene un cerro hecho de basura",
-    "dato": "El Monte Testaccio, en Roma, es una colina artificial de unos 35 metros formada por pedazos de ánforas rotas: se calcula que unos 50 millones.",
-    "explicacion": "Casi todas eran ánforas de aceite de oliva traídas de la Bética, el sur de Hispania. El barro poroso absorbía el aceite y se ponía rancio, así que no se podían reutilizar. Los romanos las rompían y las apilaban con orden, cubriéndolas de cal.\n\nHoy es un archivo económico: muchas piezas tienen sellos y fechas, y permiten reconstruir cuánto aceite comía Roma y quién lo vendía.",
-    "fuente": {
-     "nombre": "Turismo Roma: El Monte dei Cocci",
-     "url": "https://www.turismoroma.it/es/places/el-monte-dei-cocci"
-    },
-    "wiki": "Testaccio (rione de Roma)",
     "claves": [
      {
       "nombre": "Ánfora",
@@ -625,11 +543,22 @@
       "wiki": "Bética"
      }
     ],
+    "dato": "El Monte Testaccio, en Roma, es una colina artificial de unos 35 metros formada por pedazos de ánforas rotas: se calcula que unos 50 millones.",
+    "epoca": "Siglos I–III",
+    "explicacion": "Casi todas eran ánforas de aceite de oliva traídas de la Bética, el sur de Hispania. El barro poroso absorbía el aceite y se ponía rancio, así que no se podían reutilizar. Los romanos las rompían y las apilaban con orden, cubriéndolas de cal.\n\nHoy es un archivo económico: muchas piezas tienen sellos y fechas, y permiten reconstruir cuánto aceite comía Roma y quién lo vendía.",
+    "fecha": "2026-11-12",
+    "fuente": {
+     "nombre": "Turismo Roma: El Monte dei Cocci",
+     "url": "https://www.turismoroma.it/es/places/el-monte-dei-cocci"
+    },
+    "materia": "Ciudades del mundo",
+    "pilar": "mundo",
     "repaso": {
      "pregunta": "¿De qué está hecho el Monte Testaccio?",
      "respuesta": "De fragmentos de unos 50 millones de ánforas de aceite, sobre todo de Hispania."
     },
-    "fecha": "2026-11-12"
+    "titulo": "Roma tiene un cerro hecho de basura",
+    "wiki": "Testaccio (rione de Roma)"
    },
    {
     "claves": [
@@ -807,17 +736,6 @@
   ],
   "Deporte y aire libre": [
    {
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "epoca": "1912–1948",
-    "titulo": "Los Juegos Olímpicos daban medallas de poesía",
-    "dato": "Entre 1912 y 1948, los Juegos Olímpicos entregaron medallas en arquitectura, literatura, música, pintura y escultura.",
-    "explicacion": "Pierre de Coubertin, fundador de los Juegos modernos, quería unir cuerpo y mente, como en la Grecia antigua. En Estocolmo 1912 él mismo ganó el oro de literatura con una *Oda al deporte*, firmada con seudónimo.\n\nLas obras debían tratar sobre el deporte. Las competencias se eliminaron después de 1948, en gran parte porque los artistas eran profesionales y los Juegos todavía exigían ser aficionado.",
-    "fuente": {
-     "nombre": "Olympics.com: When Olympic medals were awarded for architecture, music and literature",
-     "url": "https://www.olympics.com/en/news/look-to-the-past-when-olympic-medals-were-awarded-for-architecture-music-and-lit"
-    },
-    "wiki": "Competiciones de arte en los Juegos Olímpicos",
     "claves": [
      {
       "nombre": "Pierre de Coubertin",
@@ -830,11 +748,22 @@
       "wiki": "Juegos Olímpicos de Estocolmo 1912"
      }
     ],
+    "dato": "Entre 1912 y 1948, los Juegos Olímpicos entregaron medallas en arquitectura, literatura, música, pintura y escultura.",
+    "epoca": "1912–1948",
+    "explicacion": "Pierre de Coubertin, fundador de los Juegos modernos, quería unir cuerpo y mente, como en la Grecia antigua. En Estocolmo 1912 él mismo ganó el oro de literatura con una *Oda al deporte*, firmada con seudónimo.\n\nLas obras debían tratar sobre el deporte. Las competencias se eliminaron después de 1948, en gran parte porque los artistas eran profesionales y los Juegos todavía exigían ser aficionado.",
+    "fecha": "2026-11-12",
+    "fuente": {
+     "nombre": "Olympics.com: When Olympic medals were awarded for architecture, music and literature",
+     "url": "https://www.olympics.com/en/news/look-to-the-past-when-olympic-medals-were-awarded-for-architecture-music-and-lit"
+    },
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
     "repaso": {
      "pregunta": "¿En qué años hubo medallas olímpicas de arte?",
      "respuesta": "De 1912 a 1948; Coubertin ganó el oro de literatura en 1912."
     },
-    "fecha": "2026-11-12"
+    "titulo": "Los Juegos Olímpicos daban medallas de poesía",
+    "wiki": "Competiciones de arte en los Juegos Olímpicos"
    },
    {
     "claves": [
@@ -1058,6 +987,41 @@
   ],
   "Derecho y poder": [
    {
+    "materia": "Derecho y poder",
+    "pilar": "mundo",
+    "epoca": "1841",
+    "titulo": "El amparo nació en Yucatán",
+    "dato": "El juicio de amparo, la gran defensa del ciudadano frente a la autoridad en México, apareció primero en la Constitución de Yucatán de 1841, cuando el estado se había apartado del gobierno central.",
+    "explicacion": "La redactó sobre todo Manuel Crescencio Rejón. Se sancionó el 31 de marzo de 1841 y entró en vigor el 16 de mayo. Yucatán se había distanciado de México por el [[centralismo|Régimen que concentraba el poder en el gobierno de la capital y quitaba autonomía a los estados.]].\n\nEn 1847, gracias al voto particular de Mariano Otero, el amparo pasó al nivel federal con el Acta de Reformas. De ahí llegó a la Constitución de 1857 y sigue vivo en la de 1917.",
+    "fuente": {
+     "nombre": "Poder Judicial del Estado de Yucatán: Mensaje sobre la Constitución de 1841",
+     "url": "https://www.poderjudicialyucatan.gob.mx/constitucionyucatan/pdf/MensajeMinistro.pdf"
+    },
+    "wiki": "Juicio de amparo",
+    "claves": [
+     {
+      "nombre": "Manuel Crescencio Rejón",
+      "quien": "Jurista yucateco (1799–1849), autor del proyecto que creó el amparo.",
+      "wiki": "Manuel Crescencio García Rejón"
+     },
+     {
+      "nombre": "Mariano Otero",
+      "quien": "Jurista jalisciense que llevó el amparo a la federación en 1847.",
+      "wiki": "Mariano Otero"
+     },
+     {
+      "nombre": "Constitución de Yucatán de 1841",
+      "quien": "El texto donde apareció el amparo por primera vez.",
+      "wiki": "Constitución de Yucatán de 1841"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Dónde y cuándo apareció por primera vez el juicio de amparo?",
+     "respuesta": "En la Constitución de Yucatán de 1841, redactada sobre todo por Manuel Crescencio Rejón."
+    },
+    "fecha": "2026-11-13"
+   },
+   {
     "claves": [
      {
       "nombre": "Juan sin Tierra",
@@ -1212,44 +1176,45 @@
     },
     "titulo": "El cerdo que fue ahorcado con ropa",
     "wiki": "Juicios a animales"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Ur-Nammu",
-      "quien": "Rey sumerio de Ur a quien se atribuye el código de leyes más antiguo que se conserva.",
-      "wiki": "Ur-Nammu"
-     },
-     {
-      "nombre": "Código de Hammurabi",
-      "quien": "El famoso código babilonio, unos tres siglos posterior, con la ley del talión.",
-      "wiki": "Código de Hammurabi"
-     },
-     {
-      "nombre": "Historia de Mesopotamia",
-      "quien": "La región entre el Tigris y el Éufrates donde nació la escritura y la ley escrita.",
-      "wiki": "Historia de Mesopotamia"
-     }
-    ],
-    "dato": "El código de leyes más antiguo que se conserva, el de Ur-Nammu, es unos tres siglos anterior al de Hammurabi. Y para muchas lesiones no pedía venganza: pedía plata. Cortarle el pie a alguien costaba 10 siclos.",
-    "epoca": "c. 2100 a. C.",
-    "explicacion": "Ur-Nammu gobernó la ciudad sumeria de Ur hacia 2112–2094 a. C. Su código tiene 57 leyes; sacar un ojo se pagaba con media mina de plata (30 siclos) y un diente, con dos siclos. El asesinato y el robo sí se castigaban con la muerte. La tablilla se halló en Irak en 1948 y Samuel Noah Kramer la tradujo en 1952.\n\nHammurabi, hacia 1772 a. C., aplicó para esas lesiones la justicia de represalia, el «ojo por ojo». Así que la historia del derecho no va en línea recta de lo cruel a lo civilizado: la compensación económica, muy parecida a la idea moderna de reparar el daño, ya existía antes.",
-    "fecha": "2026-10-24",
-    "fuente": {
-     "nombre": "World History Encyclopedia: Code of Ur-Nammu",
-     "url": "https://www.worldhistory.org/Code_of_Ur-Nammu/"
-    },
-    "materia": "Derecho y poder",
-    "pilar": "mundo",
-    "repaso": {
-     "pregunta": "¿En qué se diferenciaba el código de Ur-Nammu del de Hammurabi para las lesiones?",
-     "respuesta": "Ur-Nammu imponía multas en plata (10 siclos por un pie); Hammurabi, unos tres siglos después, aplicaba el «ojo por ojo»."
-    },
-    "titulo": "Antes del «ojo por ojo», una multa",
-    "wiki": "Código de Hammurabi"
    }
   ],
   "Disciplina y hábitos": [
+   {
+    "materia": "Disciplina y hábitos",
+    "pilar": "caracter",
+    "epoca": "Siglo XVIII",
+    "titulo": "Franklin nunca pudo con la virtud del orden",
+    "dato": "Benjamin Franklin se puso 13 virtudes y las vigilaba en una libreta, una por semana. Él mismo admitió que el orden fue la que más trabajo le costó y que se sentía «incorregible» en ella.",
+    "explicacion": "En su *Autobiografía* cuenta que trazó con tinta roja una tabla por virtud, con siete columnas para los días. Cada semana atendía una sola; así completaba el ciclo en 13 semanas y cuatro veces al año. Con el tiempo hizo menos ciclos.\n\nLo valioso no es que lo lograra, sino el método: atender una cosa a la vez y registrar las fallas sin engañarse. Hasta él reconoció que una de las 13 nunca la dominó.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BenFranklinDuplessis.jpg?width=900",
+     "alt": "Retrato de un hombre mayor de cabello largo y gris",
+     "pie": "Benjamin Franklin, retratado por Joseph-Siffred Duplessis (1778)",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Standard Ebooks: The Autobiography of Benjamin Franklin, capítulo 9",
+     "url": "https://standardebooks.org/ebooks/benjamin-franklin/the-autobiography-of-benjamin-franklin/text/chapter-9"
+    },
+    "wiki": "Benjamin Franklin",
+    "claves": [
+     {
+      "nombre": "Virtud",
+      "quien": "Disposición estable a obrar bien; Franklin hizo una lista de 13.",
+      "wiki": "Virtud"
+     },
+     {
+      "nombre": "Hábito",
+      "quien": "Lo que Franklin intentaba formar con su registro semanal.",
+      "wiki": "Hábito"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cómo trabajaba Franklin sus 13 virtudes y cuál le costó más?",
+     "respuesta": "Una por semana, con una tabla en una libreta; el orden fue la que más le costó."
+    },
+    "fecha": "2026-11-13"
+   },
    {
     "claves": [
      {
@@ -1405,43 +1370,39 @@
     },
     "titulo": "Seinfeld nunca inventó «no rompas la cadena»",
     "wiki": "Hábito (ciencias de la salud)"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Prosa victoriana",
-      "quien": "La literatura en prosa de la Inglaterra de Victoria, donde Trollope fue de los más leídos.",
-      "wiki": "Prosa victoriana"
-     },
-     {
-      "nombre": "Novela realista en inglés",
-      "quien": "La corriente de novelas sobre la vida cotidiana y social a la que pertenece Trollope.",
-      "wiki": "Novela realista en lengua inglesa"
-     }
-    ],
-    "dato": "Anthony Trollope escribió decenas de novelas mientras trabajaba de tiempo completo en el Correo británico. Su método: a las 5:30 de la mañana en su mesa, con el reloj enfrente, exigiéndose 250 palabras cada quince minutos.",
-    "epoca": "Siglo XIX",
-    "explicacion": "Lo cuenta en su *Autobiografía*. Le pagaba a un viejo mozo 5 libras al año extra para que lo despertara con café, y dice que nunca llegó tarde. Escribía unas tres horas antes de ir a la oficina y así producía más de diez páginas de novela al día.\n\nLa idea detrás no es la inspiración, es la medida. Un objetivo pequeño y medible por cuarto de hora vuelve una tarea enorme en algo que se puede empezar ya. Trollope fue criticado después por hablar de su oficio como un artesano; él lo veía como la razón de su obra.",
-    "fecha": "2026-10-24",
-    "fuente": {
-     "nombre": "An Autobiography, de Anthony Trollope (Proyecto Gutenberg)",
-     "url": "https://gutenberg.org/ebooks/5978"
-    },
-    "materia": "Disciplina y hábitos",
-    "pilar": "caracter",
-    "profundizar": {
-     "titulo": "Trollope: An Autobiography (texto completo, inglés)",
-     "url": "https://gutenberg.org/files/5978/5978-h/5978-h.htm"
-    },
-    "repaso": {
-     "pregunta": "¿Cuál era la regla de escritura de Anthony Trollope?",
-     "respuesta": "Empezar a las 5:30 con el reloj enfrente y escribir 250 palabras cada cuarto de hora, unas tres horas al día."
-    },
-    "titulo": "250 palabras cada cuarto de hora",
-    "wiki": "Prosa victoriana"
    }
   ],
   "Economía y mercados": [
+   {
+    "materia": "Economía y mercados",
+    "pilar": "patrimonio",
+    "epoca": "1945",
+    "titulo": "En un campo de prisioneros, el cigarro se volvió dinero",
+    "dato": "En un campo de prisioneros de la Segunda Guerra Mundial, los cigarros se convirtieron en moneda: con ellos se pagaba lavar ropa o un retrato. Lo contó el economista R. A. Radford en 1945.",
+    "explicacion": "Los cigarros llegaban en raciones y paquetes de la Cruz Roja, eran fáciles de contar y todos los aceptaban. Cuando llegaban muchos, los precios subían; cuando escaseaban, bajaban. Hubo incluso un intento fallido de papel moneda.\n\nRadford mostró que un mercado con precios y moneda surge solo, incluso sin bancos ni Estado. Después trabajó 33 años en el Fondo Monetario Internacional.",
+    "fuente": {
+     "nombre": "R. A. Radford, «The Economic Organisation of a P.O.W. Camp», Economica (1945)",
+     "url": "https://gwern.net/doc/economics/1945-radford.pdf"
+    },
+    "wiki": "Dinero mercancía",
+    "claves": [
+     {
+      "nombre": "Prisionero de guerra",
+      "quien": "La condición de Radford, capturado en Libia en 1942.",
+      "wiki": "Prisionero de guerra"
+     },
+     {
+      "nombre": "Fondo Monetario Internacional",
+      "quien": "Donde Radford trabajó de 1947 a 1980.",
+      "wiki": "Fondo Monetario Internacional"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué funcionó como dinero en el campo que describió Radford y qué pasaba cuando llegaban muchos?",
+     "respuesta": "Los cigarros; cuando llegaban muchos, los precios subían."
+    },
+    "fecha": "2026-11-13"
+   },
    {
     "claves": [
      {
@@ -1587,6 +1548,36 @@
    }
   ],
   "El cosmos": [
+   {
+    "materia": "El cosmos",
+    "pilar": "futuro",
+    "epoca": "Hace 1,400 millones de años",
+    "titulo": "Hace 1,400 millones de años el día duraba 18 horas",
+    "dato": "Un estudio de 2018 calculó que hace 1,400 millones de años un día en la Tierra duraba poco más de 18 horas.",
+    "explicacion": "La Luna estaba más cerca y la Tierra giraba más rápido. Las [[mareas|Subida y bajada del mar causada sobre todo por la atracción de la Luna.]] frenan poco a poco el giro del planeta y, a cambio, empujan a la Luna hacia afuera: hoy se aleja 3.82 cm al año.\n\nStephen Meyers y Alberto Malinverno lo reconstruyeron leyendo ciclos en rocas antiguas. Es decir, el día que vivimos no es fijo: se sigue alargando, muy despacio.",
+    "fuente": {
+     "nombre": "EurekAlert (UW–Madison y Columbia): Days getting longer as Moon moves away (4 jun 2018)",
+     "url": "https://www.eurekalert.org/news-releases/772634"
+    },
+    "wiki": "Rotación de la Tierra",
+    "claves": [
+     {
+      "nombre": "Luna",
+      "quien": "El satélite cuyas mareas frenan la rotación de la Tierra.",
+      "wiki": "Luna"
+     },
+     {
+      "nombre": "Día",
+      "quien": "La unidad que cambia de duración a escala geológica.",
+      "wiki": "Día"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuánto duraba el día hace 1,400 millones de años y por qué se alarga?",
+     "respuesta": "Poco más de 18 horas; las mareas de la Luna frenan el giro de la Tierra."
+    },
+    "fecha": "2026-11-13"
+   },
    {
     "claves": [
      {
@@ -1748,51 +1739,10 @@
     },
     "titulo": "El cometa Halley ya viene de regreso",
     "wiki": "Cometa Halley"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Atmósfera de Venus",
-      "quien": "Una capa espesa de dióxido de carbono que hace de Venus el planeta más caliente.",
-      "wiki": "Atmósfera de Venus"
-     },
-     {
-      "nombre": "Movimientos retrógrado y prógrado",
-      "quien": "Por qué Venus gira al revés que la Tierra.",
-      "wiki": "Movimientos retrógrado y prógrado"
-     }
-    ],
-    "dato": "Venus tarda unos 243 días terrestres en dar una vuelta sobre su eje, pero solo unos 225 en dar la vuelta al Sol. Y gira al revés que casi todos los planetas.",
-    "epoca": "Hoy",
-    "explicacion": "Las nubes de Venus impiden ver su superficie, así que su rotación se midió con radar, rebotando señales desde la Tierra. Un estudio con datos de 1988 a 2017, con radiotelescopios como Arecibo y Green Bank, la calculó en 243 días y unos 30 minutos. Y ni siquiera es fija: la medición cambia unos minutos entre una observación y otra, quizá porque su atmósfera densa la frena y la empuja.\n\nGira en sentido [[retrógrado|Que rota en sentido contrario a su órbita: visto desde Venus, el Sol saldría por el oeste.]]: allí el Sol saldría por el oeste. Saber exactamente cuánto dura su día no es una curiosidad: sin ese dato, una sonda no puede planear dónde aterrizar.",
-    "fecha": "2026-10-24",
-    "fuente": {
-     "nombre": "Astronomy: The length of a day on Venus keeps changing",
-     "url": "https://www.astronomy.com/science/the-length-of-a-day-on-venus-keeps-changing/"
-    },
-    "materia": "El cosmos",
-    "pilar": "futuro",
-    "repaso": {
-     "pregunta": "¿Qué dura más en Venus, el día o el año?",
-     "respuesta": "El día: unos 243 días terrestres en girar sobre su eje, contra unos 225 en dar la vuelta al Sol."
-    },
-    "titulo": "En Venus, el día dura más que el año",
-    "wiki": "Venus (planeta)"
    }
   ],
   "Etiqueta y protocolo": [
    {
-    "materia": "Etiqueta y protocolo",
-    "pilar": "gusto",
-    "epoca": "c. 1004",
-    "titulo": "El tenedor llegó a Venecia como un escándalo",
-    "dato": "Hacia el año 1004, una princesa bizantina casada con el hijo del dux de Venecia comía con un tenedor de oro. Un santo lo llamó vanidad.",
-    "explicacion": "En Constantinopla el tenedor ya era común en la mesa de la corte. En Italia se comía con cuchillo y con los dedos. San Pedro Damián criticó el lujo de la princesa, y cuando ella murió de una peste lo presentó como castigo divino. Las fuentes discuten su nombre exacto.\n\nEl tenedor tardó siglos en extenderse: Italia lo adoptó primero, y en Inglaterra se seguía viendo como afectado en el siglo XVII.",
-    "fuente": {
-     "nombre": "Smithsonian Magazine: A History of Western Eating Utensils",
-     "url": "https://www.smithsonianmag.com/arts-culture/a-history-of-western-eating-utensils-from-the-scandalous-fork-to-the-incredible-spork-64593179/"
-    },
-    "wiki": "Tenedor",
     "claves": [
      {
       "nombre": "Pedro Damián",
@@ -1805,11 +1755,22 @@
       "wiki": "Imperio bizantino"
      }
     ],
+    "dato": "Hacia el año 1004, una princesa bizantina casada con el hijo del dux de Venecia comía con un tenedor de oro. Un santo lo llamó vanidad.",
+    "epoca": "c. 1004",
+    "explicacion": "En Constantinopla el tenedor ya era común en la mesa de la corte. En Italia se comía con cuchillo y con los dedos. San Pedro Damián criticó el lujo de la princesa, y cuando ella murió de una peste lo presentó como castigo divino. Las fuentes discuten su nombre exacto.\n\nEl tenedor tardó siglos en extenderse: Italia lo adoptó primero, y en Inglaterra se seguía viendo como afectado en el siglo XVII.",
+    "fecha": "2026-11-12",
+    "fuente": {
+     "nombre": "Smithsonian Magazine: A History of Western Eating Utensils",
+     "url": "https://www.smithsonianmag.com/arts-culture/a-history-of-western-eating-utensils-from-the-scandalous-fork-to-the-incredible-spork-64593179/"
+    },
+    "materia": "Etiqueta y protocolo",
+    "pilar": "gusto",
     "repaso": {
      "pregunta": "¿Por qué escandalizó el tenedor en Venecia hacia el año 1004?",
      "respuesta": "Porque una princesa bizantina lo usaba en vez de los dedos, y el clero lo vio como lujo y vanidad."
     },
-    "fecha": "2026-11-12"
+    "titulo": "El tenedor llegó a Venecia como un escándalo",
+    "wiki": "Tenedor"
    },
    {
     "claves": [
@@ -2158,45 +2119,45 @@
     },
     "titulo": "El filósofo que se llamaba «comprado»",
     "wiki": "Epicteto"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Revuelta de Boudica",
-      "quien": "La rebelión de los britanos contra Roma en 60–61 d. C.",
-      "wiki": "Revuelta de Boudica"
-     },
-     {
-      "nombre": "Nerón",
-      "quien": "El emperador al que Séneca sirvió como tutor y consejero.",
-      "wiki": "Nerón"
-     }
-    ],
-    "dato": "Séneca escribió que el sabio no debe depender de la riqueza, y fue uno de los hombres más ricos de Roma. Según el historiador Dion Casio, había prestado 40 millones de sestercios a los britanos y luego exigió el pago de golpe.",
-    "epoca": "c. 60 d. C.",
-    "explicacion": "Dion Casio cuenta ese préstamo entre las causas de la rebelión de la reina Boudica, en el año 60 o 61. Conviene leerlo con cuidado: escribió más de un siglo después y no simpatizaba con Séneca. Los historiadores discuten cuánto pesó la deuda frente a los abusos de los oficiales romanos.\n\nLa contradicción ya se la echaban en cara en vida. Séneca respondió en *De la vida feliz*: en el sabio, las riquezas sirven; en el necio, mandan. Mañana empezamos sus *Cartas a Lucilio*, y vale la pena leerlas sabiendo quién las escribía.",
-    "fecha": "2026-10-25",
-    "fuente": {
-     "nombre": "Universidad de Warwick: Dion Casio sobre Boudica (Historia romana, LXII, 2)",
-     "url": "https://warwick.ac.uk/fac/arts/classics/warwickclassicsnetwork/romancoventry/resources/boudica/sources/cassiusdio"
-    },
-    "imagen": {
-     "alt": "Herma doble con los rostros de Sócrates y Séneca",
-     "credito": "Wikimedia Commons",
-     "pie": "Herma doble de Sócrates y Séneca, Antikensammlung de Berlín",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_02.jpg?width=900"
-    },
-    "materia": "Filosofía para vivir",
-    "pilar": "mente",
-    "repaso": {
-     "pregunta": "¿Qué cuenta Dion Casio sobre Séneca y los britanos?",
-     "respuesta": "Que les prestó 40 millones de sestercios y luego exigió el pago de golpe, una de las causas que él da para la rebelión de Boudica."
-    },
-    "titulo": "El estoico que prestaba a interés",
-    "wiki": "Séneca"
    }
   ],
   "Gastronomía, vino y destilados": [
+   {
+    "materia": "Gastronomía, vino y destilados",
+    "pilar": "gusto",
+    "epoca": "1884",
+    "titulo": "La primera máquina de espresso no servía tazas",
+    "dato": "Angelo Moriondo patentó en Turín, en 1884, una máquina de café a vapor y la mostró funcionando en la Exposición General. Pero preparaba café en cantidad, no taza por taza.",
+    "explicacion": "La patente es del 16 de mayo de 1884. La idea de una taza al momento llegó después: Luigi Bezzera registró sus mejoras en 1901 y Desiderio Pavoni compró la patente y fundó La Pavoni en Milán en 1905.\n\nPor eso el *espresso* es, literalmente, café «hecho expresamente» para ti: la clave no fue la presión, sino servir al instante.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A_cup_of_espresso.jpg?width=900",
+     "alt": "Taza pequeña de café espresso con crema",
+     "pie": "Un espresso",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Wikipedia: Cafetera expreso",
+     "url": "https://es.wikipedia.org/wiki/Cafetera_expreso"
+    },
+    "wiki": "Café expreso",
+    "claves": [
+     {
+      "nombre": "Cafetera expreso",
+      "quien": "La máquina que hace pasar agua caliente a presión por el café molido.",
+      "wiki": "Cafetera expreso"
+     },
+     {
+      "nombre": "Turín",
+      "quien": "La ciudad italiana donde Moriondo presentó su máquina.",
+      "wiki": "Turín"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué diferenciaba la máquina de Moriondo (1884) de las de Bezzera y Pavoni?",
+     "respuesta": "Moriondo hacía café en cantidad; Bezzera y Pavoni lograron la taza individual al momento (1901–1905)."
+    },
+    "fecha": "2026-11-13"
+   },
    {
     "claves": [
      {
@@ -2352,36 +2313,6 @@
     },
     "titulo": "El Cabernet Sauvignon es hijo de una uva blanca",
     "wiki": "Viñedo de Burdeos"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Vino de Chile",
-      "quien": "La industria vinícola chilena, que hizo del Carménère su sello.",
-      "wiki": "Vino de Chile"
-     },
-     {
-      "nombre": "Vinos del nuevo mundo",
-      "quien": "Los vinos de fuera de Europa que conservaron uvas que Europa perdió.",
-      "wiki": "Vinos del nuevo mundo"
-     }
-    ],
-    "dato": "En noviembre de 1994, el ampelógrafo francés Jean-Michel Boursiquot caminaba por un viñedo del valle del Maipo y notó que muchas plantas que Chile llamaba Merlot eran otra uva: Carménère, una variedad de Burdeos que se daba por casi extinta en Europa.",
-    "epoca": "1994",
-    "explicacion": "El Carménère se usaba en los grandes vinos del Médoc. La [[filoxera|Insecto que ataca las raíces de la vid y que devastó los viñedos europeos en el siglo XIX.]] y su fragilidad casi la borraron de Francia hacia la década de 1870. Pero en los años 1850 ya habían llegado esquejes a Chile, mezclados con Merlot. Boursiquot la reconoció por un detalle botánico: sus estambres retorcidos después de la floración.\n\nChile la registró oficialmente en 1998 y hoy es su uva emblema. Venderla no fue fácil al principio: había que explicarle al mundo un nombre nuevo. Es un caso de marca: lo que parecía un error de etiqueta se convirtió en el origen distintivo de un país.",
-    "fecha": "2026-10-24",
-    "fuente": {
-     "nombre": "Berry Bros. & Rudd: The fuddled identity of Carménère",
-     "url": "https://blog.bbr.com/2016/11/18/fuddled-identity-carmenere"
-    },
-    "materia": "Gastronomía, vino y destilados",
-    "pilar": "gusto",
-    "repaso": {
-     "pregunta": "¿Cómo se descubrió el Carménère en Chile y con qué uva se confundía?",
-     "respuesta": "En 1994, Jean-Michel Boursiquot la identificó en el Maipo por sus estambres retorcidos. Se vendía como Merlot."
-    },
-    "titulo": "Chile vendió Carménère como Merlot durante un siglo",
-    "wiki": "Carmenere"
    }
   ],
   "Historia y geopolítica": [
@@ -2562,42 +2493,6 @@
     },
     "titulo": "Una guerra por unos pasteles en Tacubaya",
     "wiki": "Guerra de los Pasteles"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Vagón del armisticio",
-      "quien": "El coche de tren donde se firmó el fin de los combates.",
-      "wiki": "Vagón del armisticio"
-     },
-     {
-      "nombre": "Bosque de Compiègne",
-      "quien": "El bosque al norte de París donde estaba el vagón.",
-      "wiki": "Bosque de Compiègne"
-     }
-    ],
-    "dato": "El armisticio de la Primera Guerra Mundial se firmó poco después de las 5 de la mañana del 11 de noviembre de 1918, pero entraba en vigor a las 11. Ese día murieron al menos 2,738 soldados en el frente occidental, la mayoría en esas seis horas.",
-    "epoca": "1918",
-    "explicacion": "La cifra es del historiador Joseph Persico. A los comandantes se les ordenó seguir combatiendo hasta las 11, y algunos lanzaron ataques por decisión propia. Los Aliados también querían mostrar que presionarían hasta el último minuto. El estadounidense Henry Gunther murió a las 10:59, al cargar contra una ametralladora alemana.\n\nLa hora de entrada en vigor se fijó en parte para que la noticia llegara a todo el frente. Es una lección dura sobre la distancia entre firmar algo y que surta efecto. En contratos y negociaciones, la fecha de [[entrada en vigor|Momento a partir del cual un acuerdo empieza a obligar a las partes.]] importa tanto como la firma.",
-    "fecha": "2026-10-25",
-    "fuente": {
-     "nombre": "History.com: The last American killed in World War I",
-     "url": "https://www.history.com/.amp/news/world-war-i-armistice-last-american-death"
-    },
-    "imagen": {
-     "alt": "Representantes aliados frente al vagón donde se firmó el armisticio de 1918",
-     "credito": "Wikimedia Commons",
-     "pie": "El vagón de Compiègne donde se firmó el armisticio, 11 de noviembre de 1918",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Armisticetrain.jpg?width=900"
-    },
-    "materia": "Historia y geopolítica",
-    "pilar": "mundo",
-    "repaso": {
-     "pregunta": "¿Por qué murieron miles de soldados el último día de la Primera Guerra Mundial?",
-     "respuesta": "El armisticio se firmó hacia las 5 a. m., pero entraba en vigor a las 11, y se siguió combatiendo hasta esa hora."
-    },
-    "titulo": "Seis horas de una guerra que ya había terminado",
-    "wiki": "Armisticio del 11 de noviembre de 1918"
    }
   ],
   "IA y el futuro": [
@@ -2953,51 +2848,10 @@
     },
     "titulo": "La «locura de Bogle»",
     "wiki": "Fondo indexado"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Luca Pacioli",
-      "quien": "Fraile y matemático italiano; su Summa de 1494 recoge la regla y la partida doble.",
-      "wiki": "Luca Pacioli"
-     },
-     {
-      "nombre": "Partida doble",
-      "quien": "El sistema contable de debe y haber que Pacioli difundió en el mismo libro.",
-      "wiki": "Partida doble"
-     }
-    ],
-    "dato": "El atajo para saber en cuántos años se duplica tu dinero, dividir 72 entre la tasa de interés, ya aparece en un libro de 1494: la *Summa de arithmetica* del fraile italiano Luca Pacioli.",
-    "epoca": "1494",
-    "explicacion": "Pacioli escribe: «ten por regla 72, de memoria, y divídelo siempre entre el interés». No explica de dónde sale, y por eso se cree que la regla es aún más antigua. Al 8% anual, el dinero se duplica en unos 9 años; al 6%, en unos 12.\n\n¿Por qué 72? La cifra exacta para interés continuo es 69.3, pero 72 se divide fácil entre 2, 3, 4, 6, 8, 9 y 12, y funciona muy bien con tasas de entre 6% y 10%. Sirve igual al revés: con una inflación de 4%, los precios se duplican en unos 18 años. Pacioli, por cierto, es el mismo que difundió la contabilidad por partida doble.",
-    "fecha": "2026-10-24",
-    "fuente": {
-     "nombre": "Wikipedia (inglés): Rule of 72",
-     "url": "https://en.wikipedia.org/wiki/Rule_of_72"
-    },
-    "materia": "Inversión y finanzas personales",
-    "pilar": "patrimonio",
-    "repaso": {
-     "pregunta": "¿Cómo funciona la regla del 72 y en qué libro aparece por primera vez?",
-     "respuesta": "Divides 72 entre la tasa de interés para saber en cuántos años se duplica el dinero. Aparece en la Summa de arithmetica de Luca Pacioli (1494)."
-    },
-    "titulo": "La regla del 72 tiene más de 500 años",
-    "wiki": "Interés compuesto"
    }
   ],
   "Liderazgo e influencia": [
    {
-    "materia": "Liderazgo e influencia",
-    "pilar": "caracter",
-    "epoca": "1783",
-    "titulo": "Unos anteojos detuvieron un posible golpe militar",
-    "dato": "En marzo de 1783, oficiales sin paga amenazaban con desafiar al Congreso. Washington los calmó con un gesto: se puso los anteojos.",
-    "explicacion": "El 15 de marzo de 1783, en Newburgh (Nueva York), Washington leyó un discurso a los oficiales. Para leer una carta sacó unos anteojos que casi nadie le había visto y dijo: «Señores, permítanme ponerme los anteojos, pues no solo he encanecido, sino que casi he quedado ciego al servicio de mi país».\n\nVarios oficiales lloraron. La conspiración se disolvió. Washington no ganó con argumentos, sino recordando cuánto había sacrificado él mismo: la autoridad moral pesa más que el rango.",
-    "fuente": {
-     "nombre": "Mount Vernon: «Gentlemen, you will permit me to put on my spectacles…»",
-     "url": "https://www.mountvernon.org/library/digitalhistory/past-projects/quotes/article/gentlemen-you-will-permit-me-to-put-on-my-spectacles-for-i-have-grown-not-only-gray-but-almost-blind-in-the-service-of-my-country"
-    },
-    "wiki": "George Washington",
     "claves": [
      {
       "nombre": "Ejército Continental",
@@ -3010,11 +2864,22 @@
       "wiki": "Congreso de la Confederación"
      }
     ],
+    "dato": "En marzo de 1783, oficiales sin paga amenazaban con desafiar al Congreso. Washington los calmó con un gesto: se puso los anteojos.",
+    "epoca": "1783",
+    "explicacion": "El 15 de marzo de 1783, en Newburgh (Nueva York), Washington leyó un discurso a los oficiales. Para leer una carta sacó unos anteojos que casi nadie le había visto y dijo: «Señores, permítanme ponerme los anteojos, pues no solo he encanecido, sino que casi he quedado ciego al servicio de mi país».\n\nVarios oficiales lloraron. La conspiración se disolvió. Washington no ganó con argumentos, sino recordando cuánto había sacrificado él mismo: la autoridad moral pesa más que el rango.",
+    "fecha": "2026-11-12",
+    "fuente": {
+     "nombre": "Mount Vernon: «Gentlemen, you will permit me to put on my spectacles…»",
+     "url": "https://www.mountvernon.org/library/digitalhistory/past-projects/quotes/article/gentlemen-you-will-permit-me-to-put-on-my-spectacles-for-i-have-grown-not-only-gray-but-almost-blind-in-the-service-of-my-country"
+    },
+    "materia": "Liderazgo e influencia",
+    "pilar": "caracter",
     "repaso": {
      "pregunta": "¿Qué hizo Washington en Newburgh en 1783 para calmar a los oficiales?",
      "respuesta": "Se puso los anteojos y dijo que había encanecido y casi quedado ciego al servicio del país; la conspiración se disolvió."
     },
-    "fecha": "2026-11-12"
+    "titulo": "Unos anteojos detuvieron un posible golpe militar",
+    "wiki": "George Washington"
    },
    {
     "claves": [
@@ -3314,44 +3179,45 @@
     },
     "titulo": "Frankenstein nació de un volcán",
     "wiki": "Frankenstein o El moderno Prometeo"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Miguel de Cervantes",
-      "quien": "Autor de Don Quijote de la Mancha",
-      "wiki": "Miguel de Cervantes"
-     },
-     {
-      "nombre": "William Shakespeare",
-      "quien": "Dramaturgo inglés, autor de Hamlet y Macbeth",
-      "wiki": "William Shakespeare"
-     },
-     {
-      "nombre": "Calendario gregoriano",
-      "quien": "Calendario de 1582 que corrigió el juliano",
-      "wiki": "Calendario gregoriano"
-     }
-    ],
-    "dato": "Cervantes y Shakespeare aparecen como muertos el 23 de abril de 1616, y por eso ese día es el Día del Libro. Pero entre ambas muertes hubo unos diez días de diferencia.",
-    "epoca": "1616",
-    "explicacion": "España ya usaba el calendario gregoriano; Inglaterra seguía con el juliano, diez días atrasado. Además, el 23 de abril de Cervantes es la fecha de su entierro: murió el día anterior. La coincidencia es de papel, no de calendario real.\n\nLa UNESCO eligió esa fecha en 1995 por su valor simbólico, y en Cataluña ya se celebraba con rosas y libros por Sant Jordi. Es un buen recordatorio de que una fecha 'exacta' depende de qué calendario se use.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Día Internacional del Libro",
-     "url": "https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_del_Libro"
-    },
-    "materia": "Literatura y mitología",
-    "pilar": "cultura",
-    "repaso": {
-     "pregunta": "¿Por qué Cervantes y Shakespeare no murieron realmente el mismo día?",
-     "respuesta": "España e Inglaterra usaban calendarios distintos, con unos diez días de diferencia."
-    },
-    "titulo": "Murieron el mismo día, pero no el mismo día",
-    "wiki": "Día Internacional del Libro"
    }
   ],
   "Mente y decisiones": [
+   {
+    "materia": "Mente y decisiones",
+    "pilar": "mente",
+    "epoca": "1974",
+    "titulo": "Una ruleta trucada movió las respuestas 20 puntos",
+    "dato": "Tversky y Kahneman giraban una ruleta que caía en 10 o en 65 y luego pedían estimar qué porcentaje de los países de la ONU eran africanos. Quienes vieron 10 respondieron 25%; quienes vieron 65, 45%.",
+    "explicacion": "El número de la ruleta era obviamente irrelevante, y aun así sirvió de punto de partida. La gente «ajustaba» desde ahí, pero se quedaba corta. A esto lo llamaron [[efecto de anclaje|Tendencia a apoyarse demasiado en el primer número que se ve al hacer una estimación.]].\n\nEn una negociación, el primer precio que se dice funciona igual. Por eso quien abre la conversación con una cifra suele mover el resultado a su favor.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Daniel_Kahneman_(3283955327).jpg?width=900",
+     "alt": "Retrato de un hombre mayor con anteojos",
+     "pie": "Daniel Kahneman, coautor del estudio con Amos Tversky",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Plous, «Anchoring and Adjustment» (resumen del estudio de Tversky y Kahneman, Science 1974)",
+     "url": "https://courses.eller.arizona.edu/mgmt/delaney/p_chapter13.pdf"
+    },
+    "wiki": "Efecto de anclaje",
+    "claves": [
+     {
+      "nombre": "Daniel Kahneman",
+      "quien": "Psicólogo, Nobel de Economía 2002 por estudiar cómo decidimos.",
+      "wiki": "Daniel Kahneman"
+     },
+     {
+      "nombre": "Amos Tversky",
+      "quien": "Psicólogo cognitivo, su socio en el estudio de los sesgos.",
+      "wiki": "Amos Tversky"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué mostró la ruleta trucada de Tversky y Kahneman?",
+     "respuesta": "Que un número irrelevante ancla las estimaciones: con 10 la mediana fue 25%; con 65, 45%."
+    },
+    "fecha": "2026-11-13"
+   },
    {
     "claves": [
      {
@@ -3501,51 +3367,10 @@
     },
     "titulo": "La mermelada que no resistió la réplica",
     "wiki": "La paradoja de la elección"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Marilyn vos Savant",
-      "quien": "Columnista de la revista Parade que publicó la respuesta correcta en septiembre de 1990.",
-      "wiki": "Marilyn vos Savant"
-     },
-     {
-      "nombre": "Problema de los tres prisioneros",
-      "quien": "Un acertijo de probabilidad casi idéntico, publicado décadas antes.",
-      "wiki": "Problema de los tres prisioneros"
-     }
-    ],
-    "dato": "En 1990, Marilyn vos Savant respondió en su columna que en el problema de las tres puertas conviene cambiar de puerta. Recibió unas 10,000 cartas, casi 1,000 de personas con doctorado, y la mayoría le decía que se equivocaba. Ella tenía razón.",
-    "epoca": "1990",
-    "explicacion": "El juego: eliges una de tres puertas; detrás de una hay un coche. El presentador, que sabe dónde está, abre otra puerta con una cabra. Si cambias, ganas 2 de cada 3 veces. Tu primera elección tenía 1/3 de acertar; el presentador, al abrir siempre una puerta perdedora, te regala información sobre las otras dos.\n\nEl matemático Paul Erdős no se convenció hasta ver una simulación por computadora. La lección: la intuición falla cuando alguien con información actúa frente a ti. En una negociación, lo que el otro decide no mostrarte también es un dato.",
-    "fecha": "2026-10-24",
-    "fuente": {
-     "nombre": "Wikipedia (inglés): Monty Hall problem",
-     "url": "https://en.wikipedia.org/wiki/Monty_Hall_problem"
-    },
-    "materia": "Mente y decisiones",
-    "pilar": "mente",
-    "repaso": {
-     "pregunta": "En el problema de Monty Hall, ¿conviene cambiar de puerta y con qué probabilidad ganas?",
-     "respuesta": "Sí. Si cambias, ganas 2 de cada 3 veces."
-    },
-    "titulo": "Diez mil cartas para decirle que estaba equivocada",
-    "wiki": "Problema de Monty Hall"
    }
   ],
   "Música": [
    {
-    "materia": "Música",
-    "pilar": "cultura",
-    "epoca": "1792",
-    "titulo": "La Marsellesa se escribió en Estrasburgo",
-    "dato": "El himno de Francia nació en la frontera con Alemania, no en Marsella. Se llamaba *Canto de guerra para el Ejército del Rin*.",
-    "explicacion": "Rouget de Lisle, un oficial de ingenieros, lo compuso en Estrasburgo la noche del 25 al 26 de abril de 1792, días después de que Francia declarara la guerra a Austria.\n\nTomó su nombre porque lo cantaban los voluntarios de Marsella que llegaron a París en el verano de 1792. Los parisinos lo oyeron en su boca y lo llamaron «la marsellesa». Fue declarado himno nacional en 1795.",
-    "fuente": {
-     "nombre": "Wikipedia: La Marsellesa",
-     "url": "https://es.wikipedia.org/wiki/La_marsellesa"
-    },
-    "wiki": "La Marsellesa",
     "claves": [
      {
       "nombre": "Claude Joseph Rouget de Lisle",
@@ -3558,17 +3383,28 @@
       "wiki": "Estrasburgo"
      }
     ],
+    "dato": "El himno de Francia nació en la frontera con Alemania, no en Marsella. Se llamaba *Canto de guerra para el Ejército del Rin*.",
+    "epoca": "1792",
+    "explicacion": "Rouget de Lisle, un oficial de ingenieros, lo compuso en Estrasburgo la noche del 25 al 26 de abril de 1792, días después de que Francia declarara la guerra a Austria.\n\nTomó su nombre porque lo cantaban los voluntarios de Marsella que llegaron a París en el verano de 1792. Los parisinos lo oyeron en su boca y lo llamaron «la marsellesa». Fue declarado himno nacional en 1795.",
+    "fecha": "2026-11-12",
+    "fuente": {
+     "nombre": "Wikipedia: La Marsellesa",
+     "url": "https://es.wikipedia.org/wiki/La_marsellesa"
+    },
+    "imagen": {
+     "alt": "Pintura de un hombre cantando de pie ante un grupo en un salón",
+     "credito": "Wikimedia Commons",
+     "pie": "Isidore Pils, *Rouget de Lisle canta la Marsellesa* (1849)",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pils_-_Rouget_de_Lisle_chantant_la_Marseillaise.jpg?width=900"
+    },
+    "materia": "Música",
+    "pilar": "cultura",
     "repaso": {
      "pregunta": "¿Dónde se compuso La Marsellesa y por qué se llama así?",
      "respuesta": "En Estrasburgo, en 1792; la popularizaron en París los voluntarios de Marsella."
     },
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pils_-_Rouget_de_Lisle_chantant_la_Marseillaise.jpg?width=900",
-     "alt": "Pintura de un hombre cantando de pie ante un grupo en un salón",
-     "pie": "Isidore Pils, *Rouget de Lisle canta la Marsellesa* (1849)",
-     "credito": "Wikimedia Commons"
-    },
-    "fecha": "2026-11-12"
+    "titulo": "La Marsellesa se escribió en Estrasburgo",
+    "wiki": "La Marsellesa"
    },
    {
     "claves": [
@@ -3646,86 +3482,10 @@
     },
     "titulo": "La sinfonía que pidió vacaciones",
     "wiki": "Sinfonía n.º 45 (Haydn)"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Violín",
-      "quien": "El instrumento cuya cumbre se asocia a Cremona, Italia, en los siglos XVII y XVIII.",
-      "wiki": "Violín"
-     },
-     {
-      "nombre": "Stradivarius El Mesías",
-      "quien": "Uno de los Stradivarius mejor conservados, casi sin tocar.",
-      "wiki": "Stradivarius El Mesías"
-     }
-    ],
-    "dato": "En pruebas a ciegas publicadas en 2014, diez solistas tocaron violines antiguos, entre ellos cinco Stradivarius, y violines nuevos. No pudieron distinguirlos de forma fiable, y la mayoría prefirió los nuevos.",
-    "epoca": "2014",
-    "explicacion": "El estudio, de Claudia Fritz y su equipo, salió en la revista PNAS. Los músicos usaban gafas que les impedían ver el instrumento. En 2017 repitieron la idea con 137 oyentes en París y Nueva York: juzgaron que los violines nuevos se oían mejor en la sala y tampoco distinguieron cuál era cuál.\n\nNo significa que un Stradivarius sea malo; son instrumentos extraordinarios. Significa que parte de su valor está en la historia, la rareza y lo que esperamos oír. Saber eso ayuda a separar calidad de prestigio.",
-    "fecha": "2026-10-23",
-    "fuente": {
-     "nombre": "CNRS: Sound projection, are Stradivarius violins really better?",
-     "url": "https://www.cnrs.fr/en/press/sound-projection-are-stradivarius-violins-really-better"
-    },
-    "materia": "Música",
-    "pilar": "cultura",
-    "repaso": {
-     "pregunta": "¿Qué encontraron las pruebas a ciegas de 2014 con violines Stradivarius?",
-     "respuesta": "Que los solistas no los distinguían de forma fiable de violines nuevos, y la mayoría prefirió los nuevos."
-    },
-    "titulo": "Los solistas no distinguieron un Stradivarius",
-    "wiki": "Antonio Stradivari"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Ludwig van Beethoven",
-      "quien": "Compositor alemán, puente entre el clasicismo y el romanticismo",
-      "wiki": "Ludwig van Beethoven"
-     },
-     {
-      "nombre": "Oda a la alegría",
-      "quien": "Poema de Schiller que canta el coro final",
-      "wiki": "Oda a la alegría"
-     },
-     {
-      "nombre": "Caroline Unger",
-      "quien": "Contralto austriaca que cantó en el estreno",
-      "wiki": "Caroline Unger"
-     }
-    ],
-    "dato": "En el estreno de la Novena Sinfonía, Beethoven estaba casi totalmente sordo. Al terminar seguía de espaldas al público, y una de las cantantes lo giró para que viera los aplausos.",
-    "epoca": "1824",
-    "explicacion": "El estreno fue en Viena el 7 de mayo de 1824. Beethoven estuvo en el escenario marcando tempos, pero un director dirigía de verdad a la orquesta. La contralto Caroline Unger, según los testimonios, lo tomó del brazo para que viera al público de pie, con sombreros y pañuelos al aire.\n\nLa obra fue la primera gran sinfonía con coro y solistas, y su final, sobre la 'Oda a la alegría' de Schiller, es hoy el himno de la Unión Europea. Escuchar el último movimiento sabiendo que su autor no podía oírlo cambia la experiencia.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Sinfonía n.º 9 (Beethoven)",
-     "url": "https://es.wikipedia.org/wiki/Sinfon%C3%ADa_n.%C2%BA_9_(Beethoven)"
-    },
-    "materia": "Música",
-    "pilar": "cultura",
-    "repaso": {
-     "pregunta": "¿Quién giró a Beethoven para que viera los aplausos en el estreno de la Novena?",
-     "respuesta": "La contralto Caroline Unger."
-    },
-    "titulo": "El compositor que no oyó la ovación",
-    "wiki": "Sinfonía n.º 9 (Beethoven)"
    }
   ],
   "Negocios y estrategia": [
    {
-    "materia": "Negocios y estrategia",
-    "pilar": "patrimonio",
-    "epoca": "1985",
-    "titulo": "La «nueva Coca-Cola» duró 79 días",
-    "dato": "El 23 de abril de 1985, Coca-Cola cambió su fórmula. El 11 de julio tuvo que traer de vuelta la original como «Coca-Cola Classic».",
-    "explicacion": "La empresa había hecho pruebas a ciegas con unas 200,000 personas, y la mayoría prefería el nuevo sabor, más dulce. Lo que las pruebas no midieron fue el apego: la gente sintió que le quitaban algo suyo, y llamó y escribió por miles.\n\nLa lección de marca es clara. Un producto también es una memoria compartida. Cambiar el sabor fue un error de lectura del cliente, no de química.",
-    "fuente": {
-     "nombre": "The Coca-Cola Company: New Coke, the most memorable marketing blunder ever?",
-     "url": "https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever"
-    },
-    "wiki": "New Coke",
     "claves": [
      {
       "nombre": "Roberto Goizueta",
@@ -3738,11 +3498,22 @@
       "wiki": "Coca-Cola"
      }
     ],
+    "dato": "El 23 de abril de 1985, Coca-Cola cambió su fórmula. El 11 de julio tuvo que traer de vuelta la original como «Coca-Cola Classic».",
+    "epoca": "1985",
+    "explicacion": "La empresa había hecho pruebas a ciegas con unas 200,000 personas, y la mayoría prefería el nuevo sabor, más dulce. Lo que las pruebas no midieron fue el apego: la gente sintió que le quitaban algo suyo, y llamó y escribió por miles.\n\nLa lección de marca es clara. Un producto también es una memoria compartida. Cambiar el sabor fue un error de lectura del cliente, no de química.",
+    "fecha": "2026-11-12",
+    "fuente": {
+     "nombre": "The Coca-Cola Company: New Coke, the most memorable marketing blunder ever?",
+     "url": "https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever"
+    },
+    "materia": "Negocios y estrategia",
+    "pilar": "patrimonio",
     "repaso": {
      "pregunta": "¿Cuánto duró la «nueva Coca-Cola» de 1985 y por qué falló?",
      "respuesta": "79 días. Las pruebas de sabor la favorecían, pero no midieron el apego de la gente a la fórmula original."
     },
-    "fecha": "2026-11-12"
+    "titulo": "La «nueva Coca-Cola» duró 79 días",
+    "wiki": "New Coke"
    },
    {
     "claves": [
@@ -3881,36 +3652,6 @@
     },
     "titulo": "Nintendo probó con taxis y arroz instantáneo",
     "wiki": "Nintendo"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Henry Ford",
-      "quien": "Fundador de Ford Motor Company",
-      "wiki": "Henry Ford"
-     },
-     {
-      "nombre": "Cadena de montaje",
-      "quien": "Sistema de producción en serie que llevó el trabajo al obrero",
-      "wiki": "Cadena de montaje"
-     }
-    ],
-    "dato": "En 1914, Henry Ford subió el salario a 5 dólares por día, casi el doble de lo normal. No fue caridad: la rotación de personal en su fábrica era altísima y le costaba una fortuna.",
-    "epoca": "1914",
-    "explicacion": "La línea de montaje había reducido el ensamblaje de un Modelo T de más de 12 horas a alrededor de hora y media, pero el trabajo era tan monótono que los obreros se iban. Con el nuevo sueldo, la rotación cayó y la productividad subió.\n\nEl efecto secundario más citado: sus propios trabajadores podían comprar el coche que fabricaban. La decisión muestra que un costo alto puede ser una inversión si resuelve el verdadero cuello de botella.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Ford Modelo T",
-     "url": "https://es.wikipedia.org/wiki/Ford_Modelo_T"
-    },
-    "materia": "Negocios y estrategia",
-    "pilar": "patrimonio",
-    "repaso": {
-     "pregunta": "¿Cuál fue el motivo principal de Ford para pagar 5 dólares al día?",
-     "respuesta": "Reducir la enorme rotación de personal."
-    },
-    "titulo": "Ford duplicó el sueldo para vender más coches",
-    "wiki": "Ford Modelo T"
    }
   ],
   "Oficios del lujo y estilo": [
@@ -4257,42 +3998,6 @@
     },
     "titulo": "El programa que vendía computadoras",
     "wiki": "Hoja de cálculo"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Altair 8800",
-      "quien": "La computadora personal en kit que desató la fiebre de los aficionados en 1975.",
-      "wiki": "Altair 8800"
-     },
-     {
-      "nombre": "Altair BASIC",
-      "quien": "El primer producto de Microsoft: un lenguaje para programar la Altair.",
-      "wiki": "Altair BASIC"
-     }
-    ],
-    "dato": "En 1976, un Bill Gates de 20 años publicó una carta furiosa: menos del 10% de los dueños de la computadora Altair había pagado por su programa BASIC. El resto lo copiaba.",
-    "epoca": "1976",
-    "explicacion": "En la «Carta abierta a los aficionados», Gates calculó que el tiempo de computadora que usaron valía más de 40 mil dólares, y que con las regalías su trabajo salía a menos de 2 dólares la hora. En esa época, muchos creían que el software debía compartirse gratis.\n\nLa carta planteó la pregunta central de todo producto digital: si copiar no cuesta nada, ¿por qué alguien pagaría? La respuesta que construyó Microsoft fue la licencia. Hoy cualquier plantilla, curso o app vive de esa misma idea.",
-    "fecha": "2026-10-23",
-    "fuente": {
-     "nombre": "DigiBarn: texto de la carta en el boletín del Homebrew Computer Club",
-     "url": "https://digibarn.com/collections/newsletters/homebrew/V2_01/gatesletter.html"
-    },
-    "imagen": {
-     "alt": "Carta abierta a los aficionados de Bill Gates",
-     "credito": "Wikimedia Commons",
-     "pie": "La «Carta abierta a los aficionados», 3 de febrero de 1976",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bill_Gates_Letter_to_Hobbyists.jpg?width=900"
-    },
-    "materia": "Productos digitales escalables",
-    "pilar": "patrimonio",
-    "repaso": {
-     "pregunta": "¿Qué denunció Bill Gates en su carta de 1976?",
-     "respuesta": "Que menos del 10% de los dueños de la Altair pagó por su BASIC; el resto lo copiaba."
-    },
-    "titulo": "La carta que inventó vender software",
-    "wiki": "Carta abierta a los aficionados"
    }
   ],
   "Relaciones y vida social": [
@@ -4483,6 +4188,42 @@
   ],
   "Religiones y grandes textos": [
    {
+    "materia": "Religiones y grandes textos",
+    "pilar": "cultura",
+    "epoca": "c. 1455",
+    "titulo": "De unas 180 Biblias de Gutenberg quedan 49",
+    "dato": "Gutenberg imprimió unas 180 Biblias: unas 145 en papel y 35 en vitela. Al siglo XX llegaron 49, y solo unas 20 o 21 están completas.",
+    "explicacion": "Fue el primer gran libro impreso en Europa con tipos móviles. Cada ejemplar en vitela necesitaba las pieles de muchos animales, por eso hubo tan pocas. Muchas se decoraron a mano después, así que no hay dos iguales.\n\nLa Biblioteca del Congreso de EE. UU. guarda una de las tres completas en vitela. Las otras están en la Biblioteca Nacional de Francia y en la Biblioteca Británica.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg?width=900",
+     "alt": "Libro antiguo abierto con texto en dos columnas",
+     "pie": "La Biblia de Gutenberg del ejemplar Lenox, en la Biblioteca Pública de Nueva York",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Library of Congress: The Gutenberg Bible",
+     "url": "https://www.loc.gov/exhibits/bibles/interactives/gutenberg/index.html"
+    },
+    "wiki": "Biblia de Gutenberg",
+    "claves": [
+     {
+      "nombre": "Johannes Gutenberg",
+      "quien": "Orfebre de Maguncia que desarrolló la imprenta de tipos móviles.",
+      "wiki": "Johannes Gutenberg"
+     },
+     {
+      "nombre": "Imprenta",
+      "quien": "La técnica que hizo posible copiar libros en serie.",
+      "wiki": "Imprenta"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuántas Biblias imprimió Gutenberg y cuántas sobreviven?",
+     "respuesta": "Unas 180 (145 en papel y 35 en vitela); sobreviven 49, unas 20–21 completas."
+    },
+    "fecha": "2026-11-13"
+   },
+   {
     "claves": [
      {
       "nombre": "Biblioteca de Alejandría",
@@ -4552,81 +4293,10 @@
     },
     "titulo": "El Popol Vuh sobrevivió gracias a una copia",
     "wiki": "Popol Vuh"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Escritura hiyazí",
-      "quien": "El estilo de escritura árabe temprana en que está el manuscrito.",
-      "wiki": "Escritura hiyazí"
-     },
-     {
-      "nombre": "Estudios coránicos",
-      "quien": "La disciplina académica que estudia la historia del texto del Corán.",
-      "wiki": "Estudios coránicos"
-     }
-    ],
-    "dato": "En 2015, la Universidad de Birmingham anunció que dos hojas de un Corán de su colección se escribieron en pergamino fechado entre los años 568 y 645. Mahoma, según la cronología tradicional, vivió entre 570 y 632.",
-    "epoca": "2015",
-    "explicacion": "La prueba de radiocarbono, hecha en la Universidad de Oxford, dio ese rango con 95.4% de probabilidad. Las hojas llevaban muchos años encuadernadas por error junto con otro manuscrito parecido, en la Colección Mingana. Están escritas en [[escritura hiyazí|Una de las formas más antiguas de la escritura árabe, anterior a la caligrafía cúfica.]].\n\nOjo con lo que significa: el radiocarbono fecha la piel del animal, no el momento en que se escribió el texto, que pudo ser algo posterior. Aun así, lo coloca entre los fragmentos del Corán más antiguos que se conocen y muy cerca de la vida del profeta.",
-    "fecha": "2026-10-24",
-    "fuente": {
-     "nombre": "Universidad de Birmingham: Birmingham Qur'an manuscript dated among the oldest in the world (2015)",
-     "url": "https://www.birmingham.ac.uk/news-archive/2015/birmingham-quran-manuscript-dated-among-the-oldest-in-the-world"
-    },
-    "materia": "Religiones y grandes textos",
-    "pilar": "cultura",
-    "repaso": {
-     "pregunta": "¿Entre qué años se fechó el pergamino del Corán de Birmingham?",
-     "respuesta": "Entre 568 y 645, con 95.4% de probabilidad. Mahoma vivió entre 570 y 632, según la cronología tradicional."
-    },
-    "titulo": "Un Corán guardado en Birmingham",
-    "wiki": "Corán"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Qumrán",
-      "quien": "Sitio arqueológico junto a las cuevas de los hallazgos",
-      "wiki": "Qumrán"
-     },
-     {
-      "nombre": "Gran Rollo de Isaías",
-      "quien": "El manuscrito más completo hallado",
-      "wiki": "Gran Rollo de Isaías"
-     }
-    ],
-    "dato": "En 1947, unos pastores beduinos encontraron rollos en una cueva de Qumrán, junto al mar Muerto. Incluían textos de la Biblia hebrea casi mil años más antiguos que los manuscritos completos conocidos hasta entonces.",
-    "epoca": "1947",
-    "explicacion": "Se hallaron restos de unos 900 manuscritos en once cuevas, escritos sobre todo entre el siglo III a. C. y el siglo I d. C. El Gran Rollo de Isaías está casi completo.\n\nLo sorprendente fue la estabilidad: comparado con copias medievales, el texto de Isaías coincide de forma muy notable, con variantes pequeñas. Los rollos también muestran la diversidad religiosa del judaísmo en tiempos de Jesús.",
-    "fecha": "2026-10-22",
-    "fuente": {
-     "nombre": "Wikipedia: Manuscritos del mar Muerto",
-     "url": "https://es.wikipedia.org/wiki/Manuscritos_del_mar_Muerto"
-    },
-    "materia": "Religiones y grandes textos",
-    "pilar": "cultura",
-    "repaso": {
-     "pregunta": "¿Por qué fueron tan importantes los manuscritos del mar Muerto?",
-     "respuesta": "Eran casi mil años más antiguos que los manuscritos completos conocidos de la Biblia hebrea."
-    },
-    "titulo": "Un pastor y mil años de diferencia",
-    "wiki": "Manuscritos del mar Muerto"
    }
   ],
   "Retórica y oratoria": [
    {
-    "materia": "Retórica y oratoria",
-    "pilar": "mente",
-    "epoca": "1863",
-    "titulo": "El orador estrella habló dos horas; Lincoln, dos minutos",
-    "dato": "En Gettysburg, el discurso principal no era el de Lincoln. Edward Everett habló unas dos horas; Lincoln, después, dijo 272 palabras.",
-    "explicacion": "Everett era el orador más famoso de Estados Unidos y lo invitaron para el discurso central del 19 de noviembre de 1863. Lincoln solo debía decir «unas palabras» de dedicación.\n\nAl día siguiente, Everett le escribió que le gustaría pensar que se había acercado a la idea central de la ocasión en dos horas tanto como Lincoln en dos minutos. La brevedad no fue un accidente: cada frase del texto estaba trabajada para ser recordada.",
-    "fuente": {
-     "nombre": "Abraham Lincoln Online: carta de Lincoln a Edward Everett (20 nov 1863)",
-     "url": "https://www.abrahamlincolnonline.org/lincoln/speeches/everett.htm"
-    },
-    "wiki": "Discurso de Gettysburg",
     "claves": [
      {
       "nombre": "Edward Everett",
@@ -4639,11 +4309,22 @@
       "wiki": "Abraham Lincoln"
      }
     ],
+    "dato": "En Gettysburg, el discurso principal no era el de Lincoln. Edward Everett habló unas dos horas; Lincoln, después, dijo 272 palabras.",
+    "epoca": "1863",
+    "explicacion": "Everett era el orador más famoso de Estados Unidos y lo invitaron para el discurso central del 19 de noviembre de 1863. Lincoln solo debía decir «unas palabras» de dedicación.\n\nAl día siguiente, Everett le escribió que le gustaría pensar que se había acercado a la idea central de la ocasión en dos horas tanto como Lincoln en dos minutos. La brevedad no fue un accidente: cada frase del texto estaba trabajada para ser recordada.",
+    "fecha": "2026-11-12",
+    "fuente": {
+     "nombre": "Abraham Lincoln Online: carta de Lincoln a Edward Everett (20 nov 1863)",
+     "url": "https://www.abrahamlincolnonline.org/lincoln/speeches/everett.htm"
+    },
+    "materia": "Retórica y oratoria",
+    "pilar": "mente",
     "repaso": {
      "pregunta": "¿Cuánto habló Edward Everett en Gettysburg y cuánto Lincoln?",
      "respuesta": "Everett, unas dos horas; Lincoln, unos dos minutos (272 palabras)."
     },
-    "fecha": "2026-11-12"
+    "titulo": "El orador estrella habló dos horas; Lincoln, dos minutos",
+    "wiki": "Discurso de Gettysburg"
    },
    {
     "claves": [
@@ -4815,6 +4496,41 @@
    }
   ],
   "Salud y longevidad": [
+   {
+    "materia": "Salud y longevidad",
+    "pilar": "cuerpo",
+    "epoca": "1948",
+    "titulo": "Unos sobres cerrados decidieron quién recibía el fármaco",
+    "dato": "En 1948, un ensayo británico de estreptomicina contra la tuberculosis asignó a 107 pacientes con números al azar guardados en sobres sellados. Suele considerarse el primer ensayo aleatorizado moderno publicado.",
+    "explicacion": "Austin Bradford Hill diseñó el sistema para que ningún médico eligiera, ni sin querer, a los pacientes más sanos para el fármaco. A los seis meses, según el informe, murieron 4 de 55 con estreptomicina y 14 de 52 sin ella.\n\nHubo antecedentes, así que no fue tan nuevo como a veces se cuenta. Pero se volvió el modelo: el azar protege la prueba de nuestras propias expectativas.",
+    "fuente": {
+     "nombre": "James Lind Library: Why the 1948 MRC trial of streptomycin used treatment allocation based on random numbers",
+     "url": "https://www.jameslindlibrary.org/articles/why-the-1948-mrc-trial-of-streptomycin-used-treatment-allocation-based-on-random-numbers/"
+    },
+    "wiki": "Prueba controlada aleatorizada",
+    "claves": [
+     {
+      "nombre": "Estreptomicina",
+      "quien": "Antibiótico de los años cuarenta, el primero eficaz contra la tuberculosis.",
+      "wiki": "Estreptomicina"
+     },
+     {
+      "nombre": "Tuberculosis",
+      "quien": "La enfermedad que estudiaba el ensayo.",
+      "wiki": "Tuberculosis"
+     },
+     {
+      "nombre": "Criterios de Bradford Hill",
+      "quien": "Las pautas de Bradford Hill para juzgar si algo causa una enfermedad.",
+      "wiki": "Criterios de Bradford Hill"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Para qué sirvieron los sobres sellados del ensayo de estreptomicina de 1948?",
+     "respuesta": "Para asignar a los pacientes al azar, sin que los médicos eligieran; así nadie sesgaba quién recibía el fármaco."
+    },
+    "fecha": "2026-11-13"
+   },
    {
     "claves": [
      {
