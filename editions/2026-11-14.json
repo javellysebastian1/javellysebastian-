@@ -1,0 +1,933 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-14",
+ "numero": 24,
+ "fecha": "2026-11-14",
+ "disponibleDesde": "2026-11-14T08:00:00-06:00",
+ "titulo": "c. 240 a. C.: Eratóstenes mide la Tierra con una sombra",
+ "temporada": {
+  "id": "t05",
+  "numero": 5,
+  "titulo": "El cosmos: del cielo de los griegos al telescopio James Webb",
+  "episodio": 1,
+  "totalEpisodios": 6
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eratosthenes_measure_of_Earth_circumference.svg?width=900",
+  "alt": "Diagrama de los rayos del sol que caen sobre Siena y Alejandría",
+  "pie": "Dos ciudades, un mismo mediodía y una sombra: con eso Eratóstenes calculó el tamaño de la Tierra.",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "origen": "Edición #23",
+   "pregunta": "En el experimento de Caltech (2008), ¿qué pasó cuando el mismo vino se presentó como de 45 dólares en vez de 5?",
+   "respuesta": "A los voluntarios les gustó más y su cerebro registró más placer. La intensidad del sabor que percibían no cambió."
+  },
+  {
+   "origen": "Edición #21",
+   "pregunta": "¿Qué exige la ley suiza para que un reloj diga «Swiss made»?",
+   "respuesta": "Que al menos 60% de su costo de fabricación se genere en Suiza, además de que el movimiento sea suizo y se ensamble allí."
+  },
+  {
+   "origen": "Edición #20",
+   "pregunta": "¿Por qué tu GPS necesita la teoría de Einstein?",
+   "respuesta": "Porque los relojes de los satélites avanzan distinto que los de la Tierra. Sin corregir ese desfase, el error crecería varios kilómetros al día."
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n1",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-12",
+   "titular": "Jensen Huang deja Nvidia en medio de un escándalo; la directora de finanzas, Colette Kress, queda como CEO interina",
+   "quePaso": "El jueves 12 de noviembre, Nvidia anunció que Jensen Huang, su cofundador, renunció como presidente, director general y miembro del consejo, con efecto inmediato. Colette Kress, directora de finanzas, será CEO interina y mantendrá ese cargo hasta que se nombre a un sucesor permanente. El comunicado no da motivos ni deja a Huang ningún papel en la empresa.",
+   "aMiQue": "Nvidia vende los chips sobre los que corre casi toda la IA que usas. Su caída arrastra a las bolsas y a los fondos de retiro que tienen acciones tecnológicas. Pero la lección más útil para un emprendedor es otra: el [[riesgo de persona clave|Peligro de que un negocio dependa tanto de una sola persona que su salida dañe el valor de la empresa.]]. Si tu marca depende de ti para vender, decidir y representar, piensa hoy qué pasaría si mañana no pudieras estar.",
+   "contexto": "**Hecho:** Huang cofundó Nvidia en 1993 y tiene cerca de 3.5% de las acciones. El 8 de noviembre admitió en una carta al personal que fue infiel a su esposa. Ese mismo día, el consejo dijo no tener razones para creer que se comprometiera la seguridad nacional ni secretos comerciales, y los consejeros independientes contrataron al bufete Wachtell, Lipton, Rosen & Katz para investigar.\n\n**Acusación, no confirmada:** el New York Times y el Wall Street Journal reportan que funcionarios de EE. UU. consideran a una ex ejecutiva de Megaspeed, cliente de Nvidia en Singapur, una presunta agente de inteligencia china. China lo llamó «especulación infundada». Nvidia no lo ha confirmado.\n\n**Hecho:** el 12 de noviembre la acción llegó a tocar 148.80 dólares, mínimo de 52 semanas. Según TechCrunch, acumulaba hasta 19% de caída desde el viernes previo, más de 855,000 millones de dólares de valor. Al Jazeera reportó que el valor de la empresa bajó de 4 billones de dólares por primera vez desde julio de 2025. Harvey Jones, consejero desde 1993, será el primer presidente del consejo y dirigirá la búsqueda del nuevo CEO.\n\n**Interpretación:** el mercado no castiga solo un escándalo personal. Castiga la incertidumbre sobre quién decide en la empresa más valiosa de la IA.",
+   "queVigilar": "El martes 17 de noviembre Nvidia presenta resultados trimestrales, los primeros con Kress al frente. También siguen la investigación del consejo, la revisión del FBI y una demanda colectiva de accionistas.",
+   "fuentes": [
+    {
+     "nombre": "Nvidia Newsroom: NVIDIA Announces CEO Transition (12 nov 2026)",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+    },
+    {
+     "nombre": "Al Jazeera: AI titan Jensen Huang out as Nvidia CEO (12 nov 2026)",
+     "url": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo"
+    },
+    {
+     "nombre": "TechCrunch: Nvidia's Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO (12 nov 2026)",
+     "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
+    },
+    {
+     "nombre": "Tech Times: Jensen Huang resigns, Nvidia shares tumble (12 nov 2026)",
+     "url": "https://www.techtimes.com/articles/330561/20261112/jensen-huang-resigns-nvidia-shares-tumble-interim-ceo-kress-keeps-cfo-job-before-earnings.htm"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-11-13",
+   "historiaEnCurso": {
+    "id": "aranceles-eeuu-mexico",
+    "titulo": "Aranceles de EE. UU. a México y revisión del T-MEC",
+    "capitulo": 2,
+    "dondeIbamos": "Trump amenazó con duplicar aranceles a México si no detiene las caravanas migrantes. Sheinbaum respondió que ninguna caravana ha llegado a la frontera norte y descartó la represión. Siguen vigentes 50% al acero y aluminio y 10% a lo que no cumple el T-MEC."
+   },
+   "titular": "México alista cambios al programa IMMEX para responder a la queja de EE. UU. sobre la «triangulación»",
+   "quePaso": "En su conferencia del viernes 13 de noviembre, Claudia Sheinbaum dijo que los cambios al [[IMMEX|Programa de la Industria Manufacturera, Maquiladora y de Servicios de Exportación: permite importar insumos de forma temporal, sin pagar ciertos impuestos, para transformarlos y exportarlos.]] están «prácticamente listos», tras unos cuatro meses de trabajo con la industria. No dijo qué cambia ni desde cuándo.",
+   "aMiQue": "Si tu marca importa insumos (envases, etiquetas, ingredientes) a través de una empresa con IMMEX, o le vendes a un exportador que lo usa, las reglas pueden cambiar pronto. Conviene preguntar hoy a tu agente aduanal o a tus proveedores cuánto de lo que compras depende de ese programa, antes de cerrar precios para 2027.",
+   "contexto": "**Hecho:** la [[triangulación|Usar un país como intermediario para que mercancía de un tercer país llegue a otro mercado como si fuera de ese intermediario.]] es la queja de EE. UU.: productos de terceros países que entran a México y salen hacia allá sin valor agregado. Sheinbaum dijo que en México «eso es muy poco realmente», sin dar cifras; la Secretaría de Economía podría darlas después.\n\n**Hecho:** usar insumos extranjeros no es irregular. Para no pagar arancel bajo el T-MEC, un producto debe cumplir las [[reglas de origen|Criterios que dicen cuánto de un producto debe hacerse en la región para considerarlo de ahí.]]; pasar por México no basta.\n\n**Hecho:** Sheinbaum irá a la reunión de líderes de APEC en Shenzhen, China, el 18 y 19 de noviembre. Dijo que con Xi Jinping «el comercio no va a ser el tema central». Los temas comerciales los llevará una delegación de Marcelo Ebrard.\n\n**Interpretación:** México busca mostrar a Washington que cierra la puerta a la triangulación justo antes de viajar a China, para que ese viaje no se lea como un giro.",
+   "queVigilar": "La publicación de los cambios al IMMEX y su fecha de inicio; la reunión de APEC (18–19 nov) y cualquier señal de Washington antes de la cumbre del G20 en Miami (14–15 dic).",
+   "fuentes": [
+    {
+     "nombre": "Publimetro: México prepara cambios a las exportaciones ante reclamos de EE. UU. (13 nov 2026)",
+     "url": "https://www.publimetro.com.mx/noticias/2026/11/13/sheinbaum-cambios-immex-triangulacion-comercial/"
+    },
+    {
+     "nombre": "Infobae: Trump advierte con duplicar aranceles a México si no frena caravanas (12 nov 2026)",
+     "url": "https://infobae.com/mexico/2026/11/12/trump-amenaza-con-duplicar-aranceles-a-mexico-si-no-frena-caravanas-migrantes-en-marcha-hacia-eeuu"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "ambito": "local",
+   "ambitoTexto": "Guadalajara",
+   "fecha": "2026-11-13",
+   "historiaEnCurso": {
+    "id": "agua-gdl",
+    "titulo": "Crisis del agua en Guadalajara",
+    "capitulo": 15,
+    "dondeIbamos": "El SIAPA publicó tandeos del 13 al 15 de noviembre por la dificultad de bombear agua a las zonas altas. Pablo Lemus prometió terminar los tandeos a más tardar el 15 de diciembre. La condonación para 627 colonias seguía en la Comisión de Hacienda del Congreso."
+   },
+   "titular": "El Congreso de Jalisco aplaza el descuento de 100% del agua para 627 colonias con tandeos",
+   "quePaso": "El viernes 13 de noviembre, la Comisión de Hacienda del Congreso discutió casi tres horas la iniciativa del gobernador Pablo Lemus: no cobrar la tarifa del SIAPA de octubre, noviembre y diciembre a 627 colonias afectadas por los tandeos. No hubo acuerdo y se aprobó un receso por 10 votos contra 3. El debate se retoma la próxima semana.",
+   "aMiQue": "Si vives o tienes un local en una de esas colonias, todavía no sabes si pagarás estos meses. Quien ya pagó el estimado anual recibiría una bonificación en el recibo de 2027, si se aprueba. Para un negocio, la señal es otra: los tandeos siguen este fin de semana y no hay fecha firme de fin, así que conviene seguir con cisternas y planes de respaldo.",
+   "contexto": "**Hecho:** Morena y Hagamos quieren ampliar el beneficio a más colonias y a seis meses, o mientras duren los tandeos. Movimiento Ciudadano se opone. «No llegamos a ningún acuerdo, ellos sostienen su postura», dijo la diputada Itzul Barrera.\n\n**Hecho:** los tandeos empezaron el 15 de octubre, cuando la Potabilizadora 1 de Miravalle redujo su caudal para mejorar la calidad del agua. Este sábado 14 toca corte a las zonas 4, 6 y 7, y el domingo 15 a las zonas 1, 2, 4, 6 y 7.\n\n**Interpretación:** el pleito ya no es si habrá descuento, sino cuánto y a quién. Mientras se discute, nadie sabe cuánto dejará de cobrar el SIAPA.",
+   "queVigilar": "La nueva sesión de la Comisión de Hacienda la próxima semana, el calendario de tandeos del SIAPA y si se cumple la promesa del 15 de diciembre.",
+   "fuentes": [
+    {
+     "nombre": "UDG TV: Legisladores deciden aplazar descuento a tarifas del agua (13 nov 2026)",
+     "url": "https://udgtv.com/noticias/legisladores-deciden-aplazar-descuento-a-tarifas-del-agua/337826"
+    },
+    {
+     "nombre": "Crónica Jalisco: Ante la falta de acuerdos, diputados decretan un receso (13 nov 2026)",
+     "url": "https://www.cronica.com.mx/jalisco/guadalajara/2026/11/13/ante-la-falta-de-acuerdos-diputados-decretan-un-receso-y-aplazan-descuento-de-100-a-tarifas-del-agua/"
+    },
+    {
+     "nombre": "El Informador: SIAPA, lista de colonias con cortes del 13 al 15 de noviembre",
+     "url": "https://www.informador.mx/jalisco/siapa-lista-de-colonias-con-cortes-de-agua-del-13-al-15-de-noviembre-por-los-tandeos-20261112-0209.html"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "Hace 2,200 años, un bibliotecario midió la Tierra sin salir de Egipto. ¿Qué necesitó?",
+    "contexto": "Alejandría, hacia el año 240 a. C. Eratóstenes dirige la [[Biblioteca de Alejandría|La mayor biblioteca del mundo antiguo, fundada por los reyes ptolomeos en Egipto.]], la más grande del mundo antiguo. Los griegos educados ya saben que la Tierra es redonda. Lo que nadie sabe es cuánto mide.\n\nNo hay aviones, ni satélites, ni manera de darle la vuelta al planeta. Y aun así, Eratóstenes da una cifra.",
+    "pregunta": "¿Qué necesitó para medir el planeta?",
+    "opciones": [
+     "Mandar barcos a recorrer el Mediterráneo hasta volver al punto de partida",
+     "Una sombra, un ángulo y la distancia entre dos ciudades",
+     "Observar un eclipse de Luna desde dos países"
+    ],
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Eratosthenes.png?width=900",
+     "alt": "Retrato grabado de Eratóstenes",
+     "pie": "Eratóstenes de Cirene (c. 276–194 a. C.), matemático, geógrafo y director de la Biblioteca de Alejandría",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Un pozo sin sombra",
+    "texto": "Eratóstenes nació en Cirene, en la actual Libia, hacia el 276 a. C. Estudió en Atenas y el rey Ptolomeo III lo llamó a Alejandría para dirigir la Biblioteca. Sus colegas le decían «Beta», el segundo: bueno en todo, primero en nada. Se equivocaban.\n\nEn la Biblioteca leyó un dato curioso. En [[Siena|Ciudad del sur de Egipto, la actual Asuán, junto al Nilo.]], muy al sur, el día del [[solsticio de verano|El día más largo del año; el sol del mediodía alcanza su punto más alto.]] el sol del mediodía caía a plomo. No había sombras. Se decía que su luz llegaba hasta el fondo de los pozos.\n\nEn Alejandría, ese mismo día y a la misma hora, un palo vertical sí proyectaba sombra. Pequeña, pero sombra.\n\nEratóstenes vio que eso solo tenía una explicación. Si la Tierra fuera plana, el sol caería igual en las dos ciudades. Si las sombras eran distintas, era porque el suelo se curvaba entre una y otra. Y si podía medir cuánto se curvaba, podía calcular el planeta entero.\n\nEstaba en juego algo más que una cifra. Eratóstenes estaba dibujando el primer mapa del mundo con líneas de latitud. Necesitaba saber el tamaño de la esfera sobre la que dibujaba.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nile_River,_Aswan,_Egypt.jpg?width=900",
+     "alt": "El río Nilo a su paso por Asuán, con rocas y orillas desérticas",
+     "pie": "El Nilo en Asuán, la antigua Siena, donde el sol del solsticio no dejaba sombra",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "giro",
+    "titulo": "Una regla de tres con el planeta",
+    "texto": "**Le bastó una sombra, un ángulo y una distancia.** En Alejandría midió el ángulo de la sombra: una cincuentava parte de un círculo, unos 7.2 grados. Como los rayos del sol llegan casi paralelos, ese mismo ángulo es el que separa a las dos ciudades vistas desde el centro de la Tierra.\n\nEntonces, si 7.2 grados equivalen a la distancia entre Alejandría y Siena, el círculo completo, 360 grados, es 50 veces esa distancia. Se calculaba en 5,000 [[estadios|Unidad griega de longitud; su valor exacto variaba según la región, entre unos 157 y 185 metros.]]. Resultado: 250,000 estadios. Más tarde lo ajustó a 252,000.\n\n¿Acertó? Depende del estadio que usó, y eso se discute. Con el estadio ático, de unos 185 metros, da unos 46,000 kilómetros: 15% de más. Con el egipcio, de unos 157.5 metros, da unos 39,600: casi exacto frente a los 40,000 reales.\n\nLo que sorprende es que no conocemos su libro. Se perdió. El relato nos llega por [[Cleómedes|Astrónomo griego que, siglos después, resumió el método de Eratóstenes en un manual de astronomía.]], que lo escribió siglos después. Aun así, el método es impecable: lo puede repetir hoy cualquier escuela con dos palos y un teléfono.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eratosthenes_measure_of_Earth_circumference.svg?width=900",
+     "alt": "Diagrama: rayos del sol paralelos, un palo sin sombra en Siena y uno con sombra en Alejandría",
+     "pie": "El ángulo de la sombra en Alejandría es el mismo que separa a las dos ciudades desde el centro de la Tierra",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "Medir lo grande con lo pequeño",
+    "texto": "Eratóstenes no midió la Tierra. Midió algo pequeño que sí podía medir (una sombra y una distancia) y encontró la **proporción** que lo unía con lo grande.\n\nLa herramienta tiene tres pasos:\n\n**1. Encuentra una parte que sí puedas medir.** No el todo, una muestra.\n\n**2. Encuentra qué fracción del todo es esa parte.** En su caso, 1/50 del círculo.\n\n**3. Multiplica y revisa tus supuestos.** Su cálculo dependía de que Siena estuviera justo al sur y de que la distancia fuera correcta. Ninguno era perfecto, y aun así la respuesta salió del orden correcto.\n\nEs lo que hoy se llama una [[estimación de Fermi|Cálculo aproximado de algo difícil de medir, partiendo de datos sencillos y proporciones razonables.]]: no buscas la cifra exacta, buscas no equivocarte por diez veces."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "De Colón a tu próxima marca",
+    "texto": "**Colón no quería probar que la Tierra era redonda.** Eso ya lo sabía cualquier persona educada en 1492. El mito de que todos creían en una Tierra plana lo popularizó Washington Irving en una biografía de 1828. La verdadera discusión era el tamaño. Colón usó cifras mucho menores que las de Eratóstenes y creyó que Asia estaba cerca. Se equivocó en la proporción, y por suerte había un continente en medio.\n\n**En un negocio.** ¿Cuántas latas de un coctel listo para tomar podría vender una marca premium en Guadalajara? No lo sabes, pero puedes estimarlo: cuántos adultos hay en la zona metropolitana, qué fracción compra bebidas premium, cuántas veces al mes y qué parte del anaquel podrías ganar. Cada supuesto se discute, como el estadio de Eratóstenes. Pero el cálculo te dice si el mercado es de miles o de millones, y eso decide si vale la pena entrar."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿Qué pregunta grande te has dejado de hacer porque parecía imposible de medir?",
+    "texto": "La próxima vez que algo te parezca incalculable, busca su «sombra»: una parte pequeña que sí puedas medir y una proporción que la conecte con el todo."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "No hace falta recorrer el mundo para medirlo: basta una parte bien medida y la proporción correcta."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "University of Puget Sound (James Evans): Two Earths, el método de Eratóstenes explicado",
+   "url": "https://www.pugetsound.edu/two-earths-eratosthenes",
+   "minutos": 10
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Qué midió Eratóstenes en Alejandría y qué dato usó de Siena?",
+    "respuesta": "El ángulo de la sombra al mediodía del solsticio: 1/50 de círculo (unos 7.2°). De Siena, que ese día no había sombra, y que estaba a unos 5,000 estadios."
+   },
+   {
+    "pregunta": "¿Por qué no sabemos exactamente qué tan cerca estuvo Eratóstenes?",
+    "respuesta": "Porque no sabemos qué estadio usó: con el ático da unos 46,000 km (15% de más); con el egipcio, unos 39,600 km, casi exacto."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "University of Puget Sound, James Evans: Two Earths",
+    "url": "https://www.pugetsound.edu/two-earths-eratosthenes"
+   },
+   {
+    "nombre": "Wikipedia: Cleómedes",
+    "url": "https://es.wikipedia.org/wiki/Cle%C3%B3medes"
+   },
+   {
+    "nombre": "History.com: Christopher Columbus never set out to prove the earth was round",
+    "url": "https://www.history.com/news/christopher-columbus-never-set-out-to-prove-the-earth-was-round"
+   },
+   {
+    "nombre": "Wikipedia: Mito de la creencia en una Tierra plana",
+    "url": "https://es.wikipedia.org/wiki/Mito_de_la_creencia_en_una_Tierra_plana"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Relaciones y vida social",
+   "pilar": "caracter",
+   "formato": "elCaso",
+   "titulo": "El estudio de Harvard que lleva más de 85 años siguiendo vidas: qué predice una vejez sana",
+   "contexto": "En 1938, Harvard empezó a seguir a 268 estudiantes de segundo año. Después sumó a 456 jóvenes de barrios pobres de Boston. Les hicieron entrevistas, análisis médicos y cuestionarios durante décadas. Algunos llegaron a presidentes de empresa; uno, John F. Kennedy, a presidente de EE. UU.\n\nEs uno de los estudios más largos de la historia sobre la vida adulta. Cuando los participantes llegaron a los 80 años, los investigadores miraron hacia atrás para ver qué los distinguía a los 50.",
+   "pregunta": "¿Qué dato a los 50 años predecía mejor quiénes estarían sanos a los 80?",
+   "opciones": [
+    "Su nivel de colesterol",
+    "Qué tan satisfechos estaban con sus relaciones",
+    "Cuánto dinero ganaban"
+   ],
+   "correcta": 1,
+   "revelacion": "**La satisfacción con sus relaciones.** «Las personas más satisfechas con sus relaciones a los 50 fueron las más sanas a los 80», resumió en 2017 la Gaceta de Harvard. Según el estudio, ese dato predijo mejor la salud que el colesterol.\n\nRobert Waldinger, su cuarto director, lo explica así: las relaciones cercanas protegen del desgaste de la vida. No se trata de cuántos amigos tienes, sino de la calidad de los vínculos y de tener a quién llamar en una mala noche. La soledad, en cambio, se asoció con peor salud y con un declive más temprano del cerebro.\n\nOjo con la lectura: es un estudio de observación, no un experimento. Muestra una asociación fuerte y repetida, no prueba por sí solo que las relaciones causen la salud. Pero es difícil encontrar otro hallazgo que haya resistido tantas décadas.",
+   "idea": "Cuidar tus relaciones no es un lujo: es una inversión de largo plazo en salud.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard_Yard,_Harvard_University.JPG?width=900",
+    "alt": "Edificios de ladrillo y árboles en el patio de la Universidad de Harvard",
+    "pie": "Harvard Yard. El estudio empezó en 1938 con estudiantes de segundo año de esta universidad",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Harvard Gazette: Over nearly 80 years, Harvard study has been showing how to live a healthy and happy life (11 abr 2017)",
+    "url": "https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/"
+   },
+   "wiki": "Felicidad",
+   "claves": [
+    {
+     "nombre": "Universidad de Harvard",
+     "quien": "La universidad que inició el estudio en 1938.",
+     "wiki": "Universidad de Harvard"
+    },
+    {
+     "nombre": "Soledad",
+     "quien": "El estado que el estudio asoció con peor salud y deterioro más temprano.",
+     "wiki": "Soledad"
+    },
+    {
+     "nombre": "Estudio longitudinal",
+     "quien": "Investigación que sigue a las mismas personas durante años.",
+     "wiki": "Estudio longitudinal"
+    }
+   ],
+   "repaso": {
+    "pregunta": "Según el estudio de Harvard, ¿qué dato a los 50 años predijo mejor la salud a los 80?",
+    "respuesta": "La satisfacción con las relaciones. Fue mejor predictor que el colesterol, aunque es un estudio de observación."
+   }
+  },
+  {
+   "materia": "Cine y fotografía",
+   "pilar": "cultura",
+   "formato": "diaQueCambio",
+   "titulo": "1878: las fotos de Muybridge que corrigieron a los pintores",
+   "contexto": "Durante siglos, los pintores dibujaron a los caballos al galope igual: con las patas delanteras estiradas hacia adelante y las traseras hacia atrás, como volando. Así los pintó Théodore Géricault en *El Derbi de Epsom*, de 1821, que hoy cuelga en el Louvre.\n\nEn junio de 1878, en la granja de Leland Stanford en Palo Alto, el fotógrafo Eadweard Muybridge colocó 12 cámaras en fila junto a una pista. Un caballo, al pasar, iba disparando cada una con hilos. Por primera vez, alguien iba a ver lo que el ojo no alcanza a ver.",
+   "pregunta": "¿En qué momento el caballo al galope tiene las cuatro patas en el aire?",
+   "opciones": [
+    "Cuando las patas están estiradas, como en los cuadros",
+    "Cuando las patas están recogidas bajo el cuerpo",
+    "Nunca: siempre hay una pata tocando el suelo"
+   ],
+   "correcta": 1,
+   "revelacion": "**Cuando las patas están recogidas bajo el cuerpo.** Las fotos mostraron que el caballo sí se despega del todo del suelo, pero no en la postura de los pintores. La «carrera voladora» de Géricault nunca existe.\n\nSe suele contar que Stanford hizo una apuesta de 25,000 dólares para resolver la duda. Según Stanford Magazine, casi todos los historiadores serios concluyen que esa apuesta no existió. Lo que sí existió fue una obsesión: Stanford criaba caballos de carrera y quería entender su movimiento.\n\nEl efecto fue enorme. Muybridge proyectó luego sus series con un aparato propio, el [[zoopraxiscopio|Aparato de Muybridge que proyectaba imágenes en secuencia y daba ilusión de movimiento; antecedente del cine.]]. Ver una secuencia de fotos fijas como movimiento es, en esencia, lo que hace el cine.",
+   "idea": "A veces el arte repite durante siglos lo que nadie ha visto: hace falta un instrumento para corregir la mirada.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Horse_in_Motion_high_res.jpg?width=900",
+    "alt": "Doce fotografías en secuencia de un jinete sobre un caballo al galope",
+    "pie": "The Horse in Motion (1878), de Eadweard Muybridge: la yegua Sallie Gardner al galope",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Stanford Magazine: The Man Who Stopped Time",
+    "url": "https://stanfordmag.org/contents/the-man-who-stopped-time/"
+   },
+   "wiki": "El caballo en movimiento",
+   "claves": [
+    {
+     "nombre": "Eadweard Muybridge",
+     "quien": "Fotógrafo inglés que captó el galope en 1878.",
+     "wiki": "Eadweard Muybridge"
+    },
+    {
+     "nombre": "Derbi en Epsom",
+     "quien": "Cuadro de Géricault (1821) con la postura que las fotos desmintieron.",
+     "wiki": "Derbi en Epsom"
+    },
+    {
+     "nombre": "Leland Stanford",
+     "quien": "Magnate del ferrocarril y criador de caballos que financió el experimento.",
+     "wiki": "Leland Stanford"
+    }
+   ],
+   "profundizar": {
+    "titulo": "IEEE Spectrum: June 1878, Muybridge photographs a galloping horse",
+    "url": "https://spectrum.ieee.org/amp/june-1878-muybridge-photographs-a-galloping-horse-2650278575"
+   },
+   "repaso": {
+    "pregunta": "¿Qué mostraron las fotos de Muybridge de 1878 sobre el galope?",
+    "respuesta": "Que el caballo despega las cuatro patas cuando están recogidas bajo el cuerpo, no estiradas como en los cuadros de Géricault."
+   }
+  },
+  {
+   "materia": "Ciudades del mundo",
+   "pilar": "mundo",
+   "formato": "comoFunciona",
+   "titulo": "Chicago, 1858–1861: levantar una ciudad con gatos de tornillo",
+   "contexto": "Chicago creció a la orilla de un lago, sobre un terreno casi al nivel del agua. Las calles eran lodazales y el drenaje no tenía hacia dónde correr. En 1854, una epidemia de [[cólera|Infección intestinal grave que se transmite por agua contaminada con heces.]] mató a cerca de 6% de la población.\n\nEl ingeniero Ellis Chesbrough propuso un sistema de alcantarillado. Había un problema: para que las aguas corrieran, los tubos debían ir por encima del suelo y cubrirse de tierra. La ciudad tendría que subir varios pies.",
+   "pregunta": "¿Qué hicieron con los edificios que ya estaban construidos?",
+   "opciones": [
+    "Los demolieron y los reconstruyeron más arriba",
+    "Los levantaron completos con miles de gatos de tornillo",
+    "Los dejaron abajo y construyeron un segundo piso de calles"
+   ],
+   "correcta": 1,
+   "revelacion": "**Los levantaron enteros.** En 1858 se elevó el primer edificio de ladrillo: 6 pies y 2 pulgadas (casi 1.9 metros) con unos 200 [[gatos de tornillo|Aparato mecánico que, al girar un tornillo, levanta grandes pesos poco a poco.]]. En 1860, una manzana entera de Lake Street subió 4 pies y 8 pulgadas con 6,000 gatos. Uno de los que dirigieron la obra fue George Pullman, que años después se haría rico con los coches cama de tren.\n\nEl caso más famoso es el hotel Tremont House, en 1861. Según la Encyclopedia of Chicago, unos 500 hombres con 1,000 gatos lo levantaron alrededor de 1.5 metros, y el hotel siguió abierto con huéspedes dentro. La técnica era sencilla: cada hombre giraba poco a poco varios gatos a la señal, y el edificio subía parejo, sin romper un vidrio.\n\nDebajo se rellenó con tierra y se tendieron las alcantarillas. Chicago resolvió un problema de salud con una obra que parecía imposible.",
+   "idea": "Cuando el problema está en los cimientos, a veces la solución no es demoler, sino levantar con paciencia.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Briggs_house.jpg?width=900",
+    "alt": "Grabado de un gran edificio de ladrillo sostenido sobre gatos mientras lo elevan",
+    "pie": "La elevación del hotel Briggs House en Chicago, en la década de 1860",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Encyclopedia of Chicago: Public Health",
+    "url": "https://encyclopedia.chicagohistory.org/pages/1020.html"
+   },
+   "wiki": "Chicago",
+   "claves": [
+    {
+     "nombre": "Río Chicago",
+     "quien": "El río al que iban las aguas negras; años después invirtieron su curso.",
+     "wiki": "Río Chicago"
+    },
+    {
+     "nombre": "Cólera",
+     "quien": "La enfermedad cuyo brote de 1854 empujó la obra.",
+     "wiki": "Cólera"
+    },
+    {
+     "nombre": "Coche cama",
+     "quien": "El invento que hizo famoso a George Pullman, uno de los que levantaron la ciudad.",
+     "wiki": "Coche cama"
+    }
+   ],
+   "profundizar": {
+    "titulo": "WTTW Chicago: cómo se levantó la ciudad",
+    "url": "https://www.wttw.com/node/107"
+   },
+   "repaso": {
+    "pregunta": "¿Por qué y cómo se elevó Chicago entre 1858 y 1861?",
+    "respuesta": "Para poder instalar alcantarillado tras el cólera de 1854. Levantaron los edificios con miles de gatos de tornillo y rellenaron debajo con tierra."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "sigueDinero",
+   "titulo": "Canva: regalar el diseño y cobrar por el equipo",
+   "contexto": "Melanie Perkins daba clases de diseño en Perth, Australia. Veía a sus alumnos sufrir con programas caros y difíciles. En 2012 fundó Canva con Cliff Obrecht y Cameron Adams: diseño en el navegador, con plantillas, gratis para empezar.\n\nHoy, según datos que la empresa dio a TechCrunch en febrero de 2026, Canva tiene más de 265 millones de usuarios activos al mes.",
+   "pregunta": "De esos 265 millones, ¿cuántos crees que pagan?",
+   "opciones": [
+    "Casi todos: el gratis es solo una prueba de 30 días",
+    "Alrededor de 31 millones, cerca de 12%",
+    "Menos de 1 millón"
+   ],
+   "correcta": 1,
+   "revelacion": "**Más de 31 millones pagan, cerca de 12%.** Y con eso Canva llegó a 4,000 millones de dólares de [[ingreso anualizado|Ingreso recurrente de un mes o periodo proyectado a un año completo; en inglés, ARR.]] a finales de 2025, según TechCrunch.\n\nSigue el dinero. El modelo es [[freemium|Ofrecer gratis una versión útil del producto y cobrar por funciones avanzadas.]]. Un usuario más casi no le cuesta: el diseño corre en servidores y las plantillas ya existen. Los gratuitos no son una pérdida: son el canal de marketing. Comparten diseños, los usan en la escuela y luego en el trabajo. Cuando un equipo necesita su marca, sus colores y sus fuentes en un solo lugar, paga.\n\nLa trampa del freemium es dar tanto gratis que nadie necesite pagar, o tan poco que nadie se quede. Canva puso el límite en lo que una empresa necesita y un estudiante no: kit de marca, colaboración y contenido premium.",
+   "idea": "En un buen freemium, el usuario gratuito es tu marketing y el cliente que paga es el que necesita trabajar en equipo.",
+   "fuente": {
+    "nombre": "TechCrunch: Canva gets to $4B in revenue as LLM referral traffic rises (18 feb 2026)",
+    "url": "https://techcrunch.com/2026/02/18/canva-gets-to-4b-in-revenue-as-llm-referral-traffic-rises/"
+   },
+   "wiki": "Canva",
+   "claves": [
+    {
+     "nombre": "Freemium",
+     "quien": "El modelo de negocio de Canva: gratis para empezar, pago para más.",
+     "wiki": "Freemium"
+    },
+    {
+     "nombre": "Software como servicio",
+     "quien": "Software que se usa por internet y se paga por suscripción.",
+     "wiki": "Software como servicio"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué parte de los usuarios de Canva paga y por qué funciona su freemium?",
+    "respuesta": "Más de 31 millones de 265 millones, cerca de 12%. Los gratuitos hacen marketing; pagan sobre todo equipos y empresas que necesitan su marca y colaborar."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Filosofía para vivir",
+   "pilar": "mente",
+   "epoca": "Siglo VI a. C.",
+   "titulo": "El primer filósofo ganó dinero para callar una burla",
+   "dato": "Según Aristóteles, a Tales de Mileto le reprochaban que la filosofía no servía para nada. Previó una gran cosecha de aceituna, apartó en invierno, con pequeños depósitos, todas las prensas de aceite de Mileto y Quíos, y en la cosecha las realquiló caras.",
+   "explicacion": "Aristóteles lo cuenta en la *Política* como ejemplo de [[monopolio|Situación en la que un solo vendedor controla toda la oferta de un bien.]]. Tales no compró las prensas: pagó poco por el derecho a usarlas cuando nadie las quería. Es la lógica de una opción financiera, más de dos mil años antes de que existiera el nombre.\n\nLa moraleja que saca Aristóteles es otra: el filósofo puede hacerse rico si quiere, pero no es eso lo que le interesa. Tales quería demostrar un punto, no fundar un negocio.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thales.jpg?width=900",
+    "alt": "Grabado antiguo del rostro de Tales de Mileto",
+    "pie": "Tales de Mileto, considerado el primer filósofo griego",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Aristóteles, Política I, 11 (1259a), traducción en Perseus",
+    "url": "https://hsalbert.blogspot.com/2017/09/aristotle-politics-1259a.html"
+   },
+   "wiki": "Tales de Mileto",
+   "claves": [
+    {
+     "nombre": "Aristóteles",
+     "quien": "El filósofo que contó la anécdota en su Política.",
+     "wiki": "Aristóteles"
+    },
+    {
+     "nombre": "Opción financiera",
+     "quien": "Contrato que da el derecho, no la obligación, de comprar o usar algo a un precio fijado.",
+     "wiki": "Opción financiera"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo ganó dinero Tales de Mileto según Aristóteles?",
+    "respuesta": "Apartó barato en invierno todas las prensas de aceite y las realquiló caras en una gran cosecha que había previsto."
+   }
+  },
+  {
+   "materia": "Relaciones y vida social",
+   "pilar": "caracter",
+   "epoca": "1862",
+   "titulo": "Una sonrisa falsa se delata en los ojos",
+   "dato": "En 1862, el médico francés Guillaume Duchenne aplicó corrientes eléctricas a la cara de voluntarios y las fotografió. Descubrió que la boca sonríe a voluntad, pero el músculo que arruga los ojos solo se contrae con una alegría real.",
+   "explicacion": "La sonrisa sincera combina dos músculos: el cigomático mayor, que sube las comisuras, y el [[orbicular de los ojos|Músculo que rodea el ojo; al contraerse forma las «patas de gallo».]]. Duchenne escribió que este último solo obedece a las «dulces emociones del alma». En el siglo XX, Paul Ekman y sus colegas retomaron la distinción y popularizaron el nombre de «sonrisa de Duchenne».\n\nNo es un detector infalible: algunas personas pueden imitarla. Pero explica por qué una sonrisa de foto oficial se siente fría y la de un amigo no.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Duchenne-FacialExpressions.jpg?width=900",
+    "alt": "Fotografías antiguas de un hombre con electrodos en la cara mostrando expresiones",
+    "pie": "Láminas de Duchenne de Boulogne en Mecanismo de la fisonomía humana (1862)",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "APS Observer: The Psychological Study of Smiling",
+    "url": "https://www.psychologicalscience.org/observer/the-psychological-study-of-smiling"
+   },
+   "wiki": "Sonrisa de Duchenne",
+   "claves": [
+    {
+     "nombre": "Emoción",
+     "quien": "Lo que, según Duchenne, solo una sonrisa sincera revela.",
+     "wiki": "Emoción"
+    },
+    {
+     "nombre": "Paul Ekman",
+     "quien": "Psicólogo que estudió las expresiones faciales y las emociones.",
+     "wiki": "Paul Ekman"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué distingue una sonrisa sincera según Duchenne?",
+    "respuesta": "Que además de la boca se contrae el músculo orbicular de los ojos, que no se mueve fácilmente a voluntad."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "epoca": "1930",
+   "titulo": "Los dos balones de la final de 1930 quizá nunca existieron",
+   "dato": "Se cuenta que en la primera final del Mundial, Uruguay contra Argentina, se jugó un tiempo con el balón de cada país. Según la revista When Saturday Comes, ninguna fuente de la época lo menciona y las fotos parecen mostrar el balón argentino todo el partido.",
+   "explicacion": "Lo seguro: la final se jugó el 30 de julio de 1930 en el Estadio Centenario de Montevideo. Argentina ganaba 2-1 al descanso y Uruguay ganó 4-2. Los dos equipos discutieron qué balón usar y el árbitro belga, John Langenus, lo resolvió con una moneda.\n\nLa versión de «un balón por tiempo» explica tan bien la remontada que se repite como hecho. Es un buen ejemplo de cómo una historia redonda le gana a una incierta. Hasta Wikipedia recoge las dos versiones.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Uruguay_goal_v_argentina_1930.jpg?width=900",
+    "alt": "Foto antigua de un gol en un estadio lleno",
+    "pie": "Un gol de Uruguay contra Argentina en la final del 30 de julio de 1930",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "When Saturday Comes: sobre los balones de la final de 1930",
+    "url": "https://wsc.co.uk/?p=8130"
+   },
+   "wiki": "Copa Mundial de Fútbol de 1930",
+   "claves": [
+    {
+     "nombre": "Estadio Centenario",
+     "quien": "El estadio de Montevideo construido para el Mundial de 1930.",
+     "wiki": "Estadio Centenario"
+    },
+    {
+     "nombre": "Selección de fútbol de Uruguay",
+     "quien": "La primera campeona del mundo.",
+     "wiki": "Selección de fútbol de Uruguay"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué es seguro y qué es dudoso sobre los balones de la final de 1930?",
+    "respuesta": "Es seguro que hubo disputa y que el árbitro la resolvió con una moneda; es dudoso que se usara un balón por tiempo."
+   }
+  },
+  {
+   "materia": "Literatura y mitología",
+   "pilar": "cultura",
+   "epoca": "1616",
+   "titulo": "Cervantes y Shakespeare no murieron el mismo día",
+   "dato": "El Día del Libro se celebra el 23 de abril porque ese día de 1616 «murieron» Cervantes y Shakespeare. Pero Cervantes murió el 22 y fue enterrado el 23, e Inglaterra usaba otro calendario: en el nuestro, Shakespeare murió el 3 de mayo.",
+   "explicacion": "España ya usaba el [[calendario gregoriano|El calendario que usamos hoy, impulsado por el papa Gregorio XIII en 1582.]]; Inglaterra seguía con el juliano, diez días atrasado. Así, dos fechas que se escriben igual caen en días distintos. La fecha de la muerte de Cervantes se tomó de la de su entierro.\n\nLa UNESCO aprobó el Día Internacional del Libro en noviembre de 1995. La coincidencia es casi cierta en el papel y falsa en el cielo, y aun así sirve: une a los dos escritores más grandes de sus lenguas.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cervantes_Jáuregui.jpg?width=900",
+    "alt": "Retrato de un hombre con barba y gorguera blanca",
+    "pie": "Retrato atribuido a Juan de Jáuregui, tradicionalmente identificado como Cervantes",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: Día Internacional del Libro",
+    "url": "https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_del_Libro"
+   },
+   "wiki": "Día Internacional del Libro",
+   "claves": [
+    {
+     "nombre": "Miguel de Cervantes",
+     "quien": "Autor del Quijote; murió en Madrid en abril de 1616.",
+     "wiki": "Miguel de Cervantes"
+    },
+    {
+     "nombre": "William Shakespeare",
+     "quien": "Dramaturgo inglés; murió en Stratford en 1616.",
+     "wiki": "William Shakespeare"
+    },
+    {
+     "nombre": "Calendario juliano",
+     "quien": "El calendario que seguía usando Inglaterra en 1616.",
+     "wiki": "Calendario juliano"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué Cervantes y Shakespeare no murieron el mismo día?",
+    "respuesta": "Cervantes murió el 22 de abril (enterrado el 23) y Shakespeare el 23 de abril juliano, que es el 3 de mayo gregoriano."
+   }
+  },
+  {
+   "materia": "Historia y geopolítica",
+   "pilar": "mundo",
+   "epoca": "1919",
+   "titulo": "Alemania nació y fue humillada en la misma sala",
+   "dato": "El Imperio alemán se proclamó el 18 de enero de 1871 en la Galería de los Espejos de Versalles, tras vencer a Francia. Francia eligió esa misma sala para que Alemania firmara su derrota el 28 de junio de 1919, cinco años exactos después del atentado de Sarajevo.",
+   "explicacion": "Los lugares y las fechas fueron una forma de hablar. En 1871, Prusia coronó a su rey como emperador en el palacio del rey de Francia. En 1919, Francia devolvió el gesto en el mismo salón, y en el aniversario del disparo que abrió la guerra.\n\nEl [[Tratado de Versalles|Acuerdo de paz de 1919 que impuso a Alemania pérdidas territoriales, desarme y reparaciones de guerra.]] entró en vigor el 10 de enero de 1920. Muchos historiadores ven en su dureza, y en esa humillación simbólica, una de las semillas del resentimiento que Hitler explotó después.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Orpen_-_The_Signing_of_Peace_in_the_Hall_of_Mirrors.jpg?width=900",
+    "alt": "Pintura de diplomáticos en una mesa larga bajo un salón de espejos",
+    "pie": "La firma de la paz en la Galería de los Espejos, pintada por William Orpen (1919)",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: Tratado de Versalles (1919)",
+    "url": "https://es.wikipedia.org/wiki/Tratado_de_Versalles_(1919)"
+   },
+   "wiki": "Tratado de Versalles (1919)",
+   "claves": [
+    {
+     "nombre": "Galería de los Espejos",
+     "quien": "El salón del palacio de Versalles donde ocurrieron ambos actos.",
+     "wiki": "Galería de los Espejos"
+    },
+    {
+     "nombre": "Imperio alemán",
+     "quien": "El Estado proclamado en 1871 bajo Guillermo I y Bismarck.",
+     "wiki": "Imperio alemán"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué dos actos ocurrieron en la Galería de los Espejos de Versalles?",
+    "respuesta": "La proclamación del Imperio alemán (18 ene 1871) y la firma del Tratado de Versalles (28 jun 1919)."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "epoca": "2003",
+   "titulo": "Un millón de canciones a 99 centavos en una semana",
+   "dato": "Apple abrió la iTunes Music Store el 28 de abril de 2003 con canciones a 99 centavos. Una semana después anunció que había vendido más de un millón, y que más de la mitad se compró como álbum completo.",
+   "explicacion": "En plena época de la piratería, la apuesta era que mucha gente pagaría si comprar era más fácil que robar. Cada canción extra casi no costaba: el archivo ya existía y se copiaba sin límite. Lo caro fue convencer a las disqueras de vender canción por canción.\n\nEl precio único, simple y bajo, quitó la duda de cada compra. Fue una de las primeras pruebas masivas de que un producto digital, bien empaquetado, se puede vender a millones.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lightmatter_ipod_1G.jpg?width=900",
+    "alt": "Reproductor de música blanco con rueda de control",
+    "pie": "Un iPod de primera generación (2001), el aparato para el que nació la tienda",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Apple Newsroom: iTunes Music Store Sells Over One Million Songs in First Week (5 may 2003)",
+    "url": "https://apple.com/newsroom/2003/05/05iTunes-Music-Store-Sells-Over-One-Million-Songs-in-First-Week"
+   },
+   "wiki": "iTunes Store",
+   "claves": [
+    {
+     "nombre": "iPod",
+     "quien": "El reproductor de Apple que hizo útil la tienda.",
+     "wiki": "iPod"
+    },
+    {
+     "nombre": "Steve Jobs",
+     "quien": "Cofundador de Apple, que negoció con las disqueras.",
+     "wiki": "Steve Jobs"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuántas canciones vendió iTunes en su primera semana de 2003 y a qué precio?",
+    "respuesta": "Más de un millón, a 99 centavos de dólar cada una."
+   }
+  },
+  {
+   "materia": "IA y el futuro",
+   "pilar": "futuro",
+   "epoca": "2022",
+   "titulo": "Una IA predijo en dos años lo que costaba décadas",
+   "dato": "En julio de 2022, DeepMind y el EMBL-EBI ampliaron la base de datos de AlphaFold de casi un millón a más de 200 millones de estructuras de proteínas: prácticamente todas las conocidas por la ciencia.",
+   "explicacion": "La forma tridimensional de una proteína decide qué hace en el cuerpo. Antes, descubrirla en el laboratorio podía tomar años por cada proteína. AlphaFold aprendió a predecirla a partir de su secuencia de aminoácidos.\n\nEn 2024, Demis Hassabis y John Jumper compartieron media parte del Premio Nobel de Química por esa predicción; la otra mitad fue para David Baker, por diseñar proteínas nuevas por computadora. Es uno de los primeros Nobel ganados con [[aprendizaje profundo|Técnica de inteligencia artificial que aprende patrones con redes neuronales de muchas capas.]].",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/C12orf29_AlphaFold.png?width=900",
+    "alt": "Estructura de proteína en forma de cintas de colores",
+    "pie": "Estructura de una proteína humana predicha por AlphaFold",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Google DeepMind: AlphaFold reveals the structure of the protein universe (28 jul 2022)",
+    "url": "https://deepmind.google/blog/alphafold-reveals-the-structure-of-the-protein-universe/"
+   },
+   "wiki": "Predicción de la estructura de las proteínas",
+   "claves": [
+    {
+     "nombre": "Premio Nobel de Química",
+     "quien": "El premio que en 2024 reconoció la predicción de proteínas con IA.",
+     "wiki": "Premio Nobel de Química"
+    },
+    {
+     "nombre": "Aprendizaje profundo",
+     "quien": "La técnica de IA detrás de AlphaFold.",
+     "wiki": "Aprendizaje profundo"
+    },
+    {
+     "nombre": "Proteína",
+     "quien": "Las moléculas cuya forma predice AlphaFold.",
+     "wiki": "Proteína"
+    }
+   ],
+   "profundizar": {
+    "titulo": "Lindau Nobel: Premio Nobel de Química 2024",
+    "url": "https://www.lindau-nobel.org/news-nobel-prize-in-chemistry-2024/"
+   },
+   "repaso": {
+    "pregunta": "¿Cuántas estructuras de proteínas publicó AlphaFold en 2022 y qué premio siguió?",
+    "respuesta": "Más de 200 millones; en 2024, Hassabis y Jumper compartieron el Nobel de Química (con David Baker)."
+   }
+  },
+  {
+   "materia": "Oficios del lujo y estilo",
+   "pilar": "gusto",
+   "epoca": "2006",
+   "titulo": "Las semillas del quilate no pesaban todas igual",
+   "dato": "Se repite que el quilate viene de la semilla del algarrobo porque todas pesan lo mismo. Un estudio de 2006 midió miles: varían tanto como las semillas de otras especies.",
+   "explicacion": "El equipo de Lindsay Turnbull, publicado en la revista *Proceedings of the Royal Society B*, encontró que el peso de las semillas de algarrobo varía alrededor de 23%, frente a 25% de promedio en 63 especies. No son especialmente uniformes. Una persona, eso sí, apenas distingue diferencias de 5% al sostener objetos, y los antiguos patrones de quilate variaban más o menos eso. Los autores concluyen que el mito nació de los humanos, no de la naturaleza.\n\nEl nombre sí viene del algarrobo (en griego, *kerátion*). Pero desde 1907 el [[quilate métrico|Unidad de peso de las piedras preciosas: exactamente 200 miligramos.]] mide exactamente 200 miligramos, sin semillas de por medio.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ceratonia_silica_seeds.jpg?width=900",
+    "alt": "Semillas de algarrobo marrones y brillantes",
+    "pie": "Semillas de algarrobo (Ceratonia siliqua)",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "University of Oxford, Department of Biology: Seed size variability, from carob to carats",
+    "url": "https://www.biology.ox.ac.uk/node/1156836"
+   },
+   "wiki": "Quilate",
+   "claves": [
+    {
+     "nombre": "Algarrobo",
+     "quien": "El árbol mediterráneo cuyas semillas dieron nombre al quilate.",
+     "wiki": "Ceratonia siliqua"
+    },
+    {
+     "nombre": "Diamante",
+     "quien": "La piedra que más se asocia con el peso en quilates.",
+     "wiki": "Diamante"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Es cierto que las semillas de algarrobo pesan siempre lo mismo?",
+    "respuesta": "No. Un estudio de 2006 halló que varían cerca de 23%, como otras semillas. Desde 1907 el quilate métrico es de 200 mg."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "Ensayos",
+  "autor": "Michel de Montaigne",
+  "capitulo": {
+   "numero": 6,
+   "total": 6,
+   "titulo": "«Cuando bailo, bailo»: de la experiencia"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Montaigne-Dumonstier.jpg?width=900",
+   "alt": "Retrato de un hombre de barba corta con gorguera blanca",
+   "pie": "Michel de Montaigne, retrato atribuido a Dumonstier",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "Piensa en un día en que sentiste que no hiciste nada. Ni pendientes cerrados, ni logros, ni nada que contar. ¿Ese día lo perdiste?\n\nMontaigne diría que no. Y para explicarlo escribió el ensayo más largo y más personal de todo su libro, el último que puso en los *Ensayos*. Se llama «De la experiencia», y es la despedida de un hombre que pasó veinte años mirándose a sí mismo para entender a todos."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La última pregunta"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El ensayo empieza con una frase sencilla: no hay deseo más natural que el de conocer. Cuando la razón no alcanza, dice Montaigne, recurrimos a la experiencia. Es un medio más débil y menos digno, pero es el que tenemos.\n\nLa primera mitad del texto es un ataque a una ilusión muy de abogado: la idea de que más leyes producen más justicia. Montaigne fue magistrado en el [[Parlamento de Burdeos|Tribunal superior de justicia de la región de Burdeos en la Francia del Antiguo Régimen; no era un órgano legislativo.]] durante trece años. Sabía de lo que hablaba. Francia, escribe, tiene más leyes que el resto del mundo junto, y aun así los pleitos no se acaban.\n\nLa razón es que ningún caso se parece del todo a otro. Los hechos cambian sin fin; las leyes son pocas y fijas. Cuantas más reglas escribes para cubrir cada situación, más dudas generas sobre cuál aplica. Y cada comentario de un jurista abre nuevas preguntas. Montaigne lo resume con ironía: cuesta más interpretar las interpretaciones que las cosas, y hay más libros sobre libros que sobre cualquier otro tema."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Un ensayo que creció",
+    "texto": "«De la experiencia» es el capítulo 13 del libro III, el último de los *Ensayos*. Apareció en la edición de 1588, y Montaigne siguió añadiéndole notas a mano hasta su muerte, en 1592."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Si no podemos fiarnos de las reglas universales, ¿de qué nos fiamos? Montaigne responde con algo que parece pequeño: de lo que cada uno aprende de sí mismo, si se observa con atención."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Me estudio a mí mismo más que a cualquier otro tema: es mi metafísica, es mi física.",
+    "fuente": "Ensayos, III, 13, «De la experiencia» (traducción de Charles Cotton)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "No es vanidad. Es método. Si te miras con honestidad, descubres lo mismo que él: que te equivocas a menudo, que tu memoria falla, que tu juicio cambia con el humor y con la digestión. Esa lección vale más que mil ejemplos ajenos. Quien conoce bien sus propios errores, dice, desconfía de su certeza y aprende a ser más modesto con los demás."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Por qué Montaigne desconfía de llenar un país de leyes muy detalladas?",
+    "opciones": [
+     "Porque pensaba que los jueces eran corruptos",
+     "Porque los casos reales varían sin fin y más reglas generan más dudas",
+     "Porque prefería que el rey decidiera cada caso"
+    ],
+    "correcta": 1,
+    "explicacion": "Para Montaigne, ninguna lista de reglas alcanza a cubrir la variedad de los hechos. Multiplicarlas solo multiplica las interpretaciones."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El cuerpo como maestro"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La segunda mitad del ensayo cambia de tono. Montaigne habla de su cuerpo: qué come, cómo duerme, qué le sienta bien. Puede parecer trivial. No lo es.\n\nDesde los 45 años sufría [[cálculos renales|Piedras que se forman en el riñón y causan dolores muy intensos al bajar por las vías urinarias.]], lo que él llama «el mal de piedra». Era el mismo mal que había matado a su padre. Los ataques llegaban sin aviso y dolían como pocas cosas. Montaigne no los describe con autocompasión, sino con una curiosidad casi médica.\n\nIncluso le encuentra virtudes a la piedra. Dice que tiene un privilegio: cuando se va, se va del todo. Entre ataque y ataque, el cuerpo queda libre y el gozo de estar sano es más vivo, precisamente porque sabe que el dolor volverá.\n\nDe esa experiencia saca una lección práctica. Desconfía de los médicos de su tiempo y de sus remedios cambiantes. Prefiere seguir sus costumbres, observar qué le funciona y no pelear con la naturaleza. Tampoco se encierra en prohibiciones: estar enfermo y además privarse de comer ostras, escribe, son dos males en lugar de uno."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Vivir no es una pérdida de tiempo"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Aquí llega el centro del ensayo. Montaigne se burla de una frase que todos decimos: «hoy no hice nada»."
+   },
+   {
+    "tipo": "cita",
+    "texto": "¿Qué? ¿No has vivido? Esa no es solo la fundamental, sino la más ilustre de tus ocupaciones.",
+    "fuente": "Ensayos, III, 13, «De la experiencia» (traducción de Charles Cotton)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Para él, vivir no es el intermedio entre logros. Es el logro. Componer tu carácter, ordenar tu día, comer con calma, conversar bien: eso es lo importante. Escribir libros, ganar batallas o construir edificios son, a su lado, adornos y apoyos.\n\nLo dice con una frase que resume todo su libro: la obra maestra gloriosa del hombre es vivir como es debido. No vivir para algo que vendrá después, sino vivir bien ahora."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Cuando bailo, bailo; cuando duermo, duermo.",
+    "fuente": "Ensayos, III, 13, «De la experiencia» (traducción de Charles Cotton)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es quizá su frase más citada, y la más actual. Montaigne explica que, cuando pasea solo por un jardín hermoso y su mente se va a otra parte, la trae de vuelta al jardín, a la soledad y a sí mismo. No se trata de dejar de pensar, sino de no perderse lo que tienes enfrente.\n\nCuatro siglos antes de que existieran los teléfonos, describió el problema exacto: estar en un lugar con el cuerpo y en otro con la cabeza."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Qué quiere decir Montaigne con «cuando bailo, bailo; cuando duermo, duermo»?",
+    "opciones": [
+     "Que hay que dormir y divertirse más de lo que trabajamos",
+     "Que conviene hacer cada cosa a la vez, sin mezclarlas",
+     "Que hay que estar presente en lo que haces, en vez de vivir con la mente en otra parte"
+    ],
+    "correcta": 2,
+    "explicacion": "Montaigne cuenta que, si paseando su mente se va lejos, la trae de vuelta al jardín. La frase es una invitación a la atención, no a la pereza."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Una lección para quien escribe contratos"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Para un abogado, la primera mitad del ensayo es una advertencia útil. Un contrato que intenta prever cada caso posible se vuelve largo, rígido y lleno de huecos entre cláusulas. Montaigne diría que la realidad siempre inventa un caso que nadie escribió.\n\nNo propone renunciar a las reglas. Propone pocas, claras y aplicadas con juicio. Lo mismo vale para dirigir una empresa: un manual de cien páginas no sustituye a un equipo que entiende el propósito de cada regla y sabe qué hacer cuando la regla no alcanza.\n\nY vale para la experiencia propia. Montaigne no confía en la experiencia ajena contada en libros tanto como en la que cada uno ha vivido y examinado. Un error que tú cometiste y entendiste enseña más que diez casos de estudio leídos de prisa. La condición es mirarlo con honestidad, sin excusas y sin flagelarse, como él miraba sus propios cálculos."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El trono y el trasero"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Hacia el final, Montaigne ataca a quienes desprecian el cuerpo y quieren vivir solo de ideas elevadas. Hay gente, dice, que quiere salirse de sí misma y escapar de su condición humana. Es una locura: en lugar de volverse ángeles, se vuelven bestias; en lugar de elevarse, se derrumban.\n\nPara bajarlos de las nubes usa una de las frases más divertidas de la literatura francesa."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Y aun sentados en el trono más elevado del mundo, no estamos sentados sino sobre nuestro trasero.",
+    "fuente": "Ensayos, III, 13, «De la experiencia» (traducción de Charles Cotton)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es una broma, pero también una lección de humildad. El rey más poderoso come, duerme, se enferma y se cansa como cualquiera. Nadie está por encima de su cuerpo. Reconocerlo no te hace menos digno: te hace más sabio.\n\nPor eso Montaigne termina admirando las vidas ordinarias bien vividas por encima de las vidas extraordinarias mal vividas. La más bella, dice, es la que se ajusta al modelo común y humano, con orden, sin milagros y sin extravagancias."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Lo que deja el libro"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Con este ensayo terminan los *Ensayos*, y también nuestra lectura. En seis capítulos vimos a un hombre que se retiró a una torre para entenderse, que se describió tal como era y no como debía ser, que separó la culpa de la mala suerte y que, al final, eligió la vida concreta por encima de las grandes teorías.\n\nMontaigne no deja un sistema. Deja una actitud: mirarse con curiosidad y sin drama, desconfiar de las certezas, y tomarse en serio lo pequeño. Por eso, cuatro siglos después, sigue leyéndose como si hablara con nosotros.\n\nEl próximo libro de AUXO cambia de tono por completo. Pasamos del hombre que se miraba a sí mismo al hombre que miró el poder sin ilusiones: Nicolás Maquiavelo y *El Príncipe*, escrito en el exilio en 1513. Ya lo conoces de la temporada de Florencia. Ahora vamos a leerlo."
+   }
+  ],
+  "paraLlevar": [
+   "Ninguna regla cubre todos los casos: aprende de tu propia experiencia, observada con honestidad.",
+   "Un día en que «no hiciste nada» pero viviste bien no es un día perdido.",
+   "Cuando hagas algo, hazlo entero: cuando bailes, baila."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Qué crítica hace Montaigne a las leyes muy detalladas en «De la experiencia»?",
+    "respuesta": "Que los casos reales varían sin fin y las leyes son fijas: más reglas y más comentarios solo generan más dudas y más pleitos."
+   },
+   {
+    "pregunta": "¿Qué enseña la frase del «trono más elevado» y el «trasero»?",
+    "respuesta": "Que nadie está por encima de su condición humana y de su cuerpo; despreciarlo es una forma de soberbia."
+   }
+  ],
+  "proximo": "El Príncipe (Maquiavelo) · Capítulo 1: un manual escrito en el exilio",
+  "fuentes": [
+   {
+    "nombre": "Proyecto Gutenberg: Essays of Michel de Montaigne (trad. Charles Cotton, ed. W. C. Hazlitt, 1877), «Of Experience»",
+    "url": "https://www.gutenberg.org/files/3600/3600-h/3600-h.htm"
+   },
+   {
+    "nombre": "Encyclopaedia Britannica: Michel de Montaigne",
+    "url": "https://www.britannica.com/biography/Michel-de-Montaigne"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de Charles Cotton (1685, dominio público), edición de W. C. Hazlitt (1877) en el Proyecto Gutenberg. En las ediciones modernas, «De la experiencia» es el capítulo 13 del libro III."
+ },
+ "palabra": {
+  "palabra": "Cenit",
+  "categoria": "Sustantivo masculino",
+  "pronunciacion": "CE-nit (también se acepta «cénit»: CÉ-nit)",
+  "definicion": "Punto del cielo que está exactamente sobre la cabeza de un observador. En sentido figurado, el punto más alto o el momento de mayor esplendor de algo.",
+  "origen": "Del árabe *samt ar-ra's*, «camino de la cabeza». Al copiarse en latín medieval, la *m* se leyó como *ni* y quedó «cenit».",
+  "ejemplo": "En Siena, el día del solsticio, el sol del mediodía estaba en el cenit y los pozos no tenían sombra.",
+  "repaso": {
+   "pregunta": "¿Qué significa «cenit» y de qué lengua viene?",
+   "respuesta": "El punto del cielo justo sobre tu cabeza; en sentido figurado, el momento de mayor esplendor. Viene del árabe «camino de la cabeza»."
+  }
+ },
+ "frances": {
+  "frase": "Ce n'est pas la mer à boire.",
+  "traduccion": "No es para tanto. (Literalmente: «No es beberse el mar».)",
+  "pronunciacion": "se ne pa la MER a BUAR",
+  "uso": "Cotidiano y de conversación. Se dice para quitarle dramatismo a una tarea que parece enorme pero no lo es: un trámite, un examen, una mudanza. Eratóstenes lo habría dicho de medir la Tierra.",
+  "variante": "Más coloquial: « C'est pas sorcier. » («No es brujería», no es tan difícil.)",
+  "repaso": {
+   "pregunta": "¿Cómo dices en francés «no es para tanto», con la imagen de beberse el mar?",
+   "respuesta": "« Ce n'est pas la mer à boire. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Qué dato midió Eratóstenes en Alejandría para calcular el tamaño de la Tierra?",
+   "opciones": [
+    "La altura de las estrellas sobre el horizonte durante un año",
+    "El tiempo que tardaba un barco en llegar a Siena",
+    "El ángulo de la sombra de un palo al mediodía del solsticio"
+   ],
+   "correcta": 2,
+   "explicacion": "La sombra formaba 1/50 de círculo (unos 7.2°). Multiplicando por 50 la distancia a Siena, obtuvo la circunferencia."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Quién quedó como CEO interina de Nvidia tras la renuncia de Jensen Huang?",
+   "opciones": [
+    "Colette Kress, la directora de finanzas",
+    "Harvey Jones, consejero desde 1993",
+    "Nadie: el consejo dirige la empresa sin CEO"
+   ],
+   "correcta": 0,
+   "explicacion": "Kress es CEO interina y sigue como directora de finanzas. Harvey Jones será presidente del consejo y dirigirá la búsqueda del CEO permanente."
+  },
+  {
+   "origen": "materias",
+   "pregunta": "En las fotos de Muybridge de 1878, ¿cuándo tiene el caballo las cuatro patas en el aire?",
+   "opciones": [
+    "Cuando las patas están estiradas hacia adelante y atrás",
+    "Cuando las patas están recogidas bajo el cuerpo",
+    "Nunca: siempre toca el suelo con una"
+   ],
+   "correcta": 1,
+   "explicacion": "La postura de «galope volador» de los pintores no existe. El caballo despega con las patas recogidas."
+  }
+ ],
+ "libro": null,
+ "proximo": "1610: Galileo apunta su telescopio a Júpiter"
+}
