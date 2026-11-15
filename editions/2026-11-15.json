@@ -1,0 +1,934 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-15",
+ "numero": 25,
+ "fecha": "2026-11-15",
+ "disponibleDesde": "2026-11-15T08:00:00-06:00",
+ "titulo": "1610: Galileo apunta su telescopio a Júpiter",
+ "temporada": {
+  "id": "t05",
+  "numero": 5,
+  "titulo": "El cosmos: del cielo de los griegos al telescopio James Webb",
+  "episodio": 2,
+  "totalEpisodios": 6
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg?width=900",
+  "alt": "Retrato al óleo de un hombre mayor de barba blanca con un telescopio en la mano",
+  "pie": "Galileo Galilei, retratado por Justus Sustermans en 1636. En 1610, cuatro puntos de luz junto a Júpiter le cambiaron la vida.",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "origen": "Edición #24",
+   "pregunta": "¿Qué tres cosas le bastaron a Eratóstenes para calcular el tamaño de la Tierra?",
+   "respuesta": "Una sombra, un ángulo (1/50 de círculo, unos 7.2°) y la distancia entre Alejandría y Siena."
+  },
+  {
+   "origen": "Edición #24",
+   "pregunta": "En el estudio de Harvard que sigue vidas desde 1938, ¿qué dato a los 50 años predijo mejor la salud a los 80?",
+   "respuesta": "La satisfacción con sus relaciones; predijo mejor que el colesterol, aunque es un estudio de observación."
+  },
+  {
+   "origen": "Edición #24",
+   "pregunta": "¿Cuándo tiene un caballo al galope las cuatro patas en el aire, según las fotos de Muybridge (1878)?",
+   "respuesta": "Cuando las patas están recogidas bajo el cuerpo, no estiradas como en los cuadros."
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n1",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-14",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 22,
+    "dondeIbamos": "El jueves 12, el Brent cerró en 95.82 dólares. La guerra entre EE. UU. e Irán va en su noveno mes, con bloqueo naval, y la OPEP+ se reúne el 29 de noviembre."
+   },
+   "titular": "Irán dice que tres petroleros chocaron con minas en Ormuz; EE. UU. afirma que las rutas están despejadas",
+   "quePaso": "El sábado 14 de noviembre, la marina de Irán y la de la Guardia Revolucionaria, citadas por la agencia IRNA, dijeron que tres petroleros se incendiaron tras chocar con minas en el Estrecho de Ormuz. Según su versión, uno era un superpetrolero y los barcos usaban una «ruta prohibida» con el radar apagado.\n\nReuters no pudo verificarlo, y AFP señala que Irán no dio nombres ni banderas. El ejército de EE. UU. sostiene que ya limpió de minas las rutas principales.\n\nEl viernes 13, antes de la noticia, el Brent cerró en 95.84 dólares y el WTI en 88.56. Fue su segunda semana a la baja.",
+   "contexto": "**Hecho:** la Agencia Internacional de Energía prevé que este trimestre sobre petróleo en el mercado, por primera vez desde que empezó la guerra. Según la agencia marítima británica UKMTO, el tráfico por Ormuz sigue cerca de 65% abajo de su nivel previo. Trump repitió el 12 de noviembre que «no necesitamos un acuerdo con Irán».\n\n**Interpretación:** el precio venía bajando por ese exceso de oferta y por la apuesta a que la guerra termine. Las minas, aunque no estén confirmadas, empujan en sentido contrario. Puede haber una semana volátil sin que cambie la tendencia, salvo que se confirmen daños reales.",
+   "aMiQue": "El petróleo pasa directo al diésel, al flete y a los envases: PET, aluminio y vidrio para un RTD, frascos para suplementos. Esta semana no es buen momento para firmar un contrato largo de logística o empaque con precio atado al combustible.",
+   "queVigilar": "La reapertura de los mercados el domingo en la noche; si una naviera o UKMTO confirma algún barco dañado (hoy todo viene de Irán); el reporte de inventarios de EE. UU. del miércoles y la OPEP+ el 29 de noviembre.",
+   "fuentes": [
+    {
+     "nombre": "Reuters vía Yahoo News: Iran's navy says three tankers on fire after hitting mines in Hormuz (14 nov 2026)",
+     "url": "https://www.yahoo.com/news/world/articles/irans-navy-says-three-tankers-225347151.html"
+    },
+    {
+     "nombre": "Arab News (AFP): Iran reports three incidents of oil tankers hit by mines in Hormuz (14 nov 2026)",
+     "url": "https://www.arabnews.com/middle-east/iran-reports-three-incidents-of-oil-tankers-hit-by-mines-in-hormuz-3011782"
+    },
+    {
+     "nombre": "Rigzone (Bloomberg): Crude Fluctuates as Iran Tensions Persist (13 nov 2026)",
+     "url": "https://www.rigzone.com/news/wire/crude_fluctuates_as_iran_tensions_persist-13-nov-2026-185085-article/"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-11-13",
+   "titular": "El Buen Fin 2026 dura cinco días, por primera vez con el puente de la Revolución, y espera crecer mucho menos que en 2025",
+   "quePaso": "La 16.ª edición del Buen Fin corre del viernes 13 al martes 17 de noviembre. Participan unos 200,000 comercios, y cada uno debe mostrar un código QR de registro.\n\nLa Concanaco proyectó en octubre ventas por 235,000 millones de pesos, 7.3% más que en 2025. El año pasado el crecimiento había sido de 26.1%. Profeco vigila 490 productos en 400 establecimientos con más de 1,000 servidores públicos.\n\nEl SAT sorteará 500 millones de pesos entre compras de 250 pesos o más pagadas con tarjeta. El sorteo se transmite el 4 de diciembre.",
+   "contexto": "**Hecho:** según la encuesta de intención de compra, moda lidera con 38%, electrónica 30% y cuidado personal 27%. La cifra de ventas es una proyección; aún no hay balance del primer fin de semana.\n\n**Interpretación:** pasar de crecer 26% a 7% sugiere un consumidor más cauteloso. Para una marca premium, un descuento profundo daña el posicionamiento; suele funcionar mejor un paquete, un regalo o un incentivo por volumen.",
+   "aMiQue": "Quedan el lunes 16 y el martes 17. Si tu marca tiene promoción, documenta el precio anterior: Profeco compara contra su registro semanal de precios, y «subir para luego rebajar» es riesgo legal y de reputación. Además, lo que se vende estos días adelanta demanda de diciembre; ajusta el inventario de RTD con eso en mente.",
+   "queVigilar": "El balance oficial de ventas después del 17 de noviembre, las quejas y sanciones de Profeco, y si diciembre llega más débil.",
+   "fuentes": [
+    {
+     "nombre": "Infobae: Inicia el Buen Fin 2026: guía para encontrar ofertas, comercios participantes y apoyo de Profeco (13 nov 2026)",
+     "url": "https://www.infobae.com/mexico/2026/11/13/inicia-el-buen-fin-2026-guia-para-encontrar-ofertas-comercios-participantes-y-apoyo-de-profeco/"
+    },
+    {
+     "nombre": "UnoTV: Buen Fin 2026: Concanaco estima ventas por 235 mil millones de pesos, pero menor crecimiento (28 oct 2026)",
+     "url": "https://www.unotv.com/negocios/buen-fin-2026-concanaco-estima-ventas-235-mil-millones-de-pesos-menor-crecimiento/"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-11-13",
+   "historiaEnCurso": {
+    "id": "tasas-banxico",
+    "titulo": "Peso, Banxico y las tasas de la Fed",
+    "capitulo": 5,
+    "dondeIbamos": "El 11 de noviembre el peso estaba en 18.63 por dólar y los analistas advertían que, si la Fed sube y Banxico no, el diferencial de tasas llegaría a su mínimo histórico."
+   },
+   "titular": "El peso cierra la semana con ganancia, pero el mercado ya espera tres alzas de la Fed en 12 meses",
+   "quePaso": "El viernes 13 de noviembre el peso sumó su segunda sesión de ganancia, ayudado por una inflación al productor de EE. UU. algo menor a la esperada. Hacia las 11:00 h cotizaba en 18.53 por dólar, 0.51% mejor que una semana antes. El tipo de cambio FIX de Banxico fue 18.6188.\n\nGabriela Siller, de Banco Base, dijo que el mercado descuenta tres alzas de 0.25 puntos de la Fed en los próximos 12 meses. El bono del Tesoro a 10 años estaba en 5.16% y el mexicano en 9.27%.",
+   "contexto": "**Hecho:** Banxico recortó su tasa a 6.25% a principios de noviembre y anticipó una pausa larga.\n\n**Interpretación:** con Banxico quieto o bajando y la Fed subiendo, la diferencia de tasas entre los dos países se estrecha. Eso hace al peso más sensible a cualquier susto, como los aranceles o las minas de Ormuz, aunque esta semana haya ganado.",
+   "aMiQue": "Si compras insumos o maquila en dólares, un tipo de cambio cerca de 18.5 es una referencia para decidir si cubres parte de tus compras del primer trimestre de 2027. El crédito en pesos no se ve mucho más barato, y el financiamiento en dólares se encarece con el Tesoro arriba de 5%.",
+   "queVigilar": "Cómo abre el peso el lunes tras la noticia de Ormuz, los mensajes de la Fed y la minuta de Banxico.",
+   "fuentes": [
+    {
+     "nombre": "El Financiero: Peso liga 2 sesiones de ganancias, impulsado por la inflación de EU (13 nov 2026)",
+     "url": "https://www.elfinanciero.com.mx/mercados/2026/11/13/peso-dolar-tipo-de-cambio-precio-hoy-13-de-noviembre-de-2026/"
+    },
+    {
+     "nombre": "La Opinión: Precio del dólar en México hoy, 13 de noviembre del 2026 (13 nov 2026)",
+     "url": "https://laopinion.com/2026/11/13/precio-del-dolar-en-mexico-hoy-13-de-noviembre-del-2026/"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "En enero de 1610, Galileo vio cuatro puntitos junto a Júpiter. Lo que hizo después le consiguió el mejor empleo de Italia.",
+    "contexto": "Padua, invierno de 1610. Galileo Galilei tiene 45 años, da clases de matemáticas y vive apretado de dinero. Hace unos meses construyó un [[telescopio|Instrumento con lentes que hace ver cerca los objetos lejanos; en 1609 era una novedad holandesa.]] mejor que cualquiera. Ahora lo apunta al cielo cada noche.\n\nEl 7 de enero ve, junto a Júpiter, tres «estrellitas» en línea. Noches después aparece una cuarta. Se mueven. Galileo entiende que no son estrellas: son lunas que giran alrededor de Júpiter.",
+    "pregunta": "Además de publicarlo, ¿qué hizo Galileo con su descubrimiento?",
+    "opciones": [
+     "Se lo vendió en secreto a la marina de Venecia",
+     "Les puso a las lunas el nombre de la familia Medici",
+     "Lo guardó años por miedo a la Iglesia"
+    ],
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jupiter_and_the_Galilean_Satellites_(True_Color).png?width=900",
+     "alt": "Júpiter y sus cuatro lunas grandes en una imagen compuesta",
+     "pie": "Júpiter con sus cuatro lunas mayores: Ío, Europa, Ganímedes y Calisto",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Un juguete holandés en manos de un matemático",
+    "texto": "La historia empieza en Holanda. El 2 de octubre de 1608, un fabricante de lentes llamado Hans Lipperhey pidió una patente por un aparato «para ver las cosas lejanas como si estuvieran cerca». Aumentaba unas tres veces. No le dieron la patente: otros reclamaban el mismo invento.\n\nLa noticia corrió por Europa. Galileo no vio nunca el aparato holandés. Le bastó la descripción para entender el principio y pulir sus propias lentes. En el verano de 1609 ya tenía uno que aumentaba ocho o nueve veces.\n\nEl 21 de agosto de 1609 subió al campanario de San Marcos, en Venecia, con el [[dux|Jefe de Estado electo de la República de Venecia.]] y los nobles de la ciudad. Desde ahí podían ver barcos que tardarían horas en llegar al puerto. Para una república que vivía del mar, eso valía oro. Galileo regaló el instrumento al gobierno. A cambio recibió una cátedra de por vida en Padua y un sueldo de mil florines al año, casi el doble.\n\nPero Galileo no se quedó en los barcos. Para noviembre ya tenía un telescopio de unos 20 aumentos. Lo apuntó a la Luna y vio montañas y cráteres. Lo apuntó a la [[Vía Láctea|La franja blanquecina que cruza el cielo nocturno; es nuestra galaxia vista desde dentro.]] y vio que era un enjambre de estrellas.\n\nY el 7 de enero de 1610 lo apuntó a Júpiter. Tres puntos de luz, dos al este y uno al oeste. A la noche siguiente estaban en otro lugar. El 13 de enero apareció un cuarto. Galileo dibujó sus posiciones noche tras noche, hasta el 2 de marzo.\n\nLo que estaba en juego era enorme. La física de [[Aristóteles|Filósofo griego (384–322 a. C.) cuya física dominó Europa durante casi dos mil años.]] y la astronomía de [[Ptolomeo|Astrónomo de Alejandría del siglo II; su sistema ponía la Tierra inmóvil en el centro del universo.]] decían que todo giraba alrededor de la Tierra. Esos cuatro puntitos giraban alrededor de otra cosa.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sidereus_Nuncius_Medicean_Stars.jpg?width=900",
+     "alt": "Página de un libro antiguo con dibujos de Júpiter y puntos a sus lados",
+     "pie": "Las posiciones de las lunas de Júpiter, noche por noche, en el Sidereus Nuncius (1610)",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "giro",
+    "titulo": "Las estrellas de los Medici",
+    "texto": "**Les puso el nombre de los Medici.** Galileo escribió a toda prisa un librito en latín, el *[[Sidereus Nuncius|«El mensajero sideral»: el libro de Galileo de 1610 con sus primeras observaciones con telescopio.]]*. Se imprimió en Venecia en marzo de 1610. Los 550 ejemplares se agotaron casi de inmediato.\n\nLo dedicó a Cosme II de Medici, gran duque de Toscana y antiguo alumno suyo. Primero llamó a las lunas *Cosmica Sidera*, «estrellas de Cosme». Por sugerencia del secretario del duque, las rebautizó *Medicea Sidera*, por Cosme y sus tres hermanos. En un ejemplar que conserva la Biblioteca Linda Hall, en Kansas City, se ve un papelito pegado con «Medicea» encima del «Cosmica» impreso.\n\nFuncionó. Ese verano, Cosme lo nombró Primer Matemático de la Universidad de Pisa y Matemático y Filósofo del gran duque, sin obligación de dar clases. Galileo dejó Padua y se mudó a Florencia.\n\nLo que sorprende es el orden. Galileo no esperó a tener todas las respuestas. Observó, publicó en semanas y buscó al mecenas más poderoso que podía alcanzar. Hizo ciencia y, a la vez, hizo marca.\n\nEl nombre no duró. Hoy las llamamos Ío, Europa, Ganímedes y Calisto, nombres que propuso el astrónomo alemán Simon Marius en 1614 por sugerencia de Kepler. Pero el golpe sí duró: existían cuerpos que no giraban alrededor de la Tierra.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Galileo.script.arp.600pix.jpg?width=900",
+     "alt": "Manuscrito antiguo con notas y pequeños dibujos de Júpiter y sus lunas",
+     "pie": "Notas manuscritas de Galileo sobre las lunas de Júpiter",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "La serie, no la foto",
+    "texto": "Una sola noche, Galileo habría visto tres estrellas más. Lo que reveló las lunas fue **mirar lo mismo muchas noches seguidas** y anotar qué cambiaba.\n\nUna foto te dice cómo están las cosas. Una serie te dice cómo se mueven. Y casi siempre la verdad está en el movimiento.\n\nLa herramienta tiene tres pasos:\n\n1. **Elige qué mirar** y míralo siempre de la misma forma, a la misma hora, con la misma medida.\n2. **Anota la posición**, aunque parezca aburrida. Galileo dibujó Júpiter durante casi dos meses.\n3. **Pregunta qué se movió** y alrededor de qué. Lo que se mueve junto suele estar unido por una causa."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Del anaquel a tu agenda",
+    "texto": "**En una marca de consumo.** Una semana de ventas buenas no dice nada. Doce semanas, comparadas con el mismo punto de venta y el mismo precio, empiezan a mostrar «lunas»: qué tienda arrastra a otras, qué producto se mueve solo cuando hay promoción, qué canal crece sin que lo empujes.\n\n**En el despacho.** Un abogado que lleva bitácora de cuánto tarda cada juzgado en acordar, por tipo de escrito, deja de adivinar plazos. Ve patrones donde los demás ven mala suerte.\n\n**Y en el mecenazgo.** Galileo entendió que un descubrimiento necesita a alguien que lo financie y lo presuma. Ponerle a tu proyecto el nombre de quien lo respalda, un patrocinio o un premio con nombre propio, sigue siendo la misma jugada de 1610."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿Qué número de tu negocio o de tu vida juzgas por una sola «noche» en vez de mirarlo en serie?",
+    "texto": "Escoge uno esta semana y míralo igual durante varias semanas antes de sacar conclusiones."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Una noche te enseña puntos de luz; muchas noches te enseñan qué gira alrededor de qué."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Linda Hall Library: Sidereus Nuncius y la revolución copernicana",
+   "url": "https://www.lindahall.org/experience/digital-exhibitions/sun-in-early-modernity/01-the-copernican-revolution/sidereus-nuncius/",
+   "minutos": 5
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Qué vio Galileo junto a Júpiter el 7 y el 13 de enero de 1610?",
+    "respuesta": "El 7, tres puntos de luz que se movían de una noche a otra; el 13, un cuarto. Eran lunas que giraban alrededor de Júpiter."
+   },
+   {
+    "pregunta": "¿Cómo llamó Galileo a las lunas de Júpiter y qué consiguió con ello?",
+    "respuesta": "Medicea Sidera, «estrellas de los Medici». Cosme II lo nombró matemático y filósofo del gran duque de Toscana."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Museo Galileo (Florencia): la vida de Galileo",
+    "url": "https://museogalileo.it/en/galileo/life.html"
+   },
+   {
+    "nombre": "Encyclopaedia Britannica: Galileo, Telescopic discoveries",
+    "url": "https://www.britannica.com/biography/Galileo-Galilei/Telescopic-discoveries"
+   },
+   {
+    "nombre": "Linda Hall Library: Three bright Galilean stars, three copies of Sidereus Nuncius",
+    "url": "https://www.lindahall.org/about/news/three-bright-galilean-stars-three-copies-of-sidereus-nuncius-in-kansas-city"
+   },
+   {
+    "nombre": "Wikipedia: Satélite galileano",
+    "url": "https://es.wikipedia.org/wiki/Sat%C3%A9lite_galileano"
+   },
+   {
+    "nombre": "Wikipedia (inglés): Hans Lipperhey",
+    "url": "https://en.wikipedia.org/wiki/Hans_Lipperhey"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "formato": "mitoRealidad",
+   "titulo": "¿De verdad hay que tomar ocho vasos de agua al día?",
+   "contexto": "Lo has oído mil veces: ocho vasos de agua al día, unos dos litros, tengas sed o no. Está en botellas con marcas de horario y en apps que te avisan cada hora. Parece ciencia. ¿Lo es?",
+   "pregunta": "La regla de los ocho vasos para un adulto sano, ¿es mito o realidad?",
+   "opciones": [
+    "Realidad: hay estudios que la respaldan",
+    "Mito: no hay evidencia de una cifra única",
+    "Realidad, pero solo si haces ejercicio"
+   ],
+   "correcta": 1,
+   "revelacion": "**Es un mito, al menos como regla universal.** En 2002, el fisiólogo Heinz Valtin, de la Universidad de Dartmouth, revisó la literatura y no encontró prueba científica de que todo adulto sano deba tomar ocho vasos. Su revisión se publicó en el *American Journal of Physiology*.\n\nValtin rastreó un posible origen: una recomendación de 1945 del Consejo de Alimentación y Nutrición de EE. UU. Decía que un adulto necesita unos 2.5 litros al día. Pero la frase siguiente casi nadie la citó: «La mayor parte de esta cantidad está contenida en los alimentos preparados».\n\nEn 2022, un estudio en *Science* midió con [[agua doblemente marcada|Técnica que usa agua con isótopos para medir con precisión cuánta agua entra y sale del cuerpo en días.]] el recambio de agua de 5,604 personas en 26 países. Encontró rangos de 1 a 6 litros al día según tamaño, actividad, clima y edad, e incluye el agua de la comida. Sus autores concluyeron que una cifra única no tiene respaldo. La sed, en una persona sana, es una buena guía; el calor, el ejercicio, el embarazo o algunas enfermedades cambian la cuenta.",
+   "idea": "No hay un número mágico: el agua que necesitas depende de tu cuerpo, tu actividad y tu clima, y parte viene de la comida.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Glass-of-water.jpg?width=900",
+    "alt": "Un vaso de vidrio con agua",
+    "pie": "Un vaso de agua: parte de lo que necesitas ya viene en lo que comes",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Yamada et al., Science (2022): Variation in human water turnover associated with environmental and lifestyle factors (PMC)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9764345"
+   },
+   "profundizar": {
+    "titulo": "Universidad de Wisconsin–Madison: Stop counting cups (2022)",
+    "url": "https://news.wisc.edu/stop-counting-cups-theres-an-ocean-of-difference-in-our-water-needs/"
+   },
+   "wiki": "Deshidratación",
+   "claves": [
+    {
+     "nombre": "Sed",
+     "quien": "La señal del cuerpo que, en una persona sana, regula bien cuánto beber.",
+     "wiki": "Sed"
+    },
+    {
+     "nombre": "Agua potable",
+     "quien": "El agua apta para beber; solo una parte del agua que recibe el cuerpo.",
+     "wiki": "Agua potable"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué decía la frase olvidada de la recomendación de 1945 sobre los 2.5 litros de agua?",
+    "respuesta": "Que la mayor parte de esa cantidad ya está contenida en los alimentos preparados."
+   }
+  },
+  {
+   "materia": "Mente y decisiones",
+   "pilar": "mente",
+   "formato": "adivinaNumero",
+   "titulo": "La taza de Cornell: por qué lo tuyo te parece más valioso",
+   "contexto": "Universidad Cornell, finales de los años ochenta. Daniel Kahneman, Jack Knetsch y Richard Thaler reparten tazas con el escudo de la universidad a la mitad de un grupo de estudiantes. En la librería del campus cuestan 6 dólares.\n\nA los que recibieron taza les preguntan: ¿en cuánto la venderías? A los que no: ¿cuánto pagarías por una? Es la misma taza. Nadie la había pedido diez minutos antes.",
+   "pregunta": "¿Qué pasó con los precios?",
+   "opciones": [
+    "Casi iguales: unos 4 dólares en ambos grupos",
+    "Los dueños pedían alrededor del doble de lo que ofrecían los compradores",
+    "Los compradores ofrecían más, porque la taza era nueva"
+   ],
+   "correcta": 1,
+   "revelacion": "**Los dueños pedían alrededor del doble.** En el primer experimento, la mediana de los vendedores fue 5.25 dólares; la de los compradores, entre 2.25 y 2.75. Se intercambiaron muchas menos tazas de las que predice la economía clásica. Los autores lo publicaron en 1990 en el *Journal of Political Economy*.\n\nThaler lo llamó [[efecto dotación|Tendencia a valorar más algo solo por el hecho de poseerlo.]]. Se explica con la [[aversión a la pérdida|Idea de Kahneman y Tversky: perder algo duele más de lo que alegra ganar lo mismo.]]: vender se siente como perder, y comprar apenas como ganar.\n\nEn los negocios aparece en todos lados. Las pruebas gratis funcionan porque, al final, cancelar se siente como perder algo tuyo. Y el fundador que valúa su empresa muy por encima de lo que ofrece un inversionista a menudo no miente: sufre el efecto de la taza. Hay debate sobre su tamaño según el contexto, pero se ha replicado muchas veces.",
+   "idea": "Tener algo cambia lo que crees que vale; antes de negociar, pregúntate qué pagarías por ello si no fuera tuyo.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Thaler's_Nobel_Prize_Cornell_Mug_-_The_Endowment_Effect.jpg?width=900",
+    "alt": "Taza blanca con el escudo de la Universidad Cornell",
+    "pie": "Una taza de Cornell como las del experimento, exhibida tras el Nobel de Richard Thaler",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Kahneman, Knetsch y Thaler: Experimental Tests of the Endowment Effect and the Coase Theorem, J. Political Economy (1990)",
+    "url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Behavioral_Decision_Theory/Kahneman_et_al_1990_Experimental_tests.pdf"
+   },
+   "wiki": "Efecto dotación",
+   "claves": [
+    {
+     "nombre": "Richard Thaler",
+     "quien": "Economista que bautizó el efecto; Nobel de Economía 2017.",
+     "wiki": "Richard Thaler"
+    },
+    {
+     "nombre": "Daniel Kahneman",
+     "quien": "Psicólogo, coautor del experimento; Nobel de Economía 2002.",
+     "wiki": "Daniel Kahneman"
+    },
+    {
+     "nombre": "Economía conductual",
+     "quien": "La disciplina que estudia cómo decidimos de verdad, no como dicen los modelos.",
+     "wiki": "Economía conductual"
+    }
+   ],
+   "repaso": {
+    "pregunta": "En el experimento de las tazas de Cornell, ¿cuánto pedían los dueños y cuánto ofrecían los compradores?",
+    "respuesta": "Los dueños, una mediana de 5.25 dólares; los compradores, entre 2.25 y 2.75. Unas dos veces menos."
+   }
+  },
+  {
+   "materia": "Gastronomía, vino y destilados",
+   "pilar": "gusto",
+   "formato": "mitoRealidad",
+   "titulo": "¿Los sulfitos del vino tinto te dan dolor de cabeza?",
+   "contexto": "Una copa de tinto y, al rato, la cabeza late. Mucha gente culpa a los sulfitos, porque la etiqueta dice «contiene sulfitos». Hay quien solo toma blanco por eso.",
+   "pregunta": "¿Son los sulfitos la causa probable del dolor de cabeza por vino tinto?",
+   "opciones": [
+    "Sí: el tinto tiene muchos más sulfitos que el blanco",
+    "Probablemente no: el blanco tiene igual o más sulfitos",
+    "Sí, pero solo en vinos baratos"
+   ],
+   "correcta": 1,
+   "revelacion": "**Probablemente no.** Los [[sulfitos|Compuestos de azufre que protegen el vino de la oxidación y de microbios; también se forman de manera natural al fermentar.]] están en casi todo vino, y los blancos suelen tener igual o más que los tintos. Los orejones y las pasas tienen bastantes más que una copa. Según la FDA, menos de 1% de la gente es sensible a ellos, sobre todo algunas personas con asma.\n\nEn 2023, un equipo de la Universidad de California en Davis propuso otro culpable: la [[quercetina|Pigmento natural de muchas frutas; abunda en la piel de la uva tinta expuesta al sol.]]. El cuerpo la convierte en un compuesto que, en pruebas de laboratorio, frena a la enzima que elimina el [[acetaldehído|Sustancia tóxica que se forma al metabolizar el alcohol; causa rubor, náusea y dolor de cabeza.]]. Si se acumula, puede doler la cabeza.\n\nOjo: es una hipótesis probada en enzimas, no en personas. Los investigadores planearon un ensayo con humanos. Lo que sí está claro es que el alcohol mismo, la cantidad y la hidratación pesan mucho.",
+   "idea": "La etiqueta que más se ve no siempre señala al culpable: el sospechoso de moda es la quercetina, y aún falta probarlo en personas.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A_glass_of_red_wine.jpg?width=900",
+    "alt": "Copa de vino tinto",
+    "pie": "Una copa de tinto: la piel de la uva aporta color, taninos y quercetina",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "UC Davis: Why does red wine cause headaches? (The Conversation, Waterhouse y Devi)",
+    "url": "https://www.ucdavis.edu/curiosity/blog/conversation-why-does-red-wine-cause-headaches"
+   },
+   "profundizar": {
+    "titulo": "ScienceDaily: New study unravels the mystery of red wine headaches (20 nov 2023)",
+    "url": "https://sciencedaily.com/releases/2023/11/231120124135.htm"
+   },
+   "wiki": "Anhídrido sulfuroso en vinos",
+   "claves": [
+    {
+     "nombre": "Acetaldehído",
+     "quien": "La sustancia que, acumulada, provocaría el dolor de cabeza.",
+     "wiki": "Acetaldehído"
+    },
+    {
+     "nombre": "Vino tinto",
+     "quien": "El vino que fermenta con la piel de la uva, de donde salen color y quercetina.",
+     "wiki": "Vino tinto"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué compuesto propuso UC Davis en 2023 como posible causa del dolor de cabeza por vino tinto?",
+    "respuesta": "La quercetina: el cuerpo la transforma en algo que frena la eliminación del acetaldehído. Es una hipótesis aún no probada en personas."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "comoFunciona",
+   "titulo": "El 30% de Apple: por qué una app se queda con 70 u 85 de cada 100",
+   "contexto": "Vendes una app o una suscripción digital de 100 pesos en el iPhone. Tu costo por cada copia extra es casi cero. Pero no te llegan 100 pesos. ¿Cuánto te queda?",
+   "pregunta": "Si eres un desarrollador pequeño que gana menos de un millón de dólares al año en la App Store, ¿qué comisión estándar te cobra Apple?",
+   "opciones": [
+    "30%, igual que a todos",
+    "15%",
+    "Nada hasta el primer millón"
+   ],
+   "correcta": 1,
+   "revelacion": "**15%.** Apple cobra 30% de comisión estándar por compras digitales en su tienda. El 18 de noviembre de 2020 anunció el Programa para Pequeños Negocios: desde el 1 de enero de 2021, quien ganó hasta un millón de dólares el año anterior paga 15%. Si en el año pasas el millón, pagas 30% el resto del año.\n\nLas suscripciones tienen otra regla desde junio de 2016: 30% el primer año y 15% desde el segundo año del mismo suscriptor. Por eso a las apps les obsesiona que no canceles: tu segundo año les deja más.\n\nEl modelo funciona porque Apple pone la tienda, los pagos y a más de mil millones de usuarios. A cambio, se queda con una tajada de algo que casi no cuesta reproducir. Esa tajada se ha vuelto pleito: Epic Games demandó a Apple en EE. UU. y la Unión Europea obligó a abrir otras vías de pago. Las reglas cambian según el país, así que hay que revisarlas antes de fijar precios.",
+   "idea": "En un producto digital, el costo de la copia es casi cero; el costo real está en el canal que te da clientes, y ese canal cobra.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/IPhone_Home_Screen_(23724266304).jpg?width=900",
+    "alt": "Pantalla de inicio de un iPhone con íconos de aplicaciones",
+    "pie": "La pantalla de un iPhone: cada ícono pagó su peaje a la tienda",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Apple Newsroom: Apple announces App Store Small Business Program (18 nov 2020)",
+    "url": "https://www.apple.com/newsroom/2020/11/apple-announces-app-store-small-business-program/"
+   },
+   "profundizar": {
+    "titulo": "Apple Developer: App Store Small Business Program",
+    "url": "https://developer.apple.com/app-store/small-business-program/"
+   },
+   "wiki": "App Store (iOS)",
+   "claves": [
+    {
+     "nombre": "Apple",
+     "quien": "La empresa dueña de la App Store y del iPhone.",
+     "wiki": "Apple"
+    },
+    {
+     "nombre": "Epic Games",
+     "quien": "El estudio de Fortnite, que demandó a Apple por su comisión.",
+     "wiki": "Epic Games"
+    },
+    {
+     "nombre": "Tim Cook",
+     "quien": "Director de Apple, que anunció el programa de 15%.",
+     "wiki": "Tim Cook"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto cobra Apple de comisión a un desarrollador que ganó menos de un millón de dólares el año anterior?",
+    "respuesta": "15%, desde el 1 de enero de 2021. La tarifa estándar es 30%."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Retórica y oratoria",
+   "pilar": "mente",
+   "epoca": "1963",
+   "titulo": "Kennedy no dijo «soy una dona»",
+   "dato": "Se repite que en Berlín, en 1963, John F. Kennedy dijo por error «soy una dona» al decir «Ich bin ein Berliner». Es falso: la frase es correcta en alemán y así la entendió el público.",
+   "explicacion": "El mito dice que el artículo *ein* convierte la frase en «soy un *berliner*», un pan dulce relleno. Pero en alemán ese *ein* es justo el que se usa en sentido figurado: «soy uno de ustedes». Además, en Berlín a ese pan se le llama *Pfannkuchen*. Nadie en la plaza oyó una dona.\n\nEl intérprete Robert Lochner, que hablaba alemán desde niño, le dio la frase a Kennedy, y él la escribió como sonaba: «ish bin ein Bearleener». La dijo el 26 de junio de 1963 ante una multitud de cientos de miles (las cifras van de 120,000 a 450,000), frente al ayuntamiento de Schöneberg. El mito nació después, fuera de Alemania.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JFK_speech_Ich_bin_ein_berliner_1.jpg?width=900",
+    "alt": "John F. Kennedy hablando en un estrado ante una multitud en Berlín",
+    "pie": "Kennedy en Berlín Occidental, 26 de junio de 1963",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Max Kade Institute, University of Wisconsin–Madison: «Ich bin ein Berliner»",
+    "url": "https://language.mki.wisc.edu/essays/ich-bin-ein-berliner/"
+   },
+   "wiki": "John F. Kennedy",
+   "claves": [
+    {
+     "nombre": "Muro de Berlín",
+     "quien": "Levantado en 1961; el discurso fue una respuesta a él.",
+     "wiki": "Muro de Berlín"
+    },
+    {
+     "nombre": "Guerra Fría",
+     "quien": "El enfrentamiento entre EE. UU. y la URSS que dividió Berlín.",
+     "wiki": "Guerra Fría"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Kennedy se equivocó al decir «Ich bin ein Berliner»?",
+    "respuesta": "No. La frase es correcta y significa «soy uno de ustedes»; el mito de la dona nació después, fuera de Alemania."
+   }
+  },
+  {
+   "materia": "Liderazgo e influencia",
+   "pilar": "caracter",
+   "epoca": "325 a. C.",
+   "titulo": "Alejandro tiró al suelo el único casco de agua",
+   "dato": "Según el historiador Arriano, cuando el ejército de Alejandro Magno moría de sed en el desierto, unos soldados le llevaron un casco con agua. Él la derramó al suelo frente a todos.",
+   "explicacion": "Alejandro marchaba a pie, como sus hombres, para compartir su esfuerzo. Beber solo habría marcado la distancia entre el rey y la tropa. Arriano escribe que, al verlo tirar el agua, el ejército se sintió tan aliviado como si todos hubieran bebido. Es una de las primeras lecciones escritas de liderazgo por el ejemplo.\n\nUn matiz: el propio Arriano dice que ocurrió en el desierto de [[Gedrosia|Región árida del actual sur de Pakistán e Irán que el ejército cruzó al volver de la India.]], hacia 325 a. C., «o, según otros autores, antes», en Asia central. Quinto Curcio cuenta una escena parecida en otro desierto. La historia es antigua; el lugar exacto, no seguro.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cades,_Giuseppe_-_Alexander_the_Great_Refuses_to_Take_Water_-_1792.jpg?width=900",
+    "alt": "Pintura de un rey que rechaza un casco con agua rodeado de soldados",
+    "pie": "Alejandro rechaza el agua, pintado por Giuseppe Cades (1792)",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Arriano, Anábasis de Alejandro, VI, 26 (trad. E. J. Chinnock), Proyecto Gutenberg",
+    "url": "https://gutenberg.org/cache/epub/46976/pg46976-images.html"
+   },
+   "profundizar": {
+    "titulo": "Livius.org: Alexander in the Gedrosian desert",
+    "url": "https://www.livius.org/sources/content/arrian/anabasis/alexander-in-the-gedrosian-desert/"
+   },
+   "wiki": "Alejandro Magno",
+   "claves": [
+    {
+     "nombre": "Flavio Arriano",
+     "quien": "Historiador griego del siglo II, la fuente principal de la anécdota.",
+     "wiki": "Flavio Arriano"
+    },
+    {
+     "nombre": "Nearco",
+     "quien": "El almirante de Alejandro, que volvió por mar mientras el ejército cruzaba el desierto.",
+     "wiki": "Nearco"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué hizo Alejandro con el casco de agua que le llevaron en el desierto, según Arriano?",
+    "respuesta": "La derramó al suelo frente a todos para no beber mientras sus soldados tenían sed."
+   }
+  },
+  {
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "epoca": "1922",
+   "titulo": "La insulina se vendió por un dólar",
+   "dato": "El 11 de enero de 1922, en Toronto, un niño de 14 años llamado Leonard Thompson recibió la primera inyección de insulina. Al año siguiente, sus descubridores vendieron la patente a la Universidad de Toronto por un dólar simbólico.",
+   "explicacion": "Antes de la insulina, la [[diabetes tipo 1|Enfermedad en que el páncreas deja de producir insulina; sin tratamiento era mortal en pocos meses o años.]] era una sentencia de muerte. La primera inyección a Thompson falló: el extracto era impuro y le causó un absceso. Doce días después, con un extracto purificado por James Collip, su azúcar bajó de forma drástica. Vivió 13 años más.\n\nLa patente estadounidense se concedió en enero de 1923. Frederick Banting no quiso poner su nombre en ella porque le parecía poco ético; Best y Collip la cedieron a la universidad por un dólar. A Banting se le atribuye la frase «la insulina no me pertenece, pertenece al mundo», muy citada aunque sin fuente primaria clara.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Photograph_of_F.G._Banting_and_C.H._Best_with_a_dog_on_the_roof_of_the_Medical_Building_(12309019434).jpg?width=900",
+    "alt": "Dos hombres con un perro en una azotea",
+    "pie": "Banting y Best con uno de sus perros de experimentación, Toronto",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "NobelPrize.org: The miracle discovery that reversed the diabetes death sentence",
+    "url": "https://nobelprize.org/the-miracle-discovery-that-reversed-the-diabetes-death-sentence"
+   },
+   "wiki": "Insulina",
+   "claves": [
+    {
+     "nombre": "Frederick Banting",
+     "quien": "Médico canadiense; Nobel de Medicina 1923 por la insulina.",
+     "wiki": "Frederick Grant Banting"
+    },
+    {
+     "nombre": "John Macleod",
+     "quien": "Jefe del laboratorio en Toronto; compartió el Nobel con Banting.",
+     "wiki": "John Macleod"
+    },
+    {
+     "nombre": "Universidad de Toronto",
+     "quien": "La dueña de la patente desde 1923.",
+     "wiki": "Universidad de Toronto"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Quién fue el primer paciente tratado con insulina y por cuánto se cedió la patente?",
+    "respuesta": "Leonard Thompson, de 14 años, en enero de 1922. La patente se cedió a la Universidad de Toronto por un dólar simbólico."
+   }
+  },
+  {
+   "materia": "Cine y fotografía",
+   "pilar": "cultura",
+   "epoca": "1896",
+   "titulo": "Nadie huyó del tren de los Lumière",
+   "dato": "La leyenda dice que en 1896 el público salió corriendo al ver en pantalla un tren que llegaba a la estación. No hay pruebas de esa estampida: los historiadores la llaman «el mito fundador del cine».",
+   "explicacion": "El historiador alemán Martin Loiperdinger revisó en 2004 la prensa de la época y no encontró relatos de pánico. Las crónicas hablan de asombro, no de fuga. La película, *La llegada de un tren a la estación de La Ciotat*, ni siquiera estaba en la primera función pública de los Lumière, el 28 de diciembre de 1895 en el Gran Café de París; se sumó semanas después.\n\n¿Por qué sobrevive la leyenda? Porque cuenta algo que queremos creer: que la primera imagen en movimiento fue tan real que asustó. Mirada hoy, lo que sí impresiona es la composición: el tren entra en diagonal y crece hacia la cámara, una lección de perspectiva en 50 segundos.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/L'Arrivée_d'un_train_en_gare_de_La_Ciotat.jpg?width=900",
+    "alt": "Fotograma en blanco y negro de un tren llegando a un andén",
+    "pie": "Fotograma de La llegada de un tren a La Ciotat (1896), de los hermanos Lumière",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "TCM: Lumière's First Picture Shows 1895–1897",
+    "url": "https://www.tcm.com/articles/651203/lumieres-first-picture-shows-1895-1897"
+   },
+   "wiki": "Hermanos Lumière",
+   "claves": [
+    {
+     "nombre": "Cinematógrafo",
+     "quien": "La cámara y proyector de los Lumière, patentado en 1895.",
+     "wiki": "Cinematógrafo"
+    },
+    {
+     "nombre": "La Ciotat",
+     "quien": "Pueblo costero de Provenza donde se filmó la llegada del tren.",
+     "wiki": "La Ciotat"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Huyó el público al ver el tren de los Lumière?",
+    "respuesta": "No hay pruebas: la prensa de la época habla de asombro. El historiador Martin Loiperdinger lo llamó el mito fundador del cine."
+   }
+  },
+  {
+   "materia": "Ciudades del mundo",
+   "pilar": "mundo",
+   "epoca": "1912",
+   "titulo": "La capital de Australia la diseñó una pareja de Chicago",
+   "dato": "Sídney y Melbourne no aceptaban que la otra fuera capital. Australia inventó una ciudad nueva, Canberra, y la diseñaron dos arquitectos de Chicago tras ganar un concurso internacional con 137 propuestas.",
+   "explicacion": "La Constitución de 1901 resolvió el pleito con un acuerdo: la capital estaría en Nueva Gales del Sur, a por lo menos 100 millas de Sídney, y mientras tanto el Parlamento sesionaría en Melbourne. Ganó el proyecto de Walter Burley Griffin, anunciado en mayo de 1912. Su esposa, Marion Mahony Griffin, dibujó las acuarelas que convencieron al jurado.\n\nEl plan usa los cerros como ejes y un lago artificial como centro. La ciudad recibió su nombre el 12 de marzo de 1913, y el Parlamento no se mudó hasta el 9 de mayo de 1927. Es un ejemplo raro de capital que nació de un pleito y se resolvió con un dibujo.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canberra_plan-WBG.jpg?width=900",
+    "alt": "Plano de una ciudad con ejes geométricos y un lago",
+    "pie": "El plan de Walter Burley Griffin para Canberra",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "National Archives of Australia: Walter Burley Griffin and the design of Canberra",
+    "url": "https://www.naa.gov.au/help-your-research/fact-sheets/walter-burley-griffin-and-design-canberra"
+   },
+   "profundizar": {
+    "titulo": "National Museum of Australia: Founding of Canberra",
+    "url": "https://www.nma.gov.au/defining-moments/resources/founding-of-canberra"
+   },
+   "wiki": "Camberra",
+   "claves": [
+    {
+     "nombre": "Walter Burley Griffin",
+     "quien": "Arquitecto de Chicago que ganó el concurso de 1912.",
+     "wiki": "Walter Burley Griffin"
+    },
+    {
+     "nombre": "Territorio de la Capital Australiana",
+     "quien": "El territorio creado para albergar la nueva capital.",
+     "wiki": "Territorio de la Capital Australiana"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué Australia creó Canberra y quién la diseñó?",
+    "respuesta": "Porque Sídney y Melbourne no aceptaban a la otra como capital. La diseñaron Walter Burley Griffin y Marion Mahony Griffin, de Chicago."
+   }
+  },
+  {
+   "materia": "Inversión y finanzas personales",
+   "pilar": "patrimonio",
+   "epoca": "1637",
+   "titulo": "La tulipomanía no arruinó a Holanda",
+   "dato": "La tulipomanía de 1637 es el ejemplo clásico de burbuja que arruinó a un país. La historiadora Anne Goldgar buscó en los archivos holandeses y no encontró a nadie que hubiera quebrado por ella.",
+   "explicacion": "En su libro *Tulipmania* (2007), Goldgar encontró un mercado pequeño de aficionados y comerciantes ricos: solo 37 compradores gastaron más de 400 florines. Los precios sí subieron muchísimo y se desplomaron a principios de febrero de 1637, pero muchos compradores simplemente no pagaron, y las pérdidas reales fueron menores. Las historias del marinero que se comió un bulbo vienen de panfletos moralistas de la época.\n\nEl mito lo popularizó el escocés Charles Mackay en 1841. La lección cambia: las burbujas existen, pero las historias de burbujas también se exageran, y conviene revisar la fuente antes de citar el desastre.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Semper_Augustus_Tulip_17th_century.jpg?width=900",
+    "alt": "Acuarela de un tulipán blanco con vetas rojas",
+    "pie": "El tulipán Semper Augustus, el más caro de la época, en una acuarela del siglo XVII",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Smithsonian Magazine: There Never Was a Real Tulip Fever",
+    "url": "https://www.smithsonianmag.com/history/there-never-was-real-tulip-fever-180964915/"
+   },
+   "wiki": "Tulipomanía",
+   "claves": [
+    {
+     "nombre": "Charles Mackay",
+     "quien": "Escritor que popularizó la leyenda en 1841.",
+     "wiki": "Charles Mackay"
+    },
+    {
+     "nombre": "Haarlem",
+     "quien": "Ciudad holandesa donde empezó el desplome en febrero de 1637.",
+     "wiki": "Haarlem"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué encontró Anne Goldgar sobre las quiebras por la tulipomanía?",
+    "respuesta": "Que no encontró a nadie que quebrara por ella: era un mercado pequeño, y muchos compradores no pagaron tras el desplome."
+   }
+  },
+  {
+   "materia": "Ciencia y tecnología",
+   "pilar": "futuro",
+   "epoca": "1960",
+   "titulo": "El láser nació sin saber para qué servía",
+   "dato": "El 16 de mayo de 1960, Theodore Maiman encendió el primer láser con un rubí sintético en Malibú. Un colega lo llamó «una solución en busca de un problema».",
+   "explicacion": "Maiman trabajaba en los laboratorios de Hughes. Rodeó una barra de rubí con una lámpara de flash en espiral, y el cristal emitió un haz de luz roja de un solo color y muy concentrado. La revista *Physical Review Letters* rechazó su artículo; lo publicó *Nature* en agosto de 1960.\n\nLa broma de Irnee D'Haenens tenía razón: nadie sabía para qué sirvía. Hoy está en los lectores de código de barras, la fibra óptica, la cirugía de ojos y la fabricación de chips. Por eso la UNESCO celebra el Día Internacional de la Luz cada 16 de mayo.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maiman_with_the_first_laser.jpg?width=900",
+    "alt": "Un hombre sostiene un pequeño aparato cilíndrico",
+    "pie": "Theodore Maiman con el primer láser de rubí",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "American Physical Society, Historic Sites: Hughes Research Laboratories",
+    "url": "https://aps.org/funding-recognition/historic-sites/hughes"
+   },
+   "wiki": "Láser",
+   "claves": [
+    {
+     "nombre": "Theodore Maiman",
+     "quien": "Físico que construyó el primer láser en 1960.",
+     "wiki": "Theodore Harold Maiman"
+    },
+    {
+     "nombre": "Láser de rubí",
+     "quien": "El tipo de láser del primer modelo, con un cristal de rubí.",
+     "wiki": "Láser de rubí"
+    },
+    {
+     "nombre": "Día Internacional de la Luz",
+     "quien": "Se celebra el 16 de mayo por el aniversario del láser.",
+     "wiki": "Día Internacional de la Luz"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuándo y con qué material funcionó el primer láser?",
+    "respuesta": "El 16 de mayo de 1960, con un rubí sintético, en los laboratorios Hughes de Malibú."
+   }
+  },
+  {
+   "materia": "Etiqueta y protocolo",
+   "pilar": "gusto",
+   "epoca": "Siglo XVII",
+   "titulo": "Luis XIV cenaba con público",
+   "dato": "Cada noche, a las diez, Luis XIV cenaba en Versalles frente a cortesanos y curiosos. Cualquiera decentemente vestido podía entrar a ver comer al rey.",
+   "explicacion": "La ceremonia se llamaba *Grand Couvert* y duraba menos de una hora. El rey y la reina se sentaban en sillones; solo los hijos y nietos del rey comían con ellos, en taburetes. Las duquesas tenían taburetes en semicírculo, y el resto, cortesanos o visitantes, miraba de pie. Los platos llegaban en procesión desde cocinas lejanas, probados antes contra veneno.\n\nComer era un acto de [[protocolo|Conjunto de reglas que ordena ceremonias y jerarquías en actos oficiales.]]: dónde te sentabas, o si te sentabas, mostraba tu rango. Con Luis XV y Luis XVI la costumbre se volvió ocasional. Mucho del orden de una mesa formal, quién se sienta y dónde, viene de ese teatro.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antechamber_of_the_Grand_Couvert_within_the_Queen's_Grand_Apartment_(24006458490).jpg?width=900",
+    "alt": "Salón palaciego con pinturas y una mesa al centro",
+    "pie": "La antecámara del Grand Couvert en Versalles, hoy",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Château de Versailles: Antichambre du Grand Couvert de la Reine (dossier de prensa)",
+    "url": "https://www.chateauversailles.fr/resources/pdf/fr/presse/dp_grand_couvert.pdf"
+   },
+   "profundizar": {
+    "titulo": "Château de Versailles: Royal tables",
+    "url": "https://en.chateauversailles.fr/discover/history/key-dates/royal-tables"
+   },
+   "wiki": "Usos y costumbres en la corte de Versalles",
+   "claves": [
+    {
+     "nombre": "Luis XIV de Francia",
+     "quien": "El Rey Sol, que convirtió la vida diaria de la corte en ceremonia.",
+     "wiki": "Luis XIV de Francia"
+    },
+    {
+     "nombre": "Palacio de Versalles",
+     "quien": "La residencia real donde se celebraba el Grand Couvert.",
+     "wiki": "Palacio de Versalles"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué era el Grand Couvert de Versalles?",
+    "respuesta": "La cena pública de Luis XIV, a las diez de la noche, que cortesanos y visitantes bien vestidos podían ver."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "El Príncipe",
+  "autor": "Nicolás Maquiavelo",
+  "capitulo": {
+   "numero": 1,
+   "total": 6,
+   "titulo": "Un regalo para un Medici: cómo se gana y cómo se pierde un Estado"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Niccolò_Machiavelli_by_Santi_di_Tito.jpg?width=900",
+   "alt": "Retrato de un hombre delgado vestido de negro con una sonrisa leve",
+   "pie": "Nicolás Maquiavelo, retrato póstumo de Santi di Tito (Palazzo Vecchio, Florencia)",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "¿Qué le regalas a alguien que lo tiene todo, cuando tú no tienes nada?\n\nEsa era la pregunta de Nicolás Maquiavelo en 1513. Había sido durante catorce años un alto funcionario de la República de Florencia: diplomático, organizador de milicias, el hombre que escribía las cartas importantes. Cuando los Medici volvieron al poder en 1512, lo perdió todo. Lo acusaron de conspirar, lo encarcelaron y lo torturaron. Al salir, se retiró a una pequeña finca en Sant'Andrea in Percussina, a las afueras de Florencia.\n\nAllí, en una carta a su amigo Francesco Vettori del 10 de diciembre de 1513, contó que había escrito un opúsculo «De los principados». Ese librito es *El Príncipe*. No se imprimió hasta 1532, cinco años después de su muerte. Hoy es uno de los libros de política más leídos de la historia."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La dedicatoria: un regalo con intención"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El libro empieza con una carta «Al Magnífico Lorenzo di Piero de' Medici». No es Lorenzo el Magnífico, el mecenas del Renacimiento, sino su nieto, que en 1516 se convirtió en duque de Urbino.\n\nMaquiavelo explica que otros le llevan a los príncipes caballos, armas, telas de oro y joyas. Él no tiene nada de eso. Le ofrece lo más valioso que posee: lo que aprendió en «una larga experiencia de las cosas modernas y una continua lectura de las antiguas». Promete un libro sin adornos, que valga solo por su contenido.\n\nLuego viene una imagen famosa. Un plebeyo puede atreverse a dar consejos a un príncipe, dice, del mismo modo que un pintor de paisajes cambia de lugar según lo que quiere ver."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Así como quienes dibujan paisajes se colocan abajo, en la llanura, para contemplar la naturaleza de los montes…",
+    "fuente": "El Príncipe, dedicatoria (trad. de W. K. Marriott)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Y el que quiere ver la llanura sube a lo alto. Para conocer a los pueblos hay que ser príncipe; para conocer a los príncipes hay que ser del pueblo. Maquiavelo, el funcionario caído, se presenta como el que mira el poder desde abajo, y por eso lo ve entero.\n\nHay algo más en ese regalo, y es fácil de pasar por alto. Maquiavelo quería volver a trabajar. *El Príncipe* es, entre muchas otras cosas, una solicitud de empleo muy elaborada. Es la misma jugada que Galileo haría cien años después con sus lunas: ofrecer a un Medici algo que lo engrandezca y esperar un puesto a cambio. A Galileo le funcionó. A Maquiavelo, no."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Para leerlo bien",
+    "texto": "*El Príncipe* no es un manual para ser malvado. Es un análisis de cómo se obtiene y se conserva el poder en una Italia dividida, invadida por Francia y España y gobernada por ciudades rivales. Maquiavelo describe cómo actúan los gobernantes, no cómo deberían actuar según la moral. Esa separación fue lo que escandalizó, y lo que lo hizo moderno."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Capítulos I y II: un mapa del poder"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El primer capítulo cabe en un párrafo y es un mapa. Todos los Estados, dice, son repúblicas o principados. Los principados son [[hereditarios|Los que se reciben por herencia de una familia que gobierna desde hace generaciones.]] o nuevos. Los nuevos pueden ser del todo nuevos, como Milán para Francesco Sforza, o añadidos a un Estado que ya se tenía, como el reino de Nápoles para el rey de España. Y se ganan con armas propias o ajenas, por fortuna o por *[[virtù|Para Maquiavelo, la capacidad, energía y talento de un gobernante para dominar las circunstancias; no equivale a «virtud» moral.]]*.\n\nEsas parejas, fortuna y *virtù*, propio y ajeno, recorren todo el libro.\n\nEl segundo capítulo trata el caso fácil: el principado heredado. Basta con no romper las costumbres de los antepasados y adaptarse a lo imprevisto. Como la gente está acostumbrada a la familia, la quiere por inercia. Pone el ejemplo del duque de Ferrara, que resistió a Venecia en 1484 y al papa Julio II en 1510 porque su linaje llevaba mucho tiempo ahí. Lo antiguo protege: borra el recuerdo de los cambios."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según Maquiavelo, ¿por qué es fácil conservar un principado heredado?",
+    "opciones": [
+     "Porque el príncipe siempre tiene más soldados",
+     "Porque la gente está acostumbrada a la familia y basta con no romper sus costumbres",
+     "Porque el papa protege a las dinastías antiguas"
+    ],
+    "correcta": 1,
+    "explicacion": "La costumbre es la defensa del príncipe hereditario. Si no ofende a sus súbditos con cambios bruscos, lo quieren casi por inercia."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Capítulo III: los cinco errores de un rey"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El tercer capítulo es el más largo de esta parte y el más práctico. Trata de los principados «mixtos»: territorios nuevos que se suman a un Estado viejo.\n\nEl problema empieza con la gente. Los hombres cambian con gusto de señor creyendo que van a estar mejor, y luego descubren que están peor. El conquistador ofende a los que conquista, con soldados y cargas, y no puede contentar a los que le abrieron la puerta. De ahí una de las frases más duras del libro:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "A los hombres hay que tratarlos bien o aplastarlos, porque se vengan de las ofensas leves; de las graves no pueden.",
+    "fuente": "El Príncipe, cap. III (trad. de W. K. Marriott)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es una frase brutal, pero describe una lógica: la ofensa a medias es la peor de las opciones. Crea enemigos sin quitarles la capacidad de dañar.\n\nPara conservar un territorio nuevo, Maquiavelo propone remedios concretos: ir a vivir ahí, enviar [[colonias|Grupos de pobladores leales que el conquistador instala en el nuevo territorio; Maquiavelo las considera más baratas que un ejército.]], hacerse protector de los vecinos débiles, debilitar a los fuertes y no dejar entrar a ningún extranjero poderoso. Los romanos, dice, veían los problemas de lejos. Compara el mal político con una fiebre: al principio es fácil de curar y difícil de reconocer; con el tiempo es fácil de reconocer y difícil de curar.\n\nLuego viene el caso de estudio: Luis XII de Francia. Entró en Italia, tomó Milán en 1499 y lo perdió muy pronto. Maquiavelo lo explica con frialdad de auditor: destruyó a los pequeños, aumentó el poder de uno grande (la Iglesia), trajo a un extranjero poderoso (España), no fue a vivir allí y no envió colonias."
+   },
+   {
+    "tipo": "cita",
+    "texto": "La guerra no se evita; solo se aplaza en provecho de otros.",
+    "fuente": "El Príncipe, cap. III (trad. de W. K. Marriott)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Luis XII había cedido territorios para evitar una guerra, y solo consiguió pelearla después y en peores condiciones. Maquiavelo cuenta que se lo dijo en persona al cardenal de Rouen, en Nantes: los italianos no entienden de guerra, le había dicho el cardenal; Maquiavelo respondió que los franceses no entendían de Estado."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Capítulos IV y V: imperios y ciudades libres"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El cuarto capítulo resuelve un enigma: ¿por qué, al morir Alejandro Magno, el imperio persa que había conquistado no se rebeló contra sus sucesores?\n\nPorque hay dos formas de gobernar. En una, un príncipe manda sobre siervos que dependen de él, como en el imperio turco. Es difícil de conquistar, porque nadie traiciona al señor, pero una vez ganado es fácil de conservar. En la otra, el príncipe gobierna junto a barones con tierras y lealtades propias, como en Francia. Es fácil entrar, porque siempre hay un barón descontento que abre la puerta, pero muy difícil retenerlo.\n\nEl quinto capítulo, el más inquietante, pregunta qué hacer con las ciudades acostumbradas a vivir con sus propias leyes. Hay tres caminos: arruinarlas, ir a vivir en ellas o dejarlas con sus leyes, cobrarles tributo y poner un gobierno de pocos que dependa de ti. Esparta lo intentó con lo último en Atenas y Tebas, y las perdió. Roma destruyó Capua, Cartago y Numancia, y no las perdió."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Quien se hace dueño de una ciudad acostumbrada a la libertad y no la destruye, puede esperar ser destruido por ella.",
+    "fuente": "El Príncipe, cap. V (trad. de W. K. Marriott)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La razón es la memoria. Pisa estuvo cien años bajo Florencia, recuerda Maquiavelo, y se rebeló en cuanto pudo, porque el nombre de la libertad no se olvida. El que hereda sus instituciones guarda su orgullo.\n\nLeído hoy, el capítulo no invita a arrasar ciudades. Describe algo que cualquiera que haya comprado una empresa con cultura propia reconoce: lo que la gente considera suyo no desaparece con un cambio de dueño. Se integra, se respeta o vuelve a la superficie."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Por qué, según Maquiavelo, el imperio de Darío no se rebeló contra los sucesores de Alejandro?",
+    "opciones": [
+     "Porque estaba gobernado por un señor y sus siervos, sin barones con poder propio",
+     "Porque Alejandro dejó colonias en cada provincia",
+     "Porque los persas preferían a los griegos"
+    ],
+    "correcta": 0,
+    "explicacion": "Un Estado de un señor con siervos es difícil de conquistar pero fácil de conservar: no hay nobles con lealtades propias que encabecen una rebelión."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Lo que viene"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Estos cinco capítulos son la base. Maquiavelo ya clasificó los Estados y explicó por qué se pierden los que se ganan con facilidad. A partir del capítulo VI llega lo que más le interesa: los principados del todo nuevos, los que un hombre funda con su propio talento o recibe por pura suerte.\n\nAhí aparecen sus héroes y sus casos de estudio: Moisés, Ciro, Rómulo y, sobre todo, un contemporáneo al que conoció en persona, César Borgia. Con ellos, Maquiavelo planteará la pregunta que atraviesa todo el libro: cuánto de lo que nos pasa depende de nosotros y cuánto de la fortuna."
+   }
+  ],
+  "paraLlevar": [
+   "Cuando ofreces algo a alguien poderoso, ofrece lo que solo tú tienes: tu experiencia, no lo que cualquiera puede comprar.",
+   "Una ofensa a medias crea enemigos sin quitarles la fuerza; decide entre cuidar y no tocar.",
+   "Los problemas son fáciles de curar cuando aún no se ven; aplazarlos casi siempre favorece a otro."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿A quién dedicó Maquiavelo El Príncipe y con qué intención práctica?",
+    "respuesta": "A Lorenzo di Piero de' Medici, nieto de Lorenzo el Magnífico. Buscaba, entre otras cosas, volver a tener un cargo."
+   },
+   {
+    "pregunta": "¿Cuáles son los tres caminos para conservar una ciudad acostumbrada a sus propias leyes?",
+    "respuesta": "Arruinarla, ir a vivir en ella o dejarla con sus leyes, cobrarle tributo y poner un gobierno de pocos leal al conquistador."
+   }
+  ],
+  "proximo": "El Príncipe · Capítulo 2: virtù y fortuna, de Moisés a César Borgia",
+  "fuentes": [
+   {
+    "nombre": "Proyecto Gutenberg: The Prince, de Nicolás Maquiavelo (trad. W. K. Marriott)",
+    "url": "https://www.gutenberg.org/cache/epub/1232/pg1232-images.html"
+   },
+   {
+    "nombre": "Wikipedia: El príncipe",
+    "url": "https://es.wikipedia.org/wiki/El_pr%C3%ADncipe"
+   },
+   {
+    "nombre": "Wikipedia: Lorenzo II de Médici",
+    "url": "https://es.wikipedia.org/wiki/Lorenzo_II_de_M%C3%A9dici"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de W. K. Marriott (dominio público) en el Proyecto Gutenberg."
+ },
+ "palabra": {
+  "palabra": "Atisbar",
+  "categoria": "Verbo transitivo",
+  "pronunciacion": "a-tis-BAR",
+  "definicion": "Mirar con cuidado y atención, a veces a escondidas. También, ver algo de forma tenue o empezar a vislumbrarlo, como una idea o una solución.",
+  "origen": "De origen incierto. De la misma familia es «atisbo», un indicio o una primera señal de algo.",
+  "ejemplo": "Una noche de enero de 1610, Galileo atisbó tres puntos de luz junto a Júpiter que no se comportaban como estrellas.",
+  "repaso": {
+   "pregunta": "¿Qué significa «atisbar»?",
+   "respuesta": "Mirar con atención, a veces a escondidas, o empezar a ver algo de forma tenue."
+  }
+ },
+ "frances": {
+  "frase": "Et pourtant, elle tourne.",
+  "traduccion": "«Y sin embargo, se mueve». (Literalmente: «Y sin embargo, gira».)",
+  "pronunciacion": "e pur-TAN, el TURN",
+  "uso": "Cultura. Es la versión francesa del «Eppur si muove» que, según la leyenda, murmuró Galileo tras retractarse ante la Inquisición en 1633. Casi seguro nunca lo dijo: la frase aparece por escrito más de un siglo después. En Francia se usa para defender una verdad que otros niegan.",
+  "variante": "Para algo que funciona aunque nadie lo crea: « Et pourtant, ça marche. » («Y sin embargo, funciona».)",
+  "repaso": {
+   "pregunta": "¿Cómo se dice en francés «Y sin embargo, se mueve»?",
+   "respuesta": "« Et pourtant, elle tourne. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Qué nombre les dio Galileo a las lunas de Júpiter en el Sidereus Nuncius?",
+   "opciones": [
+    "Ío, Europa, Ganímedes y Calisto",
+    "Estrellas venecianas, por el dux",
+    "Medicea Sidera, estrellas de los Medici"
+   ],
+   "correcta": 2,
+   "explicacion": "Las dedicó a Cosme II de Medici y sus hermanos. Los nombres actuales los propuso Simon Marius en 1614."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Qué tiene de nuevo el Buen Fin 2026?",
+   "opciones": [
+    "Por primera vez incluye el puente de la Revolución y dura cinco días",
+    "El SAT eliminó su sorteo",
+    "Solo participan tiendas en línea"
+   ],
+   "correcta": 0,
+   "explicacion": "Corre del 13 al 17 de noviembre, con unos 200,000 comercios y un sorteo del SAT de 500 millones de pesos."
+  },
+  {
+   "origen": "materias",
+   "pregunta": "En el experimento de las tazas de Cornell, ¿qué pasó con los precios?",
+   "opciones": [
+    "Compradores y dueños dieron el mismo precio",
+    "Los dueños pedían cerca del doble de lo que ofrecían los compradores",
+    "Los compradores ofrecían más que el precio de la librería"
+   ],
+   "correcta": 1,
+   "explicacion": "Mediana de 5.25 dólares para vender frente a 2.25–2.75 para comprar: el efecto dotación."
+  }
+ ],
+ "libro": null,
+ "proximo": "1919: un eclipse le da la razón a Einstein"
+}
