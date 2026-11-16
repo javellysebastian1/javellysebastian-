@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15",
+ "actualizado": "2026-11-16",
  "lista": [
   {
    "episodios": [
@@ -136,11 +136,12 @@
      "titulo": "c. 240 a. C.: Eratóstenes mide la Tierra con una sombra"
     },
     {
-     "titulo": "1610: Galileo apunta su telescopio a Júpiter",
-     "fecha": "2026-11-15"
+     "fecha": "2026-11-15",
+     "titulo": "1610: Galileo apunta su telescopio a Júpiter"
     },
     {
-     "titulo": "1919: un eclipse le da la razón a Einstein"
+     "titulo": "1919: un eclipse le da la razón a Einstein",
+     "fecha": "2026-11-16"
     },
     {
      "titulo": "1929: Hubble descubre que el universo se expande"

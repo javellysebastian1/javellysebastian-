@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15",
+ "actualizado": "2026-11-16",
  "materias": {
   "Arquitectura y diseño": [
    {
@@ -112,6 +112,42 @@
   ],
   "Arte y pintura": [
    {
+    "materia": "Arte y pintura",
+    "pilar": "cultura",
+    "epoca": "1911",
+    "titulo": "La Mona Lisa se volvió icono cuando desapareció",
+    "dato": "El 21 de agosto de 1911, la *Mona Lisa* fue robada del Louvre. Estuvo 28 meses desaparecida, y el escándalo la convirtió en el cuadro más famoso del mundo.",
+    "explicacion": "La robó Vincenzo Peruggia, un italiano que había trabajado en el museo, y la escondió en su cuarto de París. La policía llegó a detener al poeta Guillaume Apollinaire y a Pablo Picasso, que pronto quedaron libres. En diciembre de 1913, Peruggia la llevó a Florencia para venderla y fue atrapado.\n\nAntes del robo era una obra admirada, pero no la más célebre. Los periódicos publicaron su rostro en todo el mundo. La fama de una obra no depende solo de su calidad: también de la historia que se cuenta sobre ella.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mona_Lisa_stolen-1911.jpg?width=900",
+     "alt": "Pared de museo con cuatro ganchos y un espacio vacío entre cuadros",
+     "pie": "El hueco que dejó la Mona Lisa en el Louvre en 1911",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Smithsonian Magazine: The theft that made the Mona Lisa a masterpiece",
+     "url": "https://www.smithsonianmag.com/arts-culture/the-theft-that-made-the-mona-lisa-a-masterpiece-16406234/"
+    },
+    "wiki": "La Gioconda",
+    "claves": [
+     {
+      "nombre": "Vincenzo Peruggia",
+      "quien": "El ladrón; decía que quería devolver el cuadro a Italia.",
+      "wiki": "Vincenzo Peruggia"
+     },
+     {
+      "nombre": "Robo de arte",
+      "quien": "Un delito en el que la fama de la obra suele hacerla imposible de vender.",
+      "wiki": "Robo de arte"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuánto tiempo estuvo desaparecida la Mona Lisa tras el robo de 1911?",
+     "respuesta": "28 meses: del 21 de agosto de 1911 a diciembre de 1913, cuando Peruggia la llevó a Florencia."
+    },
+    "fecha": "2026-11-16"
+   },
+   {
     "claves": [
      {
       "nombre": "Vincent van Gogh",
@@ -182,68 +218,10 @@
     },
     "titulo": "«La ronda de noche» pasa de día",
     "wiki": "La ronda de noche"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Cosme de Médici",
-      "quien": "Banquero que gobernó Florencia de 1434 a 1464; casi seguro, el mecenas de la obra.",
-      "wiki": "Cosme de Médici"
-     },
-     {
-      "nombre": "Museo del Bargello",
-      "quien": "El museo de escultura de Florencia donde está el David desde 1865.",
-      "wiki": "Bargello"
-     },
-     {
-      "nombre": "Escultura del Renacimiento",
-      "quien": "El movimiento que recuperó el cuerpo humano y la escala de la escultura antigua.",
-      "wiki": "Escultura del Renacimiento en Italia"
-     }
-    ],
-    "dato": "El *David* de bronce de Donatello es considerado la primera escultura exenta de un hombre desnudo desde la Antigüedad. Casi seguro la pagó Cosme de Médici, aunque no hay contrato que lo pruebe.",
-    "epoca": "c. 1440",
-    "explicacion": "Mide 158 centímetros y se fecha, según la mayoría, en la década de 1440. Vasari cuenta que estaba sobre una columna en el centro del patio del palacio Médici. Un adolescente con sombrero de pastor, desnudo y relajado, en lugar del héroe armado de la tradición: era una provocación en una ciudad cristiana.\n\nTambién era un mensaje político. David, el débil que vence al gigante, era el símbolo de Florencia frente a sus enemigos poderosos. Cuando los Medici fueron expulsados en 1494, la ciudad se llevó la estatua al palacio de gobierno. Hoy está en el Bargello.",
-    "fecha": "2026-10-28",
-    "fuente": {
-     "nombre": "Wikipedia: David (Donatello, bronze)",
-     "url": "https://en.wikipedia.org/wiki/David_(Donatello,_bronze)"
-    },
-    "imagen": {
-     "alt": "Escultura de bronce de un joven desnudo con sombrero, de pie sobre la cabeza de Goliat",
-     "credito": "Wikimedia Commons",
-     "pie": "El David de Donatello, c. 1440, Museo del Bargello",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bronze_David_by_Donatello-Bargello.jpg?width=900"
-    },
-    "materia": "Arte y pintura",
-    "pilar": "cultura",
-    "repaso": {
-     "pregunta": "¿Por qué es histórico el David de bronce de Donatello?",
-     "respuesta": "Es considerado la primera escultura exenta de un hombre desnudo desde la Antigüedad. Estaba en el patio del palacio Médici."
-    },
-    "titulo": "El primer desnudo en bronce en mil años",
-    "wiki": "David (Donatello)"
    }
   ],
   "Ciencia y tecnología": [
    {
-    "materia": "Ciencia y tecnología",
-    "pilar": "futuro",
-    "epoca": "1960",
-    "titulo": "El láser nació sin saber para qué servía",
-    "dato": "El 16 de mayo de 1960, Theodore Maiman encendió el primer láser con un rubí sintético en Malibú. Un colega lo llamó «una solución en busca de un problema».",
-    "explicacion": "Maiman trabajaba en los laboratorios de Hughes. Rodeó una barra de rubí con una lámpara de flash en espiral, y el cristal emitió un haz de luz roja de un solo color y muy concentrado. La revista *Physical Review Letters* rechazó su artículo; lo publicó *Nature* en agosto de 1960.\n\nLa broma de Irnee D'Haenens tenía razón: nadie sabía para qué sirvía. Hoy está en los lectores de código de barras, la fibra óptica, la cirugía de ojos y la fabricación de chips. Por eso la UNESCO celebra el Día Internacional de la Luz cada 16 de mayo.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maiman_with_the_first_laser.jpg?width=900",
-     "alt": "Un hombre sostiene un pequeño aparato cilíndrico",
-     "pie": "Theodore Maiman con el primer láser de rubí",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "American Physical Society, Historic Sites: Hughes Research Laboratories",
-     "url": "https://aps.org/funding-recognition/historic-sites/hughes"
-    },
-    "wiki": "Láser",
     "claves": [
      {
       "nombre": "Theodore Maiman",
@@ -261,11 +239,28 @@
       "wiki": "Día Internacional de la Luz"
      }
     ],
+    "dato": "El 16 de mayo de 1960, Theodore Maiman encendió el primer láser con un rubí sintético en Malibú. Un colega lo llamó «una solución en busca de un problema».",
+    "epoca": "1960",
+    "explicacion": "Maiman trabajaba en los laboratorios de Hughes. Rodeó una barra de rubí con una lámpara de flash en espiral, y el cristal emitió un haz de luz roja de un solo color y muy concentrado. La revista *Physical Review Letters* rechazó su artículo; lo publicó *Nature* en agosto de 1960.\n\nLa broma de Irnee D'Haenens tenía razón: nadie sabía para qué sirvía. Hoy está en los lectores de código de barras, la fibra óptica, la cirugía de ojos y la fabricación de chips. Por eso la UNESCO celebra el Día Internacional de la Luz cada 16 de mayo.",
+    "fecha": "2026-11-15",
+    "fuente": {
+     "nombre": "American Physical Society, Historic Sites: Hughes Research Laboratories",
+     "url": "https://aps.org/funding-recognition/historic-sites/hughes"
+    },
+    "imagen": {
+     "alt": "Un hombre sostiene un pequeño aparato cilíndrico",
+     "credito": "Wikimedia Commons",
+     "pie": "Theodore Maiman con el primer láser de rubí",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maiman_with_the_first_laser.jpg?width=900"
+    },
+    "materia": "Ciencia y tecnología",
+    "pilar": "futuro",
     "repaso": {
      "pregunta": "¿Cuándo y con qué material funcionó el primer láser?",
      "respuesta": "El 16 de mayo de 1960, con un rubí sintético, en los laboratorios Hughes de Malibú."
     },
-    "fecha": "2026-11-15"
+    "titulo": "El láser nació sin saber para qué servía",
+    "wiki": "Láser"
    },
    {
     "claves": [
@@ -438,23 +433,6 @@
   ],
   "Cine y fotografía": [
    {
-    "materia": "Cine y fotografía",
-    "pilar": "cultura",
-    "epoca": "1896",
-    "titulo": "Nadie huyó del tren de los Lumière",
-    "dato": "La leyenda dice que en 1896 el público salió corriendo al ver en pantalla un tren que llegaba a la estación. No hay pruebas de esa estampida: los historiadores la llaman «el mito fundador del cine».",
-    "explicacion": "El historiador alemán Martin Loiperdinger revisó en 2004 la prensa de la época y no encontró relatos de pánico. Las crónicas hablan de asombro, no de fuga. La película, *La llegada de un tren a la estación de La Ciotat*, ni siquiera estaba en la primera función pública de los Lumière, el 28 de diciembre de 1895 en el Gran Café de París; se sumó semanas después.\n\n¿Por qué sobrevive la leyenda? Porque cuenta algo que queremos creer: que la primera imagen en movimiento fue tan real que asustó. Mirada hoy, lo que sí impresiona es la composición: el tren entra en diagonal y crece hacia la cámara, una lección de perspectiva en 50 segundos.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/L'Arrivée_d'un_train_en_gare_de_La_Ciotat.jpg?width=900",
-     "alt": "Fotograma en blanco y negro de un tren llegando a un andén",
-     "pie": "Fotograma de La llegada de un tren a La Ciotat (1896), de los hermanos Lumière",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "TCM: Lumière's First Picture Shows 1895–1897",
-     "url": "https://www.tcm.com/articles/651203/lumieres-first-picture-shows-1895-1897"
-    },
-    "wiki": "Hermanos Lumière",
     "claves": [
      {
       "nombre": "Cinematógrafo",
@@ -467,11 +445,28 @@
       "wiki": "La Ciotat"
      }
     ],
+    "dato": "La leyenda dice que en 1896 el público salió corriendo al ver en pantalla un tren que llegaba a la estación. No hay pruebas de esa estampida: los historiadores la llaman «el mito fundador del cine».",
+    "epoca": "1896",
+    "explicacion": "El historiador alemán Martin Loiperdinger revisó en 2004 la prensa de la época y no encontró relatos de pánico. Las crónicas hablan de asombro, no de fuga. La película, *La llegada de un tren a la estación de La Ciotat*, ni siquiera estaba en la primera función pública de los Lumière, el 28 de diciembre de 1895 en el Gran Café de París; se sumó semanas después.\n\n¿Por qué sobrevive la leyenda? Porque cuenta algo que queremos creer: que la primera imagen en movimiento fue tan real que asustó. Mirada hoy, lo que sí impresiona es la composición: el tren entra en diagonal y crece hacia la cámara, una lección de perspectiva en 50 segundos.",
+    "fecha": "2026-11-15",
+    "fuente": {
+     "nombre": "TCM: Lumière's First Picture Shows 1895–1897",
+     "url": "https://www.tcm.com/articles/651203/lumieres-first-picture-shows-1895-1897"
+    },
+    "imagen": {
+     "alt": "Fotograma en blanco y negro de un tren llegando a un andén",
+     "credito": "Wikimedia Commons",
+     "pie": "Fotograma de La llegada de un tren a La Ciotat (1896), de los hermanos Lumière",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/L'Arrivée_d'un_train_en_gare_de_La_Ciotat.jpg?width=900"
+    },
+    "materia": "Cine y fotografía",
+    "pilar": "cultura",
     "repaso": {
      "pregunta": "¿Huyó el público al ver el tren de los Lumière?",
      "respuesta": "No hay pruebas: la prensa de la época habla de asombro. El historiador Martin Loiperdinger lo llamó el mito fundador del cine."
     },
-    "fecha": "2026-11-15"
+    "titulo": "Nadie huyó del tren de los Lumière",
+    "wiki": "Hermanos Lumière"
    },
    {
     "claves": [
@@ -542,27 +537,6 @@
   ],
   "Ciudades del mundo": [
    {
-    "materia": "Ciudades del mundo",
-    "pilar": "mundo",
-    "epoca": "1912",
-    "titulo": "La capital de Australia la diseñó una pareja de Chicago",
-    "dato": "Sídney y Melbourne no aceptaban que la otra fuera capital. Australia inventó una ciudad nueva, Canberra, y la diseñaron dos arquitectos de Chicago tras ganar un concurso internacional con 137 propuestas.",
-    "explicacion": "La Constitución de 1901 resolvió el pleito con un acuerdo: la capital estaría en Nueva Gales del Sur, a por lo menos 100 millas de Sídney, y mientras tanto el Parlamento sesionaría en Melbourne. Ganó el proyecto de Walter Burley Griffin, anunciado en mayo de 1912. Su esposa, Marion Mahony Griffin, dibujó las acuarelas que convencieron al jurado.\n\nEl plan usa los cerros como ejes y un lago artificial como centro. La ciudad recibió su nombre el 12 de marzo de 1913, y el Parlamento no se mudó hasta el 9 de mayo de 1927. Es un ejemplo raro de capital que nació de un pleito y se resolvió con un dibujo.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canberra_plan-WBG.jpg?width=900",
-     "alt": "Plano de una ciudad con ejes geométricos y un lago",
-     "pie": "El plan de Walter Burley Griffin para Canberra",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "National Archives of Australia: Walter Burley Griffin and the design of Canberra",
-     "url": "https://www.naa.gov.au/help-your-research/fact-sheets/walter-burley-griffin-and-design-canberra"
-    },
-    "profundizar": {
-     "titulo": "National Museum of Australia: Founding of Canberra",
-     "url": "https://www.nma.gov.au/defining-moments/resources/founding-of-canberra"
-    },
-    "wiki": "Camberra",
     "claves": [
      {
       "nombre": "Walter Burley Griffin",
@@ -575,11 +549,32 @@
       "wiki": "Territorio de la Capital Australiana"
      }
     ],
+    "dato": "Sídney y Melbourne no aceptaban que la otra fuera capital. Australia inventó una ciudad nueva, Canberra, y la diseñaron dos arquitectos de Chicago tras ganar un concurso internacional con 137 propuestas.",
+    "epoca": "1912",
+    "explicacion": "La Constitución de 1901 resolvió el pleito con un acuerdo: la capital estaría en Nueva Gales del Sur, a por lo menos 100 millas de Sídney, y mientras tanto el Parlamento sesionaría en Melbourne. Ganó el proyecto de Walter Burley Griffin, anunciado en mayo de 1912. Su esposa, Marion Mahony Griffin, dibujó las acuarelas que convencieron al jurado.\n\nEl plan usa los cerros como ejes y un lago artificial como centro. La ciudad recibió su nombre el 12 de marzo de 1913, y el Parlamento no se mudó hasta el 9 de mayo de 1927. Es un ejemplo raro de capital que nació de un pleito y se resolvió con un dibujo.",
+    "fecha": "2026-11-15",
+    "fuente": {
+     "nombre": "National Archives of Australia: Walter Burley Griffin and the design of Canberra",
+     "url": "https://www.naa.gov.au/help-your-research/fact-sheets/walter-burley-griffin-and-design-canberra"
+    },
+    "imagen": {
+     "alt": "Plano de una ciudad con ejes geométricos y un lago",
+     "credito": "Wikimedia Commons",
+     "pie": "El plan de Walter Burley Griffin para Canberra",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canberra_plan-WBG.jpg?width=900"
+    },
+    "materia": "Ciudades del mundo",
+    "pilar": "mundo",
+    "profundizar": {
+     "titulo": "National Museum of Australia: Founding of Canberra",
+     "url": "https://www.nma.gov.au/defining-moments/resources/founding-of-canberra"
+    },
     "repaso": {
      "pregunta": "¿Por qué Australia creó Canberra y quién la diseñó?",
      "respuesta": "Porque Sídney y Melbourne no aceptaban a la otra como capital. La diseñaron Walter Burley Griffin y Marion Mahony Griffin, de Chicago."
     },
-    "fecha": "2026-11-15"
+    "titulo": "La capital de Australia la diseñó una pareja de Chicago",
+    "wiki": "Camberra"
    },
    {
     "claves": [
@@ -750,6 +745,46 @@
    }
   ],
   "Deporte y aire libre": [
+   {
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
+    "epoca": "1900–1920",
+    "titulo": "El tira y afloja fue olímpico, y lo ganaba la policía",
+    "dato": "El tira y afloja fue deporte olímpico de 1900 a 1920. En Londres 1908, las tres medallas fueron para equipos de policías británicos: el oro, para la Policía de la City de Londres.",
+    "explicacion": "En 1908, el equipo de Estados Unidos protestó porque los policías de Liverpool tiraban con sus botas de servicio. La protesta se rechazó y los estadounidenses se retiraron. La plata fue para Liverpool y el bronce para la División K de la Policía Metropolitana.\n\nEn aquellos primeros Juegos, el programa era un experimento y cambiaba en cada edición. Después de 1920, el tira y afloja salió del programa olímpico. Sigue siendo un deporte con campeonatos mundiales propios.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/London_1908_CityofLondonPolice.jpg?width=900",
+     "alt": "Fotografía antigua de un equipo de hombres fornidos posando",
+     "pie": "El equipo de la Policía de la City de Londres, campeón olímpico de tira y afloja en 1908",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Tug of war at the 1908 Summer Olympics",
+     "url": "https://en.wikipedia.org/wiki/Tug_of_war_at_the_1908_Summer_Olympics"
+    },
+    "profundizar": {
+     "titulo": "Olympedia: Tug-of-War, Men (prueba descontinuada)",
+     "url": "https://www.olympedia.org/event_names/622"
+    },
+    "wiki": "Juego de la soga",
+    "claves": [
+     {
+      "nombre": "Tira y afloja en Londres 1908",
+      "quien": "La competencia que barrieron los policías británicos.",
+      "wiki": "Anexo:Tira y afloja en los Juegos Olímpicos de Londres 1908"
+     },
+     {
+      "nombre": "Tira y afloja en París 1900",
+      "quien": "La primera vez que fue olímpico.",
+      "wiki": "Anexo:Tira y afloja en los Juegos Olímpicos de París 1900"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Quién ganó el oro olímpico de tira y afloja en Londres 1908?",
+     "respuesta": "La Policía de la City de Londres. Las tres medallas fueron para equipos de policías británicos."
+    },
+    "fecha": "2026-11-16"
+   },
    {
     "claves": [
      {
@@ -998,45 +1033,39 @@
     },
     "titulo": "El maratón mide 42.195 km por un palco real",
     "wiki": "Maratón"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Alan Shepard",
-      "quien": "Primer estadounidense en el espacio (1961) y quinto hombre en pisar la Luna.",
-      "wiki": "Alan Shepard"
-     },
-     {
-      "nombre": "Gravedad lunar",
-      "quien": "En la Luna pesas cerca de una sexta parte de lo que pesas en la Tierra.",
-      "wiki": "Luna"
-     }
-    ],
-    "dato": "Alan Shepard dijo que su pelota voló «millas y millas». Un análisis de 2021 calculó que sus dos tiros recorrieron unas 24 y 40 yardas.",
-    "epoca": "1971",
-    "explicacion": "El 6 de febrero de 1971, en la misión Apolo 14, Shepard sacó una cabeza de hierro 6 que había llevado en su equipo y la acopló a una herramienta para recoger muestras. Con el traje espacial solo podía golpear con una mano. En 2021, para los 50 años, el experto en imágenes Andy Saunders analizó las fotos y videos para la USGA: un tiro se fue a un cráter a unas 24 yardas y el otro llegó a unas 40.\n\nLo de «millas y millas» fue una broma. En la Luna la gravedad es una sexta parte de la terrestre y no hay aire que frene, así que un buen golpe sí podría volar muchísimo. El límite era el cuerpo dentro del traje, no la física.",
-    "fecha": "2026-10-31",
-    "fuente": {
-     "nombre": "USGA: Shepard's moon club, 50th anniversary",
-     "url": "https://www.usga.org/content/usga/home-page/articles/2021/02/shepard-moon-club-50th-anniversary-usga-museum.html"
-    },
-    "imagen": {
-     "alt": "Un astronauta junto a la bandera de Estados Unidos sobre la superficie lunar",
-     "credito": "Wikimedia Commons",
-     "pie": "Alan Shepard en la Luna durante el Apolo 14, en febrero de 1971",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shepard_Plants_Flag_-_GPN-2000-001120.jpg?width=900"
-    },
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "repaso": {
-     "pregunta": "¿Cuánto voló en realidad la pelota de golf de Shepard en la Luna?",
-     "respuesta": "Unas 24 y 40 yardas en sus dos tiros, según el análisis de 2021."
-    },
-    "titulo": "El golpe de golf en la Luna no fue tan lejos",
-    "wiki": "Alan Shepard"
    }
   ],
   "Derecho y poder": [
+   {
+    "materia": "Derecho y poder",
+    "pilar": "mundo",
+    "epoca": "c. 2100 a. C.",
+    "titulo": "Antes de Hammurabi, un ojo costaba media mina de plata",
+    "dato": "El código de leyes más antiguo que se conoce no es el de Hammurabi, sino el de Ur-Nammu, rey sumerio de Ur, unos tres siglos anterior. En muchos casos no castigaba con «ojo por ojo», sino con multas en plata.",
+    "explicacion": "Una de sus leyes dice que, si un hombre le saca un ojo a otro, debe pagar media [[mina|Unidad de peso mesopotámica, de alrededor de medio kilo, que servía para medir plata.]] de plata; por un diente, dos siclos. El código de Hammurabi, hacia 1772 a. C., usa en cambio el principio de «ojo por ojo, diente por diente».\n\nEso rompe una idea común: que la justicia avanzó siempre de lo brutal a lo civilizado. El derecho más antiguo conocido ya compensaba a la víctima con dinero, como la reparación del daño actual. Las fechas exactas varían según la cronología que usen los historiadores.",
+    "fuente": {
+     "nombre": "World History Encyclopedia: Code of Ur-Nammu",
+     "url": "https://www.worldhistory.org/Code_of_Ur-Nammu/"
+    },
+    "wiki": "Ur-Nammu",
+    "claves": [
+     {
+      "nombre": "Código de Hammurabi",
+      "quien": "El código babilonio, unos tres siglos posterior, famoso por la ley del talión.",
+      "wiki": "Código de Hammurabi"
+     },
+     {
+      "nombre": "Mesopotamia",
+      "quien": "La región entre el Tigris y el Éufrates donde nacieron la escritura y las primeras leyes escritas.",
+      "wiki": "Historia de Mesopotamia"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cómo castigaba el código de Ur-Nammu a quien le sacaba un ojo a otro?",
+     "respuesta": "Con una multa de media mina de plata, no con el «ojo por ojo» que usaría Hammurabi siglos después."
+    },
+    "fecha": "2026-11-16"
+   },
    {
     "claves": [
      {
@@ -1200,6 +1229,36 @@
    }
   ],
   "Disciplina y hábitos": [
+   {
+    "materia": "Disciplina y hábitos",
+    "pilar": "caracter",
+    "epoca": "Siglo XIX",
+    "titulo": "Trollope escribía con el reloj enfrente",
+    "dato": "El novelista inglés Anthony Trollope se exigía 250 palabras cada cuarto de hora, con el reloj sobre el escritorio, durante tres horas cada mañana. Empezaba a las 5:30.",
+    "explicacion": "Trollope publicó decenas de novelas mientras trabajaba más de treinta años en el servicio de Correos británico. En su *Autobiografía*, publicada en 1883, después de su muerte, contó el método: no esperar la inspiración, sino medir el trabajo.\n\nCuando se conoció, parte de la crítica lo tomó como prueba de que era un artesano y no un artista. Hoy encaja con lo que la psicología llama [[intenciones de implementación|Planes concretos de cuándo, dónde y cuánto hacer algo; aumentan la probabilidad de cumplir una meta.]]: una meta pequeña, fija y medible vence a la motivación del día.",
+    "fuente": {
+     "nombre": "Anthony Trollope, An Autobiography, cap. XV (texto en Literature Page)",
+     "url": "https://literaturepage.com/read/trollope-autobiography-178.html"
+    },
+    "wiki": "Novela realista en inglés",
+    "claves": [
+     {
+      "nombre": "Novela realista en inglés",
+      "quien": "La corriente victoriana a la que pertenece Trollope, junto a Dickens y George Eliot.",
+      "wiki": "Novela realista en inglés"
+     },
+     {
+      "nombre": "El primer ministro",
+      "quien": "Una de sus novelas políticas, de la serie Palliser.",
+      "wiki": "El primer ministro (novela)"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuál era la cuota de trabajo de Anthony Trollope?",
+     "respuesta": "250 palabras cada cuarto de hora, con el reloj enfrente, durante tres horas cada mañana."
+    },
+    "fecha": "2026-11-16"
+   },
    {
     "claves": [
      {
@@ -1499,6 +1558,42 @@
   ],
   "El cosmos": [
    {
+    "materia": "El cosmos",
+    "pilar": "futuro",
+    "epoca": "Hoy",
+    "titulo": "En Venus, un día dura más que un año",
+    "dato": "Venus tarda unos 243 días terrestres en girar sobre sí mismo y solo 225 en dar la vuelta al Sol. Además, gira al revés que casi todos los planetas: allí el Sol sale por el oeste.",
+    "explicacion": "Su giro es [[retrógrado|Que va en sentido contrario al de la mayoría de los planetas del sistema solar.]], como el de Urano. Al combinar ese giro lento y al revés con su órbita, el día solar, de un amanecer al siguiente, dura unos 117 días terrestres.\n\nNadie sabe con certeza por qué gira así; las hipótesis van desde un gran impacto en su juventud hasta el efecto de las mareas del Sol sobre su atmósfera, muy densa. Sus nubes permanentes impidieron medir su rotación hasta que se usó el radar, en los años sesenta.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Venus_globe.jpg?width=900",
+     "alt": "Planeta de superficie anaranjada y rugosa",
+     "pie": "Venus sin nubes, reconstruido a partir de datos de radar",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "National Geographic: Venus",
+     "url": "https://www.nationalgeographic.com/science/space/solar-system/venus/"
+    },
+    "wiki": "Venus (planeta)",
+    "claves": [
+     {
+      "nombre": "Movimiento retrógrado",
+      "quien": "Girar u orbitar en sentido contrario al habitual.",
+      "wiki": "Movimientos retrógrado y prógrado"
+     },
+     {
+      "nombre": "Observación de Venus",
+      "quien": "Cómo se ha estudiado el planeta, del telescopio de Galileo a las sondas.",
+      "wiki": "Observación de Venus"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuánto tarda Venus en girar sobre sí mismo y cuánto en dar la vuelta al Sol?",
+     "respuesta": "Unos 243 días terrestres en girar y unos 225 en orbitar. Su día solar dura unos 117 días."
+    },
+    "fecha": "2026-11-16"
+   },
+   {
     "claves": [
      {
       "nombre": "Luna",
@@ -1653,67 +1748,10 @@
     },
     "titulo": "Plutón no ha dado una vuelta desde que lo vimos",
     "wiki": "Plutón (planeta enano)"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Giotto",
-      "quien": "La sonda europea que en 1986 fotografió de cerca el núcleo del Halley.",
-      "wiki": "Giotto (sonda espacial)"
-     },
-     {
-      "nombre": "Núcleo de un cometa",
-      "quien": "El cuerpo sólido de hielo y roca del que sale la cola cuando se acerca al Sol.",
-      "wiki": "Núcleo (cometa)"
-     }
-    ],
-    "dato": "El 9 de diciembre de 2023, el cometa Halley llegó al punto más lejano de su órbita. Desde entonces viene de vuelta: pasará lo más cerca del Sol el 28 de julio de 2061.",
-    "epoca": "2061",
-    "explicacion": "Halley tarda entre 75 y 79 años en dar una vuelta, porque los planetas lo jalan un poco en cada viaje. Su última visita fue en 1986, cuando la sonda europea Giotto se acercó a su núcleo. Fue el primer cometa del que se predijo el regreso: Edmond Halley lo calculó y el cometa volvió en 1758, después de su muerte.\n\nMark Twain nació en 1835, semanas después de un paso del Halley, y dijo que se iría con él. Murió el 21 de abril de 1910, un día después de su siguiente paso por el punto más cercano al Sol. Si tienes hoy menos de 50 años, tienes buenas posibilidades de verlo.",
-    "fecha": "2026-10-28",
-    "fuente": {
-     "nombre": "EarthSky: Comet Halley reaches its farthest point from the sun (2023)",
-     "url": "https://earthsky.org/space/comet-halley-reaches-its-farthest-point-from-the-sun-aphelion-dec-9-2023/"
-    },
-    "imagen": {
-     "alt": "El cometa Halley con su cola contra el cielo estrellado",
-     "credito": "NASA / Wikimedia Commons",
-     "pie": "El cometa Halley en su visita de 1986",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lspn_comet_halley.jpg?width=900"
-    },
-    "materia": "El cosmos",
-    "pilar": "futuro",
-    "repaso": {
-     "pregunta": "¿Cuándo volverá el cometa Halley a su punto más cercano al Sol?",
-     "respuesta": "El 28 de julio de 2061. Llegó a su punto más lejano el 9 de diciembre de 2023."
-    },
-    "titulo": "El cometa Halley ya viene de regreso",
-    "wiki": "Cometa Halley"
    }
   ],
   "Etiqueta y protocolo": [
    {
-    "materia": "Etiqueta y protocolo",
-    "pilar": "gusto",
-    "epoca": "Siglo XVII",
-    "titulo": "Luis XIV cenaba con público",
-    "dato": "Cada noche, a las diez, Luis XIV cenaba en Versalles frente a cortesanos y curiosos. Cualquiera decentemente vestido podía entrar a ver comer al rey.",
-    "explicacion": "La ceremonia se llamaba *Grand Couvert* y duraba menos de una hora. El rey y la reina se sentaban en sillones; solo los hijos y nietos del rey comían con ellos, en taburetes. Las duquesas tenían taburetes en semicírculo, y el resto, cortesanos o visitantes, miraba de pie. Los platos llegaban en procesión desde cocinas lejanas, probados antes contra veneno.\n\nComer era un acto de [[protocolo|Conjunto de reglas que ordena ceremonias y jerarquías en actos oficiales.]]: dónde te sentabas, o si te sentabas, mostraba tu rango. Con Luis XV y Luis XVI la costumbre se volvió ocasional. Mucho del orden de una mesa formal, quién se sienta y dónde, viene de ese teatro.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antechamber_of_the_Grand_Couvert_within_the_Queen's_Grand_Apartment_(24006458490).jpg?width=900",
-     "alt": "Salón palaciego con pinturas y una mesa al centro",
-     "pie": "La antecámara del Grand Couvert en Versalles, hoy",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Château de Versailles: Antichambre du Grand Couvert de la Reine (dossier de prensa)",
-     "url": "https://www.chateauversailles.fr/resources/pdf/fr/presse/dp_grand_couvert.pdf"
-    },
-    "profundizar": {
-     "titulo": "Château de Versailles: Royal tables",
-     "url": "https://en.chateauversailles.fr/discover/history/key-dates/royal-tables"
-    },
-    "wiki": "Usos y costumbres en la corte de Versalles",
     "claves": [
      {
       "nombre": "Luis XIV de Francia",
@@ -1726,11 +1764,32 @@
       "wiki": "Palacio de Versalles"
      }
     ],
+    "dato": "Cada noche, a las diez, Luis XIV cenaba en Versalles frente a cortesanos y curiosos. Cualquiera decentemente vestido podía entrar a ver comer al rey.",
+    "epoca": "Siglo XVII",
+    "explicacion": "La ceremonia se llamaba *Grand Couvert* y duraba menos de una hora. El rey y la reina se sentaban en sillones; solo los hijos y nietos del rey comían con ellos, en taburetes. Las duquesas tenían taburetes en semicírculo, y el resto, cortesanos o visitantes, miraba de pie. Los platos llegaban en procesión desde cocinas lejanas, probados antes contra veneno.\n\nComer era un acto de [[protocolo|Conjunto de reglas que ordena ceremonias y jerarquías en actos oficiales.]]: dónde te sentabas, o si te sentabas, mostraba tu rango. Con Luis XV y Luis XVI la costumbre se volvió ocasional. Mucho del orden de una mesa formal, quién se sienta y dónde, viene de ese teatro.",
+    "fecha": "2026-11-15",
+    "fuente": {
+     "nombre": "Château de Versailles: Antichambre du Grand Couvert de la Reine (dossier de prensa)",
+     "url": "https://www.chateauversailles.fr/resources/pdf/fr/presse/dp_grand_couvert.pdf"
+    },
+    "imagen": {
+     "alt": "Salón palaciego con pinturas y una mesa al centro",
+     "credito": "Wikimedia Commons",
+     "pie": "La antecámara del Grand Couvert en Versalles, hoy",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antechamber_of_the_Grand_Couvert_within_the_Queen's_Grand_Apartment_(24006458490).jpg?width=900"
+    },
+    "materia": "Etiqueta y protocolo",
+    "pilar": "gusto",
+    "profundizar": {
+     "titulo": "Château de Versailles: Royal tables",
+     "url": "https://en.chateauversailles.fr/discover/history/key-dates/royal-tables"
+    },
     "repaso": {
      "pregunta": "¿Qué era el Grand Couvert de Versalles?",
      "respuesta": "La cena pública de Luis XIV, a las diez de la noche, que cortesanos y visitantes bien vestidos podían ver."
     },
-    "fecha": "2026-11-15"
+    "titulo": "Luis XIV cenaba con público",
+    "wiki": "Usos y costumbres en la corte de Versalles"
    },
    {
     "claves": [
@@ -2074,39 +2133,43 @@
     },
     "titulo": "Los peripatéticos quizá no caminaban",
     "wiki": "Escuela peripatética"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Estoicismo",
-      "quien": "La escuela que Epicteto, Séneca y Marco Aurelio hicieron práctica.",
-      "wiki": "Estoicismo"
-     },
-     {
-      "nombre": "Enquiridión",
-      "quien": "El «manual» con las ideas de Epicteto, compilado por Arriano.",
-      "wiki": "Enquiridión"
-     }
-    ],
-    "dato": "Epicteto, uno de los grandes maestros del estoicismo, fue esclavo. Su nombre en griego, *epíktetos*, significa «adquirido».",
-    "epoca": "Siglo I",
-    "explicacion": "Nació en Frigia, en la actual Turquía, y sirvió en Roma a Epafrodito, un liberto que trabajó para Nerón. Ya libre, enseñó filosofía hasta que el emperador Domiciano expulsó a los filósofos de Roma, hacia el año 93. Se fue a Nicópolis, en Grecia, y abrió una escuela.\n\nNo escribió nada. Lo que sabemos viene de un alumno, Arriano, que anotó sus clases. Su idea central nace de su vida: hay cosas que dependen de ti, como tus juicios, y cosas que no, como tu cuerpo o tu fama. Un hombre que no era dueño de sí mismo enseñó a no depender de lo que no controlas.",
-    "fecha": "2026-10-30",
-    "fuente": {
-     "nombre": "Stanford Encyclopedia of Philosophy: Epictetus",
-     "url": "https://plato.stanford.edu/entries/epictetus/"
-    },
-    "materia": "Filosofía para vivir",
-    "pilar": "mente",
-    "repaso": {
-     "pregunta": "¿Qué significa el nombre de Epicteto y por qué importa?",
-     "respuesta": "«Adquirido»: fue esclavo. Su filosofía distingue lo que depende de ti de lo que no."
-    },
-    "titulo": "El filósofo que se llamaba «comprado»",
-    "wiki": "Epicteto"
    }
   ],
   "Gastronomía, vino y destilados": [
+   {
+    "materia": "Gastronomía, vino y destilados",
+    "pilar": "gusto",
+    "epoca": "1662",
+    "titulo": "Las burbujas del champán se describieron primero en Londres",
+    "dato": "El 17 de diciembre de 1662, el científico inglés Christopher Merret presentó a la Royal Society un texto que explicaba cómo añadir azúcar al vino para hacerlo «vivo y espumoso». Fue décadas antes de la fecha que la leyenda atribuye a Dom Pérignon.",
+    "explicacion": "La leyenda dice que el monje Dom Pérignon inventó el champán hacia 1697, en la abadía de Hautvillers. National Geographic recuerda que no lo inventó, e incluso pudo haber trabajado para eliminar las burbujas, que entonces se veían como un defecto.\n\nEl azúcar alimenta una [[segunda fermentación|Nueva fermentación del vino ya hecho, dentro de la botella; produce el gas que forma las burbujas.]] que produce gas. Hoy el nombre de Pérignon está en una de las etiquetas más caras del mundo; el de Merret casi nadie lo conoce.",
+    "fuente": {
+     "nombre": "National Geographic: Who put the bubbles in Champagne?",
+     "url": "https://www.nationalgeographic.com/history/history-magazine/article/origin-champagne-france-bubbles"
+    },
+    "profundizar": {
+     "titulo": "Wikipedia (inglés): Christopher Merret",
+     "url": "https://en.wikipedia.org/wiki/Christopher_Merret"
+    },
+    "wiki": "Pierre Pérignon",
+    "claves": [
+     {
+      "nombre": "Champán",
+      "quien": "El vino espumoso de la región de Champaña, en Francia.",
+      "wiki": "Champán"
+     },
+     {
+      "nombre": "Vino espumoso",
+      "quien": "Cualquier vino con gas carbónico de su propia fermentación.",
+      "wiki": "Vino espumoso"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Quién describió primero, en 1662, cómo hacer espumoso el vino con azúcar?",
+     "respuesta": "El científico inglés Christopher Merret, ante la Royal Society, décadas antes de la fecha atribuida a Dom Pérignon."
+    },
+    "fecha": "2026-11-16"
+   },
    {
     "claves": [
      {
@@ -2262,42 +2325,6 @@
     },
     "titulo": "El vino europeo crece sobre raíces americanas",
     "wiki": "Gran plaga de la filoxera"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Sauvignon blanc",
-      "quien": "La uva blanca que resultó ser madre del Cabernet Sauvignon.",
-      "wiki": "Sauvignon (uva)"
-     },
-     {
-      "nombre": "Carménère",
-      "quien": "Otra uva bordelesa de la misma familia, hoy emblema de Chile.",
-      "wiki": "Carmenere"
-     }
-    ],
-    "dato": "En 1997, un análisis de ADN en la Universidad de California en Davis demostró que la uva tinta más famosa del mundo, el Cabernet Sauvignon, es hija del Cabernet Franc y del Sauvignon Blanc, una uva blanca.",
-    "epoca": "1997",
-    "explicacion": "Carole Meredith y John Bowers compararon 30 marcadores genéticos en 51 variedades. El resultado se publicó en *Nature Genetics*. El nombre ya era una pista que nadie había tomado en serio: Cabernet y Sauvignon juntos.\n\nLos investigadores creen que fue un cruce espontáneo entre viñedos vecinos, probablemente en la región de Burdeos. Los viticultores no hacían híbridos a propósito antes del siglo XVII. La uva que hoy vale fortunas nació, quizá, de un accidente entre dos hileras.",
-    "fecha": "2026-10-28",
-    "fuente": {
-     "nombre": "UC Davis: DNA Fingerprinting Reveals Parentage of Classic Wine Grape (1997)",
-     "url": "https://www.ucdavis.edu/news/dna-fingerprinting-reveals-parentage-classic-wine-grape/"
-    },
-    "imagen": {
-     "alt": "Racimo de uvas Cabernet Sauvignon, pequeñas y casi negras",
-     "credito": "Wikimedia Commons",
-     "pie": "Racimo de Cabernet Sauvignon",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grappe_de_raisin_cabernet_sauvignon.jpg?width=900"
-    },
-    "materia": "Gastronomía, vino y destilados",
-    "pilar": "gusto",
-    "repaso": {
-     "pregunta": "¿Quiénes son los padres del Cabernet Sauvignon según el ADN?",
-     "respuesta": "El Cabernet Franc y el Sauvignon Blanc. Lo demostraron Meredith y Bowers en UC Davis en 1997."
-    },
-    "titulo": "El Cabernet Sauvignon es hijo de una uva blanca",
-    "wiki": "Viñedo de Burdeos"
    }
   ],
   "Historia y geopolítica": [
@@ -2484,36 +2511,6 @@
     },
     "titulo": "El presidente de menos de una hora",
     "wiki": "Pedro Lascuráin"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Antonio López de Santa Anna",
-      "quien": "Militar y varias veces presidente de México; perdió una pierna en Veracruz en 1838.",
-      "wiki": "Antonio López de Santa Anna"
-     },
-     {
-      "nombre": "Castillo de San Juan de Ulúa",
-      "quien": "La fortaleza frente a Veracruz que los franceses atacaron.",
-      "wiki": "Castillo de San Juan de Ulúa"
-     }
-    ],
-    "dato": "En 1838 Francia bloqueó Veracruz y atacó San Juan de Ulúa. Entre sus reclamos estaba el de un pastelero francés de Tacubaya, Remontel, que pedía 60,000 pesos por los destrozos de unos oficiales en su tienda.",
-    "epoca": "1838",
-    "explicacion": "El nombre de «Guerra de los Pasteles» hace parecer ridícula la causa, pero no lo era tanto. Francia sumó muchas reclamaciones de sus ciudadanos por daños en los desórdenes de esos años y exigió 600,000 pesos. México no pagó. La flota francesa bloqueó el puerto de Veracruz, el más importante del país, y lo bombardeó. Ahí Antonio López de Santa Anna perdió una pierna.\n\nLa guerra terminó en 1839, con la mediación británica: México aceptó pagar los 600,000 pesos. La lección de fondo es económica: un país endeudado y con aduanas como principal ingreso era vulnerable a que una potencia cerrara su puerto. Veinte años después, Francia volvería con la Intervención.",
-    "fecha": "2026-10-30",
-    "fuente": {
-     "nombre": "Wikipedia: Guerra de los Pasteles",
-     "url": "https://es.wikipedia.org/wiki/Guerra_de_los_Pasteles"
-    },
-    "materia": "Historia y geopolítica",
-    "pilar": "mundo",
-    "repaso": {
-     "pregunta": "¿Qué reclamaba el pastelero Remontel y cuánto exigió Francia en total?",
-     "respuesta": "Remontel pedía 60,000 pesos por daños a su tienda en Tacubaya; Francia exigió 600,000 pesos por todas las reclamaciones."
-    },
-    "titulo": "Una guerra por unos pasteles en Tacubaya",
-    "wiki": "Guerra de los Pasteles"
    }
   ],
   "IA y el futuro": [
@@ -2714,62 +2711,10 @@
     },
     "titulo": "Los primeros robots eran de carne",
     "wiki": "R.U.R. (Robots Universales Rossum)"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "John McCarthy",
-      "quien": "Científico que acuñó el término «inteligencia artificial».",
-      "wiki": "John McCarthy"
-     },
-     {
-      "nombre": "Marvin Minsky",
-      "quien": "Cofundador del laboratorio de IA del MIT.",
-      "wiki": "Marvin Minsky"
-     },
-     {
-      "nombre": "Invierno de la IA",
-      "quien": "Periodos en que cayeron el interés y el financiamiento por promesas incumplidas.",
-      "wiki": "Invierno de la IA"
-     }
-    ],
-    "dato": "En 1955, cuatro científicos pidieron fondos para un taller en Dartmouth: «un estudio de 2 meses y 10 hombres». Creían lograr un avance importante en un verano. Ahí nació el término «inteligencia artificial».",
-    "epoca": "1955",
-    "explicacion": "John McCarthy, Marvin Minsky, Nathaniel Rochester y Claude Shannon firmaron la propuesta. Querían averiguar cómo hacer que las máquinas usaran lenguaje, formaran conceptos y resolvieran problemas «reservados ahora a los humanos». El taller se hizo en el verano de 1956 en Dartmouth College, en EE. UU.\n\nEl verano se volvió setenta años. El optimismo excesivo produjo varios «inviernos de la IA», épocas en que se retiró el dinero porque las promesas no llegaban. La lección sirve hoy: la dirección era correcta, pero calcularon muy mal el tiempo. Es lo que más suele fallar en las predicciones tecnológicas.",
-    "fecha": "2026-10-30",
-    "fuente": {
-     "nombre": "Stanford: A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence (1955)",
-     "url": "http://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html"
-    },
-    "materia": "IA y el futuro",
-    "pilar": "futuro",
-    "repaso": {
-     "pregunta": "¿Cuánto tiempo y cuántas personas pedía la propuesta de Dartmouth de 1955?",
-     "respuesta": "«Un estudio de 2 meses y 10 hombres»: creían lograr un avance importante en un verano."
-    },
-    "titulo": "Iban a resolver la IA en un verano",
-    "wiki": "Conferencia de Dartmouth"
    }
   ],
   "Inversión y finanzas personales": [
    {
-    "materia": "Inversión y finanzas personales",
-    "pilar": "patrimonio",
-    "epoca": "1637",
-    "titulo": "La tulipomanía no arruinó a Holanda",
-    "dato": "La tulipomanía de 1637 es el ejemplo clásico de burbuja que arruinó a un país. La historiadora Anne Goldgar buscó en los archivos holandeses y no encontró a nadie que hubiera quebrado por ella.",
-    "explicacion": "En su libro *Tulipmania* (2007), Goldgar encontró un mercado pequeño de aficionados y comerciantes ricos: solo 37 compradores gastaron más de 400 florines. Los precios sí subieron muchísimo y se desplomaron a principios de febrero de 1637, pero muchos compradores simplemente no pagaron, y las pérdidas reales fueron menores. Las historias del marinero que se comió un bulbo vienen de panfletos moralistas de la época.\n\nEl mito lo popularizó el escocés Charles Mackay en 1841. La lección cambia: las burbujas existen, pero las historias de burbujas también se exageran, y conviene revisar la fuente antes de citar el desastre.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Semper_Augustus_Tulip_17th_century.jpg?width=900",
-     "alt": "Acuarela de un tulipán blanco con vetas rojas",
-     "pie": "El tulipán Semper Augustus, el más caro de la época, en una acuarela del siglo XVII",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Smithsonian Magazine: There Never Was a Real Tulip Fever",
-     "url": "https://www.smithsonianmag.com/history/there-never-was-real-tulip-fever-180964915/"
-    },
-    "wiki": "Tulipomanía",
     "claves": [
      {
       "nombre": "Charles Mackay",
@@ -2782,11 +2727,28 @@
       "wiki": "Haarlem"
      }
     ],
+    "dato": "La tulipomanía de 1637 es el ejemplo clásico de burbuja que arruinó a un país. La historiadora Anne Goldgar buscó en los archivos holandeses y no encontró a nadie que hubiera quebrado por ella.",
+    "epoca": "1637",
+    "explicacion": "En su libro *Tulipmania* (2007), Goldgar encontró un mercado pequeño de aficionados y comerciantes ricos: solo 37 compradores gastaron más de 400 florines. Los precios sí subieron muchísimo y se desplomaron a principios de febrero de 1637, pero muchos compradores simplemente no pagaron, y las pérdidas reales fueron menores. Las historias del marinero que se comió un bulbo vienen de panfletos moralistas de la época.\n\nEl mito lo popularizó el escocés Charles Mackay en 1841. La lección cambia: las burbujas existen, pero las historias de burbujas también se exageran, y conviene revisar la fuente antes de citar el desastre.",
+    "fecha": "2026-11-15",
+    "fuente": {
+     "nombre": "Smithsonian Magazine: There Never Was a Real Tulip Fever",
+     "url": "https://www.smithsonianmag.com/history/there-never-was-real-tulip-fever-180964915/"
+    },
+    "imagen": {
+     "alt": "Acuarela de un tulipán blanco con vetas rojas",
+     "credito": "Wikimedia Commons",
+     "pie": "El tulipán Semper Augustus, el más caro de la época, en una acuarela del siglo XVII",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Semper_Augustus_Tulip_17th_century.jpg?width=900"
+    },
+    "materia": "Inversión y finanzas personales",
+    "pilar": "patrimonio",
     "repaso": {
      "pregunta": "¿Qué encontró Anne Goldgar sobre las quiebras por la tulipomanía?",
      "respuesta": "Que no encontró a nadie que quebrara por ella: era un mercado pequeño, y muchos compradores no pagaron tras el desplome."
     },
-    "fecha": "2026-11-15"
+    "titulo": "La tulipomanía no arruinó a Holanda",
+    "wiki": "Tulipomanía"
    },
    {
     "claves": [
@@ -2884,61 +2846,10 @@
     },
     "titulo": "El experimento de interés compuesto de Franklin duró 200 años",
     "wiki": "Benjamin Franklin"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "The Vanguard Group",
-      "quien": "La gestora que fundó Bogle en 1975, con una estructura propiedad de sus fondos.",
-      "wiki": "The Vanguard Group"
-     },
-     {
-      "nombre": "S&P 500",
-      "quien": "El índice de 500 grandes empresas de EE. UU. que el fondo copiaba.",
-      "wiki": "S&P 500"
-     }
-    ],
-    "dato": "En 1976, Jack Bogle lanzó el primer fondo indexado para el público. Esperaba reunir 150 millones de dólares y juntó unos 11 millones. En Wall Street le decían «la locura de Bogle».",
-    "epoca": "1976",
-    "explicacion": "La idea era sencilla: en vez de pagar a gestores para que eligieran acciones, comprar todas las del índice S&P 500 y cobrar comisiones muy bajas. Los críticos decían que conformarse con el promedio del mercado era antiestadounidense. El fondo, de la empresa Vanguard, empezó casi sin dinero.\n\nCon los años, los datos le dieron la razón: después de comisiones, la mayoría de los gestores activos no le gana a su índice a largo plazo. Hoy los fondos indexados manejan billones de dólares. Es historia, no recomendación: lo que enseña es el peso de las comisiones, que se acumulan año tras año igual que los rendimientos.",
-    "fecha": "2026-10-30",
-    "fuente": {
-     "nombre": "Wikipedia: Vanguard 500 Index Fund",
-     "url": "https://en.wikipedia.org/wiki/Vanguard_500_Index_Fund"
-    },
-    "materia": "Inversión y finanzas personales",
-    "pilar": "patrimonio",
-    "repaso": {
-     "pregunta": "¿Cuánto esperaba reunir el primer fondo indexado de Bogle en 1976 y cuánto juntó?",
-     "respuesta": "Esperaba 150 millones de dólares y juntó unos 11 millones; lo llamaron «la locura de Bogle»."
-    },
-    "titulo": "La «locura de Bogle»",
-    "wiki": "Fondo indexado"
    }
   ],
   "Liderazgo e influencia": [
    {
-    "materia": "Liderazgo e influencia",
-    "pilar": "caracter",
-    "epoca": "325 a. C.",
-    "titulo": "Alejandro tiró al suelo el único casco de agua",
-    "dato": "Según el historiador Arriano, cuando el ejército de Alejandro Magno moría de sed en el desierto, unos soldados le llevaron un casco con agua. Él la derramó al suelo frente a todos.",
-    "explicacion": "Alejandro marchaba a pie, como sus hombres, para compartir su esfuerzo. Beber solo habría marcado la distancia entre el rey y la tropa. Arriano escribe que, al verlo tirar el agua, el ejército se sintió tan aliviado como si todos hubieran bebido. Es una de las primeras lecciones escritas de liderazgo por el ejemplo.\n\nUn matiz: el propio Arriano dice que ocurrió en el desierto de [[Gedrosia|Región árida del actual sur de Pakistán e Irán que el ejército cruzó al volver de la India.]], hacia 325 a. C., «o, según otros autores, antes», en Asia central. Quinto Curcio cuenta una escena parecida en otro desierto. La historia es antigua; el lugar exacto, no seguro.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cades,_Giuseppe_-_Alexander_the_Great_Refuses_to_Take_Water_-_1792.jpg?width=900",
-     "alt": "Pintura de un rey que rechaza un casco con agua rodeado de soldados",
-     "pie": "Alejandro rechaza el agua, pintado por Giuseppe Cades (1792)",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Arriano, Anábasis de Alejandro, VI, 26 (trad. E. J. Chinnock), Proyecto Gutenberg",
-     "url": "https://gutenberg.org/cache/epub/46976/pg46976-images.html"
-    },
-    "profundizar": {
-     "titulo": "Livius.org: Alexander in the Gedrosian desert",
-     "url": "https://www.livius.org/sources/content/arrian/anabasis/alexander-in-the-gedrosian-desert/"
-    },
-    "wiki": "Alejandro Magno",
     "claves": [
      {
       "nombre": "Flavio Arriano",
@@ -2951,11 +2862,32 @@
       "wiki": "Nearco"
      }
     ],
+    "dato": "Según el historiador Arriano, cuando el ejército de Alejandro Magno moría de sed en el desierto, unos soldados le llevaron un casco con agua. Él la derramó al suelo frente a todos.",
+    "epoca": "325 a. C.",
+    "explicacion": "Alejandro marchaba a pie, como sus hombres, para compartir su esfuerzo. Beber solo habría marcado la distancia entre el rey y la tropa. Arriano escribe que, al verlo tirar el agua, el ejército se sintió tan aliviado como si todos hubieran bebido. Es una de las primeras lecciones escritas de liderazgo por el ejemplo.\n\nUn matiz: el propio Arriano dice que ocurrió en el desierto de [[Gedrosia|Región árida del actual sur de Pakistán e Irán que el ejército cruzó al volver de la India.]], hacia 325 a. C., «o, según otros autores, antes», en Asia central. Quinto Curcio cuenta una escena parecida en otro desierto. La historia es antigua; el lugar exacto, no seguro.",
+    "fecha": "2026-11-15",
+    "fuente": {
+     "nombre": "Arriano, Anábasis de Alejandro, VI, 26 (trad. E. J. Chinnock), Proyecto Gutenberg",
+     "url": "https://gutenberg.org/cache/epub/46976/pg46976-images.html"
+    },
+    "imagen": {
+     "alt": "Pintura de un rey que rechaza un casco con agua rodeado de soldados",
+     "credito": "Wikimedia Commons",
+     "pie": "Alejandro rechaza el agua, pintado por Giuseppe Cades (1792)",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cades,_Giuseppe_-_Alexander_the_Great_Refuses_to_Take_Water_-_1792.jpg?width=900"
+    },
+    "materia": "Liderazgo e influencia",
+    "pilar": "caracter",
+    "profundizar": {
+     "titulo": "Livius.org: Alexander in the Gedrosian desert",
+     "url": "https://www.livius.org/sources/content/arrian/anabasis/alexander-in-the-gedrosian-desert/"
+    },
     "repaso": {
      "pregunta": "¿Qué hizo Alejandro con el casco de agua que le llevaron en el desierto, según Arriano?",
      "respuesta": "La derramó al suelo frente a todos para no beber mientras sus soldados tenían sed."
     },
-    "fecha": "2026-11-15"
+    "titulo": "Alejandro tiró al suelo el único casco de agua",
+    "wiki": "Alejandro Magno"
    },
    {
     "claves": [
@@ -3253,6 +3185,42 @@
   ],
   "Mente y decisiones": [
    {
+    "materia": "Mente y decisiones",
+    "pilar": "mente",
+    "epoca": "1990",
+    "titulo": "Diez mil cartas contra la respuesta correcta",
+    "dato": "En 1990, Marilyn vos Savant respondió en la revista *Parade* que en el problema de Monty Hall conviene cambiar de puerta. Recibió unas 10,000 cartas, cerca de 1,000 firmadas por doctores, casi todas diciendo que se equivocaba. Tenía razón.",
+    "explicacion": "El juego: hay tres puertas, un coche detrás de una y cabras detrás de las otras. Eliges una. El presentador, que sabe dónde está el coche, abre otra con una cabra y te ofrece cambiar. Parece 50 y 50. No lo es: tu primera elección tenía 1/3 de probabilidad, y como el presentador abre sabiendo lo que hay, los otros 2/3 se concentran en la puerta que queda.\n\nEl caso muestra que la intuición falla incluso en expertos cuando la información nueva no llega al azar. Según *Scientific American*, hasta el matemático Paul Erdős se resistió a la respuesta cuando se la plantearon.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Monty_open_door.svg?width=900",
+     "alt": "Dibujo de tres puertas; una abierta muestra una cabra",
+     "pie": "El problema de Monty Hall: el presentador abre una puerta con cabra",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Scientific American: Why almost everyone gets the Monty Hall probability puzzle wrong",
+     "url": "https://scientificamerican.com/article/why-almost-everyone-gets-the-monty-hall-probability-puzzle-wrong/"
+    },
+    "wiki": "Problema de Monty Hall",
+    "claves": [
+     {
+      "nombre": "Marilyn vos Savant",
+      "quien": "Columnista de Parade que dio la respuesta correcta y fue atacada por miles de lectores.",
+      "wiki": "Marilyn vos Savant"
+     },
+     {
+      "nombre": "Paul Erdős",
+      "quien": "Matemático húngaro, uno de los más prolíficos de la historia; también dudó.",
+      "wiki": "Paul Erdős"
+     }
+    ],
+    "repaso": {
+     "pregunta": "En el problema de Monty Hall, ¿qué probabilidad de ganar tienes si cambias de puerta?",
+     "respuesta": "2/3. Si te quedas, 1/3, porque el presentador abre una puerta sabiendo dónde está el coche."
+    },
+    "fecha": "2026-11-16"
+   },
+   {
     "claves": [
      {
       "nombre": "Daniel Kahneman",
@@ -3407,36 +3375,6 @@
     },
     "titulo": "El ladrón que se untó jugo de limón",
     "wiki": "Efecto Dunning-Kruger"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Economía conductual",
-      "quien": "La disciplina que estudia cómo decidimos en la realidad, no en el modelo ideal.",
-      "wiki": "Economía conductual"
-     },
-     {
-      "nombre": "Teoría de la decisión",
-      "quien": "El estudio formal de cómo elegir entre opciones con información incompleta.",
-      "wiki": "Teoría de la decisión"
-     }
-    ],
-    "dato": "En el famoso estudio de las mermeladas, el 30% de quienes vieron 6 sabores compraron, contra el 3% de quienes vieron 24. Pero un metaanálisis de 50 experimentos encontró que, en promedio, el efecto es casi cero.",
-    "epoca": "2000",
-    "explicacion": "El estudio de Sheena Iyengar y Mark Lepper (2000) se volvió la base de la idea de que «más opciones paralizan». Diez años después, Benjamin Scheibehenne y sus colegas juntaron 50 experimentos con unas 5,000 personas. El efecto promedio fue de 0.02: prácticamente nada.\n\nNo significa que la sobrecarga de opciones no exista. Significa que aparece solo en ciertas condiciones: cuando las opciones son difíciles de comparar o cuando no sabes qué prefieres. Si ya conoces la categoría, muchas opciones no te frenan.",
-    "fecha": "2026-10-28",
-    "fuente": {
-     "nombre": "Psychology Today: Is Choice Overload a Real Thing? (2016)",
-     "url": "https://www.psychologytoday.com/us/blog/pop-psych/201602/is-choice-overload-real-thing"
-    },
-    "materia": "Mente y decisiones",
-    "pilar": "mente",
-    "repaso": {
-     "pregunta": "¿Qué encontró el metaanálisis de 2010 sobre la sobrecarga de opciones?",
-     "respuesta": "Que en 50 experimentos el efecto promedio era casi cero: solo aparece en ciertas condiciones."
-    },
-    "titulo": "La mermelada que no resistió la réplica",
-    "wiki": "La paradoja de la elección"
    }
   ],
   "Música": [
@@ -3555,6 +3493,46 @@
    }
   ],
   "Negocios y estrategia": [
+   {
+    "materia": "Negocios y estrategia",
+    "pilar": "patrimonio",
+    "epoca": "1974",
+    "titulo": "El primer código de barras se escaneó en un chicle",
+    "dato": "La mañana del 26 de junio de 1974, en un supermercado Marsh de Troy, Ohio, la cajera Sharon Buchanan pasó por el escáner un paquete de 10 chicles Juicy Fruit de Wrigley. Fue el primer producto vendido con un código UPC.",
+    "explicacion": "El comprador fue Clyde Dawson, jefe de investigación de Marsh, y el paquete costó 67 centavos. Cada escáner le costó a la tienda unos 4,000 dólares de entonces, según el Museo Nacional de Historia Estadounidense, que conserva uno en su colección.\n\nEl código de barras se había inventado en 1949, pero no servía hasta que fabricantes y supermercados acordaran un [[estándar|Regla técnica común que todos aceptan, para que productos de distintas empresas funcionen juntos.]] común. El valor no estaba en las barras, sino en el acuerdo: un idioma compartido para toda una industria.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/UPC-A_L2.svg?width=900",
+     "alt": "Código de barras con números debajo",
+     "pie": "Un código UPC-A, el formato que se estrenó en 1974",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Smithsonian Magazine: The supermarket scanner changed the way we buy groceries forever",
+     "url": "https://www.smithsonianmag.com/smithsonian-institution/supermarket-scanner-changed-way-we-buy-groceries-forever-180984293/"
+    },
+    "profundizar": {
+     "titulo": "GS1: Marsh holds place of honor in history of GS1 barcode",
+     "url": "https://www.gs1.org/articles/marsh-holds-place-honor-history-gs1-barcode"
+    },
+    "wiki": "Código Universal de Producto",
+    "claves": [
+     {
+      "nombre": "Código de barras",
+      "quien": "La idea de representar datos con barras, inventada en 1949.",
+      "wiki": "Código de barras"
+     },
+     {
+      "nombre": "IBM",
+      "quien": "La empresa donde se diseñó el formato UPC que adoptaron los supermercados.",
+      "wiki": "IBM"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué producto fue el primero en venderse con un código UPC y dónde?",
+     "respuesta": "Un paquete de chicles Juicy Fruit de Wrigley, el 26 de junio de 1974, en un supermercado Marsh de Troy, Ohio."
+    },
+    "fecha": "2026-11-16"
+   },
    {
     "claves": [
      {
@@ -3869,41 +3847,6 @@
     },
     "titulo": "«Corbata» quiere decir «croata»",
     "wiki": "Corbata"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Coco Chanel",
-      "quien": "Diseñadora francesa que fundó la casa Chanel.",
-      "wiki": "Coco Chanel"
-     },
-     {
-      "nombre": "Ernest Beaux",
-      "quien": "Perfumista nacido en Moscú que creó el Chanel N.º 5.",
-      "wiki": "Ernest Beaux"
-     },
-     {
-      "nombre": "Aldehído",
-      "quien": "La familia química que dio al perfume su olor característico.",
-      "wiki": "Aldehído"
-     }
-    ],
-    "dato": "En 1921, el perfumista Ernest Beaux le presentó a Coco Chanel varias muestras numeradas. Ella eligió la quinta y la dejó con ese nombre. No fue el primer perfume con aldehídos, pero sí el que los usó en una dosis inusual.",
-    "epoca": "1921",
-    "explicacion": "Los [[aldehídos|Moléculas sintéticas que en perfumería dan un olor brillante, como de jabón limpio o de chispa.]] eran ingredientes de laboratorio. Ya se habían usado antes, pero Beaux los puso en una concentración muy alta, sobre un fondo de flores como jazmín y rosa. El resultado no olía a una flor reconocible: olía a algo abstracto. Chanel quería «un perfume de mujer con olor a mujer», no a jardín.\n\nTambién rompió con el frasco: en lugar de cristal decorado, uno sencillo, casi de laboratorio. La lección de lujo es clara: la marca no copió la naturaleza, inventó algo que no existía y lo presentó con sobriedad. Un siglo después sigue entre los perfumes más vendidos del mundo.",
-    "fecha": "2026-10-30",
-    "fuente": {
-     "nombre": "Wikipedia: Chanel No. 5",
-     "url": "https://en.wikipedia.org/wiki/Chanel_No._5"
-    },
-    "materia": "Oficios del lujo y estilo",
-    "pilar": "gusto",
-    "repaso": {
-     "pregunta": "¿Qué hizo distinto al Chanel N.º 5 en 1921?",
-     "respuesta": "Usó aldehídos sintéticos en una dosis inusual: no olía a una flor concreta, sino a algo abstracto."
-    },
-    "titulo": "Chanel eligió la muestra número 5",
-    "wiki": "Chanel N.º 5"
    }
   ],
   "Productos digitales escalables": [
@@ -4032,42 +3975,6 @@
     },
     "titulo": "Radiohead dejó que cada quien pusiera el precio",
     "wiki": "Paga lo que quieras"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Apple II",
-      "quien": "La computadora personal de Apple de 1977 que VisiCalc convirtió en herramienta de negocios.",
-      "wiki": "Apple II"
-     },
-     {
-      "nombre": "IBM PC",
-      "quien": "La computadora de 1981 donde Lotus 1-2-3 desplazó a VisiCalc.",
-      "wiki": "IBM PC"
-     }
-    ],
-    "dato": "VisiCalc, la primera hoja de cálculo para computadora personal, salió en 1979 por menos de 100 dólares. Mucha gente compró una Apple II de unos 2,000 dólares solo para poder usarla.",
-    "epoca": "1979",
-    "explicacion": "La crearon Dan Bricklin y Bob Frankston. Según los distribuidores de Apple, VisiCalc generó más ventas de computadoras para negocios que todo el resto del software junto, y se dice que más de un cuarto de las Apple II vendidas en 1979 se compraron por ella. Vendió más de 700,000 copias en seis años.\n\nEs el primer gran ejemplo de *killer app*: un programa tan útil que arrastra la venta del aparato. Y de un riesgo: en 1983 llegó Lotus 1-2-3, más potente y compatible, y en diciembre de ese año VisiCalc vendió solo 5,700 copias. En 1985 dejó de venderse.",
-    "fecha": "2026-10-28",
-    "fuente": {
-     "nombre": "Wikipedia: VisiCalc",
-     "url": "https://en.wikipedia.org/wiki/VisiCalc"
-    },
-    "imagen": {
-     "alt": "Pantalla verde de VisiCalc con filas y columnas de números",
-     "credito": "Wikimedia Commons",
-     "pie": "VisiCalc en una Apple II: filas, columnas y fórmulas que se recalculan solas",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Visicalc.png?width=900"
-    },
-    "materia": "Productos digitales escalables",
-    "pilar": "patrimonio",
-    "repaso": {
-     "pregunta": "¿Por qué VisiCalc es el primer gran ejemplo de killer app?",
-     "respuesta": "Porque la gente compraba una Apple II de unos 2,000 dólares solo para usar ese programa de menos de 100."
-    },
-    "titulo": "El programa que vendía computadoras",
-    "wiki": "Hoja de cálculo"
    }
   ],
   "Relaciones y vida social": [
@@ -4230,36 +4137,6 @@
     },
     "titulo": "Seis grados, pero casi ninguna carta llegó",
     "wiki": "Experimento del mundo pequeño"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Robin Dunbar",
-      "quien": "Antropólogo que propuso un límite a cuántas relaciones podemos mantener.",
-      "wiki": "Robin Dunbar"
-     },
-     {
-      "nombre": "Psicología social",
-      "quien": "La ciencia que estudia cómo influyen los demás en lo que pensamos y hacemos.",
-      "wiki": "Psicología social"
-     }
-    ],
-    "dato": "Un estudio de la Universidad de Kansas calculó que pasar de conocido a amigo casual toma unas 50 horas juntos, a amigo unas 90, y a amigo cercano más de 200.",
-    "epoca": "2018",
-    "explicacion": "El investigador Jeffrey Hall encuestó a adultos que se habían mudado a una ciudad nueva y a estudiantes de primer ingreso. Les preguntó cuántas horas habían pasado con personas que conocieron recientemente y qué tan cercanas las sentían. Los resultados salieron en 2018 en el *Journal of Social and Personal Relationships*.\n\nNo cualquier hora cuenta igual. Las horas en el trabajo sumaban menos que el tiempo libre compartido: platicar, bromear, ponerse al día. La lección es práctica: la amistad no se da por química, se construye con tiempo. Y el tiempo es finito, así que nadie puede tener muchos amigos cercanos.",
-    "fecha": "2026-10-30",
-    "fuente": {
-     "nombre": "KU News: Study reveals number of hours it takes to make a friend (2018)",
-     "url": "https://news.ku.edu/2018/03/06/study-reveals-number-hours-it-takes-make-friend"
-    },
-    "materia": "Relaciones y vida social",
-    "pilar": "caracter",
-    "repaso": {
-     "pregunta": "¿Cuántas horas calculó Jeffrey Hall para hacer un amigo cercano?",
-     "respuesta": "Más de 200 horas juntos, sobre todo de tiempo libre compartido."
-    },
-    "titulo": "Un mejor amigo cuesta 200 horas",
-    "wiki": "Amistad"
    }
   ],
   "Religiones y grandes textos": [
@@ -4373,23 +4250,6 @@
   ],
   "Retórica y oratoria": [
    {
-    "materia": "Retórica y oratoria",
-    "pilar": "mente",
-    "epoca": "1963",
-    "titulo": "Kennedy no dijo «soy una dona»",
-    "dato": "Se repite que en Berlín, en 1963, John F. Kennedy dijo por error «soy una dona» al decir «Ich bin ein Berliner». Es falso: la frase es correcta en alemán y así la entendió el público.",
-    "explicacion": "El mito dice que el artículo *ein* convierte la frase en «soy un *berliner*», un pan dulce relleno. Pero en alemán ese *ein* es justo el que se usa en sentido figurado: «soy uno de ustedes». Además, en Berlín a ese pan se le llama *Pfannkuchen*. Nadie en la plaza oyó una dona.\n\nEl intérprete Robert Lochner, que hablaba alemán desde niño, le dio la frase a Kennedy, y él la escribió como sonaba: «ish bin ein Bearleener». La dijo el 26 de junio de 1963 ante una multitud de cientos de miles (las cifras van de 120,000 a 450,000), frente al ayuntamiento de Schöneberg. El mito nació después, fuera de Alemania.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JFK_speech_Ich_bin_ein_berliner_1.jpg?width=900",
-     "alt": "John F. Kennedy hablando en un estrado ante una multitud en Berlín",
-     "pie": "Kennedy en Berlín Occidental, 26 de junio de 1963",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Max Kade Institute, University of Wisconsin–Madison: «Ich bin ein Berliner»",
-     "url": "https://language.mki.wisc.edu/essays/ich-bin-ein-berliner/"
-    },
-    "wiki": "John F. Kennedy",
     "claves": [
      {
       "nombre": "Muro de Berlín",
@@ -4402,11 +4262,28 @@
       "wiki": "Guerra Fría"
      }
     ],
+    "dato": "Se repite que en Berlín, en 1963, John F. Kennedy dijo por error «soy una dona» al decir «Ich bin ein Berliner». Es falso: la frase es correcta en alemán y así la entendió el público.",
+    "epoca": "1963",
+    "explicacion": "El mito dice que el artículo *ein* convierte la frase en «soy un *berliner*», un pan dulce relleno. Pero en alemán ese *ein* es justo el que se usa en sentido figurado: «soy uno de ustedes». Además, en Berlín a ese pan se le llama *Pfannkuchen*. Nadie en la plaza oyó una dona.\n\nEl intérprete Robert Lochner, que hablaba alemán desde niño, le dio la frase a Kennedy, y él la escribió como sonaba: «ish bin ein Bearleener». La dijo el 26 de junio de 1963 ante una multitud de cientos de miles (las cifras van de 120,000 a 450,000), frente al ayuntamiento de Schöneberg. El mito nació después, fuera de Alemania.",
+    "fecha": "2026-11-15",
+    "fuente": {
+     "nombre": "Max Kade Institute, University of Wisconsin–Madison: «Ich bin ein Berliner»",
+     "url": "https://language.mki.wisc.edu/essays/ich-bin-ein-berliner/"
+    },
+    "imagen": {
+     "alt": "John F. Kennedy hablando en un estrado ante una multitud en Berlín",
+     "credito": "Wikimedia Commons",
+     "pie": "Kennedy en Berlín Occidental, 26 de junio de 1963",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JFK_speech_Ich_bin_ein_berliner_1.jpg?width=900"
+    },
+    "materia": "Retórica y oratoria",
+    "pilar": "mente",
     "repaso": {
      "pregunta": "¿Kennedy se equivocó al decir «Ich bin ein Berliner»?",
      "respuesta": "No. La frase es correcta y significa «soy uno de ustedes»; el mito de la dona nació después, fuera de Alemania."
     },
-    "fecha": "2026-11-15"
+    "titulo": "Kennedy no dijo «soy una dona»",
+    "wiki": "John F. Kennedy"
    },
    {
     "claves": [
@@ -4573,23 +4450,6 @@
   ],
   "Salud y longevidad": [
    {
-    "materia": "Salud y longevidad",
-    "pilar": "cuerpo",
-    "epoca": "1922",
-    "titulo": "La insulina se vendió por un dólar",
-    "dato": "El 11 de enero de 1922, en Toronto, un niño de 14 años llamado Leonard Thompson recibió la primera inyección de insulina. Al año siguiente, sus descubridores vendieron la patente a la Universidad de Toronto por un dólar simbólico.",
-    "explicacion": "Antes de la insulina, la [[diabetes tipo 1|Enfermedad en que el páncreas deja de producir insulina; sin tratamiento era mortal en pocos meses o años.]] era una sentencia de muerte. La primera inyección a Thompson falló: el extracto era impuro y le causó un absceso. Doce días después, con un extracto purificado por James Collip, su azúcar bajó de forma drástica. Vivió 13 años más.\n\nLa patente estadounidense se concedió en enero de 1923. Frederick Banting no quiso poner su nombre en ella porque le parecía poco ético; Best y Collip la cedieron a la universidad por un dólar. A Banting se le atribuye la frase «la insulina no me pertenece, pertenece al mundo», muy citada aunque sin fuente primaria clara.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Photograph_of_F.G._Banting_and_C.H._Best_with_a_dog_on_the_roof_of_the_Medical_Building_(12309019434).jpg?width=900",
-     "alt": "Dos hombres con un perro en una azotea",
-     "pie": "Banting y Best con uno de sus perros de experimentación, Toronto",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "NobelPrize.org: The miracle discovery that reversed the diabetes death sentence",
-     "url": "https://nobelprize.org/the-miracle-discovery-that-reversed-the-diabetes-death-sentence"
-    },
-    "wiki": "Insulina",
     "claves": [
      {
       "nombre": "Frederick Banting",
@@ -4607,11 +4467,28 @@
       "wiki": "Universidad de Toronto"
      }
     ],
+    "dato": "El 11 de enero de 1922, en Toronto, un niño de 14 años llamado Leonard Thompson recibió la primera inyección de insulina. Al año siguiente, sus descubridores vendieron la patente a la Universidad de Toronto por un dólar simbólico.",
+    "epoca": "1922",
+    "explicacion": "Antes de la insulina, la [[diabetes tipo 1|Enfermedad en que el páncreas deja de producir insulina; sin tratamiento era mortal en pocos meses o años.]] era una sentencia de muerte. La primera inyección a Thompson falló: el extracto era impuro y le causó un absceso. Doce días después, con un extracto purificado por James Collip, su azúcar bajó de forma drástica. Vivió 13 años más.\n\nLa patente estadounidense se concedió en enero de 1923. Frederick Banting no quiso poner su nombre en ella porque le parecía poco ético; Best y Collip la cedieron a la universidad por un dólar. A Banting se le atribuye la frase «la insulina no me pertenece, pertenece al mundo», muy citada aunque sin fuente primaria clara.",
+    "fecha": "2026-11-15",
+    "fuente": {
+     "nombre": "NobelPrize.org: The miracle discovery that reversed the diabetes death sentence",
+     "url": "https://nobelprize.org/the-miracle-discovery-that-reversed-the-diabetes-death-sentence"
+    },
+    "imagen": {
+     "alt": "Dos hombres con un perro en una azotea",
+     "credito": "Wikimedia Commons",
+     "pie": "Banting y Best con uno de sus perros de experimentación, Toronto",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Photograph_of_F.G._Banting_and_C.H._Best_with_a_dog_on_the_roof_of_the_Medical_Building_(12309019434).jpg?width=900"
+    },
+    "materia": "Salud y longevidad",
+    "pilar": "cuerpo",
     "repaso": {
      "pregunta": "¿Quién fue el primer paciente tratado con insulina y por cuánto se cedió la patente?",
      "respuesta": "Leonard Thompson, de 14 años, en enero de 1922. La patente se cedió a la Universidad de Toronto por un dólar simbólico."
     },
-    "fecha": "2026-11-15"
+    "titulo": "La insulina se vendió por un dólar",
+    "wiki": "Insulina"
    },
    {
     "claves": [

@@ -1,0 +1,883 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-16",
+ "numero": 26,
+ "fecha": "2026-11-16",
+ "disponibleDesde": "2026-11-16T08:00:00-06:00",
+ "titulo": "1919: un eclipse le da la razón a Einstein",
+ "temporada": {
+  "id": "t05",
+  "numero": 5,
+  "titulo": "El cosmos: del cielo de los griegos al telescopio James Webb",
+  "episodio": 3,
+  "totalEpisodios": 6
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1919_eclipse_positive.jpg?width=900",
+  "alt": "Fotografía antigua de un eclipse total de Sol, con la corona brillante alrededor del disco negro",
+  "pie": "El eclipse del 29 de mayo de 1919, fotografiado por la expedición de Eddington. En esas placas se buscaba la huella de Einstein.",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "pregunta": "¿Cómo llamó Galileo a las lunas de Júpiter y qué consiguió con ello?",
+   "respuesta": "Medicea Sidera, «estrellas de los Medici». Cosme II lo nombró matemático y filósofo del gran duque de Toscana.",
+   "origen": "Edición #25"
+  },
+  {
+   "pregunta": "En el experimento de las tazas de Cornell, ¿cuánto pedían los dueños y cuánto ofrecían los compradores?",
+   "respuesta": "Los dueños, una mediana de 5.25 dólares; los compradores, entre 2.25 y 2.75. Unas dos veces menos.",
+   "origen": "Edición #25"
+  },
+  {
+   "pregunta": "¿Cuánto cobra Apple de comisión a un desarrollador que ganó menos de un millón de dólares el año anterior?",
+   "respuesta": "15%, desde el 1 de enero de 2021. La tarifa estándar es 30%.",
+   "origen": "Edición #25"
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n1",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-11-16",
+   "historiaEnCurso": {
+    "id": "aranceles-eeuu-mexico",
+    "titulo": "Aranceles de EE. UU. a México y revisión del T-MEC",
+    "capitulo": 3,
+    "dondeIbamos": "El 13 de noviembre, Sheinbaum dijo que los cambios al IMMEX estaban «prácticamente listos» para responder a la queja de EE. UU. sobre la triangulación, y anunció su viaje a la cumbre APEC en China."
+   },
+   "titular": "Sheinbaum llega a China para la APEC mientras el comercio con ese país crece y Washington presiona",
+   "quePaso": "Claudia Sheinbaum aterrizó en Shenzhen el 16 de noviembre, hora local, en su primer viaje a China como presidenta. Es la primera visita de un mandatario mexicano a ese país desde 2017, cuando Enrique Peña Nieto fue a Xiamen. La gira va del 15 al 20 de noviembre; la cumbre de líderes de la APEC es el 18 y 19.\n\nMarcelo Ebrard dijo que China, Canadá, Vietnam y Australia pidieron reuniones bilaterales con la presidenta. Ella regresa el viernes 20 para los actos del aniversario de la Revolución.",
+   "aMiQue": "Si tu marca importa de China envases, frascos, cápsulas, etiquetas o maquinaria, ya pagas aranceles de 5% a 50% en más de 1,400 fracciones. Lo que salga de esta gira, y la reacción de Washington, puede mover esos costos en 2027. Conviene tener hoy un mapa de qué insumos vienen de China y un proveedor alterno para los más caros.",
+   "contexto": "**Hecho:** según Expansión, de enero a septiembre de 2026 México y China comerciaron 117,080 millones de dólares, 12.8% más que un año antes. México importó 105,979 millones y exportó 11,101 millones; las exportaciones subieron 59.5%, casi todo por cobre, plomo y sus concentrados. Desde enero rigen aranceles de 5% a 50% en 1,463 fracciones de 17 sectores para países sin tratado, y China concentra 45 de las 97 cuotas compensatorias vigentes en México.\n\n**Interpretación:** México quiere dos cosas a la vez: vender más a China y convencer a EE. UU. de que no es la puerta trasera de los productos chinos. Por eso Ebrard lleva lo comercial y Sheinbaum dijo antes del viaje que el comercio no sería el tema central con Xi.",
+   "queVigilar": "Si hay reunión con Xi Jinping y qué se anuncia; cualquier respuesta de Washington, que revisa el T-MEC y vigila la triangulación; y si el gobierno publica los cambios al IMMEX al volver la presidenta.",
+   "fuentes": [
+    {
+     "nombre": "Expansión: México y China comercian cada vez más entre nuevos aranceles y mayor presión de EU (16 nov 2026)",
+     "url": "https://expansion.mx/economia/2026/11/16/sheinbaum-xi-jinping-apec-comercio-mexico-china"
+    },
+    {
+     "nombre": "Infobae: Sheinbaum aterriza en Shenzhen para participar en la cumbre de la APEC China 2026 (16 nov 2026)",
+     "url": "https://www.infobae.com/mexico/2026/11/16/sheinbaum-aterriza-en-shenzhen-para-participar-en-la-cumbre-de-la-apec-china-2026/"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-16",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 23,
+    "dondeIbamos": "El 13 de noviembre el Brent cerró en 95.84 dólares, su segunda semana a la baja. El 14, Irán dijo que tres petroleros habían chocado con minas en Ormuz; nadie pudo verificarlo de forma independiente."
+   },
+   "titular": "El petróleo arranca la semana sin rumbo: más minas reportadas en Ormuz y un exceso de oferta a la vista",
+   "quePaso": "El lunes 16, el Brent bajó primero 0.6%, a 95.30 dólares, y horas después subió a 95.89, según Reuters. El cambio llegó cuando la Guardia Revolucionaria de Irán dijo que otros dos petroleros chocaron con minas en Ormuz. Reuters no pudo verificarlo.\n\nAl mismo tiempo, Reuters informa que los envíos de crudo de Oriente Medio se recuperaron casi a su nivel de antes de la guerra. Algunos portales financieros reportaron un ataque iraní a una base de EE. UU. en Baréin; Reuters no lo menciona y AUXO no pudo confirmarlo.",
+   "aMiQue": "Con el Brent atorado cerca de 95 dólares, no hay señal clara para el diésel ni para el flete de diciembre. Si negocias transporte o empaque para la temporada alta, pide una cláusula de ajuste que funcione en los dos sentidos: que el precio también baje si el crudo cae.",
+   "contexto": "**Hecho:** la Agencia Internacional de Energía estima que en el cuarto trimestre habrá 105 millones de barriles diarios de oferta, 1.7 millones por encima de la demanda. Hay 71 millones de barriles de reservas de emergencia disponibles hasta finales de febrero. La consultora BMI prevé, como escenario central, un acuerdo preliminar para reabrir Ormuz en el primer trimestre de 2027.\n\n**Interpretación:** el mercado está entre dos fuerzas. El exceso de oferta empuja el precio hacia abajo; cada incidente en Ormuz, aunque no se confirme, lo sostiene. Mientras no haya acuerdo entre Washington y Teherán, lo probable son movimientos bruscos sin tendencia.",
+   "queVigilar": "El informe semanal de inventarios de EE. UU. y las minutas de la Fed, el miércoles 18; la reunión de la OPEP+ del 29 de noviembre; y si se confirma algún daño real a buques en Ormuz.",
+   "fuentes": [
+    {
+     "nombre": "RTÉ (Reuters): Oil prices rise after Hormuz explosion claims (16 nov 2026)",
+     "url": "https://www.rte.ie/news/business/2026/1116/1599343-oil-prices/"
+    },
+    {
+     "nombre": "Shafaq News (Reuters): Oil slides on looming surplus and Hormuz recovery (16 nov 2026)",
+     "url": "https://shafaq.com/en/Economy/Oil-slides-on-looming-surplus-and-Hormuz-recovery"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "En 1919, dos equipos viajaron a una isla africana y a un pueblo de Brasil para fotografiar estrellas a pleno día. Querían saber quién tenía razón: Newton o Einstein.",
+    "contexto": "Noviembre de 1915. En plena Primera Guerra Mundial, Albert Einstein termina en Berlín su [[relatividad general|Teoría de Einstein (1915) que explica la gravedad como una curvatura del espacio y el tiempo causada por la masa.]]. Una de sus consecuencias es extraña: la luz de una estrella lejana debería doblarse un poco al pasar junto al Sol.\n\nEn Inglaterra, país enemigo de Alemania, un astrónomo de Cambridge llamado Arthur Eddington lee la teoría y quiere ponerla a prueba. Hay un problema: junto al Sol no se ve ninguna estrella. Su brillo lo tapa todo.",
+    "pregunta": "¿Qué necesitaban para ver si la luz de las estrellas se doblaba junto al Sol?",
+    "opciones": [
+     "Un telescopio en la cima de una montaña muy alta",
+     "Un eclipse total, para ver estrellas junto al Sol tapado",
+     "Medir la luz del Sol reflejada en la Luna llena"
+    ],
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arthur_Stanley_Eddington.jpg?width=900",
+     "alt": "Retrato en blanco y negro de un hombre con traje y corbata",
+     "pie": "Arthur Stanley Eddington, el astrónomo de Cambridge que encabezó la expedición a Príncipe",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Dos expediciones y un cielo nublado",
+    "texto": "La oportunidad llegó el 29 de mayo de 1919: un eclipse total de Sol. El Astrónomo Real, Frank Dyson, organizó dos expediciones mientras Europa salía de la guerra. Andrew Crommelin y Charles Davidson irían a Sobral, en el noreste de Brasil. Eddington y el relojero Edwin Cottingham irían a Príncipe, una isla frente a la costa de África occidental.\n\nHabía algo más en juego. Eddington era cuáquero y pacifista. Comprobar la teoría de un científico alemán, meses después del armisticio, era también un gesto: la ciencia por encima de las trincheras.\n\nLo que había que medir era diminuto. Einstein predecía que la luz se desviaría 1.75 [[segundos de arco|Unidad para medir ángulos muy pequeños: un grado tiene 3,600 segundos de arco.]] en el borde del Sol. Es el ancho de una moneda vista a más de dos kilómetros. Y la física de Newton también predecía una desviación, pero de la mitad. No bastaba con ver que la luz se doblaba: había que saber cuánto.\n\nEn Príncipe, las nubes taparon las estrellas en muchas placas; solo dos sirvieron para las mediciones clave. En Sobral el cielo se despejó, pero el sol deformó el espejo que alimentaba el telescopio principal y sus imágenes salieron borrosas. Un telescopio pequeño, de respaldo, salvó la misión.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eclipse_instruments_at_Sobral.jpg?width=900",
+     "alt": "Telescopios y equipo instalados al aire libre junto a una construcción",
+     "pie": "Los instrumentos de la expedición británica en Sobral, Brasil, en 1919",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "giro",
+    "titulo": "La luz se dobló, pero no todo fue tan limpio",
+    "texto": "La respuesta: hacía falta un eclipse total. Con la Luna tapando el Sol, durante unos minutos se ven las estrellas que están a su lado. Se fotografían y se comparan con fotos de las mismas estrellas tomadas de noche, meses antes. Si aparecen un poco desplazadas hacia afuera, su luz se dobló al pasar junto al Sol.\n\nEl 6 de noviembre de 1919, en una reunión conjunta de la [[Royal Society|La academia científica más antigua del Reino Unido, fundada en 1660.]] y la Royal Astronomical Society, en Londres, se anunció el resultado. El telescopio pequeño de Sobral daba cerca de 1.98 segundos de arco; Príncipe, cerca de 1.61. Los dos estaban más cerca de Einstein que de Newton.\n\nAl día siguiente, The Times tituló: «Revolución en la ciencia. Nueva teoría del universo. Las ideas de Newton, derrocadas». El 10 de noviembre, The New York Times: «Las luces, torcidas en el cielo». Einstein pasó de físico respetado a celebridad mundial.\n\nLo sorprendente vino después. Las placas del telescopio grande de Sobral daban un valor cercano a Newton, y se descartaron por el defecto del espejo. En 1980, dos filósofos de la ciencia, John Earman y Clark Glymour, sugirieron que Eddington eligió los datos que le convenían. Pero en 1979 las placas de Sobral se habían vuelto a medir en el Real Observatorio de Greenwich con métodos modernos, y el resultado favorecía a Einstein. Hoy la mayoría de los historiadores considera razonable aquella decisión, aunque la precisión de 1919 era modesta. Mediciones posteriores, con radiotelescopios y satélites, confirmaron la predicción con mucho más rigor.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Einstein_theory_triumphs.png?width=900",
+     "alt": "Recorte de periódico antiguo con titulares sobre Einstein",
+     "pie": "The New York Times, noviembre de 1919: la teoría de Einstein, en primera plana",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "La predicción arriesgada",
+    "texto": "En 1919, un muchacho de 17 años en Viena siguió la noticia del eclipse. Se llamaba Karl Popper. Le impresionó que la teoría de Einstein hiciera una predicción precisa que, si fallaba, la echaba abajo.\n\nDe ahí salió una de las ideas más útiles del siglo XX: la [[falsabilidad|Criterio de Popper: una afirmación es científica si puede ponerse a prueba y, en principio, resultar falsa.]]. Una buena idea no es la que se acomoda a todo, sino la que se arriesga. Como resume la *Enciclopedia de Filosofía de Stanford*, para Popper un solo caso contrario genuino basta para refutar una ley universal.\n\nLa herramienta tiene tres pasos:\n\n1. Antes de probar algo, define qué resultado te demostraría que estabas equivocado.\n2. Ponle un número y una fecha.\n3. Si ese resultado llega, acéptalo, aunque te duela.\n\nLo contrario es lo que Popper criticaba: teorías que lo explican todo, pase lo que pase. Si una idea nunca puede fallar, tampoco puede enseñarte nada."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Del eclipse a tu próximo lanzamiento",
+    "texto": "**En un lanzamiento.** Antes de poner un RTD nuevo en 20 tiendas de Zapopan, fija la prueba: «si en ocho semanas no rota tantas cajas por tienda, lo retiramos». Sin esa línea, cada mala semana tendrá una excusa: la lluvia, el Buen Fin, la quincena. La idea nunca falla, y por eso nunca aprendes.\n\n**En la evidencia que te venden.** En medicina existe el [[preregistro|Publicar el diseño y las hipótesis de un estudio antes de tener los datos, para no ajustarlos después.]]: el investigador anuncia qué medirá antes de ver los resultados. Si un proveedor de suplementos te presenta un estudio sobre su ingrediente, pregunta si se registró antes de empezar. Es la versión moderna de la apuesta de Einstein.\n\n**En el cielo de hoy.** La desviación que Eddington midió con tanto trabajo es ahora una herramienta. Los astrónomos usan galaxias enteras como [[lentes gravitatorias|Masas enormes que doblan la luz de lo que está detrás y la amplifican, como una lupa natural.]] para ver objetos más lejanos. Lo verás en el episodio del James Webb."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿Qué plan o proyecto tuyo sigue vivo solo porque nunca le pusiste una prueba que pudiera fallar?",
+    "texto": "Piénsalo esta semana y elige el número que, si no se cumple, te haría soltarlo."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Una idea vale más cuando dice de antemano qué la haría fallar."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Revista Brasileira de Ensino de Física (SciELO): Shadow of the Moon and general relativity: Einstein, Dyson, Eddington and the 1919 light deflection",
+   "url": "https://www.scielo.br/j/rbef/a/tsCDFzLWszcgV8XzMN9KvQH/?lang=en",
+   "minutos": 60
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Por qué no bastaba con ver que la luz de las estrellas se doblaba junto al Sol?",
+    "respuesta": "Porque la física de Newton también predecía una desviación, pero de la mitad. Había que medir cuánto: Einstein predecía 1.75 segundos de arco."
+   },
+   {
+    "pregunta": "¿Dónde observaron el eclipse del 29 de mayo de 1919 las dos expediciones británicas?",
+    "respuesta": "En Sobral, Brasil (Crommelin y Davidson), y en la isla de Príncipe, frente a África occidental (Eddington y Cottingham)."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Encyclopaedia Britannica: The solar eclipse that made Albert Einstein a science celebrity",
+    "url": "https://www.britannica.com/story/the-solar-eclipse-that-made-albert-einstein-a-science-celebrity"
+   },
+   {
+    "nombre": "Science Museum (Londres): A date to remember, relatively speaking",
+    "url": "https://blog.sciencemuseum.org.uk/a-date-to-remember-relatively-speaking"
+   },
+   {
+    "nombre": "SciELO, Revista Brasileira de Ensino de Física: Einstein, Dyson, Eddington and the 1919 light deflection",
+    "url": "https://www.scielo.br/j/rbef/a/tsCDFzLWszcgV8XzMN9KvQH/?lang=en"
+   },
+   {
+    "nombre": "Stanford Encyclopedia of Philosophy: Karl Popper",
+    "url": "https://plato.stanford.edu/ENTRIES/popper/"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Retórica y oratoria",
+   "pilar": "mente",
+   "formato": "desarmado",
+   "titulo": "«¿Qué es para el esclavo el 4 de julio?»: Douglass y el elogio que se vuelve acusación",
+   "contexto": "Rochester, Nueva York, 5 de julio de 1852. En el Corinthian Hall esperan entre 500 y 600 personas, casi todas blancas y antiesclavistas. Las invitó la Rochester Ladies' Anti-Slavery Society. El orador es Frederick Douglass, que escapó de la esclavitud catorce años antes y se negó a hablar el día 4.\n\nEmpieza como cualquier discurso del Día de la Independencia: elogia a los fundadores de la nación y los principios de la Declaración de Independencia.",
+   "pregunta": "¿Para qué empieza Douglass elogiando a los fundadores?",
+   "opciones": [
+    "Para ganarse al público y luego usar ese mismo elogio contra la esclavitud",
+    "Porque los organizadores se lo exigieron",
+    "Para suavizar el discurso y no incomodar a nadie"
+   ],
+   "correcta": 0,
+   "revelacion": "**La técnica es el elogio que se vuelve acusación.** Douglass deja que el público asienta: la libertad y la igualdad son principios sagrados. Una vez que el auditorio los ha aceptado, ya no puede negarlos.\n\nEntonces gira, y lo hace con una palabra: el posesivo. «¿Qué es, para el esclavo estadounidense, el 4 de julio *de ustedes*?», pregunta. Y remata: «Este 4 de julio es suyo, no mío. Ustedes pueden alegrarse; yo debo estar de luto». El festejo que el público creía compartido se parte en dos: el de ellos y el de los que siguen encadenados.\n\nEl discurso se imprimió como [[folleto|Publicación breve, de pocas páginas y sin encuadernar, que circulaba barata y rápido.]]; según la Universidad de Rochester, se publicaron 700 ejemplares. Hoy se estudia como uno de los grandes discursos de Estados Unidos. La lección sirve en cualquier negociación: primero consigue el acuerdo en el principio; después muestra la distancia entre el principio y la práctica.",
+   "idea": "Para mover a un público, primero haz que acepte un principio; después muéstrale que no lo cumple.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Frederick_Douglass_(circa_1879).jpg?width=900",
+    "alt": "Retrato fotográfico de un hombre de cabello y barba blancos",
+    "pie": "Frederick Douglass hacia 1879",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "World History Encyclopedia: What to the Slave is the Fourth of July?",
+    "url": "https://www.worldhistory.org/article/2780/what-to-the-slave-is-the-fourth-of-july/"
+   },
+   "profundizar": {
+    "titulo": "The Public Domain Review: el folleto original del discurso (1852)",
+    "url": "https://publicdomainreview.org/collection/frederick-douglass-fourth-july-speech"
+   },
+   "wiki": "Frederick Douglass",
+   "claves": [
+    {
+     "nombre": "Frederick Douglass",
+     "quien": "Escapó de la esclavitud en 1838 y se volvió el orador abolicionista más influyente de su tiempo.",
+     "wiki": "Frederick Douglass"
+    },
+    {
+     "nombre": "Leyes contra la alfabetización",
+     "quien": "Prohibían enseñar a leer a las personas esclavizadas; Douglass aprendió a escondidas.",
+     "wiki": "Leyes contra la alfabetización en Estados Unidos"
+    },
+    {
+     "nombre": "Estados Unidos, 1789–1849",
+     "quien": "La república que celebraba su libertad mientras la esclavitud crecía en el Sur.",
+     "wiki": "Historia de los Estados Unidos (1789-1849)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Con qué recurso hace Douglass el giro de su discurso del 5 de julio de 1852?",
+    "respuesta": "Con el posesivo: el 4 de julio es «de ustedes, no mío». Primero elogia los principios y luego muestra que no se cumplen para los esclavizados."
+   }
+  },
+  {
+   "materia": "Disciplina y hábitos",
+   "pilar": "caracter",
+   "formato": "elCaso",
+   "titulo": "El test del malvavisco: ¿fuerza de voluntad o un mundo en el que se puede confiar?",
+   "contexto": "Stanford, finales de los años sesenta. El psicólogo Walter Mischel sienta a niños de preescolar frente a una golosina. Pueden comerla ya, o esperar unos minutos y recibir dos. Años después, los que esperaron más parecían tener mejores resultados escolares.\n\nLa idea se volvió leyenda: la paciencia a los cuatro años predice el éxito en la vida. Se repitió en libros, charlas y cursos de liderazgo.",
+   "pregunta": "En 2018, un equipo repitió el estudio con más de 900 niños. ¿Qué explicaba mejor cuánto esperaban?",
+   "opciones": [
+    "Si eran niños o niñas",
+    "Qué tan dulce era la golosina",
+    "El entorno socioeconómico de su familia"
+   ],
+   "correcta": 2,
+   "revelacion": "**El entorno pesó más que la fuerza de voluntad.** Tyler Watts (Universidad de Nueva York), Greg Duncan y Haonan Quan (Universidad de California) repitieron la prueba con más de 900 niños de orígenes diversos. La capacidad de esperar se asoció más con el origen socioeconómico que con el éxito posterior.\n\nUn experimento de la Universidad de Rochester, publicado en 2012 en la revista *Cognition*, añadió una pista. Antes de la prueba, un adulto les prometió a 28 niños de tres a cinco años mejores materiales para dibujar. A unos les cumplió; a otros, no. Después, frente a la golosina, los del adulto confiable esperaron en promedio 12 minutos; los del adulto incumplido, unos 3.\n\nPara un niño que vive donde las promesas se rompen, comerse la golosina no es falta de carácter: es una apuesta [[racional|Que sigue una lógica sensata dadas las circunstancias, aunque desde fuera parezca impulsiva.]]. La lección para un adulto que dirige: la paciencia florece donde las reglas se cumplen. Si quieres un equipo que sepa esperar, cumple lo que prometes.",
+   "idea": "La paciencia depende tanto de la confianza en el entorno como de la fuerza de voluntad.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marshmallows_in_soft_yellow_and_blue_light.jpg?width=900",
+    "alt": "Varios malvaviscos blancos bajo una luz amarilla y azul",
+    "pie": "La golosina del experimento más citado sobre autocontrol",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Universidad de Rochester: Delaying gratification depends as much on nurture as on nature (2012)",
+    "url": "https://www.rochester.edu/news/printable.php?id=4622"
+   },
+   "profundizar": {
+    "titulo": "News-Medical: Revisiting the marshmallow test (2018)",
+    "url": "https://www.news-medical.net/news/20180606/Revisiting-the-marshmallow-test.aspx"
+   },
+   "wiki": "Prueba del malvavisco",
+   "claves": [
+    {
+     "nombre": "Walter Mischel",
+     "quien": "Psicólogo austriaco-estadounidense que creó la prueba en Stanford.",
+     "wiki": "Walter Mischel"
+    },
+    {
+     "nombre": "Gratificación aplazada",
+     "quien": "Renunciar a una recompensa inmediata para obtener una mayor después.",
+     "wiki": "Gratificación aplazada"
+    }
+   ],
+   "repaso": {
+    "pregunta": "En el experimento de Rochester (2012), ¿cuánto esperaron los niños con un adulto confiable y con uno incumplido?",
+    "respuesta": "En promedio, unos 12 minutos con el confiable y unos 3 con el incumplido."
+   }
+  },
+  {
+   "materia": "Negocios y estrategia",
+   "pilar": "patrimonio",
+   "formato": "sigueDinero",
+   "titulo": "Gillette no regalaba la máquina: el mito de las navajas",
+   "contexto": "Es uno de los modelos de negocio más citados: regala la máquina de afeitar y gana con las navajas. Se enseña con el ejemplo de King C. Gillette, que lanzó su máquina de navajas desechables en 1903.\n\nLa historia suena perfecta. ¿Es verdad?",
+   "pregunta": "Cuando salió al mercado, ¿a cuánto vendía Gillette su máquina con navajas?",
+   "opciones": [
+    "Gratis, si comprabas un paquete de navajas",
+    "5 dólares, un precio alto para la época",
+    "25 centavos, casi al costo"
+   ],
+   "correcta": 1,
+   "revelacion": "**Era cara.** En 1903, la máquina con 20 navajas costaba 5 dólares; a mediados de 1904 quedó en 5 dólares con 12 navajas. El jurista Randal Picker, de la Universidad de Chicago, revisó anuncios y precios en su artículo «The Razors-and-Blades Myth(s)» (2011). Su conclusión: mientras duraron las patentes de 1904, Gillette no regalaba la máquina.\n\nLa clave es la [[patente|Derecho exclusivo, por un tiempo limitado, a fabricar y vender un invento.]]. De 1904 a 1921, nadie más podía vender navajas para su máquina. Con ese monopolio, Gillette cobraba bien las dos cosas. Los regalos llegaron después de que vencieron las patentes: el primero, en 1922, con chicles Wrigley.\n\nLa lección es más fina que el mito. Regalar la base solo funciona si controlas el repuesto: con una patente, un formato cerrado o una marca que el cliente no quiera cambiar. Sin ese control, tú regalas la máquina y otro te vende las navajas.",
+   "idea": "Regalar la base solo funciona si nadie más puede venderte el repuesto.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gillette%27s_first_advertisement,_1903.jpg?width=900",
+    "alt": "Anuncio antiguo de periódico de una máquina de afeitar",
+    "pie": "El primer anuncio de Gillette, 1903",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Randal C. Picker, The Razors-and-Blades Myth(s), University of Chicago Law Review (2011)",
+    "url": "https://lawreview.uchicago.edu/sites/default/files/78-1-Razors-and-Blades%20Myth%28s%29-Picker.pdf"
+   },
+   "wiki": "Freebie marketing",
+   "claves": [
+    {
+     "nombre": "King Camp Gillette",
+     "quien": "Vendedor y empresario estadounidense que lanzó la máquina de navajas desechables.",
+     "wiki": "King Camp Gillette"
+    },
+    {
+     "nombre": "Gillette",
+     "quien": "La marca que nació de esa máquina y sigue vendiendo navajas más de un siglo después.",
+     "wiki": "Gillette (marca)"
+    },
+    {
+     "nombre": "Maquinilla de afeitar",
+     "quien": "El invento que pasó de la navaja de barbero al repuesto desechable.",
+     "wiki": "Maquinilla de afeitar"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuándo empezó Gillette a regalar máquinas de afeitar?",
+    "respuesta": "Después de que vencieron sus patentes de 1904, en 1921. El primer regalo fue en 1922, con chicles Wrigley."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "comoFunciona",
+   "titulo": "Patreon: cobrarle cada mes a tus fans más fieles",
+   "contexto": "2013. El músico Jack Conte, del dúo Pomplamoose, gasta unos 10,000 dólares en un video musical muy elaborado, «Pedals». La gente lo verá gratis en YouTube. Pero Conte suele ganar unos 100 dólares en anuncios por video. Las cuentas no salen.",
+   "pregunta": "¿Qué idea tuvo Conte para que sus fans pagaran por algo que podían ver gratis?",
+   "opciones": [
+    "Poner el video detrás de un muro de pago",
+    "Que sus fans le pagaran una cuota mensual o por obra, como mecenas",
+    "Vender camisetas con el logo del video"
+   ],
+   "correcta": 1,
+   "revelacion": "**Convertir a los fans en mecenas.** Con su antiguo compañero de cuarto de Stanford, Sam Yam, Conte lanzó Patreon en mayo de 2013. El nombre viene del inglés *patron*, mecenas. El fan no compra un archivo: paga una cantidad cada mes, o por obra publicada, para que el creador siga creando. A cambio recibe extras: contenido anticipado, comunidad, acceso.\n\nEl modelo escala porque el creador hace la obra una vez y la entrega a todos sus mecenas; atender a uno más casi no cuesta. Patreon cobra una comisión: desde el 4 de agosto de 2025, los creadores nuevos pagan 10%, más el procesamiento de pagos (2.9% más 30 centavos de dólar por tarjeta en EE. UU.). Quienes ya estaban conservan sus planes, como el Pro de 8%.\n\nLa lógica la resumió en 2008 Kevin Kelly, editor fundador de *Wired*, en el ensayo «1,000 True Fans»: no necesitas millones de seguidores, sino unos pocos que paguen con constancia. Pero un modelo no es una promesa de ingresos: la [[membresía|Pago recurrente que da acceso continuo a una persona, un club o un servicio.]] funciona cuando ya existe una comunidad que valora el trabajo.",
+   "idea": "La membresía vende continuidad: el fan paga para que la obra siga existiendo.",
+   "fuente": {
+    "nombre": "Patreon (centro de ayuda): A standard platform fee for new creators, effective after August 4, 2025",
+    "url": "https://support.patreon.com/hc/en-us/articles/36426991446797"
+   },
+   "profundizar": {
+    "titulo": "TechCrunch: The Patreon story (2019)",
+    "url": "https://techcrunch.com/2019/02/12/patreon-story"
+   },
+   "wiki": "Micromecenazgo",
+   "claves": [
+    {
+     "nombre": "Micromecenazgo",
+     "quien": "Financiar un proyecto con aportaciones pequeñas de muchas personas.",
+     "wiki": "Micromecenazgo"
+    },
+    {
+     "nombre": "Mecenazgo",
+     "quien": "La vieja práctica de sostener a artistas, como los Medici en Florencia, que Patreon reparte entre muchos.",
+     "wiki": "Mecenazgo"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué comisión cobra Patreon a los creadores nuevos desde el 4 de agosto de 2025?",
+    "respuesta": "10%, más el costo del procesamiento de pagos. Los creadores anteriores conservan sus planes, como el Pro de 8%."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Mente y decisiones",
+   "pilar": "mente",
+   "epoca": "1990",
+   "titulo": "Diez mil cartas contra la respuesta correcta",
+   "dato": "En 1990, Marilyn vos Savant respondió en la revista *Parade* que en el problema de Monty Hall conviene cambiar de puerta. Recibió unas 10,000 cartas, cerca de 1,000 firmadas por doctores, casi todas diciendo que se equivocaba. Tenía razón.",
+   "explicacion": "El juego: hay tres puertas, un coche detrás de una y cabras detrás de las otras. Eliges una. El presentador, que sabe dónde está el coche, abre otra con una cabra y te ofrece cambiar. Parece 50 y 50. No lo es: tu primera elección tenía 1/3 de probabilidad, y como el presentador abre sabiendo lo que hay, los otros 2/3 se concentran en la puerta que queda.\n\nEl caso muestra que la intuición falla incluso en expertos cuando la información nueva no llega al azar. Según *Scientific American*, hasta el matemático Paul Erdős se resistió a la respuesta cuando se la plantearon.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Monty_open_door.svg?width=900",
+    "alt": "Dibujo de tres puertas; una abierta muestra una cabra",
+    "pie": "El problema de Monty Hall: el presentador abre una puerta con cabra",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Scientific American: Why almost everyone gets the Monty Hall probability puzzle wrong",
+    "url": "https://scientificamerican.com/article/why-almost-everyone-gets-the-monty-hall-probability-puzzle-wrong/"
+   },
+   "wiki": "Problema de Monty Hall",
+   "claves": [
+    {
+     "nombre": "Marilyn vos Savant",
+     "quien": "Columnista de Parade que dio la respuesta correcta y fue atacada por miles de lectores.",
+     "wiki": "Marilyn vos Savant"
+    },
+    {
+     "nombre": "Paul Erdős",
+     "quien": "Matemático húngaro, uno de los más prolíficos de la historia; también dudó.",
+     "wiki": "Paul Erdős"
+    }
+   ],
+   "repaso": {
+    "pregunta": "En el problema de Monty Hall, ¿qué probabilidad de ganar tienes si cambias de puerta?",
+    "respuesta": "2/3. Si te quedas, 1/3, porque el presentador abre una puerta sabiendo dónde está el coche."
+   }
+  },
+  {
+   "materia": "Disciplina y hábitos",
+   "pilar": "caracter",
+   "epoca": "Siglo XIX",
+   "titulo": "Trollope escribía con el reloj enfrente",
+   "dato": "El novelista inglés Anthony Trollope se exigía 250 palabras cada cuarto de hora, con el reloj sobre el escritorio, durante tres horas cada mañana. Empezaba a las 5:30.",
+   "explicacion": "Trollope publicó decenas de novelas mientras trabajaba más de treinta años en el servicio de Correos británico. En su *Autobiografía*, publicada en 1883, después de su muerte, contó el método: no esperar la inspiración, sino medir el trabajo.\n\nCuando se conoció, parte de la crítica lo tomó como prueba de que era un artesano y no un artista. Hoy encaja con lo que la psicología llama [[intenciones de implementación|Planes concretos de cuándo, dónde y cuánto hacer algo; aumentan la probabilidad de cumplir una meta.]]: una meta pequeña, fija y medible vence a la motivación del día.",
+   "fuente": {
+    "nombre": "Anthony Trollope, An Autobiography, cap. XV (texto en Literature Page)",
+    "url": "https://literaturepage.com/read/trollope-autobiography-178.html"
+   },
+   "wiki": "Novela realista en inglés",
+   "claves": [
+    {
+     "nombre": "Novela realista en inglés",
+     "quien": "La corriente victoriana a la que pertenece Trollope, junto a Dickens y George Eliot.",
+     "wiki": "Novela realista en inglés"
+    },
+    {
+     "nombre": "El primer ministro",
+     "quien": "Una de sus novelas políticas, de la serie Palliser.",
+     "wiki": "El primer ministro (novela)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuál era la cuota de trabajo de Anthony Trollope?",
+    "respuesta": "250 palabras cada cuarto de hora, con el reloj enfrente, durante tres horas cada mañana."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "epoca": "1900–1920",
+   "titulo": "El tira y afloja fue olímpico, y lo ganaba la policía",
+   "dato": "El tira y afloja fue deporte olímpico de 1900 a 1920. En Londres 1908, las tres medallas fueron para equipos de policías británicos: el oro, para la Policía de la City de Londres.",
+   "explicacion": "En 1908, el equipo de Estados Unidos protestó porque los policías de Liverpool tiraban con sus botas de servicio. La protesta se rechazó y los estadounidenses se retiraron. La plata fue para Liverpool y el bronce para la División K de la Policía Metropolitana.\n\nEn aquellos primeros Juegos, el programa era un experimento y cambiaba en cada edición. Después de 1920, el tira y afloja salió del programa olímpico. Sigue siendo un deporte con campeonatos mundiales propios.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/London_1908_CityofLondonPolice.jpg?width=900",
+    "alt": "Fotografía antigua de un equipo de hombres fornidos posando",
+    "pie": "El equipo de la Policía de la City de Londres, campeón olímpico de tira y afloja en 1908",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (inglés): Tug of war at the 1908 Summer Olympics",
+    "url": "https://en.wikipedia.org/wiki/Tug_of_war_at_the_1908_Summer_Olympics"
+   },
+   "profundizar": {
+    "titulo": "Olympedia: Tug-of-War, Men (prueba descontinuada)",
+    "url": "https://www.olympedia.org/event_names/622"
+   },
+   "wiki": "Juego de la soga",
+   "claves": [
+    {
+     "nombre": "Tira y afloja en Londres 1908",
+     "quien": "La competencia que barrieron los policías británicos.",
+     "wiki": "Anexo:Tira y afloja en los Juegos Olímpicos de Londres 1908"
+    },
+    {
+     "nombre": "Tira y afloja en París 1900",
+     "quien": "La primera vez que fue olímpico.",
+     "wiki": "Anexo:Tira y afloja en los Juegos Olímpicos de París 1900"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Quién ganó el oro olímpico de tira y afloja en Londres 1908?",
+    "respuesta": "La Policía de la City de Londres. Las tres medallas fueron para equipos de policías británicos."
+   }
+  },
+  {
+   "materia": "Arte y pintura",
+   "pilar": "cultura",
+   "epoca": "1911",
+   "titulo": "La Mona Lisa se volvió icono cuando desapareció",
+   "dato": "El 21 de agosto de 1911, la *Mona Lisa* fue robada del Louvre. Estuvo 28 meses desaparecida, y el escándalo la convirtió en el cuadro más famoso del mundo.",
+   "explicacion": "La robó Vincenzo Peruggia, un italiano que había trabajado en el museo, y la escondió en su cuarto de París. La policía llegó a detener al poeta Guillaume Apollinaire y a Pablo Picasso, que pronto quedaron libres. En diciembre de 1913, Peruggia la llevó a Florencia para venderla y fue atrapado.\n\nAntes del robo era una obra admirada, pero no la más célebre. Los periódicos publicaron su rostro en todo el mundo. La fama de una obra no depende solo de su calidad: también de la historia que se cuenta sobre ella.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mona_Lisa_stolen-1911.jpg?width=900",
+    "alt": "Pared de museo con cuatro ganchos y un espacio vacío entre cuadros",
+    "pie": "El hueco que dejó la Mona Lisa en el Louvre en 1911",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Smithsonian Magazine: The theft that made the Mona Lisa a masterpiece",
+    "url": "https://www.smithsonianmag.com/arts-culture/the-theft-that-made-the-mona-lisa-a-masterpiece-16406234/"
+   },
+   "wiki": "La Gioconda",
+   "claves": [
+    {
+     "nombre": "Vincenzo Peruggia",
+     "quien": "El ladrón; decía que quería devolver el cuadro a Italia.",
+     "wiki": "Vincenzo Peruggia"
+    },
+    {
+     "nombre": "Robo de arte",
+     "quien": "Un delito en el que la fama de la obra suele hacerla imposible de vender.",
+     "wiki": "Robo de arte"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto tiempo estuvo desaparecida la Mona Lisa tras el robo de 1911?",
+    "respuesta": "28 meses: del 21 de agosto de 1911 a diciembre de 1913, cuando Peruggia la llevó a Florencia."
+   }
+  },
+  {
+   "materia": "Derecho y poder",
+   "pilar": "mundo",
+   "epoca": "c. 2100 a. C.",
+   "titulo": "Antes de Hammurabi, un ojo costaba media mina de plata",
+   "dato": "El código de leyes más antiguo que se conoce no es el de Hammurabi, sino el de Ur-Nammu, rey sumerio de Ur, unos tres siglos anterior. En muchos casos no castigaba con «ojo por ojo», sino con multas en plata.",
+   "explicacion": "Una de sus leyes dice que, si un hombre le saca un ojo a otro, debe pagar media [[mina|Unidad de peso mesopotámica, de alrededor de medio kilo, que servía para medir plata.]] de plata; por un diente, dos siclos. El código de Hammurabi, hacia 1772 a. C., usa en cambio el principio de «ojo por ojo, diente por diente».\n\nEso rompe una idea común: que la justicia avanzó siempre de lo brutal a lo civilizado. El derecho más antiguo conocido ya compensaba a la víctima con dinero, como la reparación del daño actual. Las fechas exactas varían según la cronología que usen los historiadores.",
+   "fuente": {
+    "nombre": "World History Encyclopedia: Code of Ur-Nammu",
+    "url": "https://www.worldhistory.org/Code_of_Ur-Nammu/"
+   },
+   "wiki": "Ur-Nammu",
+   "claves": [
+    {
+     "nombre": "Código de Hammurabi",
+     "quien": "El código babilonio, unos tres siglos posterior, famoso por la ley del talión.",
+     "wiki": "Código de Hammurabi"
+    },
+    {
+     "nombre": "Mesopotamia",
+     "quien": "La región entre el Tigris y el Éufrates donde nacieron la escritura y las primeras leyes escritas.",
+     "wiki": "Historia de Mesopotamia"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo castigaba el código de Ur-Nammu a quien le sacaba un ojo a otro?",
+    "respuesta": "Con una multa de media mina de plata, no con el «ojo por ojo» que usaría Hammurabi siglos después."
+   }
+  },
+  {
+   "materia": "Negocios y estrategia",
+   "pilar": "patrimonio",
+   "epoca": "1974",
+   "titulo": "El primer código de barras se escaneó en un chicle",
+   "dato": "La mañana del 26 de junio de 1974, en un supermercado Marsh de Troy, Ohio, la cajera Sharon Buchanan pasó por el escáner un paquete de 10 chicles Juicy Fruit de Wrigley. Fue el primer producto vendido con un código UPC.",
+   "explicacion": "El comprador fue Clyde Dawson, jefe de investigación de Marsh, y el paquete costó 67 centavos. Cada escáner le costó a la tienda unos 4,000 dólares de entonces, según el Museo Nacional de Historia Estadounidense, que conserva uno en su colección.\n\nEl código de barras se había inventado en 1949, pero no servía hasta que fabricantes y supermercados acordaran un [[estándar|Regla técnica común que todos aceptan, para que productos de distintas empresas funcionen juntos.]] común. El valor no estaba en las barras, sino en el acuerdo: un idioma compartido para toda una industria.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/UPC-A_L2.svg?width=900",
+    "alt": "Código de barras con números debajo",
+    "pie": "Un código UPC-A, el formato que se estrenó en 1974",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Smithsonian Magazine: The supermarket scanner changed the way we buy groceries forever",
+    "url": "https://www.smithsonianmag.com/smithsonian-institution/supermarket-scanner-changed-way-we-buy-groceries-forever-180984293/"
+   },
+   "profundizar": {
+    "titulo": "GS1: Marsh holds place of honor in history of GS1 barcode",
+    "url": "https://www.gs1.org/articles/marsh-holds-place-honor-history-gs1-barcode"
+   },
+   "wiki": "Código Universal de Producto",
+   "claves": [
+    {
+     "nombre": "Código de barras",
+     "quien": "La idea de representar datos con barras, inventada en 1949.",
+     "wiki": "Código de barras"
+    },
+    {
+     "nombre": "IBM",
+     "quien": "La empresa donde se diseñó el formato UPC que adoptaron los supermercados.",
+     "wiki": "IBM"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué producto fue el primero en venderse con un código UPC y dónde?",
+    "respuesta": "Un paquete de chicles Juicy Fruit de Wrigley, el 26 de junio de 1974, en un supermercado Marsh de Troy, Ohio."
+   }
+  },
+  {
+   "materia": "El cosmos",
+   "pilar": "futuro",
+   "epoca": "Hoy",
+   "titulo": "En Venus, un día dura más que un año",
+   "dato": "Venus tarda unos 243 días terrestres en girar sobre sí mismo y solo 225 en dar la vuelta al Sol. Además, gira al revés que casi todos los planetas: allí el Sol sale por el oeste.",
+   "explicacion": "Su giro es [[retrógrado|Que va en sentido contrario al de la mayoría de los planetas del sistema solar.]], como el de Urano. Al combinar ese giro lento y al revés con su órbita, el día solar, de un amanecer al siguiente, dura unos 117 días terrestres.\n\nNadie sabe con certeza por qué gira así; las hipótesis van desde un gran impacto en su juventud hasta el efecto de las mareas del Sol sobre su atmósfera, muy densa. Sus nubes permanentes impidieron medir su rotación hasta que se usó el radar, en los años sesenta.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Venus_globe.jpg?width=900",
+    "alt": "Planeta de superficie anaranjada y rugosa",
+    "pie": "Venus sin nubes, reconstruido a partir de datos de radar",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "National Geographic: Venus",
+    "url": "https://www.nationalgeographic.com/science/space/solar-system/venus/"
+   },
+   "wiki": "Venus (planeta)",
+   "claves": [
+    {
+     "nombre": "Movimiento retrógrado",
+     "quien": "Girar u orbitar en sentido contrario al habitual.",
+     "wiki": "Movimientos retrógrado y prógrado"
+    },
+    {
+     "nombre": "Observación de Venus",
+     "quien": "Cómo se ha estudiado el planeta, del telescopio de Galileo a las sondas.",
+     "wiki": "Observación de Venus"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto tarda Venus en girar sobre sí mismo y cuánto en dar la vuelta al Sol?",
+    "respuesta": "Unos 243 días terrestres en girar y unos 225 en orbitar. Su día solar dura unos 117 días."
+   }
+  },
+  {
+   "materia": "Gastronomía, vino y destilados",
+   "pilar": "gusto",
+   "epoca": "1662",
+   "titulo": "Las burbujas del champán se describieron primero en Londres",
+   "dato": "El 17 de diciembre de 1662, el científico inglés Christopher Merret presentó a la Royal Society un texto que explicaba cómo añadir azúcar al vino para hacerlo «vivo y espumoso». Fue décadas antes de la fecha que la leyenda atribuye a Dom Pérignon.",
+   "explicacion": "La leyenda dice que el monje Dom Pérignon inventó el champán hacia 1697, en la abadía de Hautvillers. National Geographic recuerda que no lo inventó, e incluso pudo haber trabajado para eliminar las burbujas, que entonces se veían como un defecto.\n\nEl azúcar alimenta una [[segunda fermentación|Nueva fermentación del vino ya hecho, dentro de la botella; produce el gas que forma las burbujas.]] que produce gas. Hoy el nombre de Pérignon está en una de las etiquetas más caras del mundo; el de Merret casi nadie lo conoce.",
+   "fuente": {
+    "nombre": "National Geographic: Who put the bubbles in Champagne?",
+    "url": "https://www.nationalgeographic.com/history/history-magazine/article/origin-champagne-france-bubbles"
+   },
+   "profundizar": {
+    "titulo": "Wikipedia (inglés): Christopher Merret",
+    "url": "https://en.wikipedia.org/wiki/Christopher_Merret"
+   },
+   "wiki": "Pierre Pérignon",
+   "claves": [
+    {
+     "nombre": "Champán",
+     "quien": "El vino espumoso de la región de Champaña, en Francia.",
+     "wiki": "Champán"
+    },
+    {
+     "nombre": "Vino espumoso",
+     "quien": "Cualquier vino con gas carbónico de su propia fermentación.",
+     "wiki": "Vino espumoso"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Quién describió primero, en 1662, cómo hacer espumoso el vino con azúcar?",
+    "respuesta": "El científico inglés Christopher Merret, ante la Royal Society, décadas antes de la fecha atribuida a Dom Pérignon."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "El Príncipe",
+  "autor": "Nicolás Maquiavelo",
+  "capitulo": {
+   "numero": 2,
+   "total": 6,
+   "titulo": "Virtù y fortuna: de Moisés a César Borgia"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cesareborgia.jpg?width=900",
+   "alt": "Retrato renacentista de un hombre joven con barba y gorra oscura",
+   "pie": "Retrato tradicionalmente identificado con César Borgia, el modelo incómodo de Maquiavelo",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "¿Qué pesa más en una vida: el talento o la suerte?\n\nMaquiavelo se hace esa pregunta en los capítulos VI a IX de *El Príncipe*, y la responde con casos de carne y hueso. Ya clasificó los Estados y explicó por qué se pierden los que se ganan fácil. Ahora llega a lo que más le interesa: el hombre que funda algo nuevo. Sin herencia ni costumbre que lo proteja, todo depende de lo que haga.\n\nPara pensarlo usa dos palabras que recorren todo el libro. La primera es *[[virtù|Para Maquiavelo, la capacidad de un gobernante para actuar con energía, inteligencia y decisión; no equivale a la virtud moral.]]*. La segunda es *[[fortuna|Para Maquiavelo, la suerte o el azar: las circunstancias que el hombre no controla.]]*. La pregunta de estos capítulos es cuál de las dos te llevó al poder, porque de eso depende si lo conservas."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Capítulo VI: los fundadores y la ocasión"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Maquiavelo empieza por arriba, con los más grandes: Moisés, Ciro, Rómulo y Teseo. Fundaron pueblos, imperios o ciudades. ¿Qué les dio la suerte? Casi nada, dice. Solo la ocasión: el material que luego moldearon a su gusto.\n\nMoisés encontró a los israelitas esclavizados en Egipto, dispuestos a seguirlo. Ciro encontró a los persas descontentos con los medos. Rómulo necesitaba haber sido abandonado al nacer para llegar a fundar Roma. Teseo halló a los atenienses dispersos. Sin la ocasión, su talento se habría perdido. Sin el talento, la ocasión habría pasado en vano.\n\nEsa es la primera idea práctica: la suerte abre una puerta, pero solo el que está preparado la cruza. Y el que entra por su propio mérito sufre para llegar, pero luego se sostiene con más facilidad."
+   },
+   {
+    "tipo": "cita",
+    "texto": "No hay nada más difícil de emprender, más peligroso de conducir ni más incierto en su éxito que encabezar la introducción de un nuevo orden de cosas.",
+    "fuente": "El Príncipe, cap. VI (trad. de W. K. Marriott)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La razón, explica, es que el reformador tiene por enemigos a todos los que ganaban con el orden viejo. Y solo tibios defensores entre los que ganarían con el nuevo. Los tibios tienen miedo de los adversarios y no creen en lo nuevo hasta que lo ven funcionar.\n\nCualquiera que haya intentado cambiar una empresa familiar, un despacho o una dependencia pública lo reconoce. El que pierde privilegios pelea con todo; el que ganaría espera a ver."
+   },
+   {
+    "tipo": "cita",
+    "texto": "De ahí que todos los profetas armados hayan vencido, y los desarmados hayan sido destruidos.",
+    "fuente": "El Príncipe, cap. VI (trad. de W. K. Marriott)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Aquí Maquiavelo piensa en un caso que vio de cerca: Girolamo Savonarola, el fraile que dominó Florencia en la década de 1490. Convenció a la ciudad con sus sermones, pero cuando la gente dejó de creerle no tenía forma de sostenerse. En 1498 fue ejecutado en la plaza de la Señoría.\n\nLa lección no es solo militar. La persuasión arranca un proyecto, pero no lo sostiene. Hace falta algo que funcione cuando el entusiasmo se apaga: reglas, recursos, gente comprometida."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según Maquiavelo, ¿qué les dio la fortuna a Moisés, Ciro, Rómulo y Teseo?",
+    "opciones": [
+     "Ejércitos y riquezas heredadas",
+     "Solo la ocasión, el material que luego moldearon",
+     "La protección de un príncipe más poderoso"
+    ],
+    "correcta": 1,
+    "explicacion": "La suerte les dio únicamente la oportunidad. Todo lo demás vino de su *virtù*, su capacidad de aprovecharla."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Capítulo VII: César Borgia, el hombre que lo previó todo"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El caso contrario es el que llega al poder por la fortuna, o por las armas de otro. Sube fácil y luego sufre para mantenerse, porque depende de la voluntad de quien lo puso ahí.\n\nEl ejemplo de Maquiavelo es el más polémico del libro: César Borgia, hijo del papa Alejandro VI. Su padre le consiguió un Estado en la [[Romaña|Región del centro-norte de Italia, entonces fragmentada en señoríos pequeños y rebeldes.]]. César, dice Maquiavelo, hizo todo lo que un hombre prudente debía hacer para echar raíces propias.\n\nMaquiavelo lo conoció en persona: fue enviado de Florencia ante él en 1502. Lo admiraba y le temía a la vez."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Un episodio resume su método. La Romaña estaba llena de robos y abusos. César puso al frente a Remirro de Orco, un hombre cruel y expedito, con plenos poderes. En poco tiempo Remirro pacificó la región.\n\nPero el rigor había creado odio. César decidió que la crueldad no se le pegara a él. Una mañana, Remirro apareció ejecutado en la plaza de Cesena, con un cuchillo ensangrentado al lado. El pueblo, dice Maquiavelo, quedó a la vez satisfecho y atónito.\n\nEs una escena terrible, y conviene leerla como lo que es: una descripción de cómo funciona el poder, no un consejo. El patrón, sin la sangre, se repite en organizaciones de hoy: el jefe que delega el trabajo impopular y luego sacrifica al que lo hizo."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Y sin embargo, César cayó. En 1503 murió su padre, y en ese momento César también estaba gravemente enfermo. No pudo controlar la elección del nuevo papa, y el elegido, Julio II, era su enemigo.\n\nMaquiavelo cuenta que el propio César le dijo que había pensado en todo lo que podría pasar al morir su padre, y que tenía remedio para todo, excepto una cosa: nunca imaginó que, cuando llegara ese día, él mismo estaría a punto de morir. La fortuna, que lo había subido, se le volteó en el peor momento."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "¿Por qué admirar a Borgia?",
+    "texto": "Muchos lectores se escandalizan de que Maquiavelo lo ponga de modelo. Pero fíjate en qué admira: que César, aunque llegó por la suerte de su padre, trabajó para no depender de ella. Ganó soldados propios, se deshizo de aliados poco fiables y buscó el apoyo del pueblo. Su error fue el único que no podía prever."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Capítulo VIII: los que llegan por crímenes"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Hay un tercer camino: la maldad. Maquiavelo cuenta dos casos. Agatocles, hijo de un alfarero, llegó a rey de Siracusa en la Antigüedad matando de un golpe a los senadores y a los ricos de la ciudad. Y Oliverotto da Fermo, en su propio tiempo, invitó a un banquete a su tío Giovanni Fogliani, que lo había criado, y a los principales de Fermo. Después de la comida los llevó a otra sala, donde soldados escondidos los mataron.\n\nOliverotto duró un año. Cayó en la trampa que César Borgia tendió en Senigallia y fue estrangulado. Agatocles, en cambio, gobernó largo tiempo. ¿Por qué uno sí y otro no?"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Las ofensas deben hacerse todas de una vez, para que, saboreándose menos, ofendan menos; y los beneficios deben darse poco a poco, para que su sabor dure más.",
+    "fuente": "El Príncipe, cap. VIII (trad. de W. K. Marriott)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La respuesta de Maquiavelo es fría: la crueldad «bien usada» se hace de golpe, por necesidad, y luego se convierte en beneficios para los súbditos. La «mal usada» empieza poca y crece con el tiempo. El que tiene que renovar las ofensas cada día vive con el cuchillo en la mano.\n\nAunque sea incómodo, Maquiavelo también aclara algo: a Agatocles no se le puede llamar virtuoso. Matar a sus conciudadanos, traicionar a los amigos, no tener fe ni piedad, dice, puede dar poder, pero no gloria.\n\nTraducida a la vida de un emprendedor, la regla tiene una versión sin sangre: las malas noticias, como un recorte o un cambio de precios, se comunican de una vez y con claridad. Las buenas, poco a poco, para que se sientan."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según el capítulo VIII, ¿cómo deben repartirse las ofensas y los beneficios?",
+    "opciones": [
+     "Las ofensas, de una vez; los beneficios, poco a poco",
+     "Las ofensas, poco a poco; los beneficios, de una vez",
+     "Los dos, de manera gradual para no alarmar"
+    ],
+    "correcta": 0,
+    "explicacion": "Las ofensas de golpe se olvidan antes; los beneficios graduales se recuerdan más. Lo contrario obliga a ofender cada día."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Capítulo IX: el pueblo y los grandes"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El último camino es el más civil: llegar al poder con el favor de los propios ciudadanos. Maquiavelo observa que en toda ciudad hay dos humores. El pueblo no quiere ser mandado ni oprimido por los poderosos; los grandes quieren mandar y oprimir al pueblo.\n\nEl que sube con ayuda de los grandes la pasa peor: se rodea de gente que se cree su igual y no puede mandarla a su gusto. El que sube con el pueblo está casi solo, pero lo sostienen muchos. Y lo que el pueblo pide es más fácil de cumplir: no ser oprimido."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Es necesario que un príncipe tenga al pueblo de su lado; de lo contrario, no tiene remedio en la adversidad.",
+    "fuente": "El Príncipe, cap. IX (trad. de W. K. Marriott)"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es una de las ideas más modernas del libro. Un gobernante, un director o el dueño de una marca puede apoyarse en un pequeño círculo poderoso, pero ese círculo cobra caro su apoyo y lo retira cuando le conviene. La lealtad amplia, de clientes o colaboradores, es más lenta de ganar y más difícil de perder."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Lo que viene"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Estos cuatro capítulos dejan una idea clara: la fortuna te puede subir, pero solo la *virtù* te mantiene. El próximo capítulo baja a lo concreto, a la pregunta que obsesionaba a Maquiavelo como funcionario: ¿con qué soldados se defiende un Estado? Su respuesta, contra los mercenarios, sigue valiendo para cualquiera que dependa de gente que no le es leal."
+   }
+  ],
+  "paraLlevar": [
+   "La suerte abre la puerta; el talento la cruza. Prepárate antes de que llegue la ocasión.",
+   "El que cambia las cosas tiene enemigos firmes y defensores tibios; cuenta con eso desde el principio.",
+   "Las malas noticias, de una vez y claras; las buenas, poco a poco."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Qué le dijo César Borgia a Maquiavelo sobre la muerte de su padre?",
+    "respuesta": "Que había previsto remedio para todo lo que pudiera pasar, menos que él mismo estaría a punto de morir cuando llegara ese día."
+   },
+   {
+    "pregunta": "¿Cuáles son los dos «humores» de toda ciudad según el capítulo IX?",
+    "respuesta": "El pueblo no quiere ser mandado ni oprimido por los grandes; los grandes quieren mandar y oprimir al pueblo."
+   }
+  ],
+  "proximo": "El Príncipe · Capítulo 3: armas propias y mercenarios",
+  "fuentes": [
+   {
+    "nombre": "Standard Ebooks: The Prince, de Nicolás Maquiavelo (trad. W. K. Marriott, dominio público)",
+    "url": "https://standardebooks.org/ebooks/niccolo-machiavelli/the-prince/w-k-marriott/text/single-page"
+   },
+   {
+    "nombre": "Proyecto Gutenberg: The Prince, de Nicolás Maquiavelo (trad. W. K. Marriott)",
+    "url": "https://www.gutenberg.org/ebooks/1232"
+   },
+   {
+    "nombre": "Wikipedia: César Borgia",
+    "url": "https://es.wikipedia.org/wiki/C%C3%A9sar_Borgia"
+   },
+   {
+    "nombre": "Wikipedia: Oliverotto da Fermo",
+    "url": "https://es.wikipedia.org/wiki/Oliverotto_da_Fermo"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de W. K. Marriott (dominio público), en Standard Ebooks y el Proyecto Gutenberg."
+ },
+ "palabra": {
+  "palabra": "Refrendar",
+  "categoria": "Verbo transitivo",
+  "pronunciacion": "re-fren-DAR",
+  "definicion": "Confirmar o respaldar algo con autoridad o con pruebas. También, autorizar un documento con una firma que lo valida.",
+  "origen": "De «refrendo», que viene del latín *referendum*, «lo que debe ser consultado», de la familia del verbo *referre*, «llevar de vuelta, informar».",
+  "ejemplo": "Las placas del eclipse de 1919 refrendaron la predicción de Einstein, aunque la precisión de entonces era modesta.",
+  "repaso": {
+   "pregunta": "¿Qué significa «refrendar»?",
+   "respuesta": "Confirmar o respaldar algo con autoridad o pruebas; también, validar un documento con una firma."
+  }
+ },
+ "frances": {
+  "frase": "Les faits sont têtus.",
+  "traduccion": "«Los hechos son tercos».",
+  "pronunciacion": "le FÈ son TÉ-tü",
+  "uso": "Negocios y cultura. Se usa para cerrar una discusión con datos: puedes opinar lo que quieras, pero los hechos no se mueven. Viene del inglés *Facts are stubborn things*, que el abogado John Adams dijo en 1770 al defender a los soldados británicos acusados por la matanza de Boston.",
+  "variante": "Para decir que los números no mienten: « Les chiffres parlent d'eux-mêmes. » («Las cifras hablan por sí solas».)",
+  "repaso": {
+   "pregunta": "¿Cómo se dice en francés «Los hechos son tercos»?",
+   "respuesta": "« Les faits sont têtus. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Por qué el eclipse de 1919 podía decidir entre Newton y Einstein?",
+   "opciones": [
+    "Porque Newton decía que la luz no se desvía y Einstein que sí",
+    "Porque los dos predecían una desviación, pero la de Einstein era el doble",
+    "Porque solo Einstein sabía calcular la fecha del eclipse"
+   ],
+   "correcta": 1,
+   "explicacion": "La física de Newton también predecía que la luz se doblaba, pero la mitad. Einstein predecía 1.75 segundos de arco; había que medir cuánto."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "De enero a septiembre de 2026, ¿qué pasó con las exportaciones de México a China?",
+   "opciones": [
+    "Cayeron por los nuevos aranceles",
+    "Se mantuvieron iguales",
+    "Subieron 59.5%, sobre todo por cobre y plomo"
+   ],
+   "correcta": 2,
+   "explicacion": "Llegaron a 11,101 millones de dólares, 59.5% más, según Expansión. Aun así, México importó de China casi diez veces más."
+  },
+  {
+   "origen": "materias",
+   "pregunta": "Según Randal Picker, ¿cuándo empezó Gillette a regalar máquinas de afeitar?",
+   "opciones": [
+    "Después de que vencieron sus patentes, en 1921",
+    "Desde su lanzamiento en 1903",
+    "Nunca regaló ninguna"
+   ],
+   "correcta": 0,
+   "explicacion": "Mientras tuvo patentes cobraba 5 dólares por la máquina. El primer regalo llegó en 1922, con chicles Wrigley."
+  }
+ ],
+ "libro": null,
+ "proximo": "1929: Hubble descubre que el universo se expande"
+}
