@@ -1,7 +1,47 @@
 {
- "actualizado": "2026-11-16",
+ "actualizado": "2026-11-17",
  "materias": {
   "Arquitectura y diseño": [
+   {
+    "materia": "Arquitectura y diseño",
+    "pilar": "cultura",
+    "epoca": "2019",
+    "titulo": "La Sagrada Familia se construyó 137 años sin permiso",
+    "dato": "Las obras de la Sagrada Familia de Barcelona empezaron en 1882. El permiso de construcción llegó en junio de 2019: 137 años después.",
+    "explicacion": "En 1885 se pidió la licencia al ayuntamiento de Sant Martí de Provençals, entonces un pueblo aparte de Barcelona. Nunca hubo respuesta. Cuando el pueblo se integró a la ciudad, el trámite quedó en el limbo, y la obra de Antoni Gaudí siguió durante más de un siglo sin papeles en regla.\n\nEn 2019, el ayuntamiento y la fundación del templo llegaron a un acuerdo: unos 4.6 millones de euros por la licencia y 36 millones en diez años para mejorar el transporte y los accesos del barrio. Es un recordatorio útil para cualquier abogado: lo informal puede durar mucho, pero tarde o temprano se paga.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sagrada_Fam%C3%ADlia_(2019).jpg?width=900",
+     "alt": "Basílica con torres altas y grúas de construcción",
+     "pie": "La Sagrada Familia en 2019, el año en que por fin obtuvo su licencia de obras.",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Catalan News: Sagrada Família finally gets building permit 134 years since applying",
+     "url": "https://www.catalannews.com/life-style/item/sagrada-familia-finally-gets-building-permit-134-years-since-applying"
+    },
+    "profundizar": {
+     "titulo": "Dezeen: Antoni Gaudí's Sagrada Familia gets building permit after 137 years (2019)",
+     "url": "https://www.dezeen.com/2019/06/10/sagrada-familia-antoni-gaudi-building-permit-barcelona/"
+    },
+    "wiki": "Templo Expiatorio de la Sagrada Familia",
+    "claves": [
+     {
+      "nombre": "Antoni Gaudí",
+      "quien": "Arquitecto catalán que dedicó a la Sagrada Familia sus últimos 43 años.",
+      "wiki": "Antoni Gaudí"
+     },
+     {
+      "nombre": "Barcelona",
+      "quien": "La ciudad que absorbió al pueblo de Sant Martí de Provençals y heredó el trámite pendiente.",
+      "wiki": "Barcelona"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuándo obtuvo la Sagrada Familia su licencia de obras?",
+     "respuesta": "En junio de 2019, 137 años después de empezar la obra. El permiso se había pedido en 1885."
+    },
+    "fecha": "2026-11-17"
+   },
    {
     "claves": [
      {
@@ -78,57 +118,10 @@
     },
     "titulo": "El Empire State se levantó en 410 días",
     "wiki": "Empire State Building"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Pisa",
-      "quien": "La ciudad toscana, antigua república marítima rival de Florencia y Génova.",
-      "wiki": "Pisa"
-     },
-     {
-      "nombre": "Mecánica de suelos",
-      "quien": "La rama de la ingeniería que estudia cómo se comporta el terreno bajo una carga.",
-      "wiki": "Mecánica de suelos"
-     }
-    ],
-    "dato": "La Torre de Pisa empezó a inclinarse en 1178, cinco años después de iniciada la obra. Si se hubiera construido de corrido, probablemente se habría caído. La salvó una pausa de casi un siglo.",
-    "epoca": "1178",
-    "explicacion": "El suelo bajo la torre es blando: arcilla, arena y limo. Al subir los primeros pisos, un lado empezó a hundirse. Entonces Pisa entró en guerras con otras ciudades y la obra se detuvo durante décadas. En ese tiempo el terreno se asentó y se volvió más firme, y pudo cargar el resto del peso. La torre se terminó en el siglo XIV, unos 200 años después de comenzar.\n\nLos constructores trataron de corregir haciendo los pisos superiores un poco curvos, por eso la torre tiene una ligera forma de plátano. Entre 1990 y 2001, ingenieros sacaron tierra con cuidado bajo el lado alto y la enderezaron unos 45 centímetros. Sigue inclinada a propósito: es su fama.",
-    "fecha": "2026-10-30",
-    "fuente": {
-     "nombre": "Wikipedia: Leaning Tower of Pisa",
-     "url": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa"
-    },
-    "materia": "Arquitectura y diseño",
-    "pilar": "cultura",
-    "repaso": {
-     "pregunta": "¿Por qué la pausa de casi un siglo salvó a la Torre de Pisa?",
-     "respuesta": "Porque el suelo blando se asentó y se hizo más firme antes de cargar los pisos superiores."
-    },
-    "titulo": "Las guerras salvaron la Torre de Pisa",
-    "wiki": "Torre de Pisa"
    }
   ],
   "Arte y pintura": [
    {
-    "materia": "Arte y pintura",
-    "pilar": "cultura",
-    "epoca": "1911",
-    "titulo": "La Mona Lisa se volvió icono cuando desapareció",
-    "dato": "El 21 de agosto de 1911, la *Mona Lisa* fue robada del Louvre. Estuvo 28 meses desaparecida, y el escándalo la convirtió en el cuadro más famoso del mundo.",
-    "explicacion": "La robó Vincenzo Peruggia, un italiano que había trabajado en el museo, y la escondió en su cuarto de París. La policía llegó a detener al poeta Guillaume Apollinaire y a Pablo Picasso, que pronto quedaron libres. En diciembre de 1913, Peruggia la llevó a Florencia para venderla y fue atrapado.\n\nAntes del robo era una obra admirada, pero no la más célebre. Los periódicos publicaron su rostro en todo el mundo. La fama de una obra no depende solo de su calidad: también de la historia que se cuenta sobre ella.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mona_Lisa_stolen-1911.jpg?width=900",
-     "alt": "Pared de museo con cuatro ganchos y un espacio vacío entre cuadros",
-     "pie": "El hueco que dejó la Mona Lisa en el Louvre en 1911",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Smithsonian Magazine: The theft that made the Mona Lisa a masterpiece",
-     "url": "https://www.smithsonianmag.com/arts-culture/the-theft-that-made-the-mona-lisa-a-masterpiece-16406234/"
-    },
-    "wiki": "La Gioconda",
     "claves": [
      {
       "nombre": "Vincenzo Peruggia",
@@ -141,11 +134,28 @@
       "wiki": "Robo de arte"
      }
     ],
+    "dato": "El 21 de agosto de 1911, la *Mona Lisa* fue robada del Louvre. Estuvo 28 meses desaparecida, y el escándalo la convirtió en el cuadro más famoso del mundo.",
+    "epoca": "1911",
+    "explicacion": "La robó Vincenzo Peruggia, un italiano que había trabajado en el museo, y la escondió en su cuarto de París. La policía llegó a detener al poeta Guillaume Apollinaire y a Pablo Picasso, que pronto quedaron libres. En diciembre de 1913, Peruggia la llevó a Florencia para venderla y fue atrapado.\n\nAntes del robo era una obra admirada, pero no la más célebre. Los periódicos publicaron su rostro en todo el mundo. La fama de una obra no depende solo de su calidad: también de la historia que se cuenta sobre ella.",
+    "fecha": "2026-11-16",
+    "fuente": {
+     "nombre": "Smithsonian Magazine: The theft that made the Mona Lisa a masterpiece",
+     "url": "https://www.smithsonianmag.com/arts-culture/the-theft-that-made-the-mona-lisa-a-masterpiece-16406234/"
+    },
+    "imagen": {
+     "alt": "Pared de museo con cuatro ganchos y un espacio vacío entre cuadros",
+     "credito": "Wikimedia Commons",
+     "pie": "El hueco que dejó la Mona Lisa en el Louvre en 1911",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mona_Lisa_stolen-1911.jpg?width=900"
+    },
+    "materia": "Arte y pintura",
+    "pilar": "cultura",
     "repaso": {
      "pregunta": "¿Cuánto tiempo estuvo desaparecida la Mona Lisa tras el robo de 1911?",
      "respuesta": "28 meses: del 21 de agosto de 1911 a diciembre de 1913, cuando Peruggia la llevó a Florencia."
     },
-    "fecha": "2026-11-16"
+    "titulo": "La Mona Lisa se volvió icono cuando desapareció",
+    "wiki": "La Gioconda"
    },
    {
     "claves": [
@@ -393,42 +403,6 @@
     },
     "titulo": "Nadie recuerda qué decía el primer correo electrónico",
     "wiki": "Correo electrónico"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Grace Murray Hopper",
-      "quien": "Pionera de la programación; trabajó en las Mark de Harvard y popularizó la historia.",
-      "wiki": "Grace Murray Hopper"
-     },
-     {
-      "nombre": "Thomas Alva Edison",
-      "quien": "El inventor que ya llamaba «bugs» a las fallas en 1878.",
-      "wiki": "Thomas Alva Edison"
-     }
-    ],
-    "dato": "En 1947, en una computadora de Harvard, encontraron una polilla atrapada en un relé y la pegaron en la bitácora. La nota dice: «Primer caso real de bicho encontrado».",
-    "epoca": "1947",
-    "explicacion": "Fue el 9 de septiembre de 1947, en el relé 70 del Harvard Mark II. La broma de la nota es la palabra «real»: los ingenieros ya llamaban *bug* (bicho) a las fallas. Thomas Edison usó el término en una carta de 1878. La polilla solo fue la primera vez que el bicho era literal.\n\nSe suele decir que la encontró Grace Hopper. El Smithsonian, que guarda la bitácora, dice que probablemente no fue ella, sino ingenieros del equipo. Hopper sí contó la historia muchas veces, y por eso se le atribuyó.",
-    "fecha": "2026-10-31",
-    "fuente": {
-     "nombre": "Smithsonian National Museum of American History: Log book with computer bug",
-     "url": "https://www.si.edu/object/log-book-computer-bug:nmah_334663"
-    },
-    "imagen": {
-     "alt": "Página de una bitácora con una polilla pegada con cinta y notas a mano",
-     "credito": "Wikimedia Commons",
-     "pie": "La bitácora del Harvard Mark II con la polilla del 9 de septiembre de 1947",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/First_Computer_Bug,_1947.jpg?width=900"
-    },
-    "materia": "Ciencia y tecnología",
-    "pilar": "futuro",
-    "repaso": {
-     "pregunta": "¿Por qué la nota de 1947 dice «primer caso real» de bug?",
-     "respuesta": "Porque la palabra ya se usaba para fallas (Edison, 1878); esa vez el bicho era literal."
-    },
-    "titulo": "El primer «bug» no inventó la palabra",
-    "wiki": "Error de software"
    }
   ],
   "Cine y fotografía": [
@@ -712,61 +686,10 @@
     },
     "titulo": "Brasilia no se dibujó como un avión",
     "wiki": "Plan Piloto de Brasilia"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Kioto",
-      "quien": "Capital de Japón durante más de mil años; hoy guarda 17 sitios Patrimonio de la Humanidad.",
-      "wiki": "Kioto"
-     },
-     {
-      "nombre": "Harry S. Truman",
-      "quien": "El presidente que autorizó las bombas y apoyó sacar a Kioto de la lista.",
-      "wiki": "Harry S. Truman"
-     }
-    ],
-    "dato": "Kioto estaba en la lista de blancos de la bomba atómica. El secretario de Guerra Henry Stimson la sacó. La historia de que pasó ahí su luna de miel es, muy probablemente, falsa.",
-    "epoca": "1945",
-    "explicacion": "Kioto, antigua capital imperial con miles de templos, era para los militares un buen blanco: grande y casi intacta. Stimson se opuso con fuerza, con el apoyo de Truman, por su valor cultural y porque destruirla haría a Japón un enemigo duradero. Los militares intentaron varias veces volver a incluirla.\n\nStimson se casó en 1893 y no hay pruebas de que su luna de miel fuera en Asia. Lo que sí está documentado es que visitó Kioto con su esposa en 1926. El historiador Alex Wellerstein rastreó el mito hasta un artículo de 2002 que llamó a ese viaje «segunda luna de miel». Conocer una ciudad en persona cambió una decisión de guerra.",
-    "fecha": "2026-10-31",
-    "fuente": {
-     "nombre": "Alex Wellerstein, Restricted Data: Henry Stimson didn't go to Kyoto on his honeymoon",
-     "url": "https://blog.nuclearsecrecy.com/2023/07/24/henry-stimson-didnt-go-to-kyoto-on-his-honeymoon/"
-    },
-    "materia": "Ciudades del mundo",
-    "pilar": "mundo",
-    "repaso": {
-     "pregunta": "¿Por qué es dudosa la historia de la luna de miel de Stimson en Kioto?",
-     "respuesta": "Se casó en 1893 sin pruebas de un viaje a Asia; visitó Kioto en 1926 y el mito nació de un artículo de 2002."
-    },
-    "titulo": "Kioto se salvó, pero no por una luna de miel",
-    "wiki": "Bombardeos atómicos de Hiroshima y Nagasaki"
    }
   ],
   "Deporte y aire libre": [
    {
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "epoca": "1900–1920",
-    "titulo": "El tira y afloja fue olímpico, y lo ganaba la policía",
-    "dato": "El tira y afloja fue deporte olímpico de 1900 a 1920. En Londres 1908, las tres medallas fueron para equipos de policías británicos: el oro, para la Policía de la City de Londres.",
-    "explicacion": "En 1908, el equipo de Estados Unidos protestó porque los policías de Liverpool tiraban con sus botas de servicio. La protesta se rechazó y los estadounidenses se retiraron. La plata fue para Liverpool y el bronce para la División K de la Policía Metropolitana.\n\nEn aquellos primeros Juegos, el programa era un experimento y cambiaba en cada edición. Después de 1920, el tira y afloja salió del programa olímpico. Sigue siendo un deporte con campeonatos mundiales propios.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/London_1908_CityofLondonPolice.jpg?width=900",
-     "alt": "Fotografía antigua de un equipo de hombres fornidos posando",
-     "pie": "El equipo de la Policía de la City de Londres, campeón olímpico de tira y afloja en 1908",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Wikipedia (inglés): Tug of war at the 1908 Summer Olympics",
-     "url": "https://en.wikipedia.org/wiki/Tug_of_war_at_the_1908_Summer_Olympics"
-    },
-    "profundizar": {
-     "titulo": "Olympedia: Tug-of-War, Men (prueba descontinuada)",
-     "url": "https://www.olympedia.org/event_names/622"
-    },
-    "wiki": "Juego de la soga",
     "claves": [
      {
       "nombre": "Tira y afloja en Londres 1908",
@@ -779,11 +702,32 @@
       "wiki": "Anexo:Tira y afloja en los Juegos Olímpicos de París 1900"
      }
     ],
+    "dato": "El tira y afloja fue deporte olímpico de 1900 a 1920. En Londres 1908, las tres medallas fueron para equipos de policías británicos: el oro, para la Policía de la City de Londres.",
+    "epoca": "1900–1920",
+    "explicacion": "En 1908, el equipo de Estados Unidos protestó porque los policías de Liverpool tiraban con sus botas de servicio. La protesta se rechazó y los estadounidenses se retiraron. La plata fue para Liverpool y el bronce para la División K de la Policía Metropolitana.\n\nEn aquellos primeros Juegos, el programa era un experimento y cambiaba en cada edición. Después de 1920, el tira y afloja salió del programa olímpico. Sigue siendo un deporte con campeonatos mundiales propios.",
+    "fecha": "2026-11-16",
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Tug of war at the 1908 Summer Olympics",
+     "url": "https://en.wikipedia.org/wiki/Tug_of_war_at_the_1908_Summer_Olympics"
+    },
+    "imagen": {
+     "alt": "Fotografía antigua de un equipo de hombres fornidos posando",
+     "credito": "Wikimedia Commons",
+     "pie": "El equipo de la Policía de la City de Londres, campeón olímpico de tira y afloja en 1908",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/London_1908_CityofLondonPolice.jpg?width=900"
+    },
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
+    "profundizar": {
+     "titulo": "Olympedia: Tug-of-War, Men (prueba descontinuada)",
+     "url": "https://www.olympedia.org/event_names/622"
+    },
     "repaso": {
      "pregunta": "¿Quién ganó el oro olímpico de tira y afloja en Londres 1908?",
      "respuesta": "La Policía de la City de Londres. Las tres medallas fueron para equipos de policías británicos."
     },
-    "fecha": "2026-11-16"
+    "titulo": "El tira y afloja fue olímpico, y lo ganaba la policía",
+    "wiki": "Juego de la soga"
    },
    {
     "claves": [
@@ -1037,17 +981,6 @@
   ],
   "Derecho y poder": [
    {
-    "materia": "Derecho y poder",
-    "pilar": "mundo",
-    "epoca": "c. 2100 a. C.",
-    "titulo": "Antes de Hammurabi, un ojo costaba media mina de plata",
-    "dato": "El código de leyes más antiguo que se conoce no es el de Hammurabi, sino el de Ur-Nammu, rey sumerio de Ur, unos tres siglos anterior. En muchos casos no castigaba con «ojo por ojo», sino con multas en plata.",
-    "explicacion": "Una de sus leyes dice que, si un hombre le saca un ojo a otro, debe pagar media [[mina|Unidad de peso mesopotámica, de alrededor de medio kilo, que servía para medir plata.]] de plata; por un diente, dos siclos. El código de Hammurabi, hacia 1772 a. C., usa en cambio el principio de «ojo por ojo, diente por diente».\n\nEso rompe una idea común: que la justicia avanzó siempre de lo brutal a lo civilizado. El derecho más antiguo conocido ya compensaba a la víctima con dinero, como la reparación del daño actual. Las fechas exactas varían según la cronología que usen los historiadores.",
-    "fuente": {
-     "nombre": "World History Encyclopedia: Code of Ur-Nammu",
-     "url": "https://www.worldhistory.org/Code_of_Ur-Nammu/"
-    },
-    "wiki": "Ur-Nammu",
     "claves": [
      {
       "nombre": "Código de Hammurabi",
@@ -1060,11 +993,22 @@
       "wiki": "Historia de Mesopotamia"
      }
     ],
+    "dato": "El código de leyes más antiguo que se conoce no es el de Hammurabi, sino el de Ur-Nammu, rey sumerio de Ur, unos tres siglos anterior. En muchos casos no castigaba con «ojo por ojo», sino con multas en plata.",
+    "epoca": "c. 2100 a. C.",
+    "explicacion": "Una de sus leyes dice que, si un hombre le saca un ojo a otro, debe pagar media [[mina|Unidad de peso mesopotámica, de alrededor de medio kilo, que servía para medir plata.]] de plata; por un diente, dos siclos. El código de Hammurabi, hacia 1772 a. C., usa en cambio el principio de «ojo por ojo, diente por diente».\n\nEso rompe una idea común: que la justicia avanzó siempre de lo brutal a lo civilizado. El derecho más antiguo conocido ya compensaba a la víctima con dinero, como la reparación del daño actual. Las fechas exactas varían según la cronología que usen los historiadores.",
+    "fecha": "2026-11-16",
+    "fuente": {
+     "nombre": "World History Encyclopedia: Code of Ur-Nammu",
+     "url": "https://www.worldhistory.org/Code_of_Ur-Nammu/"
+    },
+    "materia": "Derecho y poder",
+    "pilar": "mundo",
     "repaso": {
      "pregunta": "¿Cómo castigaba el código de Ur-Nammu a quien le sacaba un ojo a otro?",
      "respuesta": "Con una multa de media mina de plata, no con el «ojo por ojo» que usaría Hammurabi siglos después."
     },
-    "fecha": "2026-11-16"
+    "titulo": "Antes de Hammurabi, un ojo costaba media mina de plata",
+    "wiki": "Ur-Nammu"
    },
    {
     "claves": [
@@ -1196,51 +1140,10 @@
     },
     "titulo": "Una ley de 1267 sigue vigente en Inglaterra",
     "wiki": "Enrique III de Inglaterra"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Napoleón Bonaparte",
-      "quien": "Emperador de los franceses (1804–1815), impulsor del código.",
-      "wiki": "Napoleón Bonaparte"
-     },
-     {
-      "nombre": "Código civil",
-      "quien": "El cuerpo de leyes sobre personas, familia, bienes y contratos que adoptaron casi todos los países de tradición continental.",
-      "wiki": "Código civil"
-     }
-    ],
-    "dato": "Desterrado en Santa Elena, Napoleón dijo que su gloria no eran sus cuarenta batallas, que Waterloo borraría. Lo que viviría para siempre, dijo, era su Código Civil.",
-    "epoca": "1804",
-    "explicacion": "El Código Civil de los franceses se promulgó el 21 de marzo de 1804. Juntó en un solo libro, claro y ordenado, las reglas sobre personas, familia, propiedad y contratos, que antes variaban de región en región. Napoleón presidió muchas de las sesiones en que se discutió.\n\nAcertó. Las conquistas se perdieron, pero el código sigue vigente en Francia, con muchas reformas, y sirvió de modelo a medio mundo. Los códigos civiles de México del siglo XIX, como el de 1870, tomaron mucho de él. Si eres abogado formado en el [[derecho civil|La tradición jurídica de Europa continental y América Latina, basada en códigos escritos.]], tienes algo de Napoleón en la cabeza.",
-    "fecha": "2026-11-01",
-    "fuente": {
-     "nombre": "Wikipedia: Código Civil de Francia",
-     "url": "https://es.wikipedia.org/wiki/C%C3%B3digo_Civil_de_Francia"
-    },
-    "materia": "Derecho y poder",
-    "pilar": "mundo",
-    "repaso": {
-     "pregunta": "¿Qué consideraba Napoleón su verdadera gloria?",
-     "respuesta": "Su Código Civil de 1804, más que sus batallas."
-    },
-    "titulo": "Napoleón valoraba más su código que sus batallas",
-    "wiki": "Código Civil de Francia"
    }
   ],
   "Disciplina y hábitos": [
    {
-    "materia": "Disciplina y hábitos",
-    "pilar": "caracter",
-    "epoca": "Siglo XIX",
-    "titulo": "Trollope escribía con el reloj enfrente",
-    "dato": "El novelista inglés Anthony Trollope se exigía 250 palabras cada cuarto de hora, con el reloj sobre el escritorio, durante tres horas cada mañana. Empezaba a las 5:30.",
-    "explicacion": "Trollope publicó decenas de novelas mientras trabajaba más de treinta años en el servicio de Correos británico. En su *Autobiografía*, publicada en 1883, después de su muerte, contó el método: no esperar la inspiración, sino medir el trabajo.\n\nCuando se conoció, parte de la crítica lo tomó como prueba de que era un artesano y no un artista. Hoy encaja con lo que la psicología llama [[intenciones de implementación|Planes concretos de cuándo, dónde y cuánto hacer algo; aumentan la probabilidad de cumplir una meta.]]: una meta pequeña, fija y medible vence a la motivación del día.",
-    "fuente": {
-     "nombre": "Anthony Trollope, An Autobiography, cap. XV (texto en Literature Page)",
-     "url": "https://literaturepage.com/read/trollope-autobiography-178.html"
-    },
-    "wiki": "Novela realista en inglés",
     "claves": [
      {
       "nombre": "Novela realista en inglés",
@@ -1253,11 +1156,22 @@
       "wiki": "El primer ministro (novela)"
      }
     ],
+    "dato": "El novelista inglés Anthony Trollope se exigía 250 palabras cada cuarto de hora, con el reloj sobre el escritorio, durante tres horas cada mañana. Empezaba a las 5:30.",
+    "epoca": "Siglo XIX",
+    "explicacion": "Trollope publicó decenas de novelas mientras trabajaba más de treinta años en el servicio de Correos británico. En su *Autobiografía*, publicada en 1883, después de su muerte, contó el método: no esperar la inspiración, sino medir el trabajo.\n\nCuando se conoció, parte de la crítica lo tomó como prueba de que era un artesano y no un artista. Hoy encaja con lo que la psicología llama [[intenciones de implementación|Planes concretos de cuándo, dónde y cuánto hacer algo; aumentan la probabilidad de cumplir una meta.]]: una meta pequeña, fija y medible vence a la motivación del día.",
+    "fecha": "2026-11-16",
+    "fuente": {
+     "nombre": "Anthony Trollope, An Autobiography, cap. XV (texto en Literature Page)",
+     "url": "https://literaturepage.com/read/trollope-autobiography-178.html"
+    },
+    "materia": "Disciplina y hábitos",
+    "pilar": "caracter",
     "repaso": {
      "pregunta": "¿Cuál era la cuota de trabajo de Anthony Trollope?",
      "respuesta": "250 palabras cada cuarto de hora, con el reloj enfrente, durante tres horas cada mañana."
     },
-    "fecha": "2026-11-16"
+    "titulo": "Trollope escribía con el reloj enfrente",
+    "wiki": "Novela realista en inglés"
    },
    {
     "claves": [
@@ -1424,6 +1338,36 @@
   ],
   "Economía y mercados": [
    {
+    "materia": "Economía y mercados",
+    "pilar": "patrimonio",
+    "epoca": "Siglo I",
+    "titulo": "No hay pruebas de que a los romanos les pagaran con sal",
+    "dato": "Se repite que «salario» viene de que a los soldados romanos les pagaban con sal. La única fuente antigua es una frase de Plinio el Viejo, y no dice eso.",
+    "explicacion": "En su *Historia natural*, del siglo I, Plinio habla de la importancia de la sal y dice que de ahí viene la palabra *salarium*. No dice que se pagara en sal. Los documentos de pago romanos que sobreviven muestran sueldos en monedas, el [[stipendium|La paga en dinero de los soldados romanos.]].\n\nLo más probable es que *salarium* fuera una asignación en dinero, quizá ligada en su origen a comprar sal, o que la palabra tenga otra historia. El dato real es más interesante que el mito: el dinero ganó porque se puede contar, guardar y cambiar, y la sal no.",
+    "fuente": {
+     "nombre": "Peter Gainsford, Kiwi Hellenist: Salt and salary — were Roman soldiers paid in salt? (2017)",
+     "url": "https://kiwihellenist.blogspot.com/2017/01"
+    },
+    "wiki": "Salario",
+    "claves": [
+     {
+      "nombre": "Plinio el Viejo",
+      "quien": "Naturalista romano del siglo I, autor de la *Historia natural*.",
+      "wiki": "Plinio el Viejo"
+     },
+     {
+      "nombre": "Historia de la sal",
+      "quien": "Cómo la sal fue moneda de cambio, impuesto y motivo de guerras.",
+      "wiki": "Historia de la sal"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Hay pruebas de que a los soldados romanos se les pagara con sal?",
+     "respuesta": "No. La única fuente antigua es Plinio el Viejo, que liga la palabra *salarium* a la sal, pero no dice que se pagara en sal. Los sueldos eran en monedas."
+    },
+    "fecha": "2026-11-17"
+   },
+   {
     "claves": [
      {
       "nombre": "Prisionero de guerra",
@@ -1558,23 +1502,6 @@
   ],
   "El cosmos": [
    {
-    "materia": "El cosmos",
-    "pilar": "futuro",
-    "epoca": "Hoy",
-    "titulo": "En Venus, un día dura más que un año",
-    "dato": "Venus tarda unos 243 días terrestres en girar sobre sí mismo y solo 225 en dar la vuelta al Sol. Además, gira al revés que casi todos los planetas: allí el Sol sale por el oeste.",
-    "explicacion": "Su giro es [[retrógrado|Que va en sentido contrario al de la mayoría de los planetas del sistema solar.]], como el de Urano. Al combinar ese giro lento y al revés con su órbita, el día solar, de un amanecer al siguiente, dura unos 117 días terrestres.\n\nNadie sabe con certeza por qué gira así; las hipótesis van desde un gran impacto en su juventud hasta el efecto de las mareas del Sol sobre su atmósfera, muy densa. Sus nubes permanentes impidieron medir su rotación hasta que se usó el radar, en los años sesenta.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Venus_globe.jpg?width=900",
-     "alt": "Planeta de superficie anaranjada y rugosa",
-     "pie": "Venus sin nubes, reconstruido a partir de datos de radar",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "National Geographic: Venus",
-     "url": "https://www.nationalgeographic.com/science/space/solar-system/venus/"
-    },
-    "wiki": "Venus (planeta)",
     "claves": [
      {
       "nombre": "Movimiento retrógrado",
@@ -1587,11 +1514,28 @@
       "wiki": "Observación de Venus"
      }
     ],
+    "dato": "Venus tarda unos 243 días terrestres en girar sobre sí mismo y solo 225 en dar la vuelta al Sol. Además, gira al revés que casi todos los planetas: allí el Sol sale por el oeste.",
+    "epoca": "Hoy",
+    "explicacion": "Su giro es [[retrógrado|Que va en sentido contrario al de la mayoría de los planetas del sistema solar.]], como el de Urano. Al combinar ese giro lento y al revés con su órbita, el día solar, de un amanecer al siguiente, dura unos 117 días terrestres.\n\nNadie sabe con certeza por qué gira así; las hipótesis van desde un gran impacto en su juventud hasta el efecto de las mareas del Sol sobre su atmósfera, muy densa. Sus nubes permanentes impidieron medir su rotación hasta que se usó el radar, en los años sesenta.",
+    "fecha": "2026-11-16",
+    "fuente": {
+     "nombre": "National Geographic: Venus",
+     "url": "https://www.nationalgeographic.com/science/space/solar-system/venus/"
+    },
+    "imagen": {
+     "alt": "Planeta de superficie anaranjada y rugosa",
+     "credito": "Wikimedia Commons",
+     "pie": "Venus sin nubes, reconstruido a partir de datos de radar",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Venus_globe.jpg?width=900"
+    },
+    "materia": "El cosmos",
+    "pilar": "futuro",
     "repaso": {
      "pregunta": "¿Cuánto tarda Venus en girar sobre sí mismo y cuánto en dar la vuelta al Sol?",
      "respuesta": "Unos 243 días terrestres en girar y unos 225 en orbitar. Su día solar dura unos 117 días."
     },
-    "fecha": "2026-11-16"
+    "titulo": "En Venus, un día dura más que un año",
+    "wiki": "Venus (planeta)"
    },
    {
     "claves": [
@@ -1922,39 +1866,45 @@
     },
     "titulo": "Uno de los apretones de manos más antiguos sella un pacto entre reyes",
     "wiki": "Apretón de manos"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Lansquenete",
-      "quien": "Los soldados mercenarios alemanes de los ejércitos de Carlos V.",
-      "wiki": "Lansquenete"
-     },
-     {
-      "nombre": "Carlos I de España",
-      "quien": "Rey de España y emperador alemán: unió las dos cortes en el siglo XVI.",
-      "wiki": "Carlos I de España"
-     }
-    ],
-    "dato": "La palabra «brindis» viene del alemán *bring dir's*: «te lo ofrezco». Es una frase entera que el español convirtió en sustantivo.",
-    "epoca": "Siglo XVI",
-    "explicacion": "Así lo recoge el Diccionario de la lengua española. La expresión es la que acompañaba el gesto de levantar la copa hacia otro. Llegó al español en la época de los Austrias, cuando soldados y cortesanos alemanes y españoles convivían en los ejércitos y la corte de Carlos V; esa vía de entrada es la explicación habitual, no un hecho documentado.\n\nEl origen explica la regla de etiqueta: un brindis es un ofrecimiento a otra persona. Por eso se mira a los ojos a quien se brinda y por eso habla primero el anfitrión.",
-    "fecha": "2026-10-31",
-    "fuente": {
-     "nombre": "Real Academia Española, Diccionario de la lengua española: brindis",
-     "url": "https://dle.rae.es/brindis"
-    },
-    "materia": "Etiqueta y protocolo",
-    "pilar": "gusto",
-    "repaso": {
-     "pregunta": "¿De qué frase viene la palabra «brindis»?",
-     "respuesta": "Del alemán «bring dir's», «te lo ofrezco»."
-    },
-    "titulo": "«Brindis» es una frase en alemán",
-    "wiki": "Brindis"
    }
   ],
   "Filosofía para vivir": [
+   {
+    "materia": "Filosofía para vivir",
+    "pilar": "mente",
+    "epoca": "1673",
+    "titulo": "Spinoza rechazó una cátedra para seguir puliendo lentes",
+    "dato": "En 1673, el elector del Palatinado le ofreció a Baruch Spinoza una cátedra de filosofía en la Universidad de Heidelberg, con «libertad para filosofar». Spinoza la rechazó y siguió ganándose la vida puliendo lentes.",
+    "explicacion": "La oferta tenía una condición: que no perturbara la religión establecida. Spinoza respondió que no sabía dónde terminaría esa libertad. Prefería un oficio modesto a una cátedra que lo obligara a medir cada palabra. Su *Tratado teológico-político* ya circulaba sin su nombre y escandalizaba a media Europa.\n\nMurió en 1677, a los 44 años, con su gran obra, la *Ética*, sin publicar. La independencia le costó dinero y prestigio, y le dio lo que buscaba: pensar sin dueño.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Spinoza.jpg?width=900",
+     "alt": "Retrato pintado de un hombre de cabello largo y oscuro",
+     "pie": "Baruch Spinoza, filósofo de Ámsterdam que vivía de pulir lentes.",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Encyclopaedia Britannica: Benedict de Spinoza (resumen)",
+     "url": "https://www.britannica.com/summary/Benedict-de-Spinoza"
+    },
+    "wiki": "Baruch Spinoza",
+    "claves": [
+     {
+      "nombre": "Tratado teológico-político",
+      "quien": "Su libro de 1670, publicado sin nombre, que defendía la libertad de pensamiento.",
+      "wiki": "Tratado teológico-político"
+     },
+     {
+      "nombre": "Filosofía de Spinoza",
+      "quien": "Su idea de Dios como naturaleza y de la libertad como entender las causas.",
+      "wiki": "Filosofía de Spinoza"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué rechazó Spinoza en 1673 y por qué?",
+     "respuesta": "Una cátedra de filosofía en Heidelberg. Temía que la condición de no perturbar la religión limitara su libertad de pensar."
+    },
+    "fecha": "2026-11-17"
+   },
    {
     "claves": [
      {
@@ -2137,21 +2087,6 @@
   ],
   "Gastronomía, vino y destilados": [
    {
-    "materia": "Gastronomía, vino y destilados",
-    "pilar": "gusto",
-    "epoca": "1662",
-    "titulo": "Las burbujas del champán se describieron primero en Londres",
-    "dato": "El 17 de diciembre de 1662, el científico inglés Christopher Merret presentó a la Royal Society un texto que explicaba cómo añadir azúcar al vino para hacerlo «vivo y espumoso». Fue décadas antes de la fecha que la leyenda atribuye a Dom Pérignon.",
-    "explicacion": "La leyenda dice que el monje Dom Pérignon inventó el champán hacia 1697, en la abadía de Hautvillers. National Geographic recuerda que no lo inventó, e incluso pudo haber trabajado para eliminar las burbujas, que entonces se veían como un defecto.\n\nEl azúcar alimenta una [[segunda fermentación|Nueva fermentación del vino ya hecho, dentro de la botella; produce el gas que forma las burbujas.]] que produce gas. Hoy el nombre de Pérignon está en una de las etiquetas más caras del mundo; el de Merret casi nadie lo conoce.",
-    "fuente": {
-     "nombre": "National Geographic: Who put the bubbles in Champagne?",
-     "url": "https://www.nationalgeographic.com/history/history-magazine/article/origin-champagne-france-bubbles"
-    },
-    "profundizar": {
-     "titulo": "Wikipedia (inglés): Christopher Merret",
-     "url": "https://en.wikipedia.org/wiki/Christopher_Merret"
-    },
-    "wiki": "Pierre Pérignon",
     "claves": [
      {
       "nombre": "Champán",
@@ -2164,11 +2099,26 @@
       "wiki": "Vino espumoso"
      }
     ],
+    "dato": "El 17 de diciembre de 1662, el científico inglés Christopher Merret presentó a la Royal Society un texto que explicaba cómo añadir azúcar al vino para hacerlo «vivo y espumoso». Fue décadas antes de la fecha que la leyenda atribuye a Dom Pérignon.",
+    "epoca": "1662",
+    "explicacion": "La leyenda dice que el monje Dom Pérignon inventó el champán hacia 1697, en la abadía de Hautvillers. National Geographic recuerda que no lo inventó, e incluso pudo haber trabajado para eliminar las burbujas, que entonces se veían como un defecto.\n\nEl azúcar alimenta una [[segunda fermentación|Nueva fermentación del vino ya hecho, dentro de la botella; produce el gas que forma las burbujas.]] que produce gas. Hoy el nombre de Pérignon está en una de las etiquetas más caras del mundo; el de Merret casi nadie lo conoce.",
+    "fecha": "2026-11-16",
+    "fuente": {
+     "nombre": "National Geographic: Who put the bubbles in Champagne?",
+     "url": "https://www.nationalgeographic.com/history/history-magazine/article/origin-champagne-france-bubbles"
+    },
+    "materia": "Gastronomía, vino y destilados",
+    "pilar": "gusto",
+    "profundizar": {
+     "titulo": "Wikipedia (inglés): Christopher Merret",
+     "url": "https://en.wikipedia.org/wiki/Christopher_Merret"
+    },
     "repaso": {
      "pregunta": "¿Quién describió primero, en 1662, cómo hacer espumoso el vino con azúcar?",
      "respuesta": "El científico inglés Christopher Merret, ante la Royal Society, décadas antes de la fecha atribuida a Dom Pérignon."
     },
-    "fecha": "2026-11-16"
+    "titulo": "Las burbujas del champán se describieron primero en Londres",
+    "wiki": "Pierre Pérignon"
    },
    {
     "claves": [
@@ -2328,6 +2278,42 @@
    }
   ],
   "Historia y geopolítica": [
+   {
+    "materia": "Historia y geopolítica",
+    "pilar": "mundo",
+    "epoca": "1896",
+    "titulo": "La guerra más corta duró menos que un partido de futbol",
+    "dato": "El 27 de agosto de 1896, Gran Bretaña y el sultanato de Zanzíbar libraron una guerra que duró entre 38 y 45 minutos, según la fuente. Es la más corta registrada.",
+    "explicacion": "El sultán Hamad murió el 25 de agosto y su primo Khalid tomó el palacio sin el visto bueno británico, que exigía aprobar al sucesor. Londres dio un ultimátum hasta las 9:00 de la mañana. Khalid no se rindió y a las 9:02 los barcos británicos abrieron fuego contra el palacio.\n\nDel lado de Zanzíbar hubo unos 500 muertos o heridos; del lado británico, un marinero herido. Khalid huyó al consulado alemán. La guerra fue corta porque la diferencia de fuerza era enorme: es menos una batalla que una lección sobre quién mandaba en el océano Índico.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zanzibar_palace_after_low.JPG?width=900",
+     "alt": "Fotografía antigua de un palacio en ruinas tras un bombardeo",
+     "pie": "El palacio del sultán de Zanzíbar después del bombardeo de 1896.",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Wikipedia: Guerra anglo-zanzibariana",
+     "url": "https://es.wikipedia.org/wiki/Guerra_anglo-zanzibariana"
+    },
+    "wiki": "Guerra anglo-zanzibariana",
+    "claves": [
+     {
+      "nombre": "Khalid de Zanzíbar",
+      "quien": "El aspirante que tomó el palacio y perdió la guerra en menos de una hora.",
+      "wiki": "Khalid de Zanzíbar"
+     },
+     {
+      "nombre": "Sultanato de Zanzíbar",
+      "quien": "Estado de la costa de África oriental, entonces bajo protectorado británico.",
+      "wiki": "Sultanato de Zanzíbar"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuánto duró la guerra anglo-zanzibariana de 1896?",
+     "respuesta": "Entre 38 y 45 minutos, según la fuente. Empezó a las 9:02 del 27 de agosto, al vencer el ultimátum británico."
+    },
+    "fecha": "2026-11-17"
+   },
    {
     "claves": [
      {
@@ -2514,6 +2500,36 @@
    }
   ],
   "IA y el futuro": [
+   {
+    "materia": "IA y el futuro",
+    "pilar": "futuro",
+    "epoca": "1966",
+    "titulo": "La secretaria que pidió privacidad para hablar con un programa",
+    "dato": "En 1966, Joseph Weizenbaum, del MIT, publicó ELIZA, un programa que imitaba a un terapeuta repitiendo tus frases en forma de pregunta. Su secretaria, que lo vio programarlo, le pidió que saliera del cuarto para poder conversar con él a solas.",
+    "explicacion": "ELIZA no entendía nada. Buscaba palabras clave y devolvía plantillas: si escribías «estoy triste», preguntaba por qué estabas triste. Aun así, la gente le contaba intimidades. Weizenbaum se asustó de lo fácil que era que alguien atribuyera comprensión a una máquina.\n\nEse fenómeno hoy se llama efecto ELIZA. Weizenbaum pasó el resto de su vida advirtiendo sobre él, en libros como *Computer Power and Human Reason* (1976). Con los asistentes de IA actuales, su advertencia de hace 60 años está más vigente que nunca.",
+    "fuente": {
+     "nombre": "IEEE Spectrum: Why people demanded privacy to confide in the world's first chatbot",
+     "url": "https://spectrum.ieee.org/why-people-demanded-privacy-to-confide-in-the-worlds-first-chatbot"
+    },
+    "wiki": "Bot conversacional",
+    "claves": [
+     {
+      "nombre": "Prueba de Turing",
+      "quien": "La propuesta de Alan Turing (1950) para juzgar si una máquina conversa como humano.",
+      "wiki": "Prueba de Turing"
+     },
+     {
+      "nombre": "Procesamiento de lenguaje natural",
+      "quien": "La rama de la informática que enseña a las máquinas a manejar idiomas; ELIZA es uno de sus hitos.",
+      "wiki": "Historia del procesamiento de lenguaje natural"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué le pidió la secretaria de Weizenbaum cuando probó ELIZA?",
+     "respuesta": "Que saliera del cuarto para conversar a solas con el programa, aunque sabía que era solo código."
+    },
+    "fecha": "2026-11-17"
+   },
    {
     "claves": [
      {
@@ -3025,42 +3041,6 @@
     },
     "titulo": "El rey que admiró a su enemigo por soltar el poder",
     "wiki": "George Washington"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "George Meade",
-      "quien": "El general de la Unión que ganó en Gettysburg y dejó escapar a Lee.",
-      "wiki": "George Meade"
-     },
-     {
-      "nombre": "Batalla de Gettysburg",
-      "quien": "Julio de 1863: el punto de quiebre de la guerra civil de Estados Unidos.",
-      "wiki": "Batalla de Gettysburg"
-     }
-    ],
-    "dato": "Después de Gettysburg, Lincoln escribió una carta durísima al general Meade por dejar escapar al ejército de Lee. La guardó en un sobre: «Al general Meade, nunca enviada ni firmada».",
-    "epoca": "1863",
-    "explicacion": "El 14 de julio de 1863, Lincoln supo que Lee había logrado retirarse al sur. Escribió: «Su oportunidad de oro se ha ido, y estoy angustiado sin medida por ello». Pero no la mandó. Meade acababa de ganar la batalla más importante de la guerra y Lincoln lo necesitaba.\n\nEra un hábito suyo: escribir la carta caliente para sacar el enojo y luego dejarla en un cajón. Separaba dos cosas que solemos mezclar: expresar lo que uno siente y decidir lo que conviene comunicar.",
-    "fecha": "2026-10-31",
-    "fuente": {
-     "nombre": "American Battlefield Trust: Lincoln's unsent letter to George Meade",
-     "url": "https://www.battlefields.org/learn/primary-sources/lincolns-unsent-letter-george-meade"
-    },
-    "imagen": {
-     "alt": "Fotografía en blanco y negro de Abraham Lincoln sentado, con barba",
-     "credito": "Wikimedia Commons",
-     "pie": "Abraham Lincoln fotografiado por Alexander Gardner en noviembre de 1863",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abraham_Lincoln_O-77_by_Gardner,_1863.jpg?width=900"
-    },
-    "materia": "Liderazgo e influencia",
-    "pilar": "caracter",
-    "repaso": {
-     "pregunta": "¿Qué hizo Lincoln con la carta furiosa que escribió a Meade?",
-     "respuesta": "La guardó sin enviarla ni firmarla."
-    },
-    "titulo": "La carta furiosa que Lincoln nunca envió",
-    "wiki": "Abraham Lincoln"
    }
   ],
   "Literatura y mitología": [
@@ -3185,23 +3165,6 @@
   ],
   "Mente y decisiones": [
    {
-    "materia": "Mente y decisiones",
-    "pilar": "mente",
-    "epoca": "1990",
-    "titulo": "Diez mil cartas contra la respuesta correcta",
-    "dato": "En 1990, Marilyn vos Savant respondió en la revista *Parade* que en el problema de Monty Hall conviene cambiar de puerta. Recibió unas 10,000 cartas, cerca de 1,000 firmadas por doctores, casi todas diciendo que se equivocaba. Tenía razón.",
-    "explicacion": "El juego: hay tres puertas, un coche detrás de una y cabras detrás de las otras. Eliges una. El presentador, que sabe dónde está el coche, abre otra con una cabra y te ofrece cambiar. Parece 50 y 50. No lo es: tu primera elección tenía 1/3 de probabilidad, y como el presentador abre sabiendo lo que hay, los otros 2/3 se concentran en la puerta que queda.\n\nEl caso muestra que la intuición falla incluso en expertos cuando la información nueva no llega al azar. Según *Scientific American*, hasta el matemático Paul Erdős se resistió a la respuesta cuando se la plantearon.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Monty_open_door.svg?width=900",
-     "alt": "Dibujo de tres puertas; una abierta muestra una cabra",
-     "pie": "El problema de Monty Hall: el presentador abre una puerta con cabra",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Scientific American: Why almost everyone gets the Monty Hall probability puzzle wrong",
-     "url": "https://scientificamerican.com/article/why-almost-everyone-gets-the-monty-hall-probability-puzzle-wrong/"
-    },
-    "wiki": "Problema de Monty Hall",
     "claves": [
      {
       "nombre": "Marilyn vos Savant",
@@ -3214,11 +3177,28 @@
       "wiki": "Paul Erdős"
      }
     ],
+    "dato": "En 1990, Marilyn vos Savant respondió en la revista *Parade* que en el problema de Monty Hall conviene cambiar de puerta. Recibió unas 10,000 cartas, cerca de 1,000 firmadas por doctores, casi todas diciendo que se equivocaba. Tenía razón.",
+    "epoca": "1990",
+    "explicacion": "El juego: hay tres puertas, un coche detrás de una y cabras detrás de las otras. Eliges una. El presentador, que sabe dónde está el coche, abre otra con una cabra y te ofrece cambiar. Parece 50 y 50. No lo es: tu primera elección tenía 1/3 de probabilidad, y como el presentador abre sabiendo lo que hay, los otros 2/3 se concentran en la puerta que queda.\n\nEl caso muestra que la intuición falla incluso en expertos cuando la información nueva no llega al azar. Según *Scientific American*, hasta el matemático Paul Erdős se resistió a la respuesta cuando se la plantearon.",
+    "fecha": "2026-11-16",
+    "fuente": {
+     "nombre": "Scientific American: Why almost everyone gets the Monty Hall probability puzzle wrong",
+     "url": "https://scientificamerican.com/article/why-almost-everyone-gets-the-monty-hall-probability-puzzle-wrong/"
+    },
+    "imagen": {
+     "alt": "Dibujo de tres puertas; una abierta muestra una cabra",
+     "credito": "Wikimedia Commons",
+     "pie": "El problema de Monty Hall: el presentador abre una puerta con cabra",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Monty_open_door.svg?width=900"
+    },
+    "materia": "Mente y decisiones",
+    "pilar": "mente",
     "repaso": {
      "pregunta": "En el problema de Monty Hall, ¿qué probabilidad de ganar tienes si cambias de puerta?",
      "respuesta": "2/3. Si te quedas, 1/3, porque el presentador abre una puerta sabiendo dónde está el coche."
     },
-    "fecha": "2026-11-16"
+    "titulo": "Diez mil cartas contra la respuesta correcta",
+    "wiki": "Problema de Monty Hall"
    },
    {
     "claves": [
@@ -3494,27 +3474,6 @@
   ],
   "Negocios y estrategia": [
    {
-    "materia": "Negocios y estrategia",
-    "pilar": "patrimonio",
-    "epoca": "1974",
-    "titulo": "El primer código de barras se escaneó en un chicle",
-    "dato": "La mañana del 26 de junio de 1974, en un supermercado Marsh de Troy, Ohio, la cajera Sharon Buchanan pasó por el escáner un paquete de 10 chicles Juicy Fruit de Wrigley. Fue el primer producto vendido con un código UPC.",
-    "explicacion": "El comprador fue Clyde Dawson, jefe de investigación de Marsh, y el paquete costó 67 centavos. Cada escáner le costó a la tienda unos 4,000 dólares de entonces, según el Museo Nacional de Historia Estadounidense, que conserva uno en su colección.\n\nEl código de barras se había inventado en 1949, pero no servía hasta que fabricantes y supermercados acordaran un [[estándar|Regla técnica común que todos aceptan, para que productos de distintas empresas funcionen juntos.]] común. El valor no estaba en las barras, sino en el acuerdo: un idioma compartido para toda una industria.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/UPC-A_L2.svg?width=900",
-     "alt": "Código de barras con números debajo",
-     "pie": "Un código UPC-A, el formato que se estrenó en 1974",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Smithsonian Magazine: The supermarket scanner changed the way we buy groceries forever",
-     "url": "https://www.smithsonianmag.com/smithsonian-institution/supermarket-scanner-changed-way-we-buy-groceries-forever-180984293/"
-    },
-    "profundizar": {
-     "titulo": "GS1: Marsh holds place of honor in history of GS1 barcode",
-     "url": "https://www.gs1.org/articles/marsh-holds-place-honor-history-gs1-barcode"
-    },
-    "wiki": "Código Universal de Producto",
     "claves": [
      {
       "nombre": "Código de barras",
@@ -3527,11 +3486,32 @@
       "wiki": "IBM"
      }
     ],
+    "dato": "La mañana del 26 de junio de 1974, en un supermercado Marsh de Troy, Ohio, la cajera Sharon Buchanan pasó por el escáner un paquete de 10 chicles Juicy Fruit de Wrigley. Fue el primer producto vendido con un código UPC.",
+    "epoca": "1974",
+    "explicacion": "El comprador fue Clyde Dawson, jefe de investigación de Marsh, y el paquete costó 67 centavos. Cada escáner le costó a la tienda unos 4,000 dólares de entonces, según el Museo Nacional de Historia Estadounidense, que conserva uno en su colección.\n\nEl código de barras se había inventado en 1949, pero no servía hasta que fabricantes y supermercados acordaran un [[estándar|Regla técnica común que todos aceptan, para que productos de distintas empresas funcionen juntos.]] común. El valor no estaba en las barras, sino en el acuerdo: un idioma compartido para toda una industria.",
+    "fecha": "2026-11-16",
+    "fuente": {
+     "nombre": "Smithsonian Magazine: The supermarket scanner changed the way we buy groceries forever",
+     "url": "https://www.smithsonianmag.com/smithsonian-institution/supermarket-scanner-changed-way-we-buy-groceries-forever-180984293/"
+    },
+    "imagen": {
+     "alt": "Código de barras con números debajo",
+     "credito": "Wikimedia Commons",
+     "pie": "Un código UPC-A, el formato que se estrenó en 1974",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/UPC-A_L2.svg?width=900"
+    },
+    "materia": "Negocios y estrategia",
+    "pilar": "patrimonio",
+    "profundizar": {
+     "titulo": "GS1: Marsh holds place of honor in history of GS1 barcode",
+     "url": "https://www.gs1.org/articles/marsh-holds-place-honor-history-gs1-barcode"
+    },
     "repaso": {
      "pregunta": "¿Qué producto fue el primero en venderse con un código UPC y dónde?",
      "respuesta": "Un paquete de chicles Juicy Fruit de Wrigley, el 26 de junio de 1974, en un supermercado Marsh de Troy, Ohio."
     },
-    "fecha": "2026-11-16"
+    "titulo": "El primer código de barras se escaneó en un chicle",
+    "wiki": "Código Universal de Producto"
    },
    {
     "claves": [
@@ -3628,45 +3608,50 @@
     },
     "titulo": "La Guía Michelin nació para vender llantas",
     "wiki": "Guía Michelin"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Nokia (ciudad)",
-      "quien": "El pueblo finlandés junto al río que le dio nombre a la empresa.",
-      "wiki": "Nokia (ciudad)"
-     },
-     {
-      "nombre": "Tampere",
-      "quien": "La ciudad industrial donde estuvo el primer molino de Idestam.",
-      "wiki": "Tampere"
-     }
-    ],
-    "dato": "La empresa que dominó los teléfonos celulares nació el 12 de mayo de 1865 como una fábrica de pulpa de madera en Finlandia.",
-    "epoca": "1865",
-    "explicacion": "El ingeniero Fredrik Idestam abrió su primer molino en Tampere, junto a unos rápidos. En 1868 abrió otro cerca del río Nokianvirta, a unos 15 kilómetros, y en 1871 la empresa tomó el nombre de ese pueblo: Nokia. En el siglo XX se volvió un conglomerado de papel, botas de hule y cables.\n\nLa lección no es que «hay que reinventarse», que es un cliché. Es más concreta: Nokia entró a la electrónica por los cables y las telecomunicaciones que ya hacía. Cada salto se apoyó en una capacidad que ya tenía.",
-    "fecha": "2026-10-31",
-    "fuente": {
-     "nombre": "Wikipedia: History of Nokia",
-     "url": "https://en.wikipedia.org/wiki/History_of_Nokia"
-    },
-    "imagen": {
-     "alt": "Grabado antiguo de una fábrica junto a un río con árboles",
-     "credito": "Wikimedia Commons",
-     "pie": "La fábrica de papel de Nokia en una ilustración de 1894",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/MECHELIN%281894%29_p201_Nokia,_Paper_Mill.jpg?width=900"
-    },
-    "materia": "Negocios y estrategia",
-    "pilar": "patrimonio",
-    "repaso": {
-     "pregunta": "¿A qué se dedicaba Nokia cuando se fundó en 1865?",
-     "respuesta": "A la pulpa de madera y el papel; tomó su nombre de un pueblo junto al río Nokianvirta."
-    },
-    "titulo": "Nokia empezó haciendo papel",
-    "wiki": "Nokia (ciudad)"
    }
   ],
   "Oficios del lujo y estilo": [
+   {
+    "materia": "Oficios del lujo y estilo",
+    "pilar": "gusto",
+    "epoca": "1921",
+    "titulo": "Chanel N.º 5 no inventó los aldehídos: los subió de volumen",
+    "dato": "Se dice que Chanel N.º 5, de 1921, fue el primer perfume con aldehídos sintéticos. No es así: otros perfumes ya los usaban. Lo nuevo fue la dosis, mucho más alta de lo habitual.",
+    "explicacion": "Los [[aldehídos|Compuestos químicos de olor intenso; en perfumería dan una sensación limpia, brillante y como de jabón fino.]] dan al N.º 5 su brillo abstracto: no huele a una flor concreta, sino a algo nuevo. El perfumista Ernest Beaux, formado en Rusia, presentó varias muestras numeradas a Coco Chanel. Ella eligió la quinta.\n\nEn el lujo, la innovación casi nunca es un ingrediente inédito. Es una decisión de proporción: usar algo conocido con una audacia que nadie se había permitido. Así se reconoce un oficio maduro.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/CHANEL_No5_parfum.jpg?width=900",
+     "alt": "Frasco rectangular de perfume con tapón facetado",
+     "pie": "El frasco del N.º 5, casi sin cambios desde los años veinte.",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Society of Chemical Industry (SCI): Whiff of success (2008)",
+     "url": "https://www.soci.org/chemistry-and-industry/cni-data/2008/24/whiff-of-success"
+    },
+    "wiki": "Chanel n.º 5",
+    "claves": [
+     {
+      "nombre": "Coco Chanel",
+      "quien": "Diseñadora francesa que lanzó el perfume y le dio su nombre.",
+      "wiki": "Coco Chanel"
+     },
+     {
+      "nombre": "Aldehído",
+      "quien": "La familia química de los compuestos que dan al N.º 5 su brillo.",
+      "wiki": "Aldehído"
+     },
+     {
+      "nombre": "Perfumista",
+      "quien": "El oficio de Ernest Beaux: componer fórmulas de olor.",
+      "wiki": "Perfumista"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué tuvo de nuevo Chanel N.º 5 respecto a los aldehídos?",
+     "respuesta": "No fue el primero en usarlos; los usó en una dosis mucho más alta de lo habitual."
+    },
+    "fecha": "2026-11-17"
+   },
    {
     "claves": [
      {
@@ -3978,6 +3963,40 @@
    }
   ],
   "Relaciones y vida social": [
+   {
+    "materia": "Relaciones y vida social",
+    "pilar": "caracter",
+    "epoca": "1992",
+    "titulo": "El límite de 150 amigos es más frágil de lo que parece",
+    "dato": "En 1992, el antropólogo Robin Dunbar propuso que el cerebro humano solo puede mantener unas 150 relaciones estables. En 2021, un equipo de la Universidad de Estocolmo repitió el cálculo con datos más nuevos: el intervalo de confianza iba de 2 a 520.",
+    "explicacion": "Dunbar llegó a su número comparando el tamaño del [[neocórtex|La capa exterior del cerebro, ligada al pensamiento y a la vida social.]] con el tamaño de los grupos de distintos primates, y extrapolando a los humanos. La idea es elegante y se volvió famosa: la usan empresas para dividir equipos y redes sociales para explicar sus límites.\n\nPatrik Lindenfors y sus colegas concluyeron que esos datos no sostienen un número concreto. Dunbar respondió que su cifra tiene apoyo en otros estudios. Lo seguro: tenemos círculos de cercanía distintos. Lo dudoso: que exista un techo exacto de 150.",
+    "fuente": {
+     "nombre": "Universidad de Estocolmo: New study deconstructs Dunbar's number (5 may 2021)",
+     "url": "https://www.su.se/english/news/articles/2021-05-05-new-study-deconstructs-dunbars-number---yes-you-can-have-more-than-150-friends"
+    },
+    "profundizar": {
+     "titulo": "Lindenfors, Wartel y Lind: 'Dunbar's number' deconstructed, Biology Letters (2021)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8103230"
+    },
+    "wiki": "Número de Dunbar",
+    "claves": [
+     {
+      "nombre": "Robin Dunbar",
+      "quien": "Antropólogo británico de Oxford que propuso el número en 1992.",
+      "wiki": "Robin Ian MacDonald Dunbar"
+     },
+     {
+      "nombre": "Red social",
+      "quien": "La estructura de vínculos entre personas que estudian sociólogos y psicólogos.",
+      "wiki": "Red social"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué encontró el equipo de Estocolmo en 2021 sobre el número de Dunbar?",
+     "respuesta": "Que con datos nuevos el intervalo de confianza iba de 2 a 520 personas: demasiado amplio para sostener un límite exacto de 150."
+    },
+    "fecha": "2026-11-17"
+   },
    {
     "claves": [
      {
@@ -4410,45 +4429,45 @@
     },
     "titulo": "El discurso más largo del Senado no fue un filibustero",
     "wiki": "Cory Booker"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Tito Annio Milón",
-      "quien": "El político que Cicerón debía defender; terminó exiliado en Marsella.",
-      "wiki": "Tito Annio Milón"
-     },
-     {
-      "nombre": "Dion Casio",
-      "quien": "Historiador romano del siglo III que contó lo que pasó en el juicio.",
-      "wiki": "Dion Casio"
-     }
-    ],
-    "dato": "El *Pro Milone*, considerado una obra maestra de la oratoria, no es lo que Cicerón dijo en el juicio. Ese día, rodeado de soldados, apenas pudo hablar.",
-    "epoca": "52 a. C.",
-    "explicacion": "En el año 52 a. C., Milón fue juzgado en Roma por matar a su rival Clodio. Pompeyo llenó el foro de soldados para mantener el orden. Según el historiador Dion Casio, Cicerón se asustó al verlos, no pronunció el discurso que había preparado y dijo solo unas pocas palabras. Milón fue condenado y se exilió en Marsella.\n\nDespués, Cicerón escribió y publicó la defensa que debió dar. Cuando Milón la leyó en el exilio, dijo con ironía que, si Cicerón la hubiera pronunciado, él no estaría comiendo tan buenos salmonetes en Marsella. La lección: un discurso escrito no es un discurso dicho; la presión del momento también se entrena.",
-    "fecha": "2026-10-31",
-    "fuente": {
-     "nombre": "Dion Casio, Historia romana, 40.54",
-     "url": "https://lexundria.com/dio/40.54/cy"
-    },
-    "imagen": {
-     "alt": "Busto de mármol de un hombre romano calvo y de rostro serio",
-     "credito": "Wikimedia Commons",
-     "pie": "Busto de Cicerón en los Museos Capitolinos de Roma",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cicero_-_Musei_Capitolini.JPG?width=900"
-    },
-    "materia": "Retórica y oratoria",
-    "pilar": "mente",
-    "repaso": {
-     "pregunta": "¿Qué pasó en realidad cuando Cicerón defendió a Milón?",
-     "respuesta": "Intimidado por los soldados, casi no habló. El famoso Pro Milone lo escribió después."
-    },
-    "titulo": "El mejor discurso de Cicerón nunca se dijo",
-    "wiki": "Cicerón"
    }
   ],
   "Salud y longevidad": [
+   {
+    "materia": "Salud y longevidad",
+    "pilar": "cuerpo",
+    "epoca": "1854",
+    "titulo": "Quitar la manija de la bomba no detuvo la epidemia",
+    "dato": "La historia dice que John Snow frenó el cólera de Londres en 1854 al quitar la manija de una bomba de agua en Broad Street. Cuando la quitaron, el 8 de septiembre, la epidemia ya iba en descenso. El propio Snow lo reconoció.",
+    "explicacion": "Muchos vecinos habían huido y los casos ya bajaban. Lo que hizo grande a Snow no fue el gesto, sino la evidencia: contó muertes casa por casa, las puso en un mapa y mostró que se agrupaban alrededor de esa bomba. En una época en que se creía que el cólera venía del «mal aire», demostró que viajaba en el agua.\n\nLa manija sí pudo evitar un rebrote. Después, el pastor Henry Whitehead encontró el origen: un pozo negro con pañales de una bebé enferma, a menos de un metro de la bomba.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Snow_memorial_and_pub.jpg?width=900",
+     "alt": "Réplica de una bomba de agua antigua en una calle de Londres, junto a un pub",
+     "pie": "La réplica de la bomba en Broadwick Street, Londres, junto al pub que lleva el nombre de John Snow.",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "UCLA Fielding School of Public Health: The Broad Street pump outbreak",
+     "url": "https://epi-snow.ph.ucla.edu/Stream2_BSPoutbreak_e.html"
+    },
+    "wiki": "Epidemia de cólera de Broad Street",
+    "claves": [
+     {
+      "nombre": "Teoría microbiana de la enfermedad",
+      "quien": "La idea de que los microbios causan enfermedades; reemplazó a la del «mal aire».",
+      "wiki": "Teoría microbiana de la enfermedad"
+     },
+     {
+      "nombre": "Epidemiología",
+      "quien": "La ciencia que estudia cómo se distribuyen las enfermedades; Snow es uno de sus fundadores.",
+      "wiki": "Epidemiología"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Por qué la manija de la bomba de Broad Street no fue lo que detuvo la epidemia de 1854?",
+     "respuesta": "Porque cuando la quitaron, el 8 de septiembre, los casos ya iban en descenso. El aporte de Snow fue probar con datos que el cólera viajaba en el agua."
+    },
+    "fecha": "2026-11-17"
+   },
    {
     "claves": [
      {
@@ -4702,42 +4721,6 @@
     },
     "titulo": "El día que una operación dejó de doler",
     "wiki": "Anestesia"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Viruela",
-      "quien": "La enfermedad que la vacuna de Jenner ayudó a erradicar en 1980.",
-      "wiki": "Viruela"
-     },
-     {
-      "nombre": "Vacuna",
-      "quien": "Preparado que entrena al sistema inmune sin causar la enfermedad.",
-      "wiki": "Vacuna"
-     }
-    ],
-    "dato": "La palabra *vacuna* viene del latín *vacca*. La primera se hizo con pus de una lechera contagiada de viruela de las vacas.",
-    "epoca": "1796",
-    "explicacion": "En el campo inglés se decía que las lecheras que se contagiaban de la viruela de las vacas, una enfermedad leve, no enfermaban de viruela humana. El 14 de mayo de 1796, el médico Edward Jenner tomó material de las lesiones de una lechera, Sarah Nelmes, y se lo inoculó a James Phipps, un niño de ocho años. Semanas después lo expuso a la viruela. No enfermó.\n\nJenner llamó a su método *vaccination*, de *vacca*. En 1881, Louis Pasteur propuso usar la palabra para todas las vacunas, en honor a Jenner. La [[viruela|Enfermedad causada por un virus que mató a cientos de millones de personas. Fue declarada erradicada en 1980.]] es hasta hoy la única enfermedad humana erradicada del planeta.",
-    "fecha": "2026-11-01",
-    "fuente": {
-     "nombre": "Wikipedia: Edward Jenner",
-     "url": "https://es.wikipedia.org/wiki/Edward_Jenner"
-    },
-    "imagen": {
-     "alt": "Pintura de un médico que sostiene el brazo de un niño mientras otros observan",
-     "credito": "Wikimedia Commons",
-     "pie": "Edward Jenner vacuna a James Phipps en 1796, en una pintura posterior",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jenner_phipps_01.jpg?width=900"
-    },
-    "materia": "Salud y longevidad",
-    "pilar": "cuerpo",
-    "repaso": {
-     "pregunta": "¿De dónde viene la palabra «vacuna»?",
-     "respuesta": "Del latín vacca, «vaca»: Jenner usó la viruela de las vacas para proteger contra la viruela humana en 1796."
-    },
-    "titulo": "«Vacuna» viene de «vaca»",
-    "wiki": "Edward Jenner"
    }
   ]
  }

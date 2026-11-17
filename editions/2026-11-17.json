@@ -1,0 +1,892 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-17",
+ "numero": 27,
+ "fecha": "2026-11-17",
+ "disponibleDesde": "2026-11-17T08:00:00-06:00",
+ "titulo": "1929: Hubble descubre que el universo se expande",
+ "temporada": {
+  "id": "t05",
+  "numero": 5,
+  "titulo": "El cosmos: del cielo de los griegos al telescopio James Webb",
+  "episodio": 4,
+  "totalEpisodios": 6
+ },
+ "calentamiento": [
+  {
+   "origen": "Edición #26",
+   "pregunta": "¿Por qué el eclipse de 1919 podía decidir entre Newton y Einstein?",
+   "respuesta": "Los dos predecían que la luz se doblaba junto al Sol, pero Einstein predecía el doble: 1.75 segundos de arco. Había que medir cuánto."
+  },
+  {
+   "origen": "Edición #26",
+   "pregunta": "¿Cuándo empezó Gillette a regalar máquinas de afeitar?",
+   "respuesta": "Después de que vencieron sus patentes, en 1921. Mientras las tuvo, cobraba 5 dólares por la máquina."
+  },
+  {
+   "origen": "Edición #26",
+   "pregunta": "¿Con qué recurso gira Frederick Douglass su discurso del 5 de julio de 1852?",
+   "respuesta": "Con el posesivo: el 4 de julio es «de ustedes, no mío». Primero elogia los principios y luego muestra que no se cumplen."
+  }
+ ],
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hubble%27s_High-Definition_Panoramic_View_of_the_Andromeda_Galaxy_(15728352713).jpg?width=900",
+  "alt": "Vista panorámica de una enorme galaxia espiral llena de estrellas",
+  "pie": "La galaxia de Andrómeda. En 1923, Edwin Hubble encontró en ella una estrella que demostró que estaba fuera de la Vía Láctea.",
+  "credito": "Wikimedia Commons"
+ },
+ "noticias": [
+  {
+   "id": "n1",
+   "ambito": "jalisco",
+   "ambitoTexto": "Jalisco",
+   "fecha": "2026-11-17",
+   "titular": "Productores del campo anuncian bloqueos hoy en cinco carreteras de Jalisco, incluida la de Colima y la salida a Nogales",
+   "quePaso": "Productores agrícolas anunciaron posibles bloqueos este martes 17 de noviembre a partir de las 10:00. Pueden ser intermitentes, parciales o totales. Los encabeza la organización Amigos por el Campo; en la caseta de Ocotlán participa Productores Unidos de la Ciénega.\n\nLos cinco puntos anunciados: la carretera Guadalajara-Colima en el km 40, en ambos sentidos; la Guadalajara-Nogales a la altura de La Venta del Astillero, en Zapopan; la caseta de Ocotlán de la autopista Guadalajara-México; la carretera La Barca-Atotonilco; y la caseta de Tepatitlán. Hasta la noche del lunes no se confirmaba en cuáles habría cierres efectivos.",
+   "contexto": "**Hecho:** los productores acusan a la Secretaría de Agricultura (Sader) de incumplir acuerdos. Piden apoyos para la rentabilidad del maíz, pagos pendientes del trigo otoño-invierno 2024-2025 y del maíz primavera-verano 2026, seguros agrícolas y precios justos para trigo y maíz. Es una jornada nacional con 25 puntos en Jalisco, Guanajuato, Querétaro, Michoacán y Campeche. El Gobierno de Jalisco dijo que mantiene abiertos los canales de diálogo.\n\n**Interpretación:** la carretera a Colima es la ruta de la mercancía que llega por el puerto de Manzanillo. Un bloqueo de horas ahí se nota en entregas y fletes de toda la zona metropolitana.",
+   "aMiQue": "Si hoy tienes contenedores saliendo de Manzanillo, embarques a Colima o rutas hacia Nogales o Los Altos, pregunta a tu transportista por horarios alternos o adelanta salidas antes de las 10:00. Si un cliente espera entrega hoy, avísale ya del riesgo: comunicar antes cuesta menos que disculparse después.",
+   "queVigilar": "Si los bloqueos se concretan y cuánto duran; si la Sader abre una mesa con fechas de pago; y si la protesta se repite en los próximos días, como pasó con el paro de transportistas en octubre.",
+   "fuentes": [
+    {
+     "nombre": "Tribuna de la Bahía: Anuncian posibles bloqueos en cinco carreteras de Jalisco este martes 17 de noviembre (16 nov 2026)",
+     "url": "https://tribunadelabahia.com.mx/bloqueos-carreteros-jalisco-17-noviembre-2026/"
+    },
+    {
+     "nombre": "El Informador: Gobierno de Jalisco afirma que mantiene canales de comunicación abierta ante protesta de productores (16 nov 2026)",
+     "url": "https://www.informador.mx/jalisco/ante-protesta-de-productores-del-campo-prevista-para-el-martes-el-gobierno-de-jalisco-afirma-que-mantiene-canales-de-comunicacion-abierta-20261116-0161.html"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-11-17",
+   "historiaEnCurso": {
+    "id": "aranceles-eeuu-mexico",
+    "titulo": "Aranceles de EE. UU. a México y revisión del T-MEC",
+    "capitulo": 4,
+    "dondeIbamos": "El 16 de noviembre, Sheinbaum aterrizó en Shenzhen en el primer viaje de un mandatario mexicano a China desde 2017, mientras México mantiene aranceles de 5% a 50% a productos chinos y Washington vigila la triangulación."
+   },
+   "titular": "Sheinbaum se reúne con Xi Jinping en Shenzhen y pide ampliar la cooperación pese a los aranceles",
+   "quePaso": "Este martes 17, Claudia Sheinbaum y Xi Jinping tuvieron una reunión bilateral en Shenzhen, según la agencia oficial Xinhua citada por EFE. Es su primera visita a China como presidenta. Se habían visto en noviembre de 2024, en el G20 de Río de Janeiro.\n\nSegún el *Diario del Pueblo*, Sheinbaum dijo que ambos países tienen «planteamientos de desarrollo alineados» y quiso ampliar la colaboración en manufacturas, inteligencia artificial y agricultura. Xi propuso cooperar en infraestructura, tecnología y energías limpias, y llevar la relación «a un nivel superior». No se anunció ningún acuerdo concreto.",
+   "contexto": "**Hecho:** ese mismo día, Sheinbaum presentó el Plan México en el foro empresarial de la APEC para atraer inversión y reducir la dependencia de importaciones. La cumbre de líderes es el 18 y 19 de noviembre. Antes del viaje, la presidenta dijo que el comercio no sería el tema central y descartó que la cita afectara las negociaciones con Estados Unidos.\n\n**Interpretación:** México camina por una cuerda floja: cobra aranceles a China para tranquilizar a Washington, pero no quiere cerrarle la puerta a su segundo socio comercial. Por ahora, son palabras, no reglas.",
+   "aMiQue": "Para una marca que compra envases, cápsulas o maquinaria en China, hoy no cambia nada: los aranceles siguen. Lo que conviene vigilar es si de aquí sale inversión china para fabricar en México. Un proveedor chino con planta aquí podría venderte sin arancel y con menos días de flete.",
+   "queVigilar": "Qué dice Sheinbaum en la cumbre del 18 y 19; si se anuncia alguna inversión o acuerdo; la reacción de Washington, que revisa el T-MEC; y los cambios al programa IMMEX.",
+   "fuentes": [
+    {
+     "nombre": "Infobae (EFE): Xi Jinping y Claudia Sheinbaum se reúnen en Shenzhen en el marco de la APEC (17 nov 2026)",
+     "url": "https://www.infobae.com/america/agencias/2026/11/17/xi-jinping-y-claudia-sheinbaum-se-reunen-en-shenzhen-en-el-marco-de-la-apec/"
+    },
+    {
+     "nombre": "CNN en Español (EFE): Sheinbaum pide a Xi Jinping ampliar cooperación comercial con China pese a tensiones arancelarias (17 nov 2026)",
+     "url": "https://cnnespanol.cnn.com/2026/11/17/mexico/sheinbaum-xi-jinping-mexico-china-comercio-apec-efe"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-17",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 24,
+    "dondeIbamos": "El lunes 16 por la mañana, el Brent osciló cerca de 95 dólares mientras Irán aseguraba que otros dos petroleros habían chocado con minas en Ormuz, algo que nadie pudo verificar."
+   },
+   "titular": "El petróleo cae más de 3% en un día: pesa más el exceso de oferta que los ataques en Ormuz",
+   "quePaso": "El Brent llegó a 96.28 dólares el lunes temprano y cerró en 92.44, una caída de 3.55%, según CNBC citado por FinanceFeeds. El martes a las 04:30 GMT bajaba otro 0.8%, a 91.66 dólares, según Reuters. El WTI estaba en 84.99.\n\nLa caída llegó pese a nuevos incidentes: un petrolero con bandera de Panamá fue alcanzado por un «proyectil desconocido» el lunes, con un incendio en la sala de máquinas y sin heridos, según el aviso marítimo británico UKMTO. Las versiones iraníes de buques que chocaron con minas siguen sin verificarse.",
+   "contexto": "**Hecho:** la Agencia Internacional de Energía estima que en el cuarto trimestre la oferta superará a la demanda por 1.7 millones de barriles diarios. Goldman Sachs, citado por CNBC, calcula un Brent promedio de 88 dólares en 2027. Según ANZ, el tránsito por Ormuz va en 49% de sus niveles previos a la guerra.\n\n**Interpretación:** el mercado ya no reacciona a cada incidente en el Golfo; mira el exceso de barriles que viene. Eso puede cambiar rápido si un ataque daña de verdad la producción.",
+   "aMiQue": "Si el Brent se sostiene abajo de 95, el diésel y los fletes de diciembre deberían dejar de subir. Es buen momento para pedir a tu transportista que el recargo por combustible baje cuando baja el petróleo, no solo que suba cuando sube.",
+   "queVigilar": "El informe de inventarios de EE. UU. y las minutas de la Fed, el miércoles 18; la reunión de la OPEP+ del 29 de noviembre sobre la producción de 2027; y cualquier daño confirmado a buques o instalaciones.",
+   "fuentes": [
+    {
+     "nombre": "FinanceFeeds: Brent Crude Oil Price $91.66 Tuesday as Goldman Warns of a Glut (17 nov 2026)",
+     "url": "https://financefeeds.com/brent-crude-oil-price-91-66-tuesday-goldman-glut-warning-bull-96-bear-88/"
+    },
+    {
+     "nombre": "SpazioCrypto: Brent Falls Below $92 as Hormuz Attacks Fail to Dent Oil Supply (17 nov 2026)",
+     "url": "https://en.spaziocrypto.com/macroeconomics/brent-falls-below-92-hormuz-attacks-oil-price/"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "En 1929, Edwin Hubble publicó la gráfica que convenció al mundo de que el universo crece. Pero alguien lo había escrito dos años antes, en una revista belga que casi nadie leyó.",
+    "contexto": "Abril de 1920. En Washington, dos astrónomos debaten frente a la Academia de Ciencias. Harlow Shapley cree que la Vía Láctea es todo el universo. Heber Curtis cree que esas manchas en espiral que se ven con telescopio, las [[nebulosas espirales|Manchas de luz con forma de remolino; hoy sabemos que son galaxias completas, como la nuestra.]], son otras galaxias, lejísimos.\n\nNadie puede ganar porque nadie sabe medir esa distancia. Nueve años después, la pregunta no solo estaba resuelta: el universo entero resultó estar en movimiento.",
+    "pregunta": "¿Quién publicó primero que el universo se expande y calculó qué tan rápido?",
+    "opciones": [
+     "Edwin Hubble, en Estados Unidos, en 1929",
+     "Un sacerdote y físico belga, en 1927",
+     "Albert Einstein, en 1917, con su relatividad general"
+    ],
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/100inchHooker.jpg?width=900",
+     "alt": "Un gran telescopio de estructura metálica dentro de una cúpula",
+     "pie": "El telescopio Hooker de 100 pulgadas, en el Monte Wilson, California. Fue el más grande del mundo entre 1917 y 1948.",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Una V escrita con prisa",
+    "texto": "Edwin Hubble llegó al Observatorio del Monte Wilson, en California, en 1919. Había estudiado leyes en Oxford y fue boxeador aficionado. Ahora tenía en sus manos el telescopio Hooker, con un espejo de 100 pulgadas, unos 2.5 metros.\n\nLa clave para medir distancias la había dado una mujer en 1912. Henrietta Swan Leavitt, que trabajaba en Harvard clasificando placas fotográficas, notó algo en unas estrellas llamadas [[cefeidas|Estrellas que se encienden y se apagan con un ritmo regular. Cuanto más lento su ritmo, más brillan de verdad.]]: su ritmo de parpadeo revela su brillo real. Si sabes cuánto brilla algo de verdad y ves cuánto brilla desde aquí, sabes qué tan lejos está.\n\nEn octubre de 1923, Hubble fotografió la nebulosa de Andrómeda. En una placa marcó con una N una estrella que creyó una nova, una explosión. Al revisar placas anteriores vio que subía y bajaba de brillo con regularidad. Tachó la N y escribió con tinta roja: «VAR!». Era una cefeida.\n\nCon la regla de Leavitt, la cuenta dio unos 900,000 años luz. La Vía Láctea mide mucho menos. Andrómeda no estaba dentro de nuestra galaxia: era otra galaxia. El resultado se leyó en una reunión de astrónomos el 1 de enero de 1925. El Gran Debate había terminado.\n\nPero Hubble siguió. Desde 1912, Vesto Slipher, en Arizona, medía la velocidad de las nebulosas con el [[corrimiento al rojo|La luz de algo que se aleja se estira hacia el rojo, como baja el tono de la sirena de una ambulancia que se va.]]. Casi todas se alejaban. Hubble y su asistente Milton Humason juntaron esas velocidades con sus distancias. En marzo de 1929 publicaron una gráfica con 24 galaxias: cuanto más lejos está una galaxia, más rápido se aleja.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cepheid_Variable_Star_V1_in_Andromeda_Galaxy_(2025-001).jpg?width=900",
+     "alt": "Composición con una placa fotográfica antigua y una imagen moderna de una estrella en Andrómeda",
+     "pie": "La estrella V1 de Andrómeda, vista por el telescopio espacial Hubble, junto a la placa de 1923 donde Hubble escribió «VAR!».",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "giro",
+    "titulo": "El sacerdote que llegó primero",
+    "texto": "La respuesta: **un sacerdote belga, en 1927.** Georges Lemaître, físico de la Universidad de Lovaina, publicó en francés, en los *Anales de la Sociedad Científica de Bruselas*, que el universo se expande. Usó las ecuaciones de Einstein y los datos de Slipher y Hubble, y calculó un ritmo de expansión parecido al que Hubble publicaría dos años después.\n\nCasi nadie lo leyó. Cuando se tradujo al inglés, en 1931, el propio Lemaître quitó el párrafo de su cálculo, porque ya existían datos mejores. Por eso, durante décadas, la ley llevó solo el nombre de Hubble.\n\nEl giro tiene otra capa: Hubble nunca defendió del todo que el universo se expanda. Publicó la relación entre distancia y velocidad y fue prudente sobre su significado. Einstein, que había añadido a sus ecuaciones una [[constante cosmológica|Término que Einstein agregó en 1917 para que el universo saliera quieto, sin crecer ni encogerse.]] para que el universo fuera estático, visitó el Monte Wilson en 1931 y la abandonó.\n\nEn octubre de 2018, la Unión Astronómica Internacional votó recomendar un nombre nuevo: **ley de Hubble-Lemaître**. 78% de los votos fue a favor.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lemaitre-1.jpg?width=900",
+     "alt": "Retrato en blanco y negro de un hombre con alzacuellos de sacerdote",
+     "pie": "Georges Lemaître, sacerdote y físico belga. En 1927 propuso que el universo se expande.",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "La vela estándar",
+    "texto": "Hubble no podía ir a Andrómeda con una cinta métrica. Usó algo cuyo brillo real conocía, una cefeida, y comparó ese brillo con el que veía. Los astrónomos llaman a eso una [[vela estándar|Objeto astronómico cuyo brillo real se conoce, y que sirve para calcular distancias.]].\n\nLa herramienta sirve para cualquier cosa que no puedes medir directo: **busca una referencia que sí conozcas y mide la diferencia.** No sabes cuánto venderá tu nuevo producto, pero sabes cuánto vendió uno parecido en su primer año. No sabes cuánto vale un local, pero sabes en cuánto se vendieron tres iguales en la misma calle.\n\nLa condición es la misma que en el cielo: la vela debe ser de verdad estándar. Si comparas con algo distinto, el cálculo sale mal con toda seguridad. A Hubble le pasó: su constante salió unas siete veces más grande que la de hoy, en parte porque había dos tipos de cefeidas y él las mezcló."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Velas estándar en México y en los negocios",
+    "texto": "**En un avalúo.** Cuando un perito valúa una casa en Zapopan, usa el método de comparables: busca casas parecidas vendidas cerca y ajusta por diferencias. Es una vela estándar inmobiliaria. Si los comparables están mal elegidos, el valor sale mal.\n\n**En una marca nueva.** Antes de lanzar una bebida premium, puedes estimar el mercado con una referencia pública: cuántos puntos de venta tiene una marca comparable y cuánto vende cada uno. No es exacto, pero te da el orden de magnitud. Y así como Hubble se equivocó al mezclar dos tipos de cefeidas, el error típico es comparar con una marca que juega en otra categoría de precio."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿Qué decisión de esta semana estás tomando a ciegas, sin una referencia conocida con qué compararla?",
+    "texto": "Busca una sola vela estándar: un caso parecido, un precio de mercado, un dato del año pasado. Una referencia imperfecta es mejor que ninguna, siempre que sepas en qué se parece y en qué no."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Lo que no puedes medir directo, mídelo contra algo que conoces. Y asegúrate de que lo que conoces de verdad se parece."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Astronomy: How Edwin Hubble won the Great Debate",
+   "url": "https://www.astronomy.com/science/how-edwin-hubble-won-the-great-debate/",
+   "minutos": 10
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Qué escribió Hubble en su placa de octubre de 1923 y por qué importaba?",
+    "respuesta": "«VAR!»: la estrella era una cefeida variable. Con la regla de Leavitt pudo calcular que Andrómeda estaba fuera de la Vía Láctea."
+   },
+   {
+    "pregunta": "¿Por qué la ley de Hubble se llama hoy de Hubble-Lemaître?",
+    "respuesta": "Porque Georges Lemaître publicó en 1927 que el universo se expande y estimó su ritmo. En 2018, la Unión Astronómica Internacional recomendó el nombre con 78% de los votos."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Carnegie Science: la placa de Hubble de M31 con la marca «VAR!»",
+    "url": "https://carnegiescience.edu/about/history/archives/plate-archives/m31var"
+   },
+   {
+    "nombre": "Hubble (1929): A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae, PNAS (resumen en NASA ADS)",
+    "url": "https://ui.adsabs.harvard.edu/abs/1929PNAS...15..168H/abstract"
+   },
+   {
+    "nombre": "Unión Astronómica Internacional: comunicado iau1812 sobre la ley de Hubble-Lemaître (2018)",
+    "url": "https://iau.org/news/pressreleases/detail/iau1812"
+   },
+   {
+    "nombre": "Live Science: Edwin Hubble uncovers the vastness of the universe, Oct. 5, 1923",
+    "url": "https://www.livescience.com/space/astronomy/science-history-edwin-hubble-uncovers-the-vastness-of-the-universe-with-discovery-of-standard-candle-oct-5-1923"
+   },
+   {
+    "nombre": "Astronomy: How Edwin Hubble won the Great Debate",
+    "url": "https://www.astronomy.com/science/how-edwin-hubble-won-the-great-debate/"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Historia y geopolítica",
+   "pilar": "mundo",
+   "formato": "diaQueCambio",
+   "titulo": "17 de noviembre de 1869: se abre el canal de Suez",
+   "contexto": "Hace 157 años, un día como hoy, un yate francés llamado *L'Aigle* encabezó una fila de barcos por un canal nuevo en el desierto de Egipto. A bordo iba la emperatriz Eugenia, esposa de Napoleón III. Desde ese día, un barco podía ir del Mediterráneo al mar Rojo sin rodear África.\n\nLa obra la empujó un diplomático francés, Ferdinand de Lesseps. Empezó en abril de 1859 en lo que sería Port Said y la pagaron, sobre todo, accionistas franceses y el gobierno egipcio. Miles de egipcios trabajaron en ella bajo un sistema de [[trabajo forzado|La corvea: trabajo obligatorio que el Estado exigía a los campesinos. Se usó en los primeros años de la obra.]]; cuántos murieron sigue en discusión.",
+   "pregunta": "Egipto tenía 44% de las acciones del canal. ¿Qué pasó con ellas seis años después?",
+   "opciones": [
+    "Francia las confiscó tras la guerra de 1870",
+    "Egipto, endeudado, se las vendió a Gran Bretaña",
+    "Se repartieron entre los obreros que lo construyeron"
+   ],
+   "correcta": 1,
+   "revelacion": "**Egipto, endeudado, las vendió a Gran Bretaña en 1875.** El jedive Ismail Pachá había gastado sin freno en obras y fiestas, incluida la inauguración. En noviembre de 1875 vendió sus 176,602 acciones por unos 4 millones de libras. El primer ministro británico, Benjamin Disraeli, cerró la compra con un préstamo de los Rothschild, sin esperar al Parlamento.\n\nGran Bretaña, que se había opuesto al canal, se quedó con la llave de la ruta a la India. En 1882 ocupó Egipto. El canal volvió a manos egipcias hasta el 26 de julio de 1956, cuando Gamal Abdel Nasser lo nacionalizó y provocó la [[crisis de Suez|Invasión de Israel, Reino Unido y Francia a Egipto en 1956, detenida por la presión de EE. UU. y la URSS.]].\n\nHoy, cuando lees de Ormuz o del mar Rojo, ves la misma lección: quien controla un paso estrecho controla parte del comercio mundial. Un dato que casi todos cuentan mal: la ópera *Aida* de Verdi no se estrenó con la inauguración. Se estrenó en El Cairo en diciembre de 1871.",
+   "idea": "Construir la infraestructura no garantiza quedarse con ella: el que la controla es el que tiene las finanzas sanas.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/L%27inauguration_du_canal_de_Suez,_17_November_1869_Gal18_riou_001f.jpg?width=900",
+    "alt": "Pintura de una fila de barcos de vapor y velas entrando a un canal entre dunas",
+    "pie": "La inauguración del canal de Suez, 17 de noviembre de 1869, según el pintor Édouard Riou.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: Canal de Suez",
+    "url": "https://es.wikipedia.org/wiki/Canal_de_Suez"
+   },
+   "wiki": "Canal de Suez",
+   "claves": [
+    {
+     "nombre": "Ferdinand de Lesseps",
+     "quien": "Diplomático francés que consiguió la concesión y dirigió la obra; después fracasó en Panamá.",
+     "wiki": "Ferdinand de Lesseps"
+    },
+    {
+     "nombre": "Ismail Pachá",
+     "quien": "Jedive de Egipto que inauguró el canal y, endeudado, vendió las acciones egipcias en 1875.",
+     "wiki": "Ismail Pachá"
+    },
+    {
+     "nombre": "Historia del Canal de Panamá",
+     "quien": "El segundo gran canal de Lesseps, que terminó en quiebra y escándalo.",
+     "wiki": "Historia del Canal de Panamá"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué hizo Egipto con sus acciones del canal de Suez en 1875?",
+    "respuesta": "Se las vendió a Gran Bretaña, unas 176,602 acciones por unos 4 millones de libras. Disraeli las compró con un préstamo de los Rothschild."
+   }
+  },
+  {
+   "materia": "El cosmos",
+   "pilar": "futuro",
+   "formato": "adivinaNumero",
+   "titulo": "Voyager 1 llega mañana a un día luz de la Tierra",
+   "contexto": "El 5 de septiembre de 1977 despegó de Florida una sonda del tamaño de un coche pequeño. Visitó Júpiter y Saturno, y siguió de largo. En 2012 se volvió el primer objeto humano en salir de la burbuja de viento solar que rodea a nuestro sistema.\n\nSigue funcionando. Sus señales viajan a la velocidad de la luz, unos 300,000 kilómetros por segundo, y las escuchan las grandes antenas de la [[Red del Espacio Profundo|Antenas de la NASA en California, España y Australia que se turnan para hablar con las sondas lejanas.]].",
+   "pregunta": "¿Cuánto tarda hoy un mensaje de la Tierra en llegar a Voyager 1?",
+   "opciones": [
+    "Unas 3 horas",
+    "Unas 12 horas",
+    "Casi 24 horas"
+   ],
+   "correcta": 2,
+   "revelacion": "**Casi 24 horas.** Y mañana, miércoles 18 de noviembre, se cumple el día completo. Según la NASA, Voyager 1 llega a un **día luz** de la Tierra a las 10:16:07 UTC, que en Guadalajara son las 4:16 de la madrugada. La distancia: unos 25,900 millones de kilómetros, 173 veces la que hay entre la Tierra y el Sol.\n\nEso significa que si los ingenieros mandan una orden, la respuesta llega dos días después. Para celebrarlo, la NASA invitó a encender luces esta noche, después del atardecer, y hacer en clave Morse las letras V, G y R.\n\nLa sonda tardó 49 años en recorrer lo que la luz recorre en un día. Es la medida más honesta de lo grande que es el espacio. Andrómeda, la galaxia de la historia de hoy, está a unos 2.5 millones de años luz.",
+   "idea": "Nuestra máquina más lejana necesitó medio siglo para alejarse un solo día de luz.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Voyager.jpg?width=900",
+    "alt": "Ilustración de una sonda espacial con una gran antena parabólica",
+    "pie": "Las sondas Voyager llevan una antena de 3.7 metros para hablar con la Tierra.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "NASA Science: Where are Voyager 1 and Voyager 2 now?",
+    "url": "https://science.nasa.gov/mission/voyager/where-are-voyager-1-and-voyager-2-now/"
+   },
+   "profundizar": {
+    "titulo": "EarthSky: Voyager 1 is 1 light-day from Earth November 17-18",
+    "url": "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/"
+   },
+   "wiki": "Voyager 1",
+   "claves": [
+    {
+     "nombre": "Disco de oro de las Voyager",
+     "quien": "El disco con sonidos, música e imágenes de la Tierra que cada sonda lleva a bordo.",
+     "wiki": "Disco de oro de las Voyager"
+    },
+    {
+     "nombre": "Un punto azul pálido",
+     "quien": "La foto de la Tierra que tomó Voyager 1 en 1990 a unos 6,000 millones de kilómetros.",
+     "wiki": "Un punto azul pálido"
+    },
+    {
+     "nombre": "Año luz",
+     "quien": "La distancia que recorre la luz en un año: unos 9.46 billones de kilómetros.",
+     "wiki": "Año luz"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuándo llega Voyager 1 a un día luz de la Tierra y qué distancia es?",
+    "respuesta": "El 18 de noviembre de 2026 a las 10:16:07 UTC, según la NASA. Unos 25,900 millones de kilómetros."
+   }
+  },
+  {
+   "materia": "Música",
+   "pilar": "cultura",
+   "formato": "miraEscucha",
+   "titulo": "Las cuatro estaciones: los poemas escondidos en la partitura",
+   "contexto": "Las has oído en elevadores, bodas y comerciales. Pero casi nadie sabe que *Las cuatro estaciones* de Antonio Vivaldi vienen con instrucciones. En 1725, el editor Michel-Charles Le Cène las publicó en Ámsterdam dentro de una colección llamada *Il cimento dell'armonia e dell'inventione*, «el duelo entre la armonía y la invención».\n\nCada concierto llevaba impreso un soneto. Y Vivaldi escribió versos del poema sobre la partitura, en el lugar exacto donde la música los cuenta. Es [[música programática|Música instrumental que narra una escena o una historia sin palabras.]] un siglo antes de que la palabra existiera.",
+   "pregunta": "Pon *La primavera*, segundo movimiento: un pastor duerme bajo los árboles. Debajo de los violines, la viola repite dos notas una y otra vez. ¿Qué indica la partitura?",
+   "opciones": [
+    "Su perro, que ladra mientras él duerme",
+    "El tic tac de un reloj de pared",
+    "Las gotas de una lluvia suave"
+   ],
+   "correcta": 0,
+   "revelacion": "**Es el perro.** Vivaldi anotó sobre esa línea: «el perro que ladra». Los violines son las hojas que se mueven y el pastor dormido; la viola, un ladrido terco que no deja de sonar.\n\nUna vez que lo sabes, oyes las escenas. En *El verano*, el violín imita al cuco, la tórtola y el jilguero antes de la tormenta. En *El invierno*, las notas cortas y repetidas son dientes que castañetean de frío. En *El otoño*, la caza: trompas imitadas por las cuerdas y un animal que huye.\n\nCómo escucharla: busca una grabación con instrumentos de época y sigue el soneto mientras suena. No es música de fondo. Es una película sin imágenes de casi 300 años.",
+   "idea": "Saber qué buscar convierte la música de fondo en un relato.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vivaldi.jpg?width=900",
+    "alt": "Retrato pintado de un hombre con peluca blanca y un violín",
+    "pie": "Antonio Vivaldi, el «cura rojo» de Venecia, maestro de violín en el Ospedale della Pietà.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: Las cuatro estaciones",
+    "url": "https://es.wikipedia.org/wiki/Las_cuatro_estaciones"
+   },
+   "wiki": "Las cuatro estaciones",
+   "claves": [
+    {
+     "nombre": "Antonio Vivaldi",
+     "quien": "Compositor y violinista veneciano del barroco; escribió cientos de conciertos.",
+     "wiki": "Antonio Vivaldi"
+    },
+    {
+     "nombre": "Música programática",
+     "quien": "La música que cuenta escenas; Vivaldi es uno de sus primeros ejemplos célebres.",
+     "wiki": "Música programática"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué instrumento imita al perro en *La primavera* de Vivaldi?",
+    "respuesta": "La viola, en el segundo movimiento, con dos notas repetidas. Vivaldi lo anotó en la partitura junto al soneto."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "comoFunciona",
+   "titulo": "El plan señuelo: la suscripción que nadie compraba y todos necesitaban",
+   "contexto": "El economista Dan Ariely vio un anuncio de suscripción de *The Economist* con tres opciones. Solo web: 59 dólares al año. Solo papel: 125. Papel y web: 125.\n\n¿Quién pagaría 125 solo por el papel si por lo mismo te dan papel y web? Nadie. Ariely sospechó que esa opción no estaba ahí para venderse. Hizo la prueba con 100 alumnos del MIT y lo contó en su libro *Las trampas del deseo* (2008).",
+   "pregunta": "Con las tres opciones, 84 de 100 eligieron papel y web. Cuando Ariely quitó la opción «solo papel», ¿qué pasó?",
+   "opciones": [
+    "Nada: los mismos 84 eligieron papel y web",
+    "Solo 32 eligieron papel y web; la mayoría se fue a la opción barata",
+    "Todos eligieron papel y web"
+   ],
+   "correcta": 1,
+   "revelacion": "**Se volteó la elección.** Sin el señuelo, 68 eligieron solo web y 32 papel y web. Con las tres opciones, 16 eligieron web, nadie el papel solo y 84 el paquete. En dinero, con 100 clientes, pasar de 8,012 a 11,444 dólares, solo por una opción que nadie compra.\n\nEs el [[efecto señuelo|Una opción claramente peor que otra hace que esa otra parezca mejor negocio.]], descrito por los investigadores Huber, Payne y Puto en 1982. Funciona porque no sabemos cuánto vale algo en abstracto; lo juzgamos comparando. En un producto digital, cada plan extra casi no cuesta: el contenido ya está hecho.\n\nDos advertencias honestas. Fue un ejercicio en clase, no ventas reales, y estudios posteriores encontraron efectos más débiles con productos reales. Y otro trabajo de Ariely, sobre honestidad, fue retractado en 2021 por datos falsos, aunque no este experimento. Úsalo como hipótesis para probar, no como garantía.",
+   "idea": "La gente no compra precios, compra comparaciones: diseña qué compara.",
+   "fuente": {
+    "nombre": "Wikipedia: Efecto señuelo",
+    "url": "https://es.wikipedia.org/wiki/Efecto_se%C3%B1uelo"
+   },
+   "wiki": "Efecto señuelo",
+   "claves": [
+    {
+     "nombre": "The Economist",
+     "quien": "Semanario británico fundado en 1843; su anuncio de suscripción inspiró el experimento.",
+     "wiki": "The Economist"
+    },
+    {
+     "nombre": "Sesgo cognitivo",
+     "quien": "Atajo mental que nos hace juzgar de forma predecible y no siempre racional.",
+     "wiki": "Sesgo cognitivo"
+    }
+   ],
+   "repaso": {
+    "pregunta": "En el experimento de Ariely, ¿cuántos eligieron papel y web con señuelo y sin él?",
+    "respuesta": "84 de 100 con la opción «solo papel» presente; 32 de 100 cuando se quitó."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Filosofía para vivir",
+   "pilar": "mente",
+   "epoca": "1673",
+   "titulo": "Spinoza rechazó una cátedra para seguir puliendo lentes",
+   "dato": "En 1673, el elector del Palatinado le ofreció a Baruch Spinoza una cátedra de filosofía en la Universidad de Heidelberg, con «libertad para filosofar». Spinoza la rechazó y siguió ganándose la vida puliendo lentes.",
+   "explicacion": "La oferta tenía una condición: que no perturbara la religión establecida. Spinoza respondió que no sabía dónde terminaría esa libertad. Prefería un oficio modesto a una cátedra que lo obligara a medir cada palabra. Su *Tratado teológico-político* ya circulaba sin su nombre y escandalizaba a media Europa.\n\nMurió en 1677, a los 44 años, con su gran obra, la *Ética*, sin publicar. La independencia le costó dinero y prestigio, y le dio lo que buscaba: pensar sin dueño.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Spinoza.jpg?width=900",
+    "alt": "Retrato pintado de un hombre de cabello largo y oscuro",
+    "pie": "Baruch Spinoza, filósofo de Ámsterdam que vivía de pulir lentes.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Encyclopaedia Britannica: Benedict de Spinoza (resumen)",
+    "url": "https://www.britannica.com/summary/Benedict-de-Spinoza"
+   },
+   "wiki": "Baruch Spinoza",
+   "claves": [
+    {
+     "nombre": "Tratado teológico-político",
+     "quien": "Su libro de 1670, publicado sin nombre, que defendía la libertad de pensamiento.",
+     "wiki": "Tratado teológico-político"
+    },
+    {
+     "nombre": "Filosofía de Spinoza",
+     "quien": "Su idea de Dios como naturaleza y de la libertad como entender las causas.",
+     "wiki": "Filosofía de Spinoza"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué rechazó Spinoza en 1673 y por qué?",
+    "respuesta": "Una cátedra de filosofía en Heidelberg. Temía que la condición de no perturbar la religión limitara su libertad de pensar."
+   }
+  },
+  {
+   "materia": "Relaciones y vida social",
+   "pilar": "caracter",
+   "epoca": "1992",
+   "titulo": "El límite de 150 amigos es más frágil de lo que parece",
+   "dato": "En 1992, el antropólogo Robin Dunbar propuso que el cerebro humano solo puede mantener unas 150 relaciones estables. En 2021, un equipo de la Universidad de Estocolmo repitió el cálculo con datos más nuevos: el intervalo de confianza iba de 2 a 520.",
+   "explicacion": "Dunbar llegó a su número comparando el tamaño del [[neocórtex|La capa exterior del cerebro, ligada al pensamiento y a la vida social.]] con el tamaño de los grupos de distintos primates, y extrapolando a los humanos. La idea es elegante y se volvió famosa: la usan empresas para dividir equipos y redes sociales para explicar sus límites.\n\nPatrik Lindenfors y sus colegas concluyeron que esos datos no sostienen un número concreto. Dunbar respondió que su cifra tiene apoyo en otros estudios. Lo seguro: tenemos círculos de cercanía distintos. Lo dudoso: que exista un techo exacto de 150.",
+   "fuente": {
+    "nombre": "Universidad de Estocolmo: New study deconstructs Dunbar's number (5 may 2021)",
+    "url": "https://www.su.se/english/news/articles/2021-05-05-new-study-deconstructs-dunbars-number---yes-you-can-have-more-than-150-friends"
+   },
+   "profundizar": {
+    "titulo": "Lindenfors, Wartel y Lind: 'Dunbar's number' deconstructed, Biology Letters (2021)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8103230"
+   },
+   "wiki": "Número de Dunbar",
+   "claves": [
+    {
+     "nombre": "Robin Dunbar",
+     "quien": "Antropólogo británico de Oxford que propuso el número en 1992.",
+     "wiki": "Robin Ian MacDonald Dunbar"
+    },
+    {
+     "nombre": "Red social",
+     "quien": "La estructura de vínculos entre personas que estudian sociólogos y psicólogos.",
+     "wiki": "Red social"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué encontró el equipo de Estocolmo en 2021 sobre el número de Dunbar?",
+    "respuesta": "Que con datos nuevos el intervalo de confianza iba de 2 a 520 personas: demasiado amplio para sostener un límite exacto de 150."
+   }
+  },
+  {
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "epoca": "1854",
+   "titulo": "Quitar la manija de la bomba no detuvo la epidemia",
+   "dato": "La historia dice que John Snow frenó el cólera de Londres en 1854 al quitar la manija de una bomba de agua en Broad Street. Cuando la quitaron, el 8 de septiembre, la epidemia ya iba en descenso. El propio Snow lo reconoció.",
+   "explicacion": "Muchos vecinos habían huido y los casos ya bajaban. Lo que hizo grande a Snow no fue el gesto, sino la evidencia: contó muertes casa por casa, las puso en un mapa y mostró que se agrupaban alrededor de esa bomba. En una época en que se creía que el cólera venía del «mal aire», demostró que viajaba en el agua.\n\nLa manija sí pudo evitar un rebrote. Después, el pastor Henry Whitehead encontró el origen: un pozo negro con pañales de una bebé enferma, a menos de un metro de la bomba.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Snow_memorial_and_pub.jpg?width=900",
+    "alt": "Réplica de una bomba de agua antigua en una calle de Londres, junto a un pub",
+    "pie": "La réplica de la bomba en Broadwick Street, Londres, junto al pub que lleva el nombre de John Snow.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "UCLA Fielding School of Public Health: The Broad Street pump outbreak",
+    "url": "https://epi-snow.ph.ucla.edu/Stream2_BSPoutbreak_e.html"
+   },
+   "wiki": "Epidemia de cólera de Broad Street",
+   "claves": [
+    {
+     "nombre": "Teoría microbiana de la enfermedad",
+     "quien": "La idea de que los microbios causan enfermedades; reemplazó a la del «mal aire».",
+     "wiki": "Teoría microbiana de la enfermedad"
+    },
+    {
+     "nombre": "Epidemiología",
+     "quien": "La ciencia que estudia cómo se distribuyen las enfermedades; Snow es uno de sus fundadores.",
+     "wiki": "Epidemiología"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué la manija de la bomba de Broad Street no fue lo que detuvo la epidemia de 1854?",
+    "respuesta": "Porque cuando la quitaron, el 8 de septiembre, los casos ya iban en descenso. El aporte de Snow fue probar con datos que el cólera viajaba en el agua."
+   }
+  },
+  {
+   "materia": "Arquitectura y diseño",
+   "pilar": "cultura",
+   "epoca": "2019",
+   "titulo": "La Sagrada Familia se construyó 137 años sin permiso",
+   "dato": "Las obras de la Sagrada Familia de Barcelona empezaron en 1882. El permiso de construcción llegó en junio de 2019: 137 años después.",
+   "explicacion": "En 1885 se pidió la licencia al ayuntamiento de Sant Martí de Provençals, entonces un pueblo aparte de Barcelona. Nunca hubo respuesta. Cuando el pueblo se integró a la ciudad, el trámite quedó en el limbo, y la obra de Antoni Gaudí siguió durante más de un siglo sin papeles en regla.\n\nEn 2019, el ayuntamiento y la fundación del templo llegaron a un acuerdo: unos 4.6 millones de euros por la licencia y 36 millones en diez años para mejorar el transporte y los accesos del barrio. Es un recordatorio útil para cualquier abogado: lo informal puede durar mucho, pero tarde o temprano se paga.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sagrada_Fam%C3%ADlia_(2019).jpg?width=900",
+    "alt": "Basílica con torres altas y grúas de construcción",
+    "pie": "La Sagrada Familia en 2019, el año en que por fin obtuvo su licencia de obras.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Catalan News: Sagrada Família finally gets building permit 134 years since applying",
+    "url": "https://www.catalannews.com/life-style/item/sagrada-familia-finally-gets-building-permit-134-years-since-applying"
+   },
+   "profundizar": {
+    "titulo": "Dezeen: Antoni Gaudí's Sagrada Familia gets building permit after 137 years (2019)",
+    "url": "https://www.dezeen.com/2019/06/10/sagrada-familia-antoni-gaudi-building-permit-barcelona/"
+   },
+   "wiki": "Templo Expiatorio de la Sagrada Familia",
+   "claves": [
+    {
+     "nombre": "Antoni Gaudí",
+     "quien": "Arquitecto catalán que dedicó a la Sagrada Familia sus últimos 43 años.",
+     "wiki": "Antoni Gaudí"
+    },
+    {
+     "nombre": "Barcelona",
+     "quien": "La ciudad que absorbió al pueblo de Sant Martí de Provençals y heredó el trámite pendiente.",
+     "wiki": "Barcelona"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuándo obtuvo la Sagrada Familia su licencia de obras?",
+    "respuesta": "En junio de 2019, 137 años después de empezar la obra. El permiso se había pedido en 1885."
+   }
+  },
+  {
+   "materia": "Historia y geopolítica",
+   "pilar": "mundo",
+   "epoca": "1896",
+   "titulo": "La guerra más corta duró menos que un partido de futbol",
+   "dato": "El 27 de agosto de 1896, Gran Bretaña y el sultanato de Zanzíbar libraron una guerra que duró entre 38 y 45 minutos, según la fuente. Es la más corta registrada.",
+   "explicacion": "El sultán Hamad murió el 25 de agosto y su primo Khalid tomó el palacio sin el visto bueno británico, que exigía aprobar al sucesor. Londres dio un ultimátum hasta las 9:00 de la mañana. Khalid no se rindió y a las 9:02 los barcos británicos abrieron fuego contra el palacio.\n\nDel lado de Zanzíbar hubo unos 500 muertos o heridos; del lado británico, un marinero herido. Khalid huyó al consulado alemán. La guerra fue corta porque la diferencia de fuerza era enorme: es menos una batalla que una lección sobre quién mandaba en el océano Índico.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zanzibar_palace_after_low.JPG?width=900",
+    "alt": "Fotografía antigua de un palacio en ruinas tras un bombardeo",
+    "pie": "El palacio del sultán de Zanzíbar después del bombardeo de 1896.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia: Guerra anglo-zanzibariana",
+    "url": "https://es.wikipedia.org/wiki/Guerra_anglo-zanzibariana"
+   },
+   "wiki": "Guerra anglo-zanzibariana",
+   "claves": [
+    {
+     "nombre": "Khalid de Zanzíbar",
+     "quien": "El aspirante que tomó el palacio y perdió la guerra en menos de una hora.",
+     "wiki": "Khalid de Zanzíbar"
+    },
+    {
+     "nombre": "Sultanato de Zanzíbar",
+     "quien": "Estado de la costa de África oriental, entonces bajo protectorado británico.",
+     "wiki": "Sultanato de Zanzíbar"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto duró la guerra anglo-zanzibariana de 1896?",
+    "respuesta": "Entre 38 y 45 minutos, según la fuente. Empezó a las 9:02 del 27 de agosto, al vencer el ultimátum británico."
+   }
+  },
+  {
+   "materia": "Economía y mercados",
+   "pilar": "patrimonio",
+   "epoca": "Siglo I",
+   "titulo": "No hay pruebas de que a los romanos les pagaran con sal",
+   "dato": "Se repite que «salario» viene de que a los soldados romanos les pagaban con sal. La única fuente antigua es una frase de Plinio el Viejo, y no dice eso.",
+   "explicacion": "En su *Historia natural*, del siglo I, Plinio habla de la importancia de la sal y dice que de ahí viene la palabra *salarium*. No dice que se pagara en sal. Los documentos de pago romanos que sobreviven muestran sueldos en monedas, el [[stipendium|La paga en dinero de los soldados romanos.]].\n\nLo más probable es que *salarium* fuera una asignación en dinero, quizá ligada en su origen a comprar sal, o que la palabra tenga otra historia. El dato real es más interesante que el mito: el dinero ganó porque se puede contar, guardar y cambiar, y la sal no.",
+   "fuente": {
+    "nombre": "Peter Gainsford, Kiwi Hellenist: Salt and salary — were Roman soldiers paid in salt? (2017)",
+    "url": "https://kiwihellenist.blogspot.com/2017/01"
+   },
+   "wiki": "Salario",
+   "claves": [
+    {
+     "nombre": "Plinio el Viejo",
+     "quien": "Naturalista romano del siglo I, autor de la *Historia natural*.",
+     "wiki": "Plinio el Viejo"
+    },
+    {
+     "nombre": "Historia de la sal",
+     "quien": "Cómo la sal fue moneda de cambio, impuesto y motivo de guerras.",
+     "wiki": "Historia de la sal"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Hay pruebas de que a los soldados romanos se les pagara con sal?",
+    "respuesta": "No. La única fuente antigua es Plinio el Viejo, que liga la palabra *salarium* a la sal, pero no dice que se pagara en sal. Los sueldos eran en monedas."
+   }
+  },
+  {
+   "materia": "IA y el futuro",
+   "pilar": "futuro",
+   "epoca": "1966",
+   "titulo": "La secretaria que pidió privacidad para hablar con un programa",
+   "dato": "En 1966, Joseph Weizenbaum, del MIT, publicó ELIZA, un programa que imitaba a un terapeuta repitiendo tus frases en forma de pregunta. Su secretaria, que lo vio programarlo, le pidió que saliera del cuarto para poder conversar con él a solas.",
+   "explicacion": "ELIZA no entendía nada. Buscaba palabras clave y devolvía plantillas: si escribías «estoy triste», preguntaba por qué estabas triste. Aun así, la gente le contaba intimidades. Weizenbaum se asustó de lo fácil que era que alguien atribuyera comprensión a una máquina.\n\nEse fenómeno hoy se llama efecto ELIZA. Weizenbaum pasó el resto de su vida advirtiendo sobre él, en libros como *Computer Power and Human Reason* (1976). Con los asistentes de IA actuales, su advertencia de hace 60 años está más vigente que nunca.",
+   "fuente": {
+    "nombre": "IEEE Spectrum: Why people demanded privacy to confide in the world's first chatbot",
+    "url": "https://spectrum.ieee.org/why-people-demanded-privacy-to-confide-in-the-worlds-first-chatbot"
+   },
+   "wiki": "Bot conversacional",
+   "claves": [
+    {
+     "nombre": "Prueba de Turing",
+     "quien": "La propuesta de Alan Turing (1950) para juzgar si una máquina conversa como humano.",
+     "wiki": "Prueba de Turing"
+    },
+    {
+     "nombre": "Procesamiento de lenguaje natural",
+     "quien": "La rama de la informática que enseña a las máquinas a manejar idiomas; ELIZA es uno de sus hitos.",
+     "wiki": "Historia del procesamiento de lenguaje natural"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué le pidió la secretaria de Weizenbaum cuando probó ELIZA?",
+    "respuesta": "Que saliera del cuarto para conversar a solas con el programa, aunque sabía que era solo código."
+   }
+  },
+  {
+   "materia": "Oficios del lujo y estilo",
+   "pilar": "gusto",
+   "epoca": "1921",
+   "titulo": "Chanel N.º 5 no inventó los aldehídos: los subió de volumen",
+   "dato": "Se dice que Chanel N.º 5, de 1921, fue el primer perfume con aldehídos sintéticos. No es así: otros perfumes ya los usaban. Lo nuevo fue la dosis, mucho más alta de lo habitual.",
+   "explicacion": "Los [[aldehídos|Compuestos químicos de olor intenso; en perfumería dan una sensación limpia, brillante y como de jabón fino.]] dan al N.º 5 su brillo abstracto: no huele a una flor concreta, sino a algo nuevo. El perfumista Ernest Beaux, formado en Rusia, presentó varias muestras numeradas a Coco Chanel. Ella eligió la quinta.\n\nEn el lujo, la innovación casi nunca es un ingrediente inédito. Es una decisión de proporción: usar algo conocido con una audacia que nadie se había permitido. Así se reconoce un oficio maduro.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/CHANEL_No5_parfum.jpg?width=900",
+    "alt": "Frasco rectangular de perfume con tapón facetado",
+    "pie": "El frasco del N.º 5, casi sin cambios desde los años veinte.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Society of Chemical Industry (SCI): Whiff of success (2008)",
+    "url": "https://www.soci.org/chemistry-and-industry/cni-data/2008/24/whiff-of-success"
+   },
+   "wiki": "Chanel n.º 5",
+   "claves": [
+    {
+     "nombre": "Coco Chanel",
+     "quien": "Diseñadora francesa que lanzó el perfume y le dio su nombre.",
+     "wiki": "Coco Chanel"
+    },
+    {
+     "nombre": "Aldehído",
+     "quien": "La familia química de los compuestos que dan al N.º 5 su brillo.",
+     "wiki": "Aldehído"
+    },
+    {
+     "nombre": "Perfumista",
+     "quien": "El oficio de Ernest Beaux: componer fórmulas de olor.",
+     "wiki": "Perfumista"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué tuvo de nuevo Chanel N.º 5 respecto a los aldehídos?",
+    "respuesta": "No fue el primero en usarlos; los usó en una dosis mucho más alta de lo habitual."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "El Príncipe",
+  "autor": "Nicolás Maquiavelo",
+  "capitulo": {
+   "numero": 3,
+   "total": 6,
+   "titulo": "Armas propias y mercenarios"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Santi_di_Tito_-_Niccolo_Machiavelli%27s_portrait_headcrop.jpg?width=900",
+   "alt": "Retrato renacentista de un hombre delgado vestido de negro",
+   "pie": "Nicolás Maquiavelo, retratado por Santi di Tito. En 1506 organizó una milicia para Florencia.",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "¿Le confiarías la seguridad de tu casa a alguien que solo está ahí por la paga?\n\nMaquiavelo creía que la Italia de su tiempo había hecho exactamente eso, y que por eso estaba en ruinas. En los capítulos XII a XIV de *El Príncipe* deja de hablar de cómo se ganan los Estados y pasa a la pregunta que, para él, decide todo lo demás: ¿con qué soldados los defiendes?\n\nNo era un tema abstracto. Desde 1494, ejércitos franceses, españoles y alemanes cruzaban Italia a su antojo. Las ciudades italianas, ricas y cultas, se defendían con [[condotieros|Jefes militares que alquilaban su ejército a quien les pagara; dominaron las guerras italianas de los siglos XIV y XV.]]: capitanes profesionales que vendían su tropa al mejor postor."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Capítulo XII: leyes y armas"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Maquiavelo abre con una frase que parece de abogado y es de estratega."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Los principales cimientos de todos los Estados, nuevos, viejos o mixtos, son buenas leyes y buenas armas. Y como no puede haber buenas leyes donde no hay buenas armas, y donde hay buenas armas suele haber buenas leyes, dejaré de hablar de las leyes y hablaré de las armas.",
+    "fuente": "El Príncipe, cap. XII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es una idea incómoda para quien estudió derecho: la ley necesita respaldo. Un contrato vale lo que vale la capacidad de hacerlo cumplir. Maquiavelo no desprecia las leyes; dice que sin fuerza propia son papel.\n\nLuego clasifica a los soldados en cuatro tipos: propios, mercenarios, auxiliares y mixtos. Los mercenarios, dice, son inútiles y peligrosos. Su retrato es de los más duros del libro."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Son desunidos, ambiciosos, sin disciplina, infieles; valientes entre amigos, cobardes ante el enemigo; no tienen temor de Dios ni lealtad con los hombres.",
+    "fuente": "El Príncipe, cap. XII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "¿Por qué? Porque no tienen otra razón para estar en el campo de batalla que un sueldo pequeño, y nadie muere por un sueldo pequeño. En paz te roban; en guerra huyen. Un mercenario malo te pierde la guerra. Uno bueno es peor: como es capaz, tarde o temprano querrá el poder para él.\n\nLos ejemplos que da son de su propio mundo. Francesco Sforza fue contratado por Milán para pelear contra Venecia. Ganó, y luego se volvió contra sus patrones y se hizo duque de Milán en 1450. Venecia tuvo miedo de su propio general, el conde de Carmagnola, y lo ejecutó en 1432. Florencia contrató a Paolo Vitelli para recuperar Pisa y terminó decapitándolo en 1499, cuando sospechó que la traicionaba. Maquiavelo trabajaba entonces en la cancillería de Florencia: vio el caso de cerca.\n\nY resume la catástrofe de Italia con una burla que atribuye al papa Alejandro VI: el rey Carlos VIII de Francia tomó Italia «con la tiza», es decir, solo marcando con gis las casas donde se alojarían sus soldados. No necesitó pelear."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según Maquiavelo, ¿por qué un buen capitán mercenario es todavía más peligroso que uno malo?",
+    "opciones": [
+     "Porque cobra más caro",
+     "Porque, siendo capaz, buscará el poder para sí mismo",
+     "Porque los soldados lo obedecen menos"
+    ],
+    "correcta": 1,
+    "explicacion": "Un mercenario incompetente te arruina en la batalla; uno competente puede volverse contra ti, como Francesco Sforza con Milán."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Capítulo XIII: las armas prestadas"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Si los mercenarios son malos, los [[auxiliares|Tropas que otro Estado te presta, con su propio mando y bajo sus órdenes.]] son peores. Son las tropas que te presta un aliado poderoso. Si pierden, pierdes tú. Si ganan, quedas en manos de quien te las prestó.\n\nEl papa Julio II pidió soldados al rey de España para tomar Ferrara. Florencia, desarmada, contrató 10,000 franceses para recuperar Pisa. Y el emperador de Constantinopla llevó 10,000 turcos a Grecia para pelear con sus vecinos; terminada la guerra, los turcos no quisieron irse. Para Maquiavelo, ahí empezó la servidumbre de Grecia bajo los otomanos.\n\nEl caso que más le interesa es otra vez César Borgia. Empezó con tropas francesas prestadas. Pasó a mercenarios, los Orsini y los Vitelli. Cuando vio que no podía fiarse de ellos, los eliminó y formó un ejército propio. Su reputación, dice Maquiavelo, creció en cada paso, y fue máxima cuando todos vieron que era dueño de sus armas.\n\nPara explicarlo, usa una imagen del Antiguo Testamento. Cuando David se ofreció a pelear contra Goliat, el rey Saúl le dio su armadura. David se la probó y la rechazó: con ella no podía moverse. Salió con su honda y su cuchillo."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Las armas ajenas, al final, o se te caen de encima, o te pesan, o te aprietan.",
+    "fuente": "El Príncipe, cap. XIII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Maquiavelo cierra el capítulo con Francia, la potencia que tenía enfrente. El rey Carlos VII, después de expulsar a los ingleses en la guerra de los Cien Años, entendió que necesitaba armas propias y organizó tropas permanentes de caballería e infantería. Su hijo Luis XI deshizo la infantería y empezó a contratar suizos. Para Maquiavelo, ese fue el error que debilitó al reino: los soldados franceses se acostumbraron a no pelear sin suizos, y los suizos se volvieron indispensables.\n\nLa lección es sutil. No dice que nunca uses ayuda externa. Dice que, si la usas, no dejes que lo tuyo se atrofie. Una dependencia que empieza como apoyo termina como debilidad. Y cuando por fin la necesitas de verdad, ya no sabes vivir sin ella.\n\nHay algo casi psicológico en este capítulo. Maquiavelo observa que un príncipe prudente prefiere perder con sus propias armas que ganar con las ajenas, porque una victoria con armas prestadas no es suya. Lo que se gana con fuerza ajena se debe; lo que se gana con fuerza propia se tiene."
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco_Sforza.jpg?width=900",
+    "alt": "Retrato renacentista de un hombre de perfil",
+    "pie": "Francesco Sforza, el condotiero que pasó de capitán a sueldo a duque de Milán.",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Capítulo XIV: el oficio del príncipe"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El último capítulo de esta parte es el más breve y el más directo."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Un príncipe no debe tener otro objetivo ni otro pensamiento, ni tomar por estudio otra cosa, que la guerra, su organización y su disciplina.",
+    "fuente": "El Príncipe, cap. XIV"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Suena belicoso, pero el argumento es de preparación. Francesco Sforza pasó de particular a duque por estar armado; sus hijos, que huyeron de las fatigas de las armas, pasaron de duques a particulares. Estar desarmado, dice, te hace despreciable, y el desprecio es uno de los peligros de los que un príncipe debe cuidarse.\n\n¿Cómo se prepara uno en tiempos de paz? Con el cuerpo y con la mente. Con el cuerpo, cazando y conociendo el terreno: cómo nacen los montes, cómo desembocan los valles, cómo corren los ríos. Con la mente, leyendo historia y estudiando a los grandes.\n\nSu modelo es [[Filopemén|General griego del siglo III a. C., jefe de la Liga Aquea, famoso por su preparación.]], jefe de la Liga Aquea. Cuando paseaba por el campo con sus amigos, se detenía y preguntaba: si el enemigo estuviera en esa colina y nosotros aquí, ¿quién tendría ventaja? ¿Cómo lo atacaríamos? ¿Cómo nos retiraríamos? Así, en la guerra, nada lo tomaba por sorpresa.\n\nY sobre la lectura, una cadena de imitaciones: Alejandro Magno imitaba a Aquiles, Julio César a Alejandro, y Escipión a Ciro, tal como lo retrató Jenofonte. Para Maquiavelo, leer biografías no es entretenimiento: es entrenamiento."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Qué hacía Filopemén en tiempos de paz cuando paseaba con sus amigos?",
+    "opciones": [
+     "Les leía la Ilíada en voz alta",
+     "Organizaba competencias de caza",
+     "Les planteaba cómo pelear en ese terreno si apareciera el enemigo"
+    ],
+    "correcta": 2,
+    "explicacion": "Convertía cada paseo en un ejercicio: quién tendría ventaja, cómo atacar, cómo retirarse. Así, en la guerra, nada lo sorprendía."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "La ironía de Maquiavelo",
+    "texto": "Maquiavelo no solo escribió sobre ejércitos propios: intentó crear uno. En 1506 organizó para Florencia una milicia de campesinos de la Toscana. En agosto de 1512, esa milicia se desmoronó en el saqueo de Prato frente a las tropas españolas. Los Medici volvieron a Florencia, la república cayó y Maquiavelo perdió su puesto. Escribió *El Príncipe* al año siguiente, ya en el exilio. La idea era correcta; la ejecución le falló. Eso también enseña."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Qué nos dice hoy"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Cambia «soldados» por «capacidades» y el capítulo se vuelve un manual de empresa. Lo que es estratégico para tu negocio, ¿lo tienes en casa o lo alquilas? Un distribuidor exclusivo, una agencia que tiene las claves de tus redes, un único proveedor de tu fórmula: son condotieros modernos. Pueden servirte bien, pero no te pertenecen.\n\nMaquiavelo exagera, como siempre. Ningún Estado ni empresa puede hacerlo todo con lo propio, y los mercenarios suizos, por ejemplo, fueron temidos por buenos. Pero su pregunta de fondo sigue siendo filosa: ¿qué parte de tu poder depende de alguien que puede irse mañana?"
+   }
+  ],
+  "paraLlevar": [
+   "Las leyes y los contratos valen lo que vale la capacidad de hacerlos cumplir.",
+   "Lo prestado te sirve un tiempo; lo estratégico tiene que ser tuyo.",
+   "Prepárate en la paz: cada paseo, cada lectura, puede ser entrenamiento."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Cuáles son, según Maquiavelo, los principales cimientos de todos los Estados?",
+    "respuesta": "Buenas leyes y buenas armas. Sin buenas armas no puede haber buenas leyes."
+   },
+   {
+    "pregunta": "¿Qué imagen bíblica usa Maquiavelo para explicar el peligro de las armas ajenas?",
+    "respuesta": "David rechazando la armadura de Saúl para pelear contra Goliat con su honda y su cuchillo."
+   }
+  ],
+  "proximo": "El Príncipe · Capítulo 4: ¿es mejor ser amado o temido?",
+  "fuentes": [
+   {
+    "nombre": "Standard Ebooks: The Prince, de Nicolás Maquiavelo (trad. W. K. Marriott, dominio público)",
+    "url": "https://standardebooks.org/ebooks/niccolo-machiavelli/the-prince/w-k-marriott/text/single-page"
+   },
+   {
+    "nombre": "Proyecto Gutenberg: The Prince, de Nicolás Maquiavelo (trad. W. K. Marriott)",
+    "url": "https://www.gutenberg.org/ebooks/1232"
+   },
+   {
+    "nombre": "Wikipedia: Francisco I Sforza",
+    "url": "https://es.wikipedia.org/wiki/Francisco_Sforza"
+   },
+   {
+    "nombre": "Wikipedia: Filopemén",
+    "url": "https://es.wikipedia.org/wiki/Filopemen"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de W. K. Marriott (dominio público), en Standard Ebooks y el Proyecto Gutenberg."
+ },
+ "palabra": {
+  "palabra": "Inconmensurable",
+  "categoria": "Adjetivo",
+  "pronunciacion": "in-con-men-su-RA-ble",
+  "definicion": "Que no puede medirse, o tan grande que no se puede medir. En matemáticas, se dice de dos magnitudes que no tienen una medida común.",
+  "origen": "Del latín *incommensurabilis*: *in-* («no»), *cum* («con») y *mensurare* («medir»). Literalmente, «que no se puede medir con otra cosa».",
+  "ejemplo": "El universo parecía inconmensurable hasta que Hubble encontró, en una estrella que parpadea, la regla para medirlo.",
+  "repaso": {
+   "pregunta": "¿Qué significa «inconmensurable»?",
+   "respuesta": "Que no puede medirse, o que es tan grande que no se puede medir."
+  }
+ },
+ "frances": {
+  "frase": "Il ne faut pas promettre la lune.",
+  "traduccion": "«No hay que prometer la luna».",
+  "pronunciacion": "il nə fo pa pro-MÈ-trə la LÜN",
+  "uso": "Negocios y cultura. *Promettre la lune* es prometer lo imposible. Se usa para frenar a un vendedor entusiasta o para recordarte a ti mismo que una promesa exagerada se paga después. Un pariente cercano: *décrocher la lune*, «descolgar la luna», lograr algo dificilísimo.",
+  "variante": "Para decir que alguien vive en las nubes: « Il est dans la lune. » («Está en la luna»: distraído.)",
+  "repaso": {
+   "pregunta": "¿Cómo se dice en francés «No hay que prometer la luna»?",
+   "respuesta": "« Il ne faut pas promettre la lune. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Quién publicó en 1927 que el universo se expande y estimó su ritmo?",
+   "opciones": [
+    "Edwin Hubble",
+    "Albert Einstein",
+    "Georges Lemaître"
+   ],
+   "correcta": 2,
+   "explicacion": "El sacerdote y físico belga lo publicó en francés en 1927. Por eso, desde 2018, la UAI recomienda llamarla ley de Hubble-Lemaître."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Por qué cayó el Brent más de 3% el lunes 16 de noviembre pese a nuevos incidentes en Ormuz?",
+   "opciones": [
+    "Porque se espera más oferta que demanda en el cuarto trimestre",
+    "Porque Irán firmó un acuerdo de paz",
+    "Porque la OPEP+ recortó su producción"
+   ],
+   "correcta": 0,
+   "explicacion": "La AIE estima 1.7 millones de barriles diarios de oferta por encima de la demanda. El mercado pesó más ese exceso que los ataques."
+  },
+  {
+   "origen": "materias",
+   "pregunta": "¿Cuánto tardará, desde mañana, una señal de radio en ir de la Tierra a Voyager 1?",
+   "opciones": [
+    "Unas 12 horas",
+    "Un día completo",
+    "Una semana"
+   ],
+   "correcta": 1,
+   "explicacion": "El 18 de noviembre de 2026 a las 10:16:07 UTC, Voyager 1 llega a un día luz: unos 25,900 millones de kilómetros."
+  }
+ ],
+ "libro": null,
+ "proximo": "2022: el James Webb y la luz más antigua"
+}

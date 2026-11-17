@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16",
+ "actualizado": "2026-11-17",
  "lista": [
   {
    "episodios": [
@@ -140,11 +140,12 @@
      "titulo": "1610: Galileo apunta su telescopio a Júpiter"
     },
     {
-     "titulo": "1919: un eclipse le da la razón a Einstein",
-     "fecha": "2026-11-16"
+     "fecha": "2026-11-16",
+     "titulo": "1919: un eclipse le da la razón a Einstein"
     },
     {
-     "titulo": "1929: Hubble descubre que el universo se expande"
+     "titulo": "1929: Hubble descubre que el universo se expande",
+     "fecha": "2026-11-17"
     },
     {
      "titulo": "2022: el James Webb y la luz más antigua"
