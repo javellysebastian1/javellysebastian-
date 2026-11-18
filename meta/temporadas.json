@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17",
+ "actualizado": "2026-11-18",
  "lista": [
   {
    "episodios": [
@@ -144,11 +144,12 @@
      "titulo": "1919: un eclipse le da la razón a Einstein"
     },
     {
-     "titulo": "1929: Hubble descubre que el universo se expande",
-     "fecha": "2026-11-17"
+     "fecha": "2026-11-17",
+     "titulo": "1929: Hubble descubre que el universo se expande"
     },
     {
-     "titulo": "2022: el James Webb y la luz más antigua"
+     "titulo": "2022: el James Webb y la luz más antigua",
+     "fecha": "2026-11-18"
     },
     {
      "titulo": "Síntesis: cómo sabemos lo que sabemos del cielo"

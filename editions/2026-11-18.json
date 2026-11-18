@@ -1,0 +1,873 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-18",
+ "numero": 28,
+ "fecha": "2026-11-18",
+ "disponibleDesde": "2026-11-18T08:00:00-06:00",
+ "titulo": "2022: el James Webb y la luz más antigua",
+ "temporada": {
+  "id": "t05",
+  "numero": 5,
+  "titulo": "El cosmos: del cielo de los griegos al telescopio James Webb",
+  "episodio": 5,
+  "totalEpisodios": 6
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Webb%27s_First_Deep_Field.jpg?width=900",
+  "alt": "Campo oscuro lleno de miles de galaxias de colores, algunas estiradas en arcos",
+  "pie": "El primer campo profundo del Webb, presentado el 11 de julio de 2022: el cúmulo SMACS 0723 y, detrás, galaxias mucho más lejanas deformadas por su gravedad.",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "origen": "Edición #27",
+   "pregunta": "¿Qué escribió Edwin Hubble en su placa de Andrómeda en octubre de 1923?",
+   "respuesta": "«VAR!»: la estrella era una cefeida variable. Con la regla de Henrietta Leavitt calculó que Andrómeda estaba fuera de la Vía Láctea."
+  },
+  {
+   "origen": "Edición #27",
+   "pregunta": "¿Qué hizo Egipto con sus acciones del canal de Suez en 1875?",
+   "respuesta": "Endeudado, se las vendió a Gran Bretaña. Disraeli las compró con un préstamo de los Rothschild."
+  },
+  {
+   "origen": "Edición #27",
+   "pregunta": "¿Cuánto tarda hoy una señal de radio en llegar de la Tierra a Voyager 1?",
+   "respuesta": "Un día completo. El 18 de noviembre de 2026, la sonda llega a un día luz de distancia: unos 25,900 millones de kilómetros."
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n1",
+   "ambito": "jalisco",
+   "ambitoTexto": "Jalisco",
+   "fecha": "2026-11-17",
+   "historiaEnCurso": {
+    "id": "protestas-campo",
+    "titulo": "Protestas del campo en Jalisco",
+    "capitulo": 2,
+    "dondeIbamos": "El lunes, productores de maíz y trigo anunciaron bloqueos en cinco carreteras de Jalisco desde las 10:00 del martes, para exigir pagos pendientes a la Secretaría de Agricultura (Sader)."
+   },
+   "titular": "Los productores bloquearon carreteras casi todo el martes y las liberaron tras un acuerdo con el gobierno federal",
+   "quePaso": "Los bloqueos sí ocurrieron. Empezaron desde temprano en accesos a Guadalajara y en carreteras de Los Altos y la Ciénega, entre ellos la caseta de Ocotlán, la caseta de Tepatitlán, La Barca y la carretera a Nogales a la altura de La Venta del Astillero. Las listas de puntos varían según el medio.\n\nAl anochecer se levantaron. Según Jalisco Alerta, citada por Tribuna de la Bahía, la Policía Vial reabrió cinco accesos en ambos sentidos a las 18:51. El Informador reportó a las 19:20 que los productores «acaban de dar la orden» de mover todos los puntos.",
+   "aMiQue": "Si mueves producto por la carretera a Colima, a Nogales o hacia Los Altos, ayer fue un día perdido o caro, y la causa no está resuelta: depende de que lleguen los pagos. Para una marca que distribuye desde Guadalajara, la lección práctica es tener una ruta alterna y un aviso a clientes listos cada vez que el campo anuncie protestas.",
+   "contexto": "**Hecho:** según El Informador, los productores acordaron con la Sader empezar reuniones este miércoles 18 para recibir apoyos de **950 pesos por tonelada** de maíz comercializada y **300 pesos por tonelada** de flete para el sector pecuario. También esperan **150 pesos por tonelada** de parte de los estados. AFmedios reportó que algunos ya recibieron depósitos y que otros pagos llegarían esta semana, aunque no hay un documento público con los compromisos.\n\n**Interpretación:** las cifras las dio la organización de productores, no la Sader. Hasta que el gobierno las confirme, el acuerdo es una promesa, no un pago.",
+   "queVigilar": "La mesa de hoy con la Secretaría de Gobernación, Alimentación para el Bienestar y los secretarios de agricultura de los estados; si los depósitos llegan esta semana; y las reuniones pendientes con Conagua por la Ley de Aguas. Los productores advirtieron que podrían volver a bloquear si no se cumple.",
+   "fuentes": [
+    {
+     "nombre": "El Informador: Productores de maíz en Jalisco liberan caminos tras acuerdo con el Gobierno Federal (17 nov 2026)",
+     "url": "https://www.informador.mx/jalisco/bloqueos-carreteros-productores-de-maiz-en-jalisco-liberan-caminos-tras-acuerdo-con-el-gobierno-federal-20261117-0206.html"
+    },
+    {
+     "nombre": "AFmedios: Agricultores liberan bloqueos carreteros en Jalisco tras alcanzar acuerdos con el Gobierno federal (17 nov 2026)",
+     "url": "https://www.afmedios.com/agricultores-liberan-bloqueos-carreteros-en-jalisco-tras-alcanzar-acuerdos-con-el-gobierno-federal/"
+    },
+    {
+     "nombre": "Tribuna de la Bahía: Tras varias horas de bloqueos de agricultores, reabren carreteras de Jalisco (17 nov 2026)",
+     "url": "https://tribunadelabahia.com.mx/tras-varias-horas-de-bloqueos-de-agricultores-reabren-carreteras-de-jalisco/"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-11-17",
+   "historiaEnCurso": {
+    "id": "buen-fin-2026",
+    "titulo": "Buen Fin 2026",
+    "capitulo": 2,
+    "dondeIbamos": "La 16.ª edición corrió del 13 al 17 de noviembre. Concanaco proyectaba ventas por 235,000 millones de pesos, 7.3% más que en 2025."
+   },
+   "titular": "Buen Fin 2026: ocho de cada diez comercios vendieron más, pero no hay cifra total",
+   "quePaso": "En su balance de cierre, Concanaco Servytur reportó que **82% de los negocios** vendió más que en un fin de semana normal. El 64% calificó sus resultados como buenos o excelentes, 27% como regulares y 8% como malos.\n\n**85% de los pagos** fue con tarjeta y 12% en efectivo. Lo más vendido: electrónica y tecnología (31%) y línea blanca (22%). Ropa y calzado sumó 14%; salud y belleza, 4%. El 40% de los compradores gastó más de 5,000 pesos. El 63% compró en tienda física, 18% solo en internet y 20% en ambos.",
+   "aMiQue": "El Buen Fin sigue siendo un evento de aparatos caros a meses sin intereses, no de consumo premium de todos los días: salud y belleza fue apenas 4%. Si tu marca participa, compite contra pantallas y refrigeradores por el mismo bolsillo. Otro dato útil: casi dos de cada cinco compradores usaron internet, así que la promoción que no está en línea se pierde de una parte grande.",
+   "contexto": "**Hecho:** Concanaco no dio un monto total de ventas, así que no se sabe si se alcanzó la meta de 235,000 millones. Aclaró que su sondeo es de percepción y no es estadísticamente representativo. A mitad del evento había reportado un aumento promedio de 20%.\n\n**Interpretación:** «82% vendió más» no dice cuánto más. Sin la cifra total y sin el dato del SAT o del Banco de México sobre pagos con tarjeta, es pronto para hablar de éxito.",
+   "queVigilar": "Los datos de pagos con tarjeta del Banco de México y de la banca, las quejas en Profeco y el sorteo del SAT del 4 de diciembre.",
+   "fuentes": [
+    {
+     "nombre": "MiMorelia: Buen Fin 2026, cuatro de cada 10 compradores gastaron más de $5 mil (17 nov 2026)",
+     "url": "https://mimorelia.com/mexico/buen-fin-2026-cuatro-cada-10-compradores-gastaron-mas-5-mil-n5597576"
+    },
+    {
+     "nombre": "La Crónica de Hoy: Buen Fin, aumenta 20% ventas; predomina pago con tarjeta (16 nov 2026)",
+     "url": "https://www.cronica.com.mx/negocios/2026/11/16/buen-fin-aumenta-20-ventas-predomina-pago-con-tarjeta-informa-concanaco/"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-17",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Guerra en el Golfo y precio del petróleo",
+    "capitulo": 25,
+    "dondeIbamos": "El lunes 16, el Brent tocó 96.28 dólares y cerró en 92.44, abajo 3.55%. La Agencia Internacional de Energía estima más oferta que demanda en el cuarto trimestre."
+   },
+   "titular": "El petróleo se atora cerca de 93 dólares: más exportaciones del Golfo contra ataques récord en Ormuz",
+   "quePaso": "El martes 17, el Brent se movió alrededor de **92 a 93 dólares** por barril, sin una dirección clara. Según OilPrice, dos fuerzas se anulan: los países de Oriente Medio exportan más, pero los ataques a petroleros en el estrecho de Ormuz están en niveles récord.\n\nIrak reabrió el oleoducto Kirkuk–Fishkhabour, que lleva unos 120,000 barriles diarios hacia Turquía. La OPEP inició una auditoría de capacidad de sus miembros. En China, las refinerías procesaron en octubre 2% menos que en septiembre y 8% menos que hace un año.",
+   "aMiQue": "Un petróleo atorado en 90 y tantos dólares mantiene caros el diésel, los fletes y los plásticos de envases. Si estás cerrando precios con proveedores para el primer trimestre de 2027, este no es un mercado que vaya a bajar solo: cualquier decisión de Washington sobre Irán puede moverlo varios dólares en un día.",
+   "contexto": "**Hecho:** OilPrice menciona también un ataque iraní a un radar militar estadounidense en Bahréin. Las negociaciones para reabrir del todo Ormuz siguen estancadas.\n\n**Interpretación:** el mercado ya no reacciona a cada incidente como en octubre. Pesa más la expectativa de exceso de oferta. Eso puede cambiar rápido si un ataque cierra una ruta importante.",
+   "queVigilar": "El siguiente movimiento de Estados Unidos hacia Irán, la auditoría de la OPEP y el dato semanal de inventarios en Estados Unidos.",
+   "fuentes": [
+    {
+     "nombre": "OilPrice: Brent Stuck Near $93 as Hormuz Tanker Attacks Offset Gulf Export Surge (17 nov 2026)",
+     "url": "https://oilprice.com/Energy/Energy-General/Brent-Stuck-Near-93-as-Hormuz-Tanker-Attacks-Offset-Gulf-Export-Surge.html"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "El James Webb tiene un espejo cubierto de oro y vive a 1.5 millones de kilómetros. Para ver las primeras galaxias tuvo que mirar una luz que ningún ojo humano puede ver.",
+    "contexto": "25 de diciembre de 2021, Kurú, en la Guayana Francesa. Un cohete europeo Ariane 5 despega con el aparato científico más caro de la historia: unos 10,000 millones de dólares y más de dos décadas de trabajo.\n\nSu misión era mirar más lejos que nadie. Y en astronomía, mirar lejos es mirar atrás: la luz de una galaxia muy lejana salió de ella hace miles de millones de años. El Webb iba a buscar la luz de las primeras galaxias.\n\nEsas galaxias jóvenes brillaban sobre todo en luz ultravioleta y visible. Pero el Webb no fue diseñado para ver esa luz.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Webb_Space_Telescope_Launch_(NHQ202112250006).jpg?width=900",
+     "alt": "Un cohete despega entre nubes de vapor desde una plataforma en la selva",
+     "pie": "El Ariane 5 despega con el telescopio Webb el 25 de diciembre de 2021, desde Kurú, en la Guayana Francesa.",
+     "credito": "Wikimedia Commons"
+    },
+    "pregunta": "¿Por qué un telescopio que busca la luz de las primeras galaxias tuvo que construirse para ver en infrarrojo?",
+    "opciones": [
+     "Porque el polvo del espacio bloquea toda la luz visible",
+     "Porque la expansión del universo estiró esa luz hasta volverla infrarroja",
+     "Porque la luz infrarroja viaja más rápido y llega antes"
+    ]
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Un telescopio que no se podía reparar",
+    "texto": "La idea nació en los años noventa con un nombre sin gracia: el Telescopio Espacial de Nueva Generación. En 2002 recibió el de James Webb, el administrador que dirigió la NASA entre 1961 y 1968, en los años del programa Apolo.\n\nEl reto era enorme. Para ver galaxias tan débiles hacía falta un espejo de 6.5 metros, casi el triple que el del Hubble. Ningún cohete podía llevar un espejo así entero. La solución fue dividirlo en 18 hexágonos de [[berilio|Metal muy ligero y rígido que casi no se deforma con el frío extremo.]] cubiertos con una capa finísima de oro, que refleja muy bien la luz infrarroja. El espejo viajó doblado, como las alas de una mariposa.\n\nHabía otro problema. Para ver el calor débil de galaxias lejanas, el propio telescopio tenía que estar helado: por debajo de −223 °C. Por eso lleva un [[parasol|Escudo de cinco capas de un plástico llamado kaptón, del tamaño de una cancha de tenis, que bloquea el calor del Sol, la Tierra y la Luna.]] de cinco capas, del tamaño de una cancha de tenis, también doblado como un origami.\n\nEl presupuesto se disparó y los retrasos se acumularon. En 2011, un comité de la Cámara de Representantes de Estados Unidos propuso cancelarlo. Sobrevivió, pero con una presión enorme: el Hubble había sido reparado por astronautas en 1993; el Webb iba a vivir en el [[punto L2|Un punto de equilibrio gravitacional a 1.5 millones de kilómetros de la Tierra, en dirección opuesta al Sol.]], cuatro veces más lejos que la Luna. Nadie podría ir a arreglarlo.\n\nLa NASA contó 344 [[puntos únicos de falla|Piezas o pasos que, si fallan, arruinan la misión entera porque no tienen respaldo.]] durante el despliegue. Cualquiera de ellos podía convertir 10,000 millones de dólares en chatarra. Durante dos semanas de enero de 2022, el telescopio se desdobló solo, paso por paso. Todo funcionó.\n\nEl 11 de julio de 2022, en la Casa Blanca, se mostró la primera imagen: el cúmulo de galaxias SMACS 0723, tal como era hace unos 4,600 millones de años, y detrás de él miles de galaxias aún más lejanas, estiradas en arcos por su gravedad.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/James_Webb_Space_Telescope%27s_Golden_Mirror_Unveiled_(26076364723).jpg?width=900",
+     "alt": "Un gran espejo dorado formado por hexágonos, en un cuarto limpio con técnicos",
+     "pie": "El espejo primario del Webb: 18 hexágonos de berilio cubiertos de oro, en el Centro Goddard de la NASA.",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "giro",
+    "titulo": "La luz llega disfrazada",
+    "texto": "**La respuesta: la expansión del universo estiró esa luz.** Es la misma idea del episodio de ayer. Hubble descubrió que las galaxias se alejan, y que cuanto más lejos están, más rápido lo hacen. Mientras la luz de una galaxia lejana viaja hacia nosotros, el espacio se estira, y la luz se estira con él. Su color se corre hacia el rojo y, si el viaje es lo bastante largo, sale del rojo y se vuelve infrarroja.\n\nLa luz ultravioleta que una galaxia joven emitió hace más de 13,000 millones de años nos llega hoy como calor invisible. Un telescopio de luz visible, como el Hubble, simplemente no la ve. Por eso el Webb es un ojo de infrarrojo, por eso su espejo es de oro y por eso tiene que estar tan frío: su propio calor taparía la señal.\n\nFuncionó. En mayo de 2024, el equipo del programa JADES confirmó la galaxia **JADES-GS-z14-0**, con un [[corrimiento al rojo|Medida de cuánto se ha estirado la luz. Cuanto mayor el número, más lejos y más atrás en el tiempo.]] de 14.32. La vemos como era unos 290 millones de años después del Big Bang.\n\nY hubo un segundo regalo. El Ariane 5 lo dejó en una trayectoria tan precisa que el Webb gastó menos combustible del previsto en corregir su rumbo. La misión mínima era de cinco años; la NASA calculó que le alcanzaría para «bastante más» de diez."
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "El mapa de puntos únicos de falla",
+    "texto": "Los ingenieros del Webb no podían confiar en reparar después. Así que hicieron lo contrario: buscaron antes cada lugar donde una sola falla lo arruinaba todo.\n\nLa herramienta tiene tres pasos:\n\n**1. Haz la lista.** ¿Qué pieza, persona o proveedor, si falla mañana, detiene todo? No lo que sería molesto: lo que sería fatal.\n\n**2. Separa lo que se puede reparar de lo que no.** Un error en un anuncio se corrige. Un lote con la etiqueta equivocada ante la autoridad sanitaria, o un contrato mal firmado, no tanto.\n\n**3. Para cada punto fatal, elige: duplicarlo, probarlo dos veces o eliminarlo.** El Webb no podía duplicar su parasol, así que lo probaron en tierra una y otra vez.\n\nLa regla de fondo: invierte la atención según lo irreversible, no según lo urgente."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Tu negocio también tiene un punto L2",
+    "texto": "**El proveedor único.** Muchas marcas mexicanas de consumo dependen de una sola maquiladora, un solo proveedor de botellas o una sola bodega. Funciona hasta el día en que no. La protesta del campo de ayer en Jalisco es un recordatorio: si toda tu mercancía sale por una sola carretera, esa carretera es un punto único de falla.\n\n**La terminal de cobro.** En el Buen Fin 2026, 85% de los pagos fue con tarjeta, según Concanaco. Una tienda con una sola terminal o un solo procesador de pagos perdió ventas cada vez que se cayó la conexión.\n\n**El apoderado.** En el despacho o en la empresa: si solo una persona puede firmar ante el banco o el SAT, su ausencia frena todo. Un segundo poder notarial cuesta poco y evita mucho."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "Piensa en tu negocio principal. ¿Cuál de estos es tu punto único de falla más peligroso?",
+    "texto": "Elige uno y míralo con los ojos de un ingeniero del Webb: si fallara mañana, ¿lo podrías reparar? Si la respuesta es no, ese es el que merece tu atención esta semana."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Lo que no vas a poder reparar después, pruébalo dos veces antes."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "NASA: el combustible extra del Webb probablemente extenderá su vida útil (29 dic 2021)",
+   "url": "https://science.nasa.gov/blogs/webb/2021/12/29/nasa-says-webbs-excess-fuel-likely-to-extend-its-lifetime-expectations",
+   "minutos": 4
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Por qué el Webb ve en infrarrojo si busca galaxias que brillaban en ultravioleta?",
+    "respuesta": "Porque la expansión del universo estiró su luz durante el viaje: llega a nosotros corrida al rojo, convertida en infrarrojo."
+   },
+   {
+    "pregunta": "¿Qué galaxia confirmó el Webb en mayo de 2024 y cuándo la vemos?",
+    "respuesta": "JADES-GS-z14-0, con corrimiento al rojo de 14.32. La vemos como era unos 290 millones de años después del Big Bang."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "NASA: NASA Says Webb's Excess Fuel Likely to Extend its Lifetime Expectations (29 dic 2021)",
+    "url": "https://science.nasa.gov/blogs/webb/2021/12/29/nasa-says-webbs-excess-fuel-likely-to-extend-its-lifetime-expectations"
+   },
+   {
+    "nombre": "ESA: Webb finds most distant known galaxy (mayo 2024)",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2024/05/Webb_finds_most_distant_known_galaxy"
+   },
+   {
+    "nombre": "ESA/Webb: Webb's First Deep Field",
+    "url": "https://esawebb.org/images/webb-first-deep-field"
+   },
+   {
+    "nombre": "NASA APPEL: Webb's deployments, most complex ever attempted (nov 2021)",
+    "url": "https://appel.nasa.gov/2021/11/24/webbs-deployments-most-complex-ever-attempted/"
+   },
+   {
+    "nombre": "Wikipedia: Telescopio espacial James Webb",
+    "url": "https://es.wikipedia.org/wiki/Telescopio_espacial_James_Webb"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Filosofía para vivir",
+   "pilar": "mente",
+   "formato": "dilema",
+   "titulo": "El anillo de Giges: ¿serías justo si nadie pudiera verte?",
+   "contexto": "Hace unos 2,400 años, en el libro II de la *República* de Platón, el joven Glaucón le lanza a Sócrates un reto con forma de cuento.\n\nUn pastor llamado Giges trabaja para el rey de Lidia. Tras un terremoto, baja a una grieta y encuentra un anillo de oro. Descubre que, si gira la piedra hacia dentro de su mano, se vuelve invisible. Lo usa para llegar al palacio, seducir a la reina, matar al rey y quedarse con el trono.\n\nGlaucón concluye: cualquiera haría lo mismo. Según él, somos justos solo por miedo a que nos vean y nos castiguen. La [[justicia|Para los griegos, más que cumplir leyes: el orden correcto del alma y de la ciudad.]] sería un trato entre débiles, no algo que valga por sí mismo.",
+   "pregunta": "Te dan el anillo. Nadie sabrá nunca lo que hagas con él. ¿Qué cambiaría en tu vida?",
+   "opciones": [
+    "Nada: actuaría igual que hoy",
+    "Lo usaría solo para destapar injusticias",
+    "Siendo honesto, me daría algunas ventajas"
+   ],
+   "revelacion": "**No hay respuesta correcta, pero sí una pista sobre ti.** Sócrates tarda el resto de la *República* en contestar. Su tesis: el injusto invisible no gana, porque se vuelve esclavo de sus deseos. El justo con mala fama, en cambio, conserva lo único que nadie le puede quitar: un alma en orden. Para Sócrates, ser justo no es el precio de la buena reputación; es una forma de salud.\n\nLa psicología moderna le da algo de razón a Glaucón. En 2006, Melissa Bateson y su equipo de la Universidad de Newcastle pusieron la foto de unos ojos sobre la alcancía de una cafetería donde se pagaba por honor. Con los ojos, la gente pagó casi tres veces más que con una foto de flores. Saberse observados nos vuelve más honestos, incluso cuando los ojos son de papel.\n\nPero el dilema sigue abierto, porque lo importante es la diferencia entre las dos cifras: lo que haces cuando hay ojos y lo que haces cuando no. Heródoto, por cierto, contó otra versión de Giges sin anillo mágico: un guardia que mata al rey Candaules por orden de la reina. Platón le agregó la invisibilidad para quitarle al cuento la última excusa.",
+   "idea": "El carácter es la distancia entre lo que haces cuando te ven y lo que haces cuando no.",
+   "fuente": {
+    "nombre": "Wikipedia: Anillo de Giges",
+    "url": "https://es.wikipedia.org/wiki/Anillo_de_Giges"
+   },
+   "wiki": "Anillo de Giges",
+   "claves": [
+    {
+     "nombre": "República",
+     "quien": "El diálogo de Platón sobre la justicia donde aparece el mito de Giges, en el libro II.",
+     "wiki": "República (Platón)"
+    },
+    {
+     "nombre": "Giges de Lidia",
+     "quien": "Rey real de Lidia en el siglo VII a. C.; Heródoto cuenta su llegada al trono sin anillo mágico.",
+     "wiki": "Giges de Lidia"
+    },
+    {
+     "nombre": "Platón",
+     "quien": "Discípulo de Sócrates; pone el reto en boca de su propio hermano, Glaucón.",
+     "wiki": "Platón"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué quiere demostrar Glaucón con el mito del anillo de Giges?",
+    "respuesta": "Que la gente es justa solo por miedo a ser vista y castigada: con la invisibilidad, cualquiera actuaría injustamente."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "formato": "mitoRealidad",
+   "titulo": "¿Hay que esperar 30 minutos después de comer para nadar?",
+   "contexto": "Es una de las reglas más repetidas de las vacaciones en familia: después de comer, media hora sin meterse a la alberca, o te da un calambre y te ahogas.\n\nLa idea suena lógica. Al digerir, el cuerpo manda más sangre al estómago; quedaría menos para los músculos, y un [[calambre|Contracción involuntaria y dolorosa de un músculo. Suele deberse a deshidratación, sobreesfuerzo o fatiga.]] en el agua puede ser peligroso.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Scouting_for_boys_1_1908.jpg?width=900",
+    "alt": "Portada antigua de una revista con un niño explorador junto a una fogata",
+    "pie": "Primera entrega de *Scouting for Boys*, de Robert Baden-Powell (1908). Ahí aparece una de las primeras versiones impresas de la regla.",
+    "credito": "Wikimedia Commons"
+   },
+   "pregunta": "¿Mito o realidad?",
+   "opciones": [
+    "Mito: no hay casos documentados de ahogamiento por nadar con el estómago lleno",
+    "Realidad: la digestión deja a los músculos sin sangre suficiente",
+    "Realidad, pero solo en agua fría"
+   ],
+   "correcta": 0,
+   "revelacion": "**Es mito.** En 2011, el Consejo Científico Asesor de la Cruz Roja Americana revisó 50 años de literatura médica. Concluyó que comer antes de nadar no contribuye al riesgo de ahogamiento y que la regla «puede descartarse como mito». No encontró casos reportados de ahogamiento por esa causa. El cuerpo reparte la sangre entre la digestión y los músculos sin problema: por eso puedes caminar después de comer.\n\n¿De dónde salió? Una de las primeras versiones impresas está en *Scouting for Boys*, el manual de Robert Baden-Powell de 1908: «Nunca te bañes en agua profunda poco después de una comida; es muy probable que te dé un calambre». El manual de los Boy Scouts de Estados Unidos la repitió en 1911. Nadie sabe de dónde la sacó Baden-Powell.\n\nLo que sí es cierto: un esfuerzo intenso justo después de una comida grande puede causar molestias o algún calambre. Y hay un factor que sí aumenta mucho el riesgo de ahogarse y que suele ir con las comidas de fin de semana: el alcohol.",
+   "idea": "Una regla repetida por generaciones no se vuelve verdadera; solo se vuelve familiar.",
+   "fuente": {
+    "nombre": "VERIFY (CBS 8): No, it's not dangerous to swim within 30 minutes of eating",
+    "url": "https://www.cbs8.com/article/news/verify/swimming-30-minutes-after-eating-not-dangerous-drowning-risk-cramps-digestion-blood-flow/536-aa7cb9eb-072d-4d5f-a41b-c12d2c42b5d6"
+   },
+   "wiki": "Ahogamiento",
+   "claves": [
+    {
+     "nombre": "Robert Baden-Powell",
+     "quien": "Fundador del escultismo; su manual de 1908 difundió la advertencia de no nadar después de comer.",
+     "wiki": "Robert Baden-Powell"
+    },
+    {
+     "nombre": "Calambre",
+     "quien": "La contracción muscular que la regla pretendía evitar; sus causas reales son otras.",
+     "wiki": "Calambre"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué concluyó la Cruz Roja Americana en 2011 sobre nadar después de comer?",
+    "respuesta": "Que no contribuye al riesgo de ahogamiento y que la regla puede descartarse como mito. El alcohol, en cambio, sí es un factor de riesgo."
+   }
+  },
+  {
+   "materia": "Etiqueta y protocolo",
+   "pilar": "gusto",
+   "formato": "comoFunciona",
+   "titulo": "El meishi: cómo se entrega una tarjeta de presentación en Japón",
+   "contexto": "En México, una tarjeta de presentación se entrega con una mano y se guarda en la bolsa sin mirarla. En Japón, ese gesto puede arruinar una primera reunión.\n\nAllá la tarjeta se llama *meishi* y el intercambio, *meishi kōkan*. Se trata como una extensión de la persona: su nombre, su empresa y su rango. Por eso tiene un ritual preciso, que los ejecutivos japoneses aprenden desde su primer empleo.",
+   "pregunta": "En Tokio, un director te entrega su tarjeta al empezar una reunión. ¿Qué haces con ella mientras dura la junta?",
+   "opciones": [
+    "Guardarla de inmediato en la cartera, con cuidado",
+    "Dejarla sobre la mesa, frente a ti, ordenada según dónde se sienta cada quien",
+    "Escribir en ella una nota para recordar de qué hablaron"
+   ],
+   "correcta": 1,
+   "revelacion": "**La dejas sobre la mesa, frente a ti, durante toda la reunión.** Si hay varias personas, acomodas sus tarjetas según dónde están sentadas o según su rango. Así recuerdas nombres y muestras respeto. Guardarla de inmediato parece desinterés; escribir sobre ella, frente a su dueño, es casi un insulto.\n\nEl ritual completo: llevas tus tarjetas en un tarjetero digno, nunca sueltas en la bolsa. Intercambian primero los de mayor rango, y suele empezar quien visita. Entregas la tarjeta de frente, con el texto hacia la otra persona, sin tapar el nombre, y dices tu apellido y tu empresa con una ligera [[reverencia|En Japón, la inclinación del cuerpo como saludo; quien tiene menor rango suele inclinarse un poco más.]]. Si el otro es de mayor rango, tu tarjeta va un poco más abajo que la suya.\n\nAl recibir, la tomas sobre tu tarjetero y la lees unos segundos. Ese gesto, mirar el nombre de verdad, es el corazón del ritual. No hay que memorizar las reglas: basta entender que la tarjeta es la persona.",
+   "idea": "Lo que haces con el nombre de alguien dice cuánto te importa la persona.",
+   "fuente": {
+    "nombre": "Sansan: How to master business card exchange in Japan (abr 2020)",
+    "url": "https://resources.sansan.com/blog/how-to-master-business-card-exchange-in-japan"
+   },
+   "wiki": "Tarjeta de visita",
+   "claves": [
+    {
+     "nombre": "Etiqueta en Japón",
+     "quien": "Las normas de cortesía japonesas, de la reverencia al trato de los objetos ajenos.",
+     "wiki": "Etiqueta en Japón"
+    },
+    {
+     "nombre": "Tarjeta de visita fotográfica",
+     "quien": "La moda europea de 1850 de intercambiar retratos del tamaño de una tarjeta, antepasada del gesto social.",
+     "wiki": "Tarjeta de visita (retrato fotográfico)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "En Japón, ¿qué haces con el meishi de alguien durante la reunión?",
+    "respuesta": "Lo dejas sobre la mesa, frente a ti, ordenado según dónde se sienta cada quien. No lo guardas de inmediato ni escribes en él."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "sigueDinero",
+   "titulo": "Hotmart: el creador pone el curso y miles de afiliados lo venden",
+   "contexto": "En 2011, en Brasil, João Pedro Resende y Mateus Bicalho fundaron Hotmart, una plataforma para vender cursos en línea, libros electrónicos y membresías. Su apuesta no fue solo cobrar por el creador. Fue convertir a miles de desconocidos en su fuerza de ventas.\n\nEl modelo se llama [[marketing de afiliados|Esquema en el que terceros promueven un producto con un enlace propio y cobran una comisión solo cuando hay venta.]]. El creador decide qué porcentaje de cada venta le paga a quien se la trajo. Cualquiera puede inscribirse como afiliado, recibir un enlace y promoverlo en redes, en un blog o en YouTube.",
+   "pregunta": "Un curso cuesta 1,000 pesos y su creador le ofrece 50% a cada afiliado que lo venda. ¿Por qué aceptaría regalar la mitad?",
+   "opciones": [
+    "Porque producir una copia más del curso casi no le cuesta: la mitad de una venta que no habría hecho es casi pura ganancia",
+    "Porque la plataforma lo obliga a dar al menos la mitad",
+    "Porque los afiliados le devuelven la comisión en publicidad gratuita"
+   ],
+   "correcta": 0,
+   "revelacion": "**Porque el costo de la siguiente unidad es casi cero.** Una botella de tequila tiene costo de vidrio, agave y flete en cada venta; por eso un distribuidor rara vez se lleva la mitad. Un curso grabado ya está pagado. Cada venta extra, después de la comisión de la plataforma, es ganancia, aunque la mitad se vaya al afiliado. Mientras el afiliado traiga clientes que el creador no habría alcanzado, el trato conviene a los dos.\n\nEl modelo escaló. Según su comunicado de 2021, Hotmart tiene creadores activos en más de 100 países y compradores en más de 185. En marzo de 2020 se combinó con Teachable, una plataforma de cursos de Nueva York, para entrar al mercado en inglés; TechCrunch reportó un precio cercano a 250 millones de dólares. En 2021 levantó 130 millones de dólares en una ronda encabezada por el fondo TCV.\n\nEl lado oscuro también viene del mismo diseño: si el afiliado cobra por venta y no por resultado, tiene incentivos para prometer de más. Muchos de los anuncios de «hazte rico con este curso» son afiliados persiguiendo su comisión. Para un creador, eso es un riesgo de marca real: tu producto se vende con palabras que no escribiste.",
+   "idea": "Cuando producir otra unidad no cuesta nada, puedes regalar la mitad del precio a quien te traiga el cliente.",
+   "fuente": {
+    "nombre": "Business Wire: Hotmart Company Raises US$130 Million in Investment Round Led by TCV (abr 2021)",
+    "url": "https://www.businesswire.com/news/home/20210401005827/en"
+   },
+   "wiki": "Hotmart",
+   "claves": [
+    {
+     "nombre": "Comercio electrónico",
+     "quien": "La compra y venta por internet, el terreno donde operan Hotmart, Gumroad o Shopify.",
+     "wiki": "Comercio electrónico"
+    },
+    {
+     "nombre": "Libro electrónico",
+     "quien": "Uno de los primeros productos que se vendieron en Hotmart: se copia y se entrega sin costo.",
+     "wiki": "Libro electrónico"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué un creador de cursos puede ofrecer 50% de comisión a sus afiliados?",
+    "respuesta": "Porque producir otra copia de un curso digital casi no cuesta: cada venta extra que trae el afiliado sigue siendo ganancia para el creador."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Retórica y oratoria",
+   "pilar": "mente",
+   "epoca": "1851",
+   "titulo": "Sojourner Truth quizá nunca dijo «¿Acaso no soy una mujer?»",
+   "dato": "El discurso más citado de Sojourner Truth, con su estribillo «¿Acaso no soy una mujer?», se publicó doce años después de pronunciarse. La crónica de 1851 no contiene esa frase.",
+   "explicacion": "Truth habló el 29 de mayo de 1851 en una convención por los derechos de la mujer en Akron, Ohio. El periodista Marius Robinson, que estaba en el público, publicó su transcripción el 21 de junio en el *Anti-Slavery Bugle*. Robinson revisó el texto con ella. Ahí no aparece el famoso estribillo.\n\nLa versión célebre la escribió Frances Gage y salió el 23 de abril de 1863 en *The Independent*. Gage le puso un acento de esclava del sur. Truth había crecido en Nueva York y su primera lengua era el neerlandés. La lección para un orador: a veces la frase que pasa a la historia es la del editor.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sojourner_truth_c1870.jpg?width=900",
+    "alt": "Retrato fotográfico antiguo de una mujer mayor con chal y cofia blanca",
+    "pie": "Sojourner Truth hacia 1870. Nació esclava en el estado de Nueva York hacia 1797.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "The Sojourner Truth Project: Compare the two speeches",
+    "url": "https://www.thesojournertruthproject.com/compare-the-speeches/"
+   },
+   "wiki": "Sojourner Truth",
+   "claves": [
+    {
+     "nombre": "¿Acaso no soy una mujer?",
+     "quien": "El discurso de Akron de 1851, conocido sobre todo por la versión de 1863.",
+     "wiki": "¿Acaso no soy una mujer?"
+    },
+    {
+     "nombre": "National Women's Rights Convention",
+     "quien": "Las convenciones por los derechos de la mujer en Estados Unidos desde 1850.",
+     "wiki": "National Women's Rights Convention"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué versión del discurso de Sojourner Truth contiene el estribillo «¿Acaso no soy una mujer?»?",
+    "respuesta": "La de Frances Gage, publicada en 1863, doce años después. La transcripción de Marius Robinson de 1851 no lo incluye."
+   }
+  },
+  {
+   "materia": "Liderazgo e influencia",
+   "pilar": "caracter",
+   "epoca": "1805",
+   "titulo": "Nelson quería decir «Inglaterra confía», no «Inglaterra espera»",
+   "dato": "La señal más famosa de la historia naval, «Inglaterra espera que cada hombre cumpla con su deber», no fue la que Nelson dictó. Él pidió «Inglaterra confía». La cambió su teniente para ahorrar banderas.",
+   "explicacion": "El 21 de octubre de 1805, antes de la batalla de Trafalgar, Nelson le pidió al teniente John Pasco que izara: «England confides that every man will do his duty». Las señales se hacían con banderas de un código: cada bandera era una palabra del libro. *Confides* no estaba y había que deletrearla letra por letra. Pasco propuso *expects*, que sí estaba, y Nelson aceptó.\n\nEl cambio alteró el tono. «Confío en ustedes» expresa fe; «espero de ustedes» suena a exigencia. Un ajuste técnico de último minuto convirtió un mensaje de confianza en un mandato, y así lo recuerda la historia.",
+   "fuente": {
+    "nombre": "Naval Marine Archive: England expects that every man will do his duty",
+    "url": "https://navalmarinearchive.com/research/docs/england_expects_signalflags.html"
+   },
+   "wiki": "Batalla de Trafalgar",
+   "claves": [
+    {
+     "nombre": "Horacio Nelson",
+     "quien": "Almirante británico que venció en Trafalgar y murió en la batalla.",
+     "wiki": "Horacio Nelson"
+    },
+    {
+     "nombre": "HMS Victory",
+     "quien": "El buque insignia de Nelson, desde donde se izó la señal.",
+     "wiki": "HMS Victory"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué palabra quería usar Nelson en su señal de Trafalgar y por qué se cambió?",
+    "respuesta": "«Confides» (confía). Se cambió por «expects» porque «confides» no estaba en el libro de códigos y había que deletrearla."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "epoca": "1972",
+   "titulo": "Las pelotas de tenis se volvieron amarillas por la televisión",
+   "dato": "Durante casi un siglo, las pelotas de tenis fueron blancas o negras. En 1972, la Federación Internacional de Tenis aprobó las amarillas porque se veían mejor en la televisión a color. Wimbledon tardó 14 años más en aceptarlas.",
+   "explicacion": "A fines de los sesenta, la televisión a color y el interés por el tenis crecían. Las investigaciones mostraron que una pelota amarilla brillante se distinguía mucho mejor en pantalla. Según el All England Club, una de las personas que impulsaron el cambio fue David Attenborough, entonces directivo de la BBC.\n\nWimbledon, fiel a su tradición de blanco, las adoptó hasta 1986. Su compendio oficial reconoce un motivo práctico: las pelotas blancas se manchaban de verde con el pasto. El color de un deporte se decidió por el espectador, no por el jugador.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tennis_ball_01.jpg?width=900",
+    "alt": "Una pelota de tenis amarilla sobre fondo claro",
+    "pie": "Una pelota de tenis amarilla: el color se volvió reglamentario en 1972.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "AP vía NBC New York: Why tennis balls are yellow (jul 2024)",
+    "url": "https://www.nbcnewyork.com/news/sports/tennis/why-tennis-balls-are-yellow/5561395/"
+   },
+   "wiki": "Pelota de tenis",
+   "claves": [
+    {
+     "nombre": "Campeonato de Wimbledon",
+     "quien": "El torneo más antiguo del tenis; adoptó la pelota amarilla en 1986.",
+     "wiki": "Campeonato de Wimbledon"
+    },
+    {
+     "nombre": "David Attenborough",
+     "quien": "Divulgador británico; como directivo de la BBC llevó el tenis a la televisión a color.",
+     "wiki": "David Attenborough"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué la Federación Internacional de Tenis aprobó pelotas amarillas en 1972?",
+    "respuesta": "Porque se veían mejor en la televisión a color. Wimbledon las adoptó hasta 1986."
+   }
+  },
+  {
+   "materia": "Música",
+   "pilar": "cultura",
+   "epoca": "2015",
+   "titulo": "«Cumpleaños feliz» cobró regalías durante décadas sin derecho válido",
+   "dato": "La canción más cantada del mundo generó licencias por más de 50 millones de dólares para sus supuestos dueños. En 2015, un juez de Estados Unidos decidió que su derecho de autor sobre la letra no era válido.",
+   "explicacion": "La melodía viene de «Good Morning to All», una canción infantil de 1893 de las hermanas Mildred y Patty Hill. Warner/Chappell compró los derechos en 1988 y cobraba por usar «Happy Birthday» en películas y series. La cineasta Jennifer Nelson demandó cuando le pidieron 1,500 dólares por usarla en un documental.\n\nEn septiembre de 2015, el juez George H. King resolvió que el registro de 1935 cubría solo un arreglo para piano, no la letra. Warner/Chappell pagó 14 millones de dólares para cerrar el caso y en 2016 la canción quedó en dominio público. Para un abogado: poseer un registro no es lo mismo que poseer la obra.",
+   "fuente": {
+    "nombre": "Rolling Stone: Warner Music Settles 'Happy Birthday' Lawsuit for $14 Million (feb 2016)",
+    "url": "https://www.rollingstone.com/music/music-news/warner-music-settles-happy-birthday-lawsuit-for-14-million-182584/"
+   },
+   "wiki": "Cumpleaños feliz",
+   "claves": [
+    {
+     "nombre": "Dominio público",
+     "quien": "La situación de una obra que ya no tiene derechos de autor y que cualquiera puede usar.",
+     "wiki": "Dominio público"
+    },
+    {
+     "nombre": "Derecho de autor",
+     "quien": "La protección legal sobre obras creativas; el caso mostró que un registro no prueba todo.",
+     "wiki": "Derecho de autor"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué resolvió el juez King en 2015 sobre «Happy Birthday»?",
+    "respuesta": "Que el registro de 1935 de Warner/Chappell cubría solo un arreglo para piano, no la letra. En 2016 la canción quedó en dominio público."
+   }
+  },
+  {
+   "materia": "Ciudades del mundo",
+   "pilar": "mundo",
+   "epoca": "1909",
+   "titulo": "La Torre Eiffel tenía permiso solo por 20 años",
+   "dato": "La Torre Eiffel se construyó para la Exposición Universal de 1889 con un permiso de 20 años. La salvó de la demolición la radio: servía como antena gigante.",
+   "explicacion": "Gustave Eiffel sabía que el terreno volvería a la ciudad de París el 1 de enero de 1910, y que la torre podía desmontarse. Para hacerla indispensable, apoyó experimentos científicos. En 1898, Eugène Ducretet hizo desde ella el primer enlace de radio en Morse con el Panteón, a 4 kilómetros. El capitán Gustave Ferrié la convirtió en estación militar de radiotelegrafía.\n\nEn 1908 ya alcanzaba contactos a 6,000 kilómetros. En 1909 la ciudad le renovó la concesión por 70 años. En 1918 su antena interceptó un radiograma alemán que ayudó a descifrar planes enemigos. El monumento más famoso de París sobrevivió por ser útil, no por ser bello.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tour_Eiffel_Wikimedia_Commons.jpg?width=900",
+    "alt": "La Torre Eiffel vista desde abajo contra un cielo azul",
+    "pie": "La Torre Eiffel, en el Campo de Marte de París. Mide unos 330 metros con sus antenas.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Tour Eiffel (sitio oficial): How did radio save the Tower?",
+    "url": "https://www.toureiffel.paris/en/news/130-years/how-did-radio-save-tower"
+   },
+   "wiki": "Torre Eiffel",
+   "claves": [
+    {
+     "nombre": "Gustave Eiffel",
+     "quien": "Ingeniero cuya empresa construyó la torre y que luchó por conservarla.",
+     "wiki": "Gustave Eiffel"
+    },
+    {
+     "nombre": "Exposición Universal de París de 1889",
+     "quien": "La feria del centenario de la Revolución francesa para la que se levantó la torre.",
+     "wiki": "Exposición Universal de París (1889)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué salvó a la Torre Eiffel de ser desmontada al vencer su permiso en 1910?",
+    "respuesta": "Su uso como antena de radiotelegrafía. En 1909 la ciudad le renovó la concesión por 70 años."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "epoca": "1971",
+   "titulo": "El primer libro electrónico fue la Declaración de Independencia",
+   "dato": "El 4 de julio de 1971, un estudiante de la Universidad de Illinois tecleó la Declaración de Independencia de Estados Unidos en una computadora y la puso al alcance de otros usuarios. Fue el primer libro electrónico.",
+   "explicacion": "Michael Hart tenía acceso a una computadora central Xerox Sigma V. Pensó que lo más valioso que podía hacer con ella era guardar textos que cualquiera pudiera copiar. Escribió todo en mayúsculas y lo compartió por la red ARPANET, antecesora de internet.\n\nDespués agregó la Biblia, obras de Shakespeare y *Alicia en el país de las maravillas*. Así nació el Proyecto Gutenberg, que hoy ofrece decenas de miles de libros de dominio público. Hart descubrió la economía de los productos digitales: una copia más no cuesta nada, así que el valor está en que exista la primera.",
+   "fuente": {
+    "nombre": "Guinness World Records: First ebook",
+    "url": "https://www.guinnessworldrecords.com/world-records/684329-first-ebook"
+   },
+   "wiki": "Michael Hart (filántropo)",
+   "claves": [
+    {
+     "nombre": "Proyecto Gutenberg",
+     "quien": "La biblioteca digital de libros de dominio público que nació del texto de Hart.",
+     "wiki": "Proyecto Gutenberg"
+    },
+    {
+     "nombre": "Declaración de Independencia de los Estados Unidos",
+     "quien": "El documento de 1776 que Hart eligió como primer libro electrónico.",
+     "wiki": "Declaración de Independencia de los Estados Unidos"
+    },
+    {
+     "nombre": "Libro electrónico",
+     "quien": "El formato que Hart inventó casi por accidente, décadas antes de los lectores digitales.",
+     "wiki": "Libro electrónico"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuál fue el primer libro electrónico y quién lo hizo?",
+    "respuesta": "La Declaración de Independencia de Estados Unidos, tecleada por Michael Hart el 4 de julio de 1971. Fue el origen del Proyecto Gutenberg."
+   }
+  },
+  {
+   "materia": "Ciencia y tecnología",
+   "pilar": "futuro",
+   "epoca": "1991",
+   "titulo": "La primera cámara web vigilaba una cafetera",
+   "dato": "En 1991, unos científicos de la Universidad de Cambridge apuntaron una cámara a la cafetera de su laboratorio para saber, sin bajar las escaleras, si quedaba café. En 1993 la pusieron en internet: fue la primera cámara web.",
+   "explicacion": "La cafetera estaba en la llamada Sala Troyana del laboratorio de computación. Un programa llamado XCoffee mandaba la imagen a las computadoras del edificio. En 1993, cuando nació la web, la conectaron a una página y gente de todo el mundo empezó a mirar una cafetera en Inglaterra.\n\nEn 2001 apagaron la cámara y subastaron la cafetera, ya descompuesta. La compró *Spiegel Online*, la edición en internet de la revista alemana *Der Spiegel*, por 3,350 libras. Muchas tecnologías nacen así: alguien resuelve una molestia pequeña y abre una puerta enorme.",
+   "fuente": {
+    "nombre": "The Register: Trojan Room coffee pot sells for £3,350 (13 ago 2001)",
+    "url": "https://www.theregister.com/2001/08/13/trojan_room_coffee_pot_sells/"
+   },
+   "wiki": "Cafetera Trojan Room",
+   "claves": [
+    {
+     "nombre": "Cámara web",
+     "quien": "La tecnología que nació con esta cafetera y hoy usamos en cada videollamada.",
+     "wiki": "Cámara web"
+    },
+    {
+     "nombre": "Universidad de Cambridge",
+     "quien": "La universidad cuyo laboratorio de computación instaló la cámara.",
+     "wiki": "Universidad de Cambridge"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué vigilaba la primera cámara web y por qué?",
+    "respuesta": "Una cafetera del laboratorio de computación de Cambridge, para saber si quedaba café sin bajar las escaleras. Llegó a la web en 1993."
+   }
+  },
+  {
+   "materia": "Etiqueta y protocolo",
+   "pilar": "gusto",
+   "epoca": "Siglo XVII",
+   "titulo": "La corbata lleva el nombre de los soldados croatas",
+   "dato": "La palabra francesa *cravate*, de donde viene «corbata» en otros idiomas, apareció para describir los pañuelos al cuello de los mercenarios croatas del siglo XVII. Luis XIV los convirtió en moda.",
+   "explicacion": "Durante la guerra de los Treinta Años (1618–1648), Francia reclutó a muchos jinetes croatas. Llevaban un pañuelo anudado al cuello. Los franceses llamaron a la prenda con el nombre de quienes la usaban: *cravate*, de *croate*. Con ellos se formó un regimiento de élite, el Royal-Cravates.\n\nLuis XIV, que reinó desde 1643, adoptó el pañuelo y la corte lo imitó. De Versalles pasó al resto de Europa. Hoy Croacia celebra cada 18 de octubre el Día de la Corbata. La prenda más formal del hombre nació en un campo de batalla.",
+   "fuente": {
+    "nombre": "NPR: How the word 'cravat' came from the battlefields of 17th-century Europe (ene 2026)",
+    "url": "https://www.npr.org/2026/01/21/nx-s1-5682323/cravat-word-of-the-week"
+   },
+   "wiki": "Corbata",
+   "claves": [
+    {
+     "nombre": "Guerra de los Treinta Años",
+     "quien": "El conflicto europeo de 1618 a 1648 en el que Francia reclutó jinetes croatas.",
+     "wiki": "Guerra de los Treinta Años"
+    },
+    {
+     "nombre": "Luis XIV de Francia",
+     "quien": "El Rey Sol, que puso de moda el pañuelo croata en Versalles.",
+     "wiki": "Luis XIV de Francia"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿De dónde viene la palabra francesa «cravate»?",
+    "respuesta": "De «croate»: los pañuelos al cuello de los jinetes croatas que lucharon para Francia en el siglo XVII."
+   }
+  }
+ ],
+ "palabra": {
+  "palabra": "Prístino",
+  "categoria": "Adjetivo",
+  "pronunciacion": "PRÍS-ti-no",
+  "definicion": "Antiguo, primero, original: que conserva su estado inicial. Hoy también se usa como «puro, intacto», un sentido que se extendió por influencia del inglés *pristine*.",
+  "origen": "Del latín *pristinus*, «de antes, primitivo». En español clásico se hablaba del «prístino estado» de algo: cómo era al principio.",
+  "ejemplo": "El Webb no ve las primeras galaxias en su luz prístina: le llega estirada por 13,000 millones de años de expansión.",
+  "repaso": {
+   "pregunta": "¿Cuál es el significado original de «prístino»?",
+   "respuesta": "Antiguo, primero, original: que conserva su estado inicial. Viene del latín pristinus, «de antes»."
+  }
+ },
+ "frances": {
+  "frase": "Qui vivra verra.",
+  "traduccion": "«Quien viva, verá».",
+  "pronunciacion": "ki vi-VRA vé-RA",
+  "uso": "Cultura y conversación. Se dice cuando el futuro es incierto y no vale la pena adivinarlo: «¿Funcionará el proyecto? Qui vivra verra». Tiene un tono sereno, casi estoico, y sirve para cerrar una discusión sin prometer nada.",
+  "variante": "Más coloquial: « On verra bien. » («Ya veremos»).",
+  "repaso": {
+   "pregunta": "¿Cómo se dice en francés «Quien viva, verá»?",
+   "respuesta": "« Qui vivra verra. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Por qué el Webb tuvo que construirse para ver en infrarrojo?",
+   "opciones": [
+    "Porque la luz infrarroja viaja más rápido",
+    "Porque la expansión del universo estiró la luz de las primeras galaxias",
+    "Porque el Sol bloquea la luz visible en el punto L2"
+   ],
+   "correcta": 1,
+   "explicacion": "La luz ultravioleta y visible de las galaxias jóvenes se estira durante el viaje y llega corrida al rojo, convertida en infrarrojo."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "Según Concanaco, ¿qué parte de los pagos del Buen Fin 2026 fue con tarjeta?",
+   "opciones": [
+    "Alrededor de la mitad",
+    "Dos de cada tres",
+    "85%"
+   ],
+   "correcta": 2,
+   "explicacion": "85% fue con tarjeta y 12% en efectivo, según el balance de cierre de Concanaco Servytur."
+  },
+  {
+   "origen": "hechos",
+   "pregunta": "¿Qué palabra quería Nelson en su señal de Trafalgar en lugar de «expects»?",
+   "opciones": [
+    "«Confides»: confía",
+    "«Orders»: ordena",
+    "«Hopes»: espera con esperanza"
+   ],
+   "correcta": 0,
+   "explicacion": "Nelson dictó «England confides». Pasco la cambió por «expects» porque «confides» no estaba en el libro de códigos."
+  }
+ ],
+ "libro": null,
+ "proximo": "Síntesis: cómo sabemos lo que sabemos del cielo",
+ "lectura": {
+  "libro": "El Príncipe",
+  "autor": "Nicolás Maquiavelo",
+  "capitulo": {
+   "numero": 4,
+   "total": 6,
+   "titulo": "¿Es mejor ser amado o temido?"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Santi_di_Tito_-_Niccolo_Machiavelli%27s_portrait_headcrop.jpg?width=900",
+   "alt": "Retrato renacentista de un hombre delgado vestido de negro",
+   "pie": "Nicolás Maquiavelo, retratado por Santi di Tito.",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "¿Qué prefieres que digan de ti en tu empresa: que eres bueno o que eres justo? ¿Y si tuvieras que elegir entre que te quieran y que te respeten?\n\nEn los capítulos XV a XVII de *El Príncipe*, Maquiavelo deja de hablar de ejércitos y entra en el terreno que lo volvió famoso, y odiado: el carácter del gobernante. Ya no pregunta con qué armas se defiende un Estado, sino qué virtudes le conviene tener, o aparentar, a quien lo dirige.\n\nEs la parte del libro donde se origina el adjetivo [[maquiavélico|Que usa la astucia y el engaño para lograr un fin. El adjetivo simplifica mucho lo que Maquiavelo escribió.]]. Vale la pena leerla con calma, porque lo que dice es más fino que su fama."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Capítulo XV: el mundo como es"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Maquiavelo abre con una declaración de método. Muchos, dice, han imaginado repúblicas y principados que nunca existieron. Él quiere escribir algo útil, y para eso hay que mirar las cosas como son, no como deberían ser.\n\nEs una ruptura con siglos de libros llamados «espejos de príncipes», que le enseñaban al gobernante a ser piadoso, generoso y clemente. Maquiavelo no dice que esas virtudes sean malas. Dice que, en un mundo donde muchos no son buenos, practicarlas siempre y sin cálculo puede destruirte."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Un hombre que quiera actuar en todo conforme a la virtud que profesa pronto encuentra lo que lo destruye entre tantos que no son buenos. Por eso es necesario que un príncipe que quiera sostenerse aprenda a poder no ser bueno, y a usarlo o no según la necesidad.",
+    "fuente": "El Príncipe, cap. XV"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La clave está en el final: *según la necesidad*. No propone ser malo por gusto. Propone que el gobernante sepa cuándo la bondad lo pone en riesgo a él y a los que dependen de él.\n\nLuego hace una lista de cualidades por las que se alaba o se culpa a los príncipes: generoso o tacaño, cruel o compasivo, leal o traidor, valiente o cobarde. Lo ideal, admite, sería tenerlas todas buenas. Pero la condición humana no lo permite. Entonces el príncipe debe evitar los vicios que le harían perder el Estado y no preocuparse demasiado por los demás."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Algo que parece virtud, si lo sigue, será su ruina; y algo que parece vicio, si lo sigue, le traerá seguridad y prosperidad.",
+    "fuente": "El Príncipe, cap. XV"
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según Maquiavelo en el capítulo XV, ¿cuándo debe un príncipe «no ser bueno»?",
+    "opciones": [
+     "Siempre que le dé placer o ventaja personal",
+     "Según la necesidad, cuando la bondad pondría en riesgo su Estado",
+     "Nunca: debe ser virtuoso aunque lo destruyan"
+    ],
+    "correcta": 1,
+    "explicacion": "Maquiavelo dice que debe aprender a poder no ser bueno «y usarlo o no según la necesidad». No es maldad por gusto: es cálculo para sostener el Estado."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Capítulo XVI: la trampa de la generosidad"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El primer ejemplo es sorprendente: la [[liberalidad|Generosidad con el dinero; gastar o regalar con largueza.]]. Todos quieren un jefe generoso. Maquiavelo pregunta: ¿con qué dinero?\n\nUn príncipe que quiere fama de generoso tiene que gastar con ostentación. Cuando se le acaba lo suyo, sube los impuestos. Entonces los muchos a quienes cobra lo odian, y los pocos a quienes regaló no lo defienden. Termina pobre y despreciado, o rapaz y odiado."
+   },
+   {
+    "tipo": "cita",
+    "texto": "No hay nada que se consuma tan rápido como la liberalidad: mientras la ejerces, pierdes la capacidad de ejercerla.",
+    "fuente": "El Príncipe, cap. XVI"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Su consejo es aceptar la fama de tacaño. Un príncipe austero, que no carga a su pueblo con impuestos, acaba pareciendo generoso con el tiempo: con lo que ahorra se defiende sin pedir más.\n\nPone ejemplos de su época. El papa Julio II usó la fama de generoso para llegar al papado y luego la abandonó para poder hacer la guerra. El rey de Francia hizo muchas campañas sin impuestos extraordinarios gracias a su larga austeridad. Y distingue un caso: ser generoso con lo ajeno, con el botín de una conquista, no te empobrece. Con lo propio, sí."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Es más sabio tener fama de tacaño, que trae reproche sin odio, que verse obligado, por buscar fama de generoso, a ganarse fama de rapaz, que trae reproche con odio.",
+    "fuente": "El Príncipe, cap. XVI"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La lección se lee muy bien desde una empresa. El director que regala bonos y descuentos para caer bien, sin flujo que lo respalde, termina recortando de golpe. Y el recorte duele más que la austeridad que lo habría evitado."
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Santi_di_Tito_-_Niccolo_Machiavelli%27s_portrait_headcrop.jpg?width=900",
+    "alt": "Retrato renacentista de un hombre delgado vestido de negro",
+    "pie": "Nicolás Maquiavelo, retratado por Santi di Tito. Escribió *El Príncipe* en 1513, en el exilio, cerca de Florencia.",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Capítulo XVII: ¿amado o temido?"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Llega la pregunta más famosa del libro. Maquiavelo empieza por la crueldad y la clemencia, con un ejemplo que conocía de primera mano: César Borgia, el hijo del papa Alejandro VI, a quien había tratado como diplomático de Florencia."
+   },
+   {
+    "tipo": "cita",
+    "texto": "César Borgia era tenido por cruel; sin embargo, su crueldad había ordenado la Romaña, la había unido y la había devuelto a la paz y a la lealtad.",
+    "fuente": "El Príncipe, cap. XVII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "En contraste, el pueblo florentino, por no parecer cruel, dejó que Pistoia, una ciudad bajo su control, se destruyera en luchas de facciones. Unos cuantos castigos a tiempo, dice Maquiavelo, son más compasivos que una tolerancia que deja crecer los asesinatos y los saqueos. Los castigos afectan a unos pocos; el desorden, a todos.\n\nY entonces lanza la pregunta: ¿es mejor ser amado que temido, o al revés? Lo ideal sería ambas cosas. Pero como es difícil juntarlas, si hay que renunciar a una, es más seguro ser temido."
+   },
+   {
+    "tipo": "cita",
+    "texto": "El amor se sostiene por un vínculo de obligación que, por la maldad de los hombres, se rompe en cuanto les conviene; pero el temor se sostiene por el miedo al castigo, que nunca falla.",
+    "fuente": "El Príncipe, cap. XVII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es una de las frases más crudas del libro, pero hay que leer lo que sigue. Maquiavelo no recomienda el terror. Pone un límite claro: el príncipe debe hacerse temer de modo que, si no gana el amor, al menos evite el [[odio|Para Maquiavelo, el peor enemigo del gobernante: un pueblo que odia busca derribarlo.]]. Temido sí; odiado nunca.\n\n¿Cómo se logra? Respetando los bienes y las mujeres de sus súbditos. Si hace falta castigar a alguien, que sea con una causa justificada y evidente. Y sobre todo, sin tocar la propiedad ajena, por una razón que retrata la psicología humana sin anestesia:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Los hombres olvidan más pronto la muerte de su padre que la pérdida de su patrimonio.",
+    "fuente": "El Príncipe, cap. XVII"
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Qué límite pone Maquiavelo al consejo de ser temido?",
+    "opciones": [
+     "Que el príncipe nunca castigue a nadie",
+     "Que se haga temer sin llegar a ser odiado, respetando los bienes de sus súbditos",
+     "Que solo sea temido por sus enemigos extranjeros"
+    ],
+    "correcta": 1,
+    "explicacion": "El príncipe debe inspirar temor de manera que, si no gana el amor, evite el odio. La forma principal es no tocar la propiedad ni las mujeres de sus súbditos."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Aníbal y Escipión"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Para cerrar, Maquiavelo compara a dos generales de la Antigüedad. [[Aníbal|General cartaginés que en el siglo III a. C. cruzó los Alpes y puso a Roma contra las cuerdas.]] llevó un ejército enorme, de muchas naciones, a pelear en tierra extranjera durante años. Nunca hubo una rebelión, ni en la buena ni en la mala fortuna. Maquiavelo lo atribuye a su «inhumana crueldad», que, junto con sus otras virtudes, lo hacía respetado y terrible para sus soldados.\n\n[[Escipión|Publio Cornelio Escipión, el general romano que venció a Aníbal en Zama en 202 a. C.]], en cambio, un hombre excepcional, sufrió un motín de sus tropas en España. La causa, dice Maquiavelo, fue su excesiva indulgencia: les dio más libertad de la que convenía a la disciplina. Fabio Máximo se lo reprochó en el Senado.\n\nLa conclusión del capítulo es casi práctica: los hombres aman según su voluntad, pero temen según la voluntad del príncipe. Un gobernante sabio debe apoyarse en lo que depende de él, no en lo que depende de otros."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Para leer a Maquiavelo con justicia",
+    "texto": "Maquiavelo escribe para un príncipe nuevo, en una Italia invadida y en guerra. No describe cómo vivir una vida buena, sino cómo evitar que un Estado se hunda. Muchos lectores, de Rousseau en adelante, han sospechado que el libro también es una advertencia: al mostrar cómo funciona el poder, enseña a los ciudadanos a reconocerlo. Leído desde hoy, su valor no está en copiar sus métodos, sino en no ser ingenuo con ellos."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Lo que queda para ti"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Sacado de su época, el capítulo deja tres preguntas útiles para cualquiera que dirige algo. ¿Tu generosidad tiene respaldo, o es deuda disfrazada? ¿Tu tolerancia protege a la mayoría, o solo te evita un mal rato? ¿Tu autoridad descansa en lo que tú controlas o en el buen humor de los demás?\n\nY una advertencia que Maquiavelo repite: el respeto se puede construir; el odio, una vez que llega, casi nunca se va."
+   }
+  ],
+  "paraLlevar": [
+   "La generosidad sin respaldo es deuda con buena cara.",
+   "Ser temido puede sostenerte; ser odiado te derriba.",
+   "Apóyate en lo que depende de ti, no en el humor de los demás."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Por qué Maquiavelo prefiere la fama de tacaño a la de generoso?",
+    "respuesta": "Porque la tacañería trae reproche sin odio, y la generosidad sin recursos obliga a subir impuestos y termina en fama de rapaz, que trae reproche con odio."
+   },
+   {
+    "pregunta": "Según Maquiavelo, ¿qué olvidan los hombres más pronto que la pérdida de su patrimonio?",
+    "respuesta": "La muerte de su padre. Por eso el príncipe nunca debe tocar los bienes de sus súbditos."
+   }
+  ],
+  "proximo": "El Príncipe · Capítulo 5: el zorro y el león",
+  "fuentes": [
+   {
+    "nombre": "Proyecto Gutenberg: The Prince, de Nicolás Maquiavelo (trad. W. K. Marriott, dominio público)",
+    "url": "https://www.gutenberg.org/files/1232/1232-0.txt"
+   },
+   {
+    "nombre": "Wikipedia: El príncipe",
+    "url": "https://es.wikipedia.org/wiki/El_pr%C3%ADncipe"
+   },
+   {
+    "nombre": "Wikipedia: César Borgia",
+    "url": "https://es.wikipedia.org/wiki/C%C3%A9sar_Borgia"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de W. K. Marriott (dominio público), en el Proyecto Gutenberg."
+ }
+}
