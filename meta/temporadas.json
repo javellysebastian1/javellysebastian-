@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18",
+ "actualizado": "2026-11-19",
  "lista": [
   {
    "episodios": [
@@ -148,22 +148,42 @@
      "titulo": "1929: Hubble descubre que el universo se expande"
     },
     {
-     "titulo": "2022: el James Webb y la luz más antigua",
-     "fecha": "2026-11-18"
+     "fecha": "2026-11-18",
+     "titulo": "2022: el James Webb y la luz más antigua"
     },
     {
-     "titulo": "Síntesis: cómo sabemos lo que sabemos del cielo"
+     "titulo": "Síntesis: cómo sabemos lo que sabemos del cielo",
+     "fecha": "2026-11-19"
     }
    ],
-   "estado": "en_curso",
+   "estado": "terminada",
    "id": "t05",
    "numero": 5,
    "para": "Cómo aprendimos dónde estamos en el universo.",
    "titulo": "El cosmos: del cielo de los griegos al telescopio James Webb"
   },
   {
-   "episodios": [],
-   "estado": "pendiente",
+   "episodios": [
+    {
+     "titulo": "1853: Haussmann abre París a cuchillo"
+    },
+    {
+     "titulo": "1858: Worth firma sus vestidos e inventa la alta costura"
+    },
+    {
+     "titulo": "1900: la Exposición Universal y el metro de Guimard"
+    },
+    {
+     "titulo": "1947: el New Look de Dior devuelve el lujo a París"
+    },
+    {
+     "titulo": "El café de París: de Le Procope a Les Deux Magots"
+    },
+    {
+     "titulo": "Síntesis: cómo una ciudad se vuelve sinónimo de buen gusto"
+    }
+   ],
+   "estado": "en_curso",
    "id": "t06",
    "numero": 6,
    "para": "Moda, perfume, urbanismo y cultura francesa.",

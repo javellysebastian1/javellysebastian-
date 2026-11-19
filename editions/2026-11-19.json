@@ -1,0 +1,890 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-19",
+ "numero": 29,
+ "fecha": "2026-11-19",
+ "disponibleDesde": "2026-11-19T08:00:00-06:00",
+ "titulo": "Síntesis: cómo sabemos lo que sabemos del cielo",
+ "temporada": {
+  "id": "t05",
+  "numero": 5,
+  "titulo": "El cosmos: del cielo de los griegos al telescopio James Webb",
+  "episodio": 6,
+  "totalEpisodios": 6
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Venustransit_2004-06-08_07-49.jpg?width=900",
+  "alt": "Un pequeño disco negro cruza la superficie brillante del Sol",
+  "pie": "Venus cruza frente al Sol el 8 de junio de 2004. En 1761 y 1769 este punto negro movilizó a medio mundo científico.",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "pregunta": "¿Por qué el James Webb ve en infrarrojo si busca galaxias que brillaban en ultravioleta?",
+   "respuesta": "Porque la expansión del universo estiró esa luz durante el viaje: llega corrida al rojo, convertida en infrarrojo.",
+   "origen": "Edición #28"
+  },
+  {
+   "pregunta": "¿Qué fenómeno aprovechó Eddington en 1919 para poner a prueba a Einstein?",
+   "respuesta": "Un eclipse total de Sol: así pudo fotografiar estrellas cerca del Sol y medir cuánto se desviaba su luz.",
+   "origen": "Edición #26"
+  },
+  {
+   "pregunta": "¿Qué vio Galileo en enero de 1610 alrededor de Júpiter?",
+   "respuesta": "Cuatro lunas que giraban a su alrededor: la prueba de que no todo gira en torno a la Tierra.",
+   "origen": "Edición #25"
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n1",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-11-18",
+   "historiaEnCurso": {
+    "id": "aranceles-eeuu-mexico",
+    "titulo": "Aranceles de EE. UU. a México y revisión del T-MEC",
+    "capitulo": 5,
+    "dondeIbamos": "El 17 de noviembre Sheinbaum se reunió con Xi Jinping en Shenzhen. Hubo buenas palabras sobre manufactura, IA y agricultura, pero ningún acuerdo concreto."
+   },
+   "titular": "Sheinbaum y Trump hablan del T-MEC en la APEC: «seguimos avanzando», pero sin acuerdo ni alivio en aranceles",
+   "quePaso": "El miércoles 18 de noviembre, Claudia Sheinbaum se reunió con Donald Trump en Shenzhen, China, durante la cumbre de la APEC. El encuentro fue en el hotel The Langham, donde se hospeda Trump.\n\nPor México estuvieron Marcelo Ebrard y el canciller Roberto Velasco. Por Estados Unidos, Marco Rubio, el representante comercial Jamieson Greer y Stephen Miller.\n\nSheinbaum escribió en redes: «una muy buena reunión con el presidente Donald Trump y su equipo. Seguimos avanzando en la agenda común». Volverán a verse en diciembre, en la cumbre del G20 en Miami.",
+   "aMiQue": "Para una marca que importa insumos, envases o equipo de Estados Unidos, nada cambia todavía: los aranceles al acero, al aluminio y a los autos siguen vigentes. Lo práctico es no fijar precios de 2027 suponiendo un alivio que aún no existe, y revisar cuánto del costo de tus productos depende de esos materiales.",
+   "contexto": "**Hecho:** Sheinbaum informó de **56 reuniones técnicas** sobre el tratado y dijo que la revisión va «muy avanzada». No hubo acuerdo final ni anuncio de retiro de aranceles. Siguen los de la [[Sección 232|Ley de EE. UU. que permite poner aranceles por motivos de seguridad nacional.]] al acero, aluminio y autos.\n\n**Dato en disputa:** El Mañana reportó que la reunión duró «aproximadamente una hora»; EFE y Quadratín, «alrededor de 20 minutos», la cifra que dio la propia Sheinbaum.\n\n**Interpretación:** que el encuentro ocurriera y fuera cordial es una señal útil, pero no un resultado. Antes del viaje, Sheinbaum negó un acuerdo «secreto» para aplazar aranceles de 25%. El primer ministro de Canadá, Mark Carney, también vio a Trump por separado unos 20 minutos.",
+   "queVigilar": "La cumbre del G20 en Miami (14 y 15 de diciembre) y si ahí aparece un anuncio concreto sobre la Sección 232. También, la amenaza de Trump de subir aranceles por una caravana migrante en Chiapas.",
+   "fuentes": [
+    {
+     "nombre": "El Mañana: Sheinbaum y Trump se reúnen en la APEC en China (18 nov 2026)",
+     "url": "https://elmanana.com.mx/nacional/2026/11/18/sheinbaum-y-trump-se-reunen-en-la-apec-en-china-esto-dijeron-184613.html"
+    },
+    {
+     "nombre": "Capital CDMX: Sheinbaum y Trump hablan del T-MEC en China; Carney también se reúne con el presidente de EU (18 nov 2026)",
+     "url": "https://capital-cdmx.org/sheinbaum-y-trump-hablan-del-t-mec-en-china-carney-tambien-se-reune-con-el-presidente-de-eu/"
+    },
+    {
+     "nombre": "Estrella Digital: Sheinbaum habla con Trump en Shenzhen (19 nov 2026)",
+     "url": "https://www.estrelladigital.es/mundo/sheinbaum-trump-shenzhen-apec-xi-china-tmec-aranceles-espana/20261119071500453570.html"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-18",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 26,
+    "dondeIbamos": "El 17 de noviembre el Brent estaba atorado entre 92 y 93 dólares: más exportaciones de Oriente Medio contra ataques récord a petroleros en Ormuz."
+   },
+   "titular": "El petróleo baja pese a los ataques en el Golfo: el Brent cierra en 91.95 dólares y el WTI cae 2.8%",
+   "quePaso": "El miércoles 18 de noviembre, el Brent para enero cerró en **91.95 dólares** por barril, 1.27% menos. El WTI estadounidense cayó **2.76%**, a **82.31 dólares** (Dow Jones Newswires, vía Euribor.com.es).\n\nLa caída ocurrió el mismo día en que Baréin dijo haber interceptado ataques aéreos iraníes. La víspera, cazas de EE. UU. habían bombardeado una base de misiles en la isla iraní de Qeshm, según Bloomberg Línea.",
+   "aMiQue": "Una bajada del crudo tarda semanas en llegar a la gasolina y al diésel en México, porque los precios se suavizan con estímulos. Pero baja el costo de plásticos y fletes. Si vas a negociar envases o transporte para 2027, hoy tienes un argumento: el crudo va camino de caer cerca de 20% en noviembre, según Reuters.",
+   "contexto": "**Hecho:** en EE. UU., la agencia de energía (EIA) reportó un aumento de **3.38 millones de barriles** en inventarios de crudo. La OPEP+ produjo **35.6 millones de barriles diarios** en octubre, su segundo aumento mensual. La reserva estratégica de EE. UU. está en unos 276 millones de barriles, su nivel más bajo desde 1982.\n\n**Interpretación:** las fuentes no coinciden en la causa principal. Unas apuntan al informe de la Agencia Internacional de Energía, que prevé exceso de oferta en el cuarto trimestre. Otras, a más inventarios, más bombeo de la OPEP+ y un dólar fuerte. Lo notable es que Ormuz pesó poco: el mercado ya no reacciona a cada ataque.\n\n**Afirmación sin verificar:** la marina iraní dice haber golpeado cuatro buques en 24 horas.",
+   "queVigilar": "La reunión de la OPEP+ del 29 de noviembre y si los ataques en Ormuz pasan de amenaza a cierre real del tránsito.",
+   "fuentes": [
+    {
+     "nombre": "Euribor.com.es: El WTI se hunde el doble que el Brent (19 nov 2026)",
+     "url": "https://www.euribor.com.es/2026/11/19/precio-petroleo-hoy-19-noviembre-2026/"
+    },
+    {
+     "nombre": "Bloomberg Línea: Petróleo cae por debajo de US$93 pese a nuevos ataques en Medio Oriente (18 nov 2026)",
+     "url": "https://www.bloomberglinea.com/mercados/petroleo-cae-por-debajo-de-us93-pese-a-nuevos-ataques-en-medio-oriente-y-tension-en-ormuz/"
+    },
+    {
+     "nombre": "La República (Reuters): Brent cede de barrera de US$93 ante mayores inventarios en EE. UU. (18 nov 2026)",
+     "url": "https://www.larepublica.co/globoeconomia/brent-cede-de-barrera-de-us-93-el-barril-ante-mayores-inventarios-en-ee-uu-4527313"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "Un astrónomo francés viajó once años para ver un punto negro cruzar el Sol. El día señalado, el cielo de la India le hizo una última broma.",
+    "contexto": "Durante cinco episodios vimos cómo la humanidad aprendió a medir el cielo: Eratóstenes con una sombra, Galileo con un tubo, Eddington con un eclipse, Hubble con una estrella que parpadeaba y el Webb con luz invisible.\n\nPero falta una pieza. Kepler sabía desde 1619 las distancias *relativas* de los planetas: Marte está 1.52 veces más lejos del Sol que la Tierra. Lo que nadie sabía era el tamaño de esa regla. ¿Cuántos kilómetros hay entre la Tierra y el Sol?\n\nEn 1716, Edmond Halley propuso una solución: cronometrar desde lugares muy lejanos el paso de Venus frente al Sol. El problema era que ese [[tránsito|Paso de un astro pequeño por delante del disco de otro más grande, visto desde la Tierra.]] solo ocurre en parejas separadas por más de un siglo. Los siguientes serían en 1761 y 1769.\n\nGuillaume Le Gentil salió de París en marzo de 1760 rumbo a la India. En 1761 lo sorprendió en altamar: no pudo medir nada desde un barco que se mecía. Decidió quedarse ocho años esperando el de 1769, en Pondicherry.",
+    "pregunta": "El 4 de junio de 1769, tras años de espera, ¿qué vio Le Gentil?",
+    "opciones": [
+     "El tránsito completo, con una medición perfecta",
+     "Nada: una nube tapó el Sol justo durante el tránsito",
+     "Solo el final, porque calculó mal la hora"
+    ],
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Venus_Transit_2004.JPG?width=900",
+     "alt": "El disco del Sol con un punto negro cerca del borde",
+     "pie": "Un tránsito de Venus dura unas seis horas. Lo difícil es medir con precisión el instante en que el planeta toca el borde del Sol.",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "historia",
+    "titulo": "La carrera mundial para medir el Sistema Solar",
+    "texto": "La idea de Halley era una aplicación de la [[paralaje|Cambio aparente en la posición de un objeto cuando se mira desde dos puntos distintos.]]. Pon un dedo frente a tu cara y ciérralo con un ojo y luego con el otro: el dedo «salta». Cuanto más cerca está, más salta.\n\nCon Venus pasa lo mismo. Dos observadores en extremos opuestos de la Tierra ven a Venus cruzar el Sol por caminos ligeramente distintos. Midiendo cuánto tarda cada uno, se puede calcular la distancia al Sol con geometría.\n\nHalley sabía que no viviría para verlo. Murió en 1742. Pero dejó la instrucción, y Europa la tomó en serio. En 1761 hubo más de cien observadores repartidos por el mundo. En 1769, todavía más.\n\nInglaterra mandó a un joven oficial de marina, James Cook, a la isla de Tahití. El 3 de junio de 1769 observó el tránsito desde un lugar que todavía se llama Punta Venus. Era su primer gran viaje.\n\nFrancia, Rusia, Dinamarca y otros reinos mandaron expediciones a Siberia, Baja California, Noruega y la Bahía de Hudson. Estaban en guerra entre sí, pero cooperaron con los datos. Era, en la práctica, el primer gran proyecto científico internacional.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Captainjamescookportrait.jpg?width=900",
+     "alt": "Retrato al óleo de un oficial de marina con casaca azul",
+     "pie": "James Cook, pintado por Nathaniel Dance hacia 1776. Su primer viaje al Pacífico fue, ante todo, una misión astronómica.",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "giro",
+    "titulo": "Una nube, una gota negra y 153 millones de kilómetros",
+    "texto": "Le Gentil vio **nada**. La mañana del 4 de junio de 1769 el cielo de Pondicherry se nubló justo durante el tránsito. Escribió después que había recorrido más de diez mil leguas para ver una nube.\n\nVolvió a París en octubre de 1771, once años después de salir. Lo habían declarado muerto, le habían quitado su lugar en la Academia de Ciencias y sus parientes se repartían sus bienes. Tuvo que pleitear para recuperar su vida.\n\nEl resto del mundo tampoco lo tuvo fácil. Apareció la llamada [[gota negra|Ilusión óptica en la que Venus parece pegado al borde del Sol por un hilo oscuro, lo que vuelve imprecisa la hora del contacto.]]: justo al tocar el borde, Venus parecía estirarse como una gota. Cook y su compañero, mirando lado a lado, anotaron horas distintas.\n\nAun así, el método funcionó. En 1824, el alemán Johann Encke juntó los datos de 1761 y 1769 y obtuvo una distancia de unos **153 millones de kilómetros**. El valor actual, fijado por la Unión Astronómica Internacional en 2012, es de **149,597,870.7 km**. Con relojes de péndulo y telescopios de madera, el error fue de apenas 2%.\n\nLo que sorprende es esto: el dato más famoso de la astronomía no salió de un genio aislado, sino de cientos de mediciones imperfectas, comparadas entre sí.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BlackDrop-Venus-Transit.jpg?width=900",
+     "alt": "Venus tocando el borde del Sol, unido a él por una mancha oscura",
+     "pie": "El efecto de la gota negra: el borde de Venus parece pegarse al del Sol y vuelve borroso el instante del contacto.",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "La escalera de distancias",
+    "texto": "Los astrónomos no miden el universo con una regla, sino con una **escalera**. Cada escalón usa el anterior para calibrarse.\n\nEratóstenes midió la Tierra con una sombra. Con la Tierra como base, el tránsito de Venus midió la distancia al Sol. Con esa distancia como base, Bessel midió en 1838 la paralaje de la estrella 61 Cygni: la primera distancia a otra estrella. Con estrellas cercanas se calibraron las [[cefeidas|Estrellas que laten con un ritmo ligado a su brillo real; sirven como «focos de potencia conocida».]] de Henrietta Leavitt. Con cefeidas, Hubble midió galaxias. Y con galaxias, el Webb mira al principio del tiempo.\n\nLa regla mental: **cuando no puedes medir algo directamente, encadena mediciones que sí puedes comprobar, y revisa cada eslabón**. Un error en el primer escalón se arrastra hasta el último."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "La escalera fuera del cielo",
+    "texto": "**Estimar un mercado.** Si quieres saber cuántas latas de una bebida lista para tomar podrías vender en Jalisco, no hay un dato directo. Pero puedes encadenar escalones comprobables: población adulta del INEGI, porcentaje que consume alcohol, frecuencia de compra, participación de la categoría. Cada número se puede verificar por separado. Si uno está mal, sabes dónde buscar.\n\n**Revisar un dictamen.** Un abogado hace lo mismo con una cadena de pruebas: el peritaje se apoya en la muestra, la muestra en la cadena de custodia, la custodia en el acta. Si se rompe el primer eslabón, todo lo de arriba cae, por brillante que sea."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿Qué decisión importante de tu negocio descansa hoy en un número que nadie ha revisado desde el primer escalón?",
+    "texto": "Piénsalo hoy cuando veas una proyección de ventas o un presupuesto."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Lo que no puedes medir directamente, mídelo por escalones, y desconfía del primero."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Cambridge Digital Library: Transit of Venus (expediciones, cuadernos y cómo se midió la unidad astronómica)",
+   "url": "https://cudl.lib.cam.ac.uk/collections/tov",
+   "minutos": 6
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Para qué se observaron los tránsitos de Venus de 1761 y 1769?",
+    "respuesta": "Para calcular, por paralaje, la distancia entre la Tierra y el Sol. Con ella se podía convertir en kilómetros todo el mapa relativo de Kepler."
+   },
+   {
+    "pregunta": "¿Qué es la escalera de distancias cósmicas?",
+    "respuesta": "Una cadena de métodos en la que cada uno se calibra con el anterior: Tierra, Sol, estrellas cercanas, cefeidas, galaxias."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Physics World: Venus – it's now or never (sobre Le Gentil y los tránsitos)",
+    "url": "https://physicsworld.com/a/venus-its-now-or-never/"
+   },
+   {
+    "nombre": "ESO VT-2004: valores históricos de la paralaje solar (Encke, 1824)",
+    "url": "https://www.eso.org/public/outreach/eduoff/vt-2004/Background/Infol2/EIS-F5.html"
+   },
+   {
+    "nombre": "Phys.org: la IAU redefine la unidad astronómica (sep 2012)",
+    "url": "https://phys.org/news/2012-09-iau-votes-redefine-astronomical-constant.html"
+   },
+   {
+    "nombre": "Britannica: Friedrich Wilhelm Bessel",
+    "url": "https://www.britannica.com/biography/Friedrich-Wilhelm-Bessel"
+   },
+   {
+    "nombre": "Wikipedia: Tránsito de Venus",
+    "url": "https://es.wikipedia.org/wiki/Tr%C3%A1nsito_de_Venus"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Literatura y mitología",
+   "pilar": "cultura",
+   "formato": "diaQueCambio",
+   "titulo": "7 de febrero de 1857: Francia absuelve a Madame Bovary",
+   "contexto": "París, 29 de enero de 1857. En la sexta sala del tribunal correccional se sienta un acusado poco habitual: un novelista de 35 años, Gustave Flaubert.\n\nSu novela *Madame Bovary* había salido por entregas en la *Revue de Paris*. Cuenta la vida de Emma, la esposa aburrida de un médico de pueblo, sus amantes, sus deudas y su suicidio. El fiscal imperial, Ernest Pinard, la acusó de [[ultraje a la moral pública|Delito del Segundo Imperio francés que castigaba las publicaciones consideradas indecentes o contrarias a la religión.]].\n\nPinard leyó en voz alta los pasajes que consideraba lascivos. El abogado de Flaubert, Jules Sénard, respondió leyendo el libro completo en su contexto: la novela, dijo, mostraba el castigo del vicio, no su elogio.",
+   "pregunta": "¿Qué pasó con la novela después del juicio?",
+   "opciones": [
+    "Fue prohibida y circuló en secreto durante décadas",
+    "Flaubert fue absuelto y el libro se volvió un éxito de ventas",
+    "Se publicó, pero con los capítulos censurados"
+   ],
+   "correcta": 1,
+   "revelacion": "**El 7 de febrero de 1857, Flaubert fue absuelto**, aunque con un regaño formal del tribunal por su «realismo vulgar». El 15 de abril el libro salió en volumen, y el escándalo le hizo la mejor publicidad posible.\n\nSeis meses después, el mismo fiscal Pinard acusó a Charles Baudelaire por *Las flores del mal*. Ahí sí ganó: el 20 de agosto de 1857 el poeta fue condenado a pagar 300 francos y seis poemas quedaron prohibidos. La condena no se anuló hasta 1949.\n\nLo que cambió ese febrero fue la idea de qué puede hacer una novela. Flaubert no juzgaba a Emma: la mostraba por dentro, con un narrador casi invisible. Ese estilo, el [[estilo indirecto libre|Técnica en la que el narrador cuenta en tercera persona, pero con los pensamientos y palabras del personaje.]], se volvió la base de la novela moderna.",
+   "idea": "Un juicio que buscaba silenciar un libro terminó por hacerlo inmortal.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave_Flaubert_par_Pierre_Fran%C3%A7ois_Eug%C3%A8ne_Giraud.jpg?width=900",
+    "alt": "Retrato al óleo de un hombre con bigote grande y poco pelo",
+    "pie": "Gustave Flaubert retratado por Eugène Giraud. Tardó casi cinco años en escribir Madame Bovary.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Fondation Napoléon: Le procès Flaubert, janvier 1857",
+    "url": "https://www.napoleon.org/histoire-des-2-empires/dossiers-thematiques/le-proces-flaubert-janvier-1857/"
+   },
+   "wiki": "Madame Bovary",
+   "claves": [
+    {
+     "nombre": "Gustave Flaubert",
+     "quien": "Novelista de Ruan; obsesionado con la palabra exacta, el *mot juste*.",
+     "wiki": "Gustave Flaubert"
+    },
+    {
+     "nombre": "Las flores del mal",
+     "quien": "El libro de Baudelaire que el mismo fiscal sí logró condenar en 1857.",
+     "wiki": "Las flores del mal"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo terminó el juicio contra Flaubert por Madame Bovary?",
+    "respuesta": "Absuelto el 7 de febrero de 1857, con un regaño formal. El libro salió en abril y fue un éxito."
+   }
+  },
+  {
+   "materia": "Economía y mercados",
+   "pilar": "patrimonio",
+   "formato": "sigueDinero",
+   "titulo": "John Law: el escocés que le dio a Francia papel en lugar de oro",
+   "contexto": "En 1715 muere Luis XIV y deja a Francia con una deuda enorme. El regente, Felipe de Orleans, escucha a un jugador y economista escocés que llevaba años vendiendo una idea: el problema de Francia no es la falta de riqueza, sino la falta de dinero que circule.\n\nJohn Law propone un banco que emita [[billetes|Papel que promete pagar monedas; vale mientras la gente confíe en esa promesa.]]. En mayo de 1716 obtiene permiso para fundar la Banque Générale. En 1718 se convierte en Banque Royale, del Estado.\n\nEn 1717 Law toma además la Compañía de Occidente, conocida como la del Misisipi: el monopolio del comercio con la Luisiana francesa. Luego la funde con otras compañías y le hace absorber la deuda del reino. Los acreedores cambian sus bonos por acciones. En la calle Quincampoix de París la gente se pelea por comprarlas. De esa euforia se popularizó una palabra nueva: *millionnaire*.",
+   "pregunta": "En marzo de 1720 las acciones empezaban a caer. ¿Qué hizo Law para sostenerlas?",
+   "opciones": [
+    "Vendió el oro del banco para comprar acciones",
+    "Fijó el precio en 9,000 libras y lo pagó imprimiendo billetes",
+    "Prohibió por decreto vender acciones"
+   ],
+   "correcta": 1,
+   "revelacion": "**Law, ya Contrôleur général des finances desde el 5 de enero de 1720, fijó el precio de la acción en 9,000 libras**, convertible en billetes del banco. Para cumplirlo, el banco tuvo que imprimir billetes cada vez que alguien vendía. Sostuvo la acción, pero hundió el valor del papel: subieron los precios y la gente corrió a cambiar billetes por monedas.\n\nSigue el dinero: las acciones subían porque se compraban con billetes, y los billetes se imprimían para sostener las acciones. Era un círculo. En unos meses el sistema se derrumbó. En diciembre de 1720 Law huyó de Francia. Murió en Venecia en 1729, casi pobre.\n\nLa lección duró más que él. Francia desconfió del papel moneda y de los bancos durante décadas. Y la idea de Law, que el dinero es confianza y no metal, regresaría en el siglo XX con los bancos centrales.",
+   "idea": "Un precio sostenido con dinero impreso no protege el valor: solo lo traslada al billete.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Law_by_Alexis_Simon_Belle.jpg?width=900",
+    "alt": "Retrato de un caballero del siglo XVIII con peluca larga",
+    "pie": "John Law, retratado por Alexis Simon Belle. Pasó de jugador profesional a dirigir las finanzas de Francia.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (en): John Law (economist)",
+    "url": "https://en.wikipedia.org/wiki/John_Law_(economist)"
+   },
+   "wiki": "Sistema de Law",
+   "claves": [
+    {
+     "nombre": "Compañía del Misisipi",
+     "quien": "La empresa colonial cuyas acciones fueron el centro de la burbuja.",
+     "wiki": "Compañía del Misisipi"
+    },
+    {
+     "nombre": "Felipe II de Orleans",
+     "quien": "Regente de Francia durante la infancia de Luis XV; apostó por Law.",
+     "wiki": "Felipe II de Orleans"
+    },
+    {
+     "nombre": "Burbuja económica",
+     "quien": "Precios que suben muy por encima del valor real, alimentados por la expectativa de seguir subiendo.",
+     "wiki": "Burbuja económica"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué error de Law en marzo de 1720 aceleró la caída de su sistema?",
+    "respuesta": "Fijar el precio de la acción en 9,000 libras pagándolo con billetes recién impresos: sostuvo la acción y hundió el valor del papel."
+   }
+  },
+  {
+   "materia": "Derecho y poder",
+   "pilar": "mundo",
+   "formato": "elCaso",
+   "titulo": "Rosendo Radilla: el desaparecido que cambió cómo juzgan los jueces mexicanos",
+   "contexto": "25 de agosto de 1974, Guerrero. Rosendo Radilla Pacheco, de 60 años, viaja en autobús con su hijo de 11. Había sido presidente municipal de Atoyac de Álvarez y componía corridos. El Ejército lo detiene. Después lo ven golpeado en el cuartel militar de Atoyac. No vuelve a aparecer.\n\nEran los años de la llamada [[guerra sucia|Represión del Estado mexicano contra guerrillas y opositores, sobre todo en los años 60 y 70, con desapariciones forzadas.]]. Su hija, Tita Radilla, buscó justicia durante décadas. Los casos de militares iban al fuero militar: los juzgaban otros militares.\n\nCon la ayuda de organizaciones civiles, el caso llegó a la Corte Interamericana de Derechos Humanos, en Costa Rica. El 23 de noviembre de 2009 la Corte condenó a México.",
+   "pregunta": "Además de buscar a Radilla y reparar a su familia, ¿qué le exigió la Corte a México?",
+   "opciones": [
+    "Indemnizar a todas las víctimas de la guerra sucia",
+    "Reformar el Código de Justicia Militar para que los abusos contra civiles no los juzguen militares",
+    "Disolver la Secretaría de la Defensa"
+   ],
+   "correcta": 1,
+   "revelacion": "**La Corte ordenó reformar el artículo 57 del Código de Justicia Militar**: cuando un militar viola los derechos de un civil, el caso no puede quedar en tribunales militares.\n\nPero el efecto mayor vino después. En julio de 2011, la Suprema Corte analizó qué hacer con esa sentencia en el expediente Varios 912/2010. Decidió que todos los jueces del país deben aplicar los tratados de derechos humanos aunque una ley mexicana diga otra cosa: el [[control de convencionalidad|Obligación de los jueces de revisar que las leyes respeten los tratados de derechos humanos, y dejar de aplicarlas si no.]]. Un mes antes, el 10 de junio de 2011, se había publicado la reforma constitucional en derechos humanos.\n\nEl caso de un hombre desaparecido en 1974 cambió así la forma de razonar de cualquier juez mexicano, de un juzgado familiar a la Suprema Corte. Rosendo Radilla sigue sin aparecer.",
+   "idea": "A veces un caso que no se resuelve para su víctima resuelve el sistema para todos los demás.",
+   "fuente": {
+    "nombre": "Corte IDH: Ficha técnica del caso Radilla Pacheco vs. México",
+    "url": "https://www.corteidh.or.cr/tablas/fichas/radillapacheco.pdf"
+   },
+   "wiki": "Rosendo Radilla Pacheco",
+   "claves": [
+    {
+     "nombre": "Corte Interamericana de Derechos Humanos",
+     "quien": "Tribunal con sede en San José, Costa Rica; México acepta su competencia desde 1998.",
+     "wiki": "Corte Interamericana de Derechos Humanos"
+    },
+    {
+     "nombre": "Guerra sucia en México",
+     "quien": "El periodo de represión en el que ocurrió la desaparición.",
+     "wiki": "Guerra sucia en México"
+    },
+    {
+     "nombre": "Tita Radilla",
+     "quien": "Hija de Rosendo; encabezó la búsqueda y el litigio durante décadas.",
+     "wiki": "Tita Radilla"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué doctrina estableció la Suprema Corte en 2011 a raíz del caso Radilla?",
+    "respuesta": "El control de convencionalidad: todos los jueces deben aplicar los tratados de derechos humanos por encima de una ley que los contradiga."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "comoFunciona",
+   "titulo": "Udemy: por qué el mismo curso le deja al autor 97% o 37%",
+   "contexto": "Udemy es uno de los mercados de cursos en línea más grandes del mundo. Cualquiera puede subir un curso de Excel, guitarra o contratos, ponerle precio y venderlo. Grabarlo cuesta trabajo una vez; venderlo a la persona mil cuesta casi nada.\n\nPero la plataforma no le paga al instructor un porcentaje fijo. Le paga según **quién trajo al alumno**.",
+   "pregunta": "Un alumno encuentra tu curso buscando dentro de Udemy, sin ningún enlace tuyo. ¿Qué parte del ingreso neto te toca?",
+   "opciones": [
+    "97%",
+    "50%",
+    "37%"
+   ],
+   "correcta": 2,
+   "revelacion": "**37%.** Si el alumno llega por un cupón o un enlace de referido del propio instructor, el instructor se queda con **97%**. Si lo encuentra Udemy, con su buscador, sus anuncios o sus promociones, el instructor recibe **37%** del ingreso neto. Antes era 50%; Udemy lo bajó en mayo de 2021.\n\nLa lógica es la del [[costo de adquisición|Lo que cuesta conseguir un cliente nuevo: publicidad, promociones, posicionamiento.]]. Quien consigue al cliente se queda con la mayor parte. El producto digital cuesta casi cero en reproducirse; lo caro es que alguien lo encuentre.\n\nPor eso muchos instructores serios usan Udemy como escaparate y construyen su propia audiencia: una lista de correo o redes donde ellos traen al alumno. Udemy no promete ingresos: la mayoría de los cursos vende poco. Lo valioso es entender dónde se reparte el dinero.",
+   "idea": "En lo digital, producir otra copia es gratis; el dinero se lo queda quien controla la llegada del cliente.",
+   "fuente": {
+    "nombre": "Udemy Support: Instructor Revenue Share",
+    "url": "https://support.udemy.com/hc/en-us/articles/229605008"
+   },
+   "wiki": "Massive Open Online Course",
+   "claves": [
+    {
+     "nombre": "Curso en línea masivo y abierto (MOOC)",
+     "quien": "El formato de cursos en línea para miles de alumnos que popularizaron Coursera y edX.",
+     "wiki": "Massive Open Online Course"
+    },
+    {
+     "nombre": "Economía creativa",
+     "quien": "La parte de la economía que vive de la creatividad y la propiedad intelectual.",
+     "wiki": "Economía creativa"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuándo recibe un instructor de Udemy 97% de la venta y cuándo 37%?",
+    "respuesta": "97% si el alumno llega por su cupón o enlace; 37% si lo trae Udemy por su buscador, anuncios o promociones."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Mente y decisiones",
+   "pilar": "mente",
+   "epoca": "1993",
+   "titulo": "El «efecto Mozart» duraba unos 15 minutos",
+   "dato": "El famoso estudio que dio origen a la idea de que Mozart te hace más inteligente se hizo con 36 universitarios. La mejora en una tarea espacial duró apenas el tiempo de la prueba.",
+   "explicacion": "En 1993, Frances Rauscher, Gordon Shaw y Katherine Ky publicaron en *Nature* que escuchar la Sonata para dos pianos K.448 mejoraba el razonamiento espacial. El efecto se medía en minutos. La prensa lo convirtió en «Mozart sube el coeficiente intelectual de los bebés», algo que el estudio nunca probó. En 1998, el gobernador de Georgia, Zell Miller, propuso 105,000 dólares al año para regalar música clásica a cada recién nacido.\n\nEn 2010, un [[metaanálisis|Estudio que combina los resultados de muchos estudios para ver el efecto de conjunto.]] de Jakob Pietschnig reunió 39 estudios: el efecto era mínimo y en parte inflado porque se publicaban más los resultados positivos. La lección: un hallazgo modesto, repetido sin matices, se vuelve mito.",
+   "fuente": {
+    "nombre": "Wikipedia (en): Mozart effect",
+    "url": "https://en.wikipedia.org/wiki/Mozart_effect"
+   },
+   "wiki": "Neuromitos sobre la música",
+   "claves": [
+    {
+     "nombre": "Wolfgang Amadeus Mozart",
+     "quien": "Compositor de la sonata K.448 usada en el experimento.",
+     "wiki": "Wolfgang Amadeus Mozart"
+    },
+    {
+     "nombre": "Neuromitos sobre la música",
+     "quien": "Creencias populares sobre música y cerebro que la ciencia no sostiene.",
+     "wiki": "Neuromitos sobre la música"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto duraba la mejora del estudio original del «efecto Mozart»?",
+    "respuesta": "Unos 10 a 15 minutos, el tiempo de la prueba de razonamiento espacial. Nunca se probó que subiera la inteligencia."
+   }
+  },
+  {
+   "materia": "Disciplina y hábitos",
+   "pilar": "caracter",
+   "epoca": "1958",
+   "titulo": "Hemingway llevaba una gráfica de palabras «para no engañarse»",
+   "dato": "Ernest Hemingway escribía de pie y anotaba cada día cuántas palabras había producido en una gráfica grande, pegada junto a él.",
+   "explicacion": "En la entrevista que dio a *The Paris Review* en 1958, el periodista George Plimpton describió su método. Las cifras diarias iban de 450, 575, 462 y 1,250 hasta 512. Hemingway explicó que llevaba la cuenta «para no engañarme». Los días de 1,250 palabras solían ser los previos a ir de pesca: trabajaba más para no sentirse culpable.\n\nLa idea coincide con lo que hoy se llama [[automonitoreo|Registrar tu propia conducta; solo el acto de medir tiende a mejorarla.]]: medir no es castigarse, es tener un espejo honesto. No contaba ideas brillantes, contaba trabajo hecho. Lo brillante salía del trabajo, no al revés.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ernest_Hemingway_Writing_at_Campsite_in_Kenya_-_NARA_-_192655.jpg?width=900",
+    "alt": "Un hombre escribe a mano en una mesa plegable al aire libre",
+    "pie": "Hemingway escribiendo en un campamento en Kenia, 1953.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "The Paris Review: Ernest Hemingway, The Art of Fiction No. 21",
+    "url": "https://www.theparisreview.org/interviews/4825/the-art-of-fiction-no-21-ernest-hemingway"
+   },
+   "wiki": "Ernest Hemingway",
+   "claves": [
+    {
+     "nombre": "Teoría del iceberg",
+     "quien": "La idea de Hemingway de mostrar poco y sugerir lo demás; también la explicó en esa entrevista.",
+     "wiki": "Teoría del iceberg"
+    },
+    {
+     "nombre": "El viejo y el mar",
+     "quien": "Su novela corta de 1952, que le ayudó a ganar el Nobel en 1954.",
+     "wiki": "El viejo y el mar"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué Hemingway anotaba sus palabras diarias en una gráfica?",
+    "respuesta": "«Para no engañarse»: medir el trabajo real del día, no la sensación de haber trabajado."
+   }
+  },
+  {
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "epoca": "1799",
+   "titulo": "A George Washington le sacaron cerca de 40% de su sangre",
+   "dato": "En sus últimas 12 horas, Washington fue sangrado cuatro veces: más de 2.3 litros. Uno de sus tres médicos se opuso a la última sangría.",
+   "explicacion": "El 14 de diciembre de 1799, Washington despertó con dolor de garganta y dificultad para respirar. Siguiendo la [[teoría de los humores|Idea médica antigua: la enfermedad viene de un desequilibrio de cuatro líquidos del cuerpo.]], la sangría era el tratamiento estándar. Su capataz hizo la primera. Los médicos James Craik, Gustavus Brown y Elisha Dick hicieron el resto. Dick, el más joven, protestó antes de la última, de unos 950 ml. Murió esa noche.\n\nNo se sabe si la sangría lo mató: probablemente tenía una infección grave de la epiglotis. Pero sí lo debilitó. La medicina tardó décadas en abandonar la práctica, hasta que los primeros estudios con números, como los de Pierre Louis en París en 1835, mostraron que no ayudaba.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Life_of_George_Washington%2C_Deathbed.jpg?width=900",
+    "alt": "Escena pintada de un hombre en su lecho de muerte rodeado de familiares y médicos",
+    "pie": "Washington en su lecho de muerte, en la serie de Junius Brutus Stearns (1851).",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "PBS NewsHour: Dec. 14, 1799: The excruciating final hours of President George Washington",
+    "url": "https://www.pbs.org/newshour/health/dec-14-1799-excruciating-final-hours-president-george-washington"
+   },
+   "wiki": "Sangría (tratamiento médico)",
+   "claves": [
+    {
+     "nombre": "George Washington",
+     "quien": "Primer presidente de EE. UU.; tenía 67 años al morir.",
+     "wiki": "George Washington"
+    },
+    {
+     "nombre": "Teoría de los cuatro humores",
+     "quien": "La base teórica de la sangría durante más de 2,000 años.",
+     "wiki": "Teoría de los cuatro humores"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánta sangre le sacaron a Washington en su último día?",
+    "respuesta": "Más de 2.3 litros en cuatro sangrías, cerca de 40% de su volumen de sangre."
+   }
+  },
+  {
+   "materia": "Religiones y grandes textos",
+   "pilar": "cultura",
+   "epoca": "1954",
+   "titulo": "Cuatro Rollos del Mar Muerto se anunciaron en el Wall Street Journal",
+   "dato": "El 1 de junio de 1954, un pequeño anuncio clasificado ofrecía en venta «Los cuatro Rollos del Mar Muerto». Israel los compró en secreto por 250,000 dólares.",
+   "explicacion": "Los rollos los encontraron pastores beduinos en cuevas cerca de Qumrán a partir de 1947. Cuatro llegaron a manos del metropolitano Athanasius Samuel, de la Iglesia siria ortodoxa, que los llevó a Estados Unidos. Al no encontrar comprador, puso el anuncio. El arqueólogo israelí Yigael Yadin lo vio y compró los rollos a través de un intermediario, con ayuda del filántropo D. S. Gottesman.\n\nEntre ellos estaba el Gran Rollo de Isaías, de unos mil años más antiguo que los manuscritos hebreos completos que se conocían. Hoy está en el [[Santuario del Libro|Edificio del Museo de Israel, en Jerusalén, con un techo blanco en forma de tapa de vasija.]]. Uno de los hallazgos más importantes del siglo XX pasó por la sección de clasificados.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Isaiah_Scroll.jpg?width=900",
+    "alt": "Un rollo de pergamino antiguo desenrollado, con columnas de escritura hebrea",
+    "pie": "El Gran Rollo de Isaías, uno de los cuatro anunciados en 1954.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Center for Online Judaic Studies: Discovery and acquisition of the Dead Sea Scrolls",
+    "url": "https://cojs.org/discovery_and_acquisition/"
+   },
+   "wiki": "Manuscritos del Mar Muerto",
+   "claves": [
+    {
+     "nombre": "Qumrán",
+     "quien": "El sitio arqueológico junto a las cuevas donde aparecieron los rollos.",
+     "wiki": "Qumrán"
+    },
+    {
+     "nombre": "Santuario del Libro",
+     "quien": "El edificio del Museo de Israel donde se conservan.",
+     "wiki": "Santuario del Libro"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo llegó Israel a comprar cuatro de los Rollos del Mar Muerto?",
+    "respuesta": "Por un anuncio en el Wall Street Journal del 1 de junio de 1954; Yigael Yadin los compró por 250,000 dólares mediante un intermediario."
+   }
+  },
+  {
+   "materia": "Derecho y poder",
+   "pilar": "mundo",
+   "epoca": "1456",
+   "titulo": "Juana de Arco fue declarada inocente 25 años después de quemada",
+   "dato": "En 1456 un tribunal de la Iglesia anuló la condena de Juana de Arco. Lo pidió su madre, Isabelle Romée, que pasó años reclamando justicia.",
+   "explicacion": "Juana fue quemada en Ruan el 30 de mayo de 1431, tras un juicio dirigido por el obispo Pierre Cauchon, aliado de los ingleses. Veinte años después, Francia había ganado la guerra. Al rey Carlos VII le incomodaba deberle la corona a una «hereje». El papa Calixto III autorizó un [[proceso de nulidad|Juicio que no absuelve, sino que declara que el juicio anterior fue inválido desde el principio.]] a petición de la madre y los hermanos de Juana.\n\nSe escucharon más de cien testigos. El 7 de julio de 1456 se declaró que el primer juicio estuvo lleno de fraude y errores de procedimiento. Es un ejemplo temprano de algo muy actual: revisar un juicio por cómo se hizo, no solo por su resultado. La canonización llegó hasta 1920.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ingres_coronation_charles_vii.jpg?width=900",
+    "alt": "Una joven con armadura sostiene un estandarte en una catedral",
+    "pie": "Juana de Arco en la coronación de Carlos VII, pintada por Ingres en 1854.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (en): Rehabilitation trial of Joan of Arc",
+    "url": "https://en.wikipedia.org/wiki/Rehabilitation_trial_of_Joan_of_Arc"
+   },
+   "wiki": "Juicio de Juana de Arco",
+   "claves": [
+    {
+     "nombre": "Juana de Arco",
+     "quien": "Campesina que dirigió tropas francesas en la guerra de los Cien Años.",
+     "wiki": "Juana de Arco"
+    },
+    {
+     "nombre": "Calixto III",
+     "quien": "Papa valenciano, de la familia Borgia, que autorizó el nuevo proceso.",
+     "wiki": "Calixto III"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué declaró el proceso de 1456 sobre la condena de Juana de Arco?",
+    "respuesta": "Que el juicio de 1431 fue nulo, por fraude y errores de procedimiento. Lo pidió su madre, con autorización del papa Calixto III."
+   }
+  },
+  {
+   "materia": "Inversión y finanzas personales",
+   "pilar": "patrimonio",
+   "epoca": "1954",
+   "titulo": "El Dow tardó 25 años en volver a su pico de 1929, o solo siete",
+   "dato": "El índice Dow Jones no recuperó su máximo de 1929 hasta el 23 de noviembre de 1954. Pero quien cobró dividendos recuperó su dinero real hacia finales de 1936.",
+   "explicacion": "El Dow llegó a 381.17 puntos el 3 de septiembre de 1929 y cayó a 41.22 el 8 de julio de 1932: una pérdida de 89%. Volvió a 381 apenas en noviembre de 1954. Es la cifra que se repite para asustar.\n\nEl analista Mark Hulbert señaló en 2009 que esa cuenta engaña. Ignora los [[dividendos|Parte de las ganancias que la empresa paga a sus accionistas.]], que en 1932 rendían cerca de 14%, y la [[deflación|Caída general de precios: con el mismo dinero compras más cosas.]], que bajó los precios más de 18%. Con ambos, quien compró en el pico recuperó su poder de compra hacia finales de 1936. No es un consejo de inversión: es una lección sobre cómo una sola cifra puede contar media historia.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Crowd_outside_nyse.jpg?width=900",
+    "alt": "Una multitud llena una calle frente a un edificio de columnas",
+    "pie": "Multitud frente a la Bolsa de Nueva York en octubre de 1929.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "History News Network: Mark Hulbert, 25 Years to Bounce Back? Try 4½",
+    "url": "https://www.historynewsnetwork.org/article/mark-hulbert-25-years-to-bounce-back-try-4-12"
+   },
+   "wiki": "Crac del 29",
+   "claves": [
+    {
+     "nombre": "Promedio Industrial Dow Jones",
+     "quien": "Índice de 30 grandes empresas de EE. UU.; no incluye dividendos.",
+     "wiki": "Promedio Industrial Dow Jones"
+    },
+    {
+     "nombre": "Gran Depresión",
+     "quien": "La crisis económica mundial que siguió al crac.",
+     "wiki": "Gran Depresión"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué es engañoso decir que tras 1929 se tardó 25 años en recuperar la inversión?",
+    "respuesta": "Porque el índice ignora los dividendos y la deflación. Con ambos, quien compró en el pico recuperó su poder de compra hacia 1936."
+   }
+  },
+  {
+   "materia": "El cosmos",
+   "pilar": "futuro",
+   "epoca": "1846",
+   "titulo": "Neptuno se descubrió con papel y lápiz, y Galileo ya lo había visto",
+   "dato": "Neptuno fue el primer planeta hallado por cálculo: un astrónomo francés dijo dónde buscar y otro lo encontró a menos de un grado, la primera noche.",
+   "explicacion": "Urano no se movía como debía. Urbain Le Verrier, en París, supuso que lo jalaba un planeta desconocido y calculó su posición. Envió una carta al Observatorio de Berlín. La noche del 23 al 24 de septiembre de 1846, Johann Galle apuntó el telescopio y encontró Neptuno a cerca de un grado del lugar previsto. En Inglaterra, John Couch Adams había hecho cálculos parecidos.\n\nLo curioso: Galileo dibujó Neptuno en sus notas en 1612, mientras observaba Júpiter, y lo tomó por una estrella. Le faltó la teoría para reconocerlo. La [[mecánica celeste|Rama de la astronomía que calcula el movimiento de los astros con las leyes de la gravedad.]] de Newton fue la que convirtió una anomalía en un planeta.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Neptune_Full_Disk_View_-_GPN-2000-000443.jpg?width=900",
+    "alt": "Un planeta azul intenso con manchas oscuras y nubes blancas",
+    "pie": "Neptuno fotografiado por la sonda Voyager 2 en 1989.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "NASA: 175 Years Ago, Astronomers Discover Neptune, the Eighth Planet",
+    "url": "https://www.nasa.gov/history/175-years-ago-astronomers-discover-neptune-the-eighth-planet"
+   },
+   "wiki": "Descubrimiento de Neptuno",
+   "claves": [
+    {
+     "nombre": "Urbain Le Verrier",
+     "quien": "Matemático francés que calculó dónde debía estar Neptuno.",
+     "wiki": "Urbain Le Verrier"
+    },
+    {
+     "nombre": "Neptuno",
+     "quien": "El octavo planeta; tarda unos 165 años en dar una vuelta al Sol.",
+     "wiki": "Neptuno (planeta)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué tuvo de especial el descubrimiento de Neptuno en 1846?",
+    "respuesta": "Fue el primer planeta hallado por cálculo: Le Verrier predijo su posición y Galle lo encontró a cerca de un grado."
+   }
+  },
+  {
+   "materia": "Gastronomía, vino y destilados",
+   "pilar": "gusto",
+   "epoca": "1806",
+   "titulo": "El hombre que vendió hielo de Boston en el trópico",
+   "dato": "En 1806, Frederic Tudor mandó un barco cargado de hielo de los estanques de Massachusetts a la isla de Martinica. Perdió dinero. Décadas después lo llamaban «el Rey del Hielo».",
+   "explicacion": "La gente se rio de él. El primer envío salió el 10 de febrero de 1806 en el bergantín *Favorite* y le costó unos 4,500 dólares de pérdida: en el Caribe nadie sabía guardar ni usar el hielo. Tudor tuvo que enseñar el uso. Regalaba bebidas frías para que la gente se acostumbrara y mejoró el aislamiento con aserrín.\n\nEn 1833 mandó 180 toneladas a Calcuta en el barco *Tuscany*; llegaron unas 100, tras cuatro meses de viaje. El [[comercio del hielo|Negocio del siglo XIX que cortaba hielo natural en invierno y lo enviaba por barco a climas cálidos.]] cambió la forma de beber: hizo posibles los cocteles con hielo y las bebidas frías que hoy damos por sentadas. Murió rico en 1864.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvesting_Ice_in_Indiana.JPG?width=900",
+    "alt": "Trabajadores cortan bloques de hielo sobre un lago congelado",
+    "pie": "Cosecha de hielo natural en un lago de Indiana, el mismo oficio que surtía a Tudor.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (en): Frederic Tudor",
+    "url": "https://en.wikipedia.org/wiki/Frederic_Tudor"
+   },
+   "wiki": "Comercio del hielo",
+   "claves": [
+    {
+     "nombre": "Comercio del hielo",
+     "quien": "La industria que Tudor fundó y que duró hasta la llegada de la refrigeración.",
+     "wiki": "Comercio del hielo"
+    },
+    {
+     "nombre": "Cóctel",
+     "quien": "Las bebidas mezcladas que el hielo barato volvió populares.",
+     "wiki": "Cóctel"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué tuvo que hacer Frederic Tudor para vender hielo en el Caribe?",
+    "respuesta": "Enseñar a usarlo: regalaba bebidas frías para crear la costumbre y mejoró el aislamiento con aserrín."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "El Príncipe",
+  "autor": "Nicolás Maquiavelo",
+  "capitulo": {
+   "numero": 5,
+   "total": 6,
+   "titulo": "El zorro y el león"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Septimius_Severus_busto-Musei_Capitolini.jpg?width=900",
+   "alt": "Busto de mármol de un emperador romano con barba rizada",
+   "pie": "Septimio Severo, el emperador que Maquiavelo describe como león valiente y zorro astuto.",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "¿Debe un líder cumplir siempre su palabra? Si dices que sí sin pensarlo, Maquiavelo te va a incomodar. Si dices que no, también.\n\nEn los capítulos XVIII y XIX de *El Príncipe*, Maquiavelo da el paso más polémico de todo el libro. Ya habló de ejércitos, de generosidad y de miedo. Ahora pregunta por la [[palabra empeñada|Promesa que alguien da y por la que se compromete su honor.]]: los tratados, las alianzas, la confianza.\n\nEs el capítulo que hizo que el papa prohibiera el libro en 1559 y que Shakespeare pusiera en boca de un villano a «el asesino Maquiavelo». Leámoslo con calma, porque dice cosas más incómodas que su fama, y también más útiles."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Capítulo XVIII: dos maneras de pelear"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Maquiavelo empieza con una concesión. Todos sabemos que es digno de alabanza el príncipe que cumple su palabra y vive con integridad. Pero, advierte, la experiencia de su tiempo muestra lo contrario: los que hicieron grandes cosas tomaron poco en cuenta la fe dada y supieron enredar a los demás con astucia.\n\nHay dos formas de combatir, dice: con las leyes, que es propia de los hombres, y con la fuerza, que es propia de las bestias. Como la primera muchas veces no basta, hay que saber usar la segunda.\n\nAquí recurre a un mito griego. Aquiles y otros héroes fueron educados por el centauro Quirón, mitad hombre y mitad caballo. Para Maquiavelo, la imagen significa que un gobernante necesita las dos naturalezas."
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Santi_di_Tito_-_Niccolo_Machiavelli%27s_portrait_headcrop.jpg?width=900",
+    "alt": "Retrato renacentista de un hombre delgado vestido de negro",
+    "pie": "Maquiavelo escribió El Príncipe en 1513, en el exilio, sin saber que lo leerían quinientos años.",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El zorro y el león"
+   },
+   {
+    "tipo": "texto",
+    "texto": "De todas las bestias, el príncipe debe imitar a dos. Es el pasaje más citado del libro:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Un príncipe, obligado a saber usar bien la bestia, debe tomar de ella al zorro y al león, porque el león no se defiende de las trampas y el zorro no se defiende de los lobos. Es necesario, pues, ser zorro para conocer las trampas y león para espantar a los lobos.",
+    "fuente": "El Príncipe, cap. XVIII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La idea es fina. El león solo es fuerte, y cae en la primera trampa. El zorro solo es listo, y lo devoran en cuanto llega alguien más grande. Quien quiere ser únicamente león, dice Maquiavelo, «no entiende de esto».\n\nPiensa en una negociación con un distribuidor grande. Si solo eres león, amenazas y pierdes el contrato por no ver la cláusula escondida. Si solo eres zorro, lees todas las cláusulas pero cedes en todo porque no te atreves a levantarte de la mesa."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Por qué, según Maquiavelo, no basta con ser león?",
+    "opciones": [
+     "Porque el león es demasiado cruel y la gente lo odia",
+     "Porque el león no sabe defenderse de las trampas",
+     "Porque el león es lento y pierde las guerras"
+    ],
+    "correcta": 1,
+    "explicacion": "El león espanta a los lobos, pero cae en las trampas. Para verlas hace falta el zorro. Por eso pide las dos naturalezas."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La promesa que ya no obliga"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Luego viene la frase que escandalizó a Europa. Un señor prudente, escribe, no puede ni debe cumplir su palabra cuando hacerlo se vuelve en su contra y cuando ya no existen las razones que lo llevaron a prometer.\n\nY la justifica así: si los hombres fueran todos buenos, este consejo no sería bueno. Pero como son malos y no te cumplirían a ti, tú tampoco tienes por qué cumplirles a ellos. Agrega, con ironía, que a un príncipe nunca le faltan razones legítimas para disfrazar su incumplimiento.\n\nSu ejemplo es el papa Alejandro VI, padre de César Borgia. Nunca hizo otra cosa que engañar, dice, y siempre encontró a quién engañar. Nadie juraba con más fuerza, y nadie cumplía menos."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Parecer y ser"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Lo más moderno del capítulo no es el engaño, sino la imagen. Maquiavelo dice que el príncipe no necesita tener todas las virtudes: compasión, lealtad, humanidad, integridad, religión. Le basta *parecer* que las tiene. Y, si puede, conviene que las tenga de verdad, siempre que sepa cambiar cuando haga falta."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Todos ven lo que pareces; pocos sienten lo que eres, y esos pocos no se atreven a oponerse a la opinión de los muchos.",
+    "fuente": "El Príncipe, cap. XVIII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Y remata: los hombres en general juzgan más por los ojos que por las manos. A todos les toca ver, pero a pocos tocar.\n\nEs una descripción cruda de la [[reputación|La opinión que los demás tienen de alguien; para Maquiavelo, un recurso político tan real como un ejército.]]. Sirve para entender a un político y también a una marca. El público juzga por el empaque, la publicidad y el resultado visible. Los pocos que conocen la cocina rara vez cambian la opinión general."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Capítulo XIX: no ser odiado ni despreciado"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Si el XVIII da permiso para engañar, el XIX pone un límite. El título lo dice: *De cómo evitar ser despreciado y odiado*. Para Maquiavelo, esos son los dos únicos errores que de verdad tumban a un gobernante.\n\nTe vuelve **odiado** quitarle a la gente sus bienes y sus mujeres. Te vuelve **despreciable** parecer voluble, frívolo, cobarde o indeciso. Contra eso, dice, el príncipe debe mostrar en sus actos grandeza, ánimo, seriedad y fortaleza, y que sus decisiones sean irrevocables.\n\nAquí aparece su análisis de las [[conjuras|Planes secretos de varias personas para derrocar o matar a un gobernante.]]. Un conspirador, explica, solo se atreve si cree que la gente se alegrará de la muerte del príncipe. Por eso el mejor remedio contra las conspiraciones es no ser odiado por el pueblo."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Uno de los remedios más eficaces que un príncipe tiene contra las conjuras es no ser odiado por la generalidad.",
+    "fuente": "El Príncipe, cap. XIX"
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Septimius_Severus_busto-Musei_Capitolini.jpg?width=900",
+    "alt": "Busto de mármol de un emperador romano con barba rizada",
+    "pie": "Septimio Severo, emperador de 193 a 211. Maquiavelo lo pone como modelo del zorro y el león juntos.",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Los emperadores romanos"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Para probarlo, Maquiavelo repasa a los emperadores romanos de Marco Aurelio a Maximino. El problema de Roma era especial: además del pueblo, había que contentar a soldados ávidos de saqueo. Casi todos murieron asesinados.\n\nSe salvan dos tipos. Marco Aurelio, que llegó al trono por herencia y fue respetado por su vida virtuosa. Y Septimio Severo, a quien describe con la imagen del capítulo anterior: un león muy valiente y un zorro muy astuto. Engañó a sus rivales uno por uno y fue temido y respetado por todos.\n\nEl contraste es Cómodo, hijo de Marco Aurelio. Heredó el trono fácil, pero bajó a la arena a pelear con gladiadores. Se volvió despreciable a ojos de sus propios soldados, y lo mataron."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "Según el capítulo XIX, ¿cuál es el mejor remedio contra las conspiraciones?",
+    "opciones": [
+     "Tener una guardia personal muy numerosa",
+     "Castigar con dureza a los sospechosos",
+     "No ser odiado ni despreciado por el pueblo"
+    ],
+    "correcta": 2,
+    "explicacion": "Un conspirador solo actúa si cree que el pueblo aplaudirá. Si el príncipe no es odiado ni despreciado, la conjura no tiene a quién apoyarse."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Leerlo hoy"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es fácil quedarse con lo escandaloso: «miente cuando te convenga». Pero leído entero, el capítulo XVIII y el XIX forman una pareja. Uno dice que la astucia es necesaria. El otro dice que hay un precio que nunca debes pagar: el odio o el desprecio de quienes dependen de ti.\n\nEn una empresa, esto se traduce sin dificultad. Un director puede reservarse información, cambiar de plan o romper un acuerdo que ya no tiene sentido. Lo que no sobrevive es que su equipo lo vea como alguien que roba el mérito o que no decide nunca.\n\nY hay una advertencia más fina. Maquiavelo dice que la apariencia basta porque pocos tocan. Pero en tiempos de internet, de pantallazos y de reseñas, cada vez más gente toca. La distancia entre parecer y ser se ha vuelto más corta, y más cara."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "¿De verdad Maquiavelo defendía la mentira?",
+    "texto": "Los especialistas discuten. Algunos, como Leo Strauss, lo leyeron como un maestro del mal. Otros, como Isaiah Berlin, vieron en él a alguien que separó la ética política de la ética privada: no dijo que el engaño fuera bueno, sino que la política tiene reglas propias. Rousseau llegó a pensar que *El Príncipe* era una sátira para advertir a los pueblos. Ninguna lectura es definitiva."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Próximo capítulo"
+   },
+   {
+    "tipo": "texto",
+    "texto": "En el capítulo final de este libro, Maquiavelo se pregunta cuánto de nuestra vida depende de la fortuna y cuánto de nuestra voluntad. Y cierra con una exhortación apasionada a liberar Italia de los extranjeros."
+   }
+  ],
+  "paraLlevar": [
+   "Fuerza sin astucia cae en trampas; astucia sin fuerza cae ante los lobos.",
+   "La gente juzga por lo que ve; pocos tocan, pero cada vez son más.",
+   "Puedes cambiar de plan; lo que no se perdona es ser odiado o despreciado."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Qué representan el zorro y el león en el capítulo XVIII?",
+    "respuesta": "El zorro, la astucia para ver las trampas; el león, la fuerza para espantar a los lobos. El príncipe necesita las dos."
+   },
+   {
+    "pregunta": "¿Qué dos errores, según el capítulo XIX, tumban a un gobernante?",
+    "respuesta": "Ser odiado (por quitar bienes a la gente) y ser despreciado (por parecer voluble, frívolo, cobarde o indeciso)."
+   }
+  ],
+  "proximo": "El Príncipe · Capítulo 6: la fortuna, el río y la exhortación a Italia",
+  "fuentes": [
+   {
+    "nombre": "Proyecto Gutenberg: The Prince, de Nicolás Maquiavelo (trad. W. K. Marriott, dominio público)",
+    "url": "https://gutenberg.org/files/1232/1232-h/1232-h.htm"
+   },
+   {
+    "nombre": "Wikipedia: El príncipe",
+    "url": "https://es.wikipedia.org/wiki/El_pr%C3%ADncipe"
+   },
+   {
+    "nombre": "Wikipedia: Septimio Severo",
+    "url": "https://es.wikipedia.org/wiki/Septimio_Severo"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de W. K. Marriott (dominio público), en el Proyecto Gutenberg."
+ },
+ "palabra": {
+  "palabra": "Paralaje",
+  "categoria": "Sustantivo femenino",
+  "pronunciacion": "pa-ra-LA-je",
+  "definicion": "Cambio aparente en la posición de un objeto cuando se observa desde dos puntos distintos. En astronomía, el ángulo que permite calcular la distancia a un astro.",
+  "origen": "Del griego *parállaxis*, «cambio, alternancia», de *parallássein*, «cambiar, desviarse».",
+  "ejemplo": "Con la paralaje de Venus en 1769, los astrónomos calcularon por fin la distancia al Sol.",
+  "repaso": {
+   "pregunta": "¿Qué es la paralaje y para qué sirve en astronomía?",
+   "respuesta": "El cambio aparente de posición de un objeto visto desde dos puntos. Su ángulo permite calcular la distancia a un astro."
+  }
+ },
+ "frances": {
+  "frase": "Il faut tourner sept fois sa langue dans sa bouche avant de parler.",
+  "traduccion": "«Hay que darle siete vueltas a la lengua en la boca antes de hablar».",
+  "pronunciacion": "il fo tur-NÉ set fua sa LANG dan sa BUSH a-VAN de par-LÉ",
+  "uso": "Cultura y conversación. Se dice para recomendar pensar antes de hablar, sobre todo en un momento tenso o en una negociación. Es un refrán muy francés y se usa tanto en serio como con humor: «Avant de répondre au client, tourne sept fois ta langue dans ta bouche».",
+  "variante": "Más corta: « Réfléchis avant de parler. » («Piensa antes de hablar»).",
+  "repaso": {
+   "pregunta": "¿Cómo se dice en francés «hay que pensar antes de hablar» con el refrán de la lengua?",
+   "respuesta": "« Il faut tourner sept fois sa langue dans sa bouche avant de parler. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Qué querían calcular los astrónomos al observar los tránsitos de Venus de 1761 y 1769?",
+   "opciones": [
+    "La distancia entre la Tierra y el Sol",
+    "El tamaño de Venus",
+    "La edad del Sistema Solar"
+   ],
+   "correcta": 0,
+   "explicacion": "Por paralaje, cronometrando el tránsito desde lugares lejanos. Encke obtuvo en 1824 unos 153 millones de km; el valor actual es 149.6 millones."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Qué resultado concreto tuvo la reunión entre Sheinbaum y Trump en la APEC?",
+   "opciones": [
+    "El retiro de los aranceles al acero y al aluminio",
+    "La firma de la revisión del T-MEC",
+    "Ningún acuerdo final; se verán de nuevo en diciembre"
+   ],
+   "correcta": 2,
+   "explicacion": "Sheinbaum habló de avances y 56 reuniones técnicas, pero no hubo acuerdo ni alivio arancelario. Se verán en el G20 de Miami."
+  },
+  {
+   "origen": "materias",
+   "pregunta": "¿Qué cambió en México a raíz del caso Radilla Pacheco?",
+   "opciones": [
+    "Se creó la Guardia Nacional",
+    "Todos los jueces deben aplicar los tratados de derechos humanos por encima de leyes que los contradigan",
+    "Se eliminó el Código de Justicia Militar"
+   ],
+   "correcta": 1,
+   "explicacion": "En 2011 la Suprema Corte estableció el control de convencionalidad (expediente Varios 912/2010), tras la sentencia de la Corte Interamericana de 2009."
+  }
+ ],
+ "libro": null,
+ "proximo": "1853: Haussmann abre París a cuchillo"
+}

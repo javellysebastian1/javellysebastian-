@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18",
+ "actualizado": "2026-11-19",
  "materias": {
   "Arquitectura y diseño": [
    {
@@ -232,17 +232,6 @@
   ],
   "Ciencia y tecnología": [
    {
-    "materia": "Ciencia y tecnología",
-    "pilar": "futuro",
-    "epoca": "1991",
-    "titulo": "La primera cámara web vigilaba una cafetera",
-    "dato": "En 1991, unos científicos de la Universidad de Cambridge apuntaron una cámara a la cafetera de su laboratorio para saber, sin bajar las escaleras, si quedaba café. En 1993 la pusieron en internet: fue la primera cámara web.",
-    "explicacion": "La cafetera estaba en la llamada Sala Troyana del laboratorio de computación. Un programa llamado XCoffee mandaba la imagen a las computadoras del edificio. En 1993, cuando nació la web, la conectaron a una página y gente de todo el mundo empezó a mirar una cafetera en Inglaterra.\n\nEn 2001 apagaron la cámara y subastaron la cafetera, ya descompuesta. La compró *Spiegel Online*, la edición en internet de la revista alemana *Der Spiegel*, por 3,350 libras. Muchas tecnologías nacen así: alguien resuelve una molestia pequeña y abre una puerta enorme.",
-    "fuente": {
-     "nombre": "The Register: Trojan Room coffee pot sells for £3,350 (13 ago 2001)",
-     "url": "https://www.theregister.com/2001/08/13/trojan_room_coffee_pot_sells/"
-    },
-    "wiki": "Cafetera Trojan Room",
     "claves": [
      {
       "nombre": "Cámara web",
@@ -255,11 +244,22 @@
       "wiki": "Universidad de Cambridge"
      }
     ],
+    "dato": "En 1991, unos científicos de la Universidad de Cambridge apuntaron una cámara a la cafetera de su laboratorio para saber, sin bajar las escaleras, si quedaba café. En 1993 la pusieron en internet: fue la primera cámara web.",
+    "epoca": "1991",
+    "explicacion": "La cafetera estaba en la llamada Sala Troyana del laboratorio de computación. Un programa llamado XCoffee mandaba la imagen a las computadoras del edificio. En 1993, cuando nació la web, la conectaron a una página y gente de todo el mundo empezó a mirar una cafetera en Inglaterra.\n\nEn 2001 apagaron la cámara y subastaron la cafetera, ya descompuesta. La compró *Spiegel Online*, la edición en internet de la revista alemana *Der Spiegel*, por 3,350 libras. Muchas tecnologías nacen así: alguien resuelve una molestia pequeña y abre una puerta enorme.",
+    "fecha": "2026-11-18",
+    "fuente": {
+     "nombre": "The Register: Trojan Room coffee pot sells for £3,350 (13 ago 2001)",
+     "url": "https://www.theregister.com/2001/08/13/trojan_room_coffee_pot_sells/"
+    },
+    "materia": "Ciencia y tecnología",
+    "pilar": "futuro",
     "repaso": {
      "pregunta": "¿Qué vigilaba la primera cámara web y por qué?",
      "respuesta": "Una cafetera del laboratorio de computación de Cambridge, para saber si quedaba café sin bajar las escaleras. Llegó a la web en 1993."
     },
-    "fecha": "2026-11-18"
+    "titulo": "La primera cámara web vigilaba una cafetera",
+    "wiki": "Cafetera Trojan Room"
    },
    {
     "claves": [
@@ -397,42 +397,6 @@
     },
     "titulo": "El código QR se inspiró en un tablero de Go",
     "wiki": "Código QR"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Arroba",
-      "quien": "El símbolo que Tomlinson eligió para las direcciones de correo.",
-      "wiki": "Arroba (símbolo)"
-     },
-     {
-      "nombre": "Historia de Internet",
-      "quien": "De ARPANET a la red actual.",
-      "wiki": "Historia de Internet"
-     }
-    ],
-    "dato": "Ray Tomlinson envió en 1971 el primer correo entre dos computadoras. Eligió la @ para separar usuario y máquina. Y olvidó qué escribió.",
-    "epoca": "1971",
-    "explicacion": "Tomlinson trabajaba en la empresa BBN, en Estados Unidos. Mandó mensajes de prueba entre dos computadoras que estaban una junto a otra, conectadas por ARPANET, la red antecesora de internet. Eligió la [[arroba|El símbolo @. Tomlinson lo usó porque no aparecía en los nombres de las personas.]] porque no se usaba en nombres.\n\nSobre el contenido dijo: «Los mensajes de prueba eran del todo olvidables, y por eso los he olvidado». Probablemente era algo como «QWERTYUIOP». Los inventos que cambian el mundo rara vez se sienten históricos el día que nacen.",
-    "fecha": "2026-11-03",
-    "fuente": {
-     "nombre": "Wikipedia (inglés): Ray Tomlinson",
-     "url": "https://en.wikipedia.org/wiki/Ray_Tomlinson"
-    },
-    "imagen": {
-     "alt": "Diagrama de nodos y líneas que conectan computadoras",
-     "credito": "Wikimedia Commons",
-     "pie": "Mapa lógico de ARPANET, marzo de 1977",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arpanet_logical_map%2C_march_1977.png?width=900"
-    },
-    "materia": "Ciencia y tecnología",
-    "pilar": "futuro",
-    "repaso": {
-     "pregunta": "¿Por qué Tomlinson eligió la @ para el correo electrónico?",
-     "respuesta": "Porque no aparecía en los nombres de las personas, así que servía para separar usuario y computadora."
-    },
-    "titulo": "Nadie recuerda qué decía el primer correo electrónico",
-    "wiki": "Correo electrónico"
    }
   ],
   "Cine y fotografía": [
@@ -541,23 +505,6 @@
   ],
   "Ciudades del mundo": [
    {
-    "materia": "Ciudades del mundo",
-    "pilar": "mundo",
-    "epoca": "1909",
-    "titulo": "La Torre Eiffel tenía permiso solo por 20 años",
-    "dato": "La Torre Eiffel se construyó para la Exposición Universal de 1889 con un permiso de 20 años. La salvó de la demolición la radio: servía como antena gigante.",
-    "explicacion": "Gustave Eiffel sabía que el terreno volvería a la ciudad de París el 1 de enero de 1910, y que la torre podía desmontarse. Para hacerla indispensable, apoyó experimentos científicos. En 1898, Eugène Ducretet hizo desde ella el primer enlace de radio en Morse con el Panteón, a 4 kilómetros. El capitán Gustave Ferrié la convirtió en estación militar de radiotelegrafía.\n\nEn 1908 ya alcanzaba contactos a 6,000 kilómetros. En 1909 la ciudad le renovó la concesión por 70 años. En 1918 su antena interceptó un radiograma alemán que ayudó a descifrar planes enemigos. El monumento más famoso de París sobrevivió por ser útil, no por ser bello.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tour_Eiffel_Wikimedia_Commons.jpg?width=900",
-     "alt": "La Torre Eiffel vista desde abajo contra un cielo azul",
-     "pie": "La Torre Eiffel, en el Campo de Marte de París. Mide unos 330 metros con sus antenas.",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Tour Eiffel (sitio oficial): How did radio save the Tower?",
-     "url": "https://www.toureiffel.paris/en/news/130-years/how-did-radio-save-tower"
-    },
-    "wiki": "Torre Eiffel",
     "claves": [
      {
       "nombre": "Gustave Eiffel",
@@ -570,11 +517,28 @@
       "wiki": "Exposición Universal de París (1889)"
      }
     ],
+    "dato": "La Torre Eiffel se construyó para la Exposición Universal de 1889 con un permiso de 20 años. La salvó de la demolición la radio: servía como antena gigante.",
+    "epoca": "1909",
+    "explicacion": "Gustave Eiffel sabía que el terreno volvería a la ciudad de París el 1 de enero de 1910, y que la torre podía desmontarse. Para hacerla indispensable, apoyó experimentos científicos. En 1898, Eugène Ducretet hizo desde ella el primer enlace de radio en Morse con el Panteón, a 4 kilómetros. El capitán Gustave Ferrié la convirtió en estación militar de radiotelegrafía.\n\nEn 1908 ya alcanzaba contactos a 6,000 kilómetros. En 1909 la ciudad le renovó la concesión por 70 años. En 1918 su antena interceptó un radiograma alemán que ayudó a descifrar planes enemigos. El monumento más famoso de París sobrevivió por ser útil, no por ser bello.",
+    "fecha": "2026-11-18",
+    "fuente": {
+     "nombre": "Tour Eiffel (sitio oficial): How did radio save the Tower?",
+     "url": "https://www.toureiffel.paris/en/news/130-years/how-did-radio-save-tower"
+    },
+    "imagen": {
+     "alt": "La Torre Eiffel vista desde abajo contra un cielo azul",
+     "credito": "Wikimedia Commons",
+     "pie": "La Torre Eiffel, en el Campo de Marte de París. Mide unos 330 metros con sus antenas.",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tour_Eiffel_Wikimedia_Commons.jpg?width=900"
+    },
+    "materia": "Ciudades del mundo",
+    "pilar": "mundo",
     "repaso": {
      "pregunta": "¿Qué salvó a la Torre Eiffel de ser desmontada al vencer su permiso en 1910?",
      "respuesta": "Su uso como antena de radiotelegrafía. En 1909 la ciudad le renovó la concesión por 70 años."
     },
-    "fecha": "2026-11-18"
+    "titulo": "La Torre Eiffel tenía permiso solo por 20 años",
+    "wiki": "Torre Eiffel"
    },
    {
     "claves": [
@@ -716,63 +680,10 @@
     },
     "titulo": "Un palacio de Ámsterdam se apoya en 13,659 troncos",
     "wiki": "Palacio Real de Ámsterdam"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Lúcio Costa",
-      "quien": "Urbanista (1902–1998) que diseñó el plan de Brasilia.",
-      "wiki": "Lúcio Costa"
-     },
-     {
-      "nombre": "Brasilia",
-      "quien": "La capital de Brasil desde 1960, construida en unos cuatro años.",
-      "wiki": "Brasilia"
-     }
-    ],
-    "dato": "Todo el mundo dice que Brasilia tiene forma de avión. Su urbanista, Lúcio Costa, la explicó de otra manera: dos ejes que se cruzan, el signo de la cruz.",
-    "epoca": "1957",
-    "explicacion": "En 1957 Costa ganó el concurso para la nueva capital de Brasil con un plan muy sencillo: dos ejes que se cruzan en ángulo recto, curvados para adaptarse al terreno. Lo describió como el gesto de quien toma posesión de un lugar: el signo de la cruz. La ciudad se inauguró el 21 de abril de 1960.\n\nLo del avión se volvió la lectura popular. Según el Correio Braziliense, Costa lo comparaba más bien con una mariposa. Es un buen recordatorio: una forma no significa lo mismo para quien la diseña que para quien la mira.",
-    "fecha": "2026-11-03",
-    "fuente": {
-     "nombre": "Correio Braziliense: É um pássaro? É um avião? Não, é uma borboleta",
-     "url": "https://blogs.correiobraziliense.com.br/candangando/e-um-passaro-e-um-aviao-nao-e-uma-borboleta/"
-    },
-    "imagen": {
-     "alt": "Dos torres gemelas entre una cúpula y un cuenco de concreto blanco",
-     "credito": "Wikimedia Commons",
-     "pie": "El Congreso Nacional en Brasilia, de Oscar Niemeyer",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brasilia_Congresso_Nacional_05_2007_221.jpg?width=900"
-    },
-    "materia": "Ciudades del mundo",
-    "pilar": "mundo",
-    "repaso": {
-     "pregunta": "¿Cómo describió Lúcio Costa el plan de Brasilia?",
-     "respuesta": "Como dos ejes que se cruzan en ángulo recto: el signo de la cruz. Lo del avión es una lectura popular."
-    },
-    "titulo": "Brasilia no se dibujó como un avión",
-    "wiki": "Plan Piloto de Brasilia"
    }
   ],
   "Deporte y aire libre": [
    {
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "epoca": "1972",
-    "titulo": "Las pelotas de tenis se volvieron amarillas por la televisión",
-    "dato": "Durante casi un siglo, las pelotas de tenis fueron blancas o negras. En 1972, la Federación Internacional de Tenis aprobó las amarillas porque se veían mejor en la televisión a color. Wimbledon tardó 14 años más en aceptarlas.",
-    "explicacion": "A fines de los sesenta, la televisión a color y el interés por el tenis crecían. Las investigaciones mostraron que una pelota amarilla brillante se distinguía mucho mejor en pantalla. Según el All England Club, una de las personas que impulsaron el cambio fue David Attenborough, entonces directivo de la BBC.\n\nWimbledon, fiel a su tradición de blanco, las adoptó hasta 1986. Su compendio oficial reconoce un motivo práctico: las pelotas blancas se manchaban de verde con el pasto. El color de un deporte se decidió por el espectador, no por el jugador.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tennis_ball_01.jpg?width=900",
-     "alt": "Una pelota de tenis amarilla sobre fondo claro",
-     "pie": "Una pelota de tenis amarilla: el color se volvió reglamentario en 1972.",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "AP vía NBC New York: Why tennis balls are yellow (jul 2024)",
-     "url": "https://www.nbcnewyork.com/news/sports/tennis/why-tennis-balls-are-yellow/5561395/"
-    },
-    "wiki": "Pelota de tenis",
     "claves": [
      {
       "nombre": "Campeonato de Wimbledon",
@@ -785,11 +696,28 @@
       "wiki": "David Attenborough"
      }
     ],
+    "dato": "Durante casi un siglo, las pelotas de tenis fueron blancas o negras. En 1972, la Federación Internacional de Tenis aprobó las amarillas porque se veían mejor en la televisión a color. Wimbledon tardó 14 años más en aceptarlas.",
+    "epoca": "1972",
+    "explicacion": "A fines de los sesenta, la televisión a color y el interés por el tenis crecían. Las investigaciones mostraron que una pelota amarilla brillante se distinguía mucho mejor en pantalla. Según el All England Club, una de las personas que impulsaron el cambio fue David Attenborough, entonces directivo de la BBC.\n\nWimbledon, fiel a su tradición de blanco, las adoptó hasta 1986. Su compendio oficial reconoce un motivo práctico: las pelotas blancas se manchaban de verde con el pasto. El color de un deporte se decidió por el espectador, no por el jugador.",
+    "fecha": "2026-11-18",
+    "fuente": {
+     "nombre": "AP vía NBC New York: Why tennis balls are yellow (jul 2024)",
+     "url": "https://www.nbcnewyork.com/news/sports/tennis/why-tennis-balls-are-yellow/5561395/"
+    },
+    "imagen": {
+     "alt": "Una pelota de tenis amarilla sobre fondo claro",
+     "credito": "Wikimedia Commons",
+     "pie": "Una pelota de tenis amarilla: el color se volvió reglamentario en 1972.",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tennis_ball_01.jpg?width=900"
+    },
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
     "repaso": {
      "pregunta": "¿Por qué la Federación Internacional de Tenis aprobó pelotas amarillas en 1972?",
      "respuesta": "Porque se veían mejor en la televisión a color. Wimbledon las adoptó hasta 1986."
     },
-    "fecha": "2026-11-18"
+    "titulo": "Las pelotas de tenis se volvieron amarillas por la televisión",
+    "wiki": "Pelota de tenis"
    },
    {
     "claves": [
@@ -1048,6 +976,42 @@
   ],
   "Derecho y poder": [
    {
+    "materia": "Derecho y poder",
+    "pilar": "mundo",
+    "epoca": "1456",
+    "titulo": "Juana de Arco fue declarada inocente 25 años después de quemada",
+    "dato": "En 1456 un tribunal de la Iglesia anuló la condena de Juana de Arco. Lo pidió su madre, Isabelle Romée, que pasó años reclamando justicia.",
+    "explicacion": "Juana fue quemada en Ruan el 30 de mayo de 1431, tras un juicio dirigido por el obispo Pierre Cauchon, aliado de los ingleses. Veinte años después, Francia había ganado la guerra. Al rey Carlos VII le incomodaba deberle la corona a una «hereje». El papa Calixto III autorizó un [[proceso de nulidad|Juicio que no absuelve, sino que declara que el juicio anterior fue inválido desde el principio.]] a petición de la madre y los hermanos de Juana.\n\nSe escucharon más de cien testigos. El 7 de julio de 1456 se declaró que el primer juicio estuvo lleno de fraude y errores de procedimiento. Es un ejemplo temprano de algo muy actual: revisar un juicio por cómo se hizo, no solo por su resultado. La canonización llegó hasta 1920.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ingres_coronation_charles_vii.jpg?width=900",
+     "alt": "Una joven con armadura sostiene un estandarte en una catedral",
+     "pie": "Juana de Arco en la coronación de Carlos VII, pintada por Ingres en 1854.",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Wikipedia (en): Rehabilitation trial of Joan of Arc",
+     "url": "https://en.wikipedia.org/wiki/Rehabilitation_trial_of_Joan_of_Arc"
+    },
+    "wiki": "Juicio de Juana de Arco",
+    "claves": [
+     {
+      "nombre": "Juana de Arco",
+      "quien": "Campesina que dirigió tropas francesas en la guerra de los Cien Años.",
+      "wiki": "Juana de Arco"
+     },
+     {
+      "nombre": "Calixto III",
+      "quien": "Papa valenciano, de la familia Borgia, que autorizó el nuevo proceso.",
+      "wiki": "Calixto III"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué declaró el proceso de 1456 sobre la condena de Juana de Arco?",
+     "respuesta": "Que el juicio de 1431 fue nulo, por fraude y errores de procedimiento. Lo pidió su madre, con autorización del papa Calixto III."
+    },
+    "fecha": "2026-11-19"
+   },
+   {
     "claves": [
      {
       "nombre": "Código de Hammurabi",
@@ -1210,6 +1174,42 @@
    }
   ],
   "Disciplina y hábitos": [
+   {
+    "materia": "Disciplina y hábitos",
+    "pilar": "caracter",
+    "epoca": "1958",
+    "titulo": "Hemingway llevaba una gráfica de palabras «para no engañarse»",
+    "dato": "Ernest Hemingway escribía de pie y anotaba cada día cuántas palabras había producido en una gráfica grande, pegada junto a él.",
+    "explicacion": "En la entrevista que dio a *The Paris Review* en 1958, el periodista George Plimpton describió su método. Las cifras diarias iban de 450, 575, 462 y 1,250 hasta 512. Hemingway explicó que llevaba la cuenta «para no engañarme». Los días de 1,250 palabras solían ser los previos a ir de pesca: trabajaba más para no sentirse culpable.\n\nLa idea coincide con lo que hoy se llama [[automonitoreo|Registrar tu propia conducta; solo el acto de medir tiende a mejorarla.]]: medir no es castigarse, es tener un espejo honesto. No contaba ideas brillantes, contaba trabajo hecho. Lo brillante salía del trabajo, no al revés.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ernest_Hemingway_Writing_at_Campsite_in_Kenya_-_NARA_-_192655.jpg?width=900",
+     "alt": "Un hombre escribe a mano en una mesa plegable al aire libre",
+     "pie": "Hemingway escribiendo en un campamento en Kenia, 1953.",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "The Paris Review: Ernest Hemingway, The Art of Fiction No. 21",
+     "url": "https://www.theparisreview.org/interviews/4825/the-art-of-fiction-no-21-ernest-hemingway"
+    },
+    "wiki": "Ernest Hemingway",
+    "claves": [
+     {
+      "nombre": "Teoría del iceberg",
+      "quien": "La idea de Hemingway de mostrar poco y sugerir lo demás; también la explicó en esa entrevista.",
+      "wiki": "Teoría del iceberg"
+     },
+     {
+      "nombre": "El viejo y el mar",
+      "quien": "Su novela corta de 1952, que le ayudó a ganar el Nobel en 1954.",
+      "wiki": "El viejo y el mar"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Por qué Hemingway anotaba sus palabras diarias en una gráfica?",
+     "respuesta": "«Para no engañarse»: medir el trabajo real del día, no la sensación de haber trabajado."
+    },
+    "fecha": "2026-11-19"
+   },
    {
     "claves": [
      {
@@ -1497,6 +1497,42 @@
   ],
   "El cosmos": [
    {
+    "materia": "El cosmos",
+    "pilar": "futuro",
+    "epoca": "1846",
+    "titulo": "Neptuno se descubrió con papel y lápiz, y Galileo ya lo había visto",
+    "dato": "Neptuno fue el primer planeta hallado por cálculo: un astrónomo francés dijo dónde buscar y otro lo encontró a menos de un grado, la primera noche.",
+    "explicacion": "Urano no se movía como debía. Urbain Le Verrier, en París, supuso que lo jalaba un planeta desconocido y calculó su posición. Envió una carta al Observatorio de Berlín. La noche del 23 al 24 de septiembre de 1846, Johann Galle apuntó el telescopio y encontró Neptuno a cerca de un grado del lugar previsto. En Inglaterra, John Couch Adams había hecho cálculos parecidos.\n\nLo curioso: Galileo dibujó Neptuno en sus notas en 1612, mientras observaba Júpiter, y lo tomó por una estrella. Le faltó la teoría para reconocerlo. La [[mecánica celeste|Rama de la astronomía que calcula el movimiento de los astros con las leyes de la gravedad.]] de Newton fue la que convirtió una anomalía en un planeta.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Neptune_Full_Disk_View_-_GPN-2000-000443.jpg?width=900",
+     "alt": "Un planeta azul intenso con manchas oscuras y nubes blancas",
+     "pie": "Neptuno fotografiado por la sonda Voyager 2 en 1989.",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "NASA: 175 Years Ago, Astronomers Discover Neptune, the Eighth Planet",
+     "url": "https://www.nasa.gov/history/175-years-ago-astronomers-discover-neptune-the-eighth-planet"
+    },
+    "wiki": "Descubrimiento de Neptuno",
+    "claves": [
+     {
+      "nombre": "Urbain Le Verrier",
+      "quien": "Matemático francés que calculó dónde debía estar Neptuno.",
+      "wiki": "Urbain Le Verrier"
+     },
+     {
+      "nombre": "Neptuno",
+      "quien": "El octavo planeta; tarda unos 165 años en dar una vuelta al Sol.",
+      "wiki": "Neptuno (planeta)"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué tuvo de especial el descubrimiento de Neptuno en 1846?",
+     "respuesta": "Fue el primer planeta hallado por cálculo: Le Verrier predijo su posición y Galle lo encontró a cerca de un grado."
+    },
+    "fecha": "2026-11-19"
+   },
+   {
     "claves": [
      {
       "nombre": "Movimiento retrógrado",
@@ -1651,57 +1687,10 @@
     },
     "titulo": "La Luna se aleja 3.8 cm cada año",
     "wiki": "Experimento láser de alcance lunar"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Clyde Tombaugh",
-      "quien": "Astrónomo estadounidense (1906–1997) que descubrió Plutón.",
-      "wiki": "Clyde Tombaugh"
-     },
-     {
-      "nombre": "Cinturón de Kuiper",
-      "quien": "La región helada más allá de Neptuno donde vive Plutón con miles de objetos más.",
-      "wiki": "Cinturón de Kuiper"
-     }
-    ],
-    "dato": "Plutón fue descubierto en 1930 y tarda unos 248 años en rodear al Sol. Completará su primera órbita desde su descubrimiento hacia 2178.",
-    "epoca": "2178",
-    "explicacion": "Clyde Tombaugh, un joven de 24 años del observatorio Lowell, en Arizona, lo encontró el 18 de febrero de 1930 comparando fotografías del cielo tomadas en noches distintas. Desde entonces Plutón ha recorrido menos de la mitad de su camino alrededor del Sol. Su órbita es tan alargada que entre 1979 y 1999 estuvo más cerca del Sol que Neptuno.\n\nEn 2006 dejó de ser planeta y pasó a ser [[planeta enano|Cuerpo que gira alrededor del Sol y es casi redondo, pero no ha limpiado su órbita de otros objetos.]]. En 2015, la sonda New Horizons pasó junto a él y descubrió un enorme glaciar en forma de corazón. Llevaba a bordo una pequeña parte de las cenizas de Tombaugh.",
-    "fecha": "2026-11-01",
-    "fuente": {
-     "nombre": "NASA Science: Pluto facts",
-     "url": "https://science.nasa.gov/dwarf-planets/pluto/facts/"
-    },
-    "imagen": {
-     "alt": "Planeta enano de tonos beige y naranja con una gran mancha clara en forma de corazón",
-     "credito": "Wikimedia Commons",
-     "pie": "Plutón fotografiado por la sonda New Horizons en julio de 2015",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pluto_in_True_Color_-_High-Res.jpg?width=900"
-    },
-    "materia": "El cosmos",
-    "pilar": "futuro",
-    "repaso": {
-     "pregunta": "¿Cuándo completará Plutón su primera órbita desde que fue descubierto?",
-     "respuesta": "Hacia 2178: tarda unos 248 años en dar la vuelta al Sol y lo descubrieron en 1930."
-    },
-    "titulo": "Plutón no ha dado una vuelta desde que lo vimos",
-    "wiki": "Plutón (planeta enano)"
    }
   ],
   "Etiqueta y protocolo": [
    {
-    "materia": "Etiqueta y protocolo",
-    "pilar": "gusto",
-    "epoca": "Siglo XVII",
-    "titulo": "La corbata lleva el nombre de los soldados croatas",
-    "dato": "La palabra francesa *cravate*, de donde viene «corbata» en otros idiomas, apareció para describir los pañuelos al cuello de los mercenarios croatas del siglo XVII. Luis XIV los convirtió en moda.",
-    "explicacion": "Durante la guerra de los Treinta Años (1618–1648), Francia reclutó a muchos jinetes croatas. Llevaban un pañuelo anudado al cuello. Los franceses llamaron a la prenda con el nombre de quienes la usaban: *cravate*, de *croate*. Con ellos se formó un regimiento de élite, el Royal-Cravates.\n\nLuis XIV, que reinó desde 1643, adoptó el pañuelo y la corte lo imitó. De Versalles pasó al resto de Europa. Hoy Croacia celebra cada 18 de octubre el Día de la Corbata. La prenda más formal del hombre nació en un campo de batalla.",
-    "fuente": {
-     "nombre": "NPR: How the word 'cravat' came from the battlefields of 17th-century Europe (ene 2026)",
-     "url": "https://www.npr.org/2026/01/21/nx-s1-5682323/cravat-word-of-the-week"
-    },
-    "wiki": "Corbata",
     "claves": [
      {
       "nombre": "Guerra de los Treinta Años",
@@ -1714,11 +1703,22 @@
       "wiki": "Luis XIV de Francia"
      }
     ],
+    "dato": "La palabra francesa *cravate*, de donde viene «corbata» en otros idiomas, apareció para describir los pañuelos al cuello de los mercenarios croatas del siglo XVII. Luis XIV los convirtió en moda.",
+    "epoca": "Siglo XVII",
+    "explicacion": "Durante la guerra de los Treinta Años (1618–1648), Francia reclutó a muchos jinetes croatas. Llevaban un pañuelo anudado al cuello. Los franceses llamaron a la prenda con el nombre de quienes la usaban: *cravate*, de *croate*. Con ellos se formó un regimiento de élite, el Royal-Cravates.\n\nLuis XIV, que reinó desde 1643, adoptó el pañuelo y la corte lo imitó. De Versalles pasó al resto de Europa. Hoy Croacia celebra cada 18 de octubre el Día de la Corbata. La prenda más formal del hombre nació en un campo de batalla.",
+    "fecha": "2026-11-18",
+    "fuente": {
+     "nombre": "NPR: How the word 'cravat' came from the battlefields of 17th-century Europe (ene 2026)",
+     "url": "https://www.npr.org/2026/01/21/nx-s1-5682323/cravat-word-of-the-week"
+    },
+    "materia": "Etiqueta y protocolo",
+    "pilar": "gusto",
     "repaso": {
      "pregunta": "¿De dónde viene la palabra francesa «cravate»?",
      "respuesta": "De «croate»: los pañuelos al cuello de los jinetes croatas que lucharon para Francia en el siglo XVII."
     },
-    "fecha": "2026-11-18"
+    "titulo": "La corbata lleva el nombre de los soldados croatas",
+    "wiki": "Corbata"
    },
    {
     "claves": [
@@ -1860,37 +1860,6 @@
     },
     "titulo": "Por qué el cuchillo de mesa tiene la punta redonda",
     "wiki": "Cuchillo"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Salmanasar III",
-      "quien": "Rey de Asiria (858–824 a. C.) que mandó hacer el relieve.",
-      "wiki": "Salmanasar III"
-     }
-    ],
-    "dato": "Hace unos 2,870 años, un relieve asirio mostró a dos reyes estrechándose la mano. No era un saludo: era un tratado.",
-    "epoca": "c. 846 a. C.",
-    "explicacion": "En la base del trono de Salmanasar III, rey de Asiria, aparece él tomando la mano del rey babilonio Marduk-zakir-shumi I, hacia 846 a. C. Se halló en 1962 en Nimrud, Irak, y está en el Museo de Irak, en Bagdad. Es una de las representaciones más antiguas que se conocen del gesto.\n\nEl apretón de manos nació como señal de alianza y confianza: mostrar la mano vacía, sin arma. Por eso todavía hoy sella acuerdos antes que cualquier firma.",
-    "fecha": "2026-11-03",
-    "fuente": {
-     "nombre": "World History Encyclopedia: Throne dais of Shalmaneser III",
-     "url": "https://www.worldhistory.org/image/10526/throne-dais-of-shalmaneser-iii-front-panel"
-    },
-    "imagen": {
-     "alt": "Relieve de piedra de dos reyes barbados que se dan la mano",
-     "credito": "Wikimedia Commons",
-     "pie": "Salmanasar III y Marduk-zakir-shumi I. Base del trono, Museo de Irak",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shalmaneser_III_greets_Marduk-zakir-shumi%2C_detail%2C_front_panel%2C_Throne_Dais_of_Shalmaneser_III_at_the_Iraq_Museum.jpg?width=900"
-    },
-    "materia": "Etiqueta y protocolo",
-    "pilar": "gusto",
-    "repaso": {
-     "pregunta": "¿Qué muestra el relieve del trono de Salmanasar III?",
-     "respuesta": "A Salmanasar III y al rey babilonio Marduk-zakir-shumi I dándose la mano para sellar una alianza, hacia 846 a. C."
-    },
-    "titulo": "Uno de los apretones de manos más antiguos sella un pacto entre reyes",
-    "wiki": "Apretón de manos"
    }
   ],
   "Filosofía para vivir": [
@@ -2073,44 +2042,45 @@
     },
     "titulo": "Diógenes desplumó un gallo para corregir a Platón",
     "wiki": "Diógenes de Sinope"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Aristóteles",
-      "quien": "Filósofo griego (384–322 a. C.), alumno de Platón y maestro de Alejandro Magno.",
-      "wiki": "Aristóteles"
-     },
-     {
-      "nombre": "Liceo",
-      "quien": "El gimnasio de Atenas donde enseñó Aristóteles; de ahí viene la palabra «liceo».",
-      "wiki": "Liceo (Antigua Grecia)"
-     },
-     {
-      "nombre": "Peripato",
-      "quien": "El paseo cubierto que probablemente dio nombre a la escuela.",
-      "wiki": "Peripato"
-     }
-    ],
-    "dato": "Se cuenta que a los alumnos de Aristóteles les decían «peripatéticos» porque él enseñaba caminando. El nombre probablemente viene de otra cosa: un pasillo techado.",
-    "epoca": "335 a. C.",
-    "explicacion": "Aristóteles fundó su escuela en el Liceo de Atenas hacia 335 a. C. Ahí había un *perípatos*, un paseo cubierto con columnas donde se reunían. Desde la Antigüedad conviven dos versiones: que el nombre viene del lugar o del hábito de discutir paseando.\n\nMuchos historiadores creen que el lugar dio el nombre y la anécdota vino después, porque explicaba bien la palabra. Es un patrón frecuente: cuando una palabra tiene una historia bonita, la historia suele ser posterior.",
-    "fecha": "2026-11-02",
-    "fuente": {
-     "nombre": "Wikipedia: Escuela peripatética",
-     "url": "https://es.wikipedia.org/wiki/Escuela_peripatética"
-    },
-    "materia": "Filosofía para vivir",
-    "pilar": "mente",
-    "repaso": {
-     "pregunta": "¿De dónde viene probablemente el nombre «peripatético»?",
-     "respuesta": "Del perípatos, un paseo techado del Liceo de Atenas, más que del hábito de enseñar caminando."
-    },
-    "titulo": "Los peripatéticos quizá no caminaban",
-    "wiki": "Escuela peripatética"
    }
   ],
   "Gastronomía, vino y destilados": [
+   {
+    "materia": "Gastronomía, vino y destilados",
+    "pilar": "gusto",
+    "epoca": "1806",
+    "titulo": "El hombre que vendió hielo de Boston en el trópico",
+    "dato": "En 1806, Frederic Tudor mandó un barco cargado de hielo de los estanques de Massachusetts a la isla de Martinica. Perdió dinero. Décadas después lo llamaban «el Rey del Hielo».",
+    "explicacion": "La gente se rio de él. El primer envío salió el 10 de febrero de 1806 en el bergantín *Favorite* y le costó unos 4,500 dólares de pérdida: en el Caribe nadie sabía guardar ni usar el hielo. Tudor tuvo que enseñar el uso. Regalaba bebidas frías para que la gente se acostumbrara y mejoró el aislamiento con aserrín.\n\nEn 1833 mandó 180 toneladas a Calcuta en el barco *Tuscany*; llegaron unas 100, tras cuatro meses de viaje. El [[comercio del hielo|Negocio del siglo XIX que cortaba hielo natural en invierno y lo enviaba por barco a climas cálidos.]] cambió la forma de beber: hizo posibles los cocteles con hielo y las bebidas frías que hoy damos por sentadas. Murió rico en 1864.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvesting_Ice_in_Indiana.JPG?width=900",
+     "alt": "Trabajadores cortan bloques de hielo sobre un lago congelado",
+     "pie": "Cosecha de hielo natural en un lago de Indiana, el mismo oficio que surtía a Tudor.",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Wikipedia (en): Frederic Tudor",
+     "url": "https://en.wikipedia.org/wiki/Frederic_Tudor"
+    },
+    "wiki": "Comercio del hielo",
+    "claves": [
+     {
+      "nombre": "Comercio del hielo",
+      "quien": "La industria que Tudor fundó y que duró hasta la llegada de la refrigeración.",
+      "wiki": "Comercio del hielo"
+     },
+     {
+      "nombre": "Cóctel",
+      "quien": "Las bebidas mezcladas que el hielo barato volvió populares.",
+      "wiki": "Cóctel"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué tuvo que hacer Frederic Tudor para vender hielo en el Caribe?",
+     "respuesta": "Enseñar a usarlo: regalaba bebidas frías para crear la costumbre y mejoró el aislamiento con aserrín."
+    },
+    "fecha": "2026-11-19"
+   },
    {
     "claves": [
      {
@@ -2270,36 +2240,6 @@
     },
     "titulo": "La pizza Margarita y la reina: una historia probablemente inventada",
     "wiki": "Historia de la pizza"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Daktulosphaira vitifoliae",
-      "quien": "El nombre científico de la filoxera de la vid.",
-      "wiki": "Daktulosphaira vitifoliae"
-     },
-     {
-      "nombre": "Portainjerto",
-      "quien": "La planta que pone la raíz en un injerto; en la vid, casi siempre de origen americano.",
-      "wiki": "Portainjerto"
-     }
-    ],
-    "dato": "La mayoría de las vides de Europa están injertadas sobre raíces de vides americanas. Es la cura de una plaga que casi acaba con el vino francés.",
-    "epoca": "Siglo XIX",
-    "explicacion": "Hacia 1860 llegó a Francia, con plantas importadas de Estados Unidos, un insecto diminuto: la [[filoxera|Insecto parecido a un pulgón que ataca las raíces de la vid y la mata.]]. Las vides americanas habían convivido con él y resistían. Las europeas no. En pocas décadas destruyó la mayor parte de los viñedos de Francia y se extendió por Europa.\n\nSe probó de todo, incluso inundar los viñedos. La solución fue injertar las variedades europeas, como Cabernet o Chardonnay, sobre raíces americanas resistentes. La uva y el vino siguen siendo europeos; las raíces, no. Hoy casi todos los viñedos del mundo se plantan así. Una excepción famosa es Chile, donde la filoxera nunca llegó y hay viñas con raíces propias.",
-    "fecha": "2026-11-01",
-    "fuente": {
-     "nombre": "Wikipedia: Gran plaga de la filoxera",
-     "url": "https://es.wikipedia.org/wiki/Gran_plaga_de_la_filoxera"
-    },
-    "materia": "Gastronomía, vino y destilados",
-    "pilar": "gusto",
-    "repaso": {
-     "pregunta": "¿Cómo se salvó el vino europeo de la filoxera?",
-     "respuesta": "Injertando las vides europeas sobre raíces americanas resistentes al insecto."
-    },
-    "titulo": "El vino europeo crece sobre raíces americanas",
-    "wiki": "Gran plaga de la filoxera"
    }
   ],
   "Historia y geopolítica": [
@@ -2487,41 +2427,6 @@
     },
     "titulo": "El Muro cayó por una respuesta improvisada",
     "wiki": "Caída del Muro de Berlín"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Victoriano Huerta",
-      "quien": "Militar que tomó el poder en 1913 tras traicionar a Madero.",
-      "wiki": "Victoriano Huerta"
-     },
-     {
-      "nombre": "Francisco I. Madero",
-      "quien": "Presidente que inició la Revolución en 1910; derrocado y asesinado en 1913.",
-      "wiki": "Francisco I. Madero"
-     },
-     {
-      "nombre": "Decena Trágica",
-      "quien": "El golpe de febrero de 1913 en la Ciudad de México.",
-      "wiki": "Decena Trágica"
-     }
-    ],
-    "dato": "Pedro Lascuráin fue presidente de México el 19 de febrero de 1913 por unos 45 minutos. Su único acto importante fue nombrar a Victoriano Huerta y renunciar.",
-    "epoca": "1913",
-    "explicacion": "Era el final de la [[Decena Trágica|Los diez días de combates en la Ciudad de México, en febrero de 1913, que terminaron con el derrocamiento de Madero.]]. Madero y Pino Suárez, presos, renunciaron. Por la ley de sucesión, el cargo le tocaba al secretario de Relaciones Exteriores: Lascuráin.\n\nAsumió, nombró a Huerta secretario de Gobernación y renunció de inmediato. Así Huerta llegó a la presidencia con apariencia legal. Días después, Madero y Pino Suárez fueron asesinados. Es un caso de manual: las formas de la ley usadas para cubrir un golpe.",
-    "fecha": "2026-11-02",
-    "fuente": {
-     "nombre": "Wikipedia: Pedro Lascuráin",
-     "url": "https://es.wikipedia.org/wiki/Pedro_Lascuráin"
-    },
-    "materia": "Historia y geopolítica",
-    "pilar": "mundo",
-    "repaso": {
-     "pregunta": "¿Para qué sirvió la presidencia de 45 minutos de Lascuráin?",
-     "respuesta": "Para nombrar a Huerta secretario de Gobernación y renunciar, de modo que Huerta asumiera con apariencia legal."
-    },
-    "titulo": "El presidente de menos de una hora",
-    "wiki": "Pedro Lascuráin"
    }
   ],
   "IA y el futuro": [
@@ -2717,44 +2622,45 @@
     },
     "titulo": "La máquina que ganaba al ajedrez tenía un hombre dentro",
     "wiki": "El Turco"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Karel Čapek",
-      "quien": "Escritor checo (1890–1938), autor de la obra que dio nombre a los robots.",
-      "wiki": "Karel Čapek"
-     },
-     {
-      "nombre": "Robot",
-      "quien": "Del checo *robota*, «trabajo forzado».",
-      "wiki": "Robot"
-     },
-     {
-      "nombre": "Historia de los robots",
-      "quien": "De los autómatas antiguos a las máquinas industriales.",
-      "wiki": "Historia de los robots"
-     }
-    ],
-    "dato": "La palabra «robot» nació en una obra de teatro checa estrenada en 1921. Sus robots no eran máquinas de metal: eran seres artificiales de materia orgánica.",
-    "epoca": "1921",
-    "explicacion": "La obra es *R.U.R. (Robots Universales Rossum)*, de Karel Čapek, estrenada en Praga en enero de 1921. Čapek quería llamar a sus criaturas *labori*. Su hermano, el pintor **Josef Čapek**, le sugirió *roboti*, del checo *robota*: trabajo forzado, servidumbre.\n\nEn la obra, los robots se fabrican para trabajar, se rebelan y acaban con la humanidad. Un siglo antes de los debates actuales sobre IA, la palabra ya nació con su pregunta: ¿qué pasa cuando lo que creamos para servir deja de obedecer?",
-    "fecha": "2026-11-02",
-    "fuente": {
-     "nombre": "Wikipedia: R.U.R. (Robots Universales Rossum)",
-     "url": "https://es.wikipedia.org/wiki/R.U.R._(Robots_Universales_Rossum)"
-    },
-    "materia": "IA y el futuro",
-    "pilar": "futuro",
-    "repaso": {
-     "pregunta": "¿Quién inventó la palabra «robot» y qué significa?",
-     "respuesta": "Josef Čapek, para la obra de su hermano Karel (1921). Viene del checo robota, «trabajo forzado»."
-    },
-    "titulo": "Los primeros robots eran de carne",
-    "wiki": "R.U.R. (Robots Universales Rossum)"
    }
   ],
   "Inversión y finanzas personales": [
+   {
+    "materia": "Inversión y finanzas personales",
+    "pilar": "patrimonio",
+    "epoca": "1954",
+    "titulo": "El Dow tardó 25 años en volver a su pico de 1929, o solo siete",
+    "dato": "El índice Dow Jones no recuperó su máximo de 1929 hasta el 23 de noviembre de 1954. Pero quien cobró dividendos recuperó su dinero real hacia finales de 1936.",
+    "explicacion": "El Dow llegó a 381.17 puntos el 3 de septiembre de 1929 y cayó a 41.22 el 8 de julio de 1932: una pérdida de 89%. Volvió a 381 apenas en noviembre de 1954. Es la cifra que se repite para asustar.\n\nEl analista Mark Hulbert señaló en 2009 que esa cuenta engaña. Ignora los [[dividendos|Parte de las ganancias que la empresa paga a sus accionistas.]], que en 1932 rendían cerca de 14%, y la [[deflación|Caída general de precios: con el mismo dinero compras más cosas.]], que bajó los precios más de 18%. Con ambos, quien compró en el pico recuperó su poder de compra hacia finales de 1936. No es un consejo de inversión: es una lección sobre cómo una sola cifra puede contar media historia.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Crowd_outside_nyse.jpg?width=900",
+     "alt": "Una multitud llena una calle frente a un edificio de columnas",
+     "pie": "Multitud frente a la Bolsa de Nueva York en octubre de 1929.",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "History News Network: Mark Hulbert, 25 Years to Bounce Back? Try 4½",
+     "url": "https://www.historynewsnetwork.org/article/mark-hulbert-25-years-to-bounce-back-try-4-12"
+    },
+    "wiki": "Crac del 29",
+    "claves": [
+     {
+      "nombre": "Promedio Industrial Dow Jones",
+      "quien": "Índice de 30 grandes empresas de EE. UU.; no incluye dividendos.",
+      "wiki": "Promedio Industrial Dow Jones"
+     },
+     {
+      "nombre": "Gran Depresión",
+      "quien": "La crisis económica mundial que siguió al crac.",
+      "wiki": "Gran Depresión"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Por qué es engañoso decir que tras 1929 se tardó 25 años en recuperar la inversión?",
+     "respuesta": "Porque el índice ignora los dividendos y la deflación. Con ambos, quien compró en el pico recuperó su poder de compra hacia 1936."
+    },
+    "fecha": "2026-11-19"
+   },
    {
     "claves": [
      {
@@ -2856,52 +2762,10 @@
     },
     "titulo": "La cena sin cartera que inventó la tarjeta de crédito fue publicidad",
     "wiki": "Tarjeta de crédito"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Interés compuesto",
-      "quien": "El mecanismo que Franklin quiso demostrar con su testamento.",
-      "wiki": "Interés compuesto"
-     }
-    ],
-    "dato": "Benjamin Franklin dejó 1,000 libras a Boston y otras 1,000 a Filadelfia con una condición: prestarlas a interés durante 200 años.",
-    "epoca": "1790",
-    "explicacion": "Franklin murió en 1790. En su testamento pidió prestar el dinero a jóvenes artesanos y dejarlo crecer cien años, gastar una parte y dejar crecer el resto otros cien. Quería demostrar el poder del [[interés compuesto|Ganar intereses sobre los intereses anteriores, además del capital. El crecimiento se acelera con el tiempo.]].\n\nEn 1990, el fondo de Boston valía casi 5 millones de dólares y el de Filadelfia solo unos 2 millones. Mismo capital, mismo plazo, resultados muy distintos: el tiempo multiplica, pero la administración decide cuánto.",
-    "fecha": "2026-11-03",
-    "fuente": {
-     "nombre": "Philanthropy Roundtable: What miracle of compound interest?",
-     "url": "https://www.philanthropyroundtable.org/magazine/what-miracle-of-compound-interest/"
-    },
-    "imagen": {
-     "alt": "Retrato de un hombre mayor de cabello largo y gris con abrigo oscuro",
-     "credito": "Wikimedia Commons",
-     "pie": "Benjamin Franklin, por Joseph Siffred Duplessis (c. 1778)",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg?width=900"
-    },
-    "materia": "Inversión y finanzas personales",
-    "pilar": "patrimonio",
-    "repaso": {
-     "pregunta": "¿Cuánto valían en 1990 los fondos que Franklin dejó a Boston y Filadelfia?",
-     "respuesta": "Casi 5 millones de dólares el de Boston y unos 2 millones el de Filadelfia, de 1,000 libras cada uno."
-    },
-    "titulo": "El experimento de interés compuesto de Franklin duró 200 años",
-    "wiki": "Benjamin Franklin"
    }
   ],
   "Liderazgo e influencia": [
    {
-    "materia": "Liderazgo e influencia",
-    "pilar": "caracter",
-    "epoca": "1805",
-    "titulo": "Nelson quería decir «Inglaterra confía», no «Inglaterra espera»",
-    "dato": "La señal más famosa de la historia naval, «Inglaterra espera que cada hombre cumpla con su deber», no fue la que Nelson dictó. Él pidió «Inglaterra confía». La cambió su teniente para ahorrar banderas.",
-    "explicacion": "El 21 de octubre de 1805, antes de la batalla de Trafalgar, Nelson le pidió al teniente John Pasco que izara: «England confides that every man will do his duty». Las señales se hacían con banderas de un código: cada bandera era una palabra del libro. *Confides* no estaba y había que deletrearla letra por letra. Pasco propuso *expects*, que sí estaba, y Nelson aceptó.\n\nEl cambio alteró el tono. «Confío en ustedes» expresa fe; «espero de ustedes» suena a exigencia. Un ajuste técnico de último minuto convirtió un mensaje de confianza en un mandato, y así lo recuerda la historia.",
-    "fuente": {
-     "nombre": "Naval Marine Archive: England expects that every man will do his duty",
-     "url": "https://navalmarinearchive.com/research/docs/england_expects_signalflags.html"
-    },
-    "wiki": "Batalla de Trafalgar",
     "claves": [
      {
       "nombre": "Horacio Nelson",
@@ -2914,11 +2778,22 @@
       "wiki": "HMS Victory"
      }
     ],
+    "dato": "La señal más famosa de la historia naval, «Inglaterra espera que cada hombre cumpla con su deber», no fue la que Nelson dictó. Él pidió «Inglaterra confía». La cambió su teniente para ahorrar banderas.",
+    "epoca": "1805",
+    "explicacion": "El 21 de octubre de 1805, antes de la batalla de Trafalgar, Nelson le pidió al teniente John Pasco que izara: «England confides that every man will do his duty». Las señales se hacían con banderas de un código: cada bandera era una palabra del libro. *Confides* no estaba y había que deletrearla letra por letra. Pasco propuso *expects*, que sí estaba, y Nelson aceptó.\n\nEl cambio alteró el tono. «Confío en ustedes» expresa fe; «espero de ustedes» suena a exigencia. Un ajuste técnico de último minuto convirtió un mensaje de confianza en un mandato, y así lo recuerda la historia.",
+    "fecha": "2026-11-18",
+    "fuente": {
+     "nombre": "Naval Marine Archive: England expects that every man will do his duty",
+     "url": "https://navalmarinearchive.com/research/docs/england_expects_signalflags.html"
+    },
+    "materia": "Liderazgo e influencia",
+    "pilar": "caracter",
     "repaso": {
      "pregunta": "¿Qué palabra quería usar Nelson en su señal de Trafalgar y por qué se cambió?",
      "respuesta": "«Confides» (confía). Se cambió por «expects» porque «confides» no estaba en el libro de códigos y había que deletrearla."
     },
-    "fecha": "2026-11-18"
+    "titulo": "Nelson quería decir «Inglaterra confía», no «Inglaterra espera»",
+    "wiki": "Batalla de Trafalgar"
    },
    {
     "claves": [
@@ -3060,42 +2935,6 @@
     },
     "titulo": "El rey de Dinamarca nunca se puso la estrella amarilla",
     "wiki": "Cristián X de Dinamarca"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Jorge III del Reino Unido",
-      "quien": "Rey británico durante la independencia de Estados Unidos.",
-      "wiki": "Jorge III del Reino Unido"
-     },
-     {
-      "nombre": "Cincinato",
-      "quien": "El romano que dejó el poder y volvió al arado; modelo de Washington.",
-      "wiki": "Cincinato"
-     }
-    ],
-    "dato": "Jorge III, el rey contra el que peleó Washington, dijo que si Washington renunciaba al poder sería «el hombre más grande del mundo». Y renunció.",
-    "epoca": "1783",
-    "explicacion": "El 23 de diciembre de 1783, en Annapolis, Washington devolvió al Congreso su nombramiento de comandante en jefe. Tenía al ejército de su lado y pudo haberse quedado con todo. Según el diario del pintor Joseph Farington, el pintor Benjamin West le contó que el rey había dicho: «si lo hace, será el hombre más grande del mundo».\n\nEn la época, el modelo era [[Cincinato|Político romano que, según la tradición, dejó el poder absoluto y volvió a su granja en cuanto pasó la emergencia.]]. La lección sobre liderazgo es incómoda: la autoridad que más se respeta es la de quien puede soltar el poder y lo suelta.",
-    "fecha": "2026-11-03",
-    "fuente": {
-     "nombre": "Library of Congress: George Washington, «the greatest man in the world»",
-     "url": "https://blogs.loc.gov/manuscripts/2022/12/george-washington-the-greatest-man-in-the-world/"
-    },
-    "imagen": {
-     "alt": "Pintura de un hombre de uniforme de pie ante un salón de legisladores",
-     "credito": "Wikimedia Commons",
-     "pie": "Washington renuncia a su nombramiento, John Trumbull. Capitolio de EE. UU.",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/General_George_Washington_Resigning_his_Commission.jpg?width=900"
-    },
-    "materia": "Liderazgo e influencia",
-    "pilar": "caracter",
-    "repaso": {
-     "pregunta": "¿Qué dijo Jorge III sobre la posible renuncia de Washington?",
-     "respuesta": "Que si renunciaba al poder sería «el hombre más grande del mundo». Washington renunció el 23 de diciembre de 1783."
-    },
-    "titulo": "El rey que admiró a su enemigo por soltar el poder",
-    "wiki": "George Washington"
    }
   ],
   "Literatura y mitología": [
@@ -3219,6 +3058,36 @@
    }
   ],
   "Mente y decisiones": [
+   {
+    "materia": "Mente y decisiones",
+    "pilar": "mente",
+    "epoca": "1993",
+    "titulo": "El «efecto Mozart» duraba unos 15 minutos",
+    "dato": "El famoso estudio que dio origen a la idea de que Mozart te hace más inteligente se hizo con 36 universitarios. La mejora en una tarea espacial duró apenas el tiempo de la prueba.",
+    "explicacion": "En 1993, Frances Rauscher, Gordon Shaw y Katherine Ky publicaron en *Nature* que escuchar la Sonata para dos pianos K.448 mejoraba el razonamiento espacial. El efecto se medía en minutos. La prensa lo convirtió en «Mozart sube el coeficiente intelectual de los bebés», algo que el estudio nunca probó. En 1998, el gobernador de Georgia, Zell Miller, propuso 105,000 dólares al año para regalar música clásica a cada recién nacido.\n\nEn 2010, un [[metaanálisis|Estudio que combina los resultados de muchos estudios para ver el efecto de conjunto.]] de Jakob Pietschnig reunió 39 estudios: el efecto era mínimo y en parte inflado porque se publicaban más los resultados positivos. La lección: un hallazgo modesto, repetido sin matices, se vuelve mito.",
+    "fuente": {
+     "nombre": "Wikipedia (en): Mozart effect",
+     "url": "https://en.wikipedia.org/wiki/Mozart_effect"
+    },
+    "wiki": "Neuromitos sobre la música",
+    "claves": [
+     {
+      "nombre": "Wolfgang Amadeus Mozart",
+      "quien": "Compositor de la sonata K.448 usada en el experimento.",
+      "wiki": "Wolfgang Amadeus Mozart"
+     },
+     {
+      "nombre": "Neuromitos sobre la música",
+      "quien": "Creencias populares sobre música y cerebro que la ciencia no sostiene.",
+      "wiki": "Neuromitos sobre la música"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuánto duraba la mejora del estudio original del «efecto Mozart»?",
+     "respuesta": "Unos 10 a 15 minutos, el tiempo de la prueba de razonamiento espacial. Nunca se probó que subiera la inteligencia."
+    },
+    "fecha": "2026-11-19"
+   },
    {
     "claves": [
      {
@@ -3380,51 +3249,10 @@
     },
     "titulo": "Pagamos más por lo que armamos nosotros",
     "wiki": "Economía conductual"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Sesgo cognitivo",
-      "quien": "Un error sistemático en la forma de juzgar. El Dunning-Kruger es uno de los más citados.",
-      "wiki": "Sesgo cognitivo"
-     },
-     {
-      "nombre": "Lista de sesgos cognitivos",
-      "quien": "El catálogo de errores de juicio estudiados por la psicología, del anclaje a la confirmación.",
-      "wiki": "Anexo:Sesgos cognitivos"
-     }
-    ],
-    "dato": "En 1995, un hombre asaltó dos bancos en Pittsburgh a cara descubierta. Creía que el jugo de limón en la cara lo hacía invisible a las cámaras.",
-    "epoca": "1995",
-    "explicacion": "Se llamaba McArthur Wheeler. Lo arrestaron esa misma noche, después de que la televisión pasara su imagen. Le sorprendió: había leído que el jugo de limón sirve como tinta invisible y supuso que funcionaba igual con su cara. El psicólogo David Dunning leyó la noticia y se preguntó cómo alguien podía equivocarse con tanta seguridad.\n\nCon Justin Kruger diseñó experimentos y en 1999 publicó el resultado: quienes peor lo hacían en una prueba eran los que más sobrestimaban su desempeño, porque les faltaba justo la habilidad para notar sus errores. Es el [[efecto Dunning-Kruger|Sesgo por el que la gente con poca habilidad en un tema sobrestima su competencia, por falta de criterio para juzgarse.]]. Hoy se discute qué parte es psicología y qué parte es un efecto estadístico, pero la lección de humildad sigue en pie.",
-    "fecha": "2026-11-01",
-    "fuente": {
-     "nombre": "Wikipedia: Efecto Dunning-Kruger",
-     "url": "https://es.wikipedia.org/wiki/Efecto_Dunning-Kruger"
-    },
-    "materia": "Mente y decisiones",
-    "pilar": "mente",
-    "repaso": {
-     "pregunta": "¿Qué caso inspiró el estudio de Dunning y Kruger?",
-     "respuesta": "El de McArthur Wheeler, que en 1995 asaltó bancos con jugo de limón en la cara creyendo que lo hacía invisible a las cámaras."
-    },
-    "titulo": "El ladrón que se untó jugo de limón",
-    "wiki": "Efecto Dunning-Kruger"
    }
   ],
   "Música": [
    {
-    "materia": "Música",
-    "pilar": "cultura",
-    "epoca": "2015",
-    "titulo": "«Cumpleaños feliz» cobró regalías durante décadas sin derecho válido",
-    "dato": "La canción más cantada del mundo generó licencias por más de 50 millones de dólares para sus supuestos dueños. En 2015, un juez de Estados Unidos decidió que su derecho de autor sobre la letra no era válido.",
-    "explicacion": "La melodía viene de «Good Morning to All», una canción infantil de 1893 de las hermanas Mildred y Patty Hill. Warner/Chappell compró los derechos en 1988 y cobraba por usar «Happy Birthday» en películas y series. La cineasta Jennifer Nelson demandó cuando le pidieron 1,500 dólares por usarla en un documental.\n\nEn septiembre de 2015, el juez George H. King resolvió que el registro de 1935 cubría solo un arreglo para piano, no la letra. Warner/Chappell pagó 14 millones de dólares para cerrar el caso y en 2016 la canción quedó en dominio público. Para un abogado: poseer un registro no es lo mismo que poseer la obra.",
-    "fuente": {
-     "nombre": "Rolling Stone: Warner Music Settles 'Happy Birthday' Lawsuit for $14 Million (feb 2016)",
-     "url": "https://www.rollingstone.com/music/music-news/warner-music-settles-happy-birthday-lawsuit-for-14-million-182584/"
-    },
-    "wiki": "Cumpleaños feliz",
     "claves": [
      {
       "nombre": "Dominio público",
@@ -3437,11 +3265,22 @@
       "wiki": "Derecho de autor"
      }
     ],
+    "dato": "La canción más cantada del mundo generó licencias por más de 50 millones de dólares para sus supuestos dueños. En 2015, un juez de Estados Unidos decidió que su derecho de autor sobre la letra no era válido.",
+    "epoca": "2015",
+    "explicacion": "La melodía viene de «Good Morning to All», una canción infantil de 1893 de las hermanas Mildred y Patty Hill. Warner/Chappell compró los derechos en 1988 y cobraba por usar «Happy Birthday» en películas y series. La cineasta Jennifer Nelson demandó cuando le pidieron 1,500 dólares por usarla en un documental.\n\nEn septiembre de 2015, el juez George H. King resolvió que el registro de 1935 cubría solo un arreglo para piano, no la letra. Warner/Chappell pagó 14 millones de dólares para cerrar el caso y en 2016 la canción quedó en dominio público. Para un abogado: poseer un registro no es lo mismo que poseer la obra.",
+    "fecha": "2026-11-18",
+    "fuente": {
+     "nombre": "Rolling Stone: Warner Music Settles 'Happy Birthday' Lawsuit for $14 Million (feb 2016)",
+     "url": "https://www.rollingstone.com/music/music-news/warner-music-settles-happy-birthday-lawsuit-for-14-million-182584/"
+    },
+    "materia": "Música",
+    "pilar": "cultura",
     "repaso": {
      "pregunta": "¿Qué resolvió el juez King en 2015 sobre «Happy Birthday»?",
      "respuesta": "Que el registro de 1935 de Warner/Chappell cubría solo un arreglo para piano, no la letra. En 2016 la canción quedó en dominio público."
     },
-    "fecha": "2026-11-18"
+    "titulo": "«Cumpleaños feliz» cobró regalías durante décadas sin derecho válido",
+    "wiki": "Cumpleaños feliz"
    },
    {
     "claves": [
@@ -3846,56 +3685,10 @@
     },
     "titulo": "Hermès empezó haciendo arneses para caballos",
     "wiki": "Bolso Birkin"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Croacia",
-      "quien": "El país que reclama, con razón histórica, el origen de la prenda.",
-      "wiki": "Croacia"
-     },
-     {
-      "nombre": "Luis XIV de Francia",
-      "quien": "El rey (1638–1715) cuya corte puso de moda la *cravate*.",
-      "wiki": "Luis XIV de Francia"
-     },
-     {
-      "nombre": "Corbata de lazo",
-      "quien": "La pajarita o moño, prima de la corbata larga.",
-      "wiki": "Corbata de lazo"
-     }
-    ],
-    "dato": "La corbata llegó a París en el siglo XVII en el cuello de los soldados croatas. Los franceses llamaron *cravate* a la prenda, de *croate*.",
-    "epoca": "Siglo XVII",
-    "explicacion": "Durante la guerra de los Treinta Años, mercenarios croatas sirvieron a Francia. Llevaban un pañuelo anudado al cuello que llamó la atención en la corte. La moda se extendió con Luis XIV, y en el siglo XVII se formó un regimiento llamado *Royal-Cravate*.\n\nEsa tela anudada es el antepasado de la corbata moderna, que tomó su forma larga a principios del siglo XX. Croacia celebra el Día de la Corbata cada 18 de octubre. Una prenda que hoy significa oficina empezó como uniforme de soldado.",
-    "fecha": "2026-11-02",
-    "fuente": {
-     "nombre": "Wikipedia: Corbata",
-     "url": "https://es.wikipedia.org/wiki/Corbata"
-    },
-    "materia": "Oficios del lujo y estilo",
-    "pilar": "gusto",
-    "repaso": {
-     "pregunta": "¿De dónde viene la palabra «corbata»?",
-     "respuesta": "Del francés cravate, de croate: el pañuelo de los soldados croatas en la Francia del siglo XVII."
-    },
-    "titulo": "«Corbata» quiere decir «croata»",
-    "wiki": "Corbata"
    }
   ],
   "Productos digitales escalables": [
    {
-    "materia": "Productos digitales escalables",
-    "pilar": "patrimonio",
-    "epoca": "1971",
-    "titulo": "El primer libro electrónico fue la Declaración de Independencia",
-    "dato": "El 4 de julio de 1971, un estudiante de la Universidad de Illinois tecleó la Declaración de Independencia de Estados Unidos en una computadora y la puso al alcance de otros usuarios. Fue el primer libro electrónico.",
-    "explicacion": "Michael Hart tenía acceso a una computadora central Xerox Sigma V. Pensó que lo más valioso que podía hacer con ella era guardar textos que cualquiera pudiera copiar. Escribió todo en mayúsculas y lo compartió por la red ARPANET, antecesora de internet.\n\nDespués agregó la Biblia, obras de Shakespeare y *Alicia en el país de las maravillas*. Así nació el Proyecto Gutenberg, que hoy ofrece decenas de miles de libros de dominio público. Hart descubrió la economía de los productos digitales: una copia más no cuesta nada, así que el valor está en que exista la primera.",
-    "fuente": {
-     "nombre": "Guinness World Records: First ebook",
-     "url": "https://www.guinnessworldrecords.com/world-records/684329-first-ebook"
-    },
-    "wiki": "Michael Hart (filántropo)",
     "claves": [
      {
       "nombre": "Proyecto Gutenberg",
@@ -3913,11 +3706,22 @@
       "wiki": "Libro electrónico"
      }
     ],
+    "dato": "El 4 de julio de 1971, un estudiante de la Universidad de Illinois tecleó la Declaración de Independencia de Estados Unidos en una computadora y la puso al alcance de otros usuarios. Fue el primer libro electrónico.",
+    "epoca": "1971",
+    "explicacion": "Michael Hart tenía acceso a una computadora central Xerox Sigma V. Pensó que lo más valioso que podía hacer con ella era guardar textos que cualquiera pudiera copiar. Escribió todo en mayúsculas y lo compartió por la red ARPANET, antecesora de internet.\n\nDespués agregó la Biblia, obras de Shakespeare y *Alicia en el país de las maravillas*. Así nació el Proyecto Gutenberg, que hoy ofrece decenas de miles de libros de dominio público. Hart descubrió la economía de los productos digitales: una copia más no cuesta nada, así que el valor está en que exista la primera.",
+    "fecha": "2026-11-18",
+    "fuente": {
+     "nombre": "Guinness World Records: First ebook",
+     "url": "https://www.guinnessworldrecords.com/world-records/684329-first-ebook"
+    },
+    "materia": "Productos digitales escalables",
+    "pilar": "patrimonio",
     "repaso": {
      "pregunta": "¿Cuál fue el primer libro electrónico y quién lo hizo?",
      "respuesta": "La Declaración de Independencia de Estados Unidos, tecleada por Michael Hart el 4 de julio de 1971. Fue el origen del Proyecto Gutenberg."
     },
-    "fecha": "2026-11-18"
+    "titulo": "El primer libro electrónico fue la Declaración de Independencia",
+    "wiki": "Michael Hart (filántropo)"
    },
    {
     "claves": [
@@ -4014,36 +3818,6 @@
     },
     "titulo": "Angry Birds fue el juego número 52",
     "wiki": "Angry Birds (videojuego)"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Radiohead",
-      "quien": "Banda británica de rock formada en Oxford en 1985.",
-      "wiki": "Radiohead"
-     },
-     {
-      "nombre": "Álbum sorpresa",
-      "quien": "Discos lanzados sin aviso previo, una táctica que se volvió común después.",
-      "wiki": "Álbum sorpresa"
-     }
-    ],
-    "dato": "En octubre de 2007, Radiohead vendió su disco *In Rainbows* en descarga y dejó que cada comprador eligiera cuánto pagar, incluso nada.",
-    "epoca": "2007",
-    "explicacion": "La banda acababa de terminar su contrato con su disquera y lo publicó por su cuenta, el 10 de octubre de 2007. La firma comScore estimó que la mayoría de quienes lo descargaron no pagó nada, y que el resto pagó en promedio unos 6 dólares. La banda dijo que esas cifras eran inexactas y nunca dio las suyas.\n\nLo interesante vino después: la edición física salió meses más tarde y llegó al número uno en Reino Unido y Estados Unidos. El [[paga lo que quieras|Modelo en el que el comprador decide el precio, a veces con un mínimo.]] funcionó como una enorme campaña de prueba gratuita. Para un producto digital, el precio también puede ser una herramienta de difusión.",
-    "fecha": "2026-11-02",
-    "fuente": {
-     "nombre": "Wikipedia: Paga lo que quieras",
-     "url": "https://es.wikipedia.org/wiki/Paga_lo_que_quieras"
-    },
-    "materia": "Productos digitales escalables",
-    "pilar": "patrimonio",
-    "repaso": {
-     "pregunta": "¿Qué pasó con In Rainbows después de la descarga de «paga lo que quieras»?",
-     "respuesta": "La edición física salió después y llegó al número uno en Reino Unido y Estados Unidos."
-    },
-    "titulo": "Radiohead dejó que cada quien pusiera el precio",
-    "wiki": "Paga lo que quieras"
    }
   ],
   "Relaciones y vida social": [
@@ -4210,39 +3984,45 @@
     },
     "titulo": "Dos bandos rivales se reconciliaron jalando un camión",
     "wiki": "Psicología social"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Stanley Milgram",
-      "quien": "Psicólogo estadounidense (1933–1984), también autor del célebre experimento de obediencia.",
-      "wiki": "Stanley Milgram"
-     },
-     {
-      "nombre": "Seis grados de separación",
-      "quien": "La idea de que cualquier persona está a unos seis contactos de cualquier otra.",
-      "wiki": "Seis grados de separación"
-     }
-    ],
-    "dato": "El famoso experimento de los «seis grados de separación» de Stanley Milgram tuvo un detalle incómodo: la gran mayoría de las cartas nunca llegó a su destino.",
-    "epoca": "1967",
-    "explicacion": "Milgram pidió a personas de Nebraska y Boston que hicieran llegar una carta a un desconocido en Massachusetts, pasándola solo por conocidos. En el informe con Jeffrey Travers de 1969, de 296 cadenas iniciales solo 64 se completaron. Las que llegaron pasaron, en promedio, por unas cinco personas.\n\nLa frase «seis grados» se popularizó después, con una obra de teatro de 1990. Estudios con redes digitales encontraron distancias cortas parecidas. Lo que sí queda claro: estamos más cerca de lo que creemos, pero llegar a alguien depende de a quién conoces y de si se toman la molestia.",
-    "fecha": "2026-11-02",
-    "fuente": {
-     "nombre": "Wikipedia: Experimento del mundo pequeño",
-     "url": "https://es.wikipedia.org/wiki/Experimento_del_mundo_pequeño"
-    },
-    "materia": "Relaciones y vida social",
-    "pilar": "caracter",
-    "repaso": {
-     "pregunta": "¿Cuántas de las 296 cadenas de Milgram llegaron a su destino?",
-     "respuesta": "Solo 64, con unas cinco personas intermedias en promedio."
-    },
-    "titulo": "Seis grados, pero casi ninguna carta llegó",
-    "wiki": "Experimento del mundo pequeño"
    }
   ],
   "Religiones y grandes textos": [
+   {
+    "materia": "Religiones y grandes textos",
+    "pilar": "cultura",
+    "epoca": "1954",
+    "titulo": "Cuatro Rollos del Mar Muerto se anunciaron en el Wall Street Journal",
+    "dato": "El 1 de junio de 1954, un pequeño anuncio clasificado ofrecía en venta «Los cuatro Rollos del Mar Muerto». Israel los compró en secreto por 250,000 dólares.",
+    "explicacion": "Los rollos los encontraron pastores beduinos en cuevas cerca de Qumrán a partir de 1947. Cuatro llegaron a manos del metropolitano Athanasius Samuel, de la Iglesia siria ortodoxa, que los llevó a Estados Unidos. Al no encontrar comprador, puso el anuncio. El arqueólogo israelí Yigael Yadin lo vio y compró los rollos a través de un intermediario, con ayuda del filántropo D. S. Gottesman.\n\nEntre ellos estaba el Gran Rollo de Isaías, de unos mil años más antiguo que los manuscritos hebreos completos que se conocían. Hoy está en el [[Santuario del Libro|Edificio del Museo de Israel, en Jerusalén, con un techo blanco en forma de tapa de vasija.]]. Uno de los hallazgos más importantes del siglo XX pasó por la sección de clasificados.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Isaiah_Scroll.jpg?width=900",
+     "alt": "Un rollo de pergamino antiguo desenrollado, con columnas de escritura hebrea",
+     "pie": "El Gran Rollo de Isaías, uno de los cuatro anunciados en 1954.",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Center for Online Judaic Studies: Discovery and acquisition of the Dead Sea Scrolls",
+     "url": "https://cojs.org/discovery_and_acquisition/"
+    },
+    "wiki": "Manuscritos del Mar Muerto",
+    "claves": [
+     {
+      "nombre": "Qumrán",
+      "quien": "El sitio arqueológico junto a las cuevas donde aparecieron los rollos.",
+      "wiki": "Qumrán"
+     },
+     {
+      "nombre": "Santuario del Libro",
+      "quien": "El edificio del Museo de Israel donde se conservan.",
+      "wiki": "Santuario del Libro"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cómo llegó Israel a comprar cuatro de los Rollos del Mar Muerto?",
+     "respuesta": "Por un anuncio en el Wall Street Journal del 1 de junio de 1954; Yigael Yadin los compró por 250,000 dólares mediante un intermediario."
+    },
+    "fecha": "2026-11-19"
+   },
    {
     "claves": [
      {
@@ -4313,63 +4093,10 @@
     },
     "titulo": "La Biblia griega no se tradujo en 72 días",
     "wiki": "Septuaginta"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Francisco Ximénez",
-      "quien": "Fraile dominico (1666–c. 1729) que copió y tradujo el Popol Vuh.",
-      "wiki": "Francisco Ximénez"
-     },
-     {
-      "nombre": "Literatura de Guatemala",
-      "quien": "La tradición literaria del país, que empieza con textos como el Popol Vuh.",
-      "wiki": "Literatura de Guatemala"
-     }
-    ],
-    "dato": "El libro sagrado de los k'iche' de Guatemala existe porque un fraile dominico lo copió hacia 1701. El manuscrito que él leyó se perdió.",
-    "epoca": "c. 1701",
-    "explicacion": "Tras la conquista, unos nobles k'iche' escribieron sus relatos sagrados con el alfabeto latino, a mediados del siglo XVI. Cuenta la creación del mundo, los hombres hechos de maíz y la historia de los gemelos Hunahpú e Ixbalanqué. Ese texto pasó de mano en mano en secreto. Hacia 1701, en Chichicastenango, el fraile Francisco Ximénez lo conoció, lo copió y lo tradujo al español en dos columnas.\n\nEl original nunca volvió a aparecer. La copia de Ximénez, la más antigua que existe, está hoy en la Biblioteca Newberry de Chicago. Sin ese copista, uno de los grandes textos de [[Mesoamérica|Región cultural que va del centro de México a Centroamérica, donde vivieron los mayas, los mexicas y otros pueblos.]] habría desaparecido.",
-    "fecha": "2026-11-01",
-    "fuente": {
-     "nombre": "Wikipedia: Popol Vuh",
-     "url": "https://es.wikipedia.org/wiki/Popol_Vuh"
-    },
-    "imagen": {
-     "alt": "Página manuscrita antigua con texto en dos columnas",
-     "credito": "Wikimedia Commons",
-     "pie": "Una página del manuscrito del Popol Vuh copiado por Francisco Ximénez, con el k'iche' y el español lado a lado",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Popol_vuh.jpg?width=900"
-    },
-    "materia": "Religiones y grandes textos",
-    "pilar": "cultura",
-    "repaso": {
-     "pregunta": "¿Por qué conocemos hoy el Popol Vuh?",
-     "respuesta": "Porque el fraile Francisco Ximénez lo copió y tradujo hacia 1701; el manuscrito que leyó se perdió."
-    },
-    "titulo": "El Popol Vuh sobrevivió gracias a una copia",
-    "wiki": "Popol Vuh"
    }
   ],
   "Retórica y oratoria": [
    {
-    "materia": "Retórica y oratoria",
-    "pilar": "mente",
-    "epoca": "1851",
-    "titulo": "Sojourner Truth quizá nunca dijo «¿Acaso no soy una mujer?»",
-    "dato": "El discurso más citado de Sojourner Truth, con su estribillo «¿Acaso no soy una mujer?», se publicó doce años después de pronunciarse. La crónica de 1851 no contiene esa frase.",
-    "explicacion": "Truth habló el 29 de mayo de 1851 en una convención por los derechos de la mujer en Akron, Ohio. El periodista Marius Robinson, que estaba en el público, publicó su transcripción el 21 de junio en el *Anti-Slavery Bugle*. Robinson revisó el texto con ella. Ahí no aparece el famoso estribillo.\n\nLa versión célebre la escribió Frances Gage y salió el 23 de abril de 1863 en *The Independent*. Gage le puso un acento de esclava del sur. Truth había crecido en Nueva York y su primera lengua era el neerlandés. La lección para un orador: a veces la frase que pasa a la historia es la del editor.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sojourner_truth_c1870.jpg?width=900",
-     "alt": "Retrato fotográfico antiguo de una mujer mayor con chal y cofia blanca",
-     "pie": "Sojourner Truth hacia 1870. Nació esclava en el estado de Nueva York hacia 1797.",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "The Sojourner Truth Project: Compare the two speeches",
-     "url": "https://www.thesojournertruthproject.com/compare-the-speeches/"
-    },
-    "wiki": "Sojourner Truth",
     "claves": [
      {
       "nombre": "¿Acaso no soy una mujer?",
@@ -4382,11 +4109,28 @@
       "wiki": "National Women's Rights Convention"
      }
     ],
+    "dato": "El discurso más citado de Sojourner Truth, con su estribillo «¿Acaso no soy una mujer?», se publicó doce años después de pronunciarse. La crónica de 1851 no contiene esa frase.",
+    "epoca": "1851",
+    "explicacion": "Truth habló el 29 de mayo de 1851 en una convención por los derechos de la mujer en Akron, Ohio. El periodista Marius Robinson, que estaba en el público, publicó su transcripción el 21 de junio en el *Anti-Slavery Bugle*. Robinson revisó el texto con ella. Ahí no aparece el famoso estribillo.\n\nLa versión célebre la escribió Frances Gage y salió el 23 de abril de 1863 en *The Independent*. Gage le puso un acento de esclava del sur. Truth había crecido en Nueva York y su primera lengua era el neerlandés. La lección para un orador: a veces la frase que pasa a la historia es la del editor.",
+    "fecha": "2026-11-18",
+    "fuente": {
+     "nombre": "The Sojourner Truth Project: Compare the two speeches",
+     "url": "https://www.thesojournertruthproject.com/compare-the-speeches/"
+    },
+    "imagen": {
+     "alt": "Retrato fotográfico antiguo de una mujer mayor con chal y cofia blanca",
+     "credito": "Wikimedia Commons",
+     "pie": "Sojourner Truth hacia 1870. Nació esclava en el estado de Nueva York hacia 1797.",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sojourner_truth_c1870.jpg?width=900"
+    },
+    "materia": "Retórica y oratoria",
+    "pilar": "mente",
     "repaso": {
      "pregunta": "¿Qué versión del discurso de Sojourner Truth contiene el estribillo «¿Acaso no soy una mujer?»?",
      "respuesta": "La de Frances Gage, publicada en 1863, doce años después. La transcripción de Marius Robinson de 1851 no lo incluye."
     },
-    "fecha": "2026-11-18"
+    "titulo": "Sojourner Truth quizá nunca dijo «¿Acaso no soy una mujer?»",
+    "wiki": "Sojourner Truth"
    },
    {
     "claves": [
@@ -4552,6 +4296,42 @@
    }
   ],
   "Salud y longevidad": [
+   {
+    "materia": "Salud y longevidad",
+    "pilar": "cuerpo",
+    "epoca": "1799",
+    "titulo": "A George Washington le sacaron cerca de 40% de su sangre",
+    "dato": "En sus últimas 12 horas, Washington fue sangrado cuatro veces: más de 2.3 litros. Uno de sus tres médicos se opuso a la última sangría.",
+    "explicacion": "El 14 de diciembre de 1799, Washington despertó con dolor de garganta y dificultad para respirar. Siguiendo la [[teoría de los humores|Idea médica antigua: la enfermedad viene de un desequilibrio de cuatro líquidos del cuerpo.]], la sangría era el tratamiento estándar. Su capataz hizo la primera. Los médicos James Craik, Gustavus Brown y Elisha Dick hicieron el resto. Dick, el más joven, protestó antes de la última, de unos 950 ml. Murió esa noche.\n\nNo se sabe si la sangría lo mató: probablemente tenía una infección grave de la epiglotis. Pero sí lo debilitó. La medicina tardó décadas en abandonar la práctica, hasta que los primeros estudios con números, como los de Pierre Louis en París en 1835, mostraron que no ayudaba.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Life_of_George_Washington%2C_Deathbed.jpg?width=900",
+     "alt": "Escena pintada de un hombre en su lecho de muerte rodeado de familiares y médicos",
+     "pie": "Washington en su lecho de muerte, en la serie de Junius Brutus Stearns (1851).",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "PBS NewsHour: Dec. 14, 1799: The excruciating final hours of President George Washington",
+     "url": "https://www.pbs.org/newshour/health/dec-14-1799-excruciating-final-hours-president-george-washington"
+    },
+    "wiki": "Sangría (tratamiento médico)",
+    "claves": [
+     {
+      "nombre": "George Washington",
+      "quien": "Primer presidente de EE. UU.; tenía 67 años al morir.",
+      "wiki": "George Washington"
+     },
+     {
+      "nombre": "Teoría de los cuatro humores",
+      "quien": "La base teórica de la sangría durante más de 2,000 años.",
+      "wiki": "Teoría de los cuatro humores"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuánta sangre le sacaron a Washington en su último día?",
+     "respuesta": "Más de 2.3 litros en cuatro sangrías, cerca de 40% de su volumen de sangre."
+    },
+    "fecha": "2026-11-19"
+   },
    {
     "claves": [
      {
@@ -4805,42 +4585,6 @@
     },
     "titulo": "Doce marineros y uno de los primeros ensayos clínicos",
     "wiki": "Escorbuto"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Éter etílico",
-      "quien": "El compuesto que se usó como anestésico en 1846.",
-      "wiki": "Éter etílico"
-     },
-     {
-      "nombre": "Crawford Williamson Long",
-      "quien": "Médico de Georgia que usó éter en 1842 pero publicó hasta 1849.",
-      "wiki": "Crawford Williamson Long"
-     }
-    ],
-    "dato": "Hasta 1846, a los pacientes se les operaba despiertos. El 16 de octubre de ese año, en Boston, un dentista durmió a un joven con éter frente a un auditorio lleno de médicos.",
-    "epoca": "1846",
-    "explicacion": "El dentista William T. G. Morton dio el [[éter|Líquido volátil cuyos vapores, inhalados, producen inconsciencia. Fue uno de los primeros anestésicos.]] y el cirujano John Collins Warren le quitó un tumor vascular a Edward Gilbert Abbott, de 20 años. La sala del Hospital General de Massachusetts se conoce desde entonces como el Ether Dome. Se le atribuye a Warren la frase: «Señores, esto no es un engaño».\n\nLo interesante: Crawford Long ya había usado éter en Georgia en 1842, pero no lo publicó. La historia recuerda a quien demuestra en público, no solo a quien lo hace primero.",
-    "fecha": "2026-11-03",
-    "fuente": {
-     "nombre": "Wikipedia (inglés): Ether Dome",
-     "url": "https://en.wikipedia.org/wiki/Ether_Dome"
-    },
-    "imagen": {
-     "alt": "Daguerrotipo de cirujanos alrededor de un paciente en un anfiteatro",
-     "credito": "Wikimedia Commons",
-     "pie": "Recreación de la primera operación con éter, Southworth & Hawes (c. 1847)",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Southworth_%26_Hawes_-_First_etherized_operation_%28re-enactment%29.jpg?width=900"
-    },
-    "materia": "Salud y longevidad",
-    "pilar": "cuerpo",
-    "repaso": {
-     "pregunta": "¿Qué pasó el 16 de octubre de 1846 en Boston?",
-     "respuesta": "La primera demostración pública de una operación con anestesia de éter, dada por Morton, en el Hospital General de Massachusetts."
-    },
-    "titulo": "El día que una operación dejó de doler",
-    "wiki": "Anestesia"
    }
   ]
  }
