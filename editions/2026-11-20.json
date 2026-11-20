@@ -1,0 +1,943 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-20",
+ "numero": 30,
+ "fecha": "2026-11-20",
+ "disponibleDesde": "2026-11-20T08:00:00-06:00",
+ "titulo": "1853: Haussmann abre París a cuchillo",
+ "temporada": {
+  "id": "t06",
+  "numero": 6,
+  "titulo": "París: cómo se hizo la capital del gusto",
+  "episodio": 1,
+  "totalEpisodios": 6
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vue_a%C3%A9rienne_de_la_place_de_l%27%C3%A9toile.jpg?width=900",
+  "alt": "Vista aérea de una gran plaza circular de la que salen avenidas en forma de estrella",
+  "pie": "La plaza de la Estrella, en París: doce avenidas salen del Arco de Triunfo. Buena parte de ese trazo es obra de Haussmann.",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "pregunta": "¿Qué descubrió Hubble en 1929?",
+   "respuesta": "Que las galaxias se alejan más rápido cuanto más lejos están: el universo se expande.",
+   "origen": "Edición #27"
+  },
+  {
+   "pregunta": "¿Con qué midió Eratóstenes el tamaño de la Tierra?",
+   "respuesta": "Con la sombra del Sol a mediodía en dos ciudades de Egipto y la distancia entre ellas.",
+   "origen": "Edición #24"
+  },
+  {
+   "pregunta": "¿Qué frase de Brillat-Savarin une comida e identidad?",
+   "respuesta": "«Dime lo que comes y te diré quién eres».",
+   "origen": "Edición #22"
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n1",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-11-19",
+   "historiaEnCurso": {
+    "id": "tasas-banxico",
+    "titulo": "Tasas de Banxico y el peso",
+    "capitulo": 6,
+    "dondeIbamos": "Banxico bajó la tasa a 6.25% a inicios de noviembre y el peso rondaba 18.53 por dólar."
+   },
+   "titular": "El dólar pasa de 19 pesos el día que Banxico revela una Junta dividida",
+   "quePaso": "El jueves 19 el dólar cerró en **19.1182 pesos**, según Banxico. Es su primer cierre arriba de 19 desde junio de 2025. Subió 1.45% en el día.\n\nEse mismo día Banxico publicó las minutas del recorte a 6.25%. La decisión fue 3 a 2: Galia Borja y Jonathan Heath querían dejar la tasa en 6.50%.",
+   "contexto": "**Hecho:** la mayoría de la Junta llamó al recorte un «ajuste fino», no el inicio de una serie. Dijo que la tasa debe quedarse en 6.25% «durante un periodo prolongado». La diferencia con la tasa de la Fed bajó a 262.5 puntos base, la menor desde 2008.\n\n**Hecho:** Heath advirtió que una brecha tan baja amenaza con deshacer el [[carry trade|Estrategia de inversionistas que se endeudan en una moneda de tasa baja para invertir en otra de tasa alta, como el peso.]]. El índice del dólar casi no se movió (+0.08%), así que el golpe fue sobre todo propio del peso.\n\n**Dato en disputa:** Expansión, con datos de Banxico, da 19.1182; Infobae, con Dow Jones, da 19.08.\n\n**Interpretación:** Janneth Quiroz, de Monex, ve sesgo a más depreciación y volatilidad, pero dice que es pronto para saber si el dólar se queda arriba de 19.",
+   "aMiQue": "Todo lo que pagas en dólares sube: latas, envases, saborizantes, materias primas de suplementos. Del 17 al 19 de noviembre el dólar pasó de 18.42 a 19.12, cerca de 3.8% más en tres días. Antes de fijar precios de lista de 2027, revisa con qué tipo de cambio los calculaste y si conviene fijar el dólar de tus compras del primer trimestre.",
+   "queVigilar": "Si el dólar se sostiene arriba de 19 la próxima semana. La inflación de la primera quincena de noviembre del INEGI (suele salir alrededor del 24; octubre cerró en 3.75%). Las decisiones de diciembre de la Fed y de Banxico.",
+   "fuentes": [
+    {
+     "nombre": "Expansión: Dólar cierra en 19.11 pesos y abre la puerta a subir los pronósticos (19 nov 2026)",
+     "url": "https://expansion.mx/mercados/2026/11/19/dolar-rebasa-19-pesos-abre-puerta-subir-pronosticos"
+    },
+    {
+     "nombre": "Excélsior: Minutas de Banxico revelan por qué la tasa bajó a 6.25% (19 nov 2026)",
+     "url": "https://www.excelsior.com.mx/finanzas/fin-recortes-minutas-banxico-revelan-por-que-tasa-bajo-6-25"
+    },
+    {
+     "nombre": "Infobae: Dólar hoy en México, cotización de cierre del 19 de noviembre",
+     "url": "https://www.infobae.com/mexico/2026/11/19/dolar-hoy-en-mexico-cotizacion-de-cierre-del-19-de-noviembre/"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-19",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 27,
+    "dondeIbamos": "El 18 de noviembre el Brent estaba en 91.95 dólares; hubo ataques iraníes a Baréin y Kuwait y EE. UU. golpeó Qeshm el 17."
+   },
+   "titular": "Trump evalúa días de ataques contra Irán; el petróleo casi no se mueve",
+   "quePaso": "Según *The New York Times*, que cita a funcionarios anónimos de EE. UU. e Israel, Trump evalúa ataques aéreos contra Irán de **entre cuatro y siete días**. EE. UU. reforzó la región con cazas y bombarderos B-1 y B-2.\n\nTrump dijo el 18 que hay indicios de que Irán investiga armas químicas y biológicas. Irán lo negó el 19 y lo comparó con las acusaciones contra Irak en 2003. Ese día el Brent cerró en 91.98 dólares, prácticamente igual.",
+   "contexto": "**Hecho:** según Axios, citado por EFE, el gabinete de seguridad está dividido. El secretario de Defensa, Pete Hegseth, quiere bombardear; el secretario de Estado, Marco Rubio, cree que basta la presión económica. La Casa Blanca preguntó a los países del Golfo si podrían evitar una represalia contra sus instalaciones petroleras.\n\n**Hecho:** el crudo ha caído cerca de 20% desde fines de octubre porque se espera más oferta que demanda.\n\n**Dato en disputa:** El CEO reporta el Brent en 92.66 (+0.77%); Infobae, en 91.98.\n\n**Interpretación:** por ahora el mercado teme más al exceso de petróleo que a la guerra. Es una noticia basada en fuentes anónimas: todavía no hay decisión.",
+   "aMiQue": "Si hay ataques de varios días y represalias contra el Golfo, el crudo sube y con él el diésel y los fletes. Sumado a un dólar arriba de 19, sería un golpe doble a la distribución en diciembre, la temporada más fuerte para bebidas. Vale la pena cerrar ya fletes y precios de logística de fin de año.",
+   "queVigilar": "La decisión de Trump. Incidentes en el estrecho de Ormuz. La reunión de la OPEP+ el 29 de noviembre.",
+   "fuentes": [
+    {
+     "nombre": "Infobae/EFE: Trump valora volver a atacar Irán «de 4 a 7 días» tras presiones de Israel, según el NYT (19 nov 2026)",
+     "url": "https://www.infobae.com/america/agencias/2026/11/19/trump-valora-volver-a-atacar-iran-de-4-a-7-dias-tras-presiones-de-israel-segun-el-nyt/"
+    },
+    {
+     "nombre": "Infobae/EFE: Irán niega la alegación de Trump sobre armas químicas (20 nov 2026)",
+     "url": "https://www.infobae.com/america/agencias/2026/11/20/iran-niega-la-alegacion-de-trump-de-que-busca-armas-quimicas-y-lo-compara-con-iraq-en-2003/"
+    },
+    {
+     "nombre": "Infobae: El petróleo termina casi sin cambios pese al riesgo de nuevos ataques (19 nov 2026)",
+     "url": "https://www.infobae.com/america/mundo/2026/11/19/el-petroleo-termina-casi-sin-cambios-pese-al-riesgo-de-nuevos-ataques-estadounidenses-contra-iran/"
+    }
+   ]
+  },
+  {
+   "id": "n3",
+   "ambito": "gdl",
+   "ambitoTexto": "Guadalajara",
+   "fecha": "2026-11-18",
+   "historiaEnCurso": {
+    "id": "agua-gdl",
+    "titulo": "Crisis del agua en Guadalajara",
+    "capitulo": 16,
+    "dondeIbamos": "El Congreso no acordaba el descuento para 627 colonias con tandeos, y Lemus prometía terminar los tandeos a más tardar el 15 de diciembre."
+   },
+   "titular": "Agua: entra el segundo bombeo de Las Pintas y el tercero llegaría el 2 o 3 de diciembre",
+   "quePaso": "Al cerrar el sistema viejo de Las Pintas se perdieron unos **2,500 litros por segundo**, cerca de 30% del agua que se distribuye. El primer bombeo nuevo recuperó 680 l/s; el segundo arrancó el martes 17 con otros 680.\n\nEl tercero, de 680 l/s más, entraría entre el 2 y el 3 de diciembre, para unos 2,100 l/s en total. La planta potabilizadora 4 aportaría 300 l/s adicionales.",
+   "contexto": "**Hecho:** ya mejora la presión en colonias altas como Guadalupe Inn y Ciudad Granja, en Zapopan, y La Perla y Miravalle, en Guadalajara. El gobernador Pablo Lemus dijo que eso «no quiere decir que la crisis de agua ha terminado».\n\n**Hecho:** el desazolve de la presa Las Pintas va en 60%. El 15 de diciembre es la fecha para terminar los colectores que desviarán aguas negras de los arroyos El Edén y Arroyo Seco. La nueva potabilizadora operaría en abril de 2027.\n\n**Matiz:** las notas del 18 dicen que los tandeos disminuirán en diciembre, no que terminen el 15. Tampoco hubo novedad sobre el descuento para las 627 colonias.",
+   "aMiQue": "Si el tercer bombeo entra a tiempo, locales, bodegas y eventos en Zapopan y Guadalajara deberían operar con más normalidad justo para las ventas de diciembre. Hasta verlo funcionar, conviene mantener cisterna o pipa de respaldo.",
+   "queVigilar": "Que el tercer bombeo arranque el 2 o 3 de diciembre. Los colectores del 15 de diciembre. Si el Congreso retoma el descuento.",
+   "fuentes": [
+    {
+     "nombre": "El Informador: Lemus confirma que abasto de agua en la ZMG aumentará a partir del 3 de diciembre (18 nov 2026)",
+     "url": "https://www.informador.mx/jalisco/siapa-lemus-confirma-que-abasto-de-agua-en-la-zmg-aumentara-a-partir-del-3-de-diciembre-20261118-0143.html"
+    },
+    {
+     "nombre": "Quadratín Jalisco: Recuperación de bombeo permitirá reducir tandeos de agua en diciembre (18 nov 2026)",
+     "url": "https://jalisco.quadratin.com.mx/principal/recuperacion-de-bombeo-permitira-reducir-tandeos-de-agua-en-diciembre-lemus/"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "Un funcionario derribó casi 20,000 edificios de París y le dio la ciudad que hoy admiramos. No lo tumbó una revolución: lo tumbó una hoja de cálculo.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Marville%2C_Rue_des_Marmousets%2C_ca._1853%E2%80%9370.jpg?width=900",
+     "alt": "Calle estrecha y oscura de París del siglo XIX, con casas altas y viejas",
+     "pie": "La rue des Marmousets, fotografiada por Charles Marville antes de desaparecer. Así era buena parte del centro de París hacia 1850.",
+     "credito": "Wikimedia Commons"
+    },
+    "contexto": "París, 1850. La ciudad más famosa de Europa huele mal. Sus calles del centro miden a veces tres o cuatro metros de ancho. El agua sale del Sena, el mismo río al que caen las aguas negras.\n\nEn 1832, el [[cólera|Enfermedad intestinal que se transmite por agua contaminada y puede matar en horas.]] mató a más de 18,400 parisinos en seis meses. En 1848, las barricadas volvieron a cerrar esas callejuelas.\n\nEl 22 de junio de 1853, Napoleón III nombra prefecto del Sena a un funcionario de 44 años: Georges-Eugène Haussmann. Le da una orden sencilla de decir y casi imposible de cumplir: abrir París.\n\nDurante 17 años, Haussmann lo consigue. Pero en enero de 1870 lo destituyen.",
+    "pregunta": "¿Qué acabó con Haussmann en 1870?",
+    "opciones": [
+     "Una revuelta popular contra las demoliciones",
+     "Sus cuentas: una deuda escondida que un político exhibió con un juego de palabras",
+     "Una nueva epidemia de cólera en los barrios nuevos"
+    ]
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Diecisiete años con la piqueta en la mano",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adolphe_Yvon_-_Portrait_du_baron_Haussmann_%281809-1891%29%2C_pr%C3%A9fet_de_la_Seine_-_P346_-_Mus%C3%A9e_Carnavalet.jpg?width=900",
+     "alt": "Retrato al óleo de un hombre corpulento con traje oscuro y condecoraciones",
+     "pie": "El barón Haussmann retratado por Adolphe Yvon. Hoy el cuadro está en el Museo Carnavalet, el museo de la historia de París.",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "Napoleón III había vivido exiliado en Londres. Allí vio parques públicos, calles anchas y alcantarillas. Llegó al poder con un mapa de París marcado con colores: las calles que quería abrir.\n\nHaussmann no era arquitecto. Era abogado de formación y administrador de carrera. Su talento era otro: ejecutar sin pedir permiso dos veces.\n\nEl método era brutal y simple. Se trazaba una línea recta sobre el plano. Se [[expropiaba|Quitar una propiedad a su dueño por causa de utilidad pública, a cambio de una indemnización.]] todo lo que estaba en medio. Se demolía y se vendían los terrenos de las orillas, que ahora valían mucho más.\n\nLas cifras marean. Entre 1853 y 1870 se demolieron unos **19,730 edificios** y se levantaron unos **34,000** nuevos. Se abrieron unos 64 kilómetros de calles. Trabajaron cerca de 80,000 obreros.\n\nDebajo de la ciudad pasó algo igual de grande. El ingeniero Eugène Belgrand multiplicó la red de alcantarillas y trajo agua limpia de manantiales lejanos. El acueducto de la Dhuis medía 131 kilómetros.\n\nArriba, Jean-Charles Alphand plantó parques: el Bois de Boulogne, el de Vincennes, los Buttes-Chaumont. Se plantaron cientos de miles de árboles.\n\nEn 1860 París se tragó a sus suburbios. Pasó de 12 a 20 distritos y de unos 1.1 millones a 1.6 millones de habitantes. Hacia 1870 rondaba los 2 millones.\n\nLo que estaba en juego no era solo belleza. Era salud, tráfico, orden público y dinero. Y alguien tenía que pagarlo."
+   },
+   {
+    "tipo": "giro",
+    "titulo": "«Les Comptes fantastiques d'Haussmann»",
+    "texto": "Lo tumbaron **sus cuentas**. Las obras costaron alrededor de 2,000 millones de francos. Eso era una fortuna para cualquier Estado de la época.\n\nHaussmann no podía pedir tanto al Parlamento. Así que pagaba a los contratistas con unos papeles llamados [[bons de délégation|Bonos con los que la ciudad pagaba a contratistas; en la práctica eran deuda que no aparecía en el presupuesto.]]. Era deuda, pero no se veía como deuda. Hacia 1867 sumaban unos 463 millones de francos.\n\nEn 1868, el abogado y político Jules Ferry reunió sus artículos en un folleto con un título genial: *Les Comptes fantastiques d'Haussmann*. «Las cuentas fantásticas de Haussmann». Era un juego de palabras con los *Contes fantastiques*, los cuentos fantásticos de E. T. A. Hoffmann. En francés, *comptes* (cuentas) y *contes* (cuentos) suenan igual.\n\nFerry no criticaba los bulevares. Criticaba que una ciudad se endeudara por generaciones sin que ningún órgano electo lo aprobara. El chiste se volvió consigna.\n\nEl 5 de enero de 1870, Napoleón III cedió ante el nuevo gobierno liberal de Émile Ollivier y destituyó a Haussmann. Meses después caía el propio Imperio.\n\nY una sorpresa más. Se repite que los bulevares se hicieron para que el ejército disparara contra las barricadas. Haussmann escribió que el bulevar Sébastopol fue «el destripamiento del viejo París, del barrio de los motines». Pero también dijo que ese argumento le servía para justificar el gasto. Los historiadores siguen discutiendo cuánto pesó. Lo seguro es que higiene, tráfico y control iban juntos."
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "Reglas, no diseños",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Immeuble_haussmannien_%C3%A0_Paris_%2852169315349%29.jpg?width=900",
+     "alt": "Fachada de un edificio parisino de piedra clara con balcones de hierro",
+     "pie": "Un edificio haussmanniano típico: piedra clara, balcones alineados y techo de pizarra inclinado.",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "¿Por qué París se ve tan armoniosa si la construyeron cientos de arquitectos distintos? Porque Haussmann no diseñó edificios. **Diseñó reglas.**\n\nUn decreto de 1859 dijo: en calles de 20 metros o más, la fachada puede subir hasta 20 metros. El techo no puede pasar de una diagonal de 45 grados. La costumbre de la época añadió el resto: balcón en el segundo piso, balcón corrido en el quinto, cornisas a la misma altura que las del vecino. Y las fachadas debían limpiarse al menos cada diez años.\n\nCada dueño construía lo que quería dentro de ese marco. El resultado parece planeado por una sola mano.\n\nLa herramienta: cuando muchas personas deciden por separado, no intentes decidir todo por ellas. Fija pocas reglas claras sobre lo que se ve y deja libre lo demás. Pregúntate: **¿qué tres reglas, si todos las cumplen, hacen que el conjunto se vea como yo quiero?**"
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Guadalajara también abrió su centro a cuchillo",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Catedral_de_Guadalajara_vista_desde_la_plaza_Guadalajara..jpg?width=900",
+     "alt": "La Catedral de Guadalajara, con sus dos torres amarillas, vista desde una plaza",
+     "pie": "La Catedral vista desde la Plaza Guadalajara, una de las cuatro plazas de la Cruz de Plazas.",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "**La Cruz de Plazas.** En 1947 el arquitecto Ignacio Díaz Morales le presentó una maqueta al gobernador Jesús González Gallo: cuatro plazas alrededor de la Catedral, en forma de cruz. Para hacerla se demolieron el antiguo Arzobispado, la ex Casa de Moneda, el templo de la Soledad y varias manzanas. Hoy son la Plaza de Armas, la Plaza Guadalajara, la Plaza de la Liberación y la Rotonda de los Jaliscienses Ilustres. Igual que en París, hubo quien lloró lo perdido y hoy nadie imagina el centro sin ellas.\n\n**El edificio que caminó.** Para ensanchar la avenida Juárez había que tumbar el edificio de Teléfonos, en la esquina con Donato Guerra. Sus dueños tenían un amparo. En octubre de 1950, el ingeniero Jorge Matute Remus lo movió **11.82 metros** sobre rieles y gatos, con más de cien empleados trabajando dentro y sin cortar el servicio. Costó un millón de pesos; demoler y reconstruir habría costado nueve.\n\n**En tu marca.** Un manual de marca funciona como el decreto de 1859. No diseña cada etiqueta, cada post o cada exhibidor. Fija pocas reglas visibles —tipografía, color, aire— y deja que distribuidores y agencias hagan el resto."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿Qué parte de tu negocio funciona hoy con callejuelas medievales: procesos que nadie ha querido demoler porque «siempre se han hecho así»?",
+    "texto": "Y si decides abrir un bulevar, haz las cuentas a la vista. A Haussmann no lo tumbó la obra, lo tumbó la deuda escondida."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Una ciudad armoniosa no se diseña edificio por edificio: se diseña con pocas reglas que todos cumplen."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "The History Guy: Georges-Eugène Haussmann, The Man Who Rebuilt Paris (video, en inglés)",
+   "url": "https://www.youtube.com/watch?v=SlHlSCvh0JA",
+   "minutos": 12
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Qué cargo le dio Napoleón III a Haussmann en 1853 y qué le encargó?",
+    "respuesta": "Prefecto del Sena. Le encargó abrir París: calles anchas, agua limpia, alcantarillas y parques."
+   },
+   {
+    "pregunta": "¿Qué eran los «bons de délégation» y por qué importaron?",
+    "respuesta": "Bonos con los que Haussmann pagaba a los contratistas. Eran deuda escondida fuera del presupuesto; cuando se supo, Jules Ferry los exhibió y Haussmann cayó en 1870."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Wikipedia (en): Haussmann's renovation of Paris",
+    "url": "https://en.wikipedia.org/wiki/Haussmann%27s_renovation_of_Paris"
+   },
+   {
+    "nombre": "Ville de Paris: Haussmann, l'homme qui a transformé Paris",
+    "url": "https://www.paris.fr/pages/haussmann-l-homme-qui-a-transforme-paris-23091"
+   },
+   {
+    "nombre": "Fondation Napoléon: Les Comptes fantastiques d'Haussmann, de Jules Ferry (comentario y extractos)",
+    "url": "https://www.napoleon.org/enseignants/documents/document-les-comptes-fantastiques-dhaussmann-de-jules-ferry-commentaire-et-extraits/"
+   },
+   {
+    "nombre": "ENAP: L'épidémie de choléra à Paris en 1832",
+    "url": "https://www.enap.justice.fr/histoire/lepidemie-de-cholera-paris-en-1832"
+   },
+   {
+    "nombre": "Techno-Science: Règlements d'urbanisme de Paris (decreto de 1859)",
+    "url": "https://www.techno-science.net/fr/definitions/reglements-d-urbanisme-de-paris"
+   },
+   {
+    "nombre": "Mexico News Daily: The time Matute Remus moved a building in Guadalajara",
+    "url": "https://mexiconewsdaily.com/culture/the-time-matute-remus-moved-a-building-in-guadalajara/"
+   },
+   {
+    "nombre": "Universidad de Guadalajara (RIUdeG): estudio sobre la Cruz de Plazas",
+    "url": "https://riudg.udg.mx/bitstream/20.500.12104/73639/1/BCUAAD00026.pdf"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Religiones y grandes textos",
+   "pilar": "cultura",
+   "formato": "mitoRealidad",
+   "titulo": "¿Los Reyes Magos eran tres y eran reyes?",
+   "contexto": "Cada 6 de enero, México parte la rosca por tres reyes: Melchor, Gaspar y Baltasar. Llegan en camello, con corona, y uno de ellos es negro.\n\nTodo eso parece venir de la Biblia. Pero la historia aparece en un solo evangelio, el de Mateo, y ocupa apenas doce versículos.",
+   "pregunta": "¿Qué dice el Evangelio de Mateo sobre ellos?",
+   "opciones": [
+    "Que eran tres reyes de Oriente, con sus nombres",
+    "Que eran «magos» de Oriente; no dice cuántos ni que fueran reyes",
+    "Que eran tres, pero no reyes sino sacerdotes"
+   ],
+   "correcta": 1,
+   "revelacion": "**Mito.** Mateo habla de unos *magoi*, [[magos|En el mundo antiguo, sabios o sacerdotes persas dedicados a la astronomía y a interpretar señales.]] llegados «de Oriente» que siguen una estrella. Traen oro, incienso y mirra, y regresan «por otro camino». No dice cuántos eran, ni sus nombres, ni que fueran reyes.\n\nEl **tres** salió de los tres regalos. En el arte antiguo hay dos, cuatro y hasta doce; Orígenes, en el siglo III, ya habla de tres. La **corona** llegó al leer la escena junto al Salmo 72: «los reyes de Tarsis traerán presentes». Los **nombres** aparecen en el siglo VI, en el mosaico de San Apolinar el Nuevo, en Rávena. Y el rey negro se generaliza en el arte europeo desde finales del siglo XV, como símbolo de los tres continentes conocidos.\n\nEn 1164, Federico Barbarroja tomó de Milán unas reliquias atribuidas a los magos y se las dio al arzobispo de Colonia. Para guardarlas se hizo un relicario de oro y, después, una de las catedrales más grandes del mundo. Una tradición de pocos versículos levantó una ciudad de peregrinos.",
+   "idea": "Muchas tradiciones no están en el texto: son la forma en que generaciones de lectores lo rellenaron.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mosaic_of_the_Three_Magi%2C_Basilica_of_Sant%27Apollinare_Nuovo%2C_Ravenna%2C_Italy_%286125333736%29.jpg?width=900",
+    "alt": "Mosaico bizantino de tres hombres con gorros frigios que avanzan con regalos",
+    "pie": "Los magos en San Apolinar el Nuevo, Rávena, siglo VI. Llevan gorro persa, no corona, y sobre ellos se leen sus nombres.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "National Geographic: ¿Realmente los Reyes Magos eran tres? Lo que dicen las fuentes históricas",
+    "url": "https://www.nationalgeographicla.com/historia/2025/12/realmente-los-reyes-magos-eran-tres-lo-que-dicen-las-fuentes-historicas-sobre-estos-viajeros"
+   },
+   "wiki": "Reyes Magos",
+   "claves": [
+    {
+     "nombre": "Basílica de San Apolinar el Nuevo",
+     "quien": "Iglesia de Rávena del siglo VI con el mosaico más antiguo que da los nombres de los magos.",
+     "wiki": "Basílica de San Apolinar el Nuevo"
+    },
+    {
+     "nombre": "Relicario de los Tres Reyes Magos",
+     "quien": "Cofre de oro de Nicolás de Verdún, en la Catedral de Colonia, donde se guardan las reliquias desde 1164.",
+     "wiki": "Relicario de los Tres Reyes Magos"
+    },
+    {
+     "nombre": "Reinaldo de Dassel",
+     "quien": "Arzobispo de Colonia que recibió las reliquias de manos de Barbarroja.",
+     "wiki": "Reinaldo de Dassel"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿De dónde salió que los Reyes Magos fueran tres?",
+    "respuesta": "De los tres regalos: oro, incienso y mirra. Mateo no dice cuántos eran ni que fueran reyes."
+   }
+  },
+  {
+   "materia": "Oficios del lujo y estilo",
+   "pilar": "gusto",
+   "formato": "comoFunciona",
+   "titulo": "La prueba del pellizco: cómo saber si un saco está bien construido",
+   "contexto": "Dos sacos azules cuelgan uno junto al otro. Se ven casi iguales. Uno cuesta cinco veces más.\n\nLa diferencia no está en la tela que ves, sino en una capa que no ves: la [[entretela|Capa interior que da forma y cuerpo al pecho de un saco, entre la tela exterior y el forro.]]. Los sastres la revisan en dos segundos, con los dedos.",
+   "pregunta": "Pellizcas la tela del pecho, abajo del ojal de la solapa. ¿Qué indica una buena construcción?",
+   "opciones": [
+    "Dos capas pegadas, firmes, que se sienten como una sola",
+    "Una tercera capa suelta que flota entre la tela y el forro",
+    "Que la tela no se arrugue nada al soltarla"
+   ],
+   "correcta": 1,
+   "revelacion": "**La tercera capa suelta.** En un saco *full canvas*, entre la tela y el forro hay una entretela de lana y crin de caballo, cosida a mano, no pegada. Al pellizcar sientes tres capas que se mueven por separado. Esa entretela se amolda al pecho con el uso y deja caer la solapa en una curva suave.\n\nEn un saco **termofijado** (*fused*), la entretela va pegada a la tela con calor y adhesivo. Al pellizcar sientes solo dos capas, como una sola lámina. Es más barato y rápido. Los fusionados de los años sesenta y setenta solían hacer burbujas y endurecer el pecho; hoy la técnica mejoró, pero el saco sigue siendo más rígido. El punto medio es el *half canvas*: entretela cosida en el pecho y pegada abajo.\n\nEl extremo es Savile Row. La asociación de sastres de esa calle de Londres calcula que un traje de dos piezas lleva al menos 50 horas de trabajo a mano. Casas como Huntsman hablan de más de 80 horas y hasta tres pruebas.",
+   "idea": "La calidad de un saco se siente antes de verse: pellizca el pecho y cuenta las capas.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Savile_Row_from_Burlington_Gardens_-_geograph.org.uk_-_1458130.jpg?width=900",
+    "alt": "Calle londinense con fachadas de ladrillo y escaparates de sastrerías",
+    "pie": "Savile Row, en Londres: la calle de la sastrería a medida desde el siglo XIX.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Savile Row Bespoke Association: requisitos de afiliación",
+    "url": "https://www.savilerowbespoke.com/membership-requirements"
+   },
+   "wiki": "Traje",
+   "claves": [
+    {
+     "nombre": "Sastre",
+     "quien": "El oficio de cortar y coser prendas a medida.",
+     "wiki": "Sastre (oficio)"
+    },
+    {
+     "nombre": "Solapa",
+     "quien": "La parte doblada del cuello del saco; su caída delata la entretela.",
+     "wiki": "Solapa (indumentaria)"
+    },
+    {
+     "nombre": "Chaqueta de salón",
+     "quien": "El saco de traje moderno, heredero de la chaqueta inglesa del siglo XIX.",
+     "wiki": "Chaqueta de salón"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuántas capas sientes al pellizcar el pecho de un saco con entretela completa y cosida?",
+    "respuesta": "Tres: la tela exterior, la entretela que flota suelta y el forro. En uno termofijado sientes solo dos."
+   }
+  },
+  {
+   "materia": "Ciencia y tecnología",
+   "pilar": "futuro",
+   "formato": "adivinaNumero",
+   "titulo": "Ignición: el día que la fusión dio más energía de la que recibió",
+   "contexto": "5 de diciembre de 2022, Livermore, California. En la National Ignition Facility, 192 haces de láser disparan a la vez contra una cápsula más pequeña que un grano de pimienta.\n\nEl láser entrega 2.05 megajoules al blanco. La [[fusión nuclear|Proceso en el que núcleos ligeros se unen y liberan energía; es lo que hace brillar al Sol.]] devuelve 3.15. Por primera vez en un laboratorio, sale más energía de la que entró al combustible. El anuncio llega el 13 de diciembre.",
+   "pregunta": "Para ese disparo, ¿cuánta energía tomó la instalación de la red eléctrica para cargar sus láseres?",
+   "opciones": [
+    "Unos 3 megajoules",
+    "Unos 30 megajoules",
+    "Unos 300 megajoules"
+   ],
+   "correcta": 2,
+   "revelacion": "**Unos 300 megajoules.** El láser es muy ineficiente: de cada 100 unidades que toma de la red, solo llega al blanco menos de una. Por eso la «ganancia» de 1.5 se mide contra la energía del láser, no contra la de la red. Desde el enchufe, el experimento perdió energía.\n\nAun así fue histórico. Demostró la [[ignición|Punto en que la fusión libera más energía de la que se usó para provocarla en el combustible.]] por [[confinamiento inercial|Técnica que comprime el combustible con láseres tan rápido que se fusiona antes de dispersarse.]], algo buscado durante 60 años. Y siguió mejorando. El 7 de abril de 2025 el laboratorio obtuvo 8.6 megajoules con 2.08 de láser: una ganancia de 4.13 en el blanco. Hasta 2025 se había logrado ignición unas diez veces.\n\nLa NIF no es una planta eléctrica: es un laboratorio para estudiar armas nucleares sin probarlas y física extrema. Convertir esto en electricidad exige láseres mucho más eficientes, disparar varias veces por segundo y blancos baratos. Nadie serio da una fecha cercana.",
+   "idea": "Un récord científico y un negocio viable son cosas distintas: pregunta siempre contra qué se mide la ganancia.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NIF_Laser_Bay.jpg?width=900",
+    "alt": "Pasillo industrial enorme con tubos metálicos alineados que llevan los haces láser",
+    "pie": "Una de las bahías láser de la National Ignition Facility. Toda la instalación ocupa el tamaño de unos tres campos de futbol.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "LLNL Annual Report 2025: National Ignition Facility",
+    "url": "https://annual.llnl.gov/sites/annual/files/2026-02/llnlannual25-3-national-ignition-facility.pdf"
+   },
+   "wiki": "Confinamiento inercial",
+   "claves": [
+    {
+     "nombre": "Laboratorio Nacional Lawrence Livermore",
+     "quien": "Laboratorio federal de EE. UU. en California que opera la NIF.",
+     "wiki": "Laboratorio Nacional Lawrence Livermore"
+    },
+    {
+     "nombre": "Fusión nuclear",
+     "quien": "La reacción que se intenta domesticar: la misma del Sol.",
+     "wiki": "Fusión nuclear"
+    },
+    {
+     "nombre": "Energía de fusión",
+     "quien": "El campo que busca convertir la fusión en electricidad comercial.",
+     "wiki": "Energía de fusión"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué la ignición de 2022 no significó energía neta para la red?",
+    "respuesta": "Porque el láser entregó 2.05 MJ y salieron 3.15 MJ, pero cargar los láseres costó unos 300 MJ de la red."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "elCaso",
+   "titulo": "Pieter Levels: el programador que vende sitios web solo y publica sus ingresos",
+   "contexto": "Marzo de 2014. Un programador holandés, Pieter Levels, está harto de empezar proyectos y no terminarlos. Publica en su blog un reto público.\n\nUno de esos proyectos fue una simple hoja de cálculo con ciudades, costo de vida y velocidad de internet para quienes trabajan viajando. Se llamó Nomad List.",
+   "pregunta": "¿Qué reto se puso Levels en 2014?",
+   "opciones": [
+    "Levantar un millón de dólares de inversionistas",
+    "Lanzar una startup al mes durante 12 meses",
+    "Contratar un equipo de 12 programadores"
+   ],
+   "correcta": 1,
+   "revelacion": "**Una startup al mes, durante doce meses.** La cuarta fue Nomad List, hoy Nomads.com. Después vinieron Remote OK, una bolsa de trabajo remoto (2015), Interior AI (2022) y Photo AI (2023), que genera fotos con inteligencia artificial.\n\nLo que se vende es acceso: membresías, anuncios de empleo, suscripciones. Atender al cliente diez mil o al diez mil uno cuesta casi lo mismo: unos centavos de servidor. Levels trabaja prácticamente solo, sin inversionistas, con el modelo [[bootstrapping|Financiar un negocio con sus propias ventas, sin capital externo.]]. Y publica sus ingresos en X y en las páginas de sus sitios, un estilo llamado *open startup*.\n\nOjo con las cifras: son **autodeclaradas** y nadie las audita. En 2019 decía haber tardado cuatro años en llegar a un millón de dólares al año con Nomad List y Remote OK; en 2024, Genbeta reportó, con base en su perfil, más de 400,000 dólares al mes. Lo verificable es el método: lanzar mucho, medir rápido, matar lo que no vende y quedarse con lo que sí. La mayoría de sus proyectos fracasaron.",
+   "idea": "En lo digital, la ventaja no es una gran idea: es lanzar barato muchas veces y quedarte con lo que el mercado paga.",
+   "fuente": {
+    "nombre": "Genbeta: Hay quien está ganando 100,000 dólares al mes utilizando IA (15 abr 2024)",
+    "url": "https://www.genbeta.com/inteligencia-artificial/hay-quien-esta-ganando-100-000-dolares-al-mes-utilizando-ia-gratis-asi-hace"
+   },
+   "wiki": "Software como servicio",
+   "claves": [
+    {
+     "nombre": "Nómada digital",
+     "quien": "Quien trabaja a distancia mientras viaja: el cliente de Nomad List.",
+     "wiki": "Nómada digital"
+    },
+    {
+     "nombre": "Bootstrapping",
+     "quien": "Crecer sin inversionistas, con el dinero que genera el propio negocio.",
+     "wiki": "Bootstrapping (negocios)"
+    },
+    {
+     "nombre": "Teletrabajo",
+     "quien": "El cambio de hábitos laborales que hizo crecer Remote OK.",
+     "wiki": "Teletrabajo"
+    }
+   ],
+   "profundizar": {
+    "titulo": "levels.io: lista de proyectos de Pieter Levels (fuente primaria, en inglés)",
+    "url": "https://levels.io/projects"
+   },
+   "repaso": {
+    "pregunta": "¿Por qué hay que tomar con cautela los ingresos que publica Pieter Levels?",
+    "respuesta": "Porque son autodeclarados y nadie los audita. Lo verificable es su método: lanzar mucho, medir y quedarse con lo que vende."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Filosofía para vivir",
+   "pilar": "mente",
+   "epoca": "Siglo I",
+   "titulo": "El estoico que predicaba la pobreza era multimillonario",
+   "dato": "Séneca escribía que la riqueza no da la felicidad. Un enemigo lo acusó en el Senado de juntar 300 millones de sestercios en cuatro años al lado de Nerón.",
+   "explicacion": "Tácito cuenta, en los *Anales*, que en el año 58 Publio Suilio preguntó con qué filosofía había reunido Séneca esa fortuna. Lo acusó de cazar herencias y de prestar con usura. Es la palabra de un rival, no una contabilidad, pero nadie dudaba de que Séneca era riquísimo.\n\nDión Casio va más lejos: dice que Séneca prestó 40 millones de sestercios a los britanos y luego los reclamó de golpe, una de las causas de la revuelta de Boudica. Séneca respondió que el sabio puede tener riqueza siempre que no lo tenga ella a él. La contradicción sigue siendo la mejor pregunta para cualquier estoico moderno.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_01.jpg?width=900",
+    "alt": "Busto doble de mármol con dos rostros unidos por la nuca",
+    "pie": "Herma doble de Sócrates y Séneca, en la Colección de Antigüedades de Berlín.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Tácito, Anales XIII.42 (trad. Loeb, LacusCurtius)",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/13b*.html"
+   },
+   "wiki": "Séneca",
+   "claves": [
+    {
+     "nombre": "Nerón",
+     "quien": "El emperador al que Séneca educó y aconsejó, y que luego le ordenó suicidarse.",
+     "wiki": "Nerón"
+    },
+    {
+     "nombre": "Tácito",
+     "quien": "Historiador romano que registró la acusación de Suilio.",
+     "wiki": "Tácito"
+    },
+    {
+     "nombre": "Revuelta de Boudica",
+     "quien": "Rebelión britana del año 60 o 61 que Dión liga, en parte, a los préstamos de Séneca.",
+     "wiki": "Revuelta de Boudica"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿De qué fortuna acusaron a Séneca en el año 58?",
+    "respuesta": "De juntar 300 millones de sestercios en cuatro años de favor imperial, según Tácito."
+   }
+  },
+  {
+   "materia": "Relaciones y vida social",
+   "pilar": "caracter",
+   "epoca": "1950",
+   "titulo": "Tus amigos dependen de dónde está la escalera",
+   "dato": "En unas viviendas del MIT, 41% de los vecinos de puerta contigua se nombraban amigos. A cuatro puertas de distancia, solo 10%.",
+   "explicacion": "Leon Festinger, Stanley Schachter y Kurt Back estudiaron a cerca de 300 residentes de Westgate, un conjunto para estudiantes casados. Los departamentos se asignaban al azar, así que nadie eligió a sus vecinos. Aun así, la distancia predecía la amistad mejor que casi cualquier otra cosa. Lo publicaron en 1950.\n\nLo más fino fue la [[distancia funcional|No cuántos metros te separan de alguien, sino cuántas veces el diseño hace que se crucen.]]: quienes vivían junto a la escalera o compartían un paso se hacían amigos más a menudo. La lección sirve para oficinas y eventos: las relaciones nacen de los encuentros repetidos, y los encuentros se pueden diseñar.",
+   "fuente": {
+    "nombre": "Psychology Today: 5 Important Discoveries About the Laws of Attraction",
+    "url": "https://www.psychologytoday.com/us/blog/the-psychology-of-relationships/202110/5-important-discoveries-about-the-laws-of-attraction"
+   },
+   "wiki": "Atracción interpersonal",
+   "claves": [
+    {
+     "nombre": "Disonancia cognitiva",
+     "quien": "La teoría más famosa de Leon Festinger, coautor del estudio.",
+     "wiki": "Disonancia cognitiva"
+    },
+    {
+     "nombre": "Teoría de la comparación social",
+     "quien": "Otra idea de Festinger: nos medimos comparándonos con quienes tenemos cerca.",
+     "wiki": "Teoría de la comparación social"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué descubrió el estudio de Westgate (1950) sobre la amistad?",
+    "respuesta": "Que la cercanía física y los cruces diarios predicen la amistad: 41% entre vecinos de puerta contigua contra 10% a cuatro puertas."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "epoca": "1908",
+   "titulo": "Los 42.195 km se midieron hasta el palco real",
+   "dato": "El maratón no mide 42.195 km por la leyenda griega. Esa cifra salió del recorrido de Londres 1908, del castillo de Windsor al palco real del estadio.",
+   "explicacion": "En Atenas 1896 el maratón midió unos 40 km, y en los Juegos siguientes la distancia cambió varias veces. En 1908 los organizadores británicos pusieron la salida en Windsor y la meta frente al palco de la familia real. Salieron 26 millas y 385 yardas.\n\nLa cifra no quedó fija de inmediato: la federación internacional de atletismo la adoptó en 1921. Así, cada maratonista del mundo corre hoy los últimos 195 metros por una decisión de protocolo de hace más de un siglo.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dorando_Pietri_1908.jpg?width=900",
+    "alt": "Corredor exhausto asistido por oficiales en un estadio",
+    "pie": "Dorando Pietri llega tambaleándose a la meta del maratón de Londres 1908. Lo descalificaron por recibir ayuda.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Britannica: Why Is a Marathon 26.2 Miles?",
+    "url": "https://www.britannica.com/sports/Why-Is-a-Marathon-26-2-Miles"
+   },
+   "wiki": "Maratón",
+   "claves": [
+    {
+     "nombre": "Juegos Olímpicos de Londres 1908",
+     "quien": "Los Juegos cuyo recorrido fijó la distancia moderna.",
+     "wiki": "Juegos Olímpicos de Londres 1908"
+    },
+    {
+     "nombre": "Maratón en los Juegos Olímpicos",
+     "quien": "La historia de la prueba olímpica y sus distancias.",
+     "wiki": "Maratón en los Juegos Olímpicos"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué el maratón mide 42.195 km?",
+    "respuesta": "Por el recorrido de Londres 1908, de Windsor al palco real del estadio. Se adoptó oficialmente en 1921."
+   }
+  },
+  {
+   "materia": "Literatura y mitología",
+   "pilar": "cultura",
+   "epoca": "1844",
+   "titulo": "Los tres mosqueteros tenían un autor más",
+   "dato": "Alejandro Dumas firmó *Los tres mosqueteros* y *El conde de Montecristo*. Ambos los escribió con Auguste Maquet, un exprofesor de historia cuyo nombre no salía en la portada.",
+   "explicacion": "Maquet investigaba, armaba la trama y redactaba borradores; Dumas daba ritmo, diálogo y vida a los personajes. Juntos hicieron más de una docena de novelas. En 1845, un panfletista publicó *Fabrique de romans: Maison Alexandre Dumas et Compagnie*, «Fábrica de novelas». Dumas lo demandó y ganó.\n\nEn 1858 Maquet demandó para que lo reconocieran como coautor y perdió en apelación en 1859. El caso abrió una pregunta vigente: ¿quién es el autor cuando uno pone el trabajo y otro el estilo y la marca?",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Auguste_Maquet_1847.jpg?width=900",
+    "alt": "Retrato de un hombre del siglo XIX con barba",
+    "pie": "Auguste Maquet hacia 1847, el colaborador detrás de las grandes novelas de Dumas.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "The New York Review of Books: The Pens of the Musketeer (2008)",
+    "url": "https://www.nybooks.com/articles/2008/03/20/the-pens-of-the-musketeer/"
+   },
+   "wiki": "Alejandro Dumas",
+   "claves": [
+    {
+     "nombre": "Los tres mosqueteros",
+     "quien": "La novela de 1844 que salió por entregas en un periódico de París.",
+     "wiki": "Los tres mosqueteros"
+    },
+    {
+     "nombre": "El conde de Montecristo",
+     "quien": "La otra gran novela escrita con Maquet (1844–1846).",
+     "wiki": "El conde de Montecristo"
+    },
+    {
+     "nombre": "Veinte años después",
+     "quien": "La continuación de los mosqueteros, también con Maquet.",
+     "wiki": "Veinte años después"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Quién fue Auguste Maquet?",
+    "respuesta": "El colaborador de Alejandro Dumas en Los tres mosqueteros y El conde de Montecristo; demandó para ser reconocido como coautor y perdió en 1859."
+   }
+  },
+  {
+   "materia": "Historia y geopolítica",
+   "pilar": "mundo",
+   "epoca": "1911",
+   "titulo": "Francia adoptó la hora de Greenwich sin nombrar a Greenwich",
+   "dato": "La ley francesa del 9 de marzo de 1911 dice que la hora legal es «la hora media de París, retrasada nueve minutos veintiún segundos». Es decir, la de Greenwich.",
+   "explicacion": "En 1884, la Conferencia del Meridiano de Washington eligió a Greenwich como meridiano cero. Francia, rival de Inglaterra, siguió usando el de París, que había fijado como hora legal en 1891. Pero los trenes y la radio exigían una hora común.\n\nLa solución fue diplomática: adoptar Greenwich describiéndolo desde París. En la noche del 10 al 11 de marzo de 1911, los relojes se detuvieron a medianoche y volvieron a andar 9 minutos y 21 segundos después. A veces el orgullo nacional cabe en la redacción de una ley.",
+   "fuente": {
+    "nombre": "Hérodote: 9 mars 1911, la France adopte l'heure de Greenwich",
+    "url": "https://www.herodote.net/9_mars_1911-evenement-19110309.php"
+   },
+   "wiki": "Meridiano de París",
+   "claves": [
+    {
+     "nombre": "Hora media de Greenwich",
+     "quien": "La referencia horaria que Francia adoptó sin decirlo.",
+     "wiki": "Hora media de Greenwich"
+    },
+    {
+     "nombre": "Conferencia Internacional del Meridiano",
+     "quien": "La reunión de 1884 en Washington que eligió Greenwich como meridiano cero.",
+     "wiki": "Conferencia Internacional del Meridiano"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo definió Francia su hora legal en 1911?",
+    "respuesta": "Como la hora media de París retrasada 9 minutos y 21 segundos: la de Greenwich, sin nombrarla."
+   }
+  },
+  {
+   "materia": "Negocios y estrategia",
+   "pilar": "patrimonio",
+   "epoca": "1904",
+   "titulo": "El Monopoly nació para criticar a los monopolios",
+   "dato": "En 1904, Elizabeth Magie patentó *The Landlord's Game* para enseñar que los terratenientes empobrecen a los demás. Décadas después, ese juego se volvió el Monopoly.",
+   "explicacion": "Magie seguía las ideas de Henry George, autor de *Progreso y pobreza*, que proponía un impuesto único sobre la tierra. Su juego tenía dos reglas: una premiaba la cooperación y otra el monopolio, para mostrar cuál era peor. La gente prefirió la del monopolio y el juego circuló copiado a mano durante años.\n\nCharles Darrow vendió su versión a Parker Brothers en 1935 y se contó como su inventor. Ese mismo año la empresa compró la patente de Magie por 500 dólares. La lección de negocio: el mercado puede tomar tu producto y quedarse con la parte que tú querías criticar.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Landlords_Game_board_based_on_1924_patent.png?width=900",
+    "alt": "Tablero cuadrado de juego con casillas alrededor",
+    "pie": "Tablero de The Landlord's Game según la patente revisada de 1924.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "History.com: The Woman Who Invented Monopoly",
+    "url": "https://www.history.com/articles/monopoly-game-inventor-elizabeth-magie"
+   },
+   "wiki": "Historia del Monopoly",
+   "claves": [
+    {
+     "nombre": "Elizabeth Magie",
+     "quien": "Diseñadora de juegos y escritora que patentó el antecesor del Monopoly.",
+     "wiki": "Elizabeth Magie"
+    },
+    {
+     "nombre": "Progreso y pobreza",
+     "quien": "El libro de Henry George (1879) que inspiró el juego.",
+     "wiki": "Progreso y Pobreza"
+    },
+    {
+     "nombre": "Monopoly",
+     "quien": "El juego de mesa en que terminó convertido.",
+     "wiki": "Monopoly"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Para qué creó Elizabeth Magie el antecesor del Monopoly?",
+    "respuesta": "Para mostrar los males del monopolio de la tierra, según las ideas de Henry George. Lo patentó en 1904."
+   }
+  },
+  {
+   "materia": "IA y el futuro",
+   "pilar": "futuro",
+   "epoca": "1920",
+   "titulo": "La palabra «robot» la inventó un pintor para una obra de teatro",
+   "dato": "Karel Čapek iba a llamar «labori» a las máquinas de su obra *R.U.R.*. Su hermano Josef, pintor, le sugirió «robot», del checo *robota*: trabajo forzado.",
+   "explicacion": "*R.U.R.*, escrita en 1920, cuenta cómo una fábrica produce obreros artificiales que terminan rebelándose y acabando con la humanidad. Se estrenó en enero de 1921 y en pocos años se representó en medio mundo. La palabra viajó con la obra.\n\nLo curioso es que los robots de Čapek no eran de metal: eran seres biológicos fabricados. La palabra cargaba desde el inicio la pregunta que hoy hacemos a la IA: si creamos algo para obedecer, ¿qué pasa cuando deja de hacerlo?",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Capek_play.jpg?width=900",
+    "alt": "Escena teatral con actores caracterizados como robots",
+    "pie": "Escena de R.U.R., la obra de Karel Čapek que dio al mundo la palabra «robot».",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Ministerio de Asuntos Exteriores de la República Checa: Robot, the most famous Czech word",
+    "url": "https://mzv.gov.cz/ottawa/en/news_and_events/robot_the_most_famous_czech_word.html"
+   },
+   "wiki": "R.U.R. (Robots Universales Rossum)",
+   "claves": [
+    {
+     "nombre": "Karel Čapek",
+     "quien": "Escritor checo, autor de R.U.R.",
+     "wiki": "Karel Čapek"
+    },
+    {
+     "nombre": "Robot",
+     "quien": "La palabra y la idea que nacieron con esa obra.",
+     "wiki": "Robot"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿De dónde viene la palabra «robot»?",
+    "respuesta": "Del checo robota, trabajo forzado. La sugirió Josef Čapek para la obra R.U.R. (1920) de su hermano Karel."
+   }
+  },
+  {
+   "materia": "Oficios del lujo y estilo",
+   "pilar": "gusto",
+   "epoca": "1896",
+   "titulo": "El monograma de Louis Vuitton fue un arma contra las copias",
+   "dato": "Las iniciales LV entrelazadas no nacieron como adorno. Georges Vuitton las creó en 1896 porque cada lienzo anterior de la casa terminaba copiado.",
+   "explicacion": "Primero fue un lienzo gris liso, luego uno de rayas, después el Damier de cuadros (1888), que ya llevaba escrito «marque L. Vuitton déposée», marca registrada. Los imitadores copiaron todo. Tras la muerte de su padre en 1892, Georges diseñó un patrón con las iniciales, flores y estrellas, mucho más difícil de reproducir.\n\nLa ironía: el diseño hecho para frenar las falsificaciones se volvió uno de los más falsificados del mundo. Pero también convirtió el producto en firma: en el lujo, la protección de la marca y el diseño son la misma decisión.",
+   "fuente": {
+    "nombre": "Louis Vuitton: Heritage (historia oficial de la casa)",
+    "url": "https://us.louisvuitton.com/eng-us/magazine/articles/heritage"
+   },
+   "wiki": "Louis Vuitton (diseñador)",
+   "claves": [
+    {
+     "nombre": "Monograma",
+     "quien": "Cifra formada por letras entrelazadas, usada como firma visual.",
+     "wiki": "Monograma"
+    },
+    {
+     "nombre": "LVMH",
+     "quien": "El grupo de lujo al que hoy pertenece Louis Vuitton.",
+     "wiki": "LVMH"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué creó Georges Vuitton el monograma LV en 1896?",
+    "respuesta": "Para combatir las copias: los lienzos anteriores, incluido el Damier de 1888, se imitaban con facilidad."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "El Príncipe",
+  "autor": "Nicolás Maquiavelo",
+  "capitulo": {
+   "numero": 6,
+   "total": 6,
+   "titulo": "La fortuna, el río y la exhortación a Italia"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Raffaello_Sanzio_-_Portrait_of_Julius_II_-_WGA18799.jpg?width=900",
+   "alt": "Retrato de un papa anciano con barba blanca y capa roja",
+   "pie": "Julio II, por Rafael: el papa impetuoso del capítulo XXV.",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "¿Cuánto de lo que te pasa depende de ti? Si respondes «todo», Maquiavelo te diría que eres ingenuo. Si respondes «nada», te diría que eres flojo.\n\nLlegamos al final de *El Príncipe*. Después de hablar de ejércitos, crueldad, reputación y apariencias, Maquiavelo se detiene en la pregunta que lo atraviesa todo: ¿qué tanto puede un hombre contra la suerte? Lo hace en tres capítulos cortos, el XXIV, el XXV y el XXVI. El primero es un diagnóstico, el segundo una teoría y el tercero un grito."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Capítulo XXIV: no le echen la culpa a la fortuna"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Maquiavelo escribe en 1513, en el exilio, mientras Italia se deshace. Desde 1494, franceses y españoles entran y salen de la península como de su casa. Nápoles, Milán y Florencia cambian de dueño una y otra vez.\n\nLos príncipes italianos que perdieron sus Estados tienen una excusa común: la mala suerte. Maquiavelo no la acepta. Dice que fallaron en tres cosas que dependían de ellos: no tuvieron ejército propio, se ganaron el odio del pueblo o no supieron protegerse de los poderosos.\n\nY luego remata con una frase que podría colgarse en cualquier oficina."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Que nuestros príncipes no acusen a la fortuna por la pérdida de sus principados, sino a su propia pereza. En tiempos tranquilos nunca pensaron que podía haber un cambio, pues es defecto común de los hombres no prevenir la tormenta en la bonanza.",
+    "fuente": "El Príncipe, cap. XXIV"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La idea es dura y útil. El momento de preparar la defensa no es cuando llega la crisis, sino cuando todo va bien. Cuando las cosas se tuercen, dice, esos príncipes pensaron en huir y no en defenderse.\n\nMaquiavelo pone ejemplos: el rey de Nápoles y el duque de Milán, que perdieron sus Estados cuando llegaron los ejércitos extranjeros. Tenían años en el poder. Tuvieron tiempo de sobra para armarse, ganarse al pueblo y asegurar a los nobles. No lo hicieron porque nada parecía urgente.\n\nEs el error del que todo le va bien. La bonanza no solo da descanso: también da la falsa impresión de que nada va a cambiar. Por eso, concluye, las únicas defensas buenas, seguras y duraderas son las que dependen de uno mismo y de su propia virtud."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Capítulo XXV: la mitad de nuestras acciones"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Aquí Maquiavelo entra en el terreno filosófico. Muchos en su época creían que el mundo lo gobiernan Dios y la [[fortuna|En el pensamiento renacentista, la suerte o el azar personificado como una diosa caprichosa.]], y que no vale la pena esforzarse. Él mismo confiesa que a veces se ha inclinado a pensarlo, viendo tantos cambios imprevisibles.\n\nPero propone un reparto."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Para no anular nuestro libre albedrío, tengo por cierto que la fortuna es árbitro de la mitad de nuestras acciones, pero que nos deja gobernar la otra mitad, o poco menos.",
+    "fuente": "El Príncipe, cap. XXV"
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Raffaello_Sanzio_-_Portrait_of_Julius_II_-_WGA18799.jpg?width=900",
+    "alt": "Retrato de un papa anciano con barba blanca, sentado y pensativo, con capa roja",
+    "pie": "Julio II retratado por Rafael. Maquiavelo lo usa como ejemplo del hombre impetuoso al que los tiempos le dieron la razón.",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Para explicarlo usa la imagen más famosa del libro: un río. Cuando se desborda, arrasa árboles y casas, arrastra la tierra de un lado a otro. Todos huyen y nadie puede detenerlo.\n\nPero eso no quiere decir que no se pueda hacer nada. Cuando el tiempo está en calma, los hombres pueden levantar [[diques|Muros o barreras que contienen el agua de un río o del mar.]] y canales. Así, cuando el río vuelva a crecer, el agua correrá por donde debe, o su fuerza no será tan desenfrenada ni tan dañina."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Así ocurre con la fortuna: muestra su poder donde no hay virtud preparada para resistirla, y dirige su ímpetu hacia donde sabe que no se han levantado diques ni defensas para contenerla.",
+    "fuente": "El Príncipe, cap. XXV"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La palabra clave es [[virtù|En Maquiavelo, no «virtud moral» sino capacidad, energía y talento para actuar con eficacia ante las circunstancias.]]. No significa bondad. Significa la capacidad de prever, preparar y actuar. Italia, dice, es un campo abierto sin diques. Alemania, España y Francia tenían defensas; por eso la invasión allá no habría causado tanto daño."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "En la imagen del río, ¿qué representan los diques?",
+    "opciones": [
+     "La resignación ante lo que no se puede cambiar",
+     "La preparación que se hace en tiempos de calma",
+     "Los aliados extranjeros que protegen al príncipe"
+    ],
+    "correcta": 1,
+    "explicacion": "Los diques se construyen cuando el río está tranquilo. Son la virtù aplicada antes de la crisis: no evitan la crecida, pero controlan su daño."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El problema de ser siempre igual"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Luego Maquiavelo plantea un misterio. Dos hombres actúan igual y uno triunfa y el otro fracasa. Dos hombres actúan distinto, uno con prudencia y otro con ímpetu, y ambos triunfan. ¿Cómo se explica?\n\nSu respuesta: tiene éxito quien ajusta su manera de actuar a la naturaleza de los tiempos. Hay épocas que premian la paciencia y épocas que premian la audacia. El problema es que las personas no cambian fácilmente. Quien siempre ha triunfado siendo cauto no se atreve a ser impetuoso cuando hace falta.\n\nSu ejemplo es el papa Julio II, que hacía todo con ímpetu. Se lanzó sobre Bolonia sin esperar a tener todo amarrado, y le salió bien. Si hubiera esperado, como habría hecho cualquier otro pontífice prudente, nunca lo habría logrado. Pero Maquiavelo añade, con frialdad: murió pronto. Si hubieran llegado tiempos que pedían cautela, su carácter lo habría arruinado.\n\nLlévalo a una empresa. Un director cauto brilla en años de calma y se paraliza en una crisis. Un fundador audaz brilla en el arranque y destruye valor cuando el negocio ya necesita orden. Maquiavelo no dice cuál estilo es mejor. Dice que el estilo fijo es el riesgo, porque los tiempos sí cambian y el carácter casi nunca. Por eso conviene rodearse de gente distinta a uno: es el mejor remedio contra la rigidez propia."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "La frase que hoy no se escribiría",
+    "texto": "El capítulo cierra con una comparación de su época: la fortuna sería una mujer que se deja dominar por los audaces más que por los fríos. Es una imagen ofensiva con ojos de hoy. Lo que conserva valor es la idea de fondo: en momentos de cambio, el exceso de cautela también es un riesgo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Capítulo XXVI: la exhortación"
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rapha%C3%ABl-Laurent_II_de_M%C3%A9dicis.JPG?width=900",
+    "alt": "Retrato renacentista de un joven noble con barba y ropa oscura",
+    "pie": "Lorenzo de Médici, duque de Urbino, retratado por Rafael. A él dedicó Maquiavelo El Príncipe.",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El último capítulo cambia de tono. Deja de ser un análisis y se vuelve un llamado apasionado a Lorenzo de Médici, a quien dedicó el libro. Maquiavelo le dice que el momento es perfecto: Italia está tan humillada, tan «sin cabeza, sin orden, golpeada, despojada», que espera a alguien que la redima.\n\nLe pide algo concreto: crear un ejército propio, de italianos, porque los mercenarios ya demostraron que no sirven. Le recuerda que los italianos, en duelos y combates de pocos, son superiores en fuerza, destreza e ingenio; lo que falla son los ejércitos, porque los capitanes no tienen autoridad. Y cierra con unos versos de Petrarca escritos casi dos siglos antes."
+   },
+   {
+    "tipo": "cita",
+    "texto": "La virtud contra el furor tomará las armas, y el combate será breve: que el antiguo valor en los corazones italianos aún no ha muerto.",
+    "fuente": "Petrarca, citado al final de El Príncipe, cap. XXVI"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es un final extraño para un libro tan frío. El analista que desconfía de todos termina con poesía y esperanza.\n\nLorenzo, hasta donde sabemos, no le hizo caso. Italia no se unificó como reino hasta 1861. El libro, en cambio, se publicó en 1532, cinco años después de la muerte de su autor, y no ha dejado de leerse."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Qué le pide Maquiavelo a Lorenzo de Médici en el capítulo XXVI?",
+    "opciones": [
+     "Que firme la paz con Francia y España",
+     "Que se retire y deje gobernar a la Iglesia",
+     "Que forme un ejército propio para liberar a Italia"
+    ],
+    "correcta": 2,
+    "explicacion": "Insiste en lo que repite todo el libro: sin armas propias no hay Estado seguro. Los mercenarios y auxiliares ya habían fallado."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Lo que deja El Príncipe"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Leído completo, *El Príncipe* no es un manual de maldad. Es un libro sobre cómo actuar cuando el mundo no se porta como debería. Sus seis lecciones caben en pocas frases: depende de tus propias fuerzas; sé amado si puedes, temido si hace falta, odiado nunca; cuida lo que la gente ve; prepárate en la calma; cambia cuando cambien los tiempos.\n\nLa del río es quizá la más vigente. No controlas la crecida: una devaluación, una crisis de agua, un competidor nuevo. Controlas los diques que levantaste antes. La pregunta de Maquiavelo para hoy es simple: si mañana se desborda el río, ¿por dónde va a correr el agua?"
+   }
+  ],
+  "paraLlevar": [
+   "La fortuna decide la mitad; la otra mitad es tuya, y se juega antes de la tormenta.",
+   "Los diques se construyen cuando el río está en calma.",
+   "Tiene éxito quien ajusta su manera de actuar a los tiempos, no quien siempre actúa igual."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Qué proporción de nuestras acciones gobierna la fortuna, según Maquiavelo?",
+    "respuesta": "La mitad, o algo menos. La otra mitad depende de nosotros."
+   },
+   {
+    "pregunta": "¿Qué enseña el ejemplo de Julio II?",
+    "respuesta": "Que triunfó porque su ímpetu coincidió con los tiempos; con tiempos que pedían cautela, su carácter lo habría arruinado."
+   }
+  ],
+  "proximo": "Don Quijote de la Mancha · Capítulo 1: un hidalgo que enloquece leyendo",
+  "fuentes": [
+   {
+    "nombre": "Proyecto Gutenberg: The Prince, de Nicolás Maquiavelo (trad. W. K. Marriott, dominio público)",
+    "url": "https://www.gutenberg.org/ebooks/1232"
+   },
+   {
+    "nombre": "Wikipedia: El príncipe",
+    "url": "https://es.wikipedia.org/wiki/El_pr%C3%ADncipe"
+   },
+   {
+    "nombre": "Wikipedia: Julio II",
+    "url": "https://es.wikipedia.org/wiki/Julio_II"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir de la traducción inglesa de W. K. Marriott (dominio público), en el Proyecto Gutenberg."
+ },
+ "palabra": {
+  "palabra": "Diáfano",
+  "categoria": "Adjetivo",
+  "pronunciacion": "di-Á-fa-no",
+  "definicion": "Que deja pasar la luz; claro, limpio, sin obstáculos. En sentido figurado: fácil de entender, sin ambigüedad.",
+  "origen": "Del griego *diaphanḗs*, «transparente», de *diaphaínein*, «dejar ver a través».",
+  "ejemplo": "Haussmann cambió callejuelas oscuras por bulevares diáfanos; Ferry le pidió unas cuentas igual de diáfanas.",
+  "repaso": {
+   "pregunta": "¿Qué significa «diáfano» en sentido figurado?",
+   "respuesta": "Claro, fácil de entender, sin ambigüedad. Literalmente: que deja pasar la luz."
+  }
+ },
+ "frances": {
+  "frase": "On ne fait pas d'omelette sans casser des œufs.",
+  "traduccion": "«No se hace una omelette sin romper huevos».",
+  "pronunciacion": "on ne fé pa dom-LET san ka-SÉ dé ZÖ",
+  "uso": "Cultura y negocios. Se dice cuando un cambio grande exige sacrificios o pérdidas inevitables. Es justo lo que pensaban los defensores de Haussmann. Úsalo con cuidado: también suena a justificar daños. «Restructurer l'équipe ? On ne fait pas d'omelette sans casser des œufs.»",
+  "variante": "Más formal: « Qui veut la fin veut les moyens. » («Quien quiere el fin, quiere los medios»).",
+  "repaso": {
+   "pregunta": "¿Cómo se dice en francés que todo cambio grande exige sacrificios?",
+   "respuesta": "« On ne fait pas d'omelette sans casser des œufs. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Qué provocó la caída de Haussmann en 1870?",
+   "opciones": [
+    "Una revuelta popular contra las demoliciones",
+    "Una epidemia de cólera",
+    "La deuda escondida en bonos que Jules Ferry exhibió"
+   ],
+   "correcta": 2,
+   "explicacion": "Pagaba a contratistas con bons de délégation, deuda fuera del presupuesto. Ferry lo exhibió en 1868 con «Les Comptes fantastiques d'Haussmann» y Napoleón III lo destituyó el 5 de enero de 1870."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Cómo votó la Junta de Banxico el recorte de la tasa a 6.25%?",
+   "opciones": [
+    "Por unanimidad, 5 a 0",
+    "Dividida, 3 a 2",
+    "4 a 1, con un voto por subirla"
+   ],
+   "correcta": 1,
+   "explicacion": "Galia Borja y Jonathan Heath votaron por dejarla en 6.50%. La mayoría lo llamó un «ajuste fino», no el inicio de más recortes."
+  },
+  {
+   "origen": "hechos",
+   "pregunta": "¿De dónde salen los 42.195 km del maratón?",
+   "opciones": [
+    "Del recorrido de Londres 1908, de Windsor al palco real",
+    "De la distancia exacta entre Maratón y Atenas",
+    "De un promedio de los primeros maratones olímpicos"
+   ],
+   "correcta": 0,
+   "explicacion": "Los organizadores británicos pusieron la meta frente al palco real. La distancia se adoptó oficialmente en 1921."
+  }
+ ],
+ "libro": null,
+ "proximo": "1858: Worth firma sus vestidos e inventa la alta costura"
+}

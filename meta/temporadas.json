@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19",
+ "actualizado": "2026-11-20",
  "lista": [
   {
    "episodios": [
@@ -152,8 +152,8 @@
      "titulo": "2022: el James Webb y la luz más antigua"
     },
     {
-     "titulo": "Síntesis: cómo sabemos lo que sabemos del cielo",
-     "fecha": "2026-11-19"
+     "fecha": "2026-11-19",
+     "titulo": "Síntesis: cómo sabemos lo que sabemos del cielo"
     }
    ],
    "estado": "terminada",
@@ -165,7 +165,8 @@
   {
    "episodios": [
     {
-     "titulo": "1853: Haussmann abre París a cuchillo"
+     "titulo": "1853: Haussmann abre París a cuchillo",
+     "fecha": "2026-11-20"
     },
     {
      "titulo": "1858: Worth firma sus vestidos e inventa la alta costura"
