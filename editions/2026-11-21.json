@@ -1,0 +1,903 @@
+{
+  "schemaVersion": 6,
+  "id": "auxo-2026-11-21",
+  "numero": 31,
+  "fecha": "2026-11-21",
+  "disponibleDesde": "2026-11-21T08:00:00-06:00",
+  "titulo": "1858: Worth firma sus vestidos e inventa la alta costura",
+  "temporada": {
+    "id": "t06",
+    "numero": 6,
+    "titulo": "París: cómo se hizo la capital del gusto",
+    "episodio": 2,
+    "totalEpisodios": 6
+  },
+  "portada": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Winterhalter_Franz_Xavier_The_Empress_Eugenie_Surrounded_by_her_Ladies_in_Waiting.jpg?width=900",
+    "alt": "Pintura de una emperatriz rodeada de damas con amplios vestidos claros en un jardín",
+    "pie": "La emperatriz Eugenia y sus damas, por Winterhalter (1855). Pocos años después, la corte vestiría de Worth.",
+    "credito": "Wikimedia Commons"
+  },
+  "calentamiento": [
+    {
+      "origen": "Edición #30",
+      "pregunta": "¿Qué tumbó a Haussmann en 1870?",
+      "respuesta": "Sus cuentas: pagaba las obras con bonos que eran deuda escondida. Jules Ferry lo exhibió y Napoleón III lo destituyó."
+    },
+    {
+      "origen": "Edición #26",
+      "pregunta": "¿Qué confirmó el eclipse de 1919?",
+      "respuesta": "Que la gravedad del Sol desvía la luz de las estrellas, como había predicho Einstein."
+    },
+    {
+      "origen": "Edición #21",
+      "pregunta": "¿Qué protege una denominación de origen como la del tequila?",
+      "respuesta": "Que solo pueda llamarse así lo hecho en un territorio definido y con reglas propias."
+    }
+  ],
+  "noticias": [
+    {
+      "id": "n1",
+      "ambito": "mexico",
+      "ambitoTexto": "México",
+      "fecha": "2026-11-20",
+      "historiaEnCurso": {
+        "id": "tasas-banxico",
+        "titulo": "Tasas de Banxico y el peso",
+        "capitulo": 7,
+        "dondeIbamos": "El jueves 19 el dólar cerró en 19.1182, su primer cierre arriba de 19 desde junio de 2025, el mismo día de las minutas de Banxico."
+      },
+      "titular": "El peso cierra su peor semana en más de un año: el dólar termina en 19.16",
+      "quePaso": "El viernes 20 el dólar cerró en **19.1631 pesos**, según Banxico. El peso perdió 4.49 centavos (0.24%) frente al jueves.\n\nEn la semana perdió **62.95 centavos, 3.40%**. El viernes anterior el dólar estaba en 18.5336. En lo que va del año el peso acumula una caída de 6.41%.",
+      "aMiQue": "Todo lo que compras en dólares cuesta hoy unos 3.4% más que hace una semana: latas, envases, saborizantes, materias primas de suplementos. En ventanilla de Banamex el dólar ya se vendía en 19.62. Si cierras precios de 2027 estos días, hazlo con un tipo de cambio realista, no con el de octubre.",
+      "contexto": "**Hecho:** en el día, el dólar llegó a 19.1905, el nivel más débil del peso desde junio de 2025. No fue solo México: el índice de monedas latinoamericanas de Morgan Stanley cayó todos los días de la semana. Los pesos chileno y argentino tocaron mínimos históricos.\n\n**Hecho:** la diferencia de tasas entre México y Estados Unidos se ha achicado, y el mercado espera más alzas de la Fed. Eso le quita atractivo al [[carry trade|Estrategia de pedir prestado en una moneda de tasa baja para invertir en otra de tasa alta, como el peso.]].\n\n**Dato en disputa:** El Financiero la llama la peor caída semanal «desde marzo»; El Economista y Zócalo, «la peor semana desde julio de 2024». También difieren al leer las minutas: una fuente dice que la Junta coincide en que la depreciación no afectará mucho la inflación; otra, que hay desacuerdo.\n\n**Interpretación:** sin una sorpresa en la inflación, Banxico tiene poco margen para frenar al peso con la tasa.",
+      "queVigilar": "Si el dólar se sostiene arriba de 19 el lunes. La inflación de la primera quincena de noviembre, que el INEGI publica la próxima semana. Las señales de la Fed para su reunión de diciembre.",
+      "fuentes": [
+        {
+          "nombre": "El Financiero: Dólar «deja en la lona» al peso: pierde 63 centavos en una semana (20 nov 2026)",
+          "url": "https://www.elfinanciero.com.mx/mercados/2026/11/20/peso-dolar-tipo-de-cambio-precio-hoy-20-de-noviembre-de-2026/"
+        },
+        {
+          "nombre": "Zócalo: Peso mexicano cierra su peor semana desde julio de 2024 (20 nov 2026)",
+          "url": "https://www.zocalo.com.mx/peso-mexicano-se-deprecia-frente-al-dolar-y-cierra-su-peor-semana-desde-julio-de-2024/"
+        }
+      ]
+    },
+    {
+      "id": "n2",
+      "ambito": "mundo",
+      "ambitoTexto": "Mundo",
+      "fecha": "2026-11-20",
+      "historiaEnCurso": {
+        "id": "golfo-petroleo",
+        "titulo": "Tensión en el Golfo y precio del petróleo",
+        "capitulo": 28,
+        "dondeIbamos": "El 19 de noviembre el New York Times reportó que Trump evalúa ataques de 4 a 7 días contra Irán; el Brent cerró en 91.98 dólares."
+      },
+      "titular": "Minas en Ormuz y misiles sobre Riad, pero el petróleo baja por tercera semana",
+      "quePaso": "La Marina de la Guardia Revolucionaria de Irán dijo que dos petroleros chocaron con minas en el [[estrecho de Ormuz|Paso marítimo entre Irán y Omán por donde sale buena parte del petróleo del Golfo Pérsico.]] y «están ardiendo». Reuters no pudo verificarlo. Misiles de los hutíes dañaron varios pisos de la torre del fondo soberano saudí en Riad; no hubo heridos.\n\nAun así, el Brent de enero cerró el viernes en **cerca de 92.57 dólares** (+0.64% en el día) y acumuló **-3.41% en la semana**. El WTI de diciembre cerró en 83.98, con -5.17% semanal.",
+      "aMiQue": "Gasolina, diésel, fletes y envases plásticos siguen la dirección del crudo, con retraso. Un petróleo que baja ayuda a tus costos logísticos; un peso que se debilita los encarece. Esta semana el peso le ganó al petróleo: tus insumos importados subieron más de lo que ahorraste en flete.",
+      "contexto": "**Hecho:** Trump dijo que Estados Unidos «verá qué pasa» con Irán después del 1 de enero, sin explicar la fecha. También dijo que él y Xi Jinping coinciden en que el petróleo debe seguir saliendo por Ormuz. Los republicanos del Senado rechazaron un proyecto que lo obligaba a terminar la guerra o pedir permiso al Congreso.\n\n**Hecho:** el banco UOB calcula que en noviembre hay, en promedio, un ataque iraní a un petrolero por día. Aun así, el flujo de crudo por Ormuz volvió a niveles cercanos a los de antes de la guerra.\n\n**Dato en disputa:** el cierre del viernes viene de una sola fuente (FinanceFeeds, con datos de EnergyNow). Otra publicó 90.33 dólares, que coincide con el mínimo del día, no con el cierre.\n\n**Interpretación:** por ahora pesa más el exceso de oferta que el riesgo de guerra. Los incidentes diarios mantienen una prima de riesgo en el precio.",
+      "queVigilar": "Cualquier decisión de Washington sobre nuevos ataques. La reunión de la OPEP+ del 29 de noviembre, que fijará cuotas de producción para 2027.",
+      "fuentes": [
+        {
+          "nombre": "AsiaOne (Reuters): Oil settles flat as Hormuz disruptions offset global surplus fears",
+          "url": "https://www.asiaone.com/money/oil-settles-flat-hormuz-disruptions-offset-global-surplus-fears"
+        },
+        {
+          "nombre": "MarineLink: Oil Prices Drop for Third Week Straight",
+          "url": "https://www.marinelink.com/news/oil-prices-drop-third-week-straight-544510"
+        },
+        {
+          "nombre": "FinanceFeeds: Brent Crude Price $92.57, 8 days to OPEC+ 2027 quota call",
+          "url": "https://financefeeds.com/brent-crude-oil-price-92-57-saturday-week-ahead-opec-plus-29-november-bull-96-bear-89/"
+        }
+      ]
+    }
+  ],
+  "historia": {
+    "tarjetas": [
+      {
+        "tipo": "adivina",
+        "gancho": "Un inglés que no hablaba francés llegó a París con cinco libras y acabó vistiendo a la emperatriz.",
+        "contexto": "París, 1845. Un muchacho de 20 años baja del tren sin hablar francés. Trae unas cinco libras en el bolsillo. Se llama Charles Frederick Worth y nació en Bourne, un pueblo de Inglaterra.\n\nEn esa época, una dama no compraba un vestido: lo encargaba. Elegía la tela en una tienda y llevaba su idea a una [[costurera|En el París del siglo XIX, modista que confeccionaba el vestido según las instrucciones de la clienta.]]. La clienta mandaba. La costurera obedecía y nadie recordaba su nombre.\n\nTrece años después, Worth abre su propia casa en el número 7 de la rue de la Paix. Y hace algo que nadie había hecho.",
+        "pregunta": "¿Qué hizo Worth que cambió para siempre la moda?",
+        "opciones": [
+          "Vender vestidos ya hechos en tallas estándar",
+          "Diseñar él las colecciones y coser su nombre en cada vestido",
+          "Bajar los precios para vestir a la clase media"
+        ],
+        "imagen": {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Charles_Frederick_Worth.jpg?width=900",
+          "alt": "Retrato de un hombre de mediana edad con boina y bigote",
+          "pie": "Charles Frederick Worth, el inglés que inventó la figura del modisto como autor.",
+          "credito": "Wikimedia Commons"
+        }
+      },
+      {
+        "tipo": "historia",
+        "titulo": "Del mostrador de sedas a la rue de la Paix",
+        "texto": "Worth empezó en Gagelin-Opigez, una casa que vendía sedas, chales de cachemira y abrigos. Entró como dependiente. Pronto fue el mejor vendedor de la tienda.\n\nAhí conoció a Marie Vernet, una vendedora que modelaba los chales para las clientas. Se casaron en 1851. Worth empezó a hacerle vestidos sencillos y elegantes. Las clientas no preguntaban por el chal: preguntaban por el vestido.\n\nGagelin le dejó abrir un departamento de costura. Sus diseños se premiaron en la Gran Exposición de Londres de 1851 y en la [[Exposición Universal de París|Feria mundial de 1855 con la que Napoleón III quiso mostrar el poder industrial de Francia.]] de 1855. Pero cuando pidió ser socio, se lo negaron.\n\nEn 1858 se asoció con un sueco, Otto Gustaf Bobergh, y abrió Worth et Bobergh en el número 7 de la rue de la Paix. La federación francesa de alta costura la considera hoy la primera casa de costura verdadera.\n\nLe faltaba una clienta que abriera la puerta del palacio. En 1860 la princesa [[Pauline von Metternich|Esposa del embajador de Austria en París, famosa por su ingenio y su influencia en la corte del Segundo Imperio.]] llevó a un baile un vestido suyo. La emperatriz Eugenia lo vio y pidió conocer al diseñador. Desde entonces, Worth vistió a la corte."
+      },
+      {
+        "tipo": "giro",
+        "titulo": "El vestido cambia de dueño",
+        "texto": "La respuesta es la segunda: Worth **diseñaba él** y **firmaba**. Fue el primero en coser una etiqueta con su nombre dentro de la ropa. Hasta entonces, el vestido era idea de la clienta. Con Worth, el vestido era una obra del modisto.\n\nCambió también la forma de vender. Preparaba colecciones por temporada y las mostraba sobre mujeres reales; Marie Vernet es considerada la primera modelo de la historia. La clienta ya no dictaba: elegía un modelo y Worth lo hacía a su medida.\n\nEl resultado fue un negocio enorme. La casa pasó de unos 50 empleados a más de 1,200. Se cuenta que Eugenia quiso 250 vestidos suyos para la inauguración del canal de Suez, en 1869.\n\nEn 1868, por iniciativa de Worth, nació la cámara sindical que agrupaba a la costura de París. En 1945 Francia protegió por ley el nombre **alta costura**. Hoy solo puede usarlo una casa que cumpla reglas estrictas y que una comisión aprueba cada año: hecho a medida, en taller propio, con dos colecciones al año en París.",
+        "imagen": {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marie_Vernet_Worth.jpg?width=900",
+          "alt": "Retrato de una mujer joven del siglo XIX con vestido oscuro",
+          "pie": "Marie Vernet, esposa de Worth, considerada la primera modelo de moda.",
+          "credito": "Wikimedia Commons"
+        }
+      },
+      {
+        "tipo": "herramienta",
+        "nombre": "De proveedor a autor",
+        "texto": "Worth no cosía mejor que todas las costureras de París. Cambió de lugar en la relación. Su método se puede copiar en cualquier oficio:\n\n**1. Propón, no esperes el pedido.** El proveedor pregunta «¿qué quiere?». El autor llega con una colección: «esto es lo que creo que le queda».\n\n**2. Firma.** Poner tu nombre te obliga a responder por la calidad. Y le da al cliente algo que presumir.\n\n**3. Deja que elijan, dentro de tu menú.** El cliente sigue decidiendo, pero entre opciones que tú diseñaste. Así conserva el control y tú conservas el estilo.\n\n**4. Muéstralo puesto.** Worth no enseñaba telas: enseñaba el vestido sobre una persona. La gente compra lo que puede imaginar en su vida.",
+        "imagen": {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1890s_dinner_dress_-_House_of_Worth.jpg?width=900",
+          "alt": "Vestido de noche de seda con mangas abullonadas en un maniquí de museo",
+          "pie": "Vestido de cena de la Casa Worth, década de 1890.",
+          "credito": "Wikimedia Commons"
+        }
+      },
+      {
+        "tipo": "dondeMas",
+        "titulo": "La etiqueta como promesa",
+        "texto": "**Tequila y alta costura.** Las dos son nombres protegidos. Como «tequila» solo lo puede usar quien cumple la [[denominación de origen|Protección legal que reserva un nombre a productos de un territorio que siguen reglas definidas.]], «haute couture» solo lo puede usar la casa que cumple las reglas francesas. La comparación es de AUXO, pero la lógica es la misma: el nombre vale porque no cualquiera puede ponérselo.\n\n**Un hilo con México.** La corte que vestía Worth era la del [[Segundo Imperio francés|Régimen de Napoleón III (1852–1870), que impulsó la intervención francesa en México y el imperio de Maximiliano.]]. Los mismos años en que Eugenia estrenaba vestidos de la rue de la Paix, Francia sostenía a Maximiliano en México.\n\n**En tu marca.** Una etiqueta no es un trámite: es tu firma. Si la pones, alguien te va a pedir cuentas por lo que hay dentro."
+      },
+      {
+        "tipo": "llevaloATuVida",
+        "pregunta": "¿En qué parte de tu trabajo sigues esperando el pedido del cliente, cuando podrías llegar con tu propia colección?",
+        "texto": "No hace falta dejar de escuchar. Worth escuchaba a Eugenia todos los días. Pero llegaba con una propuesta, y la firmaba."
+      },
+      {
+        "tipo": "paraRecordar",
+        "frase": "El que ejecuta lo que otros piden es proveedor. El que propone y firma es autor."
+      }
+    ],
+    "paraProfundizar": {
+      "titulo": "The Met: Charles Frederick Worth (1825–1895) and the House of Worth (ensayo, en inglés)",
+      "url": "https://www.metmuseum.org/en/essays/charles-frederick-worth-1825-1895-and-the-house-of-worth",
+      "minutos": 8
+    },
+    "repaso": [
+      {
+        "pregunta": "¿Qué casa abrió Worth en 1858 y dónde?",
+        "respuesta": "Worth et Bobergh, con el sueco Otto Gustaf Bobergh, en el número 7 de la rue de la Paix, en París."
+      },
+      {
+        "pregunta": "¿Qué dos novedades le debe la moda a Worth?",
+        "respuesta": "Coser su nombre en la ropa, como una firma, y presentar colecciones por temporada sobre modelos vivos."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "The Met: Charles Frederick Worth (1825–1895) and the House of Worth",
+        "url": "https://www.metmuseum.org/en/essays/charles-frederick-worth-1825-1895-and-the-house-of-worth"
+      },
+      {
+        "nombre": "Wikipedia (en): Charles Frederick Worth",
+        "url": "https://en.wikipedia.org/wiki/Charles_Frederick_Worth"
+      },
+      {
+        "nombre": "Wikipedia (en): Marie Vernet",
+        "url": "https://en.wikipedia.org/wiki/Marie_Vernet"
+      },
+      {
+        "nombre": "Fédération de la Haute Couture et de la Mode: historia",
+        "url": "https://www.fhcm.paris/en/node/1936"
+      },
+      {
+        "nombre": "Library of Congress (blog jurídico): What haute couture really means in French law (2025)",
+        "url": "https://blogs.loc.gov/law/2025/07/what-haute-couture-really-means-in-french-law/"
+      }
+    ]
+  },
+  "materias": [
+    {
+      "materia": "Liderazgo e influencia",
+      "pilar": "caracter",
+      "formato": "queHarias",
+      "titulo": "Shackleton y el James Caird: ¿a quién subes al bote?",
+      "contexto": "Isla Elefante, abril de 1916. Tu barco, el *Endurance*, se hundió en el hielo hace cinco meses. Tienes 27 hombres a tu cargo, todos vivos. Nadie sabe que están ahí.\n\nLa única salida es cruzar unos 1,300 kilómetros del océano más bravo del mundo en un bote salvavidas de siete metros. Caben seis. Los demás esperarán en la isla.\n\nUno de tus hombres, el carpintero Harry McNish, se negó meses atrás a obedecer una orden en el hielo. Es gruñón y contagia el desánimo. También es el que reforzó el bote.",
+      "pregunta": "¿Qué haces con McNish?",
+      "opciones": [
+        "Lo dejas en la isla: en el bote necesitas gente leal",
+        "Te lo llevas contigo en el bote",
+        "Lo dejas, pero a cargo de tu mejor oficial para que lo vigile"
+      ],
+      "revelacion": "Shackleton **se lo llevó**. El 24 de abril de 1916 zarparon seis: Shackleton, Frank Worsley, Tom Crean, Timothy McCarthy, John Vincent y McNish. Vincent también tenía fama de conflictivo. Varios historiadores creen que Shackleton prefirió tener a los posibles alborotadores bajo su mando directo, para que no envenenaran la moral de los 22 que se quedaban. Las fuentes lo presentan como hipótesis, no como un hecho escrito por él.\n\nTambién había una razón práctica: McNish había levantado los costados del bote y reforzado su quilla. Llegaron a Georgia del Sur el 10 de mayo. Shackleton, Worsley y Crean cruzaron la isla a pie 36 horas seguidas hasta la estación ballenera de Stromness.\n\nEl 30 de agosto de 1916, al cuarto intento, el remolcador chileno *Yelcho*, del piloto Luis Pardo, rescató a los de la isla. De los 28 hombres, no murió ninguno.",
+      "idea": "A veces el lugar más seguro para un problema es a tu lado, donde puedes verlo.",
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elephant_island_party.jpg?width=900",
+        "alt": "Grupo de hombres harapientos en una playa rocosa y helada, saludando",
+        "pie": "Los hombres que se quedaron en isla Elefante, fotografiados por Frank Hurley en 1916.",
+        "credito": "Wikimedia Commons"
+      },
+      "fuente": {
+        "nombre": "Linda Hall Library: Harry McNish",
+        "url": "https://www.lindahall.org/about/news/scientist-of-the-day/harry-mcnish/"
+      },
+      "wiki": "Viaje del James Caird",
+      "claves": [
+        {
+          "nombre": "Ernest Shackleton",
+          "quien": "Explorador angloirlandés que dirigió la expedición y no perdió a ninguno de sus hombres.",
+          "wiki": "Ernest Shackleton"
+        },
+        {
+          "nombre": "Endurance",
+          "quien": "El barco de la expedición, atrapado y aplastado por el hielo del mar de Weddell en 1915.",
+          "wiki": "Endurance (barco)"
+        },
+        {
+          "nombre": "Expedición Imperial Transantártica",
+          "quien": "El plan original: cruzar la Antártida a pie. Fracasó, y su fracaso se volvió leyenda.",
+          "wiki": "Expedición Imperial Transantártica"
+        }
+      ],
+      "repaso": {
+        "pregunta": "¿Por qué se cree que Shackleton llevó a McNish en el James Caird?",
+        "respuesta": "Para tener cerca a un posible alborotador y que no minara la moral de los que se quedaban. Además, era el carpintero que reforzó el bote."
+      }
+    },
+    {
+      "materia": "Arquitectura y diseño",
+      "pilar": "cultura",
+      "formato": "comoFunciona",
+      "titulo": "El Panteón: 1,900 años con una cúpula de concreto sin varilla",
+      "contexto": "Entras al Panteón de Roma y miras arriba. Una cúpula de unos 43.3 metros de diámetro, con un agujero abierto al cielo en el centro. Por ahí entra la luz, y también la lluvia.\n\nSe levantó hacia los años 113 a 125, bajo el emperador Adriano. No tiene ni una barra de acero. Y sigue siendo la cúpula de concreto sin refuerzo más grande del mundo.",
+      "pregunta": "¿Qué hicieron los romanos para que no se viniera abajo?",
+      "opciones": [
+        "Usaron materiales más ligeros, como la piedra pómez, cuanto más arriba",
+        "Escondieron barras de hierro dentro del concreto",
+        "La apoyaron en columnas ocultas detrás de los muros"
+      ],
+      "correcta": 0,
+      "revelacion": "La cúpula es **más delgada y más ligera conforme sube**. Abajo mide unos 6.4 metros de grueso; junto al óculo, cerca de 1.2. Y la mezcla cambia: abajo lleva travertino, una piedra pesada; en medio, ladrillo; arriba, toba y piedra pómez, que casi flota.\n\nLos [[casetones|Huecos cuadrados tallados en el interior de una cúpula o techo; quitan peso sin quitar resistencia.]] hacen lo mismo: son cinco anillos de 28 huecos que le quitan peso. Y el óculo, de unos 8 a 9 metros según cómo se mida, elimina justo la parte donde la cúpula sería más débil. La altura hasta el óculo es igual al diámetro: cabría una esfera perfecta.\n\nEl concreto también tenía un secreto. En 2023, un equipo del MIT dirigido por Admir Masic mostró que el concreto romano se mezclaba con cal viva en caliente. Eso deja grumos de cal que, al entrar agua por una grieta, la sellan solos. Lo probaron en muestras de otro sitio romano, no del Panteón.",
+      "idea": "Una estructura dura cuando cada parte pesa solo lo que necesita cargar.",
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pantheon_oculus.jpg?width=900",
+        "alt": "Interior de una cúpula con casetones y un agujero circular abierto al cielo",
+        "pie": "El óculo del Panteón: la única fuente de luz del edificio.",
+        "credito": "Wikimedia Commons"
+      },
+      "fuente": {
+        "nombre": "MIT News: Riddle solved: Why was Roman concrete so durable? (2023)",
+        "url": "https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106"
+      },
+      "wiki": "Panteón de Agripa",
+      "claves": [
+        {
+          "nombre": "Adriano",
+          "quien": "Emperador romano bajo el que se reconstruyó el Panteón; dejó en la fachada el nombre de Agripa.",
+          "wiki": "Adriano"
+        },
+        {
+          "nombre": "Opus caementicium",
+          "quien": "El concreto romano: cal, ceniza volcánica y piedras, la base de cúpulas y acueductos.",
+          "wiki": "Opus caementicium"
+        },
+        {
+          "nombre": "Cúpulas romanas",
+          "quien": "La historia de cómo Roma y Bizancio aprendieron a cubrir grandes espacios.",
+          "wiki": "Historia de las cúpulas romanas y bizantinas"
+        }
+      ],
+      "repaso": {
+        "pregunta": "¿Cómo se aligeró la cúpula del Panteón?",
+        "respuesta": "Haciéndola más delgada arriba, usando materiales ligeros como la piedra pómez en la parte alta, con casetones y con el óculo central."
+      }
+    },
+    {
+      "materia": "Ciudades del mundo",
+      "pilar": "mundo",
+      "formato": "diaQueCambio",
+      "titulo": "27 de mayo de 1703: Pedro el Grande funda una capital en un pantano",
+      "contexto": "El zar Pedro I acaba de quitarle a Suecia la desembocadura del río Nevá. Es un pantano frío, que se inunda y que nadie quiere. Para Pedro es otra cosa: la salida de Rusia al mar Báltico y una ventana hacia Europa.\n\nEl 27 de mayo de 1703 empieza a construir una fortaleza en una isla del delta. Ahí nace San Petersburgo.",
+      "pregunta": "¿Qué ordenó Pedro en 1714 para que la ciudad creciera rápido?",
+      "opciones": [
+        "Prohibir construir en piedra en el resto de Rusia",
+        "Regalar tierras a todo noble que se mudara",
+        "Trasladar el Kremlin de Moscú piedra por piedra"
+      ],
+      "correcta": 0,
+      "revelacion": "En 1714 un decreto **prohibió levantar edificios de piedra en todo el Estado**, salvo en San Petersburgo. Así, todos los canteros de Rusia tuvieron que ir ahí. La pena era perder las tierras y el exilio. Además, cada carreta y cada barco que entraba a la ciudad debía traer piedras. La prohibición duró hasta 1741.\n\nLa mano de obra fue forzada. Desde 1706 se reclutaban unos 30,000 campesinos al año, y 40,000 desde 1707; llegaba a lo sumo la mitad. Cuántos murieron está en disputa: los viajeros de la época hablaron de 30,000 y hasta de 300,000. Una historiadora rusa, E. A. Andreeva, calcula entre 13,500 y 18,000 en la primera década.\n\nEn 1712 la ciudad ya era la capital del Imperio ruso. Lo fue, con una breve pausa, hasta el 12 de marzo de 1918, cuando Lenin regresó el gobierno a Moscú.",
+      "idea": "Una ciudad se puede fundar por decreto, pero alguien siempre paga la prisa.",
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/00_4645_Sankt_Petersburg_-_Haseninsel.jpg?width=900",
+        "alt": "Vista aérea de una fortaleza en forma de estrella en una isla, con una aguja dorada",
+        "pie": "La isla de las Liebres y la fortaleza de San Pedro y San Pablo, donde empezó San Petersburgo.",
+        "credito": "Wikimedia Commons"
+      },
+      "fuente": {
+        "nombre": "Russia Beyond: Why did Peter the Great ban stone houses?",
+        "url": "https://www.rbth.com/history/334647-why-did-peter-ban-stone-houses"
+      },
+      "wiki": "San Petersburgo",
+      "claves": [
+        {
+          "nombre": "Pedro I de Rusia",
+          "quien": "El zar que quiso modernizar Rusia a la fuerza y la convirtió en potencia europea.",
+          "wiki": "Pedro I de Rusia"
+        },
+        {
+          "nombre": "Fortaleza de San Pedro y San Pablo",
+          "quien": "La primera construcción de la ciudad, iniciada el 27 de mayo de 1703.",
+          "wiki": "Fortaleza de San Pedro y San Pablo"
+        },
+        {
+          "nombre": "Río Nevá",
+          "quien": "El río corto y caudaloso que une el lago Ladoga con el Báltico y atraviesa la ciudad.",
+          "wiki": "Río Nevá"
+        }
+      ],
+      "repaso": {
+        "pregunta": "¿Qué prohibió el decreto de 1714 de Pedro el Grande?",
+        "respuesta": "Construir edificios de piedra en el resto de Rusia, para que todos los canteros trabajaran en San Petersburgo."
+      }
+    },
+    {
+      "materia": "Productos digitales escalables",
+      "pilar": "patrimonio",
+      "formato": "queHarias",
+      "titulo": "Dropbox: los anuncios costaban hasta 388 dólares por cliente; regalar espacio, casi nada",
+      "contexto": "Es 2008. Tienes un programa que guarda tus archivos en la nube y los sincroniza en todas tus computadoras. La versión de pago cuesta 99 dólares al año.\n\nPruebas anuncios en Google. Cada cliente que llega por ahí te cuesta entre 233 y 388 dólares. Es decir: pierdes dinero con cada venta.",
+      "pregunta": "¿Qué haces?",
+      "opciones": [
+        "Subes el precio para que los anuncios salgan a cuenta",
+        "Les regalas espacio gratis a tus usuarios por cada amigo que traigan",
+        "Contratas vendedores para empresas"
+      ],
+      "revelacion": "Drew Houston, cofundador de Dropbox, eligió la segunda. Copió una idea de PayPal, que pagaba cinco dólares por registrarse. Dropbox creó un premio **de dos lados**: quien invitaba y quien llegaba recibían 250 MB extra. En 2012 lo subió a 500 MB.\n\nLa clave es el costo. Dar 250 MB de disco a alguien casi no le cuesta nada a la empresa: es la misma infraestructura que ya tiene. Para el usuario, en cambio, el espacio valía mucho. Según las diapositivas que Houston presentó en abril de 2010, el programa aumentó los registros 60% de forma permanente. En los 30 días previos se enviaron 2.8 millones de invitaciones.\n\nDropbox pasó de 100,000 usuarios en septiembre de 2008 a 4 millones en enero de 2010. Ojo: es un caso con condiciones muy especiales. El producto se entendía al usarlo con otros, y el premio era el mismo producto. No todos los negocios crecen así.",
+      "idea": "El mejor premio es el que para ti cuesta casi cero y para tu cliente vale mucho.",
+      "fuente": {
+        "nombre": "Drew Houston: Dropbox, Startup Lessons Learned (diapositivas, abril de 2010)",
+        "url": "https://www.slideshare.net/slideshow/dropbox-startup-lessons-learned-3836587/3836587"
+      },
+      "wiki": "Dropbox",
+      "claves": [
+        {
+          "nombre": "Mercadotecnia viral",
+          "quien": "Estrategia en la que los propios usuarios difunden el producto entre sus conocidos.",
+          "wiki": "Mercadotecnia viral"
+        },
+        {
+          "nombre": "PayPal",
+          "quien": "Empresa de pagos cuyo bono por registro inspiró el programa de referidos de Dropbox.",
+          "wiki": "PayPal"
+        }
+      ],
+      "repaso": {
+        "pregunta": "¿Por qué el programa de referidos de Dropbox le salía tan barato?",
+        "respuesta": "Porque premiaba con espacio de disco, que a la empresa casi no le costaba y para el usuario valía mucho. Y premiaba a los dos: al que invitaba y al invitado."
+      }
+    }
+  ],
+  "hechos": [
+    {
+      "materia": "Retórica y oratoria",
+      "pilar": "mente",
+      "epoca": "1521",
+      "titulo": "Lutero quizá nunca dijo «Aquí estoy, no puedo hacer otra cosa»",
+      "dato": "La frase más famosa de la Reforma probablemente se agregó en las versiones impresas. Lo que está documentado es el cierre: «Que Dios me ayude. Amén».",
+      "explicacion": "El 18 de abril de 1521, ante el emperador Carlos V en la [[Dieta de Worms|Asamblea del Sacro Imperio Romano Germánico reunida en 1521 en la ciudad de Worms.]], Martín Lutero se negó a retractarse. Dijo que su conciencia estaba «cautiva de la Palabra de Dios». Habló primero en alemán y luego en latín.\n\nEl «Hier stehe ich» solo aparece en publicaciones posteriores, favorables a Lutero. Desde hace unos 50 años, la mayoría de los historiadores cree que no lo dijo. Algunos autores luteranos opinan que pudo murmurarlo. Es una lección de retórica: a veces la frase memorable la escribe el editor, no el orador.",
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Luther_at_the_Diet_of_Worms.jpg?width=900",
+        "alt": "Pintura de un monje de pie ante una asamblea de nobles y un emperador",
+        "pie": "Lutero ante la Dieta de Worms, en una pintura del siglo XIX.",
+        "credito": "Wikimedia Commons"
+      },
+      "fuente": {
+        "nombre": "Crossway: Luther at the Diet of Worms",
+        "url": "https://www.crossway.org/articles/luther-at-the-diet-of-worms/"
+      },
+      "wiki": "Dieta de Worms",
+      "claves": [
+        {
+          "nombre": "Martín Lutero",
+          "quien": "Fraile alemán que inició la Reforma protestante en 1517.",
+          "wiki": "Martín Lutero"
+        },
+        {
+          "nombre": "Carlos V",
+          "quien": "Emperador y rey de España que presidió la Dieta y luego proscribió a Lutero.",
+          "wiki": "Carlos I de España"
+        }
+      ],
+      "repaso": {
+        "pregunta": "¿Qué frase de Lutero en Worms sí está documentada?",
+        "respuesta": "El cierre «Que Dios me ayude. Amén». El «Aquí estoy, no puedo hacer otra cosa» probablemente se añadió en versiones impresas."
+      }
+    },
+    {
+      "materia": "Liderazgo e influencia",
+      "pilar": "caracter",
+      "epoca": "1950",
+      "titulo": "En Toyota, cualquier obrero puede detener la línea",
+      "dato": "Desde 1950, cualquier trabajador de una planta Toyota puede jalar una cuerda para frenar la producción si ve un problema.",
+      "explicacion": "La cuerda se llama [[andon|Sistema de aviso de Toyota: una cuerda o botón que alerta de un problema y puede detener la línea.]]. Si el problema se resuelve dentro del tiempo de esa estación, la línea sigue; si no, se detiene entera. La idea viene de Sakichi Toyoda, fundador del grupo, cuyo telar de 1896 ya se paraba solo cuando se rompía un hilo.\n\nToyota lo llama [[jidoka|«Automatización con toque humano»: la máquina o la persona se detiene en cuanto aparece una falla.]]. Parece ineficiente parar una fábrica. Pero sale más caro seguir produciendo piezas defectuosas. El liderazgo aquí consiste en dar poder al que ve el problema primero, no al que tiene el cargo más alto.",
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1924_Non-Stop_Shuttle_Change_Toyoda_Automatic_Loom%2C_Type_G_1.jpg?width=900",
+        "alt": "Telar mecánico antiguo de hierro y madera en un museo",
+        "pie": "El telar automático Toyoda Tipo G, de 1924.",
+        "credito": "Wikimedia Commons"
+      },
+      "fuente": {
+        "nombre": "Toyota: Toyota Production System",
+        "url": "https://global.toyota/en/company/vision-and-philosophy/production-system/"
+      },
+      "wiki": "Jidōka",
+      "claves": [
+        {
+          "nombre": "Sistema de producción Toyota",
+          "quien": "El método de fabricación que inspiró la «manufactura esbelta» en todo el mundo.",
+          "wiki": "Sistema de producción Toyota"
+        },
+        {
+          "nombre": "Toyota",
+          "quien": "La automotriz japonesa que nació del negocio de telares de la familia Toyoda.",
+          "wiki": "Toyota"
+        }
+      ],
+      "repaso": {
+        "pregunta": "¿Qué es el andon en Toyota?",
+        "respuesta": "Una cuerda que cualquier trabajador puede jalar ante un problema; si no se resuelve a tiempo, detiene la línea."
+      }
+    },
+    {
+      "materia": "Salud y longevidad",
+      "pilar": "cuerpo",
+      "epoca": "1816",
+      "titulo": "El estetoscopio nació por pudor",
+      "dato": "En 1816, un médico de París no quiso poner la oreja sobre el pecho de una joven. Enrolló papel en un tubo y descubrió que oía el corazón mejor que nunca.",
+      "explicacion": "René Laënnec trabajaba en el hospital Necker. La paciente tenía síntomas del corazón, y su obesidad impedía usar la percusión. Poner el oído directamente sobre el pecho de una joven le pareció impropio. El tubo de papel no solo resolvió el pudor: amplificaba el sonido.\n\nEn 1819 publicó *De l'auscultation médiate*, donde describe los ruidos del corazón y los pulmones. Así nació la [[auscultación|Escuchar los sonidos internos del cuerpo para diagnosticar.]] moderna. Laënnec murió en 1826, a los 45 años, de tuberculosis, una de las enfermedades que su invento ayudaba a reconocer.",
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Laennec_stethoscope_of_1819_Wellcome_M0016400.jpg?width=900",
+        "alt": "Tubo de madera torneada, el estetoscopio original de Laennec",
+        "pie": "Un estetoscopio de madera del modelo de Laennec, de 1819.",
+        "credito": "Wikimedia Commons"
+      },
+      "fuente": {
+        "nombre": "Linda Hall Library: René-Théophile-Hyacinthe Laennec",
+        "url": "https://www.lindahall.org/about/news/scientist-of-the-day/rene-theophile-hyacinthe-laennec"
+      },
+      "wiki": "René Laënnec",
+      "claves": [
+        {
+          "nombre": "Estetoscopio",
+          "quien": "El instrumento que sigue colgado del cuello de casi todos los médicos.",
+          "wiki": "Estetoscopio"
+        },
+        {
+          "nombre": "Tuberculosis",
+          "quien": "Infección pulmonar que mató a Laënnec y que su invento ayudó a diagnosticar.",
+          "wiki": "Tuberculosis"
+        }
+      ],
+      "repaso": {
+        "pregunta": "¿Por qué inventó Laënnec el estetoscopio?",
+        "respuesta": "Porque le pareció impropio poner la oreja sobre el pecho de una joven paciente; enrolló papel en un tubo y oyó mejor el corazón."
+      }
+    },
+    {
+      "materia": "Cine y fotografía",
+      "pilar": "cultura",
+      "epoca": "1838",
+      "titulo": "El primer hombre fotografiado se estaba lustrando las botas",
+      "dato": "En la foto de Daguerre de un bulevar de París no aparecen carruajes ni peatones. Solo un hombre: el único que se quedó quieto.",
+      "explicacion": "En 1838, Louis Daguerre fotografió el Boulevard du Temple desde una ventana, hacia las 8 de la mañana. La exposición duró varios minutos: las estimaciones van de unos 4 a más de 10. Todo lo que se movía desapareció de la placa.\n\nAbajo a la izquierda quedó un hombre con el pie apoyado, mientras un bolero le limpiaba las botas. Por estar inmóvil, es la persona más antigua que se conoce en una fotografía. No es la primera foto de la historia: la de Niépce es unos diez años anterior. Pero es la primera con un ser humano.",
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Boulevard_du_Temple_by_Daguerre.jpg?width=900",
+        "alt": "Fotografía antigua en tonos grises de un bulevar con árboles y edificios, casi vacío",
+        "pie": "Boulevard du Temple, París, por Daguerre (1838). El hombre está abajo a la izquierda.",
+        "credito": "Wikimedia Commons"
+      },
+      "fuente": {
+        "nombre": "Smarthistory: Daguerre, Paris Boulevard",
+        "url": "https://smarthistory.org/daguerre-paris-boulevard"
+      },
+      "wiki": "Daguerrotipo",
+      "claves": [
+        {
+          "nombre": "Louis Daguerre",
+          "quien": "Pintor y escenógrafo francés que inventó el daguerrotipo, presentado en 1839.",
+          "wiki": "Louis Daguerre"
+        },
+        {
+          "nombre": "Daguerrotipo",
+          "quien": "La primera técnica fotográfica práctica: una imagen única sobre una placa de plata.",
+          "wiki": "Daguerrotipo"
+        }
+      ],
+      "repaso": {
+        "pregunta": "¿Por qué el bulevar de la foto de Daguerre se ve casi vacío?",
+        "respuesta": "Porque la exposición duró varios minutos y todo lo que se movía no quedó registrado; solo el hombre que se lustraba las botas."
+      }
+    },
+    {
+      "materia": "Ciudades del mundo",
+      "pilar": "mundo",
+      "epoca": "1786",
+      "titulo": "Bajo París hay más parisinos de los que viven arriba",
+      "dato": "Las catacumbas de París guardan los huesos de varios millones de personas: unos seis millones, según estimaciones. La ciudad tiene hoy cerca de dos millones de habitantes.",
+      "explicacion": "A fines del siglo XVIII, los cementerios de París estaban saturados. El de los Santos Inocentes se cerró en 1780. Desde 1785, de noche, los huesos se trasladaron a viejas canteras de piedra caliza bajo la llanura de Montrouge. El 7 de abril de 1786 el lugar se consagró como osario municipal.\n\nLos traslados siguieron hasta 1814. Entre 1810 y 1814, el inspector Héricart de Thury acomodó los huesos en muros de fémures y cráneos, con altares y columnas. Se abrió al público en 1809. Las canteras explican otra cosa: buena parte de la piedra de los edificios de París salió de debajo de la propia ciudad.",
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ossements_catacombes_Paris.JPG?width=900",
+        "alt": "Muro de huesos y cráneos acomodados en filas en un túnel subterráneo",
+        "pie": "Huesos ordenados en las catacumbas de París.",
+        "credito": "Wikimedia Commons"
+      },
+      "fuente": {
+        "nombre": "Catacombes de Paris: historia del sitio (sitio oficial)",
+        "url": "https://catacombes.paris.fr/en/history/site-history"
+      },
+      "wiki": "Catacumbas de París",
+      "claves": [
+        {
+          "nombre": "Cementerio de los Santos Inocentes",
+          "quien": "El gran cementerio del centro de París cuyo cierre en 1780 inició los traslados.",
+          "wiki": "Cementerio de los Santos Inocentes"
+        },
+        {
+          "nombre": "Osario",
+          "quien": "Lugar donde se reúnen los huesos sacados de las tumbas.",
+          "wiki": "Osario"
+        }
+      ],
+      "repaso": {
+        "pregunta": "¿De dónde vienen los huesos de las catacumbas de París?",
+        "respuesta": "De cementerios saturados, como el de los Santos Inocentes, trasladados desde 1785 a viejas canteras bajo la ciudad."
+      }
+    },
+    {
+      "materia": "Economía y mercados",
+      "pilar": "patrimonio",
+      "epoca": "1520",
+      "titulo": "El dólar se llama así por un valle de Bohemia",
+      "dato": "«Dólar» viene de «tálero», una moneda de plata acuñada desde 1520 en Joachimsthal, hoy Jáchymov, en la República Checa. Pero su valor se tomó del peso español.",
+      "explicacion": "En la década de 1510 se halló mucha plata en Joachimsthal, el «valle de Joaquín». Los condes Schlick acuñaron ahí, desde el 9 de enero de 1520, unas monedas grandes llamadas *joachimsthaler*. El nombre se acortó a *thaler*, y de ahí salieron *daler*, *tolar* y *dollar*.\n\nCuando Estados Unidos creó su moneda en 1792, definió el dólar por el valor del «dólar español molido»: el [[real de a ocho|Moneda de plata española, acuñada también en México, que circuló por todo el mundo del siglo XVI al XIX.]], acuñado en buena parte en México. Fue moneda legal en Estados Unidos hasta 1857. El nombre llegó de Bohemia; la plata y el valor, en buena medida, de la Nueva España.",
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Joachimsthaler_1525.jpg?width=900",
+        "alt": "Moneda antigua de plata con la figura de un santo",
+        "pie": "Un joachimsthaler de 1525, el abuelo del dólar.",
+        "credito": "Wikimedia Commons"
+      },
+      "fuente": {
+        "nombre": "Radio Prague International: Predecessor of US dollar minted 500 years ago in Jáchymov",
+        "url": "https://english.radio.cz/predecessor-us-dollar-minted-500-years-ago-jachymov-8111166"
+      },
+      "wiki": "Tálero",
+      "claves": [
+        {
+          "nombre": "Jáchymov",
+          "quien": "El pueblo minero checo, antes Joachimsthal, donde se acuñaron los primeros táleros.",
+          "wiki": "Jáchymov"
+        },
+        {
+          "nombre": "Real de a ocho",
+          "quien": "El peso de plata español y novohispano que sirvió de modelo al dólar estadounidense.",
+          "wiki": "Real de a ocho"
+        }
+      ],
+      "repaso": {
+        "pregunta": "¿De dónde viene la palabra «dólar»?",
+        "respuesta": "De «tálero», por las monedas de plata de Joachimsthal, en Bohemia. Su valor en EE. UU. se tomó del real de a ocho español."
+      }
+    },
+    {
+      "materia": "Ciencia y tecnología",
+      "pilar": "futuro",
+      "epoca": "1799",
+      "titulo": "El metro mide 0.2 milímetros menos de lo que debía",
+      "dato": "El metro se definió como la diezmillonésima parte de la distancia del polo al ecuador. Salió corto por 0.2 mm, y ese error sigue en cada regla del mundo.",
+      "explicacion": "Entre 1792 y 1798, dos astrónomos midieron el meridiano de Dunkerque a Barcelona: Delambre el norte y Méchain el sur. En Barcelona, Méchain encontró que dos mediciones de latitud no coincidían. Lo ocultó y retocó sus notas, esperando corregirlo después. Murió en 1804 sin hacerlo. Delambre descubrió el secreto al ordenar sus papeles.\n\nPero el error de Méchain no fue la causa principal del metro corto. Lo fue el valor que se usó para el achatamiento de la Tierra, que no es una esfera perfecta. Cuando el metro se redefinió después, se ajustó al anterior, así que el error de 0.2 mm se quedó para siempre.",
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Baptiste_Joseph_Delambre.jpg?width=900",
+        "alt": "Retrato grabado de un hombre del siglo XVIII con peluca y levita",
+        "pie": "Jean-Baptiste Delambre, que midió la parte norte del meridiano.",
+        "credito": "Wikimedia Commons"
+      },
+      "fuente": {
+        "nombre": "Physics Today: reseña de «The Measure of All Things», de Ken Alder",
+        "url": "https://physicstoday.aip.org/reviews/the-measure-of-all-things-the-seven-year-odyssey-and-hidden-error-that-transformed-the-world"
+      },
+      "wiki": "Medición del arco de meridiano de Delambre y Méchain",
+      "claves": [
+        {
+          "nombre": "Historia del metro",
+          "quien": "Cómo pasamos de una medida de la Tierra a la velocidad de la luz.",
+          "wiki": "Historia del metro (unidad de medida)"
+        },
+        {
+          "nombre": "Jean-Baptiste Delambre",
+          "quien": "Astrónomo que midió de Dunkerque a Rodez y descubrió el secreto de Méchain.",
+          "wiki": "Jean-Baptiste Joseph Delambre"
+        },
+        {
+          "nombre": "Castillo de Montjuic",
+          "quien": "La fortaleza de Barcelona desde la que Méchain hizo parte de sus mediciones.",
+          "wiki": "Castillo de Montjuic"
+        }
+      ],
+      "repaso": {
+        "pregunta": "¿Por qué el metro salió 0.2 mm corto?",
+        "respuesta": "Sobre todo por el valor usado para el achatamiento de la Tierra. El error que ocultó Méchain no fue la causa principal."
+      }
+    },
+    {
+      "materia": "Etiqueta y protocolo",
+      "pilar": "gusto",
+      "epoca": "1810",
+      "titulo": "Servir plato por plato es una moda rusa",
+      "dato": "En la Francia del siglo XVIII, todos los platos de un tiempo se ponían en la mesa a la vez. Servir uno tras otro, ya porcionado, llegó como «servicio a la rusa».",
+      "explicacion": "En el [[servicio a la francesa|Estilo de banquete en que todos los platos de cada tiempo se colocan juntos sobre la mesa.]], la mesa era un espectáculo: decenas de fuentes al mismo tiempo. Pero la comida se enfriaba y cada quien alcanzaba lo que tenía cerca. Se atribuye al embajador ruso Alexander Kurakin haber ofrecido en París, hacia 1810, cenas servidas plato por plato.\n\nLa atribución viene de un autor de 1893 que no citó fuente, así que conviene tomarla con cautela. Lo seguro es que el cambio tardó décadas. El chef Urbain Dubois lo defendió en *La Cuisine classique* (1856), y hacia fines del siglo XIX ya era lo normal. El menú por tiempos que hoy te parece «francés» es, en su origen, ruso.",
+      "imagen": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Table_dress%C3%A9e_service_%C3%A0_la_fran%C3%A7aise.jpg?width=900",
+        "alt": "Grabado de una mesa de banquete llena de fuentes dispuestas con simetría",
+        "pie": "Una mesa servida a la francesa: todos los platos a la vez.",
+        "credito": "Wikimedia Commons"
+      },
+      "fuente": {
+        "nombre": "Hertzmann: Service à la française vs. service à la russe (artículo de historia de la gastronomía)",
+        "url": "https://www.hertzmann.com/articles/2004/service/"
+      },
+      "wiki": "Servicio a la rusa",
+      "claves": [
+        {
+          "nombre": "Servicio a la francesa",
+          "quien": "El estilo de banquete que dominó Europa hasta el siglo XIX.",
+          "wiki": "Servicio a la francesa"
+        },
+        {
+          "nombre": "Gastronomía de Francia",
+          "quien": "La cocina que hizo del orden de los platos un arte.",
+          "wiki": "Gastronomía de Francia"
+        }
+      ],
+      "repaso": {
+        "pregunta": "¿Qué es el servicio a la rusa?",
+        "respuesta": "Servir los platos uno tras otro, ya porcionados, en lugar de ponerlos todos juntos en la mesa. Se volvió la norma en Francia a fines del siglo XIX."
+      }
+    }
+  ],
+  "lectura": {
+    "libro": "Don Quijote de la Mancha (selección)",
+    "autor": "Miguel de Cervantes",
+    "capitulo": {
+      "numero": 1,
+      "total": 6,
+      "titulo": "Un hidalgo que enloquece leyendo"
+    },
+    "minutos": 9,
+    "imagen": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave_Dor%C3%A9_-_Miguel_de_Cervantes_-_Don_Quixote_-_Part_1_-_Chapter_1_-_Plate_1_%22A_world_of_disorderly_notions%2C_picked_out_of_his_books%2C_crowded_into_his_imagination%22.jpg?width=900",
+      "alt": "Grabado de un anciano leyendo rodeado de figuras fantásticas",
+      "pie": "Don Quijote y sus libros, por Gustave Doré.",
+      "credito": "Wikimedia Commons"
+    },
+    "secciones": [
+      {
+        "tipo": "texto",
+        "texto": "¿Se puede enloquecer de tanto leer? Cervantes dice que sí, y lo cuenta riéndose.\n\nEmpezamos *Don Quijote de la Mancha*, la novela que muchos consideran la primera novela moderna. La primera parte salió en enero de 1605, en la imprenta de Juan de la Cuesta, en Madrid. La segunda, diez años después. En seis capítulos vamos a recorrer una selección. Hoy leemos los cinco primeros capítulos del libro: cómo un hidalgo cualquiera decide convertirse en caballero andante."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Un hombre sin nombre en un lugar sin nombre"
+      },
+      {
+        "tipo": "texto",
+        "texto": "La novela abre con una de las frases más famosas del idioma. Fíjate en lo que **no** dice."
+      },
+      {
+        "tipo": "cita",
+        "texto": "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor.",
+        "fuente": "Don Quijote, Primera parte, cap. I"
+      },
+      {
+        "tipo": "texto",
+        "texto": "No sabemos el pueblo. Cervantes no «quiere acordarse». Tampoco sabemos bien el nombre del protagonista: dice que unos lo llaman Quijada y otros Quesada. Y el hombre no tiene nada de heroico. Es un [[hidalgo|Noble de rango más bajo: tenía privilegios por su sangre, pero muchas veces poco dinero.]] pobre que come de forma modesta y gasta casi todo en ropa de fiesta.\n\nCada objeto de esa frase cuenta algo. La [[lanza en astillero|Lanza guardada en el soporte de la pared: un arma que ya no se usa.]] y la [[adarga|Escudo de cuero, ligero, de forma ovalada o de corazón.]] antigua son armas viejas, de otra época. El rocín flaco es un caballo malo. Es un retrato de decadencia en una sola línea.\n\nTiene casi cincuenta años. En el texto: «Frisaba la edad de nuestro hidalgo con los cincuenta años». Para 1605, era un hombre ya mayor."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Del poco dormir y del mucho leer"
+      },
+      {
+        "tipo": "texto",
+        "texto": "Este hidalgo tiene una afición: los [[libros de caballerías|Novelas de aventuras de caballeros andantes, muy populares en la España del siglo XVI, como el Amadís de Gaula.]]. Eran los superventas de la época: historias de caballeros que viajan, vencen gigantes y salvan doncellas. Le gustan tanto que vende tierras de cultivo para comprar más.\n\nY entonces sucede lo inevitable."
+      },
+      {
+        "tipo": "cita",
+        "texto": "En resolución, él se enfrascó tanto en su lectura, que se le pasaban las noches leyendo de claro en claro, y los días de turbio en turbio; y así, del poco dormir y del mucho leer, se le secó el celebro de manera que vino a perder el juicio.",
+        "fuente": "Don Quijote, Primera parte, cap. I"
+      },
+      {
+        "tipo": "imagen",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave_Dor%C3%A9_-_Miguel_de_Cervantes_-_Don_Quixote_-_Part_1_-_Chapter_1_-_Plate_1_%22A_world_of_disorderly_notions%2C_picked_out_of_his_books%2C_crowded_into_his_imagination%22.jpg?width=900",
+        "alt": "Grabado de un anciano leyendo en un sillón, rodeado de caballeros, monstruos y damas que salen de los libros",
+        "pie": "Don Quijote leyendo, en el grabado de Gustave Doré (1863): las fantasías de sus libros llenan el cuarto.",
+        "credito": "Wikimedia Commons"
+      },
+      {
+        "tipo": "texto",
+        "texto": "«Celebro» es la forma antigua de «cerebro». La locura del Quijote tiene una lógica: no confunde las cosas al azar. Cree que todo lo que leyó es historia verdadera. Y si es verdad, alguien tiene que seguir haciéndolo.\n\nAsí que decide hacerse caballero andante. Limpia una armadura de sus bisabuelos, llena de óxido. Como el yelmo no tiene visera, le arma una de cartón. La prueba con un golpe de espada y la destruye en un instante. La vuelve a hacer, y esta vez decide no probarla. Es uno de los chistes más finos del libro: la fe que no se atreve a comprobar."
+      },
+      {
+        "tipo": "pregunta",
+        "pregunta": "¿Qué hace el hidalgo después de que su visera de cartón se rompe con la primera prueba?",
+        "opciones": [
+          "Compra un yelmo de verdad",
+          "La vuelve a hacer y prefiere no probarla otra vez",
+          "Decide salir sin visera"
+        ],
+        "correcta": 1,
+        "explicacion": "La rehace, reforzada, y la da por buena sin probarla. Cervantes se burla de una fe que no quiere ponerse a prueba."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Ponerle nombre a todo"
+      },
+      {
+        "tipo": "texto",
+        "texto": "Antes de salir, el hidalgo hace algo muy moderno: crea una marca. Pasa días pensando en los nombres. Primero el caballo."
+      },
+      {
+        "tipo": "cita",
+        "texto": "Al fin le vino a llamar Rocinante, nombre, a su parecer, alto, sonoro y significativo.",
+        "fuente": "Don Quijote, Primera parte, cap. I"
+      },
+      {
+        "tipo": "texto",
+        "texto": "«Rocín» era un caballo de trabajo, sin gracia. «Antes» puede leerse como «lo que fue antes» o como «el primero de todos los rocines». El nombre es un chiste y un ascenso al mismo tiempo.\n\nLuego se nombra a sí mismo. Tarda ocho días y se queda con «don Quijote». Como Amadís se apellidaba «de Gaula» por su tierra, él agrega «de la Mancha». Un caballero, además, necesita una dama a quien dedicar sus victorias. Elige a una labradora de un pueblo cercano, Aldonza Lorenzo, de la que dicen que estuvo enamorado sin que ella lo supiera. La rebautiza Dulcinea del Toboso.\n\nFíjate en el método: la realidad no cambia, solo cambian los nombres. Un caballo flaco, un vecino, una campesina. Basta nombrarlos de otra forma para que, en su cabeza, todo sea épico."
+      },
+      {
+        "tipo": "nota",
+        "titulo": "Una parodia que se volvió otra cosa",
+        "texto": "Cervantes dijo que escribía contra los libros de caballerías, para burlarse de ellos. Pero el resultado fue mucho más que una parodia. Al poner a un lector loco en la España real, con ventas, arrieros y caminos polvorientos, inventó algo nuevo: personajes que cambian al hablar entre ellos. Por eso se le llama la primera novela moderna."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Armado caballero en una venta"
+      },
+      {
+        "tipo": "texto",
+        "texto": "Una mañana de julio, sin avisar a nadie, don Quijote sale por la puerta trasera del corral. Pronto se da cuenta de un problema: nadie lo ha armado caballero. Sin eso, según sus libros, no puede pelear con otro caballero.\n\nAl anochecer llega a una [[venta|Posada en un camino, donde se daba comida y alojamiento a viajeros y arrieros.]]. Para él es un castillo. Dos mujeres de la puerta son doncellas. El ventero es el señor del castillo. El ventero, que es astuto, le sigue el juego para no tener problemas. Lo deja velar las armas toda la noche en el patio.\n\nEsa noche, unos arrieros quieren dar agua a sus mulas y mueven las armas de la pila. Don Quijote los golpea con la lanza. Asustado, el ventero decide acabar rápido la ceremonia. Usa como libro sagrado el cuaderno donde anota la paja y la cebada que gastan los arrieros."
+      },
+      {
+        "tipo": "cita",
+        "texto": "Leyendo en su manual como que decía alguna devota oración, en mitad de la leyenda alzó la mano y diole sobre el cuello un buen golpe y, tras él, con su misma espada, un gentil espaldarazo.",
+        "fuente": "Don Quijote, Primera parte, cap. III"
+      },
+      {
+        "tipo": "texto",
+        "texto": "Un libro de cuentas de establo hace de misal. Un ventero hace de rey. Cervantes no se burla solo del loco: se burla de las ceremonias, que funcionan si todos fingen creer en ellas."
+      },
+      {
+        "tipo": "imagen",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Title_page_first_edition_Don_Quijote.jpg?width=900",
+        "alt": "Portada antigua de libro con un escudo y letras grandes",
+        "pie": "Portada de la primera edición de 1605, impresa por Juan de la Cuesta en Madrid.",
+        "credito": "Wikimedia Commons"
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "La primera hazaña, y la primera paliza"
+      },
+      {
+        "tipo": "texto",
+        "texto": "Ya caballero, don Quijote sale feliz. En un bosque oye gritos. Un labrador rico, Juan Haldudo, está azotando a un muchacho atado a un árbol, Andrés, porque dice que le pierde las ovejas. Andrés dice que el amo no le paga.\n\nDon Quijote lo obliga a desatarlo y a jurar que le pagará. Se va orgulloso, convencido de haber hecho justicia. Apenas se pierde de vista, el amo vuelve a atar al muchacho y lo azota todavía más. La lección es dura: una justicia que se va antes de comprobar el resultado puede empeorar las cosas.\n\nMás adelante, don Quijote se topa con unos mercaderes de Toledo. Les exige confesar que Dulcinea es la doncella más hermosa del mundo, sin haberla visto. Uno de ellos le pide al menos un retrato. Don Quijote lo embiste, pero Rocinante tropieza y él cae. Un mozo de mulas le rompe la lanza a palos sobre el cuerpo."
+      },
+      {
+        "tipo": "pregunta",
+        "pregunta": "¿Qué le pasa a Andrés cuando don Quijote se va?",
+        "opciones": [
+          "Su amo le paga todo lo que le debe",
+          "Huye y se une a don Quijote",
+          "Su amo lo vuelve a atar y lo azota todavía más"
+        ],
+        "correcta": 2,
+        "explicacion": "Juan Haldudo jura pagarle, pero en cuanto don Quijote se aleja, lo ata otra vez y lo castiga con más fuerza. La buena intención sin seguimiento no protegió a Andrés."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "De regreso, molido"
+      },
+      {
+        "tipo": "texto",
+        "texto": "Tirado en el camino, sin poder levantarse, don Quijote recita versos de los romances viejos, como si fuera uno de sus héroes heridos. Lo encuentra un vecino de su pueblo, un labrador llamado Pedro Alonso. Lo reconoce y lo sube a su burro.\n\nEl vecino trata de hacerlo entrar en razón: le recuerda quién es en realidad. Don Quijote contesta con una de las frases más profundas del libro: «Yo sé quién soy». No dice «sé cómo me llamo». Dice que sabe en quién ha decidido convertirse.\n\nPedro Alonso espera a que anochezca para meterlo en el pueblo, y así nadie vea al hidalgo en ese estado. En casa lo esperan su sobrina, su ama, el cura y el barbero. Están muy preocupados. Ya tienen un culpable: los libros. En el siguiente capítulo de nuestra selección, entrarán a la biblioteca a juzgarlos uno por uno."
+      }
+    ],
+    "paraLlevar": [
+      "Cuidado con lo que lees sin descanso: acaba decidiendo cómo ves el mundo.",
+      "Cambiarle el nombre a las cosas no cambia las cosas, aunque cambie cómo te sientes con ellas.",
+      "Hacer justicia y marcharse no basta: hay que quedarse a ver qué pasó."
+    ],
+    "repaso": [
+      {
+        "pregunta": "¿Por qué pierde el juicio el hidalgo, según Cervantes?",
+        "respuesta": "«Del poco dormir y del mucho leer» libros de caballerías: llegó a creer que eran historia verdadera."
+      },
+      {
+        "pregunta": "¿Quién arma caballero a don Quijote y con qué libro?",
+        "respuesta": "El ventero, usando como libro sagrado el cuaderno donde apuntaba la paja y la cebada de los arrieros."
+      }
+    ],
+    "proximo": "Don Quijote de la Mancha · Capítulo 2: el escrutinio de la biblioteca y Sancho Panza",
+    "fuentes": [
+      {
+        "nombre": "Gobierno de la Ciudad de Buenos Aires: Don Quijote de la Mancha (edición escolar, texto de dominio público)",
+        "url": "https://buenosaires.gob.ar/areas/educacion/quijote/don_quijote_de_la_mancha.pdf"
+      },
+      {
+        "nombre": "Proyecto Gutenberg: Don Quijote, de Miguel de Cervantes",
+        "url": "https://www.gutenberg.org/ebooks/2000"
+      },
+      {
+        "nombre": "Britannica: Miguel de Cervantes, publicación del Quijote",
+        "url": "https://www.britannica.com/biography/Miguel-de-Cervantes/Publication-of-Don-Quixote"
+      }
+    ],
+    "nota": "Citas tomadas del texto original de Cervantes (1605, dominio público), con ortografía modernizada, según la edición escolar del Gobierno de la Ciudad de Buenos Aires."
+  },
+  "palabra": {
+    "palabra": "Atildado",
+    "categoria": "Adjetivo",
+    "pronunciacion": "a-til-DA-do",
+    "definicion": "Pulcro, elegante y cuidadoso en el arreglo personal, a veces en exceso. También se dice de un estilo de hablar o escribir muy pulido.",
+    "origen": "De «atildar», poner tildes: cuidar hasta el último signo. Primero se aplicó a la escritura y luego a la persona.",
+    "ejemplo": "La corte de Eugenia era atildada hasta el detalle, y Worth vivía de ese cuidado.",
+    "repaso": {
+      "pregunta": "¿Qué significa «atildado»?",
+      "respuesta": "Pulcro y elegante en el arreglo, a veces en exceso; viene de «atildar», poner las tildes."
+    }
+  },
+  "frances": {
+    "frase": "L'habit ne fait pas le moine.",
+    "traduccion": "«El hábito no hace al monje».",
+    "pronunciacion": "la-BI ne fé pa le MUAN",
+    "uso": "Cultura. Se dice para recordar que la apariencia no garantiza lo que hay dentro. Tiene gracia en el mundo de Worth: en la moda, el vestido sí construye la imagen. Úsalo con ironía cuando alguien juzgue por la etiqueta. «Il a un costume superbe, mais l'habit ne fait pas le moine.»",
+    "variante": "Il ne faut pas juger un livre à sa couverture. («No hay que juzgar un libro por su portada».)",
+    "repaso": {
+      "pregunta": "¿Cómo se dice en francés que la apariencia no hace a la persona?",
+      "respuesta": "« L'habit ne fait pas le moine. »"
+    }
+  },
+  "microexamen": [
+    {
+      "origen": "historia",
+      "pregunta": "¿Qué novedad introdujo Worth en su casa de 1858?",
+      "opciones": [
+        "Vender telas importadas de Inglaterra",
+        "Coser su nombre en la ropa y presentar colecciones propias",
+        "Hacer vestidos solo con las ideas de la clienta"
+      ],
+      "correcta": 1,
+      "explicacion": "Worth firmaba sus vestidos con una etiqueta y mostraba colecciones por temporada sobre modelos vivos. La clienta elegía y él lo hacía a su medida."
+    },
+    {
+      "origen": "noticias",
+      "pregunta": "¿Cuánto perdió el peso frente al dólar en la semana que terminó el 20 de noviembre?",
+      "opciones": [
+        "Cerca de 0.2%",
+        "Cerca de 1%",
+        "Cerca de 3.4%"
+      ],
+      "correcta": 2,
+      "explicacion": "Perdió 62.95 centavos, 3.40%: el dólar pasó de 18.5336 a 19.1631 pesos según Banxico."
+    },
+    {
+      "origen": "hechos",
+      "pregunta": "¿De dónde viene la palabra «dólar»?",
+      "opciones": [
+        "De «tálero», una moneda de plata de Joachimsthal, en Bohemia",
+        "Del nombre de un banquero holandés",
+        "Del «dolor» que causaban los impuestos españoles"
+      ],
+      "correcta": 0,
+      "explicacion": "Los joachimsthaler, acuñados desde 1520, dieron «thaler», «daler» y «dollar». Su valor en Estados Unidos se tomó del real de a ocho español."
+    }
+  ],
+  "libro": null,
+  "proximo": "1900: la Exposición Universal y el metro de Guimard"
+}
