@@ -1,275 +1,276 @@
 {
-  "actualizado": "2026-11-21",
-  "lista": [
+ "actualizado": "2026-11-23",
+ "lista": [
+  {
+   "episodios": [
     {
-      "episodios": [
-        {
-          "fecha": "2026-10-20",
-          "titulo": "Trece días para no acabar el mundo"
-        },
-        {
-          "fecha": "2026-10-21",
-          "titulo": "Apolo 13: cómo meter un filtro cuadrado en un hueco redondo"
-        },
-        {
-          "fecha": "2026-10-22",
-          "titulo": "Tylenol 1982: retirar 31 millones de frascos para salvar la marca"
-        },
-        {
-          "fecha": "2026-10-23",
-          "titulo": "Kodak inventó la cámara digital en 1975 y la guardó"
-        },
-        {
-          "fecha": "2026-10-24",
-          "titulo": "Stockdale: siete años y medio en Hanói con un manual estoico"
-        },
-        {
-          "fecha": "2026-10-25",
-          "titulo": "Síntesis: tu manual para decidir bajo presión"
-        }
-      ],
-      "estado": "terminada",
-      "id": "t01",
-      "numero": 1,
-      "para": "Criterio para decidir con información incompleta.",
-      "titulo": "Decisiones bajo presión"
+     "fecha": "2026-10-20",
+     "titulo": "Trece días para no acabar el mundo"
     },
     {
-      "episodios": [
-        {
-          "fecha": "2026-10-27",
-          "titulo": "1401: el concurso de las puertas que inventó el Renacimiento"
-        },
-        {
-          "fecha": "2026-10-28",
-          "titulo": "Los Medici: el banco que gobernó una ciudad sin ocupar el trono"
-        },
-        {
-          "fecha": "2026-10-30",
-          "titulo": "1497: Savonarola y la hoguera de las vanidades"
-        },
-        {
-          "fecha": "2026-10-31",
-          "titulo": "El David: el bloque de mármol que nadie quería"
-        },
-        {
-          "fecha": "2026-11-01",
-          "titulo": "1513: Maquiavelo escribe en el exilio"
-        },
-        {
-          "fecha": "2026-11-02",
-          "titulo": "Síntesis: lo que Florencia enseña sobre arte, dinero y poder"
-        }
-      ],
-      "estado": "terminada",
-      "id": "t02",
-      "numero": 2,
-      "para": "Arte, poder y dinero en la ciudad de los Medici.",
-      "titulo": "Florencia: la ciudad que inventó el Renacimiento"
+     "fecha": "2026-10-21",
+     "titulo": "Apolo 13: cómo meter un filtro cuadrado en un hueco redondo"
     },
     {
-      "episodios": [
-        {
-          "fecha": "2026-11-03",
-          "titulo": "431 a. C.: Pericles convierte un funeral en un manifiesto"
-        },
-        {
-          "fecha": "2026-11-04",
-          "titulo": "1588: Isabel I en Tilbury, un discurso a caballo"
-        },
-        {
-          "fecha": "2026-11-05",
-          "titulo": "1940: Churchill y las playas, cómo hablar cuando vas perdiendo"
-        },
-        {
-          "fecha": "2026-11-06",
-          "titulo": "1964: Mandela en el banquillo, el alegato que lo hizo símbolo"
-        },
-        {
-          "fecha": "2026-11-07",
-          "titulo": "Síntesis: cómo se construye una palabra que mueve multitudes"
-        }
-      ],
-      "estado": "terminada",
-      "id": "t03",
-      "numero": 3,
-      "para": "De Pericles a Martin Luther King: cómo se construye una palabra que mueve multitudes.",
-      "titulo": "Grandes discursos que cambiaron la historia"
+     "fecha": "2026-10-22",
+     "titulo": "Tylenol 1982: retirar 31 millones de frascos para salvar la marca"
     },
     {
-      "episodios": [
-        {
-          "fecha": "2026-11-08",
-          "titulo": "1976: el Juicio de París, la cata que humilló a Francia"
-        },
-        {
-          "fecha": "2026-11-09",
-          "titulo": "1855: la clasificación de Burdeos que sigue vigente"
-        },
-        {
-          "fecha": "2026-11-10",
-          "titulo": "Escoffier y la brigada: la cocina como una orquesta"
-        },
-        {
-          "fecha": "2026-11-11",
-          "titulo": "El tequila y su denominación de origen: cómo una bebida se vuelve un lugar"
-        },
-        {
-          "fecha": "2026-11-12",
-          "titulo": "1825: Brillat-Savarin y la invención del gourmet"
-        },
-        {
-          "fecha": "2026-11-13",
-          "titulo": "Síntesis: qué hace que algo sepa a lujo"
-        }
-      ],
-      "estado": "terminada",
-      "id": "t04",
-      "numero": 4,
-      "para": "Vino, cocina y los oficios detrás del buen gusto.",
-      "titulo": "El arte de la mesa"
+     "fecha": "2026-10-23",
+     "titulo": "Kodak inventó la cámara digital en 1975 y la guardó"
     },
     {
-      "episodios": [
-        {
-          "fecha": "2026-11-14",
-          "titulo": "c. 240 a. C.: Eratóstenes mide la Tierra con una sombra"
-        },
-        {
-          "fecha": "2026-11-15",
-          "titulo": "1610: Galileo apunta su telescopio a Júpiter"
-        },
-        {
-          "fecha": "2026-11-16",
-          "titulo": "1919: un eclipse le da la razón a Einstein"
-        },
-        {
-          "fecha": "2026-11-17",
-          "titulo": "1929: Hubble descubre que el universo se expande"
-        },
-        {
-          "fecha": "2026-11-18",
-          "titulo": "2022: el James Webb y la luz más antigua"
-        },
-        {
-          "fecha": "2026-11-19",
-          "titulo": "Síntesis: cómo sabemos lo que sabemos del cielo"
-        }
-      ],
-      "estado": "terminada",
-      "id": "t05",
-      "numero": 5,
-      "para": "Cómo aprendimos dónde estamos en el universo.",
-      "titulo": "El cosmos: del cielo de los griegos al telescopio James Webb"
+     "fecha": "2026-10-24",
+     "titulo": "Stockdale: siete años y medio en Hanói con un manual estoico"
     },
     {
-      "episodios": [
-        {
-          "fecha": "2026-11-20",
-          "titulo": "1853: Haussmann abre París a cuchillo"
-        },
-        {
-          "titulo": "1858: Worth firma sus vestidos e inventa la alta costura",
-          "fecha": "2026-11-21"
-        },
-        {
-          "titulo": "1900: la Exposición Universal y el metro de Guimard"
-        },
-        {
-          "titulo": "1947: el New Look de Dior devuelve el lujo a París"
-        },
-        {
-          "titulo": "El café de París: de Le Procope a Les Deux Magots"
-        },
-        {
-          "titulo": "Síntesis: cómo una ciudad se vuelve sinónimo de buen gusto"
-        }
-      ],
-      "estado": "en_curso",
-      "id": "t06",
-      "numero": 6,
-      "para": "Moda, perfume, urbanismo y cultura francesa.",
-      "titulo": "París: cómo se hizo la capital del gusto"
-    },
-    {
-      "episodios": [],
-      "estado": "pendiente",
-      "id": "t07",
-      "numero": 7,
-      "para": "Sus textos, sus ideas y su huella en el arte y la política.",
-      "titulo": "Las religiones que formaron el mundo"
-    },
-    {
-      "episodios": [],
-      "estado": "pendiente",
-      "id": "t08",
-      "numero": 8,
-      "para": "Autores, escenas y fotografía que conviene conocer.",
-      "titulo": "Cine: los directores que cambiaron la mirada"
-    },
-    {
-      "episodios": [],
-      "estado": "pendiente",
-      "id": "t09",
-      "numero": 9,
-      "para": "Pensamiento crítico y defensa contra la persuasión.",
-      "titulo": "Cómo te manipulan"
-    },
-    {
-      "episodios": [],
-      "estado": "pendiente",
-      "id": "t10",
-      "numero": 10,
-      "para": "Derecho con historia y consecuencias.",
-      "titulo": "Juicios que cambiaron el mundo"
-    },
-    {
-      "episodios": [],
-      "estado": "pendiente",
-      "id": "t11",
-      "numero": 11,
-      "para": "Las casas de lujo y lo que enseñan sobre el valor.",
-      "titulo": "Cómo se construye una marca que dura"
-    },
-    {
-      "episodios": [],
-      "estado": "pendiente",
-      "id": "t12",
-      "numero": 12,
-      "para": "Obras y compositores que conviene saber escuchar.",
-      "titulo": "La música que hay que conocer"
-    },
-    {
-      "episodios": [],
-      "estado": "pendiente",
-      "id": "t13",
-      "numero": 13,
-      "para": "Entender el país con contexto.",
-      "titulo": "México que no te contaron"
-    },
-    {
-      "episodios": [],
-      "estado": "pendiente",
-      "id": "t14",
-      "numero": 14,
-      "para": "Los secretos de las pinturas más famosas.",
-      "titulo": "Historias detrás de las obras"
-    },
-    {
-      "episodios": [],
-      "estado": "pendiente",
-      "id": "t15",
-      "numero": 15,
-      "para": "Arquitectura que se recuerda, de Roma a Barragán.",
-      "titulo": "Edificios que cambiaron cómo vivimos"
-    },
-    {
-      "episodios": [],
-      "estado": "pendiente",
-      "id": "t16",
-      "numero": 16,
-      "para": "Los relatos que explican nuestras palabras y obsesiones.",
-      "titulo": "Mitos griegos que seguimos viviendo"
+     "fecha": "2026-10-25",
+     "titulo": "Síntesis: tu manual para decidir bajo presión"
     }
-  ]
+   ],
+   "estado": "terminada",
+   "id": "t01",
+   "numero": 1,
+   "para": "Criterio para decidir con información incompleta.",
+   "titulo": "Decisiones bajo presión"
+  },
+  {
+   "episodios": [
+    {
+     "fecha": "2026-10-27",
+     "titulo": "1401: el concurso de las puertas que inventó el Renacimiento"
+    },
+    {
+     "fecha": "2026-10-28",
+     "titulo": "Los Medici: el banco que gobernó una ciudad sin ocupar el trono"
+    },
+    {
+     "fecha": "2026-10-30",
+     "titulo": "1497: Savonarola y la hoguera de las vanidades"
+    },
+    {
+     "fecha": "2026-10-31",
+     "titulo": "El David: el bloque de mármol que nadie quería"
+    },
+    {
+     "fecha": "2026-11-01",
+     "titulo": "1513: Maquiavelo escribe en el exilio"
+    },
+    {
+     "fecha": "2026-11-02",
+     "titulo": "Síntesis: lo que Florencia enseña sobre arte, dinero y poder"
+    }
+   ],
+   "estado": "terminada",
+   "id": "t02",
+   "numero": 2,
+   "para": "Arte, poder y dinero en la ciudad de los Medici.",
+   "titulo": "Florencia: la ciudad que inventó el Renacimiento"
+  },
+  {
+   "episodios": [
+    {
+     "fecha": "2026-11-03",
+     "titulo": "431 a. C.: Pericles convierte un funeral en un manifiesto"
+    },
+    {
+     "fecha": "2026-11-04",
+     "titulo": "1588: Isabel I en Tilbury, un discurso a caballo"
+    },
+    {
+     "fecha": "2026-11-05",
+     "titulo": "1940: Churchill y las playas, cómo hablar cuando vas perdiendo"
+    },
+    {
+     "fecha": "2026-11-06",
+     "titulo": "1964: Mandela en el banquillo, el alegato que lo hizo símbolo"
+    },
+    {
+     "fecha": "2026-11-07",
+     "titulo": "Síntesis: cómo se construye una palabra que mueve multitudes"
+    }
+   ],
+   "estado": "terminada",
+   "id": "t03",
+   "numero": 3,
+   "para": "De Pericles a Martin Luther King: cómo se construye una palabra que mueve multitudes.",
+   "titulo": "Grandes discursos que cambiaron la historia"
+  },
+  {
+   "episodios": [
+    {
+     "fecha": "2026-11-08",
+     "titulo": "1976: el Juicio de París, la cata que humilló a Francia"
+    },
+    {
+     "fecha": "2026-11-09",
+     "titulo": "1855: la clasificación de Burdeos que sigue vigente"
+    },
+    {
+     "fecha": "2026-11-10",
+     "titulo": "Escoffier y la brigada: la cocina como una orquesta"
+    },
+    {
+     "fecha": "2026-11-11",
+     "titulo": "El tequila y su denominación de origen: cómo una bebida se vuelve un lugar"
+    },
+    {
+     "fecha": "2026-11-12",
+     "titulo": "1825: Brillat-Savarin y la invención del gourmet"
+    },
+    {
+     "fecha": "2026-11-13",
+     "titulo": "Síntesis: qué hace que algo sepa a lujo"
+    }
+   ],
+   "estado": "terminada",
+   "id": "t04",
+   "numero": 4,
+   "para": "Vino, cocina y los oficios detrás del buen gusto.",
+   "titulo": "El arte de la mesa"
+  },
+  {
+   "episodios": [
+    {
+     "fecha": "2026-11-14",
+     "titulo": "c. 240 a. C.: Eratóstenes mide la Tierra con una sombra"
+    },
+    {
+     "fecha": "2026-11-15",
+     "titulo": "1610: Galileo apunta su telescopio a Júpiter"
+    },
+    {
+     "fecha": "2026-11-16",
+     "titulo": "1919: un eclipse le da la razón a Einstein"
+    },
+    {
+     "fecha": "2026-11-17",
+     "titulo": "1929: Hubble descubre que el universo se expande"
+    },
+    {
+     "fecha": "2026-11-18",
+     "titulo": "2022: el James Webb y la luz más antigua"
+    },
+    {
+     "fecha": "2026-11-19",
+     "titulo": "Síntesis: cómo sabemos lo que sabemos del cielo"
+    }
+   ],
+   "estado": "terminada",
+   "id": "t05",
+   "numero": 5,
+   "para": "Cómo aprendimos dónde estamos en el universo.",
+   "titulo": "El cosmos: del cielo de los griegos al telescopio James Webb"
+  },
+  {
+   "episodios": [
+    {
+     "fecha": "2026-11-20",
+     "titulo": "1853: Haussmann abre París a cuchillo"
+    },
+    {
+     "fecha": "2026-11-21",
+     "titulo": "1858: Worth firma sus vestidos e inventa la alta costura"
+    },
+    {
+     "titulo": "1900: la Exposición Universal y el metro de Guimard",
+     "fecha": "2026-11-23"
+    },
+    {
+     "titulo": "1947: el New Look de Dior devuelve el lujo a París"
+    },
+    {
+     "titulo": "El café de París: de Le Procope a Les Deux Magots"
+    },
+    {
+     "titulo": "Síntesis: cómo una ciudad se vuelve sinónimo de buen gusto"
+    }
+   ],
+   "estado": "en_curso",
+   "id": "t06",
+   "numero": 6,
+   "para": "Moda, perfume, urbanismo y cultura francesa.",
+   "titulo": "París: cómo se hizo la capital del gusto"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t07",
+   "numero": 7,
+   "para": "Sus textos, sus ideas y su huella en el arte y la política.",
+   "titulo": "Las religiones que formaron el mundo"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t08",
+   "numero": 8,
+   "para": "Autores, escenas y fotografía que conviene conocer.",
+   "titulo": "Cine: los directores que cambiaron la mirada"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t09",
+   "numero": 9,
+   "para": "Pensamiento crítico y defensa contra la persuasión.",
+   "titulo": "Cómo te manipulan"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t10",
+   "numero": 10,
+   "para": "Derecho con historia y consecuencias.",
+   "titulo": "Juicios que cambiaron el mundo"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t11",
+   "numero": 11,
+   "para": "Las casas de lujo y lo que enseñan sobre el valor.",
+   "titulo": "Cómo se construye una marca que dura"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t12",
+   "numero": 12,
+   "para": "Obras y compositores que conviene saber escuchar.",
+   "titulo": "La música que hay que conocer"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t13",
+   "numero": 13,
+   "para": "Entender el país con contexto.",
+   "titulo": "México que no te contaron"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t14",
+   "numero": 14,
+   "para": "Los secretos de las pinturas más famosas.",
+   "titulo": "Historias detrás de las obras"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t15",
+   "numero": 15,
+   "para": "Arquitectura que se recuerda, de Roma a Barragán.",
+   "titulo": "Edificios que cambiaron cómo vivimos"
+  },
+  {
+   "episodios": [],
+   "estado": "pendiente",
+   "id": "t16",
+   "numero": 16,
+   "para": "Los relatos que explican nuestras palabras y obsesiones.",
+   "titulo": "Mitos griegos que seguimos viviendo"
+  }
+ ]
 }

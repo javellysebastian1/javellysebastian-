@@ -1,0 +1,888 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-23",
+ "numero": 32,
+ "fecha": "2026-11-23",
+ "disponibleDesde": "2026-11-23T08:00:00-06:00",
+ "titulo": "1900: la Exposición Universal y el metro de Guimard",
+ "temporada": {
+  "id": "t06",
+  "numero": 6,
+  "titulo": "París: cómo se hizo la capital del gusto",
+  "episodio": 3,
+  "totalEpisodios": 6
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abbesses_(Paris_M%C3%A9tro).jpg?width=900",
+  "alt": "Entrada de metro con techo de vidrio en forma de abanico y estructura de hierro verde con ornamentos vegetales",
+  "pie": "La entrada de Guimard en Abbesses, en Montmartre: una de las dos marquesinas originales que siguen en pie.",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "origen": "Edición #31",
+   "pregunta": "¿Qué hizo Charles Frederick Worth que ninguna costurera había hecho?",
+   "respuesta": "Diseñar él las colecciones, presentarlas sobre modelos vivos y coser su nombre en cada vestido, como una firma."
+  },
+  {
+   "origen": "Edición #29",
+   "pregunta": "¿Qué es el paralaje?",
+   "respuesta": "El cambio aparente de posición de un objeto cuando se mira desde dos puntos distintos; con él se miden las distancias a las estrellas cercanas."
+  },
+  {
+   "origen": "Edición #27",
+   "pregunta": "¿Qué descubrió Hubble en 1929?",
+   "respuesta": "Que las galaxias se alejan más rápido cuanto más lejos están: el universo se expande."
+  }
+ ],
+ "noticias": [
+  {
+   "id": "n1",
+   "ambito": "jalisco",
+   "ambitoTexto": "Guadalajara",
+   "fecha": "2026-11-22",
+   "historiaEnCurso": {
+    "id": "agua-gdl",
+    "titulo": "Crisis del agua en Guadalajara",
+    "capitulo": 17,
+    "dondeIbamos": "El 19 de noviembre el SIAPA dijo que dos de tres bombeos de emergencia ya operan, de 680 litros por segundo cada uno. El tercero llegaría a principios de diciembre."
+   },
+   "titular": "Cuarta marcha por el agua limpia: organizaciones denuncian plomo y otros metales en la red",
+   "quePaso": "El domingo 22 salió del Parque Rojo la cuarta **Megamarcha por el Agua Limpia**. Recorrió avenida Juárez hasta Plaza de Armas y Palacio de Gobierno. Zonadocs calculó unas mil personas; UnoTV, unas 1,200.\n\nEl mismo día, María González Valencia, coordinadora del [[Imdec|Instituto Mexicano para el Desarrollo Comunitario, organización civil de Guadalajara.]], dijo a la agencia EFE que las organizaciones detectaron **plomo, hierro, cromo, bromo, aluminio y zinc** en el agua potable. También nitratos, nitritos fuera de norma y, en semanas recientes, coliformes fecales.",
+   "contexto": "**Hecho:** las exigencias fueron alerta sanitaria, investigar a las empresas que contaminan las fuentes, rechazar nuevos medidores y la privatización, y justicia por las 39 personas detenidas en octubre.\n\n**Hecho:** según las organizaciones, al menos 320 colonias han tenido desabasto o contaminación. La nota no nombra el laboratorio ni dice de dónde salieron las muestras, y no reporta respuesta del SIAPA sobre los metales.\n\n**Hecho:** el gobernador Pablo Lemus reconoció el 19 de noviembre que la crisis no ha terminado, pero dijo que el sistema está «en una ruta de solución». Con tres bombeos se recuperarían unos 2,100 de los 2,500 litros por segundo perdidos por el cierre de Las Pintas.\n\n**Interpretación:** el problema ya no es solo cuánta agua llega, sino si se puede confiar en ella. Sin análisis públicos y de laboratorios identificados, la denuncia y la versión oficial no se pueden contrastar.",
+   "aMiQue": "Si fabricas o envasas en el AMG, no dependas de la red sin tratamiento propio: pide análisis a un laboratorio acreditado y guarda los resultados. La desconfianza también mueve consumo: más garrafón, más agua embotellada y más preguntas de clientes sobre el agua con la que se hace lo que vendes.",
+   "queVigilar": "El tercer bombeo, anunciado para el 2 o 3 de diciembre. Si el SIAPA o la Secretaría de Salud publican análisis que confirmen o desmientan los metales. Si se declara alerta sanitaria.",
+   "fuentes": [
+    {
+     "nombre": "Zonadocs: «¿Quién dio la orden?»: cuarta marcha por el agua en Guadalajara (22 nov 2026)",
+     "url": "https://www.zonadocs.mx/2026/11/22/quien-dio-la-orden-cuarta-marcha-por-el-agua-en-guadalajara-exige-justicia-y-agua-limpia/"
+    },
+    {
+     "nombre": "UnoTV: Megamarcha por el agua limpia avanza en Guadalajara (22 nov 2026)",
+     "url": "https://www.unotv.com/estados/jalisco/megamarcha-por-el-agua-limpia-avanza-en-guadalajara-exige-atender-contaminacion-y-crisis-del-siapa/"
+    },
+    {
+     "nombre": "El Imparcial: Denuncian plomo y otros metales pesados en el agua potable de Guadalajara (22 nov 2026)",
+     "url": "https://www.elimparcial.com/mexico/2026/11/22/denuncian-presencia-de-plomo-y-otros-metales-pesados-en-el-agua-potable-de-guadalajara-exigen-alerta-sanitaria-tras-meses-de-contaminacion-y-desabasto-en-320-colonias/"
+    },
+    {
+     "nombre": "Crónica Jalisco: Jalisco prevé recuperar en diciembre el abasto perdido por Las Pintas (19 nov 2026)",
+     "url": "https://www.cronica.com.mx/jalisco/guadalajara/2026/11/19/jalisco-preve-recuperar-en-diciembre-el-abasto-de-agua-perdido-por-cierre-de-las-pintas/"
+    }
+   ]
+  },
+  {
+   "id": "n2",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-11-23",
+   "historiaEnCurso": {
+    "id": "tasas-banxico",
+    "titulo": "Tasas de Banxico y el peso",
+    "capitulo": 8,
+    "dondeIbamos": "El viernes 20 el dólar cerró en 19.1631 pesos según Banxico: el peso perdió 3.40% en la semana, su peor semana en meses."
+   },
+   "titular": "El peso empieza la semana arriba de 19 por dólar; el martes llega la inflación",
+   "quePaso": "En la madrugada del lunes 23, el peso **se mantenía por encima de 19 unidades por dólar**, según N+. No hubo rebote tras la peor semana en meses.\n\nEl dato clave de la semana llega el **martes 24**: el INEGI publica la inflación de la primera quincena de noviembre.",
+   "contexto": "**Hecho:** el mercado sigue preocupado por el [[diferencial de tasas|Diferencia entre la tasa de interés de México y la de Estados Unidos; si se achica, invertir en pesos atrae menos.]] entre Banxico y la Fed.\n\n**Hecho:** Banxico considera que la debilidad del peso tendrá «un efecto limitado sobre la inflación», según N+.\n\n**Interpretación:** si la inflación del martes sale alta, Banxico tendrá menos espacio para bajar tasas, y eso puede sostener al peso. Si sale baja, el mercado apostará por más recortes y el peso podría seguir débil.",
+   "aMiQue": "Los insumos que pagas en dólares siguen caros: envases, saborizantes, materias primas. Antes de fijar precios de enero, espera al dato del martes y usa un tipo de cambio de trabajo prudente, no el de octubre.",
+   "queVigilar": "La inflación de la primera quincena de noviembre (martes 24). Si el dólar se aleja de 19 o se acerca a 19.50.",
+   "fuentes": [
+    {
+     "nombre": "N+: Precio del dólar hoy lunes 23 de noviembre de 2026",
+     "url": "https://www.nmas.com.mx/economia/dolar/precio-del-dolar-hoy-lunes-23-de-noviembre-de-2026-como-esta-el-tipo-de-cambio/"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "París estrenó metro en 1900 con entradas que parecían plantas de hierro. Cuatro años después, a su autor le dijeron que no frente a la Ópera.",
+    "contexto": "París, 1900. La ciudad recibe la [[Exposición Universal|Gran feria internacional en la que los países mostraban su industria, su arte y sus inventos.]] desde el 14 de abril. El 19 de julio abre la línea 1 del metro, de Porte de Vincennes a Porte Maillot.\n\nPara las entradas, la compañía del metro había hecho un concurso. Las propuestas eran demasiado voluminosas para las banquetas. Entonces Adrien Bénard, el financiero que impulsaba la obra, propuso a un arquitecto que ni siquiera había concursado: Hector Guimard, de 32 años.\n\nGuimard dibujó tallos de hierro verde que se doblan como flores, con lámparas en la punta, y un letrero con letras que parecen crecer: «Métropolitain». Era puro [[art nouveau|Estilo de fines del siglo XIX y principios del XX que imitaba las curvas de la naturaleza y rechazaba copiar estilos antiguos.]].\n\nEn 1904 le tocó diseñar la entrada de la estación Opéra, justo frente al edificio de Charles Garnier.",
+    "pregunta": "¿Qué pasó con el diseño de Guimard para la Ópera?",
+    "opciones": [
+     "Se construyó y se volvió la entrada más famosa de París",
+     "Lo rechazaron y pusieron una entrada clásica de mármol",
+     "Garnier lo aprobó, pero con la condición de pintarlo de dorado"
+    ],
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abbesses_(Paris_M%C3%A9tro).jpg?width=900",
+     "alt": "Entrada de metro con techo de vidrio en forma de abanico y estructura de hierro verde con ornamentos vegetales",
+     "pie": "La entrada de Guimard en Abbesses, en Montmartre: una de las dos marquesinas originales que siguen en pie.",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Un metro para una feria y un arquitecto sin concurso",
+    "texto": "París llegaba tarde. Londres tenía metro desde 1863. La Exposición de 1900 convenció a la ciudad de que no podía esperar más. El ingeniero [[Fulgence Bienvenüe|Ingeniero francés que dirigió la construcción del metro de París; lo llaman «el padre del metro».]] abrió las calles y la línea 1 empezó a funcionar en pleno verano.\n\nArriba, en la calle, quedaba un problema. ¿Cómo debe verse la puerta a un tren subterráneo? No había tradición. Las propuestas del concurso eran pesadas, como pequeñas casas de piedra.\n\nGuimard pensó al revés. En vez de un edificio, diseñó un **juego de piezas**: tallos, barandales con una «M», lámparas, letreros y marquesinas de vidrio. Todo en hierro fundido, hecho en fundición y armado en la calle. Las piezas se combinaban en varios tamaños: desde un simple barandal abierto hasta marquesinas con techo de vidrio en abanico.\n\nLas primeras entradas se instalaron en menos de seis meses desde el diseño. Para 1913 se habían hecho 141.\n\nLa crítica se dividió. Un crítico anónimo llamó «jeroglíficos desordenados» a sus letras. André Hallays escribió en *Le Temps* que el letrero confundía a los niños pequeños. A Guimard no le importó: en 1903 imprimió postales con el lema «le style Guimard».",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vue_panoramique_de_l'exposition_universelle_de_1900_-_Lucien_Baylac_pinx._LCCN2007681990.jpg?width=900",
+     "alt": "Vista aérea ilustrada de la Exposición Universal de 1900 junto al Sena, con pabellones y la Torre Eiffel",
+     "pie": "La Exposición Universal de 1900 vista desde el aire, en una ilustración de Lucien Baylac.",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "giro",
+    "titulo": "El no de la Ópera, y la revancha",
+    "texto": "La respuesta es la segunda. En 1904 el diseño de Guimard para la estación Opéra **fue rechazado**. *Le Figaro* se burló de sus «rampas contorsionadas» y sus «enormes lámparas de ojos de rana». Se dijo que no combinaba con la arquitectura de la plaza.\n\nLa entrada la hizo Joseph-Marie Cassien-Bernard, con barandales clásicos de mármol. Por ese rechazo y por los costos, la compañía del metro rompió con Guimard. Le compró los moldes y los derechos para seguir fundiendo sus piezas sin él.\n\nLuego vino algo peor: la moda cambió. Después de la Primera Guerra Mundial, el art nouveau pasó a verse anticuado. Muchas entradas se derribaron, empezando por las más elaboradas. Los tres pabellones, incluidos los de Bastille y Étoile, desaparecieron. Antes de la Segunda Guerra Mundial incluso se propuso convertir las que quedaban en chatarra.\n\nAquí está la sorpresa. En 1970 sobrevivían 91. Seis se protegieron como [[monumento histórico|Categoría legal francesa que protege un edificio u objeto por su valor histórico o artístico.]] en 1965 y el resto en 1978. Hoy quedan 86, y son la imagen de París en millones de postales. El diseño que la ciudad rechazó se volvió su firma.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Metro_de_Paris_detail_entree_Guimard.jpg?width=900",
+     "alt": "Detalle de una lámpara de hierro verde con forma de capullo en una entrada del metro de París",
+     "pie": "Detalle de una entrada de Guimard: el tallo de hierro termina en una lámpara que parece un brote.",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "Sistema antes que pieza",
+    "texto": "Guimard no diseñó 141 entradas. Diseñó **un sistema** y dejó que el sistema hiciera las entradas. Por eso pudo instalar decenas en meses, y por eso la compañía siguió fundiéndolas sin él.\n\nCómo aplicarlo a una marca o a un negocio:\n\n**1. Define pocas piezas.** Cinco a siete elementos que se repiten: una letra, un color, una forma, un material, un gesto.\n\n**2. Hazlas combinables.** Que funcionen solas y juntas, en grande y en chico. Un barandal sencillo y una marquesina completa eran del mismo idioma.\n\n**3. Escribe la regla, no cada caso.** Si alguien más puede armar una pieza nueva sin preguntarte, el sistema funciona.\n\n**4. Acepta el riesgo del estilo fuerte.** Un sistema con carácter divide opiniones al principio. Lo tibio no se rechaza, pero tampoco se recuerda."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Guimard en la Ciudad de México",
+    "texto": "**En el metro Bellas Artes.** Si sales de la estación Bellas Artes, en la Ciudad de México, verás una entrada de Guimard con su letrero «Métropolitain». Llegó en 1998, enviada por la RATP, la empresa del metro de París. Hay otras en Montreal (1967), Lisboa, Chicago y Moscú. La mayoría son réplicas que París cedió a cambio de obras de arte.\n\n**Al lado, otro hijo de la misma época.** El Palacio de Bellas Artes se empezó en 1904, el año del rechazo de la Ópera. Su arquitecto, el italiano Adamo Boari, le dio un exterior lleno de curvas y motivos vegetales. Se inauguró hasta 1934, con un interior ya [[art déco|Estilo de los años veinte y treinta, de líneas geométricas y materiales lujosos; sucedió al art nouveau.]]: en un solo edificio se ve cómo cambió el gusto.\n\n**En una marca de consumo.** Una familia de etiquetas funciona como las entradas de Guimard: cada sabor cambia, pero la letra, el color y la forma dicen de quién es antes de leer el nombre.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Metro_Bellas_Artes_Mexico_df.JPG?width=900",
+     "alt": "Entrada de metro de hierro verde con letrero Métropolitain en una calle de la Ciudad de México",
+     "pie": "La entrada de Guimard en la estación Bellas Artes del metro de la Ciudad de México.",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿Tu marca es un conjunto de piezas sueltas o un sistema que otro podría continuar sin ti?",
+    "texto": "La prueba es sencilla: si mañana alguien de tu equipo diseña una etiqueta nueva, ¿se vería de inmediato que es tuya?"
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Diseña el sistema, no la pieza: el sistema sigue trabajando cuando tú ya no estás."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Smithsonian: Meet the designer of the fanciful subway entrances to the Paris Métro (en inglés)",
+   "url": "https://www.smithsonianmag.com/smithsonian-institution/meet-the-designer-of-the-fanciful-subway-entrances-to-the-paris-metro-180981369/",
+   "minutos": 6
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Cuándo abrió la línea 1 del metro de París y entre qué estaciones?",
+    "respuesta": "El 19 de julio de 1900, de Porte de Vincennes a Porte Maillot, en pleno año de la Exposición Universal."
+   },
+   {
+    "pregunta": "¿Qué pasó en 1904 con el diseño de Guimard para la estación Opéra?",
+    "respuesta": "Lo rechazaron por no combinar con la plaza; Cassien-Bernard hizo una entrada clásica de mármol y la compañía rompió con Guimard."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Wikipedia (en): Paris Métro entrances by Hector Guimard",
+    "url": "https://en.wikipedia.org/wiki/Paris_M%C3%A9tro_entrances_by_Hector_Guimard"
+   },
+   {
+    "nombre": "Smithsonian Magazine: Meet the designer of the fanciful subway entrances to the Paris Métro",
+    "url": "https://www.smithsonianmag.com/smithsonian-institution/meet-the-designer-of-the-fanciful-subway-entrances-to-the-paris-metro-180981369/"
+   },
+   {
+    "nombre": "ArchDaily: AD Classics, Paris Métro Entrance / Hector Guimard (2017)",
+    "url": "https://www.archdaily.com/870687"
+   },
+   {
+    "nombre": "Wikipedia (es): Metro de París",
+    "url": "https://es.wikipedia.org/wiki/Metro_de_Par%C3%ADs"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Mente y decisiones",
+   "pilar": "mente",
+   "formato": "queHarias",
+   "titulo": "La enfermedad asiática: dos frases iguales que hacen elegir lo contrario",
+   "contexto": "Estados Unidos se prepara para un brote de una enfermedad rara que podría matar a 600 personas. Hay dos programas.\n\n**Programa A:** se salvan 200 personas.\n\n**Programa B:** hay una probabilidad de un tercio de salvar a las 600, y de dos tercios de que no se salve nadie.\n\nAsí se lo plantearon Amos Tversky y Daniel Kahneman a 152 personas en un experimento publicado en *Science* en 1981.",
+   "pregunta": "¿Cuál eliges?",
+   "opciones": [
+    "El programa A: 200 vidas seguras",
+    "El programa B: me arriesgo por las 600"
+   ],
+   "revelacion": "El 72% eligió **A**. Lo seguro gana cuando se habla de salvar.\n\nLuego cambiaron solo las palabras para otro grupo de 155. **Programa C:** morirán 400 personas. **Programa D:** un tercio de probabilidad de que no muera nadie y dos tercios de que mueran las 600. Son exactamente los mismos números. Pero ahora el 78% eligió **D**, la apuesta.\n\nEs el [[efecto marco|Sesgo por el que la misma información, presentada como ganancia o como pérdida, produce decisiones distintas.]]. Cuando la opción se presenta como ganancia, evitamos el riesgo. Cuando se presenta como pérdida, lo buscamos. Ninguna respuesta es «la correcta»: lo raro es que la misma persona cambie de opinión por cómo se dice. Este trabajo forma parte de la [[teoría prospectiva|Modelo de Kahneman y Tversky sobre cómo decidimos con riesgo: las pérdidas pesan más que las ganancias equivalentes.]].",
+   "idea": "Antes de decidir, reescribe la opción al revés: si cambias de opinión, te estaba decidiendo la frase.",
+   "fuente": {
+    "nombre": "Tversky y Kahneman (1981): The Framing of Decisions and the Psychology of Choice, Science",
+    "url": "https://fermatslibrary.com/s/the-framing-of-decisions-and-the-psychology-of-choice"
+   },
+   "wiki": "Efecto marco",
+   "claves": [
+    {
+     "nombre": "Daniel Kahneman",
+     "quien": "Psicólogo israelí-estadounidense, Nobel de Economía 2002 por su trabajo sobre decisiones con incertidumbre.",
+     "wiki": "Daniel Kahneman"
+    },
+    {
+     "nombre": "Amos Tversky",
+     "quien": "Psicólogo israelí, socio de Kahneman en los experimentos que fundaron la economía conductual.",
+     "wiki": "Amos Tversky"
+    },
+    {
+     "nombre": "Teoría prospectiva",
+     "quien": "La teoría de 1979 que explica por qué perder duele más de lo que alegra ganar.",
+     "wiki": "Teoría prospectiva"
+    }
+   ],
+   "repaso": {
+    "pregunta": "En el experimento de 1981, ¿qué cambió entre los programas A/B y C/D?",
+    "respuesta": "Solo las palabras: «se salvan 200» frente a «mueren 400». Los números eran iguales, pero la mayoría pasó de elegir lo seguro (72%) a elegir la apuesta (78%)."
+   }
+  },
+  {
+   "materia": "Relaciones y vida social",
+   "pilar": "caracter",
+   "formato": "elCaso",
+   "titulo": "Madame Geoffrin: la hija de un ayuda de cámara que reunía a la Ilustración los lunes y los miércoles",
+   "contexto": "París, 1750. Marie-Thérèse Geoffrin no fue a la escuela. Su padre era [[ayuda de cámara|Sirviente encargado del cuidado personal de un señor o una señora de la nobleza.]] de la duquesa de Borgoña. La casaron a los 14 años con un rico fabricante de 49.\n\nSin títulos ni linaje, organizó en su casa de la rue Saint-Honoré uno de los [[salones|Reuniones privadas y periódicas donde se conversaba de arte, ideas y política; fueron centrales en la Ilustración francesa.]] más influyentes de Europa. Por su mesa pasaron Montesquieu, Fontenelle, d'Alembert y Marmontel.",
+   "pregunta": "¿Cuál fue su método para que funcionara?",
+   "opciones": [
+    "Invitar a todos juntos cada noche, sin orden",
+    "Días fijos por grupo: los lunes artistas, los miércoles escritores y filósofos",
+    "Cobrar una cuota a los invitados para pagar las cenas"
+   ],
+   "correcta": 1,
+   "revelacion": "Geoffrin organizaba **cenas semanales a la una de la tarde, con días fijos**: los lunes para artistas y los miércoles para hombres de letras. Cada grupo sabía cuándo le tocaba y con quién iba a hablar.\n\nNo era solo hospitalidad. Ella conectaba mundos que no se tocaban: conoció en 1753 al joven polaco que luego sería el rey Estanislao Augusto, y años después lo asesoró en sus compras de arte. Fue generosa con sus invitados: a uno, el escritor Thomas, le regaló 2,000 escudos de oro.\n\nLa evidencia moderna le da la razón. El sociólogo Mark Granovetter mostró en 1973 la [[fuerza de los lazos débiles|Idea de que los conocidos lejanos traen más información nueva que los amigos cercanos, porque se mueven en otros círculos.]]: los conocidos que vemos poco nos conectan con oportunidades que nuestros amigos íntimos no tienen. Un buen anfitrión fabrica esos lazos a propósito.",
+   "idea": "La regularidad crea comunidad: un día fijo y una mesa bien pensada valen más que una gran fiesta.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anicet-Charles-Gabriel_Lemonnier_-_In_the_Salon_of_Madame_Geoffrin_in_1755_-_WGA12652.jpg?width=900",
+    "alt": "Pintura de un salón elegante del siglo XVIII lleno de personas escuchando una lectura",
+    "pie": "«En el salón de Madame Geoffrin en 1755», pintado por Lemonnier hacia 1812.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (en): Marie Thérèse Rodet Geoffrin",
+    "url": "https://en.wikipedia.org/wiki/Marie_Th%C3%A9r%C3%A8se_Geoffrin"
+   },
+   "wiki": "Marie-Thérèse Rodet Geoffrin",
+   "claves": [
+    {
+     "nombre": "Salón literario",
+     "quien": "La institución social que Geoffrin perfeccionó: conversación regular entre personas de distintos mundos.",
+     "wiki": "Salón literario"
+    },
+    {
+     "nombre": "Jean le Rond d'Alembert",
+     "quien": "Matemático y coeditor de la Enciclopedia, asiduo de su mesa.",
+     "wiki": "Jean le Rond d'Alembert"
+    },
+    {
+     "nombre": "Lazos interpersonales",
+     "quien": "Lo que estudia la sociología de redes: lazos fuertes, débiles y ausentes.",
+     "wiki": "Lazos interpersonales"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo organizaba Madame Geoffrin su salón?",
+    "respuesta": "Con cenas semanales a la una y días fijos: lunes para artistas, miércoles para escritores y filósofos."
+   }
+  },
+  {
+   "materia": "Inversión y finanzas personales",
+   "pilar": "patrimonio",
+   "formato": "elCaso",
+   "titulo": "El señor Mercado: el socio de humor cambiante que inventó Benjamin Graham",
+   "contexto": "Nueva York, 1949. Benjamin Graham, profesor en Columbia y maestro de Warren Buffett, publica *El inversor inteligente*. En el capítulo 8 propone imaginar algo.\n\nTienes una parte de un negocio privado. Tu socio, el **señor Mercado**, toca a tu puerta todos los días. Te ofrece comprarte tu parte o venderte la suya, a un precio distinto cada vez. Unos días está eufórico y pide muchísimo. Otros está deprimido y casi regala su parte.",
+   "pregunta": "Según Graham, ¿cómo hay que tratar al señor Mercado?",
+   "opciones": [
+    "Hacerle caso: si el precio baja, algo malo sabe",
+    "Usar sus precios solo cuando te convengan e ignorarlo el resto del tiempo",
+    "Comprar siempre que él compre y vender cuando venda"
+   ],
+   "correcta": 1,
+   "revelacion": "La respuesta es la segunda. El señor Mercado **no es tu jefe ni tu consejero**: es alguien que te ofrece precios. Tú decides si te sirven. Si su ánimo no te conviene, no tienes que tratar con él.\n\nLa idea separa dos cosas que solemos mezclar: el **precio** que alguien ofrece hoy y el **valor** del negocio. El precio cambia con el humor; el valor depende de lo que el negocio produce. Graham lo unió a otro concepto famoso del libro: el [[margen de seguridad|Diferencia entre el valor que uno estima de algo y el precio que paga; sirve de colchón ante errores de cálculo.]].\n\nBuffett contó esta parábola a sus accionistas en la carta de 1987 y llamó a *El inversor inteligente* «el mejor libro sobre inversión jamás escrito». Esto es historia de una idea, no una recomendación de comprar o vender nada.",
+   "idea": "El precio de hoy es una oferta, no un veredicto.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Benjamin_Graham_(1894-1976)_portrait_on_23_March_1950.jpg?width=900",
+    "alt": "Retrato en blanco y negro de un hombre de traje y corbata con gafas",
+    "pie": "Benjamin Graham en 1950, un año después de publicar El inversor inteligente.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (en): Mr. Market",
+    "url": "https://en.wikipedia.org/wiki/Mr._Market"
+   },
+   "wiki": "El inversor inteligente",
+   "claves": [
+    {
+     "nombre": "Benjamin Graham",
+     "quien": "Economista e inversionista británico-estadounidense, padre del análisis de valor.",
+     "wiki": "Benjamin Graham"
+    },
+    {
+     "nombre": "Warren Buffett",
+     "quien": "Su alumno más famoso; popularizó la parábola en sus cartas a los accionistas de Berkshire Hathaway.",
+     "wiki": "Warren Buffett"
+    },
+    {
+     "nombre": "Inversión en valor",
+     "quien": "La escuela que nació de Graham: comparar el precio con el valor del negocio.",
+     "wiki": "Inversión en valor"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué enseña la parábola del señor Mercado?",
+    "respuesta": "Que el precio diario es una oferta de un socio de humor cambiante: se usa cuando conviene y se ignora cuando no; no dice por sí solo cuánto vale el negocio."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "sigueDinero",
+   "titulo": "MS-DOS: Microsoft compró un programa por 75,000 dólares y se quedó con el derecho de licenciarlo a todos",
+   "contexto": "Seattle, 1980. Tim Paterson, de 24 años, programador de Seattle Computer Products, escribe en unos meses un sistema operativo. Lo llama QDOS: *Quick and Dirty Operating System*, «rápido y sucio».\n\nIBM prepara su computadora personal y necesita un sistema operativo. Microsoft, una empresa pequeña, no tiene uno.",
+   "pregunta": "¿Dónde estuvo el gran negocio de Microsoft?",
+   "opciones": [
+    "En venderle el programa a IBM a un precio muy alto",
+    "En comprar el programa barato y conservar el derecho de licenciarlo a otros fabricantes",
+    "En fabricar sus propias computadoras"
+   ],
+   "correcta": 1,
+   "revelacion": "Sigue el dinero. En diciembre de 1980 Microsoft pagó **25,000 dólares** por una licencia no exclusiva de 86-DOS, el nuevo nombre de QDOS. En julio de 1981 compró todos los derechos por **50,000 dólares** más.\n\nLa clave fue el contrato: el acuerdo con IBM permitió a Microsoft **vender el sistema a otras empresas**. IBM lo llamó PC DOS; Microsoft vendió MS-DOS a cada fabricante de computadoras compatibles. Producir una copia más costaba casi nada, y cada clon de IBM pagaba licencia.\n\nNo todo fue limpio: Seattle Computer Products demandó después y llegaron a un acuerdo de un millón de dólares. Para un emprendedor la lección es legal y económica: en un producto digital, el valor no está en la copia, está en **quién conserva los derechos**.",
+   "idea": "En lo digital, el contrato vale más que el código: quien conserva el derecho de licenciar se queda con la escala.",
+   "fuente": {
+    "nombre": "Wikipedia (en): 86-DOS",
+    "url": "https://en.wikipedia.org/wiki/86-DOS"
+   },
+   "wiki": "MS-DOS",
+   "claves": [
+    {
+     "nombre": "QDOS",
+     "quien": "El sistema de Tim Paterson del que nació MS-DOS.",
+     "wiki": "QDOS"
+    },
+    {
+     "nombre": "IBM PC",
+     "quien": "La computadora de 1981 que convirtió a DOS en estándar y abrió el mercado de clones.",
+     "wiki": "IBM PC"
+    },
+    {
+     "nombre": "Historia de Microsoft",
+     "quien": "De empresa pequeña de lenguajes de programación a gigante del software.",
+     "wiki": "Historia de Microsoft"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto pagó Microsoft por 86-DOS y qué conservó en el trato con IBM?",
+    "respuesta": "25,000 dólares por una licencia (1980) y 50,000 por todos los derechos (1981); conservó el derecho de licenciar el sistema a otros fabricantes."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Mente y decisiones",
+   "pilar": "mente",
+   "epoca": "1943",
+   "titulo": "El famoso avión lleno de agujeros no lo dibujó Abraham Wald",
+   "dato": "La historia dice que un matemático salvó bombarderos blindando donde no había balas. Puede ser cierta, pero el dibujo que circula es moderno y casi todo el relato es una reconstrucción.",
+   "explicacion": "Abraham Wald trabajó desde 1942 en el Grupo de Investigación Estadística de la Universidad de Columbia. Sus memorias de 1943 calculaban la probabilidad de que un avión sobreviviera según dónde lo impactaban. La idea es real: los aviones que regresan no muestran los golpes que derribaron a los que no volvieron. Eso es el [[sesgo del superviviente|Error de sacar conclusiones solo de los casos que sobrevivieron a un filtro, ignorando a los que no.]].\n\nPero la American Mathematical Society revisó los documentos: no aparece la frase sobre los motores ni los diagramas de aviones con puntos rojos. La historia «bien podría ser cierta», dice, pero es una reconstrucción plausible. La lección sirve doble: también las anécdotas sobre sesgos sobreviven por ser buenas, no por estar probadas.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Survivorship-bias.png?width=900",
+    "alt": "Silueta de un avión de la Segunda Guerra Mundial cubierta de puntos rojos en alas y cola",
+    "pie": "La ilustración moderna que suele acompañar la historia de Wald; no viene de sus documentos.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "American Mathematical Society: The Legend of Abraham Wald (2016)",
+    "url": "https://www.ams.org/samplings/feature-column/fc-2016-06"
+   },
+   "wiki": "Sesgo del superviviente",
+   "claves": [
+    {
+     "nombre": "Abraham Wald",
+     "quien": "Matemático nacido en 1902 en Cluj; pionero del análisis secuencial. Murió en 1950 en un accidente aéreo en la India.",
+     "wiki": "Abraham Wald"
+    },
+    {
+     "nombre": "Segunda Guerra Mundial",
+     "quien": "El contexto: los estadísticos ayudaron a decidir cómo proteger aviones y convoyes.",
+     "wiki": "Segunda Guerra Mundial"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué parte de la historia de Wald y los aviones está documentada?",
+    "respuesta": "Sus cálculos de 1943 sobre supervivencia según el impacto; el diagrama de puntos rojos y la frase de los motores no aparecen en sus documentos."
+   }
+  },
+  {
+   "materia": "Disciplina y hábitos",
+   "pilar": "caracter",
+   "epoca": "1993",
+   "titulo": "La «regla de las 10,000 horas» era un promedio, y su autor la desmintió",
+   "dato": "Los mejores violinistas del estudio de 1993 promediaban unas 10,000 horas de práctica a los 20 años. La mitad de ellos no llegaba a esa cifra.",
+   "explicacion": "Anders Ericsson estudió violinistas de una academia de música de Berlín. Malcolm Gladwell convirtió el resultado en una regla en su libro *Fuera de serie*. Ericsson respondió en 2016: el número «era solo un promedio», no tiene nada de mágico, y a los 18 años los mejores llevaban unas 7,400 horas. Gladwell, dice, afirmó por error que todos habían llegado a 10,000.\n\nLo importante era otra cosa: la [[práctica deliberada|Práctica con metas concretas, retroalimentación inmediata y ejercicios diseñados para mejorar puntos débiles.]]. No cualquier hora cuenta. Incluso los Beatles, el ejemplo de Gladwell, tocaron unas 1,100 horas en Hamburgo, según el historiador Mark Lewisohn, no 10,000.",
+   "fuente": {
+    "nombre": "Salon: Anders Ericsson, «Malcolm Gladwell got us wrong» (2016)",
+    "url": "https://www.salon.com/2016/04/10/malcolm_gladwell_got_us_wrong_our_research_was_key_to_the_10000_hour_rule_but_heres_what_got_oversimplified/"
+   },
+   "wiki": "Práctica deliberada",
+   "claves": [
+    {
+     "nombre": "Malcolm Gladwell",
+     "quien": "Periodista canadiense que popularizó la «regla de las 10,000 horas» en 2008.",
+     "wiki": "Malcolm Gladwell"
+    },
+    {
+     "nombre": "The Beatles",
+     "quien": "El ejemplo famoso de Gladwell; sus horas en Hamburgo fueron muchas menos.",
+     "wiki": "The Beatles"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué dijo Ericsson sobre la regla de las 10,000 horas?",
+    "respuesta": "Que era solo un promedio de los mejores violinistas a los 20 años, que la mitad no llegaba y que lo decisivo es la práctica deliberada, no las horas."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "epoca": "2020",
+   "titulo": "El Everest creció 86 centímetros en una conferencia de prensa",
+   "dato": "En diciembre de 2020, Nepal y China anunciaron juntos una nueva altura: 8,848.86 metros. Nepal usaba 8,848 desde un estudio de principios de los años cincuenta.",
+   "explicacion": "La montaña no saltó de golpe: cambió la medición. Durante décadas, los dos países que comparten la cumbre daban cifras distintas; la de China era unos cuatro metros más baja porque medía la roca, sin la nieve. En mayo de 2019 un equipo nepalí subió con equipo GPS, y China hizo su propia expedición en 2020.\n\nEl anuncio conjunto buscaba «poner fin a la controversia». Medir una montaña así no es trivial: hay que definir el nivel del mar bajo un continente, sumar la capa de nieve y considerar movimientos de la corteza, como el del terremoto de 2015.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount_Everest_North_Face.jpg?width=900",
+    "alt": "Cara norte del monte Everest cubierta de nieve bajo un cielo azul",
+    "pie": "La cara norte del Everest, vista desde el Tíbet.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Al Jazeera: Mt Everest: Nepal, China announce revised height (8 dic 2020)",
+    "url": "https://www.aljazeera.com/news/2020/12/8/mt-everest-nepal-china-announce-revised-height-at-8848-metres"
+   },
+   "wiki": "Monte Everest",
+   "claves": [
+    {
+     "nombre": "Nepal",
+     "quien": "País que comparte la cumbre con China y que hizo la expedición de medición de 2019.",
+     "wiki": "Nepal"
+    },
+    {
+     "nombre": "Tíbet",
+     "quien": "La región china desde la que se ve la cara norte de la montaña.",
+     "wiki": "Tíbet"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuál es la altura oficial del Everest desde 2020 y quién la anunció?",
+    "respuesta": "8,848.86 metros, anunciada en conjunto por Nepal y China en diciembre de 2020."
+   }
+  },
+  {
+   "materia": "Arte y pintura",
+   "pilar": "cultura",
+   "epoca": "2021",
+   "titulo": "La frase «solo pudo pintarlo un loco» en El grito la escribió el propio Munch",
+   "dato": "En la esquina de El grito de 1893 hay una inscripción a lápiz. En 2021 el Museo Nacional de Noruega concluyó, por análisis de letra, que es de Munch.",
+   "explicacion": "Durante décadas se pensó que la había escrito un visitante molesto. La traducción dice: «Solo pudo haber sido pintado por un loco». La conservadora Mai Britt Guleng lo dijo sin rodeos: la letra es, sin duda, del propio Munch. Se escribió con lápiz después de terminar la obra.\n\nLa teoría del museo es que reaccionaba a una crítica: en 1895, en un debate tras una exposición, el estudiante de medicina Johan Scharffenberg puso en duda su salud mental. Munch, cuya familia había vivido enfermedades mentales, habría convertido el insulto en parte de la obra. Es una teoría, no una prueba, pero cambia cómo se mira el cuadro.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Edvard_Munch,_1893,_The_Scream,_oil,_tempera_and_pastel_on_cardboard,_91_x_73_cm,_National_Gallery_of_Norway.jpg?width=900",
+    "alt": "Pintura de una figura que se lleva las manos a la cara sobre un puente bajo un cielo rojo y naranja",
+    "pie": "El grito (1893), de Edvard Munch, en el Museo Nacional de Oslo.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "CBS News: Mysterious message on «The Scream» was written by Munch himself (23 feb 2021)",
+    "url": "https://www.cbsnews.com/news/the-scream-hidden-message-edvard-munch-painted-by-a-madman"
+   },
+   "wiki": "El grito",
+   "claves": [
+    {
+     "nombre": "Edvard Munch",
+     "quien": "Pintor noruego (1863–1944), figura clave del expresionismo.",
+     "wiki": "Edvard Munch"
+    },
+    {
+     "nombre": "Galería Nacional de Noruega",
+     "quien": "Donde estuvo la versión de 1893; hoy forma parte del Museo Nacional de Oslo.",
+     "wiki": "Galería Nacional de Noruega"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Quién escribió la frase a lápiz en El grito de 1893?",
+    "respuesta": "El propio Munch, según el análisis de letra del Museo Nacional de Noruega publicado en 2021."
+   }
+  },
+  {
+   "materia": "Derecho y poder",
+   "pilar": "mundo",
+   "epoca": "1944",
+   "titulo": "La palabra «genocidio» la inventó un abogado en un libro de 1944",
+   "dato": "Antes de 1944 el crimen de destruir a un pueblo no tenía nombre. Raphael Lemkin, abogado judío polaco, lo bautizó.",
+   "explicacion": "Lemkin la usó por escrito en 1944 en su libro *Axis Rule in Occupied Europe*, sobre la ocupación nazi. Unió el griego *genos* (pueblo, raza) con el latín *-cidio* (matar). El Museo del Holocausto de Estados Unidos dice que la acuñó en 1942 y la publicó en 1944.\n\nUn nombre preciso permite una ley precisa. Lemkin dedicó el resto de su vida a que el mundo lo convirtiera en delito. Lo logró en 1948, cuando la ONU adoptó la [[Convención contra el Genocidio|Tratado de 1948 que define el genocidio como delito internacional y obliga a los Estados a prevenirlo y castigarlo.]].",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Raphael_Lemkin,_Photograph_6_(cropped).jpg?width=900",
+    "alt": "Fotografía en blanco y negro de un hombre de traje con gafas",
+    "pie": "Raphael Lemkin, el abogado que dio nombre al genocidio.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "United States Holocaust Memorial Museum: What is genocide?",
+    "url": "https://www.ushmm.org/genocide-prevention/learn-about-genocide-and-other-mass-atrocities/what-is-genocide"
+   },
+   "wiki": "Convención para la Prevención y la Sanción del Delito de Genocidio",
+   "claves": [
+    {
+     "nombre": "Raphael Lemkin",
+     "quien": "Jurista polaco (1900–1959) que creó el término y empujó la convención de la ONU.",
+     "wiki": "Raphael Lemkin"
+    },
+    {
+     "nombre": "Genocidio",
+     "quien": "El delito que nombró: destruir total o parcialmente a un grupo nacional, étnico, racial o religioso.",
+     "wiki": "Genocidio"
+    },
+    {
+     "nombre": "Holocausto",
+     "quien": "El crimen nazi que motivó su trabajo; Lemkin perdió a gran parte de su familia.",
+     "wiki": "Holocausto"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Quién inventó la palabra «genocidio» y de qué raíces viene?",
+    "respuesta": "Raphael Lemkin, en un libro de 1944; une el griego genos (pueblo) y el latín -cidio (matar)."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "epoca": "2014",
+   "titulo": "Flappy Bird dejaba miles de dólares al día y su creador lo borró",
+   "dato": "En febrero de 2014 Flappy Bird superaba los 50 millones de descargas. La prensa calculaba unos 50,000 dólares diarios en anuncios. Su autor lo retiró en 22 horas.",
+   "explicacion": "Dong Nguyen, un programador vietnamita, hizo un juego sencillo y gratis que vivía de la publicidad. Cada jugador nuevo no le costaba casi nada: es la magia de lo digital. La cifra de 50,000 dólares al día fue un reporte de prensa, no algo que él confirmara.\n\nEl 8 de febrero tuiteó: «Ya no puedo con esto». Dijo que lo odiaba y que lo quitaría en 22 horas. Al día siguiente ya no estaba en la App Store ni en Google Play. Las tiendas se llenaron de [[clones|Copias de un juego exitoso hechas por otros desarrolladores para aprovechar su fama.]]. La escala trae dinero y también presión, y no siempre se puede elegir una sin la otra.",
+   "fuente": {
+    "nombre": "NPR: Creator of runaway mobile hit Flappy Bird taking game down (8 feb 2014)",
+    "url": "https://www.npr.org/sections/alltechconsidered/2014/02/08/273662615/creator-of-runaway-mobile-hit-flappy-bird-taking-game-down"
+   },
+   "wiki": "Clon de videojuego",
+   "claves": [
+    {
+     "nombre": "Vietnam",
+     "quien": "El país de Dong Nguyen; su éxito puso a sus programadores en el mapa.",
+     "wiki": "Vietnam"
+    },
+    {
+     "nombre": "Google Play",
+     "quien": "Una de las dos tiendas de donde retiró el juego.",
+     "wiki": "Google Play"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué es dudosa la cifra de 50,000 dólares diarios de Flappy Bird?",
+    "respuesta": "Porque fue un cálculo de la prensa, no un dato confirmado por Dong Nguyen, que retiró el juego en febrero de 2014."
+   }
+  },
+  {
+   "materia": "El cosmos",
+   "pilar": "futuro",
+   "epoca": "2030",
+   "titulo": "La nave más grande que la NASA ha mandado a otro planeta llega a Júpiter en 2030",
+   "dato": "Con sus paneles abiertos, Europa Clipper mide más de 30.5 metros de punta a punta: más que una cancha de basquetbol.",
+   "explicacion": "Su destino es Europa, una luna de Júpiter que esconde un océano bajo el hielo. Está unas cinco veces más lejos del Sol que la Tierra, así que llega poca luz. Por eso cada panel solar mide 14.2 metros de largo y 4.1 de alto: los más grandes que la NASA ha hecho para una misión planetaria.\n\nLa nave despegó en octubre de 2024 y llegará a Júpiter en 2030. No aterrizará: hará decenas de sobrevuelos para medir el hielo y el océano. La pregunta de fondo es si allí hay condiciones para la vida.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Europa_Clipper_Solar_Array_Alignment,_Installation_and_Integrati_(KSC-20240807-PH-KLS01_0043).jpg?width=900",
+    "alt": "Técnicos con trajes blancos junto a un enorme panel solar de una nave espacial en una sala limpia",
+    "pie": "Instalación de los paneles solares de Europa Clipper en el Centro Espacial Kennedy, agosto de 2024.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "NASA JPL: NASA's Europa Clipper gets set of super-size solar arrays (27 ago 2024)",
+    "url": "https://www.jpl.nasa.gov/news/nasas-europa-clipper-gets-set-of-super-size-solar-arrays/"
+   },
+   "wiki": "Europa Clipper",
+   "claves": [
+    {
+     "nombre": "Europa (satélite)",
+     "quien": "Luna de Júpiter descubierta por Galileo en 1610; probable océano bajo su corteza de hielo.",
+     "wiki": "Europa (satélite)"
+    },
+    {
+     "nombre": "Júpiter",
+     "quien": "El planeta más grande del sistema solar, con decenas de lunas.",
+     "wiki": "Júpiter (planeta)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué Europa Clipper necesita paneles solares tan grandes?",
+    "respuesta": "Porque Europa está unas cinco veces más lejos del Sol que la Tierra y llega muy poca luz; cada panel mide 14.2 m de largo."
+   }
+  },
+  {
+   "materia": "Gastronomía, vino y destilados",
+   "pilar": "gusto",
+   "epoca": "Siglo XX",
+   "titulo": "La fondue se volvió plato nacional suizo gracias a un cártel del queso",
+   "dato": "La Unión Suiza del Queso, fundada en 1914 y disuelta en 1999, hizo de la fondue el «plato nacional» con campañas de mercadotecnia.",
+   "explicacion": "La fondue existía en algunas regiones alpinas, pero no era el símbolo del país. La Unión, que controlaba la producción y los precios del queso suizo, necesitaba vender más. Entre guerras y en la posguerra promovió la fondue como plato de todos. Uno de sus lemas fue «FIGUGEGL»: *Fondue isch guet und git e gueti Luune*, «la fondue es buena y pone de buen humor».\n\nSwissinfo lo resume así: se volvió plato nacional «como resultado de una campaña de mercadotecnia». La tradición no siempre nace sola: a veces la fabrica alguien con un excedente de queso. Pasa también con otros alimentos «de siempre».",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swiss_fondue.jpg?width=900",
+    "alt": "Olla de fondue con queso fundido y trozos de pan pinchados en tenedores largos",
+    "pie": "Fondue de queso: tradición alpina convertida en símbolo nacional.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Swissinfo: How fondue and «cheese fever» conquered the world",
+    "url": "https://www.swissinfo.ch/eng/business/how-fondue-and-cheese-fever-conquered-the-world/47601148"
+   },
+   "wiki": "Gastronomía de Suiza",
+   "claves": [
+    {
+     "nombre": "Gruyer",
+     "quien": "Uno de los quesos suizos clásicos de la fondue.",
+     "wiki": "Gruyer"
+    },
+    {
+     "nombre": "Raclette",
+     "quien": "El otro gran plato suizo de queso fundido.",
+     "wiki": "Raclette (comida)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Quién convirtió la fondue en plato nacional suizo?",
+    "respuesta": "La Unión Suiza del Queso (1914–1999), con campañas de mercadotecnia como el lema FIGUGEGL."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "Don Quijote de la Mancha (selección)",
+  "autor": "Miguel de Cervantes",
+  "capitulo": {
+   "numero": 2,
+   "total": 6,
+   "titulo": "El escrutinio de la biblioteca y Sancho Panza"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Escrutinio_cura_barbero.jpg?width=900",
+   "alt": "Grabado de dos hombres revisando libros en una habitación mientras otros los arrojan por la ventana",
+   "pie": "El cura y el barbero revisan la biblioteca de don Quijote.",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "¿Qué harías si un amigo perdiera el juicio por lo que lee? ¿Le quitarías los libros? Eso intentan el cura y el barbero del pueblo. Y Cervantes aprovecha para hacer algo muy atrevido: crítica literaria dentro de una novela, incluso sobre sí mismo.\n\nEn el capítulo anterior, don Quijote volvió a casa molido a palos, tirado sobre un burro. Hoy leemos los capítulos V, VI y VII de la primera parte: el regreso, la quema de los libros y la llegada del personaje que equilibra toda la obra, Sancho Panza."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "«Yo sé quién soy»"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Su vecino Pedro Alonso lo encuentra en el camino. Don Quijote no lo reconoce: le habla como si fuera un personaje de los romances. El labrador intenta hacerlo volver en sí. Le recuerda que no es ningún héroe, sino el señor Quijana. La respuesta es una de las frases más citadas del libro."
+   },
+   {
+    "tipo": "cita",
+    "texto": "—Yo sé quién soy —respondió don Quijote.",
+    "fuente": "Don Quijote, Primera parte, cap. V"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La frase es cómica y profunda. Cómica, porque lo dice un hombre que se cree caballero andante. Profunda, porque toda la novela pregunta lo mismo: ¿quién decide quién eres, tú o los demás?\n\nPedro Alonso espera a que oscurezca para entrar al pueblo, para que nadie vea al hidalgo en ese estado. En casa lo esperan la [[ama|Mujer que gobernaba la casa de un hombre soltero; en el Quijote, la criada mayor del hidalgo.]], la sobrina, el cura y el barbero. Lo acuestan. Don Quijote dice que lo hirió una caída del caballo luchando contra diez gigantes."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Un juicio a los libros"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Al día siguiente, mientras él duerme, el cura y el barbero entran a la biblioteca. Hay más de cien libros grandes, bien encuadernados, y otros pequeños. El ama quiere echarlos todos al fuego, y la sobrina está de acuerdo. El cura no: quiere leer los títulos uno por uno. Así nace el [[escrutinio|Examen cuidadoso; aquí, la revisión libro por libro para decidir cuáles se salvan y cuáles se queman.]].\n\nEs un juicio con acusados, fiscal y sentencia. El barbero le pasa cada libro al cura, y el cura decide. Lo divertido es que los dos conocen muy bien esos libros que condenan."
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne_Delacroix_-_Don_Quichotte_dans_sa_biblioth%C3%A8que.jpg?width=900",
+    "alt": "Pintura de un hombre delgado sentado entre libros, con una mujer y otra figura cerca",
+    "pie": "Don Quijote en su biblioteca, pintado por Eugène Delacroix en 1824.",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El primero es el *Amadís de Gaula*, el gran libro de caballerías español. El cura quiere quemarlo por ser el padre de todos los demás. El barbero lo defiende y gana."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Es el mejor de todos los libros que de este género se han compuesto; y así, como a único en su arte, se debe perdonar.",
+    "fuente": "Don Quijote, Primera parte, cap. VI"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Mira lo que hace Cervantes. Los personajes que quieren curar la locura del hidalgo hablan de los libros como críticos expertos. Saben quién escribió cada uno, qué tiene de bueno y qué de malo. El cura no es enemigo de la lectura: es un lector exigente.\n\nLa escena tiene además un eco serio. En la España de 1605 existía el [[Índice de libros prohibidos|Lista oficial de obras que la Iglesia católica prohibía leer o imprimir; la Inquisición vigilaba su cumplimiento.]], y quemar libros no era solo una imagen literaria. Cervantes convierte la censura en comedia: el tribunal es un cura y un barbero, el acusado es una biblioteca, y el castigo cae por la ventana a un corral. Muchos lectores ven ahí una burla fina de los juicios de su tiempo.\n\nTambién hay prisa y torpeza. El cura se cansa de leer títulos y manda al ama echar al corral todos los libros grandes, sin revisarlos. El narrador lamenta que algunos que merecían guardarse ardieron sin que nadie los viera. Se quemaron sin juicio, por pura comodidad. Es lo que pasa cuando la censura se vuelve trámite."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Por qué el cura quiere revisar los libros uno por uno en lugar de quemarlos todos?",
+    "opciones": [
+     "Porque quiere venderlos",
+     "Porque no todos le parecen igual de malos",
+     "Porque don Quijote se lo pidió"
+    ],
+    "correcta": 1,
+    "explicacion": "El cura distingue: unos libros merecen el fuego y otros no. Cervantes no ataca la lectura, sino los malos libros y la lectura sin juicio."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El elogio de un libro donde los caballeros comen"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Uno tras otro, los libros salen por la ventana al corral. Pero el cura se detiene en *Tirante el Blanco*, una novela de caballerías valenciana. Y lo elogia por una razón inesperada."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Por su estilo es este el mejor libro del mundo: aquí comen los caballeros, y duermen y mueren en sus camas, y hacen testamento antes de su muerte, con estas cosas de que todos los demás libros deste género carecen.",
+    "fuente": "Don Quijote, Primera parte, cap. VI"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Aquí está la poética de Cervantes en una frase. Le gusta el libro porque sus caballeros **viven como personas**: comen, duermen, hacen testamento. Los héroes de los otros libros nunca tienen hambre ni sueño. Esa es la gran novedad del Quijote: meter a un héroe imaginario en un mundo con ventas, burros y cuentas que pagar. Es el nacimiento del [[realismo|Forma de narrar que retrata la vida cotidiana con detalles reconocibles, sin idealizarla.]] en la novela."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Cervantes se cuela en su propio libro",
+    "texto": "Entre los libros aparece *La Galatea*, una novela pastoril de 1585... escrita por Cervantes. El cura dice que su autor es «grande amigo mío», que es «más versado en desdichas que en versos» y que hay que esperar la segunda parte prometida. Cervantes se burla de sí mismo y, de paso, se hace publicidad."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La biblioteca desaparece"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Para curarlo de raíz, deciden algo drástico: **tapiar el cuarto** de los libros. Cuando don Quijote despierta y busca su biblioteca, ya no hay puerta. El ama le dice que un encantador se la llevó en una nube. La sobrina recuerda mal el nombre: cree que se llamaba Muñatón. Don Quijote la corrige: fue Frestón, un sabio encantador enemigo suyo.\n\nEl remedio no funciona. Al contrario: la desaparición confirma su locura. Si existen los encantadores, todo lo demás también existe. Es una lección sobre las creencias: cuando a alguien le quitas la prueba sin convencerlo, la ausencia también puede leerse como prueba."
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Don_Quixote_and_Sancho_Panza_by_Gustave_Dore_(92687408).jpg?width=900",
+    "alt": "Grabado de un caballero flaco a caballo y un hombre bajo y robusto montado en un burro",
+    "pie": "Don Quijote y Sancho Panza, por Gustave Doré.",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Llega Sancho Panza"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Quince días pasa en casa, tranquilo. Pero en secreto busca un [[escudero|Sirviente que acompañaba al caballero, le llevaba las armas y lo asistía.]], porque sus libros dicen que todo caballero necesita uno. Lo encuentra en el pueblo."
+   },
+   {
+    "tipo": "cita",
+    "texto": "En este tiempo solicitó don Quijote a un labrador vecino suyo, hombre de bien (si es que este título se puede dar al que es pobre), pero de muy poca sal en la mollera.",
+    "fuente": "Don Quijote, Primera parte, cap. VII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Fíjate en el paréntesis: «si es que este título se puede dar al que es pobre». Es una crítica social metida de lado, en voz baja. Cervantes deja ver que en su España ser pobre casi impedía ser «de bien».\n\n¿Qué convence a Sancho? Una promesa: que pronto ganarán alguna [[ínsula|Forma antigua de «isla»; en el Quijote, el territorio que Sancho sueña gobernar.]] y lo harán gobernador. Sancho deja a su mujer y a sus hijos. Una noche salen los dos sin despedirse. Don Quijote en Rocinante; Sancho en su burro, con sus alforjas y su bota de vino, «como un patriarca»."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Qué convence a Sancho Panza de seguir a don Quijote?",
+    "opciones": [
+     "Un sueldo fijo cada semana",
+     "La promesa de gobernar una ínsula",
+     "El deseo de leer libros de caballerías"
+    ],
+    "correcta": 1,
+    "explicacion": "Sancho no cree en los encantadores: cree en la ínsula. El idealista y el práctico salen juntos, cada uno por su propia razón."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Con Sancho, la novela encuentra su motor: el **diálogo**. Uno vive en los libros; el otro, en la comida, el sueño y la recompensa. Uno ve gigantes; el otro, molinos. A partir de aquí, la mitad del libro son conversaciones entre dos maneras de ver el mundo. Y, poco a poco, cada uno se contagiará del otro.\n\nEn el próximo capítulo saldrán al campo de Montiel y aparecerán, a lo lejos, treinta o cuarenta molinos de viento."
+   }
+  ],
+  "paraLlevar": [
+   "No quemes todos los libros: juzga cada uno. Lo malo no es leer, es leer sin criterio.",
+   "Quitarle a alguien su prueba sin convencerlo puede reforzar su creencia.",
+   "Los grandes equipos juntan a un soñador y a un práctico: cada uno corrige la vista del otro."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Qué libro de caballerías salva el barbero y por qué?",
+    "respuesta": "El Amadís de Gaula, por ser «el mejor de todos los libros» de ese género, «único en su arte»."
+   },
+   {
+    "pregunta": "¿Qué le promete don Quijote a Sancho para convencerlo?",
+    "respuesta": "Que ganarán alguna ínsula y lo harán gobernador de ella."
+   }
+  ],
+  "proximo": "Don Quijote de la Mancha · Capítulo 3: los molinos de viento",
+  "fuentes": [
+   {
+    "nombre": "Gobierno de la Ciudad de Buenos Aires: Don Quijote de la Mancha (edición escolar, texto de dominio público)",
+    "url": "https://buenosaires.gob.ar/areas/educacion/quijote/don_quijote_de_la_mancha.pdf"
+   },
+   {
+    "nombre": "Proyecto Gutenberg: Don Quijote, de Miguel de Cervantes",
+    "url": "https://www.gutenberg.org/ebooks/2000"
+   }
+  ],
+  "nota": "Citas tomadas del texto original de Cervantes (1605, dominio público), con ortografía modernizada, a partir de la edición del Proyecto Gutenberg."
+ },
+ "palabra": {
+  "palabra": "Sinuoso",
+  "categoria": "Adjetivo",
+  "pronunciacion": "si-NUO-so",
+  "definicion": "Que tiene curvas, ondulaciones o recodos. En sentido figurado, se dice de quien actúa de forma indirecta o disimulada.",
+  "origen": "Del latín *sinuosus*, de *sinus*: curva, pliegue. De la misma raíz vienen «seno» y «sinusitis».",
+  "ejemplo": "Las entradas de Guimard son sinuosas: casi no tienen líneas rectas, solo tallos que se doblan.",
+  "repaso": {
+   "pregunta": "¿Qué significa «sinuoso» y de qué palabra latina viene?",
+   "respuesta": "Que tiene curvas u ondulaciones (o que actúa de forma indirecta); viene de sinus, curva o pliegue."
+  }
+ },
+ "frances": {
+  "frase": "Il faut vivre avec son temps.",
+  "traduccion": "«Hay que vivir con su tiempo» (adaptarse a la época).",
+  "pronunciacion": "il FO vivr a-VEK son TAN",
+  "uso": "Cultura. Se dice para animar a alguien a aceptar lo nuevo en lugar de aferrarse al pasado. Encaja con la París de 1900: un metro, una feria universal y un estilo que rompía con todo. «Le métro, l'électricité... il faut vivre avec son temps!»",
+  "variante": "Être de son temps. («Ser de su tiempo»: estar al día con su época.)",
+  "repaso": {
+   "pregunta": "¿Cómo se dice en francés «hay que adaptarse a la época»?",
+   "respuesta": "« Il faut vivre avec son temps. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Qué hizo la compañía del metro después de romper con Guimard en 1904?",
+   "opciones": [
+    "Destruyó todas sus entradas de inmediato",
+    "Le encargó la Ópera de todos modos",
+    "Le compró los moldes y los derechos para seguir fundiendo sus piezas"
+   ],
+   "correcta": 2,
+   "explicacion": "Como el diseño era un sistema de piezas, la compañía pudo seguir fabricándolas sin él. Para 1913 se habían hecho 141 entradas."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "Según las organizaciones que marcharon el domingo en Guadalajara, ¿cuántas colonias han tenido desabasto o contaminación?",
+   "opciones": [
+    "Al menos 320",
+    "Unas 50",
+    "Más de 2,000"
+   ],
+   "correcta": 0,
+   "explicacion": "Las organizaciones hablan de al menos 320 colonias; la nota no identifica el laboratorio de sus análisis."
+  },
+  {
+   "origen": "materias",
+   "pregunta": "En el experimento de Tversky y Kahneman, ¿qué pasó cuando el mismo programa se describió con muertes en vez de vidas salvadas?",
+   "opciones": [
+    "Nada: la gente eligió igual",
+    "La mayoría pasó de elegir lo seguro a elegir la apuesta",
+    "Todos rechazaron ambos programas"
+   ],
+   "correcta": 1,
+   "explicacion": "Con «se salvan 200», el 72% eligió lo seguro. Con «mueren 400», el 78% eligió la apuesta. Es el efecto marco."
+  }
+ ],
+ "libro": null,
+ "proximo": "1947: el New Look de Dior devuelve el lujo a París"
+}
