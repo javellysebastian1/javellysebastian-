@@ -1,0 +1,890 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-24",
+ "numero": 33,
+ "fecha": "2026-11-24",
+ "disponibleDesde": "2026-11-24T08:00:00-06:00",
+ "titulo": "1947: el New Look de Dior devuelve el lujo a París",
+ "temporada": {
+  "id": "t06",
+  "numero": 6,
+  "titulo": "París: cómo se hizo la capital del gusto",
+  "episodio": 4,
+  "totalEpisodios": 6
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian_Dior,_30_Avenue_Montaigne,_Paris_2016.jpg?width=900",
+  "alt": "Fachada clásica de piedra clara con toldos grises y el nombre Christian Dior sobre la puerta",
+  "pie": "El 30 de la avenue Montaigne, en París: aquí presentó Dior su primera colección el 12 de febrero de 1947.",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "pregunta": "¿Qué hizo la compañía del metro de París después de romper con Guimard en 1904?",
+   "respuesta": "Le compró los moldes y los derechos para seguir fundiendo sus piezas; para 1913 había 141 entradas.",
+   "origen": "Edición #32"
+  },
+  {
+   "pregunta": "¿Qué dice don Quijote cuando su vecino intenta hacerlo volver en sí?",
+   "respuesta": "«Yo sé quién soy.»",
+   "origen": "Edición #32"
+  },
+  {
+   "pregunta": "¿Qué hizo Haussmann con París a partir de 1853?",
+   "respuesta": "Abrió grandes bulevares rectos a través de la ciudad medieval, con alcantarillado, agua y fachadas uniformes.",
+   "origen": "Edición #30"
+  }
+ ],
+ "noticias": [
+  {
+   "id": "peso-19-21-nov23",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-11-23",
+   "historiaEnCurso": {
+    "id": "tasas-banxico",
+    "titulo": "Tasas de Banxico y el peso",
+    "capitulo": 9,
+    "dondeIbamos": "El viernes 20 el peso cerró en 19.16 por dólar, con una caída semanal de 3.40%. Banxico tiene su tasa en 6.25% y dijo que la depreciación tendría un efecto limitado en la inflación."
+   },
+   "titular": "El peso cae cuatro sesiones seguidas y toca 19.21 por dólar; hoy sale la inflación de noviembre",
+   "quePaso": "El lunes 23 de noviembre el peso cayó por cuarta sesión seguida. Cotizó en 19.2120 por dólar, 0.35% abajo del viernes, según Excélsior. No veía ese nivel desde junio de 2025.\n\nEn ventanilla, el dólar se vendía en 19.42 en BBVA, 19.35 en Banorte y 19.66 en Banamex.\n\nHoy martes el INEGI publica la inflación de la primera quincena de noviembre. El jueves 26, Banxico presenta su informe trimestral.",
+   "aMiQue": "Si importas insumos que se cotizan en dólares (vitaminas, proteínas, aluminio, saborizantes, envases), cada 10 centavos del tipo de cambio pesa en tu margen. Antes de cerrar pedidos del primer trimestre y precios de lista de enero, revisa con qué tipo de cambio estás calculando costos: el de hace dos meses ya no es el de hoy.",
+   "contexto": "**Hecho:** Excélsior atribuye la caída a un dólar fuerte en el mundo y al temor de que se reduzca la diferencia de tasas entre México y Estados Unidos, que es lo que atrae a los inversionistas al peso.\n\n**Hecho:** las minutas de Banxico, publicadas el 19 de noviembre, muestran que el recorte del 5 de noviembre se votó 3 a 2. Según ese documento, el peso perdió cerca de 13% desde inicios de septiembre, y el subgobernador Jonathan Heath advirtió que eso puede subir precios con unos seis meses de rezago.\n\n**Hecho:** la inflación de octubre cerró en 3.75% anual, con subyacente de 3.80% (INEGI). La Encuesta Citi del 20 de noviembre espera 3.96% al cierre de 2026 y el peso en 18.67.\n\n**Interpretación:** la encuesta supone que el peso se recupera en cinco semanas. Si no ocurre, el efecto en precios llegaría a la primavera de 2027.",
+   "queVigilar": "La cifra de inflación del INEGI de hoy (si supera la tendencia de octubre) y el informe trimestral de Banxico del jueves 26 de noviembre.",
+   "fuentes": [
+    {
+     "nombre": "Excélsior: Peso, en niveles no vistos desde junio de 2025; precio del dólar hoy 23 de noviembre de 2026",
+     "url": "https://www.excelsior.com.mx/finanzas/precio-dolar-hoy-tipo-cambio-bancos-mexico-23-noviembre-2026"
+    },
+    {
+     "nombre": "El Financiero: Banxico se divide en minutas de política monetaria (20 nov 2026)",
+     "url": "https://www.elfinanciero.com.mx/economia/2026/11/20/banxico-se-divide-por-minutas-de-politica-monetaria-impacta-la-depreciacion-sobre-inflacion/"
+    },
+    {
+     "nombre": "El Financiero: Economistas esperan inflación alta y depreciación del peso para el cierre de 2026: Encuesta Citi (20 nov 2026)",
+     "url": "https://www.elfinanciero.com.mx/economia/2026/11/20/economistas-esperan-inflacion-alta-y-depreciacion-del-peso-para-el-cierre-de-2026-encuesta-citi/"
+    }
+   ]
+  },
+  {
+   "id": "petroleo-ormuz-nov23",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-23",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 29,
+    "dondeIbamos": "El viernes 20 el Brent cerró cerca de 92.6 dólares y llevaba tres semanas a la baja por exceso de oferta, pese a ataques a petroleros en Ormuz. La OPEP+ se reúne el 29 de noviembre."
+   },
+   "titular": "El petróleo sigue bajando aunque hubo nuevos ataques en Ormuz; la OPEP+ decide el domingo 29",
+   "quePaso": "El lunes 23 el Brent llegó a bajar 1.90%, a unos 90.20 dólares por barril, según The Officer. Acumula una caída cercana a una quinta parte en noviembre.\n\nEl fin de semana, al menos tres barcos fueron alcanzados por proyectiles en el estrecho de Ormuz, según el resumen de Havana Times. Bahréin reportó un ataque iraní contra una instalación industrial civil, según Reuters citada por Just Security.",
+   "aMiQue": "Un petróleo más barato suele aliviar fletes, aluminio y plásticos: los costos de una bebida en lata y de los envases de un suplemento. Pero el precio está sostenido por una prima de riesgo de guerra que puede saltar en días. Si negocias empaque o transporte para 2027, conviene comparar precios ahora y no comprometer volúmenes más allá de lo que necesitas.",
+   "contexto": "**Hecho:** según análisis citados por Euribor.com.es con datos de Reuters, el precio incluye una «prima de guerra» de 25 a 30 dólares por barril, y la Agencia Internacional de Energía estima un exceso de oferta de unos 2 millones de barriles diarios este trimestre.\n\n**Hecho:** Trump dijo que está dispuesto a reanudar los ataques contra Irán después de Año Nuevo si no hay acuerdo (AP, citada por Just Security).\n\n**Interpretación:** el precio está entre dos fuerzas: la oferta sobrante lo empuja hacia abajo y el riesgo militar lo sostiene. Un incidente grave en Ormuz podría revertir la caída rápido.\n\n**Nota:** estas cifras vienen de medios que citan a Reuters y AP; no se abrió la nota original de las agencias.",
+   "queVigilar": "La reunión de la OPEP+ del domingo 29 de noviembre, que fija la producción para 2027, y el plazo de Trump con Irán después del 1 de enero.",
+   "fuentes": [
+    {
+     "nombre": "The Officer: Precio del Brent hoy, 23 de noviembre: baja un 1,90% hasta 90,20 dólares",
+     "url": "https://theofficer.es/precio-del-brent-hoy-23-de-noviembre-baja-un-190-hasta-9020-dolares/"
+    },
+    {
+     "nombre": "Euribor.com.es: Precio del petróleo hoy, 23 de noviembre de 2026",
+     "url": "https://www.euribor.com.es/2026/11/23/precio-petroleo-hoy-23-noviembre-2026/"
+    },
+    {
+     "nombre": "Havana Times: International News Briefs for Monday, November 23, 2026",
+     "url": "https://havanatimes.org/news/international-news-briefs-for-monday-november-23-2026/"
+    },
+    {
+     "nombre": "Just Security: Early Edition, November 23, 2026",
+     "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "En 1947 Europa todavía hacía fila con cartillas de racionamiento. Un modista de 42 años respondió con faldas que gastaban metros y metros de tela.",
+    "contexto": "París, 12 de febrero de 1947. Hace frío y falta casi todo. La guerra terminó hace menos de dos años y la ropa, la comida y el carbón siguen [[racionados|Repartidos por el Estado en cantidades fijas, con cupones o cartillas, porque no alcanzan para todos.]].\n\nEn el 30 de la avenue Montaigne, un modista casi desconocido presenta su primera colección. Se llama Christian Dior. Lo financia [[Marcel Boussac|Industrial francés del algodón, entonces el hombre más rico del textil en Francia; puso el capital de la casa Dior en 1946.]], el rey francés del algodón.\n\nLas modelos salen rápido, girando. Llevan hombros suaves, cinturas muy estrechas y faldas enormes que rozan la pantorrilla. Las dos líneas se llaman «Corolle» (como los pétalos de una flor) y «En 8».",
+    "pregunta": "Según el Victoria and Albert Museum, ¿cuánta tela usaba un vestido de día típico del New Look?",
+    "opciones": [
+     "Unos 3 metros",
+     "Unos 15 metros",
+     "Unos 40 metros"
+    ],
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian_Dior,_30_Avenue_Montaigne,_Paris_2016.jpg?width=900",
+     "alt": "Fachada de la casa Dior en la avenue Montaigne",
+     "pie": "La casa de modas abrió a finales de 1946 en este edificio, que sigue siendo su sede.",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Un galerista arruinado que dibujaba vestidos",
+    "texto": "Christian Dior nació en 1905 en Granville, en la costa de Normandía. Su familia fabricaba fertilizantes y quería que fuera diplomático. Él abrió una galería de arte en París.\n\nLa crisis de 1929 arruinó a su familia. Dior cerró la galería y empezó a vender dibujos de moda para sobrevivir. Después trabajó con los modistas [[Robert Piguet|Modista suizo con casa en París; Dior trabajó para él antes de la guerra.]] y Lucien Lelong.\n\nEn 1946 conoció a Marcel Boussac. El industrial buscaba a alguien para salvar una casa de modas vieja. Dior le dijo que no: quería una casa nueva, pequeña y con su nombre. Boussac aceptó.\n\nLa pieza estrella de la primera colección fue el **traje Bar**. Según el V&A, la chaqueta era de seda natural color crema, ajustada en la cintura y con caderas acolchadas. La falda era de crepé de lana negra, plisada y armada sobre una enagua rígida. Solo la chaqueta llevaba 3.7 metros de seda.\n\nAl terminar el desfile, [[Carmel Snow|Editora de la revista estadounidense Harper's Bazaar de 1934 a 1958; una de las voces más influyentes de la moda.]], editora de *Harper's Bazaar*, le dijo al modista, según la propia casa Dior: «Querido Christian, ¡tus vestidos tienen un *new look*!». El nombre se quedó.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian_Dior_1954.jpg?width=900",
+     "alt": "Retrato en blanco y negro de Christian Dior",
+     "pie": "Christian Dior en 1954. Murió tres años después, en 1957.",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "giro",
+    "titulo": "Unos 15 metros, cuando la regla decía menos de dos",
+    "texto": "La respuesta es **unos 15 metros**. El V&A calcula que un vestido de lana de día del New Look necesitaba alrededor de 15 metros, y un vestido corto de noche en tafetán, unos 25. En Gran Bretaña, un vestido [[Utility|Ropa fabricada bajo las reglas de ahorro del gobierno británico durante la guerra: poca tela, pocos botones, sin adornos.]] permitía unos 1.8 metros.\n\nPor eso el New Look fue un escándalo. El Board of Trade británico intentó frenarlo. Su presidente, Harold Wilson, dijo en la Cámara de los Comunes en febrero de 1948 que no iba a dictar estilos, pero que no le gustaba el gasto extravagante de tela.\n\nEn Estados Unidos nació en Dallas, en 1947, el «Little Below the Knee Club»: mujeres que se negaban a bajar el largo de sus faldas. Hubo marchas y piquetes. En París, *Paris Match* publicó la foto de una mujer con falda Corolle atacada en la calle Lepic, en Montmartre.\n\nY aun así ganó Dior. El racionamiento de ropa británico terminó en marzo de 1949. Para entonces, el New Look ya era el estilo del mundo occidental. Sorprende porque Dior no vendió ahorro en una época de ahorro: vendió justo lo que todos echaban de menos.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sample_UK_Childs_Ration_Book_WW2.jpg?width=900",
+     "alt": "Cartilla de racionamiento británica de la Segunda Guerra Mundial",
+     "pie": "Una cartilla de racionamiento británica. La ropa se compró con cupones hasta 1949.",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "La pregunta del anhelo",
+    "texto": "Cuando todos en un mercado recortan, pregunta: **¿qué echa de menos mi cliente que nadie le está dando?**\n\nDior no inventó la cintura estrecha ni la falda amplia: existían antes de la guerra. Su apuesta fue de tiempo. Leyó que, después de años de uniformes y cupones, las mujeres querían volver a sentirse elegantes. La escasez creó el deseo; él solo le dio forma.\n\nTres pasos:\n\n1. **Nombra la privación.** ¿De qué se ha privado tu cliente por costo, miedo o costumbre?\n2. **Exagera la respuesta.** El New Look no fue «un poco más de tela»: fue muchísima más. Lo tímido no rompe un hábito.\n3. **Acepta el rechazo.** Si nadie protesta, quizá no cambiaste nada. Los clubes contra Dior también eran publicidad."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Dónde más aparece",
+    "texto": "**En una crisis de confianza.** Cuando la gente duda del agua de la llave, crece el valor de lo que demuestra pureza con pruebas, no con adjetivos. La escasez no es solo de cosas: también de certeza.\n\n**En tu propia agenda.** Después de semanas de trabajo sin pausa, lo que más se desea no es otra herramienta de productividad: es una tarde sin pantalla. Muchos negocios de bienestar viven de leer esa privación.\n\n**En una marca de bebida premium.** Si todos compiten por precio, la marca que ofrece un ritual (el vaso, el hielo, el momento) responde a algo que el descuento no da."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿Qué echa de menos hoy tu cliente que tu competencia, por miedo o por ahorro, ha dejado de darle?",
+    "texto": "Toca una respuesta mental: placer, tiempo, certeza o pertenencia. Esa es la pista de tu siguiente producto."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "En tiempos de escasez, el lujo no es lo que sobra: es lo que todos extrañan."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "V&A: Bar Suit, Christian Dior (ficha del museo, en inglés)",
+   "url": "https://collections.vam.ac.uk/item/O75379/bar-skirt-suit-christian-dior",
+   "minutos": 6
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Quién bautizó el estilo de Dior como «New Look»?",
+    "respuesta": "Carmel Snow, editora de Harper's Bazaar, al terminar el desfile del 12 de febrero de 1947."
+   },
+   {
+    "pregunta": "¿Por qué el New Look molestó al gobierno británico?",
+    "respuesta": "Porque gastaba muchísima tela (unos 15 metros en un vestido de día) cuando la ropa aún se racionaba; el Board of Trade intentó frenarlo."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Dior: The New Look",
+    "url": "https://www.dior.com/en_ca/one/the-new-look"
+   },
+   {
+    "nombre": "Victoria and Albert Museum: Bar suit, Christian Dior",
+    "url": "https://collections.vam.ac.uk/item/O75379/bar-skirt-suit-christian-dior"
+   },
+   {
+    "nombre": "The Met: Christian Dior (1905–1957), Heilbrunn Timeline of Art History",
+    "url": "https://www.metmuseum.org/en/essays/christian-dior-1905-1957"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Historia y geopolítica",
+   "pilar": "mundo",
+   "formato": "diaQueCambio",
+   "titulo": "5 de junio de 1947: un discurso en Harvard pone a Europa de pie",
+   "contexto": "Cuatro meses después del desfile de Dior, Europa sigue en ruinas. El invierno de 1946–1947 fue brutal, faltan carbón y comida, y los partidos comunistas crecen en Francia e Italia.\n\nEl 5 de junio de 1947, el secretario de Estado de Estados Unidos, el general George C. Marshall, recibe un doctorado honoris causa en Harvard. Su discurso es breve y sin cifras. Propone que Europa diseñe su propio plan de recuperación y que Estados Unidos lo financie.",
+   "pregunta": "¿Cuánto dinero terminó enviando Estados Unidos con el Plan Marshall entre 1948 y 1952?",
+   "opciones": [
+    "Unos 1,300 millones de dólares",
+    "Unos 13,000 millones de dólares",
+    "Unos 130,000 millones de dólares"
+   ],
+   "correcta": 1,
+   "revelacion": "Fueron **unos 13,300 millones de dólares** de la época, repartidos entre 17 países, según la Fundación George C. Marshall. El presidente Truman firmó la ley el 3 de abril de 1948. Gran Bretaña recibió la mayor parte (unos 3,200 millones) y Francia la segunda (unos 2,700 millones). Algunas fuentes, como el Departamento de Estado, hablan de «más de 12,000 millones»: depende de qué programas se cuenten.\n\nEl plan no era caridad pura. Buena parte del dinero se usaba para comprar productos estadounidenses, y obligaba a los países a coordinarse entre ellos. La Unión Soviética lo rechazó y prohibió a sus aliados aceptarlo. Así, una ayuda económica dibujó la frontera de la [[Guerra Fría|Rivalidad entre Estados Unidos y la Unión Soviética de 1947 a 1991, sin guerra directa entre ambos.]].\n\nY hay un detalle que une esta historia con la de Dior: Marcel Boussac, el industrial que lo financió, era dueño de fábricas textiles que necesitaban vender tela. Una Europa con dinero para comprar era el mejor cliente posible.",
+   "idea": "Un buen plan no siempre da órdenes: a veces paga para que el otro diseñe su propia salida.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marshall_Plan_poster.JPG?width=900",
+    "alt": "Cartel del Plan Marshall con un barco y banderas de países europeos",
+    "pie": "Cartel de la época para promover la cooperación europea del Plan Marshall.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "George C. Marshall Foundation: The Marshall Plan in 10 minutes",
+    "url": "https://www.marshallfoundation.org/articles-and-features/the-marshall-plan-in-10-minutes/"
+   },
+   "wiki": "Plan Marshall",
+   "claves": [
+    {
+     "nombre": "George Marshall",
+     "quien": "Jefe del Ejército de EE. UU. en la Segunda Guerra Mundial y luego secretario de Estado; Nobel de la Paz en 1953.",
+     "wiki": "George Marshall"
+    },
+    {
+     "nombre": "Harry S. Truman",
+     "quien": "Presidente de EE. UU. que firmó la ley del plan en abril de 1948.",
+     "wiki": "Presidencia de Harry S. Truman"
+    },
+    {
+     "nombre": "Guerra Fría",
+     "quien": "El conflicto que el plan ayudó a definir: Europa occidental de un lado, la soviética del otro.",
+     "wiki": "Guerra Fría"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto costó el Plan Marshall y qué país europeo recibió más?",
+    "respuesta": "Unos 13,300 millones de dólares entre 1948 y 1952, para 17 países; Gran Bretaña recibió más, seguida de Francia."
+   }
+  },
+  {
+   "materia": "IA y el futuro",
+   "pilar": "futuro",
+   "formato": "adivinaNumero",
+   "titulo": "AlexNet, 2012: el día que una red neuronal aprendió a ver",
+   "contexto": "Cada año, desde 2010, se hacía un concurso: reconocer objetos en fotos de [[ImageNet|Gran base de datos de imágenes etiquetadas por personas, creada en la Universidad de Princeton y luego Stanford.]]. Los programas recibían unos 1.2 millones de imágenes de entrenamiento, en 1,000 categorías: perros de distintas razas, hongos, barcos, teclados.\n\nSe medía el «error top-5»: cuántas veces la respuesta correcta no estaba entre las cinco apuestas del programa. En 2012, el segundo lugar tuvo un error de 26.2%.\n\nEl ganador fue un equipo de la Universidad de Toronto: Alex Krizhevsky, Ilya Sutskever y su profesor, Geoffrey Hinton.",
+   "pregunta": "¿Qué error top-5 logró AlexNet, la red del equipo de Toronto?",
+   "opciones": [
+    "24.9%",
+    "15.3%",
+    "3.1%"
+   ],
+   "correcta": 1,
+   "revelacion": "**15.3%.** Bajar casi 11 puntos de golpe en un concurso donde se ganaba por décimas fue un terremoto.\n\nAlexNet era una [[red neuronal convolucional|Tipo de red que aprende filtros para detectar bordes, texturas y formas, y los combina capa tras capa hasta reconocer objetos.]]. La idea no era nueva: venía de los años ochenta. Lo nuevo fue la escala y el hardware. El equipo la entrenó durante cinco o seis días en dos tarjetas gráficas de videojuegos NVIDIA GTX 580. Las [[GPU|Procesadores diseñados para gráficos que hacen miles de cálculos sencillos a la vez; ideales para entrenar redes neuronales.]] resultaron perfectas para este trabajo.\n\nCasi todo lo que vino después (el reconocimiento de caras en tu teléfono, los autos que leen señales, y años después los modelos de lenguaje) se apoya en esa lección: muchos datos, mucha computación y redes profundas. Sutskever luego cofundó OpenAI; Hinton recibió el Nobel de Física en 2024.",
+   "idea": "Una idea vieja puede esperar décadas hasta que llegan los datos y la herramienta que la hacen funcionar.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Typical_cnn.png?width=900",
+    "alt": "Diagrama de una red neuronal convolucional con capas que reducen una imagen a categorías",
+    "pie": "Esquema de una red convolucional: la imagen pasa por filtros y capas hasta una respuesta.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Krizhevsky, Sutskever y Hinton (2012): ImageNet Classification with Deep Convolutional Neural Networks",
+    "url": "https://courses.cs.duke.edu/fall16/compsci527/papers/Krizhevsky%20et%20al%20DNN%20ImageNet%202012.pdf"
+   },
+   "wiki": "Red neuronal convolucional",
+   "claves": [
+    {
+     "nombre": "Geoffrey Hinton",
+     "quien": "Investigador británico-canadiense, pionero de las redes neuronales; Nobel de Física 2024.",
+     "wiki": "Geoffrey Hinton"
+    },
+    {
+     "nombre": "Historia de la inteligencia artificial",
+     "quien": "Para ubicar 2012 entre los inviernos y los auges de la IA.",
+     "wiki": "Historia de la inteligencia artificial"
+    },
+    {
+     "nombre": "Procesador de aprendizaje profundo",
+     "quien": "Los chips que nacieron después para hacer a escala lo que AlexNet hizo con dos tarjetas de videojuegos.",
+     "wiki": "Procesador de aprendizaje profundo"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué dos ingredientes hicieron ganar a AlexNet en 2012 con una idea de los años ochenta?",
+    "respuesta": "Muchos datos (1.2 millones de imágenes de ImageNet) y mucha computación (dos GPU de videojuegos); bajó el error top-5 a 15.3% contra 26.2% del segundo."
+   }
+  },
+  {
+   "materia": "Arte y pintura",
+   "pilar": "cultura",
+   "formato": "diaQueCambio",
+   "titulo": "15 de abril de 1874: un cuadro de un puerto le pone nombre a un movimiento",
+   "contexto": "En el París del siglo XIX, un pintor existía si lo aceptaba el [[Salón|Exposición oficial de la Academia de Bellas Artes de París; ser aceptado era casi la única vía para vender y tener fama.]]. Un grupo de rechazados decidió no esperar más.\n\nEl 15 de abril de 1874 abrieron su propia exposición en el antiguo estudio del fotógrafo Nadar, en el 35 del boulevard des Capucines. Eran unos 30 artistas y unas 200 obras. Estaban Monet, Renoir, Degas, Pissarro, Cézanne, Sisley y Berthe Morisot.\n\nMonet llevó un cuadro pequeño pintado en Le Havre: un puerto al amanecer, con un sol naranja y unas pinceladas rápidas sobre el agua.",
+   "pregunta": "¿Cómo salió de ahí la palabra «impresionismo»?",
+   "opciones": [
+    "Monet la escribió en un manifiesto",
+    "Un crítico se burló con ella en una revista satírica",
+    "El Estado francés la usó para clasificar al grupo"
+   ],
+   "correcta": 1,
+   "revelacion": "Fue **una burla**. El crítico Louis Leroy publicó el 25 de abril de 1874 en *Le Charivari*, un periódico satírico, una reseña titulada «La exposición de los impresionistas». Tomó el título del cuadro de Monet, *Impresión, sol naciente*, para ridiculizar a todo el grupo: según él, eso no era una pintura terminada sino un boceto.\n\n**Cómo mirarlo:** fíjate en el sol. Es la mancha más llamativa, pero si lo pasas a blanco y negro casi desaparece: tiene casi la misma luminosidad que el cielo gris. Por eso parece vibrar. Luego mira los barcos: son tres trazos oscuros, sin detalles. Monet no pinta el puerto, pinta un instante de luz.\n\nEl cuadro mide 50 × 65 cm y está en el Museo Marmottan Monet de París. En 1985 lo robaron unos asaltantes armados junto con otras ocho pinturas; se recuperó en 1990 en Córcega.",
+   "idea": "Muchos nombres que hoy suenan a prestigio empezaron como insultos: lo que importa es quién se queda con ellos.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude_Monet,_Impression,_soleil_levant.jpg?width=900",
+    "alt": "Pintura de un puerto en tonos azules y grises con un sol naranja reflejado en el agua y barcas oscuras",
+    "pie": "Claude Monet, Impresión, sol naciente (1872). Museo Marmottan Monet, París.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Musée Marmottan Monet: Impression, soleil levant",
+    "url": "https://marmottan.fr/en/notice/4014"
+   },
+   "wiki": "Impresión, sol naciente",
+   "claves": [
+    {
+     "nombre": "Claude Monet",
+     "quien": "Pintor francés (1840–1926); pintó la luz cambiante en series como las catedrales y los nenúfares.",
+     "wiki": "Claude Monet"
+    },
+    {
+     "nombre": "Impresionismo",
+     "quien": "El movimiento que nació de esa exposición y cambió cómo se pinta la luz.",
+     "wiki": "Impresionismo"
+    },
+    {
+     "nombre": "Nadar",
+     "quien": "Fotógrafo y aeronauta parisino que prestó su antiguo estudio para la exposición.",
+     "wiki": "Nadar"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Quién usó por primera vez «impresionistas» y con qué intención?",
+    "respuesta": "El crítico Louis Leroy, en Le Charivari el 25 de abril de 1874, como burla, tomando el título del cuadro de Monet."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "comoFunciona",
+   "titulo": "Doom y el shareware: regalar el primer episodio para vender los otros dos",
+   "contexto": "10 de diciembre de 1993. Una empresa de Texas con siete personas, id Software, sube un juego a un servidor de la Universidad de Wisconsin. Se llama *Doom*.\n\nCualquiera podía bajarlo, copiarlo en disquetes y regalarlo. Era legal: el juego se distribuía como [[shareware|Programa que se puede copiar y probar gratis; el autor cobra por la versión completa o por seguir usándolo.]]. Pero solo traía el primer episodio, «Knee-Deep in the Dead». Los otros dos estaban en la versión registrada, que se compraba por correo.",
+   "pregunta": "¿Por qué id Software regaló una tercera parte de su juego?",
+   "opciones": [
+    "Porque no tenía dinero para distribuirlo en tiendas",
+    "Porque cada copia gratis era un vendedor que no costaba nada",
+    "Porque la ley de Texas lo exigía"
+   ],
+   "correcta": 1,
+   "revelacion": "**Porque cada copia regalada trabajaba de vendedor.** Producir un disquete más no le costaba nada a id: lo copiaban los jugadores, las revistas y los servidores universitarios. La empresa solo pagaba cuando alguien ya había decidido comprar.\n\nLa clave fue qué regalar. El primer episodio era un juego completo y emocionante, no una demo recortada. Terminaba en un momento que dejaba ganas de más. Así funciona un buen gancho gratuito: resuelve algo de verdad y abre una necesidad que solo resuelve lo pagado.\n\nEl resultado, según los registros reunidos por la Doom Wiki: más de un millón de copias registradas vendidas, y el shareware instalado en más de 10 millones de computadoras hacia 1995. Hoy ese modelo se llama *freemium* y lo usan Duolingo, Spotify o cualquier plantilla gratis que lleva a un paquete pagado. Ningún modelo garantiza ventas: funcionó porque el juego era excepcional.",
+   "idea": "Lo gratis vende cuando es bueno por sí mismo y termina justo donde empieza el deseo de lo pagado.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/VIGAMUS_Doom_Shareware_Demo_Disks.jpg?width=900",
+    "alt": "Disquetes de la versión shareware de Doom exhibidos en un museo",
+    "pie": "Disquetes de la versión shareware de Doom, en el museo del videojuego VIGAMUS de Roma.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Game Developer: Monsters from the id: the making of Doom",
+    "url": "https://gamedeveloper.com/business/monsters-from-the-id-the-making-of-i-doom-i-"
+   },
+   "profundizar": {
+    "titulo": "Doom Wiki: Doom (historia de la versión shareware y ventas)",
+    "url": "https://www.doomwiki.org/wiki/Doom"
+   },
+   "wiki": "Doom (videojuego de 1993)",
+   "claves": [
+    {
+     "nombre": "Doom (1993)",
+     "quien": "El juego de disparos en primera persona que popularizó el género y el modelo shareware.",
+     "wiki": "Doom (videojuego de 1993)"
+    },
+    {
+     "nombre": "Freemium",
+     "quien": "Heredero moderno del shareware: lo básico gratis, lo avanzado de pago.",
+     "wiki": "Freemium"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué regalaba id Software con Doom y cómo vendía el resto?",
+    "respuesta": "Regalaba el primer episodio completo como shareware, que se copiaba libremente; los otros dos venían en la versión registrada que se compraba por correo."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Filosofía para vivir",
+   "pilar": "mente",
+   "epoca": "1964",
+   "titulo": "Sartre rechazó el Nobel, pero sigue en la lista de ganadores",
+   "dato": "Jean-Paul Sartre no aceptó el Nobel de Literatura de 1964. Aun así, la Academia Sueca lo cuenta como premiado: su rechazo no cambió la validez del premio.",
+   "explicacion": "Sartre escribió a la Academia el 14 de octubre de 1964 para pedir que no lo eligieran. Era tarde: el comité ya lo había decidido el 17 de septiembre, y el anuncio salió el 22 de octubre. Él explicó que un escritor no debe dejarse «transformar en institución»: aceptar un honor oficial comprometía su libertad de opinar.\n\nLa Academia respondió que la negativa «no modifica en absoluto la validez» del premio. Por eso, en la página oficial del Nobel, Sartre aparece como ganador con una nota: «declinó el premio». Es una lección sobre los [[símbolos|Objetos o gestos que representan algo más grande que ellos mismos; aquí, un premio que vale por lo que significa.]]: puedes rechazar un honor, pero no siempre decides qué hacen los demás con tu nombre.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Paul_Sartre_1965.jpg?width=900",
+    "alt": "Retrato de Jean-Paul Sartre con lentes",
+    "pie": "Jean-Paul Sartre en 1965, un año después de rechazar el Nobel.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "NobelPrize.org: Jean-Paul Sartre, facts (1964)",
+    "url": "https://www.nobelprize.org/prizes/literature/1964/sartre/facts/"
+   },
+   "wiki": "Jean-Paul Sartre",
+   "claves": [
+    {
+     "nombre": "Premio Nobel de Literatura",
+     "quien": "El premio que otorga la Academia Sueca desde 1901; Sartre es uno de los pocos que lo rechazó por voluntad propia.",
+     "wiki": "Premio Nobel de Literatura"
+    },
+    {
+     "nombre": "Existencialismo",
+     "quien": "La filosofía de Sartre: estamos «condenados a ser libres» y somos lo que hacemos.",
+     "wiki": "Existencialismo"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué Sartre sigue en la lista de ganadores del Nobel si lo rechazó?",
+    "respuesta": "Porque la Academia Sueca dijo que su negativa no cambiaba la validez del premio; aparece como laureado de 1964 con la nota «declinó el premio»."
+   }
+  },
+  {
+   "materia": "Relaciones y vida social",
+   "pilar": "caracter",
+   "epoca": "1938",
+   "titulo": "El mejor predictor de salud a los 80 no fue el colesterol a los 50",
+   "dato": "Un estudio de Harvard sigue a cientos de hombres desde 1938. Quienes estaban más satisfechos con sus relaciones a los 50 años eran los más sanos a los 80.",
+   "explicacion": "El estudio empezó en 1938 con 268 estudiantes de segundo año de Harvard; entre ellos estaba John F. Kennedy. Décadas después se sumó otro grupo de 456 hombres de barrios pobres de Boston. Los investigadores han revisado sus historias médicas, entrevistas y cuestionarios durante más de 80 años. Es uno de los estudios [[longitudinales|Investigaciones que siguen a las mismas personas durante años para ver cómo cambian.]] más largos del mundo.\n\nSu director actual, el psiquiatra Robert Waldinger, lo resumió así en la Harvard Gazette: lo que predijo cómo envejecerían no fueron los niveles de colesterol en la edad madura, sino la calidad de sus relaciones. Ojo: es un estudio observacional y casi solo de hombres, así que muestra asociación, no causa. Pero el mensaje es claro: cuidar amistades y pareja no es un lujo, es mantenimiento.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard_Yard,_Harvard_University.JPG?width=900",
+    "alt": "Patio arbolado de la Universidad de Harvard con edificios de ladrillo",
+    "pie": "Harvard Yard. Los primeros participantes del estudio eran estudiantes de aquí.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Harvard Gazette: Good genes are nice, but joy is better (2017)",
+    "url": "https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/"
+   },
+   "wiki": "Estudio longitudinal",
+   "claves": [
+    {
+     "nombre": "Universidad de Harvard",
+     "quien": "La universidad donde empezó el estudio en 1938.",
+     "wiki": "Universidad de Harvard"
+    },
+    {
+     "nombre": "John F. Kennedy",
+     "quien": "Uno de los 268 estudiantes originales del estudio.",
+     "wiki": "John F. Kennedy"
+    }
+   ],
+   "repaso": {
+    "pregunta": "Según el estudio de Harvard que empezó en 1938, ¿qué predijo mejor la salud a los 80?",
+    "respuesta": "La satisfacción con las relaciones a los 50 años, más que el colesterol en la edad madura."
+   }
+  },
+  {
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "epoca": "1929",
+   "titulo": "El médico que se metió un catéter hasta el corazón",
+   "dato": "En 1929, un joven médico alemán se introdujo un tubo de 65 cm por una vena del brazo hasta el corazón, y caminó a rayos X para probarlo.",
+   "explicacion": "Werner Forssmann trabajaba en un hospital de Eberswalde, cerca de Berlín. Creía que se podía llegar al corazón por las venas sin abrir el pecho, pero nadie le daba permiso para probarlo. Lo hizo en sí mismo. La radiografía mostró la punta en la aurícula derecha. Es un caso famoso de [[autoexperimentación|Cuando un científico prueba en su propio cuerpo un procedimiento o sustancia antes que en otros.]].\n\nLa respuesta fue de burla: el cirujano Ferdinand Sauerbruch dijo que eso era cosa de circo. Forssmann dejó la cardiología y se hizo urólogo. Pero otros desarrollaron su idea, y en 1956 compartió el Nobel de Medicina con André Cournand y Dickinson Richards. Hoy el [[cateterismo cardíaco|Procedimiento que lleva un tubo delgado por una arteria o vena hasta el corazón para diagnosticar o tratar.]] salva millones de vidas.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Werner_Forssmann_nobel.jpg?width=900",
+    "alt": "Retrato de Werner Forssmann",
+    "pie": "Werner Forssmann, Nobel de Medicina 1956.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "NobelPrize.org: Werner Forssmann, biographical",
+    "url": "https://www.nobelprize.org/prizes/medicine/1956/forssmann/biographical"
+   },
+   "wiki": "Cateterismo cardíaco",
+   "claves": [
+    {
+     "nombre": "Autoexperimentación en ciencia",
+     "quien": "La tradición de científicos que se usaron como primer paciente, de Forssmann a Barry Marshall.",
+     "wiki": "Autoexperimentación en ciencia"
+    },
+    {
+     "nombre": "Premio Nobel de Fisiología o Medicina",
+     "quien": "El premio que reconoció a Forssmann 27 años después de su experimento.",
+     "wiki": "Premio Nobel de Fisiología o Medicina"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué hizo Werner Forssmann en 1929?",
+    "respuesta": "Se metió un catéter por una vena del brazo hasta la aurícula derecha y lo comprobó con rayos X; en 1956 compartió el Nobel de Medicina."
+   }
+  },
+  {
+   "materia": "Arquitectura y diseño",
+   "pilar": "cultura",
+   "epoca": "1989",
+   "titulo": "La pirámide del Louvre no tiene 666 vidrios",
+   "dato": "Circula que la pirámide de cristal del Louvre tiene 666 paneles, «el número de la bestia». Tiene 673. El mito salió de un folleto oficial de los años ochenta.",
+   "explicacion": "El arquitecto estadounidense de origen chino I. M. Pei diseñó la pirámide como nueva entrada del museo. François Mitterrand la inauguró el 29 de marzo de 1989. Mide unos 21 metros de alto. Su función era práctica: el Louvre necesitaba una entrada central para millones de visitantes, y la pirámide deja pasar la luz al vestíbulo subterráneo.\n\nUn folleto de la época dio la cifra de 666 y la leyenda creció; la novela *El código Da Vinci* la repitió. La oficina de Pei la desmintió: son 673 piezas de vidrio. El caso muestra cómo un error oficial, si es una buena historia, viaja más rápido que la corrección.",
+   "fuente": {
+    "nombre": "Musée du Louvre, sala de prensa: The Louvre Pyramid turns 30",
+    "url": "https://presse.louvre.fr/the-louvre-pyramidnbspturns-30"
+   },
+   "wiki": "Pirámide del Museo del Louvre",
+   "claves": [
+    {
+     "nombre": "Ieoh Ming Pei",
+     "quien": "Arquitecto (1917–2019), premio Pritzker 1983; autor de la pirámide.",
+     "wiki": "Ieoh Ming Pei"
+    },
+    {
+     "nombre": "Museo del Louvre",
+     "quien": "El museo más visitado del mundo; la pirámide es su entrada principal.",
+     "wiki": "Museo del Louvre"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuántos paneles de vidrio tiene la pirámide del Louvre y de dónde salió el mito de 666?",
+    "respuesta": "673; el 666 salió de un folleto oficial de los años ochenta y la oficina de Pei lo desmintió."
+   }
+  },
+  {
+   "materia": "Historia y geopolítica",
+   "pilar": "mundo",
+   "epoca": "c. 2560 a. C.",
+   "titulo": "Cleopatra vivió más cerca de la llegada a la Luna que de la Gran Pirámide",
+   "dato": "Entre la construcción de la Gran Pirámide y la muerte de Cleopatra pasaron unos 2,500 años. Entre Cleopatra y el Apolo 11, menos de 2,000.",
+   "explicacion": "La Gran Pirámide de Guiza se terminó hacia el año 2560 a. C., en tiempos del faraón Keops. Cleopatra VII murió en el 30 a. C. Son unos 2,530 años. Del 30 a. C. al 20 de julio de 1969, cuando el Apolo 11 llegó a la Luna, hay unos 1,998 años.\n\nPara Cleopatra, las pirámides eran ya ruinas antiguas, tan lejanas como para nosotros la época romana. Además, ella no era egipcia de origen: venía de la dinastía [[ptolemaica|Familia de reyes de origen macedonio que gobernó Egipto desde la muerte de Alejandro Magno hasta Cleopatra.]], griega. Este tipo de cálculo corrige un error común: pensar en «la Antigüedad» como un solo bloque, cuando duró más que todo lo que vino después.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kheops-Pyramid.jpg?width=900",
+    "alt": "Gran Pirámide de Guiza bajo un cielo azul",
+    "pie": "La Gran Pirámide de Guiza, terminada hacia 2560 a. C.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "WorldAtlas: Cleopatra lived closer in time to the first lunar landing than the Great Pyramids",
+    "url": "https://www.worldatlas.com/articles/so-cleopatra-lived-closer-in-time-to-the-first-lunar-landing-than-the-great-pyramids.html"
+   },
+   "wiki": "Gran Pirámide de Guiza",
+   "claves": [
+    {
+     "nombre": "Muerte de Cleopatra",
+     "quien": "El año 30 a. C., fin del Egipto independiente y paso a provincia romana.",
+     "wiki": "Muerte de Cleopatra"
+    },
+    {
+     "nombre": "Apolo 11",
+     "quien": "La misión que llevó a Armstrong y Aldrin a la Luna en julio de 1969.",
+     "wiki": "Apolo 11"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuántos años separan la Gran Pirámide de Cleopatra, y a Cleopatra del Apolo 11?",
+    "respuesta": "Unos 2,530 años de la pirámide (c. 2560 a. C.) a su muerte (30 a. C.); unos 1,998 de ella a 1969."
+   }
+  },
+  {
+   "materia": "Inversión y finanzas personales",
+   "pilar": "patrimonio",
+   "epoca": "2018",
+   "titulo": "De las 12 empresas originales del Dow Jones, la última salió en 2018",
+   "dato": "El índice Dow Jones empezó en 1896 con 12 empresas. General Electric fue la última de ellas en salir: la sacaron en junio de 2018.",
+   "explicacion": "Charles Dow creó el promedio para resumir en un número cómo iba la industria de Estados Unidos. En 1896 eran empresas de algodón, azúcar, tabaco, cuero y gas. Casi todas desaparecieron, se fusionaron o dejaron de importar. GE, fundada por el entorno de Edison, fue la que más aguantó (con matices: entró y salió en los primeros años y estaba de forma continua desde 1907). La reemplazó la farmacéutica Walgreens Boots Alliance.\n\nLa lección para entender el dinero: un [[índice bursátil|Número que resume el precio de un grupo de acciones para medir cómo va un mercado.]] sobrevive porque cambia de miembros. Las empresas, incluso las gigantes, no son eternas. Es una explicación de historia, no una recomendación de compra o venta.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Henry_Dow.jpg?width=900",
+    "alt": "Retrato antiguo de Charles Henry Dow con barba",
+    "pie": "Charles Henry Dow, cofundador de Dow Jones & Company y del Wall Street Journal.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "NPR: Dow Jones Drops GE, A Member Of The Original Industrial Average In 1896 (2018)",
+    "url": "https://www.npr.org/2018/06/19/621659846/dow-jones-drops-ge-a-member-of-the-original-industrial-average-in-1896"
+   },
+   "wiki": "Promedio Industrial Dow Jones",
+   "claves": [
+    {
+     "nombre": "Charles Henry Dow",
+     "quien": "Periodista que creó el índice y fundó el Wall Street Journal.",
+     "wiki": "Charles Henry Dow"
+    },
+    {
+     "nombre": "General Electric",
+     "quien": "La empresa que más tiempo resistió de las originales del Dow.",
+     "wiki": "General Electric"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuál fue la última empresa original del Dow Jones en salir del índice y cuándo?",
+    "respuesta": "General Electric, en junio de 2018; la reemplazó Walgreens Boots Alliance."
+   }
+  },
+  {
+   "materia": "IA y el futuro",
+   "pilar": "futuro",
+   "epoca": "1843",
+   "titulo": "La primera objeción contra la IA la escribió Ada Lovelace en 1843",
+   "dato": "Más de un siglo antes de la primera computadora electrónica, Ada Lovelace escribió que la máquina analítica «no tiene pretensión alguna de originar nada». Turing le contestó en 1950.",
+   "explicacion": "Lovelace tradujo un artículo sobre la [[máquina analítica|Computadora mecánica diseñada por Charles Babbage en el siglo XIX; nunca se terminó de construir.]] de Charles Babbage y le añadió notas más largas que el texto. En la Nota G escribió que la máquina solo podía hacer «lo que sepamos ordenarle». Es decir: no crea, ejecuta.\n\nEn 1950, Alan Turing publicó «Computing Machinery and Intelligence», el artículo de la prueba de Turing. Dedicó una sección a «la objeción de Lady Lovelace». Respondió que las máquinas pueden sorprendernos y que quizá aprender cambia las cosas. El debate sigue hoy: cuando un modelo de IA escribe algo nuevo, ¿origina o recombina lo que le dimos?",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ada_Lovelace_portrait.jpg?width=900",
+    "alt": "Retrato de Ada Lovelace con vestido oscuro",
+    "pie": "Ada Lovelace (1815–1852), hija del poeta Lord Byron.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Turing (1950): Computing Machinery and Intelligence, Mind",
+    "url": "https://www.cs.princeton.edu/courses/archive/fall23/cos109/turingpaper.pdf"
+   },
+   "wiki": "Ada Lovelace",
+   "claves": [
+    {
+     "nombre": "Máquina analítica",
+     "quien": "La máquina de Babbage para la que Lovelace escribió el primer algoritmo publicado.",
+     "wiki": "Máquina analítica"
+    },
+    {
+     "nombre": "Alan Turing",
+     "quien": "Matemático británico que en 1950 respondió a la objeción de Lovelace.",
+     "wiki": "Alan Turing"
+    },
+    {
+     "nombre": "Prueba de Turing",
+     "quien": "El juego de imitación propuesto en el mismo artículo de 1950.",
+     "wiki": "Prueba de Turing"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué es «la objeción de Lady Lovelace»?",
+    "respuesta": "La idea de Ada Lovelace (1843) de que la máquina no origina nada y solo hace lo que le ordenamos; Turing la discutió en 1950."
+   }
+  },
+  {
+   "materia": "Oficios del lujo y estilo",
+   "pilar": "gusto",
+   "epoca": "1917",
+   "titulo": "El reloj Tank de Cartier nació mirando tanques desde arriba",
+   "dato": "Louis Cartier diseñó en 1917 un reloj rectangular inspirado en los tanques Renault FT de la Primera Guerra Mundial. Se puso a la venta en 1919: solo seis piezas.",
+   "explicacion": "Vistos desde arriba, los tanques Renault tenían dos orugas paralelas a los lados y una cabina al centro. Cartier convirtió esa forma en reloj: las barras laterales, llamadas *brancards*, son las orugas, y la esfera es la cabina. Se cuenta que el primer prototipo fue para el general estadounidense John Pershing; es la versión habitual, aunque no hay documento de Cartier que lo pruebe.\n\nSegún los registros citados por WorldTempus, seis piezas entraron al inventario a finales de 1919 y todas se vendieron antes del 17 de enero de 1920. Así se reconoce un [[diseño clásico|Diseño que se mantiene casi igual durante décadas porque su forma ya resolvió su función.]]: más de cien años después, el Tank conserva la misma idea de proporción.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A_French_World_War_I_Renault_FT-17_tank,_ditching.jpg?width=900",
+    "alt": "Tanque Renault FT de la Primera Guerra Mundial cruzando una zanja",
+    "pie": "Un tanque Renault FT en la Primera Guerra Mundial. Sus orugas inspiraron los laterales del Tank.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "WorldTempus: The origins of the Cartier Tank",
+    "url": "https://en.worldtempus.com/article/watch-knowledge/origins-cartier-tank-cartier-79814.html"
+   },
+   "wiki": "Cartier (empresa)",
+   "claves": [
+    {
+     "nombre": "Renault FT-17",
+     "quien": "Tanque francés de 1917, el primero con torreta giratoria; su silueta inspiró el reloj.",
+     "wiki": "Renault FT-17"
+    },
+    {
+     "nombre": "Cartier",
+     "quien": "La casa de joyería y relojería fundada en París en 1847.",
+     "wiki": "Cartier (empresa)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué representan las barras laterales del reloj Tank de Cartier?",
+    "respuesta": "Las orugas de los tanques Renault FT vistos desde arriba; el reloj se diseñó en 1917 y se vendió desde 1919."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "Don Quijote de la Mancha (selección)",
+  "autor": "Miguel de Cervantes",
+  "capitulo": {
+   "numero": 3,
+   "total": 6,
+   "titulo": "Los molinos de viento"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Don_Quijote_Illustration_by_Gustave_Dore_VII.jpg?width=900",
+   "alt": "Grabado de don Quijote atacando un molino de viento",
+   "pie": "Don Quijote contra los molinos, según Gustave Doré (1863).",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "¿Cuántas veces has visto gigantes donde había molinos? Un competidor que parecía invencible, una crisis que resultó un ruido, un enemigo que solo existía en tu cabeza. Hoy leemos la escena más famosa de la literatura en español, y es mucho más que un chiste.\n\nEn el capítulo anterior, el cura y el barbero quemaron los libros de don Quijote y tapiaron su biblioteca. Él, en lugar de curarse, convenció a un vecino, Sancho Panza, para que fuera su [[escudero|Criado que acompañaba al caballero, le llevaba las armas y lo servía en el camino.]]. Hoy leemos el capítulo VIII de la primera parte: los molinos de viento y el principio de la pelea con el vizcaíno."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Treinta o pocos más"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Amo y escudero salen de madrugada, a escondidas. Cabalgan por el [[Campo de Montiel|Comarca de La Mancha, en el centro de España, donde Cervantes sitúa las primeras salidas de don Quijote.]]. Sancho va en su asno, con unas alforjas y una bota de vino, pensando en la ínsula que le prometieron. De pronto, en el llano, aparecen treinta o cuarenta molinos de viento. Don Quijote se ilumina."
+   },
+   {
+    "tipo": "cita",
+    "texto": "—La ventura va guiando nuestras cosas mejor de lo que acertáramos a desear; porque ves allí, amigo Sancho Panza, donde se descubren treinta o pocos más desaforados gigantes, con quien pienso hacer batalla y quitarles a todos las vidas.",
+    "fuente": "Don Quijote, Primera parte, cap. VIII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Fíjate en el razonamiento. Don Quijote no duda de lo que ve: duda de los demás. Para él, la aventura ya está escrita en los libros de caballerías, y el mundo solo tiene que acomodarse. Añade que es «gran servicio de Dios quitar tan mala simiente de sobre la faz de la tierra». Tiene una causa noble, y eso lo hace más peligroso.\n\nSancho, en cambio, mira lo que hay."
+   },
+   {
+    "tipo": "cita",
+    "texto": "—Mire vuestra merced —respondió Sancho— que aquellos que allí se parecen no son gigantes, sino molinos de viento, y lo que en ellos parecen brazos son las aspas, que, volteadas del viento, hacen andar la piedra del molino.",
+    "fuente": "Don Quijote, Primera parte, cap. VIII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es la primera vez que vemos a los dos funcionar como pareja. El caballero tiene imaginación y valor. El escudero tiene ojos y sentido común. Ninguno de los dos solo sería suficiente."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Qué ve Sancho donde don Quijote ve gigantes?",
+    "opciones": [
+     "Soldados enemigos a caballo",
+     "Molinos de viento, cuyas aspas mueven la piedra",
+     "Árboles movidos por la tormenta"
+    ],
+    "correcta": 1,
+    "explicacion": "Sancho describe con precisión lo que hay: molinos, y lo que parecen brazos son las aspas que, movidas por el viento, hacen girar la piedra del molino."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La carga"
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Don_Quijote_Illustration_by_Gustave_Dore_VII.jpg?width=900",
+    "alt": "Grabado de un caballero con lanza que es levantado por las aspas de un molino de viento mientras su escudero mira",
+    "pie": "Gustave Doré ilustró el Quijote en 1863. Su versión de los molinos es la imagen que casi todos tenemos en la cabeza.",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Don Quijote ni escucha. Le dice a Sancho que, si tiene miedo, se aparte y rece. Espuela a [[Rocinante|El caballo flaco de don Quijote; su nombre juega con «rocín», caballo de poco valor, y «ante», antes.]] y grita a los molinos:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "—Non fuyades, cobardes y viles criaturas, que un solo caballero es el que os acomete.",
+    "fuente": "Don Quijote, Primera parte, cap. VIII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Fíjate en «non fuyades»: es castellano antiguo, el idioma de los libros de caballerías, ya pasado de moda en 1605. Cervantes lo usa para que el lector se ría: don Quijote habla como un libro viejo.\n\nEn ese momento se levanta un poco de viento y las aspas empiezan a moverse. Él lo interpreta a su modo: los gigantes se preparan. Se encomienda a su dama, Dulcinea, se cubre con su escudo, embiste a galope y mete la lanza en el aspa del primer molino. El viento la gira con tanta fuerza que rompe la lanza en pedazos y lanza al caballo y al caballero rodando por el campo.\n\nSancho llega corriendo en su asno y le recuerda, con toda razón, que ya se lo había dicho. La respuesta de don Quijote es una obra maestra de [[racionalización|Explicación que uno se da para que un error parezca razonable y no tener que cambiar de idea.]]."
+   },
+   {
+    "tipo": "cita",
+    "texto": "—Calla, amigo Sancho —respondió don Quijote—, que las cosas de la guerra, más que otras, están sujetas a continua mudanza; cuanto más, que yo pienso, y así es verdad, que aquel sabio Frestón que me robó el aposento y los libros ha vuelto estos gigantes en molinos por quitarme la gloria de su vencimiento.",
+    "fuente": "Don Quijote, Primera parte, cap. VIII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Frestón es un encantador inventado por don Quijote para explicar por qué su biblioteca desapareció (en realidad, la tapiaron el cura y el barbero). Ahora lo usa otra vez. Su sistema de creencias es perfecto: si algo le da la razón, era verdad; si algo lo desmiente, fue un encantamiento. Nada puede refutarlo."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Los molinos sí existían",
+    "texto": "Los molinos de viento eran relativamente nuevos en La Mancha a finales del siglo XVI. Hoy todavía se conservan en pueblos como Campo de Criptana, que reclama ser el escenario de la escena. Para un lector de 1605, ver molinos no era una fantasía medieval: era tecnología moderna. Don Quijote ataca, sin saberlo, al progreso de su tiempo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El caballero que no se queja"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Siguen hacia Puerto Lápice. Sin lanza, don Quijote recuerda a un caballero español, Diego Pérez de Vargas, que rompió su espada en una batalla y siguió peleando con una rama de encina: por eso lo llamaron «Machuca». Él decide hacer lo mismo y arranca una rama seca para usarla como lanza.\n\nSancho nota que su amo va ladeado en el caballo, molido por la caída. Don Quijote explica que no se queja porque a los caballeros andantes no les está permitido quejarse de ninguna herida, aunque se les salgan las tripas. Sancho contesta, muy práctico, que él sí piensa quejarse del menor dolor, salvo que esa regla también valga para los escuderos.\n\nLuego Sancho come y bebe de su bota mientras cabalga, tan contento, que le parece que buscar aventuras no es trabajo sino descanso. Esa noche don Quijote no duerme, pensando en Dulcinea, como hacían los caballeros de sus libros. Sancho duerme de un tirón."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Cómo explica don Quijote que los gigantes se hayan vuelto molinos?",
+    "opciones": [
+     "Dice que el encantador Frestón los transformó para quitarle la gloria",
+     "Admite que Sancho tenía razón desde el principio",
+     "Culpa a Rocinante por haber tropezado"
+    ],
+    "correcta": 0,
+    "explicacion": "Don Quijote no acepta el error: inventa que el sabio Frestón, el mismo que se llevó sus libros, convirtió a los gigantes en molinos."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Una pelea que se queda en el aire"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Al día siguiente encuentran a dos frailes de San Benito en mula y, detrás, un coche con una señora vizcaína que va a Sevilla. Don Quijote decide que los frailes son encantadores que llevan secuestrada a una princesa. Los ataca. Uno cae; el otro huye.\n\nEntonces interviene un escudero vizcaíno, que habla un castellano torpe y sabroso, y reta a don Quijote. Los dos se lanzan, con las espadas en alto, a darse un golpe que podría partir en dos al otro.\n\nY ahí, justo ahí, Cervantes detiene la historia. Dice que el autor de esta historia dejó la batalla pendiente porque no encontró más escrito sobre las hazañas de don Quijote. Es uno de los primeros *cliffhangers* de la novela moderna, y un truco más: Cervantes empieza a jugar con la idea de que él no es el autor, sino alguien que encontró un manuscrito."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Qué nos dice hoy"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El episodio de los molinos se volvió un verbo: «luchar contra molinos de viento» es pelear contra enemigos imaginarios. Pero la escena enseña algo más fino que «no seas iluso».\n\nPrimero, que la imaginación sin verificación es peligrosa, y la verificación sin imaginación es pobre. Don Quijote necesita a Sancho, y Sancho, sin su amo, nunca habría salido de su pueblo.\n\nSegundo, que el error más grave no es equivocarse: es construirse una explicación que impide aprender. El encantador Frestón es el antepasado de todas las excusas que protegen una creencia de los hechos.\n\nY tercero, que hay valor en levantarse con una rama de encina y seguir adelante. El Quijote es una novela cómica, pero su protagonista nunca es cobarde."
+   }
+  ],
+  "paraLlevar": [
+   "Antes de cargar contra un gigante, pregunta a tu Sancho qué ve él.",
+   "Si cada prueba en contra la explicas con un «encantador», ya no estás pensando: estás defendiéndote.",
+   "Se puede perder la lanza y seguir con una rama: la dignidad está en levantarse."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Qué recuerda don Quijote de Diego Pérez de Vargas y qué hace él?",
+    "respuesta": "Que rompió su espada y siguió peleando con una rama de encina (por eso lo llamaron Machuca); don Quijote arranca una rama seca para usarla como lanza."
+   },
+   {
+    "pregunta": "¿Cómo termina el capítulo VIII?",
+    "respuesta": "Con don Quijote y el escudero vizcaíno con las espadas en alto; el narrador corta la batalla diciendo que no encontró más escrito."
+   }
+  ],
+  "proximo": "Don Quijote de la Mancha · Capítulo 4: el vizcaíno y el manuscrito de Cide Hamete Benengeli",
+  "fuentes": [
+   {
+    "nombre": "Proyecto Gutenberg: Don Quijote, de Miguel de Cervantes",
+    "url": "https://www.gutenberg.org/ebooks/2000"
+   },
+   {
+    "nombre": "Wikipedia: Luchar contra molinos de viento",
+    "url": "https://es.wikipedia.org/wiki/Luchar_contra_molinos_de_viento"
+   }
+  ],
+  "nota": "Citas tomadas del texto original de Cervantes (1605, dominio público), con ortografía modernizada, a partir de la edición del Proyecto Gutenberg."
+ },
+ "palabra": {
+  "palabra": "Suntuario",
+  "categoria": "Adjetivo",
+  "pronunciacion": "sun-TUA-rio",
+  "definicion": "Relativo al lujo o al gasto en lujo. Se usa sobre todo en «leyes suntuarias»: normas que limitaban lo que cada persona podía gastar en ropa, joyas o banquetes.",
+  "origen": "Del latín *sumptuarius*, de *sumptus*: gasto. De la misma raíz viene «suntuoso».",
+  "ejemplo": "Las reglas británicas de ahorro de tela en la posguerra funcionaron casi como una ley suntuaria, y el New Look de Dior las desafió.",
+  "repaso": {
+   "pregunta": "¿Qué era una ley suntuaria?",
+   "respuesta": "Una norma que limitaba el gasto en lujo (ropa, joyas, banquetes); «suntuario» viene del latín sumptus, gasto."
+  }
+ },
+ "frances": {
+  "frase": "Il faut souffrir pour être belle.",
+  "traduccion": "«Hay que sufrir para ser bella.»",
+  "pronunciacion": "il FO su-FRIR pur ETR BEL",
+  "uso": "Cultura. Dicho tradicional francés, medio en broma, sobre el precio de la elegancia: zapatos que aprietan, corsés, cinturas estrechas. Encaja con el New Look de Dior, que exigía fajas y enaguas rígidas. Hoy se dice con ironía: «Ces chaussures me tuent... il faut souffrir pour être belle!»",
+  "variante": "Il faut souffrir pour être beau. (En masculino, también se usa con humor.)",
+  "repaso": {
+   "pregunta": "¿Cómo se dice en francés «hay que sufrir para ser bella»?",
+   "respuesta": "« Il faut souffrir pour être belle. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Por qué el New Look de Dior fue polémico en 1947?",
+   "opciones": [
+    "Porque usaba telas sintéticas nuevas",
+    "Porque gastaba mucha tela cuando la ropa aún se racionaba",
+    "Porque acortaba las faldas por encima de la rodilla"
+   ],
+   "correcta": 1,
+   "explicacion": "Un vestido de día podía usar unos 15 metros de tela; en Gran Bretaña un vestido Utility permitía unos 1.8. Hubo críticas del Board of Trade y clubes contra las faldas largas."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿A cuánto llegó el peso frente al dólar el lunes 23 de noviembre?",
+   "opciones": [
+    "17.95",
+    "18.67",
+    "19.21"
+   ],
+   "correcta": 2,
+   "explicacion": "Cotizó en 19.2120, su cuarta caída seguida y su nivel más débil desde junio de 2025. El 18.67 es lo que espera la Encuesta Citi para fin de año."
+  },
+  {
+   "origen": "materias",
+   "pregunta": "¿De dónde salió la palabra «impresionismo»?",
+   "opciones": [
+    "De una burla del crítico Louis Leroy en 1874",
+    "De un manifiesto que firmaron Monet y Renoir",
+    "De una clasificación del Museo del Louvre"
+   ],
+   "correcta": 0,
+   "explicacion": "Leroy tomó el título del cuadro de Monet, Impresión, sol naciente, para ridiculizar al grupo en Le Charivari el 25 de abril de 1874."
+  }
+ ],
+ "libro": null,
+ "proximo": "El café de París: de Le Procope a Les Deux Magots"
+}
