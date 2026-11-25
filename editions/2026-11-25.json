@@ -1,0 +1,842 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-25",
+ "numero": 34,
+ "fecha": "2026-11-25",
+ "disponibleDesde": "2026-11-25T08:00:00-06:00",
+ "titulo": "El café de París: de Le Procope a Les Deux Magots",
+ "temporada": {
+  "id": "t06",
+  "numero": 6,
+  "titulo": "París: cómo se hizo la capital del gusto",
+  "episodio": 5,
+  "totalEpisodios": 6
+ },
+ "calentamiento": [
+  {
+   "pregunta": "¿Quién bautizó el estilo de Dior como «New Look» en 1947?",
+   "respuesta": "Carmel Snow, editora de Harper's Bazaar, al terminar el primer desfile.",
+   "origen": "Edición #33"
+  },
+  {
+   "pregunta": "¿Cuánto envió Estados Unidos a Europa con el Plan Marshall?",
+   "respuesta": "Unos 13,300 millones de dólares entre 1948 y 1952, para 17 países.",
+   "origen": "Edición #33"
+  },
+  {
+   "pregunta": "¿Qué inventa don Quijote para explicar que los gigantes eran molinos?",
+   "respuesta": "Que el sabio encantador Frestón los transformó para quitarle la gloria.",
+   "origen": "Edición #33"
+  }
+ ],
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Restaurant_Le_Procope,_Paris,_France.JPG?width=900",
+  "alt": "Fachada de Le Procope en París con letreros dorados y faroles",
+  "pie": "Le Procope, abierto en 1686 en la actual rue de l'Ancienne-Comédie, en París.",
+  "credito": "Wikimedia Commons"
+ },
+ "noticias": [
+  {
+   "id": "inflacion-396-nov25",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-11-24",
+   "historiaEnCurso": {
+    "id": "tasas-banxico",
+    "titulo": "Tasas de Banxico y el peso",
+    "capitulo": 10,
+    "dondeIbamos": "El lunes 23 el peso cayó por cuarta sesión seguida, a 19.21 por dólar. Banxico tiene su tasa en 6.25% tras un recorte votado 3 a 2, y Jonathan Heath advirtió que la depreciación puede subir precios con unos seis meses de rezago."
+   },
+   "titular": "La inflación sube a 3.96% y queda a cuatro décimas del techo de Banxico",
+   "quePaso": "El INEGI informó el martes 24 que la inflación anual de la primera quincena de noviembre fue de **3.96%**. Los precios subieron 0.54% en solo dos semanas.\n\nEl dato superó lo que esperaban los analistas (3.92%, según Crónica). Crónica y EFE lo describen como la novena subida consecutiva. Banxico busca 3%, con un margen de un punto hacia arriba o hacia abajo.",
+   "aMiQue": "Lo que subió es comida fresca y luz, no tanto lo que tú vendes. Pero el peso sigue débil: si tus insumos o envases se pagan en dólares, el golpe llegará a tus costos en los próximos meses. Si fijas precios de lista para enero, calcula con el tipo de cambio de hoy (más de 19.2) y no con el de septiembre.",
+   "contexto": "**Hecho:** según los datos del INEGI citados por Grupo Animal, los mayores aumentos de la quincena fueron tomate verde (+39.31%), jitomate (+28.95%), chile poblano (+26.97%) y electricidad (+20.74%). La luz sube cada noviembre porque terminan los [[subsidios de verano|Tarifas eléctricas más bajas que se aplican en las ciudades calurosas durante los meses de calor.]] en varias ciudades.\n\n**Hecho:** la inflación [[subyacente|La que deja fuera los precios más volátiles, como frutas, verduras y energía; muestra la tendencia de fondo.]] bajó a 3.68% anual. La no subyacente subió a 4.90%.\n\n**Hecho:** el peso cotizó arriba de 19.27 por dólar tras el dato (Grupo Animal). Gabriela Siller, de Grupo Financiero BASE, dice que es la tercera moneda más depreciada desde el 15 de septiembre.\n\n**Interpretación:** el salto viene de rubros que suelen bajar solos. El riesgo de fondo es otro: un peso débil que encarezca lo importado en 2027.",
+   "queVigilar": "La segunda quincena de noviembre (INEGI, a principios de diciembre) y la decisión de Banxico del 17 de diciembre: con la inflación cerca de 4%, un nuevo recorte es más difícil de justificar.",
+   "fuentes": [
+    {
+     "nombre": "Crónica: La inflación en México escala al 3.96%, la novena subida consecutiva (24 nov 2026)",
+     "url": "https://www.cronica.com.mx/negocios/2026/11/24/la-inflacion-en-mexico-escala-al-396-la-novena-subida-consecutiva/"
+    },
+    {
+     "nombre": "Diario de Yucatán (EFE): La inflación en México sube a 3.96% en la primera quincena de noviembre (24 nov 2026)",
+     "url": "https://www.yucatan.com.mx/economia-2/2026/11/24/la-inflacion-en-mexico-sube-a-3-96-en-la-primera-quincena-de-noviembre-de-2026.html"
+    },
+    {
+     "nombre": "Grupo Animal: Inflación sube a 3.96% en primera quincena de noviembre",
+     "url": "https://grupoanimal.mx/explicaciones/inflacion-mexico-noviembre-2026-meta-banxico"
+    }
+   ]
+  },
+  {
+   "id": "petroleo-minas-ormuz-nov25",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-25",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 30,
+    "dondeIbamos": "El 23 de noviembre el Brent rondaba los 90 dólares y acumulaba una caída de cerca de una quinta parte en el mes. La OPEP+ decide su producción para 2027 el 29 de noviembre."
+   },
+   "titular": "El petróleo baja por la diplomacia con Irán; hoy Teherán reporta dos petroleros minados en Ormuz",
+   "quePaso": "El martes 24 el Brent cotizó cerca de **89 dólares** por barril y el WTI bajó de 80, después de caer más de 3% el lunes (Irish Times, con información de agencias).\n\nEste miércoles 25, Reuters informó que la Marina de la Guardia Revolucionaria de Irán dijo, en un comunicado de la televisión estatal, que **dos petroleros chocaron con minas navales**, explotaron y se incendiaron en el estrecho de Ormuz. Irán pidió a los barcos coordinar su paso. No hay todavía confirmación independiente ni nombres de los buques.",
+   "aMiQue": "El petróleo barato baja el costo de fletes, del PET de las botellas y de la energía para fundir aluminio. Pero un solo incidente en Ormuz puede borrar la caída en horas. No cierres contratos de envases o transporte de 2027 pensando que el precio de esta semana es el nuevo normal.",
+   "contexto": "**Hecho:** según Axios, citado por Irish Times, el vicepresidente JD Vance se reunió con el primer ministro de Catar, que media en un conflicto de casi nueve meses.\n\n**Hecho:** Irán quiere que se levante el [[bloqueo naval|Cierre de los puertos de un país por buques de guerra para impedir que entre o salga mercancía.]] de sus puertos y que se alivien sanciones antes de reabrir del todo Ormuz. Washington pide concesiones sobre su programa nuclear (Bloomberg, vía Irish Times).\n\n**Hecho:** la Agencia Internacional de Energía prevé exceso de oferta este trimestre y Goldman Sachs advierte de un posible exceso en 2027. «La oferta y la demanda y los vientos geopolíticos soplan hacia la baja», dijo Robert Yawger, de Mizuho.\n\n**Interpretación:** el mercado apostaba por la paz. Las minas, si se confirman, ponen a prueba esa apuesta justo antes de la reunión de la OPEP+.",
+   "queVigilar": "Si alguna fuente independiente confirma el ataque a los petroleros, y la reunión de la OPEP+ del 29 de noviembre.",
+   "fuentes": [
+    {
+     "nombre": "Irish Times: Oil extends decline on signs of continuing US-Iran diplomacy (24 nov 2026)",
+     "url": "https://www.irishtimes.com/business/markets/2026/11/24/oil-extends-decline-on-signs-of-continuing-us-iran-diplomacy/"
+    },
+    {
+     "nombre": "Reuters vía MarketScreener: Iran says ships hit mines in Hormuz, warns vessels to coordinate passage (25 nov 2026)",
+     "url": "https://www.marketscreener.com/news/iran-says-ships-hit-mines-in-hormuz-warns-vessels-to-coordinate-passage-ce7851dbd088f720"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "En 1686 un siciliano abrió un café en París. Lo que hizo famoso al lugar no fue el café, sino el vecino que llegó tres años después.",
+    "contexto": "París, 1686. El café es todavía una rareza. Llegó a la corte de Luis XIV en 1669 con un enviado del sultán otomano, y se vendía sobre todo en ferias y puestos callejeros.\n\nUn joven de Palermo, [[Francesco Procopio dei Coltelli|Cocinero siciliano (1651–1727) que se instaló en París y fundó el café que lleva su nombre.]], abre un local en la calle de los Fossés-Saint-Germain. No es un puesto: tiene espejos, candelabros y mesas de mármol. Vende café, chocolate, licores y sus famosos sorbetes helados.\n\nTres años después, en 1689, se instala justo enfrente una institución nueva. Desde entonces, el café se llena todas las noches.",
+    "pregunta": "¿Qué se instaló en 1689 frente al café Procope y le cambió la clientela?",
+    "opciones": [
+     "La Universidad de la Sorbona",
+     "La Comédie-Française, el teatro del rey",
+     "El mercado central de Les Halles"
+    ],
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A_gravure_of_Le_Cafe_Procope_in_XIX_quarter_in_Paris.jpg?width=900",
+     "alt": "Grabado antiguo del café Procope en París",
+     "pie": "El Procope en un grabado del siglo XIX. Sigue abierto en la misma calle, hoy llamada rue de l'Ancienne-Comédie.",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Un salón donde nadie tenía que ser invitado",
+    "texto": "En el París del siglo XVII, la conversación culta vivía en los [[salones|Reuniones en casas aristocráticas, organizadas por una anfitriona, donde se conversaba de literatura, política y ciencia.]]. Para entrar necesitabas una invitación y un apellido. El café de Procopio cambió eso: bastaba pagar una taza.\n\nAhí se sentaban juntos un marqués, un actor y un abogado sin dinero. Nadie preguntaba de dónde venías. Se leían periódicos en voz alta, se discutía la obra de esa noche y se escribían versos en las mesas.\n\nEn el siglo XVIII el Procope se volvió el cuartel de la [[Ilustración|Movimiento intelectual europeo del siglo XVIII que defendía la razón, la ciencia y la crítica al poder absoluto.]]. Lo frecuentaron Voltaire, Rousseau y Diderot. Benjamin Franklin pasó por ahí durante sus años en París. Durante la Revolución, Danton, Marat y Robespierre discutían en sus mesas.\n\nOtros cafés copiaron la fórmula. El 12 de julio de 1789, en el café de Foy del Palais-Royal, el periodista [[Camille Desmoulins|Abogado y periodista francés (1760–1794); su arenga en el Palais-Royal ayudó a encender la toma de la Bastilla.]] se subió a una mesa y llamó a las armas. Dos días después cayó la Bastilla.\n\nUn siglo más tarde la escena se mudó unas calles. En el bulevar Saint-Germain abrieron Les Deux Magots y el Café de Flore. En los años cuarenta, Jean-Paul Sartre y Simone de Beauvoir escribían ahí casi a diario: el Flore tenía calefacción cuando sus departamentos no.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cafe_Les_Deux_Magots,_Paris_-_2011.JPG?width=900",
+     "alt": "Terraza de Les Deux Magots con toldo verde en Saint-Germain-des-Prés",
+     "pie": "Les Deux Magots, frente a la iglesia de Saint-Germain-des-Prés. Su premio literario existe desde 1933.",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "giro",
+    "titulo": "El café no vendía café: vendía el entreacto",
+    "texto": "La respuesta es **la Comédie-Française**. La compañía teatral del rey se instaló en 1689 frente al Procope, en la misma calle. Desde entonces actores, autores y público cruzaban antes y después de cada función.\n\nAhí está la sorpresa. El éxito del Procope no se explica por la bebida. Café había en otros lados. Lo que Procopio ofrecía era **un lugar para hablar de lo que acababas de ver**. La obra daba el tema; el café daba la mesa.\n\nPor eso la calle cambió de nombre. Cuando el teatro se fue en 1770, la vía pasó a llamarse rue de l'Ancienne-Comédie: «calle de la antigua Comedia». El teatro se fue; la conversación se quedó.\n\nY por eso los grandes cafés de París casi siempre nacieron junto a algo: un teatro, un palacio con tiendas, una universidad o una editorial. El café es el lugar donde una ciudad digiere lo que pasa a su alrededor.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Restaurant_Le_Procope,_Paris,_France.JPG?width=900",
+     "alt": "Fachada del restaurante Le Procope con letreros dorados",
+     "pie": "Le Procope hoy. Es restaurante y presume ser el café más antiguo de París que sigue abierto.",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "El tercer lugar",
+    "texto": "El sociólogo estadounidense **Ray Oldenburg** llamó así, en su libro *The Great Good Place* (1989), a los sitios que no son ni la casa (el primer lugar) ni el trabajo (el segundo). Cafés, barberías, cantinas, plazas.\n\nSegún Oldenburg, un buen tercer lugar tiene rasgos claros:\n\n**Es neutral:** nadie es anfitrión, puedes llegar e irte cuando quieras.\n\n**Nivela:** dentro, el puesto o el apellido importan poco.\n\n**La conversación es la actividad principal.**\n\n**Tiene habituales**, que le dan carácter y reciben a los nuevos.\n\nÚsalo como lente. Cuando un lugar o una marca triunfan sin que su producto sea mejor, pregunta: ¿qué conversación está hospedando?",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Café_de_Flore,_172_boulevard_Saint-Germain,_Paris_6e.jpg?width=900",
+     "alt": "Terraza del Café de Flore en el bulevar Saint-Germain",
+     "pie": "El Café de Flore, en el número 172 del bulevar Saint-Germain.",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Del Procope a tu barrio",
+    "texto": "**En las cafeterías de Guadalajara.** Los cafés de especialidad de colonias como la Americana o Chapalita no compiten solo por el grano. Compiten por ser el lugar donde la gente se encuentra, trabaja un rato o cierra un trato. Por eso el ruido, la luz y las mesas importan tanto como la taza.\n\n**En las marcas.** Howard Schultz construyó Starbucks con esa idea explícita: ser el «tercer lugar» entre la casa y la oficina. Una marca premium puede hacer lo mismo sin local propio: catas, cenas pequeñas, un club de clientes. La pregunta es qué conversación quieres que la gente asocie contigo.\n\n**En los negocios del derecho.** Durante siglos, muchos acuerdos se negociaron fuera de la notaría. La famosa aseguradora Lloyd's de Londres nació en un café en el siglo XVII."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿Cuál es hoy tu tercer lugar, y cuándo fue la última vez que saliste de ahí con una idea que no tenías?",
+    "texto": "Elige mentalmente uno: un café, un club, una sobremesa familiar o ninguno. Si es «ninguno», ya sabes qué te falta."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Un gran café no vende bebidas: le presta a la ciudad una mesa para pensar en voz alta."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Sortir à Paris: Le Procope, punto de encuentro de la Ilustración (en inglés)",
+   "url": "https://www.sortiraparis.com/en/where-to-eat-in-paris/restaurant/articles/334658-the-little-history-of-paris-s-grand-restaurants-le-procope-meeting-place-of-the-enlightenment",
+   "minutos": 6
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Por qué la calle del Procope se llama rue de l'Ancienne-Comédie?",
+    "respuesta": "Porque ahí estuvo la Comédie-Française de 1689 a 1770; el café se llenaba con su público y actores."
+   },
+   {
+    "pregunta": "¿Qué es un «tercer lugar» según Ray Oldenburg?",
+    "respuesta": "Un sitio que no es ni la casa ni el trabajo (café, barbería, plaza): neutral, nivelador y con la conversación como actividad principal."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Wikipedia (inglés): Café Procope",
+    "url": "https://en.wikipedia.org/wiki/Caf%C3%A9_Procope"
+   },
+   {
+    "nombre": "History Hit: About Le Procope",
+    "url": "https://www.historyhit.com/locations/le-procope/"
+   },
+   {
+    "nombre": "Paris je t'aime (Oficina de Turismo de París): Le Procope",
+    "url": "https://parisjetaime.com/convention/restaurant/le-procope-pc442"
+   },
+   {
+    "nombre": "Wikipedia: Premio Deux Magots",
+    "url": "https://es.wikipedia.org/wiki/Premio_Deux_Magots"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Retórica y oratoria",
+   "pilar": "mente",
+   "formato": "desarmado",
+   "titulo": "«No preguntes qué puede hacer tu país por ti»: el truco de Kennedy",
+   "contexto": "Washington, 20 de enero de 1961. Hace un frío intenso y hay nieve en las calles. John F. Kennedy, de 43 años, jura como presidente de Estados Unidos.\n\nSu discurso dura menos de un cuarto de hora. Lo escribió con su asesor Ted Sorensen. Casi al final dice la frase que todo el mundo recuerda: «No preguntes qué puede hacer tu país por ti; pregunta qué puedes hacer tú por tu país».",
+   "pregunta": "¿Qué figura retórica hace que esa frase se quede pegada en la memoria?",
+   "opciones": [
+    "Una anáfora: repetir la misma palabra al inicio de cada frase",
+    "Un quiasmo: repetir las mismas palabras en orden invertido",
+    "Una hipérbole: exagerar para impresionar"
+   ],
+   "correcta": 1,
+   "revelacion": "Es un **[[quiasmo|Figura que repite dos ideas en orden cruzado: A-B, B-A. Su nombre viene de la letra griega ji (χ), que tiene forma de cruz.]]**. La primera mitad dice «país → ti»; la segunda, «tú → país». El cerebro detecta la simetría y la recuerda casi sin esfuerzo.\n\nKennedy lo usó más de una vez en el mismo discurso. Dijo, por ejemplo: «Nunca negociemos por miedo, pero nunca tengamos miedo de negociar». Y le pidió a la humanidad no preguntar qué haría Estados Unidos por ella, sino qué podían hacer juntos por la libertad.\n\nEl truco funciona porque obliga a pensar dos veces la misma idea desde ángulos opuestos. En una negociación o en una presentación, sirve para cerrar: después de explicar, invierte los términos. «No vendemos botellas con agua: vendemos agua en la que puedes confiar.»",
+   "idea": "Una frase que se cruza consigo misma se graba porque obliga a pensar la idea dos veces.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/President_Kennedy_inaugural_address_(color).jpg?width=900",
+    "alt": "John F. Kennedy pronuncia su discurso inaugural frente al Capitolio",
+    "pie": "Kennedy el 20 de enero de 1961, durante su discurso de investidura en el Capitolio.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "National Archives: President John F. Kennedy's Inaugural Address (1961)",
+    "url": "https://www.archives.gov/milestone-documents/president-john-f-kennedys-inaugural-address"
+   },
+   "wiki": "Investidura presidencial de John F. Kennedy",
+   "claves": [
+    {
+     "nombre": "Quiasmo",
+     "quien": "La figura que repite ideas en orden invertido; está detrás de muchas frases célebres.",
+     "wiki": "Quiasmo"
+    },
+    {
+     "nombre": "John F. Kennedy",
+     "quien": "Presidente de EE. UU. de 1961 a 1963; su investidura es uno de los discursos más citados del siglo XX.",
+     "wiki": "John F. Kennedy"
+    },
+    {
+     "nombre": "Paralelismo",
+     "quien": "Figura hermana: repetir la misma estructura gramatical para dar ritmo.",
+     "wiki": "Paralelismo (retórica)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué es un quiasmo? Da el ejemplo de Kennedy.",
+    "respuesta": "Repetir ideas en orden cruzado (A-B, B-A): «No preguntes qué puede hacer tu país por ti; pregunta qué puedes hacer tú por tu país»."
+   }
+  },
+  {
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "formato": "mitoRealidad",
+   "titulo": "¿El café te deshidrata?",
+   "contexto": "Es una idea muy repetida: el café «no cuenta» como líquido, porque la cafeína te hace orinar y pierdes más agua de la que tomas.\n\nEn 2014, investigadores de la Universidad de Birmingham, en Inglaterra, decidieron probarlo con 50 hombres que tomaban café a diario. Durante tres días bebieron cuatro tazas de café al día; durante otros tres, la misma cantidad de agua. Midieron peso, sangre y orina.",
+   "pregunta": "¿Mito o realidad: tomar café con moderación deshidrata?",
+   "opciones": [
+    "Realidad: cada taza hace perder más agua de la que aporta",
+    "Mito: en cantidades moderadas, hidrata casi igual que el agua"
+   ],
+   "correcta": 1,
+   "revelacion": "**Mito.** El estudio, publicado en la revista *PLOS ONE*, no encontró diferencias relevantes en los marcadores de hidratación entre los días de café y los días de agua. Los participantes tomaban cuatro tazas de unos 200 ml, con alrededor de 4 mg de cafeína por kilo de peso.\n\nLa cafeína sí es un [[diurético|Sustancia que aumenta la producción de orina.]] leve, sobre todo en dosis altas o en quien no la toma seguido. Pero el cuerpo se acostumbra, y el agua de la taza compensa con creces ese efecto. Los autores concluyeron que el café, en consumo moderado, aporta líquido como otras bebidas.\n\nDos matices importan. El estudio fue solo con hombres y con dosis moderadas. Y que no deshidrate no significa que no tenga límites: la Autoridad Europea de Seguridad Alimentaria considera seguras para adultos sanos hasta 400 mg de cafeína al día, unas cuatro tazas.",
+   "idea": "El café moderado sí cuenta como líquido; el límite está en la cafeína, no en el agua.",
+   "fuente": {
+    "nombre": "Killer, Blannin y Jeukendrup (2014), PLOS ONE: No evidence of dehydration with moderate daily coffee intake",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3886980"
+   },
+   "wiki": "Efectos del café en la salud",
+   "claves": [
+    {
+     "nombre": "Cafeína",
+     "quien": "El estimulante del café; bloquea la adenosina, la molécula que acumula la sensación de cansancio.",
+     "wiki": "Cafeína"
+    },
+    {
+     "nombre": "Metilxantina",
+     "quien": "La familia química de la cafeína, la teofilina del té y la teobromina del cacao.",
+     "wiki": "Metilxantina"
+    },
+    {
+     "nombre": "Uso de cafeína en el deporte",
+     "quien": "Por qué muchos atletas la toman antes de competir.",
+     "wiki": "Uso de cafeína en el deporte"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué encontró el estudio de Birmingham de 2014 sobre el café y la hidratación?",
+    "respuesta": "Que cuatro tazas diarias hidrataban casi igual que la misma cantidad de agua; no hubo señales de deshidratación."
+   }
+  },
+  {
+   "materia": "Gastronomía, vino y destilados",
+   "pilar": "gusto",
+   "formato": "comoFunciona",
+   "titulo": "La reacción de Maillard: por qué el café tostado, el pan y la carne sellada saben tan bien",
+   "contexto": "Un grano de café verde no huele a café. Huele a hierba. Una rebanada de pan blanco sabe a poco. Un trozo de carne hervida es gris y triste.\n\nPero mételos al calor seco y algo cambia: se doran y aparecen cientos de aromas nuevos. En 1912, un químico francés de Nancy, Louis-Camille Maillard, describió la reacción que lo explica. Estudiaba cómo se forman las proteínas, no la cocina.",
+   "pregunta": "¿A partir de qué temperatura, más o menos, se acelera la reacción de Maillard en la cocina?",
+   "opciones": [
+    "Unos 60 °C, como un baño caliente",
+    "Unos 140–165 °C, más que el agua hirviendo",
+    "Unos 300 °C, solo en hornos industriales"
+   ],
+   "correcta": 1,
+   "revelacion": "Ocurre sobre todo **a partir de unos 140 °C**. Por eso la carne hervida nunca se dora: el agua no pasa de 100 °C. En la reacción, los [[azúcares reductores|Azúcares como la glucosa y la fructosa, capaces de reaccionar químicamente con otras moléculas.]] se combinan con los [[aminoácidos|Las piezas con las que se construyen las proteínas.]] y forman cientos de moléculas de sabor y color café.\n\nNo es lo mismo que la caramelización, que es solo azúcar quemándose. Maillard necesita proteínas. Por eso el tueste del café es tan delicado: unos minutos y unos grados de diferencia separan un tueste claro, ácido y floral, de uno oscuro, amargo y achocolatado.\n\nY desmiente un mito de cocina: sellar la carne **no** «encierra los jugos». Los experimentos muestran que la carne sellada pierde líquido igual o más. Se sella por el sabor que da Maillard, no por la jugosidad.",
+   "idea": "El sabor a tostado no se agrega: se crea cuando el calor seco junta azúcares y proteínas.",
+   "fuente": {
+    "nombre": "NPR: 100 years ago, Maillard taught us why our food tastes better cooked (2012)",
+    "url": "https://www.npr.org/blogs/thesalt/2012/10/10/162636059/100-years-ago-maillard-taught-us-why-our-food-tastes-better-cooked"
+   },
+   "wiki": "Reacción de Maillard",
+   "claves": [
+    {
+     "nombre": "Pardeamiento",
+     "quien": "El nombre general para los alimentos que se oscurecen; Maillard es un tipo, la caramelización otro.",
+     "wiki": "Pardeamiento"
+    },
+    {
+     "nombre": "Azúcar reductor",
+     "quien": "Uno de los dos ingredientes de la reacción.",
+     "wiki": "Azúcar reductor"
+    },
+    {
+     "nombre": "Universidad de Nancy",
+     "quien": "Donde trabajaba Maillard cuando describió la reacción.",
+     "wiki": "Universidad de Nancy"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué la carne hervida no se dora?",
+    "respuesta": "Porque el agua no pasa de 100 °C, y la reacción de Maillard necesita calor seco de unos 140 °C o más."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "sigueDinero",
+   "titulo": "WhatsApp: 55 empleados, 450 millones de usuarios y 19,000 millones de dólares",
+   "contexto": "19 de febrero de 2014. Facebook anuncia que compra WhatsApp, una aplicación de mensajes creada en 2009 por Jan Koum y Brian Acton, dos exempleados de Yahoo.\n\nWhatsApp casi no tenía publicidad ni oficinas lujosas. En muchos países cobraba un dólar al año después del primero gratis. Aun así, tenía 450 millones de usuarios al mes y sumaba más de un millón al día.",
+   "pregunta": "¿Cuántos empleados tenía WhatsApp cuando Facebook la compró por unos 19,000 millones de dólares?",
+   "opciones": [
+    "Unos 55",
+    "Unos 550",
+    "Unos 5,500"
+   ],
+   "correcta": 0,
+   "revelacion": "Eran **unos 55 empleados**, según la prensa de la época (Quartz, entre otros). El precio fue de 16,000 millones (4,000 en efectivo y 12,000 en acciones) más 3,000 millones en acciones restringidas para fundadores y empleados, según el comunicado oficial de Facebook.\n\nAquí está la lógica del producto digital. Mandar un mensaje más a un usuario más casi no cuesta nada. El trabajo de 55 personas servía a cientos de millones. Además, cada usuario nuevo hacía más útil la app para los demás: es un [[efecto de red|Cuando un producto vale más para cada usuario a medida que más gente lo usa.]].\n\nOjo con la lección equivocada. Facebook no pagó por ingresos, que eran pequeños; pagó por la red de usuarios y por evitar que un rival la tuviera. Y en 2016 WhatsApp eliminó la cuota anual: el dinero vino después, de las empresas que hablan con sus clientes por la app.",
+   "idea": "En lo digital, el valor puede crecer mucho más rápido que el equipo: cuesta casi lo mismo servir a mil que a un millón.",
+   "fuente": {
+    "nombre": "Meta Newsroom: Facebook to Acquire WhatsApp (19 feb 2014)",
+    "url": "https://about.fb.com/news/2014/02/facebook-to-acquire-whatsapp/"
+   },
+   "wiki": "WhatsApp",
+   "claves": [
+    {
+     "nombre": "Mensajería instantánea",
+     "quien": "La categoría de WhatsApp: mensajes en tiempo real por internet, sin costo por mensaje.",
+     "wiki": "Mensajería instantánea"
+    },
+    {
+     "nombre": "Meta Platforms",
+     "quien": "La empresa de Facebook, Instagram y WhatsApp.",
+     "wiki": "Meta Platforms"
+    },
+    {
+     "nombre": "Efecto de red",
+     "quien": "La razón por la que una app de mensajes vale más cuanto más gente la usa.",
+     "wiki": "Efecto de red"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué WhatsApp podía servir a 450 millones de personas con unos 55 empleados?",
+    "respuesta": "Porque atender a un usuario más casi no cuesta (producto digital) y el efecto de red hacía que creciera solo."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Retórica y oratoria",
+   "pilar": "mente",
+   "epoca": "47 a. C.",
+   "titulo": "«Veni, vidi, vici» no fue un discurso: fue un cartel",
+   "dato": "La frase más famosa de Julio César no la gritó ante sus tropas. Según Suetonio, se mostró escrita en un letrero durante su desfile de victoria en Roma.",
+   "explicacion": "En el verano del 47 a. C., César derrotó a [[Farnaces II|Rey del Bósforo, hijo de Mitrídates el Grande, que intentó recuperar el reino del Ponto.]] en Zela, en la actual Turquía, en una campaña relámpago. Plutarco cuenta que César lo resumió en una carta a un amigo de Roma con tres palabras: «Llegué, vi, vencí».\n\nSuetonio añade que, en el triunfo por esa guerra, uno de los carros llevaba la inscripción con esas tres palabras. No describía lo ocurrido: presumía la velocidad. Es una lección de oratoria escrita: tres verbos cortos, el mismo sonido inicial y ningún adjetivo.",
+   "fuente": {
+    "nombre": "Suetonio, Vida de Julio César, 37 (Lexundria)",
+    "url": "https://lexundria.com/suet_jul/37/r"
+   },
+   "wiki": "Batalla de Zela (47 a. C.)",
+   "claves": [
+    {
+     "nombre": "Julio César",
+     "quien": "General y dictador romano; escribía sus propias crónicas de guerra.",
+     "wiki": "Julio César"
+    },
+    {
+     "nombre": "Farnaces II del Ponto",
+     "quien": "El rey al que venció en Zela.",
+     "wiki": "Farnaces II del Ponto"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Dónde apareció «Veni, vidi, vici» según Suetonio?",
+    "respuesta": "Escrito en un letrero durante el triunfo de César por la guerra del Ponto; Plutarco dice que también lo usó en una carta."
+   }
+  },
+  {
+   "materia": "Liderazgo e influencia",
+   "pilar": "caracter",
+   "epoca": "1995",
+   "titulo": "Mandela se puso el número 6 del capitán blanco",
+   "dato": "En la final del Mundial de Rugby de 1995, Nelson Mandela entró a la cancha con la camiseta verde de los Springboks y el número 6 del capitán, François Pienaar.",
+   "explicacion": "Para muchos sudafricanos negros, los Springboks eran un símbolo del [[apartheid|Sistema legal de segregación racial que gobernó Sudáfrica de 1948 a 1994.]]. Mandela llevaba solo un año como presidente. En lugar de cambiar el nombre y los colores del equipo, como pedían muchos, decidió adoptarlos.\n\nEl 24 de junio de 1995, en el estadio Ellis Park de Johannesburgo, Sudáfrica venció 15–12 a Nueva Zelanda. Al entregar la copa, Mandela le agradeció a Pienaar, y él respondió que el agradecimiento era para Mandela por lo que hacía por el país. El gesto enseñó algo poco común: a veces se lidera tomando el símbolo del otro bando.",
+   "fuente": {
+    "nombre": "World Rugby: The day Pienaar and Mandela had each other's backs",
+    "url": "https://www.world.rugby/news/568693/the-day-pienaar-and-mandela-had-each-others-backs"
+   },
+   "wiki": "Final de la Copa Mundial de Rugby de 1995",
+   "claves": [
+    {
+     "nombre": "François Pienaar",
+     "quien": "Capitán de los Springboks en 1995.",
+     "wiki": "François Pienaar"
+    },
+    {
+     "nombre": "Invictus (película)",
+     "quien": "La película de Clint Eastwood (2009) sobre esta historia.",
+     "wiki": "Invictus (película)"
+    },
+    {
+     "nombre": "Rugby y apartheid",
+     "quien": "Por qué el rugby era un tema político en Sudáfrica.",
+     "wiki": "Rugby y apartheid"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué camiseta llevó Mandela en la final de 1995 y por qué importaba?",
+    "respuesta": "La de los Springboks con el número 6 del capitán Pienaar; el equipo era un símbolo del apartheid y él lo adoptó para unir al país."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "epoca": "1895",
+   "titulo": "El voleibol se inventó para que los oficinistas no se lastimaran",
+   "dato": "En 1895, el instructor William G. Morgan creó en Holyoke, Massachusetts, un juego más suave que el basquetbol para hombres de negocios. Lo llamó «mintonette».",
+   "explicacion": "El basquetbol se había inventado cuatro años antes, a unos kilómetros de ahí, y era demasiado brusco para los socios mayores de la [[YMCA|Asociación Cristiana de Jóvenes, red de clubes deportivos y sociales nacida en Londres en 1844.]]. Morgan mezcló ideas del tenis, el basquetbol y el handball: una red alta y nada de contacto físico.\n\nEn una demostración de 1896, un observador notó que la pelota «volaba» de un lado a otro, y se propuso el nombre «volley ball». Un deporte pensado para cuidar a los cansados terminó en los Juegos Olímpicos de 1964 en Tokio.",
+   "fuente": {
+    "nombre": "International Volleyball Hall of Fame: History of volleyball",
+    "url": "https://www.volleyhall.org/history-of-volleyball.html"
+   },
+   "wiki": "Voleibol",
+   "claves": [
+    {
+     "nombre": "William George Morgan",
+     "quien": "El instructor de la YMCA que inventó el juego.",
+     "wiki": "William George Morgan"
+    },
+    {
+     "nombre": "Holyoke (Massachusetts)",
+     "quien": "La ciudad donde nació el voleibol y donde está su Salón de la Fama.",
+     "wiki": "Holyoke (Massachusetts)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Para quién inventó William G. Morgan el voleibol en 1895?",
+    "respuesta": "Para hombres de negocios de la YMCA a los que el basquetbol les resultaba demasiado brusco; lo llamó «mintonette»."
+   },
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/William_G._Morgan.jpg?width=900",
+    "alt": "Retrato de William G. Morgan",
+    "pie": "William G. Morgan, el inventor del voleibol.",
+    "credito": "Wikimedia Commons"
+   }
+  },
+  {
+   "materia": "Religiones y grandes textos",
+   "pilar": "cultura",
+   "epoca": "1551",
+   "titulo": "La Biblia no tuvo versículos numerados durante 1,500 años",
+   "dato": "Los capítulos de la Biblia se fijaron hacia el siglo XIII y la numeración de versículos del Nuevo Testamento que usamos la publicó un impresor de París en 1551.",
+   "explicacion": "La división en capítulos se atribuye a [[Stephen Langton|Teólogo inglés, luego arzobispo de Canterbury, que enseñaba en París a principios del siglo XIII.]], hacia 1227. Los versículos numerados del Nuevo Testamento llegaron con Robert Estienne, impresor parisino, en su edición de 1551.\n\nCircula una historia simpática: que Estienne numeró los versículos a caballo, en un viaje de París a Lyon, y que por eso algunos cortes son raros. Viene de su hijo Henri, y quizá solo quería decir que trabajó durante el viaje, en las posadas. Lo seguro es lo importante: un invento de imprenta cambió para siempre cómo se cita un texto sagrado.",
+   "fuente": {
+    "nombre": "Encyclopaedia Britannica: Robert I Estienne",
+    "url": "https://www.britannica.com/biography/Robert-I-Estienne"
+   },
+   "wiki": "Capítulos y versículos de la Biblia",
+   "claves": [
+    {
+     "nombre": "Textus Receptus",
+     "quien": "El texto griego del Nuevo Testamento que se impuso en el siglo XVI; las ediciones de Estienne fueron parte de él.",
+     "wiki": "Textus Receptus"
+    },
+    {
+     "nombre": "Biblia de Ginebra",
+     "quien": "Una de las primeras Biblias completas con versículos numerados (1560).",
+     "wiki": "Biblia de Ginebra"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Quién numeró los versículos del Nuevo Testamento y cuándo?",
+    "respuesta": "El impresor parisino Robert Estienne, en su edición de 1551; los capítulos venían de Stephen Langton, hacia 1227."
+   }
+  },
+  {
+   "materia": "Ciudades del mundo",
+   "pilar": "mundo",
+   "epoca": "1673",
+   "titulo": "Nueva York se llamó Nueva Orange durante un año",
+   "dato": "En 1673 una flota neerlandesa recuperó Nueva York de los ingleses y la rebautizó Nueva Orange. La devolvieron por un tratado en 1674.",
+   "explicacion": "Los ingleses habían tomado Nueva Ámsterdam en 1664 y la llamaron Nueva York, por el duque de York. Durante la [[Tercera guerra anglo-neerlandesa|Guerra de 1672 a 1674 entre Inglaterra y las Provincias Unidas de los Países Bajos.]], en agosto de 1673, una flota al mando de Cornelis Evertsen y Jacob Binckes entró al puerto y la ciudad se rindió casi sin pelear. La rebautizaron en honor a Guillermo III de Orange.\n\nEl nombre duró poco. Por el Tratado de Westminster de 1674, los Países Bajos devolvieron la colonia a Inglaterra. Hoy el nombre de Nueva York parece eterno, pero fue el resultado de una mesa de negociación.",
+   "fuente": {
+    "nombre": "New Netherland Institute: The man who took back New Netherland, Cornelis Evertsen the Youngest",
+    "url": "https://newnetherlandinstitute.org/content/the-man-who-took-back-new-netherland-cornelis-evertsen-the-youngest-1642-1706/"
+   },
+   "wiki": "Nueva Ámsterdam",
+   "claves": [
+    {
+     "nombre": "Nuevos Países Bajos",
+     "quien": "La colonia neerlandesa en Norteamérica a la que pertenecía Nueva Ámsterdam.",
+     "wiki": "Nuevos Países Bajos"
+    },
+    {
+     "nombre": "Tercera guerra anglo-neerlandesa",
+     "quien": "La guerra en la que la ciudad cambió de manos.",
+     "wiki": "Tercera guerra anglo-neerlandesa"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo se llamó Nueva York entre 1673 y 1674?",
+    "respuesta": "Nueva Orange: los neerlandeses la recuperaron en 1673 y la devolvieron a Inglaterra por el Tratado de Westminster de 1674."
+   }
+  },
+  {
+   "materia": "Negocios y estrategia",
+   "pilar": "patrimonio",
+   "epoca": "1938",
+   "titulo": "El Nescafé nació para salvar las cosechas sobrantes de Brasil",
+   "dato": "En 1930 el Instituto Brasileño del Café le pidió a Nestlé una solución para los enormes excedentes de grano. Tras años de pruebas, el Nescafé salió a la venta en Suiza en 1938.",
+   "explicacion": "La Gran Depresión había hundido el precio del café y Brasil tenía montañas de grano que no podía vender. La idea era convertirlo en un polvo que durara y se preparara solo con agua. El químico de Nestlé Max Morgenthaler trabajó en ello durante años hasta lograr un polvo que conservara el sabor.\n\nEl lanzamiento llegó en 1938 y la Segunda Guerra Mundial lo volvió masivo: era ligero y no se echaba a perder. Un problema de excedente agrícola terminó en una de las marcas más vendidas del mundo. La estrategia: cuando sobra algo, pregunta qué forma nueva lo haría deseable.",
+   "fuente": {
+    "nombre": "Nescafé: The NESCAFÉ Story",
+    "url": "https://nescafe.com/about-us"
+   },
+   "wiki": "Café instantáneo",
+   "claves": [
+    {
+     "nombre": "Café liofilizado",
+     "quien": "Una técnica posterior de café instantáneo: congelar y secar al vacío.",
+     "wiki": "Café liofilizado"
+    },
+    {
+     "nombre": "Producción de café en Brasil",
+     "quien": "El mayor productor de café del mundo, entonces y ahora.",
+     "wiki": "Producción de café en Brasil"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué problema buscaba resolver el Nescafé?",
+    "respuesta": "Los excedentes de café de Brasil en la Gran Depresión; el Instituto Brasileño del Café se lo pidió a Nestlé en 1930 y salió en 1938."
+   }
+  },
+  {
+   "materia": "Ciencia y tecnología",
+   "pilar": "futuro",
+   "epoca": "1973",
+   "titulo": "La primera llamada de celular fue para presumirle al rival",
+   "dato": "El 3 de abril de 1973, el ingeniero de Motorola Martin Cooper hizo la primera llamada pública con un teléfono celular en una calle de Nueva York. Llamó a Joel Engel, de Bell Labs, su competencia.",
+   "explicacion": "Bell Labs, de AT&T, quería teléfonos móviles en los autos. Motorola apostaba por algo más audaz: un teléfono para la persona, no para el coche. Cooper caminó por la Sexta Avenida con un prototipo de más de un kilo y le dijo a Engel, más o menos, que le hablaba desde un celular «de verdad», en la mano.\n\nAquel aparato daba unos 35 minutos de conversación y tardaba horas en cargarse. La versión comercial, el DynaTAC 8000X, salió hasta 1983 y costaba 3,995 dólares. El futuro llegó diez años después de la llamada, y caro.",
+   "fuente": {
+    "nombre": "ABC7: 1st cell phone call successfully made 50 years ago by Motorola engineer",
+    "url": "https://abc7.com/post/martin-cooper-first-cell-phone-call-motorola-april-3/13077296/"
+   },
+   "wiki": "Motorola DynaTAC",
+   "claves": [
+    {
+     "nombre": "Historia del teléfono móvil",
+     "quien": "De los radioteléfonos de auto al smartphone.",
+     "wiki": "Historia del teléfono móvil"
+    },
+    {
+     "nombre": "Teléfono móvil",
+     "quien": "El aparato que hoy usan miles de millones de personas.",
+     "wiki": "Teléfono móvil"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿A quién llamó Martin Cooper en la primera llamada pública de celular, en 1973?",
+    "respuesta": "A Joel Engel, de Bell Labs (AT&T), su principal rival en la carrera por la telefonía móvil."
+   },
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DynaTAC8000X.jpg?width=900",
+    "alt": "Teléfono celular Motorola DynaTAC 8000X, grande y rectangular",
+    "pie": "El DynaTAC 8000X, la versión comercial de 1983 del teléfono que Cooper probó en 1973.",
+    "credito": "Wikimedia Commons"
+   }
+  },
+  {
+   "materia": "Etiqueta y protocolo",
+   "pilar": "gusto",
+   "epoca": "Siglo XVII",
+   "titulo": "«Tip» no significa «To Insure Promptness»",
+   "dato": "Circula que la palabra inglesa para propina viene de las siglas de «para asegurar la prontitud». Es falso: la palabra es siglos más antigua que esa explicación.",
+   "explicacion": "«Tip» como verbo, en el sentido de «dar» o «pasar algo con discreción», aparece en la jerga de los bajos fondos de Londres en el siglo XVII. Formar palabras con siglas, en cambio, casi no existía antes del siglo XX. La historia del letrero «T.I.P.» en las cafeterías inglesas es un invento posterior, un caso de [[falsa etimología|Explicación popular, pero equivocada, del origen de una palabra.]].\n\nEl español tiene su propio origen: «propina» viene del latín *propinare*, «dar de beber», o brindar a la salud de alguien. La costumbre de dejar algo extra para quien sirve es vieja; las siglas que la explican, no.",
+   "fuente": {
+    "nombre": "Barry Popik: «To Insure Promptness» (tip false etymology)",
+    "url": "https://barrypopik.com/blog/to_insure_promptness_tip_false_etymology"
+   },
+   "wiki": "Propina",
+   "claves": [
+    {
+     "nombre": "Acrónimo",
+     "quien": "Palabra formada con iniciales; casi no se usaba así antes del siglo XX.",
+     "wiki": "Acrónimo"
+    },
+    {
+     "nombre": "Etimología",
+     "quien": "El estudio del origen de las palabras.",
+     "wiki": "Etimología"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Por qué es falso que «tip» venga de «To Insure Promptness»?",
+    "respuesta": "Porque «tip» (dar algo con discreción) ya existía en la jerga londinense del siglo XVII, y las palabras formadas con siglas casi no existían antes del siglo XX."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "Don Quijote de la Mancha (selección)",
+  "autor": "Miguel de Cervantes",
+  "capitulo": {
+   "numero": 4,
+   "total": 6,
+   "titulo": "El vizcaíno y el manuscrito de Cide Hamete Benengeli"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Don_Quijote_illustrated_by_Gustav_Dore_III.jpg?width=900",
+   "alt": "Grabado de Gustave Doré para el Quijote",
+   "pie": "Una de las ilustraciones de Gustave Doré para el Quijote (1863).",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "¿Qué harías si a mitad de la mejor película del año la pantalla se apagara y alguien dijera: «Hasta aquí llega la cinta que encontré»? Eso le hace Cervantes a su lector en 1605. Y lo que hace después es una de las jugadas más modernas de la literatura.\n\nEn el capítulo anterior dejamos a don Quijote y a un escudero [[vizcaíno|Natural de Vizcaya, en el País Vasco. En el Siglo de Oro, los vizcaínos tenían fama de valientes, tercos y de hablar un castellano peculiar.]] con las espadas en alto. Cada uno a punto de partir al otro en dos. Y justo ahí el narrador se detiene: dice que el autor de la historia no encontró más escrito."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Un hallazgo en el mercado de Toledo"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El capítulo IX empieza con el narrador desesperado. No puede creer que una historia tan buena se haya quedado a medias. Piensa que algún sabio debió escribir el resto. Y entonces, por pura suerte, lo encuentra."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Estando yo un día en el Alcaná de Toledo, llegó un muchacho a vender unos cartapacios y papeles viejos a un sedero; y, como yo soy aficionado a leer, aunque sean los papeles rotos de las calles, llevado desta mi natural inclinación, tomé un cartapacio de los que el muchacho vendía, y vile con caracteres que conocí ser arábigos.",
+    "fuente": "Don Quijote, Primera parte, cap. IX"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El [[Alcaná|Calle de tiendas y mercaderes en el centro de Toledo, cerca de la catedral.]] era un barrio de comerciantes. El narrador no sabe árabe, así que busca a un [[morisco|Musulmán convertido al cristianismo, o descendiente de ellos, en la España de los siglos XVI y XVII. Muchos conservaban la lengua árabe.]] que se lo lea. El hombre abre el cuaderno, se ríe y le explica por qué: en el margen alguien escribió una nota sobre Dulcinea.\n\nCervantes convierte a la dama ideal de don Quijote en una campesina muy práctica:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Esta Dulcinea del Toboso, tantas veces en esta historia referida, dicen que tuvo la mejor mano para salar puercos que otra mujer de toda la Mancha.",
+    "fuente": "Don Quijote, Primera parte, cap. IX"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Fíjate en el chiste. Don Quijote imagina a una princesa. El margen del manuscrito la recuerda por salar cerdo. Y la nota la escribió alguien que no es ni el narrador ni el autor: un lector anónimo. Ya hay tres voces hablando de la misma mujer, y ninguna coincide."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Por qué se ríe el morisco al empezar a leer el cuaderno árabe?",
+    "opciones": [
+     "Porque el texto está lleno de errores de ortografía",
+     "Por una nota en el margen que dice que Dulcinea era la mejor para salar puercos",
+     "Porque descubre que el cuaderno es una receta de cocina"
+    ],
+    "correcta": 1,
+    "explicacion": "Una nota al margen dice que Dulcinea «tuvo la mejor mano para salar puercos» de toda la Mancha: un golpe de realidad contra la dama ideal que imagina don Quijote."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Cide Hamete Benengeli, el autor inventado"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Entonces el morisco lee el título. Es la continuación de la historia, nada menos. La escribió, dice, un tal Cide Hamete Benengeli, «historiador arábigo».\n\nEl narrador compra todos los cuadernos por medio real. Le paga al traductor con dos arrobas de pasas y dos fanegas de trigo, y se lo lleva a su casa para que traduzca rápido y sin quitar nada. Cervantes nos cuenta incluso el precio del manuscrito, como un notario."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Un juego de espejos",
+    "texto": "En este punto ya hay cuatro capas: Cide Hamete, que escribió en árabe; el morisco, que traduce; el narrador, que ordena; y Cervantes, que firma todo. Es un truco que la novela moderna repetirá mil veces. Cervantes, además, se burla de los libros de caballerías, que fingían basarse en crónicas antiguas «encontradas»."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Y aquí viene la parte inquietante. El narrador sospecha de su propia fuente. Dice que, si la historia tiene algún defecto de verdad, será por culpa de su autor arábigo, y repite un prejuicio común de su época contra los moros. Cervantes pone ese prejuicio en boca del narrador para que el lector desconfíe de todos: del historiador, del traductor y del que cuenta.\n\nJunto a esa sospecha, el narrador hace un elogio famoso de lo que debería ser la historia:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "…la historia, émula del tiempo, depósito de las acciones, testigo de lo pasado, ejemplo y aviso de lo presente, advertencia de lo por venir.",
+    "fuente": "Don Quijote, Primera parte, cap. IX"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es una definición tan bella que muchos la citan sin saber de dónde viene. Pero Cervantes la coloca justo donde nos enseña que toda historia pasa por manos que pueden equivocarse o mentir. El ideal y la duda, en la misma página. Jorge Luis Borges retomó esa frase siglos después en su cuento «Pierre Menard, autor del Quijote»."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La batalla, por fin"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Con el manuscrito en la mano, la pelea se reanuda donde se quedó. En el primer cuaderno, cuenta el narrador, había un dibujo de la escena: la mula del vizcaíno, el flaco Rocinante y Sancho con un letrero que decía «Sancho Zancas».\n\nEl vizcaíno da el primer golpe. Le corta a don Quijote parte de la celada y media oreja. Don Quijote, furioso, responde con un golpe en la cabeza que deja al vizcaíno sangrando por nariz, boca y oídos. La mula se espanta y lo tira al suelo.\n\nDon Quijote le pone la punta de la espada entre los ojos y le exige rendirse. Las señoras del coche, aterradas, piden piedad. Él acepta con una condición: que el escudero vaya al Toboso y se presente ante Dulcinea para que ella haga con él lo que quiera. Las señoras lo prometen sin preguntar quién es Dulcinea."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Qué condición pone don Quijote para perdonar al vizcaíno?",
+    "opciones": [
+     "Que le entregue su mula y su espada",
+     "Que se presente ante Dulcinea del Toboso",
+     "Que pague un rescate a Sancho"
+    ],
+    "correcta": 1,
+    "explicacion": "Exige que vaya al Toboso y se presente ante Dulcinea. Las señoras lo prometen enseguida, sin saber quién es ni dónde vive."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La ínsula que no llega"
+   },
+   {
+    "tipo": "texto",
+    "texto": "En el capítulo X, Sancho se arrodilla y le pide a su amo el gobierno de la ínsula que ganó en la batalla. Don Quijote lo corrige con una lógica impecable:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Advertid, hermano Sancho, que esta aventura y las a ésta semejantes no son aventuras de ínsulas, sino de encrucijadas, en las cuales no se gana otra cosa que sacar rota la cabeza o una oreja menos.",
+    "fuente": "Don Quijote, Primera parte, cap. X"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es una de las frases más honestas de don Quijote. Las peleas de camino no dan reinos: dan golpes. El premio grande, promete, vendrá después. Sancho se conforma, por ahora, con un poco de queso y pan de las alforjas."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Los moriscos de Toledo",
+    "texto": "Que el traductor sea un morisco no es un detalle de color. En 1605 había miles de moriscos en Castilla, muchos bajo sospecha de seguir practicando el islam en secreto. Cuatro años después, en 1609, Felipe III ordenó su expulsión, que se completó hacia 1614. Cervantes pone la llave de su historia en manos de alguien a quien la España oficial miraba con desconfianza. Leído hoy, el gesto tiene algo de ironía: la novela fundadora de la lengua española dice venir de un texto árabe."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Qué nos dice hoy"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Este capítulo enseña a leer con dos preguntas. **¿Quién me lo cuenta?** y **¿qué ganó por contármelo así?** Cervantes nos obliga a ver que un relato pasa por autor, traductor, editor y narrador, y que cada uno puede torcerlo un poco.\n\nEs lo que hace un buen abogado con un expediente y un buen empresario con un reporte: no basta con lo que dice el papel, importa la cadena de manos por la que llegó. Y la respuesta a Sancho es una regla de negocios: las peleas pequeñas casi nunca te dan la ínsula; elige bien en cuáles entras.\n\nY hay una tercera lección, más sutil. Cervantes interrumpe la batalla justo en el momento de mayor tensión y luego la resuelve con un manuscrito encontrado por casualidad. Es el primer *cliffhanger* famoso de la novela moderna. Sabía que la curiosidad del lector es una fuerza enorme, y la usó para hablar de algo serio: quién tiene derecho a contar la historia de otro."
+   }
+  ],
+  "paraLlevar": [
+   "Antes de creerle a un relato, pregunta por cuántas manos pasó.",
+   "La historia ideal es «testigo de lo pasado»; la real tiene traductores, intereses y márgenes con notas.",
+   "Hay aventuras de ínsulas y aventuras de encrucijadas: aprende a distinguirlas antes de sacar la espada."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Quién es Cide Hamete Benengeli?",
+    "respuesta": "El historiador árabe inventado por Cervantes, supuesto autor del manuscrito que el narrador encuentra en el Alcaná de Toledo."
+   },
+   {
+    "pregunta": "¿Qué le responde don Quijote a Sancho cuando pide su ínsula?",
+    "respuesta": "Que esas son «aventuras de encrucijadas», donde solo se gana una cabeza rota o una oreja menos; las ínsulas vendrán después."
+   }
+  ],
+  "proximo": "Don Quijote de la Mancha · Capítulo 5: los galeotes y el precio de la libertad",
+  "fuentes": [
+   {
+    "nombre": "Proyecto Gutenberg: Don Quijote, de Miguel de Cervantes",
+    "url": "https://www.gutenberg.org/ebooks/2000"
+   }
+  ],
+  "nota": "Citas tomadas del texto original de Cervantes (1605, dominio público), con ortografía modernizada, a partir de la edición del Proyecto Gutenberg."
+ },
+ "palabra": {
+  "palabra": "Tertulia",
+  "categoria": "Sustantivo",
+  "pronunciacion": "ter-TU-lia",
+  "definicion": "Reunión habitual de personas que se juntan para conversar de un tema, casi siempre en el mismo lugar: un café, un casino o una casa.",
+  "origen": "Su origen no es seguro. La explicación tradicional la relaciona con Tertuliano, escritor cristiano de los siglos II y III, por los clérigos que se reunían a comentar sus obras.",
+  "ejemplo": "El Procope fue durante un siglo la tertulia de la Ilustración: Voltaire y Diderot discutían ahí casi a diario.",
+  "repaso": {
+   "pregunta": "¿Qué es una tertulia?",
+   "respuesta": "Una reunión habitual para conversar, casi siempre en el mismo lugar, como un café."
+  }
+ },
+ "frances": {
+  "frase": "On a refait le monde jusqu'à minuit.",
+  "traduccion": "«Arreglamos el mundo hasta la medianoche.»",
+  "pronunciacion": "on a re-FÉ le MOND yus-KA mi-NUÍ",
+  "uso": "Cultura. «Refaire le monde» es pasar horas conversando sobre cómo debería ser todo: la política, el trabajo, la vida. Es la actividad nacional de los cafés de París. Se dice con cariño y algo de ironía, porque nadie arregla nada, pero todos salen contentos.",
+  "variante": "Refaire le monde autour d'un café. (Arreglar el mundo alrededor de un café.)",
+  "repaso": {
+   "pregunta": "¿Cómo se dice en francés «arreglamos el mundo hasta la medianoche»?",
+   "respuesta": "« On a refait le monde jusqu'à minuit. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Qué se instaló en 1689 frente al café Procope?",
+   "opciones": [
+    "La Sorbona",
+    "El mercado de Les Halles",
+    "La Comédie-Française"
+   ],
+   "correcta": 2,
+   "explicacion": "El teatro del rey llegó a la misma calle en 1689; su público y sus actores llenaban el café. Cuando se fue en 1770, la calle pasó a llamarse rue de l'Ancienne-Comédie."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Qué inflación anual reportó el INEGI para la primera quincena de noviembre de 2026?",
+   "opciones": [
+    "3.96%",
+    "3.68%",
+    "4.90%"
+   ],
+   "correcta": 0,
+   "explicacion": "Fue 3.96%. El 3.68% es la subyacente, que bajó, y el 4.90% la no subyacente, empujada por jitomate, tomate verde y electricidad."
+  },
+  {
+   "origen": "materias",
+   "pregunta": "¿Cuántos empleados tenía WhatsApp cuando Facebook la compró en 2014?",
+   "opciones": [
+    "Unos 550",
+    "Unos 55",
+    "Unos 5,500"
+   ],
+   "correcta": 1,
+   "explicacion": "Unos 55 empleados atendían a 450 millones de usuarios al mes: servir a un usuario más casi no costaba nada."
+  }
+ ],
+ "libro": null,
+ "proximo": "Síntesis: cómo una ciudad se vuelve sinónimo de buen gusto"
+}

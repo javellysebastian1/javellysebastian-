@@ -1,19 +1,8 @@
 {
- "actualizado": "2026-11-24",
+ "actualizado": "2026-11-25",
  "materias": {
   "Arquitectura y diseño": [
    {
-    "materia": "Arquitectura y diseño",
-    "pilar": "cultura",
-    "epoca": "1989",
-    "titulo": "La pirámide del Louvre no tiene 666 vidrios",
-    "dato": "Circula que la pirámide de cristal del Louvre tiene 666 paneles, «el número de la bestia». Tiene 673. El mito salió de un folleto oficial de los años ochenta.",
-    "explicacion": "El arquitecto estadounidense de origen chino I. M. Pei diseñó la pirámide como nueva entrada del museo. François Mitterrand la inauguró el 29 de marzo de 1989. Mide unos 21 metros de alto. Su función era práctica: el Louvre necesitaba una entrada central para millones de visitantes, y la pirámide deja pasar la luz al vestíbulo subterráneo.\n\nUn folleto de la época dio la cifra de 666 y la leyenda creció; la novela *El código Da Vinci* la repitió. La oficina de Pei la desmintió: son 673 piezas de vidrio. El caso muestra cómo un error oficial, si es una buena historia, viaja más rápido que la corrección.",
-    "fuente": {
-     "nombre": "Musée du Louvre, sala de prensa: The Louvre Pyramid turns 30",
-     "url": "https://presse.louvre.fr/the-louvre-pyramidnbspturns-30"
-    },
-    "wiki": "Pirámide del Museo del Louvre",
     "claves": [
      {
       "nombre": "Ieoh Ming Pei",
@@ -26,11 +15,22 @@
       "wiki": "Museo del Louvre"
      }
     ],
+    "dato": "Circula que la pirámide de cristal del Louvre tiene 666 paneles, «el número de la bestia». Tiene 673. El mito salió de un folleto oficial de los años ochenta.",
+    "epoca": "1989",
+    "explicacion": "El arquitecto estadounidense de origen chino I. M. Pei diseñó la pirámide como nueva entrada del museo. François Mitterrand la inauguró el 29 de marzo de 1989. Mide unos 21 metros de alto. Su función era práctica: el Louvre necesitaba una entrada central para millones de visitantes, y la pirámide deja pasar la luz al vestíbulo subterráneo.\n\nUn folleto de la época dio la cifra de 666 y la leyenda creció; la novela *El código Da Vinci* la repitió. La oficina de Pei la desmintió: son 673 piezas de vidrio. El caso muestra cómo un error oficial, si es una buena historia, viaja más rápido que la corrección.",
+    "fecha": "2026-11-24",
+    "fuente": {
+     "nombre": "Musée du Louvre, sala de prensa: The Louvre Pyramid turns 30",
+     "url": "https://presse.louvre.fr/the-louvre-pyramidnbspturns-30"
+    },
+    "materia": "Arquitectura y diseño",
+    "pilar": "cultura",
     "repaso": {
      "pregunta": "¿Cuántos paneles de vidrio tiene la pirámide del Louvre y de dónde salió el mito de 666?",
      "respuesta": "673; el 666 salió de un folleto oficial de los años ochenta y la oficina de Pei lo desmintió."
     },
-    "fecha": "2026-11-24"
+    "titulo": "La pirámide del Louvre no tiene 666 vidrios",
+    "wiki": "Pirámide del Museo del Louvre"
    },
    {
     "claves": [
@@ -220,6 +220,42 @@
    }
   ],
   "Ciencia y tecnología": [
+   {
+    "materia": "Ciencia y tecnología",
+    "pilar": "futuro",
+    "epoca": "1973",
+    "titulo": "La primera llamada de celular fue para presumirle al rival",
+    "dato": "El 3 de abril de 1973, el ingeniero de Motorola Martin Cooper hizo la primera llamada pública con un teléfono celular en una calle de Nueva York. Llamó a Joel Engel, de Bell Labs, su competencia.",
+    "explicacion": "Bell Labs, de AT&T, quería teléfonos móviles en los autos. Motorola apostaba por algo más audaz: un teléfono para la persona, no para el coche. Cooper caminó por la Sexta Avenida con un prototipo de más de un kilo y le dijo a Engel, más o menos, que le hablaba desde un celular «de verdad», en la mano.\n\nAquel aparato daba unos 35 minutos de conversación y tardaba horas en cargarse. La versión comercial, el DynaTAC 8000X, salió hasta 1983 y costaba 3,995 dólares. El futuro llegó diez años después de la llamada, y caro.",
+    "fuente": {
+     "nombre": "ABC7: 1st cell phone call successfully made 50 years ago by Motorola engineer",
+     "url": "https://abc7.com/post/martin-cooper-first-cell-phone-call-motorola-april-3/13077296/"
+    },
+    "wiki": "Motorola DynaTAC",
+    "claves": [
+     {
+      "nombre": "Historia del teléfono móvil",
+      "quien": "De los radioteléfonos de auto al smartphone.",
+      "wiki": "Historia del teléfono móvil"
+     },
+     {
+      "nombre": "Teléfono móvil",
+      "quien": "El aparato que hoy usan miles de millones de personas.",
+      "wiki": "Teléfono móvil"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿A quién llamó Martin Cooper en la primera llamada pública de celular, en 1973?",
+     "respuesta": "A Joel Engel, de Bell Labs (AT&T), su principal rival en la carrera por la telefonía móvil."
+    },
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DynaTAC8000X.jpg?width=900",
+     "alt": "Teléfono celular Motorola DynaTAC 8000X, grande y rectangular",
+     "pie": "El DynaTAC 8000X, la versión comercial de 1983 del teléfono que Cooper probó en 1973.",
+     "credito": "Wikimedia Commons"
+    },
+    "fecha": "2026-11-25"
+   },
    {
     "claves": [
      {
@@ -499,6 +535,36 @@
   ],
   "Ciudades del mundo": [
    {
+    "materia": "Ciudades del mundo",
+    "pilar": "mundo",
+    "epoca": "1673",
+    "titulo": "Nueva York se llamó Nueva Orange durante un año",
+    "dato": "En 1673 una flota neerlandesa recuperó Nueva York de los ingleses y la rebautizó Nueva Orange. La devolvieron por un tratado en 1674.",
+    "explicacion": "Los ingleses habían tomado Nueva Ámsterdam en 1664 y la llamaron Nueva York, por el duque de York. Durante la [[Tercera guerra anglo-neerlandesa|Guerra de 1672 a 1674 entre Inglaterra y las Provincias Unidas de los Países Bajos.]], en agosto de 1673, una flota al mando de Cornelis Evertsen y Jacob Binckes entró al puerto y la ciudad se rindió casi sin pelear. La rebautizaron en honor a Guillermo III de Orange.\n\nEl nombre duró poco. Por el Tratado de Westminster de 1674, los Países Bajos devolvieron la colonia a Inglaterra. Hoy el nombre de Nueva York parece eterno, pero fue el resultado de una mesa de negociación.",
+    "fuente": {
+     "nombre": "New Netherland Institute: The man who took back New Netherland, Cornelis Evertsen the Youngest",
+     "url": "https://newnetherlandinstitute.org/content/the-man-who-took-back-new-netherland-cornelis-evertsen-the-youngest-1642-1706/"
+    },
+    "wiki": "Nueva Ámsterdam",
+    "claves": [
+     {
+      "nombre": "Nuevos Países Bajos",
+      "quien": "La colonia neerlandesa en Norteamérica a la que pertenecía Nueva Ámsterdam.",
+      "wiki": "Nuevos Países Bajos"
+     },
+     {
+      "nombre": "Tercera guerra anglo-neerlandesa",
+      "quien": "La guerra en la que la ciudad cambió de manos.",
+      "wiki": "Tercera guerra anglo-neerlandesa"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cómo se llamó Nueva York entre 1673 y 1674?",
+     "respuesta": "Nueva Orange: los neerlandeses la recuperaron en 1673 y la devolvieron a Inglaterra por el Tratado de Westminster de 1674."
+    },
+    "fecha": "2026-11-25"
+   },
+   {
     "claves": [
      {
       "nombre": "Cementerio de los Santos Inocentes",
@@ -677,6 +743,42 @@
    }
   ],
   "Deporte y aire libre": [
+   {
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
+    "epoca": "1895",
+    "titulo": "El voleibol se inventó para que los oficinistas no se lastimaran",
+    "dato": "En 1895, el instructor William G. Morgan creó en Holyoke, Massachusetts, un juego más suave que el basquetbol para hombres de negocios. Lo llamó «mintonette».",
+    "explicacion": "El basquetbol se había inventado cuatro años antes, a unos kilómetros de ahí, y era demasiado brusco para los socios mayores de la [[YMCA|Asociación Cristiana de Jóvenes, red de clubes deportivos y sociales nacida en Londres en 1844.]]. Morgan mezcló ideas del tenis, el basquetbol y el handball: una red alta y nada de contacto físico.\n\nEn una demostración de 1896, un observador notó que la pelota «volaba» de un lado a otro, y se propuso el nombre «volley ball». Un deporte pensado para cuidar a los cansados terminó en los Juegos Olímpicos de 1964 en Tokio.",
+    "fuente": {
+     "nombre": "International Volleyball Hall of Fame: History of volleyball",
+     "url": "https://www.volleyhall.org/history-of-volleyball.html"
+    },
+    "wiki": "Voleibol",
+    "claves": [
+     {
+      "nombre": "William George Morgan",
+      "quien": "El instructor de la YMCA que inventó el juego.",
+      "wiki": "William George Morgan"
+     },
+     {
+      "nombre": "Holyoke (Massachusetts)",
+      "quien": "La ciudad donde nació el voleibol y donde está su Salón de la Fama.",
+      "wiki": "Holyoke (Massachusetts)"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Para quién inventó William G. Morgan el voleibol en 1895?",
+     "respuesta": "Para hombres de negocios de la YMCA a los que el basquetbol les resultaba demasiado brusco; lo llamó «mintonette»."
+    },
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/William_G._Morgan.jpg?width=900",
+     "alt": "Retrato de William G. Morgan",
+     "pie": "William G. Morgan, el inventor del voleibol.",
+     "credito": "Wikimedia Commons"
+    },
+    "fecha": "2026-11-25"
+   },
    {
     "claves": [
      {
@@ -1572,6 +1674,36 @@
   ],
   "Etiqueta y protocolo": [
    {
+    "materia": "Etiqueta y protocolo",
+    "pilar": "gusto",
+    "epoca": "Siglo XVII",
+    "titulo": "«Tip» no significa «To Insure Promptness»",
+    "dato": "Circula que la palabra inglesa para propina viene de las siglas de «para asegurar la prontitud». Es falso: la palabra es siglos más antigua que esa explicación.",
+    "explicacion": "«Tip» como verbo, en el sentido de «dar» o «pasar algo con discreción», aparece en la jerga de los bajos fondos de Londres en el siglo XVII. Formar palabras con siglas, en cambio, casi no existía antes del siglo XX. La historia del letrero «T.I.P.» en las cafeterías inglesas es un invento posterior, un caso de [[falsa etimología|Explicación popular, pero equivocada, del origen de una palabra.]].\n\nEl español tiene su propio origen: «propina» viene del latín *propinare*, «dar de beber», o brindar a la salud de alguien. La costumbre de dejar algo extra para quien sirve es vieja; las siglas que la explican, no.",
+    "fuente": {
+     "nombre": "Barry Popik: «To Insure Promptness» (tip false etymology)",
+     "url": "https://barrypopik.com/blog/to_insure_promptness_tip_false_etymology"
+    },
+    "wiki": "Propina",
+    "claves": [
+     {
+      "nombre": "Acrónimo",
+      "quien": "Palabra formada con iniciales; casi no se usaba así antes del siglo XX.",
+      "wiki": "Acrónimo"
+     },
+     {
+      "nombre": "Etimología",
+      "quien": "El estudio del origen de las palabras.",
+      "wiki": "Etimología"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Por qué es falso que «tip» venga de «To Insure Promptness»?",
+     "respuesta": "Porque «tip» (dar algo con discreción) ya existía en la jerga londinense del siglo XVII, y las palabras formadas con siglas casi no existían antes del siglo XX."
+    },
+    "fecha": "2026-11-25"
+   },
+   {
     "claves": [
      {
       "nombre": "Servicio a la francesa",
@@ -1745,23 +1877,6 @@
   ],
   "Filosofía para vivir": [
    {
-    "materia": "Filosofía para vivir",
-    "pilar": "mente",
-    "epoca": "1964",
-    "titulo": "Sartre rechazó el Nobel, pero sigue en la lista de ganadores",
-    "dato": "Jean-Paul Sartre no aceptó el Nobel de Literatura de 1964. Aun así, la Academia Sueca lo cuenta como premiado: su rechazo no cambió la validez del premio.",
-    "explicacion": "Sartre escribió a la Academia el 14 de octubre de 1964 para pedir que no lo eligieran. Era tarde: el comité ya lo había decidido el 17 de septiembre, y el anuncio salió el 22 de octubre. Él explicó que un escritor no debe dejarse «transformar en institución»: aceptar un honor oficial comprometía su libertad de opinar.\n\nLa Academia respondió que la negativa «no modifica en absoluto la validez» del premio. Por eso, en la página oficial del Nobel, Sartre aparece como ganador con una nota: «declinó el premio». Es una lección sobre los [[símbolos|Objetos o gestos que representan algo más grande que ellos mismos; aquí, un premio que vale por lo que significa.]]: puedes rechazar un honor, pero no siempre decides qué hacen los demás con tu nombre.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Paul_Sartre_1965.jpg?width=900",
-     "alt": "Retrato de Jean-Paul Sartre con lentes",
-     "pie": "Jean-Paul Sartre en 1965, un año después de rechazar el Nobel.",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "NobelPrize.org: Jean-Paul Sartre, facts (1964)",
-     "url": "https://www.nobelprize.org/prizes/literature/1964/sartre/facts/"
-    },
-    "wiki": "Jean-Paul Sartre",
     "claves": [
      {
       "nombre": "Premio Nobel de Literatura",
@@ -1774,11 +1889,28 @@
       "wiki": "Existencialismo"
      }
     ],
+    "dato": "Jean-Paul Sartre no aceptó el Nobel de Literatura de 1964. Aun así, la Academia Sueca lo cuenta como premiado: su rechazo no cambió la validez del premio.",
+    "epoca": "1964",
+    "explicacion": "Sartre escribió a la Academia el 14 de octubre de 1964 para pedir que no lo eligieran. Era tarde: el comité ya lo había decidido el 17 de septiembre, y el anuncio salió el 22 de octubre. Él explicó que un escritor no debe dejarse «transformar en institución»: aceptar un honor oficial comprometía su libertad de opinar.\n\nLa Academia respondió que la negativa «no modifica en absoluto la validez» del premio. Por eso, en la página oficial del Nobel, Sartre aparece como ganador con una nota: «declinó el premio». Es una lección sobre los [[símbolos|Objetos o gestos que representan algo más grande que ellos mismos; aquí, un premio que vale por lo que significa.]]: puedes rechazar un honor, pero no siempre decides qué hacen los demás con tu nombre.",
+    "fecha": "2026-11-24",
+    "fuente": {
+     "nombre": "NobelPrize.org: Jean-Paul Sartre, facts (1964)",
+     "url": "https://www.nobelprize.org/prizes/literature/1964/sartre/facts/"
+    },
+    "imagen": {
+     "alt": "Retrato de Jean-Paul Sartre con lentes",
+     "credito": "Wikimedia Commons",
+     "pie": "Jean-Paul Sartre en 1965, un año después de rechazar el Nobel.",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Paul_Sartre_1965.jpg?width=900"
+    },
+    "materia": "Filosofía para vivir",
+    "pilar": "mente",
     "repaso": {
      "pregunta": "¿Por qué Sartre sigue en la lista de ganadores del Nobel si lo rechazó?",
      "respuesta": "Porque la Academia Sueca dijo que su negativa no cambiaba la validez del premio; aparece como laureado de 1964 con la nota «declinó el premio»."
     },
-    "fecha": "2026-11-24"
+    "titulo": "Sartre rechazó el Nobel, pero sigue en la lista de ganadores",
+    "wiki": "Jean-Paul Sartre"
    },
    {
     "claves": [
@@ -2106,23 +2238,6 @@
   ],
   "Historia y geopolítica": [
    {
-    "materia": "Historia y geopolítica",
-    "pilar": "mundo",
-    "epoca": "c. 2560 a. C.",
-    "titulo": "Cleopatra vivió más cerca de la llegada a la Luna que de la Gran Pirámide",
-    "dato": "Entre la construcción de la Gran Pirámide y la muerte de Cleopatra pasaron unos 2,500 años. Entre Cleopatra y el Apolo 11, menos de 2,000.",
-    "explicacion": "La Gran Pirámide de Guiza se terminó hacia el año 2560 a. C., en tiempos del faraón Keops. Cleopatra VII murió en el 30 a. C. Son unos 2,530 años. Del 30 a. C. al 20 de julio de 1969, cuando el Apolo 11 llegó a la Luna, hay unos 1,998 años.\n\nPara Cleopatra, las pirámides eran ya ruinas antiguas, tan lejanas como para nosotros la época romana. Además, ella no era egipcia de origen: venía de la dinastía [[ptolemaica|Familia de reyes de origen macedonio que gobernó Egipto desde la muerte de Alejandro Magno hasta Cleopatra.]], griega. Este tipo de cálculo corrige un error común: pensar en «la Antigüedad» como un solo bloque, cuando duró más que todo lo que vino después.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kheops-Pyramid.jpg?width=900",
-     "alt": "Gran Pirámide de Guiza bajo un cielo azul",
-     "pie": "La Gran Pirámide de Guiza, terminada hacia 2560 a. C.",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "WorldAtlas: Cleopatra lived closer in time to the first lunar landing than the Great Pyramids",
-     "url": "https://www.worldatlas.com/articles/so-cleopatra-lived-closer-in-time-to-the-first-lunar-landing-than-the-great-pyramids.html"
-    },
-    "wiki": "Gran Pirámide de Guiza",
     "claves": [
      {
       "nombre": "Muerte de Cleopatra",
@@ -2135,11 +2250,28 @@
       "wiki": "Apolo 11"
      }
     ],
+    "dato": "Entre la construcción de la Gran Pirámide y la muerte de Cleopatra pasaron unos 2,500 años. Entre Cleopatra y el Apolo 11, menos de 2,000.",
+    "epoca": "c. 2560 a. C.",
+    "explicacion": "La Gran Pirámide de Guiza se terminó hacia el año 2560 a. C., en tiempos del faraón Keops. Cleopatra VII murió en el 30 a. C. Son unos 2,530 años. Del 30 a. C. al 20 de julio de 1969, cuando el Apolo 11 llegó a la Luna, hay unos 1,998 años.\n\nPara Cleopatra, las pirámides eran ya ruinas antiguas, tan lejanas como para nosotros la época romana. Además, ella no era egipcia de origen: venía de la dinastía [[ptolemaica|Familia de reyes de origen macedonio que gobernó Egipto desde la muerte de Alejandro Magno hasta Cleopatra.]], griega. Este tipo de cálculo corrige un error común: pensar en «la Antigüedad» como un solo bloque, cuando duró más que todo lo que vino después.",
+    "fecha": "2026-11-24",
+    "fuente": {
+     "nombre": "WorldAtlas: Cleopatra lived closer in time to the first lunar landing than the Great Pyramids",
+     "url": "https://www.worldatlas.com/articles/so-cleopatra-lived-closer-in-time-to-the-first-lunar-landing-than-the-great-pyramids.html"
+    },
+    "imagen": {
+     "alt": "Gran Pirámide de Guiza bajo un cielo azul",
+     "credito": "Wikimedia Commons",
+     "pie": "La Gran Pirámide de Guiza, terminada hacia 2560 a. C.",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kheops-Pyramid.jpg?width=900"
+    },
+    "materia": "Historia y geopolítica",
+    "pilar": "mundo",
     "repaso": {
      "pregunta": "¿Cuántos años separan la Gran Pirámide de Cleopatra, y a Cleopatra del Apolo 11?",
      "respuesta": "Unos 2,530 años de la pirámide (c. 2560 a. C.) a su muerte (30 a. C.); unos 1,998 de ella a 1969."
     },
-    "fecha": "2026-11-24"
+    "titulo": "Cleopatra vivió más cerca de la llegada a la Luna que de la Gran Pirámide",
+    "wiki": "Gran Pirámide de Guiza"
    },
    {
     "claves": [
@@ -2278,63 +2410,10 @@
     },
     "titulo": "Napoleón no era bajo",
     "wiki": "Napoleón Bonaparte"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "William H. Seward",
-      "quien": "Secretario de Estado de Lincoln y de Johnson; negoció la compra.",
-      "wiki": "William H. Seward"
-     },
-     {
-      "nombre": "Compañía ruso-americana",
-      "quien": "La empresa que administraba la Alaska rusa; sus pocas ganancias empujaron la venta.",
-      "wiki": "Compañía ruso-americana"
-     }
-    ],
-    "dato": "En 1867, Estados Unidos compró Alaska a Rusia por 7.2 millones de dólares. Sale a unos dos centavos de dólar por acre.",
-    "epoca": "1867",
-    "explicacion": "El tratado se firmó el 30 de marzo de 1867, impulsado por el secretario de Estado **William H. Seward**. Rusia quería vender: el territorio era difícil de defender, sobre todo frente a Gran Bretaña, y daba pocas ganancias. Estados Unidos pagó con una orden del Tesoro al año siguiente.\n\nSe repite que todo el país se burló de la compra, la «locura de Seward». El apodo existió, pero el Departamento de Estado de EE. UU. señala que buena parte de la prensa la apoyó. Décadas después, el oro del Klondike y luego el petróleo convirtieron la compra en una de las mejores de la historia.",
-    "fecha": "2026-11-08",
-    "fuente": {
-     "nombre": "Office of the Historian, U.S. Department of State: Purchase of Alaska, 1867",
-     "url": "https://history.state.gov/milestones/1866-1898/alaska-purchase"
-    },
-    "imagen": {
-     "alt": "Documento antiguo del Tesoro de EE. UU. con firmas y sellos",
-     "credito": "Wikimedia Commons",
-     "pie": "La orden del Tesoro por 7.2 millones de dólares para pagar Alaska, 1868",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Treasury_Warrant_in_the_Amount_of_%247.2_Million_for_the_Purchase_of_Alaska,_08-01-1868,_Page_2_of_2_(5286025762).jpg?width=900"
-    },
-    "materia": "Historia y geopolítica",
-    "pilar": "mundo",
-    "repaso": {
-     "pregunta": "¿Por cuánto compró Estados Unidos Alaska y en qué año?",
-     "respuesta": "Por 7.2 millones de dólares, en 1867; unos dos centavos por acre."
-    },
-    "titulo": "Alaska costó unos dos centavos por acre",
-    "wiki": "Compra de Alaska"
    }
   ],
   "IA y el futuro": [
    {
-    "materia": "IA y el futuro",
-    "pilar": "futuro",
-    "epoca": "1843",
-    "titulo": "La primera objeción contra la IA la escribió Ada Lovelace en 1843",
-    "dato": "Más de un siglo antes de la primera computadora electrónica, Ada Lovelace escribió que la máquina analítica «no tiene pretensión alguna de originar nada». Turing le contestó en 1950.",
-    "explicacion": "Lovelace tradujo un artículo sobre la [[máquina analítica|Computadora mecánica diseñada por Charles Babbage en el siglo XIX; nunca se terminó de construir.]] de Charles Babbage y le añadió notas más largas que el texto. En la Nota G escribió que la máquina solo podía hacer «lo que sepamos ordenarle». Es decir: no crea, ejecuta.\n\nEn 1950, Alan Turing publicó «Computing Machinery and Intelligence», el artículo de la prueba de Turing. Dedicó una sección a «la objeción de Lady Lovelace». Respondió que las máquinas pueden sorprendernos y que quizá aprender cambia las cosas. El debate sigue hoy: cuando un modelo de IA escribe algo nuevo, ¿origina o recombina lo que le dimos?",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ada_Lovelace_portrait.jpg?width=900",
-     "alt": "Retrato de Ada Lovelace con vestido oscuro",
-     "pie": "Ada Lovelace (1815–1852), hija del poeta Lord Byron.",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Turing (1950): Computing Machinery and Intelligence, Mind",
-     "url": "https://www.cs.princeton.edu/courses/archive/fall23/cos109/turingpaper.pdf"
-    },
-    "wiki": "Ada Lovelace",
     "claves": [
      {
       "nombre": "Máquina analítica",
@@ -2352,11 +2431,28 @@
       "wiki": "Prueba de Turing"
      }
     ],
+    "dato": "Más de un siglo antes de la primera computadora electrónica, Ada Lovelace escribió que la máquina analítica «no tiene pretensión alguna de originar nada». Turing le contestó en 1950.",
+    "epoca": "1843",
+    "explicacion": "Lovelace tradujo un artículo sobre la [[máquina analítica|Computadora mecánica diseñada por Charles Babbage en el siglo XIX; nunca se terminó de construir.]] de Charles Babbage y le añadió notas más largas que el texto. En la Nota G escribió que la máquina solo podía hacer «lo que sepamos ordenarle». Es decir: no crea, ejecuta.\n\nEn 1950, Alan Turing publicó «Computing Machinery and Intelligence», el artículo de la prueba de Turing. Dedicó una sección a «la objeción de Lady Lovelace». Respondió que las máquinas pueden sorprendernos y que quizá aprender cambia las cosas. El debate sigue hoy: cuando un modelo de IA escribe algo nuevo, ¿origina o recombina lo que le dimos?",
+    "fecha": "2026-11-24",
+    "fuente": {
+     "nombre": "Turing (1950): Computing Machinery and Intelligence, Mind",
+     "url": "https://www.cs.princeton.edu/courses/archive/fall23/cos109/turingpaper.pdf"
+    },
+    "imagen": {
+     "alt": "Retrato de Ada Lovelace con vestido oscuro",
+     "credito": "Wikimedia Commons",
+     "pie": "Ada Lovelace (1815–1852), hija del poeta Lord Byron.",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ada_Lovelace_portrait.jpg?width=900"
+    },
+    "materia": "IA y el futuro",
+    "pilar": "futuro",
     "repaso": {
      "pregunta": "¿Qué es «la objeción de Lady Lovelace»?",
      "respuesta": "La idea de Ada Lovelace (1843) de que la máquina no origina nada y solo hace lo que le ordenamos; Turing la discutió en 1950."
     },
-    "fecha": "2026-11-24"
+    "titulo": "La primera objeción contra la IA la escribió Ada Lovelace en 1843",
+    "wiki": "Ada Lovelace"
    },
    {
     "claves": [
@@ -2504,68 +2600,10 @@
     },
     "titulo": "La jugada que un humano no habría hecho",
     "wiki": "Go por computadora"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Frank Rosenblatt",
-      "quien": "Psicólogo estadounidense (1928–1971), creador del perceptrón.",
-      "wiki": "Frank Rosenblatt"
-     },
-     {
-      "nombre": "Perceptrons (libro)",
-      "quien": "El libro de Minsky y Papert (1969) que mostró los límites del perceptrón simple.",
-      "wiki": "Perceptrons (libro)"
-     },
-     {
-      "nombre": "Red neuronal artificial",
-      "quien": "La tecnología de fondo de la IA actual, heredera de la idea de Rosenblatt.",
-      "wiki": "Red neuronal artificial"
-     }
-    ],
-    "dato": "En julio de 1958, el New York Times informó que la Marina de EE. UU. esperaba que una máquina llegara a caminar, hablar, ver, escribir, reproducirse y ser consciente de su existencia. Era el perceptrón.",
-    "epoca": "1958",
-    "explicacion": "El psicólogo **Frank Rosenblatt** presentó un programa en una computadora IBM 704 que aprendía a distinguir si una marca estaba a la izquierda o a la derecha después de unos 50 intentos. Era una versión muy simple de una neurona artificial: ajustaba sus «pesos» cada vez que se equivocaba. La promesa periodística fue mucho más allá de lo que la máquina hacía.\n\nEn 1969, Marvin Minsky y Seymour Papert publicaron *Perceptrons*, un libro que mostró sus límites, y el financiamiento se enfrió. Pero la idea sobrevivió: las [[redes neuronales|Programas formados por muchas neuronas artificiales conectadas que aprenden ajustando sus conexiones con ejemplos.]] de la IA actual son descendientes directas del perceptrón.",
-    "fecha": "2026-11-08",
-    "fuente": {
-     "nombre": "The New York Times: New Navy Device Learns by Doing (8 jul 1958)",
-     "url": "https://www.nytimes.com/1958/07/08/archives/new-navy-device-learns-by-doing-psychologist-shows-embryo-of.html"
-    },
-    "imagen": {
-     "alt": "Fotografía de una gran máquina con paneles de cables",
-     "credito": "Wikimedia Commons",
-     "pie": "El Mark I Perceptron, en una figura de su manual de operación",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mark_I_Perceptron,_Figure_2_of_operator's_manual.png?width=900"
-    },
-    "materia": "IA y el futuro",
-    "pilar": "futuro",
-    "repaso": {
-     "pregunta": "¿Qué era el perceptrón de 1958?",
-     "respuesta": "Un modelo simple de neurona artificial creado por Frank Rosenblatt que aprendía de sus errores; antecesor de las redes neuronales actuales."
-    },
-    "titulo": "En 1958 prometieron una máquina consciente",
-    "wiki": "Perceptrón"
    }
   ],
   "Inversión y finanzas personales": [
    {
-    "materia": "Inversión y finanzas personales",
-    "pilar": "patrimonio",
-    "epoca": "2018",
-    "titulo": "De las 12 empresas originales del Dow Jones, la última salió en 2018",
-    "dato": "El índice Dow Jones empezó en 1896 con 12 empresas. General Electric fue la última de ellas en salir: la sacaron en junio de 2018.",
-    "explicacion": "Charles Dow creó el promedio para resumir en un número cómo iba la industria de Estados Unidos. En 1896 eran empresas de algodón, azúcar, tabaco, cuero y gas. Casi todas desaparecieron, se fusionaron o dejaron de importar. GE, fundada por el entorno de Edison, fue la que más aguantó (con matices: entró y salió en los primeros años y estaba de forma continua desde 1907). La reemplazó la farmacéutica Walgreens Boots Alliance.\n\nLa lección para entender el dinero: un [[índice bursátil|Número que resume el precio de un grupo de acciones para medir cómo va un mercado.]] sobrevive porque cambia de miembros. Las empresas, incluso las gigantes, no son eternas. Es una explicación de historia, no una recomendación de compra o venta.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Henry_Dow.jpg?width=900",
-     "alt": "Retrato antiguo de Charles Henry Dow con barba",
-     "pie": "Charles Henry Dow, cofundador de Dow Jones & Company y del Wall Street Journal.",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "NPR: Dow Jones Drops GE, A Member Of The Original Industrial Average In 1896 (2018)",
-     "url": "https://www.npr.org/2018/06/19/621659846/dow-jones-drops-ge-a-member-of-the-original-industrial-average-in-1896"
-    },
-    "wiki": "Promedio Industrial Dow Jones",
     "claves": [
      {
       "nombre": "Charles Henry Dow",
@@ -2578,11 +2616,28 @@
       "wiki": "General Electric"
      }
     ],
+    "dato": "El índice Dow Jones empezó en 1896 con 12 empresas. General Electric fue la última de ellas en salir: la sacaron en junio de 2018.",
+    "epoca": "2018",
+    "explicacion": "Charles Dow creó el promedio para resumir en un número cómo iba la industria de Estados Unidos. En 1896 eran empresas de algodón, azúcar, tabaco, cuero y gas. Casi todas desaparecieron, se fusionaron o dejaron de importar. GE, fundada por el entorno de Edison, fue la que más aguantó (con matices: entró y salió en los primeros años y estaba de forma continua desde 1907). La reemplazó la farmacéutica Walgreens Boots Alliance.\n\nLa lección para entender el dinero: un [[índice bursátil|Número que resume el precio de un grupo de acciones para medir cómo va un mercado.]] sobrevive porque cambia de miembros. Las empresas, incluso las gigantes, no son eternas. Es una explicación de historia, no una recomendación de compra o venta.",
+    "fecha": "2026-11-24",
+    "fuente": {
+     "nombre": "NPR: Dow Jones Drops GE, A Member Of The Original Industrial Average In 1896 (2018)",
+     "url": "https://www.npr.org/2018/06/19/621659846/dow-jones-drops-ge-a-member-of-the-original-industrial-average-in-1896"
+    },
+    "imagen": {
+     "alt": "Retrato antiguo de Charles Henry Dow con barba",
+     "credito": "Wikimedia Commons",
+     "pie": "Charles Henry Dow, cofundador de Dow Jones & Company y del Wall Street Journal.",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Henry_Dow.jpg?width=900"
+    },
+    "materia": "Inversión y finanzas personales",
+    "pilar": "patrimonio",
     "repaso": {
      "pregunta": "¿Cuál fue la última empresa original del Dow Jones en salir del índice y cuándo?",
      "respuesta": "General Electric, en junio de 2018; la reemplazó Walgreens Boots Alliance."
     },
-    "fecha": "2026-11-24"
+    "titulo": "De las 12 empresas originales del Dow Jones, la última salió en 2018",
+    "wiki": "Promedio Industrial Dow Jones"
    },
    {
     "claves": [
@@ -2694,6 +2749,41 @@
    }
   ],
   "Liderazgo e influencia": [
+   {
+    "materia": "Liderazgo e influencia",
+    "pilar": "caracter",
+    "epoca": "1995",
+    "titulo": "Mandela se puso el número 6 del capitán blanco",
+    "dato": "En la final del Mundial de Rugby de 1995, Nelson Mandela entró a la cancha con la camiseta verde de los Springboks y el número 6 del capitán, François Pienaar.",
+    "explicacion": "Para muchos sudafricanos negros, los Springboks eran un símbolo del [[apartheid|Sistema legal de segregación racial que gobernó Sudáfrica de 1948 a 1994.]]. Mandela llevaba solo un año como presidente. En lugar de cambiar el nombre y los colores del equipo, como pedían muchos, decidió adoptarlos.\n\nEl 24 de junio de 1995, en el estadio Ellis Park de Johannesburgo, Sudáfrica venció 15–12 a Nueva Zelanda. Al entregar la copa, Mandela le agradeció a Pienaar, y él respondió que el agradecimiento era para Mandela por lo que hacía por el país. El gesto enseñó algo poco común: a veces se lidera tomando el símbolo del otro bando.",
+    "fuente": {
+     "nombre": "World Rugby: The day Pienaar and Mandela had each other's backs",
+     "url": "https://www.world.rugby/news/568693/the-day-pienaar-and-mandela-had-each-others-backs"
+    },
+    "wiki": "Final de la Copa Mundial de Rugby de 1995",
+    "claves": [
+     {
+      "nombre": "François Pienaar",
+      "quien": "Capitán de los Springboks en 1995.",
+      "wiki": "François Pienaar"
+     },
+     {
+      "nombre": "Invictus (película)",
+      "quien": "La película de Clint Eastwood (2009) sobre esta historia.",
+      "wiki": "Invictus (película)"
+     },
+     {
+      "nombre": "Rugby y apartheid",
+      "quien": "Por qué el rugby era un tema político en Sudáfrica.",
+      "wiki": "Rugby y apartheid"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué camiseta llevó Mandela en la final de 1995 y por qué importaba?",
+     "respuesta": "La de los Springboks con el número 6 del capitán Pienaar; el equipo era un símbolo del apartheid y él lo adoptó para unir al país."
+    },
+    "fecha": "2026-11-25"
+   },
    {
     "claves": [
      {
@@ -3272,6 +3362,36 @@
   ],
   "Negocios y estrategia": [
    {
+    "materia": "Negocios y estrategia",
+    "pilar": "patrimonio",
+    "epoca": "1938",
+    "titulo": "El Nescafé nació para salvar las cosechas sobrantes de Brasil",
+    "dato": "En 1930 el Instituto Brasileño del Café le pidió a Nestlé una solución para los enormes excedentes de grano. Tras años de pruebas, el Nescafé salió a la venta en Suiza en 1938.",
+    "explicacion": "La Gran Depresión había hundido el precio del café y Brasil tenía montañas de grano que no podía vender. La idea era convertirlo en un polvo que durara y se preparara solo con agua. El químico de Nestlé Max Morgenthaler trabajó en ello durante años hasta lograr un polvo que conservara el sabor.\n\nEl lanzamiento llegó en 1938 y la Segunda Guerra Mundial lo volvió masivo: era ligero y no se echaba a perder. Un problema de excedente agrícola terminó en una de las marcas más vendidas del mundo. La estrategia: cuando sobra algo, pregunta qué forma nueva lo haría deseable.",
+    "fuente": {
+     "nombre": "Nescafé: The NESCAFÉ Story",
+     "url": "https://nescafe.com/about-us"
+    },
+    "wiki": "Café instantáneo",
+    "claves": [
+     {
+      "nombre": "Café liofilizado",
+      "quien": "Una técnica posterior de café instantáneo: congelar y secar al vacío.",
+      "wiki": "Café liofilizado"
+     },
+     {
+      "nombre": "Producción de café en Brasil",
+      "quien": "El mayor productor de café del mundo, entonces y ahora.",
+      "wiki": "Producción de café en Brasil"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué problema buscaba resolver el Nescafé?",
+     "respuesta": "Los excedentes de café de Brasil en la Gran Depresión; el Instituto Brasileño del Café se lo pidió a Nestlé en 1930 y salió en 1938."
+    },
+    "fecha": "2026-11-25"
+   },
+   {
     "claves": [
      {
       "nombre": "Elizabeth Magie",
@@ -3381,63 +3501,10 @@
     },
     "titulo": "La «nueva Coca-Cola» duró 79 días",
     "wiki": "New Coke"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "3M",
-      "quien": "Empresa estadounidense de Minnesota que permitía a sus científicos dedicar tiempo a proyectos propios.",
-      "wiki": "3M"
-     },
-     {
-      "nombre": "Adhesivo",
-      "quien": "Sustancia que une superficies; el de Silver pegaba poco, y ese fue su valor.",
-      "wiki": "Adhesivo"
-     }
-    ],
-    "dato": "En 1968, un químico de 3M buscaba un adhesivo muy fuerte y obtuvo uno que apenas pegaba. Tardó doce años en convertirse en producto.",
-    "epoca": "1968",
-    "explicacion": "Spencer Silver creó un adhesivo que se podía despegar y volver a pegar. Nadie en 3M sabía para qué servía. En 1974, su colega Art Fry, que cantaba en el coro de su iglesia, se cansó de que los separadores se cayeran de su himnario. Usó el pegamento de Silver para hacer separadores que no se caían ni rompían la hoja.\n\nLa primera prueba de mercado, en 1977, salió mal: la gente no entendía el producto sin probarlo. 3M cambió la estrategia y regaló muestras masivas en Boise, Idaho. Al probarlo, la gente lo volvió a comprar. El lanzamiento nacional llegó en 1980. Lección: algunos productos no se explican; se prueban.",
-    "fecha": "2026-11-08",
-    "fuente": {
-     "nombre": "Post-it (3M): History Timeline",
-     "url": "https://post-it.com/3M/en_US/post-it/contact-us/about-us/"
-    },
-    "imagen": {
-     "alt": "Notas adhesivas amarillas",
-     "credito": "Wikimedia Commons",
-     "pie": "Notas Post-it",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Post-it.jpg?width=900"
-    },
-    "materia": "Negocios y estrategia",
-    "pilar": "patrimonio",
-    "repaso": {
-     "pregunta": "¿Qué hizo que el Post-it por fin se vendiera?",
-     "respuesta": "Regalar muestras para que la gente lo probara: en la prueba de Boise, quien lo usaba volvía a comprarlo. Se lanzó en todo EE. UU. en 1980."
-    },
-    "titulo": "El Post-it nació de un pegamento fallido",
-    "wiki": "Post-it"
    }
   ],
   "Oficios del lujo y estilo": [
    {
-    "materia": "Oficios del lujo y estilo",
-    "pilar": "gusto",
-    "epoca": "1917",
-    "titulo": "El reloj Tank de Cartier nació mirando tanques desde arriba",
-    "dato": "Louis Cartier diseñó en 1917 un reloj rectangular inspirado en los tanques Renault FT de la Primera Guerra Mundial. Se puso a la venta en 1919: solo seis piezas.",
-    "explicacion": "Vistos desde arriba, los tanques Renault tenían dos orugas paralelas a los lados y una cabina al centro. Cartier convirtió esa forma en reloj: las barras laterales, llamadas *brancards*, son las orugas, y la esfera es la cabina. Se cuenta que el primer prototipo fue para el general estadounidense John Pershing; es la versión habitual, aunque no hay documento de Cartier que lo pruebe.\n\nSegún los registros citados por WorldTempus, seis piezas entraron al inventario a finales de 1919 y todas se vendieron antes del 17 de enero de 1920. Así se reconoce un [[diseño clásico|Diseño que se mantiene casi igual durante décadas porque su forma ya resolvió su función.]]: más de cien años después, el Tank conserva la misma idea de proporción.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A_French_World_War_I_Renault_FT-17_tank,_ditching.jpg?width=900",
-     "alt": "Tanque Renault FT de la Primera Guerra Mundial cruzando una zanja",
-     "pie": "Un tanque Renault FT en la Primera Guerra Mundial. Sus orugas inspiraron los laterales del Tank.",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "WorldTempus: The origins of the Cartier Tank",
-     "url": "https://en.worldtempus.com/article/watch-knowledge/origins-cartier-tank-cartier-79814.html"
-    },
-    "wiki": "Cartier (empresa)",
     "claves": [
      {
       "nombre": "Renault FT-17",
@@ -3450,11 +3517,28 @@
       "wiki": "Cartier (empresa)"
      }
     ],
+    "dato": "Louis Cartier diseñó en 1917 un reloj rectangular inspirado en los tanques Renault FT de la Primera Guerra Mundial. Se puso a la venta en 1919: solo seis piezas.",
+    "epoca": "1917",
+    "explicacion": "Vistos desde arriba, los tanques Renault tenían dos orugas paralelas a los lados y una cabina al centro. Cartier convirtió esa forma en reloj: las barras laterales, llamadas *brancards*, son las orugas, y la esfera es la cabina. Se cuenta que el primer prototipo fue para el general estadounidense John Pershing; es la versión habitual, aunque no hay documento de Cartier que lo pruebe.\n\nSegún los registros citados por WorldTempus, seis piezas entraron al inventario a finales de 1919 y todas se vendieron antes del 17 de enero de 1920. Así se reconoce un [[diseño clásico|Diseño que se mantiene casi igual durante décadas porque su forma ya resolvió su función.]]: más de cien años después, el Tank conserva la misma idea de proporción.",
+    "fecha": "2026-11-24",
+    "fuente": {
+     "nombre": "WorldTempus: The origins of the Cartier Tank",
+     "url": "https://en.worldtempus.com/article/watch-knowledge/origins-cartier-tank-cartier-79814.html"
+    },
+    "imagen": {
+     "alt": "Tanque Renault FT de la Primera Guerra Mundial cruzando una zanja",
+     "credito": "Wikimedia Commons",
+     "pie": "Un tanque Renault FT en la Primera Guerra Mundial. Sus orugas inspiraron los laterales del Tank.",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A_French_World_War_I_Renault_FT-17_tank,_ditching.jpg?width=900"
+    },
+    "materia": "Oficios del lujo y estilo",
+    "pilar": "gusto",
     "repaso": {
      "pregunta": "¿Qué representan las barras laterales del reloj Tank de Cartier?",
      "respuesta": "Las orugas de los tanques Renault FT vistos desde arriba; el reloj se diseñó en 1917 y se vendió desde 1919."
     },
-    "fecha": "2026-11-24"
+    "titulo": "El reloj Tank de Cartier nació mirando tanques desde arriba",
+    "wiki": "Cartier (empresa)"
    },
    {
     "claves": [
@@ -3769,23 +3853,6 @@
   ],
   "Relaciones y vida social": [
    {
-    "materia": "Relaciones y vida social",
-    "pilar": "caracter",
-    "epoca": "1938",
-    "titulo": "El mejor predictor de salud a los 80 no fue el colesterol a los 50",
-    "dato": "Un estudio de Harvard sigue a cientos de hombres desde 1938. Quienes estaban más satisfechos con sus relaciones a los 50 años eran los más sanos a los 80.",
-    "explicacion": "El estudio empezó en 1938 con 268 estudiantes de segundo año de Harvard; entre ellos estaba John F. Kennedy. Décadas después se sumó otro grupo de 456 hombres de barrios pobres de Boston. Los investigadores han revisado sus historias médicas, entrevistas y cuestionarios durante más de 80 años. Es uno de los estudios [[longitudinales|Investigaciones que siguen a las mismas personas durante años para ver cómo cambian.]] más largos del mundo.\n\nSu director actual, el psiquiatra Robert Waldinger, lo resumió así en la Harvard Gazette: lo que predijo cómo envejecerían no fueron los niveles de colesterol en la edad madura, sino la calidad de sus relaciones. Ojo: es un estudio observacional y casi solo de hombres, así que muestra asociación, no causa. Pero el mensaje es claro: cuidar amistades y pareja no es un lujo, es mantenimiento.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard_Yard,_Harvard_University.JPG?width=900",
-     "alt": "Patio arbolado de la Universidad de Harvard con edificios de ladrillo",
-     "pie": "Harvard Yard. Los primeros participantes del estudio eran estudiantes de aquí.",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "Harvard Gazette: Good genes are nice, but joy is better (2017)",
-     "url": "https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/"
-    },
-    "wiki": "Estudio longitudinal",
     "claves": [
      {
       "nombre": "Universidad de Harvard",
@@ -3798,11 +3865,28 @@
       "wiki": "John F. Kennedy"
      }
     ],
+    "dato": "Un estudio de Harvard sigue a cientos de hombres desde 1938. Quienes estaban más satisfechos con sus relaciones a los 50 años eran los más sanos a los 80.",
+    "epoca": "1938",
+    "explicacion": "El estudio empezó en 1938 con 268 estudiantes de segundo año de Harvard; entre ellos estaba John F. Kennedy. Décadas después se sumó otro grupo de 456 hombres de barrios pobres de Boston. Los investigadores han revisado sus historias médicas, entrevistas y cuestionarios durante más de 80 años. Es uno de los estudios [[longitudinales|Investigaciones que siguen a las mismas personas durante años para ver cómo cambian.]] más largos del mundo.\n\nSu director actual, el psiquiatra Robert Waldinger, lo resumió así en la Harvard Gazette: lo que predijo cómo envejecerían no fueron los niveles de colesterol en la edad madura, sino la calidad de sus relaciones. Ojo: es un estudio observacional y casi solo de hombres, así que muestra asociación, no causa. Pero el mensaje es claro: cuidar amistades y pareja no es un lujo, es mantenimiento.",
+    "fecha": "2026-11-24",
+    "fuente": {
+     "nombre": "Harvard Gazette: Good genes are nice, but joy is better (2017)",
+     "url": "https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/"
+    },
+    "imagen": {
+     "alt": "Patio arbolado de la Universidad de Harvard con edificios de ladrillo",
+     "credito": "Wikimedia Commons",
+     "pie": "Harvard Yard. Los primeros participantes del estudio eran estudiantes de aquí.",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard_Yard,_Harvard_University.JPG?width=900"
+    },
+    "materia": "Relaciones y vida social",
+    "pilar": "caracter",
     "repaso": {
      "pregunta": "Según el estudio de Harvard que empezó en 1938, ¿qué predijo mejor la salud a los 80?",
      "respuesta": "La satisfacción con las relaciones a los 50 años, más que el colesterol en la edad madura."
     },
-    "fecha": "2026-11-24"
+    "titulo": "El mejor predictor de salud a los 80 no fue el colesterol a los 50",
+    "wiki": "Estudio longitudinal"
    },
    {
     "claves": [
@@ -3967,6 +4051,36 @@
   ],
   "Religiones y grandes textos": [
    {
+    "materia": "Religiones y grandes textos",
+    "pilar": "cultura",
+    "epoca": "1551",
+    "titulo": "La Biblia no tuvo versículos numerados durante 1,500 años",
+    "dato": "Los capítulos de la Biblia se fijaron hacia el siglo XIII y la numeración de versículos del Nuevo Testamento que usamos la publicó un impresor de París en 1551.",
+    "explicacion": "La división en capítulos se atribuye a [[Stephen Langton|Teólogo inglés, luego arzobispo de Canterbury, que enseñaba en París a principios del siglo XIII.]], hacia 1227. Los versículos numerados del Nuevo Testamento llegaron con Robert Estienne, impresor parisino, en su edición de 1551.\n\nCircula una historia simpática: que Estienne numeró los versículos a caballo, en un viaje de París a Lyon, y que por eso algunos cortes son raros. Viene de su hijo Henri, y quizá solo quería decir que trabajó durante el viaje, en las posadas. Lo seguro es lo importante: un invento de imprenta cambió para siempre cómo se cita un texto sagrado.",
+    "fuente": {
+     "nombre": "Encyclopaedia Britannica: Robert I Estienne",
+     "url": "https://www.britannica.com/biography/Robert-I-Estienne"
+    },
+    "wiki": "Capítulos y versículos de la Biblia",
+    "claves": [
+     {
+      "nombre": "Textus Receptus",
+      "quien": "El texto griego del Nuevo Testamento que se impuso en el siglo XVI; las ediciones de Estienne fueron parte de él.",
+      "wiki": "Textus Receptus"
+     },
+     {
+      "nombre": "Biblia de Ginebra",
+      "quien": "Una de las primeras Biblias completas con versículos numerados (1560).",
+      "wiki": "Biblia de Ginebra"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Quién numeró los versículos del Nuevo Testamento y cuándo?",
+     "respuesta": "El impresor parisino Robert Estienne, en su edición de 1551; los capítulos venían de Stephen Langton, hacia 1227."
+    },
+    "fecha": "2026-11-25"
+   },
+   {
     "claves": [
      {
       "nombre": "Qumrán",
@@ -4037,44 +4151,39 @@
     },
     "titulo": "De unas 180 Biblias de Gutenberg quedan 49",
     "wiki": "Biblia de Gutenberg"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Biblioteca de Alejandría",
-      "quien": "La gran biblioteca de la Antigüedad, donde la leyenda sitúa la traducción.",
-      "wiki": "Biblioteca de Alejandría"
-     },
-     {
-      "nombre": "Filón de Alejandría",
-      "quien": "Filósofo judío del siglo I que difundió la versión milagrosa de la leyenda.",
-      "wiki": "Filón de Alejandría"
-     },
-     {
-      "nombre": "Torá",
-      "quien": "Los cinco primeros libros de la Biblia hebrea; lo primero que se tradujo.",
-      "wiki": "Torá"
-     }
-    ],
-    "dato": "Una leyenda antigua dice que 72 sabios tradujeron la Biblia hebrea al griego en 72 días. En realidad, la traducción tomó unos dos siglos.",
-    "epoca": "Siglo III a. C.",
-    "explicacion": "La leyenda viene de la *Carta de Aristeas*: el rey [[Ptolomeo II|Rey de Egipto (c. 285–246 a. C.) de la dinastía fundada por un general de Alejandro Magno.]] habría pedido a seis sabios de cada tribu de Israel traducir la Ley para la biblioteca de Alejandría. Filón de Alejandría añadió que, trabajando por separado, todos produjeron la misma traducción. Por eso se llama *Septuaginta*, «los Setenta».\n\nLos estudiosos creen que en el siglo III a. C. solo se tradujeron los cinco primeros libros, la Torá, para los judíos de Alejandría que ya hablaban griego. El resto se tradujo poco a poco durante los dos siglos siguientes. Fue la Biblia que leyeron los primeros cristianos.",
-    "fecha": "2026-11-07",
-    "fuente": {
-     "nombre": "Center for Online Judaic Studies: 250 a. C., la Septuaginta y la Biblioteca de Alejandría",
-     "url": "https://cojs.org/250-b-c-e-septuagint-library-alexandria/"
-    },
-    "materia": "Religiones y grandes textos",
-    "pilar": "cultura",
-    "repaso": {
-     "pregunta": "¿Qué se tradujo primero al griego en la Septuaginta?",
-     "respuesta": "La Torá, los cinco primeros libros, en el siglo III a. C. El resto tardó unos dos siglos más."
-    },
-    "titulo": "La Biblia griega no se tradujo en 72 días",
-    "wiki": "Septuaginta"
    }
   ],
   "Retórica y oratoria": [
+   {
+    "materia": "Retórica y oratoria",
+    "pilar": "mente",
+    "epoca": "47 a. C.",
+    "titulo": "«Veni, vidi, vici» no fue un discurso: fue un cartel",
+    "dato": "La frase más famosa de Julio César no la gritó ante sus tropas. Según Suetonio, se mostró escrita en un letrero durante su desfile de victoria en Roma.",
+    "explicacion": "En el verano del 47 a. C., César derrotó a [[Farnaces II|Rey del Bósforo, hijo de Mitrídates el Grande, que intentó recuperar el reino del Ponto.]] en Zela, en la actual Turquía, en una campaña relámpago. Plutarco cuenta que César lo resumió en una carta a un amigo de Roma con tres palabras: «Llegué, vi, vencí».\n\nSuetonio añade que, en el triunfo por esa guerra, uno de los carros llevaba la inscripción con esas tres palabras. No describía lo ocurrido: presumía la velocidad. Es una lección de oratoria escrita: tres verbos cortos, el mismo sonido inicial y ningún adjetivo.",
+    "fuente": {
+     "nombre": "Suetonio, Vida de Julio César, 37 (Lexundria)",
+     "url": "https://lexundria.com/suet_jul/37/r"
+    },
+    "wiki": "Batalla de Zela (47 a. C.)",
+    "claves": [
+     {
+      "nombre": "Julio César",
+      "quien": "General y dictador romano; escribía sus propias crónicas de guerra.",
+      "wiki": "Julio César"
+     },
+     {
+      "nombre": "Farnaces II del Ponto",
+      "quien": "El rey al que venció en Zela.",
+      "wiki": "Farnaces II del Ponto"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Dónde apareció «Veni, vidi, vici» según Suetonio?",
+     "respuesta": "Escrito en un letrero durante el triunfo de César por la guerra del Ponto; Plutarco dice que también lo usó en una carta."
+    },
+    "fecha": "2026-11-25"
+   },
    {
     "claves": [
      {
@@ -4246,23 +4355,6 @@
   ],
   "Salud y longevidad": [
    {
-    "materia": "Salud y longevidad",
-    "pilar": "cuerpo",
-    "epoca": "1929",
-    "titulo": "El médico que se metió un catéter hasta el corazón",
-    "dato": "En 1929, un joven médico alemán se introdujo un tubo de 65 cm por una vena del brazo hasta el corazón, y caminó a rayos X para probarlo.",
-    "explicacion": "Werner Forssmann trabajaba en un hospital de Eberswalde, cerca de Berlín. Creía que se podía llegar al corazón por las venas sin abrir el pecho, pero nadie le daba permiso para probarlo. Lo hizo en sí mismo. La radiografía mostró la punta en la aurícula derecha. Es un caso famoso de [[autoexperimentación|Cuando un científico prueba en su propio cuerpo un procedimiento o sustancia antes que en otros.]].\n\nLa respuesta fue de burla: el cirujano Ferdinand Sauerbruch dijo que eso era cosa de circo. Forssmann dejó la cardiología y se hizo urólogo. Pero otros desarrollaron su idea, y en 1956 compartió el Nobel de Medicina con André Cournand y Dickinson Richards. Hoy el [[cateterismo cardíaco|Procedimiento que lleva un tubo delgado por una arteria o vena hasta el corazón para diagnosticar o tratar.]] salva millones de vidas.",
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Werner_Forssmann_nobel.jpg?width=900",
-     "alt": "Retrato de Werner Forssmann",
-     "pie": "Werner Forssmann, Nobel de Medicina 1956.",
-     "credito": "Wikimedia Commons"
-    },
-    "fuente": {
-     "nombre": "NobelPrize.org: Werner Forssmann, biographical",
-     "url": "https://www.nobelprize.org/prizes/medicine/1956/forssmann/biographical"
-    },
-    "wiki": "Cateterismo cardíaco",
     "claves": [
      {
       "nombre": "Autoexperimentación en ciencia",
@@ -4275,11 +4367,28 @@
       "wiki": "Premio Nobel de Fisiología o Medicina"
      }
     ],
+    "dato": "En 1929, un joven médico alemán se introdujo un tubo de 65 cm por una vena del brazo hasta el corazón, y caminó a rayos X para probarlo.",
+    "epoca": "1929",
+    "explicacion": "Werner Forssmann trabajaba en un hospital de Eberswalde, cerca de Berlín. Creía que se podía llegar al corazón por las venas sin abrir el pecho, pero nadie le daba permiso para probarlo. Lo hizo en sí mismo. La radiografía mostró la punta en la aurícula derecha. Es un caso famoso de [[autoexperimentación|Cuando un científico prueba en su propio cuerpo un procedimiento o sustancia antes que en otros.]].\n\nLa respuesta fue de burla: el cirujano Ferdinand Sauerbruch dijo que eso era cosa de circo. Forssmann dejó la cardiología y se hizo urólogo. Pero otros desarrollaron su idea, y en 1956 compartió el Nobel de Medicina con André Cournand y Dickinson Richards. Hoy el [[cateterismo cardíaco|Procedimiento que lleva un tubo delgado por una arteria o vena hasta el corazón para diagnosticar o tratar.]] salva millones de vidas.",
+    "fecha": "2026-11-24",
+    "fuente": {
+     "nombre": "NobelPrize.org: Werner Forssmann, biographical",
+     "url": "https://www.nobelprize.org/prizes/medicine/1956/forssmann/biographical"
+    },
+    "imagen": {
+     "alt": "Retrato de Werner Forssmann",
+     "credito": "Wikimedia Commons",
+     "pie": "Werner Forssmann, Nobel de Medicina 1956.",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Werner_Forssmann_nobel.jpg?width=900"
+    },
+    "materia": "Salud y longevidad",
+    "pilar": "cuerpo",
     "repaso": {
      "pregunta": "¿Qué hizo Werner Forssmann en 1929?",
      "respuesta": "Se metió un catéter por una vena del brazo hasta la aurícula derecha y lo comprobó con rayos X; en 1956 compartió el Nobel de Medicina."
     },
-    "fecha": "2026-11-24"
+    "titulo": "El médico que se metió un catéter hasta el corazón",
+    "wiki": "Cateterismo cardíaco"
    },
    {
     "claves": [
