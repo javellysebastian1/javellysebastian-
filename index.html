@@ -143,7 +143,7 @@ svg{flex:none}
 
 /* Navegación inferior */
 .nav{position:fixed;left:0;right:0;bottom:0;z-index:5;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-top:1px solid var(--line);padding:6px max(8px,env(safe-area-inset-left,0px)) calc(8px + env(safe-area-inset-bottom,0px)) max(8px,env(safe-area-inset-right,0px))}
-.nav-in{max-width:560px;margin:0 auto;display:grid;grid-template-columns:repeat(4,minmax(0,1fr))}
+.nav-in{max-width:560px;margin:0 auto;display:grid;grid-template-columns:repeat(5,minmax(0,1fr))}
 .nav button{min-height:52px;border:0;background:transparent;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;font-size:11px;font-weight:600;letter-spacing:.06em;color:var(--muted)}
 .nav button[aria-current="page"]{color:var(--gold)}
 
@@ -361,6 +361,34 @@ textarea,input[type=text]{width:100%;padding:12px 14px;border:1px solid var(--li
 .seal text{font-family:var(--ui);font-size:10.5px;font-weight:700;letter-spacing:.22em;fill:var(--ink-gold)}
 @media (prefers-reduced-motion: no-preference){.seal{animation:sello .7s cubic-bezier(.2,1.4,.4,1) both}@keyframes sello{from{transform:scale(1.6) rotate(-20deg);opacity:0}to{transform:none;opacity:1}}}
 @media (prefers-reduced-motion: reduce){*{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
+/* Mi día: proyectos, pendientes, seguimientos, bitácora y cierre */
+select,input[type=date]{width:100%;min-height:48px;padding:10px 12px;border:1px solid var(--line);border-radius:6px;background:var(--surface);font-size:16px;color:var(--fg)}
+.md-list{display:flex;flex-direction:column}
+.md-row{display:grid;grid-template-columns:40px minmax(0,1fr) 40px;gap:8px;align-items:start;padding:12px 0;border-bottom:1px solid var(--line)}
+.md-chk{width:30px;height:30px;border-radius:15px;border:2px solid var(--muted);background:transparent;display:flex;align-items:center;justify-content:center;margin:0 auto;padding:0;color:transparent}
+.md-chk.on{background:var(--ok);border-color:var(--ok);color:#fff}
+.md-row .t1{display:block;line-height:1.35}
+.md-row.done .t1{text-decoration:line-through;color:var(--muted)}
+.md-meta{display:flex;flex-wrap:wrap;gap:4px 10px;font-size:12.5px;color:var(--muted);margin-top:4px}
+.md-meta .late{color:var(--bad);font-weight:700}
+.md-meta .who{color:var(--fg);font-weight:600}
+.md-star{width:40px;height:40px;border:0;background:transparent;font-size:20px;line-height:1;color:var(--line);padding:0}
+.md-star.on{color:var(--gold)}
+.md-acts{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+.md-mini{min-height:34px;padding:0 12px;border:1px solid var(--line);border-radius:4px;background:transparent;font-size:12.5px;font-weight:600}
+.md-g2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.md-pcard{position:relative;border:1px solid var(--line);background:var(--surface);border-radius:6px;padding:16px 16px 14px 19px;text-align:left;display:flex;flex-direction:column;gap:4px;width:100%;overflow:hidden}
+.md-pcard:before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--gold)}
+.md-pcard b{font-family:var(--display);font-weight:500;font-size:22px;line-height:1.1}
+.md-pcard .nx{font-size:14px;line-height:1.4}
+.md-pcard .ct{font-size:12px;color:var(--muted);font-weight:600;letter-spacing:.04em}
+.md-anoche{background:var(--ink);color:var(--ink-fg);border-radius:6px;padding:16px 18px;display:flex;flex-direction:column;gap:8px}
+.md-anoche .eyebrow{color:var(--ink-gold)}
+.md-anoche p{font-family:var(--read);font-size:16.5px;line-height:1.5;color:var(--ink-soft)}
+.md-bit{padding:12px 0;border-bottom:1px solid var(--line);display:flex;flex-direction:column;gap:4px}
+.md-bit .d{font-size:11px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.md-bit p{font-family:var(--read);font-size:16.5px;line-height:1.5;white-space:pre-wrap}
+.md-msg{font-size:13px;color:var(--ok);min-height:18px}
 </style>
 
 <div id="app" class="wrap" aria-live="polite">
@@ -468,6 +496,7 @@ var ICON={
   explore:'<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M15.5 8.5l-2 5-5 2 2-5z"/></svg>',
   review:'<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M20 12a8 8 0 11-2.3-5.6M20 4v4h-4"/></svg>',
   me:'<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 3l8.5 6.2-3.2 10H6.7L3.5 9.2z"/><path d="M12 8l3.8 2.8-1.5 4.5H9.7l-1.5-4.5z"/></svg>',
+  dia:'<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="4" y="5" width="16" height="15" rx="2"/><path d="M4 10h16M8 3v4M16 3v4M9 15l2 2 4-4"/></svg>',
   play:'<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M7 4.5v15l12-7.5z"/></svg>',
   pause:'<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1"/><rect x="14" y="5" width="4" height="14" rx="1"/></svg>',
   stop:'<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="6" y="6" width="12" height="12" rx="2"/></svg>',
@@ -738,11 +767,12 @@ function render(){
   if(S.estado==='cargando')return;
   if(S.estado==='error'||!S.db){app.innerHTML=vistaError();return;}
   if(S.view==='explorar'||S.view==='tu')cargarHistorial();
-  var v={home:vistaHoy,explorar:vistaExplorar,repaso:vistaRepaso,tu:vistaTu}[S.view]||vistaHoy;
+  if(S.view==='dia'&&!MD.ok&&!MD.cargando)mdCargar();
+  var v={home:vistaHoy,dia:vistaDia,explorar:vistaExplorar,repaso:vistaRepaso,tu:vistaTu}[S.view]||vistaHoy;
   app.innerHTML=v();
 }
 function renderNav(){
-  var items=[['home','Hoy','home'],['explorar','Explorar','explore'],['repaso','Repaso','review'],['tu','Tú','me']];
+  var items=[['home','Hoy','home'],['dia','Mi día','dia'],['explorar','Explorar','explore'],['repaso','Repaso','review'],['tu','Tú','me']];
   document.getElementById('nav').innerHTML=items.map(function(it){
     return '<button type="button" data-nav="'+it[0]+'"'+(S.view===it[0]?' aria-current="page"':'')+'>'+ICON[it[2]]+'<span>'+it[1]+'</span></button>';
   }).join('');
@@ -939,6 +969,197 @@ function vistaTu(){
   (S.downloads?'<button type="button" class="btn btn-ghost" data-act="export">Descargar mis datos</button><label class="btn btn-ghost" for="imp" style="cursor:pointer">Importar datos</label><input type="file" id="imp" accept="application/json,.json" hidden>':'<p class="muted small">La descarga no está disponible en esta vista.</p>')+'<p id="exp-msg" class="small muted"></p></div></section>';
 }
 function velocidad(){return lsGet('auxo.vel')||'1';}
+
+/* ---------- Mi día: espacio aparte de la edición ----------
+   Colecciones privadas: proyectos/<id>, tareas/<id>, bitacora/<id>, dias/<fecha>. */
+var MD={ok:false,cargando:false,proyectos:[],abiertas:[],hechasHoy:[],dia:{},ayer:null,proy:null,bit:[],draft:{},msg:'',confArch:false};
+var MD_SEMILLA=[{id:'deyun',nombre:'Deyun Pharma',orden:1},{id:'lutecia',nombre:'Lutecia',orden:2},{id:'arcanum',nombre:'ARCANUM',orden:3}];
+function nid(){return Date.now().toString(36)+Math.random().toString(36).slice(2,6);}
+function limpio(o){return JSON.parse(JSON.stringify(o));}
+function diasEntre(a,b){return Math.round((new Date(b+'T12:00:00Z')-new Date(a+'T12:00:00Z'))/864e5);}
+function horaLocal(){try{return parseInt(new Intl.DateTimeFormat('en-US',{timeZone:TZ,hour:'numeric',hourCycle:'h23'}).format(new Date()),10)||0;}catch(e){return new Date().getHours();}}
+function conIds(q){return q.docs.map(function(d){var x=limpio(d.data()||{});x.id=d.id;return x;});}
+function mdCargar(){
+  if(!S.db)return Promise.resolve();
+  MD.cargando=true;var f=hoy();
+  return Promise.all([
+    S.db.collection('proyectos').get().then(conIds),
+    S.db.collection('tareas').where('hecha','==',false).get().then(conIds),
+    S.db.collection('tareas').where('hechaEl','==',f).get().then(conIds).catch(function(){return [];}),
+    S.db.doc('dias/'+f).get().then(function(s){return s.exists?limpio(s.data()):{};}),
+    S.db.doc('dias/'+sumarDias(f,-1)).get().then(function(s){return s.exists?limpio(s.data()):null;}).catch(function(){return null;})
+  ]).then(function(r){
+    var P=r[0];
+    if(!P.length){
+      P=MD_SEMILLA.map(function(p){return {id:p.id,nombre:p.nombre,orden:p.orden,siguiente:'',activo:true,creado:new Date().toISOString()};});
+      P.forEach(function(p){var x=Object.assign({},p);delete x.id;S.db.doc('proyectos/'+p.id).set(x).catch(function(){});});
+    }
+    MD.proyectos=P;MD.abiertas=r[1];MD.hechasHoy=r[2].filter(function(t){return t.hecha&&!t.soltada;});
+    MD.dia=r[3]||{};MD.dia.prioridades=MD.dia.prioridades||[];MD.ayer=r[4];
+    MD.ok=true;MD.cargando=false;
+    if(S.view==='dia')render();
+  }).catch(function(e){MD.cargando=false;MD.ok=false;MD.msg='No pude abrir Mi día ('+((e&&e.code)||'error')+').';if(S.view==='dia')render();});
+}
+function proyActivos(){return MD.proyectos.filter(function(p){return p.activo!==false;}).sort(function(a,b){return (a.orden||99)-(b.orden||99)||String(a.nombre).localeCompare(b.nombre);});}
+function proyDe(id){return MD.proyectos.find(function(p){return p.id===id;});}
+function tareaDe(id){return MD.abiertas.find(function(t){return t.id===id;})||MD.hechasHoy.find(function(t){return t.id===id;});}
+function guardarTarea(t){var x=Object.assign({},t);delete x.id;return S.db.doc('tareas/'+t.id).set(limpio(x)).catch(function(){MD.msg='No se guardó. Revisa tu conexión.';render();});}
+function guardarDia(){var f=hoy();MD.dia.fecha=f;MD.dia.actualizado=new Date().toISOString();return S.db.doc('dias/'+f).set(limpio(MD.dia)).catch(function(){});}
+function notaBitacora(proy,texto,auto){
+  if(!proy||!texto)return;
+  var b={proyecto:proy,fecha:hoy(),texto:texto,auto:!!auto,creada:new Date().toISOString()};var id=nid();
+  S.db.doc('bitacora/'+id).set(b).catch(function(){});
+  if(MD.proy===proy){b.id=id;MD.bit.unshift(b);}
+}
+var MD_CAMPOS=['md-txt','md-pr','md-tipo','md-per','md-fe','md-c1','md-c2','md-c3','md-np','md-sig','md-nota','md-ren'];
+function mdCapturar(){MD_CAMPOS.forEach(function(k){var e=document.getElementById(k);if(e)MD.draft[k]=e.value;});}
+function dv(k,def){return esc(MD.draft[k]!=null?MD.draft[k]:(def||''));}
+function ordenFecha(a,b){var x=a.fecha||'9999',y=b.fecha||'9999';return x<y?-1:(x>y?1:String(a.creada||'').localeCompare(String(b.creada||'')));}
+
+function filaTarea(t,o){
+  o=o||{};var f=hoy(),p=proyDe(t.proyecto),done=!!t.hecha;
+  var star=MD.dia.prioridades.indexOf(t.id)>=0;
+  var meta=[];
+  if(!o.sinProyecto)meta.push('<span>'+esc(p?p.nombre:'Sin proyecto')+'</span>');
+  if(t.tipo==='seguimiento')meta.push('<span class="who">'+(t.persona?'Con '+esc(t.persona):'Seguimiento')+'</span>');
+  else if(t.persona)meta.push('<span class="who">'+esc(t.persona)+'</span>');
+  if(t.fecha&&!done){var n=diasEntre(t.fecha,f);if(n>0)meta.push('<span class="late">Viene de hace '+n+(n===1?' día':' días')+'</span>');else if(n===0)meta.push('<span>Hoy</span>');else meta.push('<span>'+esc(fechaLarga(t.fecha))+'</span>');}
+  var acts='';
+  if(o.mover&&!done)acts='<div class="md-acts"><button type="button" class="md-mini" data-md="hoy" data-id="'+t.id+'">Hoy</button><button type="button" class="md-mini" data-md="man" data-id="'+t.id+'">Mañana</button><button type="button" class="md-mini" data-md="soltar" data-id="'+t.id+'">Soltar</button></div>';
+  return '<div class="md-row'+(done?' done':'')+'"><button type="button" class="md-chk'+(done?' on':'')+'" data-md="chk" data-id="'+t.id+'" aria-label="'+(done?'Marcar como pendiente':'Marcar como hecho')+': '+esc(t.texto)+'">'+ICON.check+'</button>'+
+    '<div style="min-width:0"><span class="t1">'+esc(t.texto)+'</span>'+(meta.length?'<div class="md-meta">'+meta.join('')+'</div>':'')+acts+'</div>'+
+    (done?'<span></span>':'<button type="button" class="md-star'+(star?' on':'')+'" data-md="star" data-id="'+t.id+'" aria-label="'+(star?'Quitar de mis 3 de hoy':'Elegir como prioridad de hoy')+'" aria-pressed="'+star+'">★</button>')+'</div>';
+}
+function formAgregar(proyFijo){
+  var ps=proyActivos();
+  var sel=proyFijo?'':'<div class="field"><label for="md-pr">Proyecto</label><select id="md-pr"><option value="">Sin proyecto</option>'+ps.map(function(p){return '<option value="'+esc(p.id)+'"'+((MD.draft['md-pr']||'')===p.id?' selected':'')+'>'+esc(p.nombre)+'</option>';}).join('')+'</select></div>';
+  var tipo=MD.draft['md-tipo']||'tarea';
+  return '<div class="card"><div class="field"><label for="md-txt">¿Qué hay que hacer?</label><input type="text" id="md-txt" value="'+dv('md-txt')+'" placeholder="Ej.: Mandar propuesta de precios"></div>'+
+    '<div class="md-g2">'+(sel||'')+'<div class="field"><label for="md-tipo">Tipo</label><select id="md-tipo"><option value="tarea"'+(tipo==='tarea'?' selected':'')+'>Pendiente</option><option value="seguimiento"'+(tipo==='seguimiento'?' selected':'')+'>Seguimiento con alguien</option></select></div>'+
+    '<div class="field"><label for="md-per">Persona (opcional)</label><input type="text" id="md-per" value="'+dv('md-per')+'" placeholder="Ej.: Karla, Arturo, Paul"></div>'+
+    '<div class="field"><label for="md-fe">Para cuándo</label><input type="date" id="md-fe" value="'+dv('md-fe',hoy())+'"></div></div>'+
+    '<button type="button" class="btn btn-primary" data-md="add"'+(proyFijo?' data-id="'+esc(proyFijo)+'"':'')+'>Agregar</button></div>';
+}
+function vistaDia(){
+  if(!MD.ok){return encabezado()+'<div class="page-t"><span class="eyebrow">Mi día</span><h1>Abriendo tu día…</h1>'+(MD.msg?'<p>'+esc(MD.msg)+'</p>':'')+'</div>';}
+  if(MD.proy&&proyDe(MD.proy))return vistaProyecto(proyDe(MD.proy));
+  var f=hoy(),h=horaLocal(),saludo=h<12?'Buenos días, Sebastián':(h<19?'Buenas tardes, Sebastián':'Buenas noches, Sebastián');
+  var A=MD.abiertas.slice().sort(ordenFecha),pr=MD.dia.prioridades;
+  var tres=pr.map(tareaDe).filter(Boolean);
+  var atras=A.filter(function(t){return t.fecha&&t.fecha<f&&pr.indexOf(t.id)<0;});
+  var paraHoy=A.filter(function(t){return t.fecha===f&&pr.indexOf(t.id)<0;});
+  var hechas=MD.hechasHoy.filter(function(t){return pr.indexOf(t.id)<0;});
+  var html=encabezado()+
+    '<div class="page-t"><span class="eyebrow">Mi día · '+esc(fechaMast(f))+'</span><h1>'+saludo+'</h1><p>Tus proyectos, lo que quedó abierto y tus 3 de hoy. Aparte de la edición.</p></div>';
+  var an=MD.ayer&&MD.ayer.cierre;
+  if(an&&(an.manana||an.nota||an.salio))html+='<div class="md-anoche"><span class="eyebrow">Anoche dejaste dicho</span>'+(an.manana?'<p><b style="color:var(--ink-fg)">Para hoy:</b> '+esc(an.manana).replace(/\n/g,' · ')+'</p>':'')+(an.nota?'<p>'+esc(an.nota)+'</p>':'')+'</div>';
+  html+='<section style="display:flex;flex-direction:column;gap:4px"><div class="sec-h"><h2>Tus 3 de hoy</h2><span>'+tres.filter(function(t){return t.hecha;}).length+' de '+tres.length+' hechas</span></div>'+
+    (tres.length?'<div class="md-list">'+tres.map(function(t){return filaTarea(t);}).join('')+'</div>':'')+
+    (tres.length<3?'<p class="muted small" style="padding-top:10px">'+(tres.length?'Puedes elegir '+(3-tres.length)+' más.':'Toca ★ en cualquier pendiente para elegir tus 3 prioridades de hoy.')+'</p>':'')+'</section>';
+  if(atras.length)html+='<section style="display:flex;flex-direction:column;gap:4px"><div class="sec-h"><h2>Viene de días anteriores</h2><span>'+atras.length+'</span></div><p class="muted small" style="padding-top:8px">Decide cada uno: lo haces hoy, lo pasas a mañana o lo sueltas.</p><div class="md-list">'+atras.map(function(t){return filaTarea(t,{mover:true});}).join('')+'</div></section>';
+  html+='<section style="display:flex;flex-direction:column;gap:4px"><div class="sec-h"><h2>Para hoy</h2><span>'+paraHoy.length+'</span></div>'+
+    (paraHoy.length?'<div class="md-list">'+paraHoy.map(function(t){return filaTarea(t);}).join('')+'</div>':'<p class="muted small" style="padding-top:10px">Nada más con fecha de hoy.</p>')+
+    (hechas.length?'<details style="padding-top:10px"><summary class="small muted" style="cursor:pointer;min-height:32px">Hecho hoy ('+hechas.length+')</summary><div class="md-list">'+hechas.map(function(t){return filaTarea(t);}).join('')+'</div></details>':'')+'</section>';
+  var prox=A.filter(function(t){return (!t.fecha||t.fecha>f)&&pr.indexOf(t.id)<0;});
+  if(prox.length)html+='<details><summary class="small muted" style="cursor:pointer;min-height:40px;display:flex;align-items:center">Próximos y sin fecha ('+prox.length+')</summary><div class="md-list">'+prox.map(function(t){return filaTarea(t,{mover:true});}).join('')+'</div></details>';
+  var cierre=seccionCierre();
+  if(h>=18)html+=cierre;
+  html+='<section style="display:flex;flex-direction:column;gap:12px"><div class="sec-h"><h2>Agregar</h2><span>Pendiente o seguimiento</span></div>'+formAgregar()+'</section>';
+  var ps=proyActivos();
+  html+='<section style="display:flex;flex-direction:column;gap:10px"><div class="sec-h"><h2>Proyectos</h2><span>'+ps.length+'</span></div>'+
+    ps.map(function(p){
+      var ab=MD.abiertas.filter(function(t){return t.proyecto===p.id;});var seg=ab.filter(function(t){return t.tipo==='seguimiento';}).length;var tard=ab.filter(function(t){return t.fecha&&t.fecha<f;}).length;
+      return '<button type="button" class="md-pcard" data-md="proy" data-id="'+esc(p.id)+'"><b>'+esc(p.nombre)+'</b><span class="nx">'+(p.siguiente?'<span class="muted">Siguiente paso:</span> '+esc(p.siguiente):'<span class="muted">Sin siguiente paso definido</span>')+'</span><span class="ct">'+(ab.length-seg)+' pendientes · '+seg+' seguimientos'+(tard?' · <span style="color:var(--bad)">'+tard+' atrasados</span>':'')+'</span></button>';
+    }).join('')+
+    '<div class="buscar"><input type="text" id="md-np" value="'+dv('md-np')+'" placeholder="Nombre del nuevo proyecto" aria-label="Nombre del nuevo proyecto"><button type="button" class="btn btn-ghost" data-md="addp">Agregar</button></div></section>';
+  if(h<18)html+=cierre;
+  html+='<p class="md-msg" role="status">'+esc(MD.msg||'')+'</p>';
+  return html;
+}
+function seccionCierre(){
+  var c=MD.dia.cierre||{};
+  return '<section style="display:flex;flex-direction:column;gap:12px"><div class="sec-h"><h2>Cierre del día</h2><span>'+(c.guardado?'Guardado':'1 minuto')+'</span></div>'+
+    '<div class="card"><div class="field"><label for="md-c1">¿Qué salió hoy?</label><textarea id="md-c1" rows="2">'+dv('md-c1',c.salio)+'</textarea></div>'+
+    '<div class="field"><label for="md-c2">¿Qué pasa a mañana?</label><textarea id="md-c2" rows="3" placeholder="Uno por línea. Ej.: Deyun: llamar a Paul">'+dv('md-c2',c.manana)+'</textarea><span class="muted small">Cada línea se vuelve un pendiente para mañana. Empieza con el nombre del proyecto y dos puntos para asignarlo.</span></div>'+
+    '<div class="field"><label for="md-c3">Nota libre</label><textarea id="md-c3" rows="2">'+dv('md-c3',c.nota)+'</textarea></div>'+
+    '<button type="button" class="btn btn-dark" data-md="cierre">Guardar cierre</button></div></section>';
+}
+function vistaProyecto(p){
+  var f=hoy(),ab=MD.abiertas.filter(function(t){return t.proyecto===p.id;}).sort(ordenFecha);
+  var tar=ab.filter(function(t){return t.tipo!=='seguimiento';}),seg=ab.filter(function(t){return t.tipo==='seguimiento';});
+  var hh=MD.hechasHoy.filter(function(t){return t.proyecto===p.id;});
+  return '<button type="button" class="back" data-md="back">'+ICON.back+'Mi día</button>'+
+    '<div class="page-t"><span class="eyebrow">Proyecto</span><h1>'+esc(p.nombre)+'</h1></div>'+
+    '<section style="display:flex;flex-direction:column;gap:10px"><div class="sec-h"><h2>Siguiente paso</h2></div><div class="buscar"><input type="text" id="md-sig" value="'+dv('md-sig',p.siguiente)+'" placeholder="¿Qué sigue en este proyecto?" aria-label="Siguiente paso"><button type="button" class="btn btn-primary" data-md="sig">Guardar</button></div></section>'+
+    '<section style="display:flex;flex-direction:column;gap:4px"><div class="sec-h"><h2>Pendientes</h2><span>'+tar.length+'</span></div>'+(tar.length?'<div class="md-list">'+tar.map(function(t){return filaTarea(t,{sinProyecto:true,mover:t.fecha&&t.fecha<f});}).join('')+'</div>':'<p class="muted small" style="padding-top:10px">Sin pendientes abiertos.</p>')+'</section>'+
+    '<section style="display:flex;flex-direction:column;gap:4px"><div class="sec-h"><h2>Seguimientos</h2><span>'+seg.length+'</span></div>'+(seg.length?'<div class="md-list">'+seg.map(function(t){return filaTarea(t,{sinProyecto:true,mover:t.fecha&&t.fecha<f});}).join('')+'</div>':'<p class="muted small" style="padding-top:10px">Nadie te debe respuesta ni le debes a nadie.</p>')+
+    (hh.length?'<details style="padding-top:10px"><summary class="small muted" style="cursor:pointer;min-height:32px">Hecho hoy ('+hh.length+')</summary><div class="md-list">'+hh.map(function(t){return filaTarea(t,{sinProyecto:true});}).join('')+'</div></details>':'')+'</section>'+
+    '<section style="display:flex;flex-direction:column;gap:12px"><div class="sec-h"><h2>Agregar</h2></div>'+formAgregar(p.id)+'</section>'+
+    '<section style="display:flex;flex-direction:column;gap:10px"><div class="sec-h"><h2>Bitácora</h2><span>Ideas, acuerdos, resultados</span></div>'+
+      '<div class="card"><div class="field"><label for="md-nota">Nota de hoy</label><textarea id="md-nota" rows="3">'+dv('md-nota')+'</textarea></div><button type="button" class="btn btn-primary" data-md="nota">Agregar a la bitácora</button></div>'+
+      '<div>'+(MD.bitCargando?'<p class="muted small">Cargando…</p>':(MD.bit.length?MD.bit.slice(0,40).map(function(b){return '<div class="md-bit"><span class="d">'+esc(fechaLarga(b.fecha))+(b.auto?' · Completado':'')+'</span><p>'+esc(b.texto)+'</p></div>';}).join(''):'<p class="muted small">Aún no hay notas.</p>'))+'</div></section>'+
+    '<section style="display:flex;flex-direction:column;gap:10px"><div class="sec-h"><h2>Ajustes del proyecto</h2></div><div class="buscar"><input type="text" id="md-ren" value="'+dv('md-ren',p.nombre)+'" aria-label="Nombre del proyecto"><button type="button" class="btn btn-ghost" data-md="ren">Renombrar</button></div>'+
+      '<button type="button" class="btn btn-ghost" data-md="arch">'+(MD.confArch?'Toca otra vez para archivar '+esc(p.nombre):'Archivar proyecto')+'</button></section>'+
+    '<p class="md-msg" role="status">'+esc(MD.msg||'')+'</p>';
+}
+function mdCargarBitacora(id){
+  MD.bit=[];MD.bitCargando=true;
+  S.db.collection('bitacora').where('proyecto','==',id).get().then(function(q){
+    MD.bit=conIds(q).sort(function(a,b){return String(b.creada||'').localeCompare(String(a.creada||''));});
+  }).catch(function(){MD.bit=[];}).then(function(){MD.bitCargando=false;if(S.view==='dia'&&MD.proy===id)render();});
+}
+function mdAccion(a,id){
+  if(!S.db||!MD.ok)return;
+  mdCapturar();MD.msg='';
+  var f=hoy(),t=id?tareaDe(id):null,y=window.scrollY;
+  var listo=function(){render();window.scrollTo(0,y);};
+  if(a==='chk'&&t){
+    if(t.hecha){t.hecha=false;t.hechaEl=null;MD.hechasHoy=MD.hechasHoy.filter(function(x){return x.id!==t.id;});MD.abiertas.push(t);}
+    else{t.hecha=true;t.hechaEl=f;MD.abiertas=MD.abiertas.filter(function(x){return x.id!==t.id;});MD.hechasHoy.push(t);notaBitacora(t.proyecto,t.texto,true);}
+    guardarTarea(t);listo();return;
+  }
+  if(a==='star'&&t){
+    var pr=MD.dia.prioridades,i=pr.indexOf(t.id);
+    if(i>=0)pr.splice(i,1);else{var vivas=pr.filter(function(x){var z=tareaDe(x);return z&&!z.hecha;});if(vivas.length>=3){MD.msg='Ya tienes 3 prioridades abiertas. Termina o quita una para elegir otra.';listo();return;}pr.push(t.id);if(!t.fecha||t.fecha<f){t.fecha=f;guardarTarea(t);}}
+    guardarDia();listo();return;
+  }
+  if((a==='hoy'||a==='man')&&t){t.fecha=a==='hoy'?f:sumarDias(f,1);guardarTarea(t);MD.msg=a==='hoy'?'Movido a hoy.':'Pasado a mañana.';listo();return;}
+  if(a==='soltar'&&t){t.hecha=true;t.soltada=true;t.soltadaEl=f;t.hechaEl=null;MD.abiertas=MD.abiertas.filter(function(x){return x.id!==t.id;});guardarTarea(t);MD.msg='Soltado: «'+t.texto+'».';listo();return;}
+  if(a==='add'){
+    var tx=(MD.draft['md-txt']||'').trim();if(!tx){MD.msg='Escribe qué hay que hacer.';listo();return;}
+    var nt={id:nid(),texto:tx,proyecto:id||MD.draft['md-pr']||'',tipo:MD.draft['md-tipo']==='seguimiento'?'seguimiento':'tarea',persona:(MD.draft['md-per']||'').trim(),fecha:MD.draft['md-fe']||'',hecha:false,hechaEl:null,creada:new Date().toISOString()};
+    MD.abiertas.push(nt);guardarTarea(nt);
+    MD.draft['md-txt']='';MD.draft['md-per']='';MD.draft['md-tipo']='tarea';MD.draft['md-fe']=hoy();MD.msg='Agregado.';listo();return;
+  }
+  if(a==='addp'){
+    var nn=(MD.draft['md-np']||'').trim();if(!nn){MD.msg='Escribe el nombre del proyecto.';listo();return;}
+    var np={id:nn.toLowerCase().normalize('NFD').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,30)+'-'+nid().slice(-4),nombre:nn,orden:proyActivos().length+1,siguiente:'',activo:true,creado:new Date().toISOString()};
+    MD.proyectos.push(np);var xp=Object.assign({},np);delete xp.id;S.db.doc('proyectos/'+np.id).set(xp).catch(function(){});
+    MD.draft['md-np']='';MD.msg='Proyecto «'+nn+'» agregado.';listo();return;
+  }
+  if(a==='proy'){MD.proy=id;MD.confArch=false;['md-sig','md-nota','md-ren'].forEach(function(k){delete MD.draft[k];});mdCargarBitacora(id);render();window.scrollTo(0,0);return;}
+  if(a==='back'){MD.proy=null;MD.confArch=false;render();window.scrollTo(0,0);return;}
+  var p=MD.proy?proyDe(MD.proy):null;
+  var guardaP=function(){var x=Object.assign({},p);delete x.id;S.db.doc('proyectos/'+p.id).set(limpio(x)).catch(function(){});};
+  if(a==='sig'&&p){p.siguiente=(MD.draft['md-sig']||'').trim();guardaP();delete MD.draft['md-sig'];MD.msg='Siguiente paso guardado.';listo();return;}
+  if(a==='nota'&&p){var nx=(MD.draft['md-nota']||'').trim();if(!nx)return;notaBitacora(p.id,nx,false);MD.draft['md-nota']='';MD.msg='Nota agregada.';listo();return;}
+  if(a==='ren'&&p){var rn=(MD.draft['md-ren']||'').trim();if(!rn)return;p.nombre=rn;guardaP();delete MD.draft['md-ren'];MD.msg='Nombre actualizado.';listo();return;}
+  if(a==='arch'&&p){if(!MD.confArch){MD.confArch=true;listo();return;}p.activo=false;guardaP();MD.proy=null;MD.confArch=false;MD.msg='Proyecto archivado.';render();window.scrollTo(0,0);return;}
+  if(a==='cierre'){
+    var c={salio:(MD.draft['md-c1']||'').trim(),manana:(MD.draft['md-c2']||'').trim(),nota:(MD.draft['md-c3']||'').trim(),guardado:new Date().toISOString()};
+    MD.dia.cierre=c;MD.dia.creadasManana=MD.dia.creadasManana||[];
+    var man=sumarDias(f,1),nuevas=0;
+    c.manana.split('\n').map(function(l){return l.trim().replace(/^[-•*]\s*/,'');}).filter(Boolean).forEach(function(l){
+      if(MD.dia.creadasManana.indexOf(l)>=0)return;
+      var pid='',txt=l,m=l.match(/^([^:]{2,40}):\s*(.+)$/);
+      if(m){var pp=proyActivos().find(function(q){return q.nombre.toLowerCase()===m[1].trim().toLowerCase()||q.nombre.toLowerCase().indexOf(m[1].trim().toLowerCase())===0;});if(pp){pid=pp.id;txt=m[2];}}
+      var nt={id:nid(),texto:txt,proyecto:pid,tipo:'tarea',persona:'',fecha:man,hecha:false,hechaEl:null,creada:new Date().toISOString(),deCierre:f};
+      MD.abiertas.push(nt);guardarTarea(nt);MD.dia.creadasManana.push(l);nuevas++;
+    });
+    guardarDia();['md-c1','md-c2','md-c3'].forEach(function(k){delete MD.draft[k];});
+    MD.msg='Cierre guardado.'+(nuevas?' '+nuevas+(nuevas===1?' pendiente quedó':' pendientes quedaron')+' para mañana.':'');listo();return;
+  }
+}
 
 /* ---------- Recorrido ---------- */
 function abrirFlow(desde,extra){
@@ -1257,7 +1478,8 @@ function rerenderFlowKeep(){var f=document.getElementById('flow');var y=f.scroll
 document.addEventListener('click',function(ev){
   var b=ev.target.closest('button,[data-act]');if(!b)return;
   var d=b.dataset;
-  if(d.nav){S.view=d.nav;if(d.nav==='explorar')S.pilar=null;render();window.scrollTo(0,0);return;}
+  if(d.md){mdAccion(d.md,d.id||'');return;}
+  if(d.nav){if(S.view==='dia')mdCapturar();if(d.nav==='dia')MD.proy=null;S.view=d.nav;if(d.nav==='explorar')S.pilar=null;render();window.scrollTo(0,0);return;}
   if(d.pilar){S.pilar=d.pilar;S.view='explorar';render();window.scrollTo(0,0);return;}
   if(d.ed){abrirEdicion(d.ed);return;}
   if(d.modo){S.modo=d.modo;lsSet('auxo.modo',d.modo);if(S.edition&&!S.prog.completada){S.prog.modo=d.modo;guardarProg();}render();return;}
@@ -1330,8 +1552,9 @@ function siguientePaso(){
 }
 function exportar(){
   var msg=document.getElementById('exp-msg');
-  Promise.all([S.db.collection('progress').get(),S.db.collection('review').get()]).then(function(r){
-    var data={exportado:new Date().toISOString(),progreso:r[0].docs.map(function(d){return d.data();}),repaso:r[1].docs.map(function(d){var x=JSON.parse(JSON.stringify(d.data()));x.id=d.id;return x;})};
+  var conId=function(q){return q.docs.map(function(d){var x=JSON.parse(JSON.stringify(d.data()));x.id=d.id;return x;});};
+  Promise.all([S.db.collection('progress').get(),S.db.collection('review').get(),S.db.collection('proyectos').get(),S.db.collection('tareas').get(),S.db.collection('bitacora').get(),S.db.collection('dias').get()]).then(function(r){
+    var data={exportado:new Date().toISOString(),progreso:r[0].docs.map(function(d){return d.data();}),repaso:conId(r[1]),miDia:{proyectos:conId(r[2]),pendientes:conId(r[3]),bitacora:conId(r[4]),dias:conId(r[5])}};
     return S.downloads.save({filename:'auxo-mis-datos-'+hoy()+'.json',data:JSON.stringify(data,null,2)});
   }).then(function(){if(msg)msg.textContent='Descarga lista.';}).catch(function(){if(msg)msg.textContent='No se descargó. Intenta de nuevo.';});
 }
@@ -1414,6 +1637,8 @@ document.addEventListener('change',function(ev){
       var d=JSON.parse(fr.result),n=0;
       (d.progreso||[]).forEach(function(p){if(p&&p.fecha){localStorage.setItem('auxo.db.progress/'+p.fecha,JSON.stringify(p));n++;}});
       (d.repaso||[]).forEach(function(r){if(r&&r.id){var x=Object.assign({},r);delete x.id;localStorage.setItem('auxo.db.review/'+r.id,JSON.stringify(x));n++;}});
+      var M=d.miDia||{};[['proyectos','proyectos'],['pendientes','tareas'],['bitacora','bitacora'],['dias','dias']].forEach(function(par){(M[par[0]]||[]).forEach(function(r){if(r&&r.id){var x=Object.assign({},r);delete x.id;localStorage.setItem('auxo.db.'+par[1]+'/'+r.id,JSON.stringify(x));n++;}});});
+      MD.ok=false;
       if(msg)msg.textContent='Importados '+n+' registros.';
       cargar();
     }catch(e){if(msg)msg.textContent='Ese archivo no es una copia de AUXO.';}
@@ -1427,7 +1652,7 @@ function revisarNueva(){
   if(S.flow||S.deArchivo||S.estado!=='listo')return;
   if(document.visibilityState&&document.visibilityState!=='visible')return;
   var f=hoy();
-  if(f!==cargadoEl||!S.edition||S.edition.fecha!==f){cargadoEl=f;if(S.db&&S.db.reset)S.db.reset();cargar();}
+  if(f!==cargadoEl||!S.edition||S.edition.fecha!==f){if(f!==cargadoEl){MD.ok=false;MD.draft={};}cargadoEl=f;if(S.db&&S.db.reset)S.db.reset();cargar();}
 }
 document.addEventListener('visibilitychange',revisarNueva);
 window.addEventListener('focus',revisarNueva);
