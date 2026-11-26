@@ -1,0 +1,842 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-26",
+ "numero": 35,
+ "fecha": "2026-11-26",
+ "disponibleDesde": "2026-11-26T08:00:00-06:00",
+ "titulo": "Síntesis: cómo una ciudad se vuelve sinónimo de buen gusto",
+ "temporada": {
+  "id": "t06",
+  "numero": 6,
+  "titulo": "París: cómo se hizo la capital del gusto",
+  "episodio": 6,
+  "totalEpisodios": 6
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chateau_Versailles_Galerie_des_Glaces.jpg?width=900",
+  "alt": "Galería de los Espejos del palacio de Versalles",
+  "pie": "La Galería de los Espejos de Versalles, el escaparate de la industria de lujo que fundó Colbert.",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "origen": "Edición #34",
+   "pregunta": "¿Qué se instaló en 1689 frente al café Procope y le cambió la clientela?",
+   "respuesta": "La Comédie-Française, el teatro del rey; cuando se fue en 1770 la calle pasó a llamarse rue de l'Ancienne-Comédie."
+  },
+  {
+   "origen": "Edición #34",
+   "pregunta": "¿A partir de qué temperatura se acelera la reacción de Maillard?",
+   "respuesta": "Hacia los 140 °C: por eso la carne hervida, a 100 °C, nunca se dora."
+  },
+  {
+   "origen": "Edición #33",
+   "pregunta": "¿Quién bautizó como «New Look» la colección de Dior de 1947?",
+   "respuesta": "Carmel Snow, editora de Harper's Bazaar."
+  }
+ ],
+ "noticias": [
+  {
+   "id": "peso-1985-nov26",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-11-25",
+   "historiaEnCurso": {
+    "id": "tasas-banxico",
+    "titulo": "Tasas de Banxico y el peso",
+    "capitulo": 11,
+    "dondeIbamos": "El martes 24 el INEGI reportó inflación de 3.96% en la primera quincena de noviembre y el peso pasó de 19.27 por dólar. Banxico tiene su tasa en 6.25% y vuelve a decidir el 17 de diciembre."
+   },
+   "titular": "El peso llega a 19.85 por dólar, su nivel más débil desde abril de 2025",
+   "quePaso": "Hacia el mediodía del miércoles 25, el peso se negociaba en **19.8495 por dólar**, según Excélsior con información de Reuters. Era una caída de 2.3% en la jornada y la sexta sesión seguida de pérdidas.\n\nEn las ventanillas ya se veía más alto. A las 12:00, BBVA vendía el dólar en 19.91 y Banamex en 20.14.",
+   "contexto": "**Hecho:** en Estados Unidos, la inflación PCE de octubre subió a 3.8% anual y la subyacente a 3.3%. El PIB del tercer trimestre se revisó a 4.3% anualizado, más de lo estimado (Excélsior).\n\n**Hecho:** eso alimenta la expectativa de que la Reserva Federal suba tasas. Si las tasas de EE. UU. suben, se achica el [[diferencial de tasas|La diferencia entre lo que pagan los bonos de dos países; si se reduce, hay menos razón para invertir en pesos.]] y se deshace parte del *carry trade*, la apuesta de pedir prestado barato para invertir en pesos.\n\n**Hecho:** Washington propuso nuevos aranceles a 14 socios comerciales; México quedó «excluido por ahora», según la nota.\n\n**Interpretación:** en una semana el peso pasó de ~19.2 a casi 19.9. No es una crisis, pero sí un cambio de piso para quien importa.",
+   "aMiQue": "Si compras insumos, envases, maquinaria o publicidad digital en dólares, tu costo subió cerca de 3% en una semana. Antes de fijar precios para enero, recalcula con 20 pesos por dólar, no con 19. Y si tienes pagos en dólares próximos, compara el tipo de cambio entre bancos: el diferencial entre compra y venta pasa de un peso en algunos.",
+   "queVigilar": "La decisión de Banxico del 17 de diciembre y la inflación de la segunda quincena de noviembre, que el INEGI publica a principios de diciembre. Con peso débil e inflación cerca de 4%, bajar tasas se vuelve más difícil.",
+   "fuentes": [
+    {
+     "nombre": "Excélsior: Peso llega a nivel no visto desde abril de 2025; precio del dólar hoy 25 de noviembre de 2026",
+     "url": "https://www.excelsior.com.mx/finanzas/precio-dolar-hoy-tipo-cambio-bancos-mexico-25-noviembre-2026"
+    }
+   ]
+  },
+  {
+   "id": "brent-9461-nov26",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-25",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 31,
+    "dondeIbamos": "El lunes 23 el petróleo cayó más de 3% por señales de diplomacia entre EE. UU. e Irán. El 25, la Guardia Revolucionaria dijo que dos petroleros chocaron con minas en Ormuz, sin confirmación independiente."
+   },
+   "titular": "El Brent sube 3.5% a 94.61 dólares: los ataques en el Golfo pesan más que el exceso de oferta",
+   "quePaso": "El Brent para enero cerró el miércoles 25 en **94.61 dólares por barril**, 3.5% más, su nivel más alto en más de una semana. El WTI subió 2% a 83.68 dólares (Bloomberg, vía Rigzone). Fue un día de pocas operaciones antes del Día de Acción de Gracias.\n\nEl precio dio la vuelta durante el día: en la mañana, Reuters lo reportaba a la baja, en 90.96.",
+   "contexto": "**Hecho:** Arabia Saudita dijo que interceptó cuatro drones dirigidos a [[Ras Tanura|Puerto y refinería saudí en el Golfo Pérsico, uno de los mayores centros de exportación de crudo del mundo.]]. Los hutíes de Yemen reivindicaron un ataque al distrito financiero de Riad, el segundo en una semana.\n\n**Hecho:** la Guardia Revolucionaria iraní dijo que detuvo un portacontenedores que iba por una ruta «no autorizada». La agencia marítima británica UKMTO informó que tres buques fueron alcanzados por proyectiles el lunes. Irán afirma que más petroleros tocaron minas; Bloomberg subraya que no hay confirmación independiente.\n\n**Hecho:** la OPEP+ decide su producción de 2027 el 29 de noviembre. Hay dudas porque Emiratos ya no está sujeto a sus límites. «Mucha de esa normalización esperada parece ya descontada», dijo Emily Ashford, de Standard Chartered.\n\n**Interpretación:** el mercado esperaba sobreoferta; cada ataque recuerda que esa apuesta depende de que Ormuz siga abierto.",
+   "aMiQue": "Junta las dos noticias de hoy: petróleo arriba y peso abajo. Fletes, envases de PET, aluminio y diésel se pagan, al final, en dólares. Para una marca de bebidas, es un golpe doble al costo por botella. No cierres contratos anuales de logística o envase esta semana sin una cláusula de ajuste.",
+   "queVigilar": "La reunión de la OPEP+ del 29 de noviembre y cualquier confirmación independiente de minas en Ormuz.",
+   "fuentes": [
+    {
+     "nombre": "Rigzone (Bloomberg): Oil up as Hormuz attacks counter recovery in supply (25 nov 2026)",
+     "url": "https://www.rigzone.com/news/wire/oil_up_as_hormuz_attacks_counter_recovery_in_supply-25-nov-2026-185171-article/"
+    },
+    {
+     "nombre": "MarineLink (Reuters): Oil falls as supply glut concerns overshadow Hormuz shipping risks (25 nov 2026)",
+     "url": "https://www.marinelink.com/news/oil-falls-supply-glut-concerns-overshadow-544578"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "En 1665 Venecia castigaba a los vidrieros que se iban. Francia se llevó a varios a París, y la fábrica que fundó con ellos todavía existe.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chateau_Versailles_Galerie_des_Glaces.jpg?width=900",
+     "alt": "Galería de los Espejos del palacio de Versalles, con arañas de cristal y espejos frente a las ventanas",
+     "pie": "La Galería de los Espejos de Versalles (1678–1684): 357 espejos frente a 17 ventanas.",
+     "credito": "Wikimedia Commons"
+    },
+    "contexto": "Europa, 1660. Un espejo grande y sin defectos es uno de los objetos más caros que existen. Casi todos salen de [[Murano|Isla de la laguna de Venecia donde la república concentró a sus vidrieros desde el siglo XIII.]], y Venecia guarda el secreto como un asunto de Estado: para sus artesanos, irse a trabajar al extranjero es un delito.\n\nEn París, el ministro de Luis XIV, **Jean-Baptiste Colbert**, odia ver salir el oro francés para comprar lujo veneciano. En octubre de 1665 consigue que el rey firme las cartas que crean la Manufactura real de lunas de espejo. Para hacerla funcionar recluta, a escondidas, vidrieros venecianos.\n\nEn 1666 salen los primeros espejos franceses sin defectos. Veinte años después, Versalles tiene un salón entero hecho de ellos.\n\nEsta temporada vimos cómo París se volvió la capital del gusto: Haussmann, Worth, la Exposición de 1900, Dior y los cafés. Hoy cerramos con la pregunta de fondo. Y empieza con esos espejos.",
+    "pregunta": "¿Qué pasó con la fábrica de espejos que fundó Colbert en 1665?",
+    "opciones": [
+     "Cerró cuando murió Luis XIV, en 1715",
+     "Sigue viva: hoy es Saint-Gobain, uno de los grandes grupos de materiales del mundo",
+     "La compraron los venecianos para recuperar su monopolio"
+    ]
+   },
+   {
+    "tipo": "historia",
+    "titulo": "El ministro que convirtió el lujo en política",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Colbert1666.jpg?width=900",
+     "alt": "Retrato de Jean-Baptiste Colbert con peluca y cuello de encaje",
+     "pie": "Jean-Baptiste Colbert hacia 1666, cuando Francia empezaba a fabricar su propio lujo.",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "Colbert no era artista. Era hijo de comerciantes de telas de Reims y pensaba como contador. Su idea, llamada después [[mercantilismo|Doctrina económica de los siglos XVI a XVIII: un país se enriquece si exporta más de lo que importa y acumula metales preciosos.]], era simple: lo que Francia compra fuera, que lo fabrique dentro y lo venda caro.\n\nEn 1662 compró para la Corona el edificio de los Gobelinos, en París, y juntó ahí a tapiceros, ebanistas y orfebres del rey. Al frente puso al pintor Charles Le Brun, que lo dirigió de 1663 a 1690. En 1665 no fundó solo la fábrica de espejos: según Saint-Gobain, fue una de las 25 manufacturas reales creadas ese año.\n\nLos espejos fueron su prueba más difícil. Los primeros vidrieros venecianos llegaron a trabajar al barrio de Saint-Antoine. En 1667 la producción se mudó a Tourlaville, cerca de Cherburgo. Hacia 1672, Francia ya prohibía importar espejos de Venecia.\n\nY luego vino el escaparate. Entre 1678 y 1684, el arquitecto Jules Hardouin-Mansart levantó en Versalles la **Galería de los Espejos**: 357 espejos franceses frente a 17 ventanas. Los embajadores que caminaban por ahí no veían solo un salón. Veían un anuncio: Francia ya sabía hacer lo que antes solo hacía Venecia.\n\nA Colbert se le atribuye una frase famosa: «La moda es para Francia lo que las minas del Perú son para España». No hay documento que pruebe que la dijo. Pero resume bien lo que hizo."
+   },
+   {
+    "tipo": "giro",
+    "titulo": "El gusto no nació: lo fabricaron",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Christian_Dior,_30_Avenue_Montaigne,_Paris_2016.jpg?width=900",
+     "alt": "Fachada de la casa Christian Dior en la avenida Montaigne de París",
+     "pie": "La casa Dior en la avenida Montaigne. La alta costura de 1947 heredó tres siglos de talleres, clientes y proveedores.",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "La respuesta es la segunda: **la fábrica sigue viva**. En 1695 se fusionó con una rival, y el nombre le vino de su planta en el pueblo de Saint-Gobain, en Picardía. El grupo Saint-Gobain se presenta hoy como heredero directo de aquella manufactura de 1665.\n\nLa sorpresa no es la longevidad. Es lo que revela. Solemos pensar que París es elegante por naturaleza, como si el buen gusto flotara en el aire del Sena. La historia dice otra cosa: **el gusto se construyó, pieza por pieza, durante tres siglos**.\n\nRepasa la temporada con esa lente. Colbert puso los talleres y el escaparate. Haussmann, desde 1853, le dio a la ciudad un escenario: bulevares, fachadas iguales y luz. Worth, en 1858, convirtió al costurero en autor con su nombre cosido en la etiqueta. La Exposición de 1900 trajo al mundo entero a mirar, y Guimard firmó hasta las entradas del metro. Dior, en 1947, usó toda esa red para relanzar el lujo después de la guerra. Y los cafés pusieron la conversación que le daba sentido a todo.\n\nNinguna pieza sola explica a París. Lo que la explica es que estaban juntas: artesanos, clientes exigentes, proveedores, rivales y un Estado que lo quería."
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "El diamante de Porter",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Immeuble_haussmannien_%C3%A0_Paris_%2852169315349%29.jpg?width=900",
+     "alt": "Edificio haussmanniano de piedra clara con balcones de hierro en París",
+     "pie": "Un edificio haussmanniano: el escenario que París le ofreció a sus marcas desde el siglo XIX.",
+     "credito": "Wikimedia Commons"
+    },
+    "texto": "En 1990, el economista de Harvard **Michael Porter** publicó *The Competitive Advantage of Nations*. Quería saber por qué ciertas industrias se concentran en ciertos lugares: los relojes en Suiza, el vino en Burdeos, el software en California. Llamó a esas concentraciones [[clústeres|Grupos de empresas e instituciones conectadas, de un mismo campo, que comparten un lugar.]].\n\nSu respuesta es un «diamante» de cuatro puntas. Úsalo para revisar cualquier lugar o industria:\n\n**1. Factores.** ¿Hay talento, oficios y materiales especializados? En París: bordadoras, vidrieros, perfumistas.\n\n**2. Demanda exigente.** ¿Hay clientes cercanos que obligan a mejorar? La corte, y luego la burguesía de los bulevares.\n\n**3. Industrias relacionadas.** ¿Hay proveedores y oficios vecinos? Telas, botones, revistas, fotógrafos.\n\n**4. Rivalidad.** ¿Compiten varias casas fuertes entre sí? Worth, Poiret, Chanel, Dior.\n\nLa pregunta útil no es «¿quién es el mejor?», sino «¿qué red lo sostiene?». Una marca sola puede ser brillante. Una red bien armada dura siglos."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Jalisco también tiene su diamante",
+    "texto": "**El tequila.** No es solo una bebida: es un clúster. En la región conviven agaveros, destilerías, fabricantes de botellas y etiquetas, laboratorios, un consejo regulador y una [[denominación de origen|Protección legal que reserva un nombre a los productos de una zona y un método definidos.]] que obliga a todos a cuidar el nombre. Lo vimos en la temporada de la mesa: una bebida que se volvió un lugar.\n\n**Tlaquepaque y Tonalá.** Alfarería, vidrio soplado, herrería y muebles comparten calles, compradores y proveedores desde hace generaciones. Ahí el diamante existe; lo que a veces falta es la marca que lo cuente.\n\n**En tu empresa.** Una marca premium casi nunca triunfa sola. Pregunta en qué red se apoya: ¿qué proveedor exigente la mejora, qué cliente la obliga a subir el nivel, qué rival la mantiene despierta? Si la respuesta es «ninguno», el riesgo no es el precio: es dormirse."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "Si alguien quisiera copiar lo mejor de tu negocio, ¿qué tendría que llevarse además del producto: proveedores, clientes, oficio o reputación?",
+    "texto": "Elige mentalmente la pieza más difícil de copiar. Esa es la que más vale cuidar."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "El buen gusto de una ciudad no es un milagro: es una red de talleres, clientes y rivales que se exigen durante siglos."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Saint-Gobain: Our history, desde la manufactura de 1665 (en inglés)",
+   "url": "https://saint-gobain.com/en/group/our-history",
+   "minutos": 8
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Qué hizo Colbert en 1665 para romper el monopolio veneciano de los espejos?",
+    "respuesta": "Creó la Manufactura real de lunas de espejo y reclutó vidrieros venecianos; la empresa terminó siendo Saint-Gobain."
+   },
+   {
+    "pregunta": "¿Cuáles son las cuatro puntas del diamante de Porter?",
+    "respuesta": "Factores especializados, demanda exigente, industrias relacionadas y de apoyo, y rivalidad entre empresas."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Saint-Gobain: Our history",
+    "url": "https://saint-gobain.com/en/group/our-history"
+   },
+   {
+    "nombre": "Wikipedia (inglés): Saint-Gobain",
+    "url": "https://en.wikipedia.org/wiki/Saint-Gobain"
+   },
+   {
+    "nombre": "Wikipedia: Galería de los Espejos",
+    "url": "https://es.wikipedia.org/wiki/Galer%C3%ADa_de_los_Espejos"
+   },
+   {
+    "nombre": "EBSCO Research Starters: Diamond model",
+    "url": "https://ebsco.com/research-starters/economics/diamond-model"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Cine y fotografía",
+   "pilar": "cultura",
+   "formato": "miraEscucha",
+   "titulo": "Detrás de la estación Saint-Lazare: el salto que Cartier-Bresson cazó por un hueco",
+   "contexto": "París, 1932. Henri Cartier-Bresson tiene 23 años y una cámara Leica, pequeña y silenciosa. Detrás de la estación de trenes Saint-Lazare hay una obra cercada con tablas. Él mete la lente por una rendija.\n\nDel otro lado, un terreno inundado. Un hombre salta sobre el charco desde una escalera tirada en el agua. El talón queda a centímetros de la superficie y el agua lo refleja de cabeza. Al fondo, en una pared, hay carteles pegados.\n\nCartier-Bresson contó después que la rendija ni siquiera era tan ancha como su lente.",
+   "pregunta": "¿Qué hay en los carteles del fondo que hace famosa la composición?",
+   "opciones": [
+    "Una bailarina que salta en una pose casi igual a la del hombre",
+    "Un reloj que marca la hora exacta de la foto",
+    "El anuncio de un tren que sale de la estación"
+   ],
+   "correcta": 0,
+   "revelacion": "Los carteles muestran **una bailarina en pleno salto**, casi en la misma postura que el hombre. La foto «rima» consigo misma: salto en el cartel, salto en el charco y salto reflejado en el agua. El audio del MoMA lo señala como clave de la imagen. Cartier-Bresson dijo que no vio los carteles hasta después.\n\nEn 1952 publicó *Images à la sauvette*, con portada de Matisse. En Estados Unidos se tituló *The Decisive Moment*, y la expresión se quedó: el [[instante decisivo|Idea de Cartier-Bresson: reconocer en una fracción de segundo el sentido de una escena y, a la vez, la forma que la ordena.]]. Es, además, una de sus pocas fotos recortadas: le quitó una franja a la izquierda.\n\nCómo mirarla: busca primero la línea del horizonte, luego el reflejo y al final los carteles. Verás que nada sobra. Esa es la diferencia entre ver y mirar.",
+   "idea": "Una gran foto no captura un instante cualquiera: captura el instante en que el sentido y la forma coinciden.",
+   "fuente": {
+    "nombre": "MoMA Audio: Henri Cartier-Bresson, The Modern Century",
+    "url": "https://www.moma.org/audio/playlist/244/3135"
+   },
+   "wiki": "Henri Cartier-Bresson",
+   "claves": [
+    {
+     "nombre": "Fotografía callejera",
+     "quien": "El género que Cartier-Bresson ayudó a definir.",
+     "wiki": "Fotografía callejera"
+    },
+    {
+     "nombre": "Agencia Magnum",
+     "quien": "La cooperativa de fotógrafos que fundó en 1947 con Capa y otros.",
+     "wiki": "Agencia Magnum"
+    },
+    {
+     "nombre": "Fotografía humanista",
+     "quien": "La corriente francesa de posguerra que retrató la vida cotidiana.",
+     "wiki": "Fotografía humanista"
+    }
+   ],
+   "profundizar": {
+    "titulo": "Fondation Henri Cartier-Bresson: The Decisive Moment (en inglés)",
+    "url": "https://henricartierbresson.org/en/?p=5099"
+   },
+   "repaso": {
+    "pregunta": "¿Qué es el «instante decisivo» de Cartier-Bresson?",
+    "respuesta": "Reconocer en una fracción de segundo el sentido de una escena y la forma que la ordena, como en el salto de Saint-Lazare (1932)."
+   }
+  },
+  {
+   "materia": "Negocios y estrategia",
+   "pilar": "patrimonio",
+   "formato": "elCaso",
+   "titulo": "Netflix se ofreció a Blockbuster por 50 millones de dólares, y Blockbuster dijo que no",
+   "contexto": "Dallas, septiembre de 2000. En la sala de juntas de Blockbuster, en el piso 23 de la Renaissance Tower, entran tres ejecutivos de una empresa pequeña: Reed Hastings, Marc Randolph y su director financiero, Barry McCarthy. Netflix renta DVD por correo y pierde dinero.\n\nDel otro lado está John Antioco, director de Blockbuster, la cadena con miles de tiendas de renta de video. Netflix propone una alianza: ellos manejarían el negocio en línea de Blockbuster. Antioco pregunta cuánto querrían por la empresa. Hastings da una cifra: 50 millones de dólares.",
+   "pregunta": "¿Qué respondió Blockbuster?",
+   "opciones": [
+    "Aceptó, pero cerró Netflix dos años después",
+    "Rechazó la oferta; Randolph recuerda que Antioco apenas contuvo la risa",
+    "Ofreció el doble a cambio de que Hastings se fuera"
+   ],
+   "correcta": 1,
+   "revelacion": "**La rechazó.** En su libro, Marc Randolph cuenta que Antioco hizo un esfuerzo por no reírse. Para Blockbuster, Netflix era un negocio de nicho que no ganaba dinero. Su modelo funcionaba: tiendas en cada colonia y [[multas por retraso|Cargos por devolver tarde una película; eran una parte importante de los ingresos de Blockbuster.]] que pagaban millones de clientes.\n\nEse era el problema. Netflix nació, en parte, contra esas multas: suscripción fija, sin cargos por retraso. Blockbuster no podía copiar el modelo sin destruir una de sus fuentes de ingreso. El 23 de septiembre de 2010, diez años después de aquella reunión, Blockbuster se declaró en quiebra.\n\nLa lección no es «Antioco fue tonto»: la oferta era razonable de rechazar con los números de 2000. La lección es que un líder suele no ver la amenaza que ataca justo la parte del negocio que más dinero le deja.",
+   "idea": "La amenaza más peligrosa es la que vive de lo que tus clientes odian de ti y tú no puedes dejar de cobrar.",
+   "fuente": {
+    "nombre": "Built In: relato de Marc Randolph sobre la reunión con Blockbuster (extracto de su libro)",
+    "url": "https://builtin.com/articles/netflix-blockbuster-buyout"
+   },
+   "wiki": "Blockbuster (empresa)",
+   "claves": [
+    {
+     "nombre": "Blockbuster (empresa)",
+     "quien": "La cadena de renta de video que dominó los noventa y quebró en 2010.",
+     "wiki": "Blockbuster (empresa)"
+    },
+    {
+     "nombre": "Innovación disruptiva",
+     "quien": "La teoría de Clayton Christensen sobre por qué los líderes no ven a los recién llegados.",
+     "wiki": "Innovación disruptiva"
+    }
+   ],
+   "profundizar": {
+    "titulo": "Fortune (2023): Marc Randolph recuerda el rechazo de Blockbuster (en inglés)",
+    "url": "https://fortune.com/2023/04/14/netflix-cofounder-marc-randolph-recalls-blockbuster-rejecting-chance-to-buy-it/"
+   },
+   "repaso": {
+    "pregunta": "¿Por qué Blockbuster no podía copiar a Netflix fácilmente?",
+    "respuesta": "Porque Netflix eliminaba las multas por retraso, una fuente importante de ingresos de Blockbuster."
+   }
+  },
+  {
+   "materia": "Derecho y poder",
+   "pilar": "mundo",
+   "formato": "elCaso",
+   "titulo": "Florence Cassez: la Corte la liberó sin decidir si era culpable",
+   "contexto": "Diciembre de 2005. La francesa Florence Cassez y su pareja, Israel Vallarta, son detenidos cerca de la Ciudad de México, acusados de secuestro. El 9 de diciembre, la televisión transmite «en vivo» su captura y el rescate de víctimas en un rancho.\n\nPero no era en vivo: era una recreación. La detención real ya había ocurrido, y la escena se montó para las cámaras. La Procuraduría lo admitió después. Cassez fue condenada a 96 años en 2008; en apelación, la pena bajó a 60.",
+   "pregunta": "¿Por qué la Suprema Corte ordenó su libertad inmediata en 2013?",
+   "opciones": [
+    "Porque nuevas pruebas demostraron que era inocente",
+    "Porque se violó su debido proceso: aviso consular tardío y un montaje que contaminó las pruebas",
+    "Por un indulto presidencial negociado con Francia"
+   ],
+   "correcta": 1,
+   "revelacion": "El 23 de enero de 2013, la Primera Sala de la [[SCJN|Suprema Corte de Justicia de la Nación, el máximo tribunal de México.]] resolvió el amparo directo en revisión 517/2011 por **3 votos contra 2**. Ponente: Olga Sánchez Cordero, con Arturo Zaldívar y Alfredo Gutiérrez Ortiz Mena. En contra, José Ramón Cossío y Jorge Pardo Rebolledo.\n\nLa Corte encontró tres violaciones: el aviso al consulado francés llegó unas 35 horas tarde, contra la Convención de Viena; no la presentaron sin demora ante el Ministerio Público; y el montaje tuvo un «efecto corruptor» sobre los testimonios, que violaba la presunción de inocencia. Con las pruebas contaminadas, no quedaba base para condenarla.\n\nLa Corte nunca dijo que fuera inocente. Dijo algo más incómodo: que un Estado que fabrica escenas ya no puede probar nada. Para un abogado, es el caso de manual de por qué el proceso es la garantía de todos.",
+   "idea": "Cuando la autoridad monta la prueba, pierde algo más que el caso: pierde la posibilidad de saber la verdad.",
+   "fuente": {
+    "nombre": "SCJN: Resumen del ADR 517/2011 (caso Cassez)",
+    "url": "https://www.scjn.gob.mx/derechos-humanos/sites/default/files/sentencias-emblematicas/resumen/2021-04/Resumen%20ADR517-2011%20DGDH.pdf"
+   },
+   "wiki": "Florence Cassez",
+   "claves": [
+    {
+     "nombre": "Luis Cárdenas Palomino",
+     "quien": "Mando de la AFI vinculado al montaje televisivo.",
+     "wiki": "Luis Cárdenas Palomino"
+    },
+    {
+     "nombre": "Agencia Federal de Investigación",
+     "quien": "La policía federal que hizo la detención.",
+     "wiki": "Agencia Federal de Investigación"
+    },
+    {
+     "nombre": "Convención de Viena sobre Relaciones Consulares",
+     "quien": "El tratado de 1963 que obliga a avisar al consulado de un detenido extranjero.",
+     "wiki": "Convención de Viena sobre Relaciones Consulares"
+    }
+   ],
+   "profundizar": {
+    "titulo": "Infobae (2013): la justicia mexicana ordena la liberación de Cassez",
+    "url": "https://www.infobae.com/2013/01/23/1065346-justicia-mexicana-ordena-liberacion-cassez/"
+   },
+   "repaso": {
+    "pregunta": "¿Por qué liberó la SCJN a Florence Cassez en 2013?",
+    "respuesta": "Por violaciones al debido proceso: aviso consular tardío, demora en presentarla y un montaje que contaminó las pruebas (3 a 2)."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "elCaso",
+   "titulo": "Snowdevil: la tienda de snowboards cuyo software valió más que las tablas",
+   "contexto": "Ottawa, Canadá, 2004. Tres amigos, Tobias Lütke, Scott Lake y Daniel Weinand, abren Snowdevil, una tienda en línea de tablas de snowboard de gama alta.\n\nLütke es programador. Prueba los programas de tienda en línea de la época y le parecen torpes y caros. Así que escribe el suyo desde cero, con un lenguaje entonces nuevo, [[Ruby on Rails|Herramienta para crear aplicaciones web, publicada en 2004, que permitía construir rápido con poco código.]]. La tienda vende tablas. Pero otros comerciantes empiezan a preguntar por el software.",
+   "pregunta": "¿Cuál terminó siendo el negocio de verdad?",
+   "opciones": [
+    "Las tablas de snowboard premium, vendidas en todo el mundo",
+    "El software de la tienda, rentado a otros comerciantes cada mes",
+    "Un catálogo de ropa de invierno por correo"
+   ],
+   "correcta": 1,
+   "revelacion": "El software. En 2006 lanzaron **Shopify**: cualquiera podía abrir su tienda en línea pagando una cuota mensual. En 2015 salió a la bolsa. Según su reporte oficial, en 2024 tuvo ingresos por 8,880 millones de dólares y por sus tiendas pasaron ventas por 292,275 millones.\n\nPor qué escala: el mismo código sirve a millones de tiendas. Agregar una más casi no cuesta. Y el modelo cobra dos veces: la [[suscripción|Pago fijo y periódico por usar un servicio.]] mensual y una parte de los pagos que procesa.\n\nOjo con la lección fácil. Casi todas las herramientas que alguien programa para su propio negocio se quedan ahí. La de Snowdevil funcionó porque el problema era de miles de comerciantes, no solo de uno, y porque llegó cuando las tiendas pequeñas empezaban a vender en internet.",
+   "idea": "A veces el producto no es lo que vendes, sino la herramienta que construiste para venderlo.",
+   "fuente": {
+    "nombre": "Shopify Investors: resultados del cuarto trimestre y año 2024 (11 feb 2025)",
+    "url": "https://www.shopify.com/investors/press-releases/shopify-merchant-success-powers-q4-outperformance-across-both-top-and-bottom-line"
+   },
+   "wiki": "Comercio electrónico",
+   "claves": [
+    {
+     "nombre": "Tienda en línea",
+     "quien": "El tipo de negocio que Shopify permite crear sin programar.",
+     "wiki": "Tienda en línea"
+    },
+    {
+     "nombre": "Ruby on Rails",
+     "quien": "El lenguaje de trabajo con el que Lütke escribió la primera versión.",
+     "wiki": "Ruby on Rails"
+    }
+   ],
+   "profundizar": {
+    "titulo": "Fortune (2017): How Shopify is fueling an e-commerce revolution (en inglés)",
+    "url": "https://fortune.com/2017/03/15/shopify-ecommerce-revolution/"
+   },
+   "repaso": {
+    "pregunta": "¿Cómo nació Shopify?",
+    "respuesta": "Del software que Tobias Lütke escribió en 2004 para su tienda de snowboards Snowdevil; en 2006 lo rentó a otros comerciantes."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Mente y decisiones",
+   "pilar": "mente",
+   "epoca": "Siglo XX",
+   "titulo": "Con 23 personas en una sala, ya es probable que dos cumplan años el mismo día",
+   "dato": "Basta reunir a 23 personas para que la probabilidad de que dos compartan cumpleaños sea de 50.7%. Con 70 personas sube a 99.9%.",
+   "explicacion": "La intuición falla porque pensamos en *nuestro* cumpleaños: que alguien coincida conmigo sí es raro. Pero la pregunta es si coinciden *dos cualesquiera*. Con 23 personas hay 253 parejas posibles, y cada una es una oportunidad de coincidencia. Lo fácil es calcular lo contrario: la probabilidad de que nadie coincida, que con 23 baja apenas de la mitad.\n\nSe le llama [[paradoja|Resultado verdadero que contradice la intuición; aquí no hay contradicción lógica, solo sorpresa.]] del cumpleaños, aunque no tiene nada de contradictorio. La lección sirve fuera de las fiestas: las «coincidencias increíbles» casi siempre son esperables cuando hay muchas combinaciones posibles. Antes de ver una conspiración en una casualidad, cuenta las parejas.",
+   "fuente": {
+    "nombre": "Wikipedia (inglés): Birthday problem",
+    "url": "https://en.wikipedia.org/wiki/Birthday_problem"
+   },
+   "wiki": "Paradoja del cumpleaños",
+   "claves": [
+    {
+     "nombre": "Paradoja del cumpleaños",
+     "quien": "El problema clásico de probabilidad detrás de este dato.",
+     "wiki": "Paradoja del cumpleaños"
+    },
+    {
+     "nombre": "Principio del palomar",
+     "quien": "Con 367 personas la coincidencia es segura: hay más personas que días posibles.",
+     "wiki": "Principio del palomar"
+    }
+   ],
+   "profundizar": {
+    "titulo": "Harvey Mudd College, Math Fun Facts: The Birthday Problem (en inglés)",
+    "url": "https://math.hmc.edu/funfacts/?p=206"
+   },
+   "repaso": {
+    "pregunta": "¿Cuántas personas hacen falta para que sea más probable que no que dos cumplan años el mismo día?",
+    "respuesta": "23; la probabilidad es de 50.7% porque hay 253 parejas posibles."
+   }
+  },
+  {
+   "materia": "Disciplina y hábitos",
+   "pilar": "caracter",
+   "epoca": "Siglo XIX",
+   "titulo": "Los 60 granos de café de Beethoven los contó un falsificador",
+   "dato": "La famosa costumbre de Beethoven de contar 60 granos por taza viene casi solo de Anton Schindler, su secretario. Es el mismo hombre que alteró los cuadernos de conversación del compositor.",
+   "explicacion": "Beethoven, ya sordo, conversaba por escrito en cuadernos. Schindler vendió 137 de ellos a la Biblioteca Real de Berlín en 1846, y tras la muerte del músico añadió frases que nunca se escribieron en vida. Lo demostró el musicólogo Peter Stadlen en 1977. La anécdota explícita de los «sesenta granos» aparece en la edición de 1860 de la biografía de Schindler.\n\nPuede que sea verdad: otros testigos describen su cafetera de vidrio y su gusto por el café. Pero nadie más contó los granos. Las rutinas de los genios nos llegan filtradas por quien las contó. Antes de copiar un hábito famoso, pregunta quién lo vio.",
+   "fuente": {
+    "nombre": "Beethoven-Haus Bonn: Konversationsheft (cuadernos de conversación)",
+    "url": "https://www.beethoven.de/en/glossar_archiv/view/5102229375680512/Konversationsheft"
+   },
+   "wiki": "Anton Felix Schindler",
+   "claves": [
+    {
+     "nombre": "Ludwig van Beethoven",
+     "quien": "El compositor (1770–1827); perdió el oído y siguió componiendo.",
+     "wiki": "Ludwig van Beethoven"
+    },
+    {
+     "nombre": "Anton Felix Schindler",
+     "quien": "Su secretario y biógrafo; fuente valiosa y poco fiable a la vez.",
+     "wiki": "Anton Felix Schindler"
+    }
+   ],
+   "profundizar": {
+    "titulo": "Barista Hustle: Beating the beat on Beethoven's coffee habits (en inglés)",
+    "url": "https://www.baristahustle.com/research-papers/beating-the-beat-on-beethovens-coffee-habits-part-2/"
+   },
+   "repaso": {
+    "pregunta": "¿Por qué dudar de los 60 granos de café de Beethoven?",
+    "respuesta": "Porque la fuente casi única es Schindler, que falsificó entradas en los cuadernos de conversación del compositor."
+   }
+  },
+  {
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "epoca": "2010",
+   "titulo": "Un placebo funcionó aunque los pacientes sabían que era placebo",
+   "dato": "En un ensayo de Harvard de 2010, pacientes con colon irritable recibieron pastillas en un frasco que decía «placebo». A las tres semanas, 59% reportó alivio adecuado, contra 35% del grupo sin tratamiento.",
+   "explicacion": "El estudio de Ted Kaptchuk y su equipo, publicado en *PLoS ONE*, incluyó a 80 pacientes. A 37 se les dijo claramente que las cápsulas no tenían ningún fármaco, pero que el [[efecto placebo|Mejoría que se produce por la expectativa y el ritual del tratamiento, no por una sustancia activa.]] puede ser poderoso. Tomaban dos, dos veces al día. Los otros 43 no recibieron nada.\n\nHay límites claros: fue pequeño, corto y midió síntomas que el paciente reporta. Un placebo no cura una infección ni un tumor. Lo que sugiere es que el ritual del cuidado, la atención y la expectativa también son parte del tratamiento, incluso sin engaño.",
+   "fuente": {
+    "nombre": "Kaptchuk et al. (2010), PLoS ONE: Placebos without Deception",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3008733"
+   },
+   "wiki": "Sustancia placebo",
+   "claves": [
+    {
+     "nombre": "Prueba controlada aleatorizada",
+     "quien": "El tipo de estudio que se usó: sortear quién recibe qué.",
+     "wiki": "Prueba controlada aleatorizada"
+    },
+    {
+     "nombre": "Grupo de control",
+     "quien": "Los pacientes que no reciben el tratamiento, para comparar.",
+     "wiki": "Grupo de control"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué mostró el estudio de placebo abierto de 2010?",
+    "respuesta": "Que pacientes con colon irritable mejoraron más con pastillas que sabían que eran placebo (59% vs 35% con alivio adecuado)."
+   }
+  },
+  {
+   "materia": "Música",
+   "pilar": "cultura",
+   "epoca": "1859",
+   "titulo": "Francia fijó por decreto la nota La en 1859",
+   "dato": "Antes cada orquesta afinaba a su manera, y el tono subía año con año. En febrero de 1859, el gobierno francés fijó el La en 870 vibraciones simples, es decir, 435 hercios: el «diapasón normal».",
+   "explicacion": "El [[diapasón|Pieza de metal en forma de horquilla que, al golpearse, suena siempre en la misma nota; sirve para afinar.]] de la Ópera de París había subido tanto que los cantantes sufrían. En julio de 1858 se creó una comisión ligada a compositores como Auber, Berlioz, Meyerbeer y Rossini. Su informe salió en *Le Moniteur universel* en 1859 y la norma quedó fijada ese febrero.\n\nOtros países copiaron la idea. En 1939, una conferencia internacional en Londres acordó el La en 440 Hz, y la norma ISO 16 lo confirmó en 1955. Cuando hoy una orquesta afina con el oboe, repite un acuerdo nacido de una queja francesa.",
+   "fuente": {
+    "nombre": "Larousse, Dictionnaire de la musique: Diapason",
+    "url": "https://www.larousse.fr/encyclopedie/musdico/diapason/167216"
+   },
+   "wiki": "Tono de concierto",
+   "claves": [
+    {
+     "nombre": "La (nota)",
+     "quien": "La nota que sirve de referencia para afinar toda la orquesta.",
+     "wiki": "La (nota)"
+    },
+    {
+     "nombre": "Afinación",
+     "quien": "Ajustar un instrumento para que suene en la altura correcta.",
+     "wiki": "Afinación"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué fijó Francia en 1859 y qué se acordó en 1939?",
+    "respuesta": "El La en 435 Hz (diapasón normal); en 1939 se acordó internacionalmente el La en 440 Hz."
+   }
+  },
+  {
+   "materia": "Derecho y poder",
+   "pilar": "mundo",
+   "epoca": "2026",
+   "titulo": "Una ley de emergencias de 1977 no alcanzaba para cobrar aranceles",
+   "dato": "El 20 de febrero de 2026, la Corte Suprema de Estados Unidos resolvió 6 a 3 que la ley de emergencias económicas, la IEEPA, no permite al presidente imponer aranceles.",
+   "explicacion": "En *Learning Resources contra Trump*, el presidente de la Corte, John Roberts, escribió que la frase «regular la importación» no incluye el poder de cobrar impuestos. Ese poder, dice la Constitución, es del Congreso. Disintieron Kavanaugh, Thomas y Alito. El caso lo llevaron empresas pequeñas, entre ellas una de juguetes educativos.\n\nEl fallo no tocó los aranceles basados en otras leyes, como los de la [[Sección 232|Norma de 1962 que permite aranceles por razones de seguridad nacional; es la base de los aranceles al acero, el aluminio y los autos.]]. En marzo, un tribunal de comercio ordenó devolver cerca de 165,000 millones de dólares cobrados, pero la devolución exige reclamarla. Para un abogado, la lección es vieja: quién tiene el poder importa tanto como lo que se decide.",
+   "fuente": {
+    "nombre": "SCOTUSblog: Learning Resources, Inc. v. Trump (expediente)",
+    "url": "https://www.scotusblog.com/cases/case-files/learning-resources-inc-v-trump"
+   },
+   "wiki": "Corte Suprema de los Estados Unidos",
+   "claves": [
+    {
+     "nombre": "John G. Roberts",
+     "quien": "Presidente de la Corte Suprema; redactó la opinión mayoritaria.",
+     "wiki": "John G. Roberts"
+    },
+    {
+     "nombre": "Ley de Poderes Económicos de Emergencia Internacional",
+     "quien": "La IEEPA, de 1977, pensada para sanciones y bloqueos.",
+     "wiki": "Ley de Poderes Económicos de Emergencia Internacional"
+    }
+   ],
+   "profundizar": {
+    "titulo": "Skadden: cómo funciona el mecanismo de reembolso de aranceles (2026, en inglés)",
+    "url": "https://www.skadden.com/insights/publications/2026/04/insights-april-2026/tariff-refund-mechanism-takes-shape"
+   },
+   "repaso": {
+    "pregunta": "¿Qué decidió la Corte Suprema de EE. UU. el 20 de febrero de 2026?",
+    "respuesta": "Que la IEEPA no autoriza al presidente a imponer aranceles (6 a 3); cobrar impuestos es poder del Congreso."
+   }
+  },
+  {
+   "materia": "Economía y mercados",
+   "pilar": "patrimonio",
+   "epoca": "1954–1976",
+   "titulo": "El dólar costó 12.50 pesos durante 22 años",
+   "dato": "En 1954, el peso pasó de 8.65 a 12.50 por dólar. Ese precio se sostuvo hasta el 31 de agosto de 1976, cuando el gobierno dejó flotar la moneda.",
+   "explicacion": "Fueron los años del [[desarrollo estabilizador|Etapa de la economía mexicana (c. 1954–1970) con crecimiento alto, inflación baja y tipo de cambio fijo.]]. Un tipo de cambio fijo es una promesa: el banco central se compromete a vender dólares a ese precio. Mientras hubo reservas y finanzas sanas, la promesa se cumplió.\n\nEn los setenta el gasto y la inflación crecieron, y defender los 12.50 se volvió imposible. Al flotar, el peso cayó por debajo de 20 por dólar en la primera semana, según *Time*, y luego pasó de 22. Toda una generación aprendió ahí que un precio fijo dura lo que dura el dinero para defenderlo.",
+   "fuente": {
+    "nombre": "Banco de México: Historia (tomo XIX)",
+    "url": "https://www.banxico.org.mx/elib/hbm/19/2.html"
+   },
+   "wiki": "Tipos de cambio en México",
+   "claves": [
+    {
+     "nombre": "Milagro mexicano",
+     "quien": "El periodo de crecimiento sostenido en que vivió el peso de 12.50.",
+     "wiki": "Milagro mexicano"
+    },
+    {
+     "nombre": "Luis Echeverría Álvarez",
+     "quien": "Presidente cuando terminó el tipo de cambio fijo en 1976.",
+     "wiki": "Luis Echeverría Álvarez"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuánto duró el tipo de cambio de 12.50 pesos por dólar?",
+    "respuesta": "Unos 22 años: de 1954 al 31 de agosto de 1976, cuando el peso empezó a flotar."
+   }
+  },
+  {
+   "materia": "El cosmos",
+   "pilar": "futuro",
+   "epoca": "2026",
+   "titulo": "En abril de 2026, cuatro personas viajaron más lejos que nadie",
+   "dato": "El 6 de abril de 2026, la tripulación de Artemis II superó el récord de distancia del Apolo 13 y llegó a unos 406,770 kilómetros de la Tierra, rodeando la cara oculta de la Luna.",
+   "explicacion": "El récord anterior, de unos 400,171 km, lo había fijado el Apolo 13 el 14 de abril de 1970, también rodeando la Luna tras su accidente. Artemis II llevó a Reid Wiseman, Victor Glover, Christina Koch y el canadiense Jeremy Hansen en la nave Orión. Koch fue la primera mujer, Glover la primera persona de color y Hansen el primer no estadounidense en ir más allá de la [[órbita baja|La región del espacio a menos de unos 2,000 km de altura, donde está la Estación Espacial.]].\n\nNo alunizaron: la misión probaba la nave con personas a bordo. Según la NASA, la tripulación propuso nombrar dos cráteres «Integrity», como la nave, y «Carroll», por la esposa fallecida de Wiseman. Fue la primera vez en 54 años que humanos volvieron a ver de cerca la cara oculta.",
+   "fuente": {
+    "nombre": "NASA: Artemis II crew eclipses record for farthest human spaceflight",
+    "url": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight"
+   },
+   "wiki": "Artemis II",
+   "claves": [
+    {
+     "nombre": "Victor J. Glover",
+     "quien": "Piloto de Artemis II.",
+     "wiki": "Victor J. Glover"
+    },
+    {
+     "nombre": "Orión (nave espacial)",
+     "quien": "La cápsula de la NASA que llevó a la tripulación.",
+     "wiki": "Orión (nave espacial)"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué récord rompió Artemis II y qué misión lo tenía?",
+    "respuesta": "La mayor distancia de humanos a la Tierra (unos 406,770 km); lo tenía el Apolo 13 desde 1970."
+   }
+  },
+  {
+   "materia": "Gastronomía, vino y destilados",
+   "pilar": "gusto",
+   "epoca": "1841",
+   "titulo": "La vainilla mexicana conquistó el mundo gracias a un niño de 12 años",
+   "dato": "Durante siglos, la vainilla casi solo daba fruto en México. En 1841, Edmond Albius, un niño esclavizado de 12 años en la isla de Reunión, inventó la forma de polinizarla a mano que todavía se usa.",
+   "explicacion": "La vainilla es una orquídea nativa de México; los totonacas de la región de Papantla la cultivaban mucho antes de los españoles. Llevada a otras tierras, la planta florecía pero casi no daba vainas: faltaban sus [[polinizadores|Animales que llevan el polen de una flor a otra; en la vainilla mexicana, ciertas abejas.]] naturales.\n\nAlbius descubrió que, con una varita fina, se levanta la membrana que separa las partes de la flor y, con el pulgar, se unen. Gracias a eso, Reunión y luego Madagascar se volvieron grandes productores. Albius fue liberado en 1848, con la abolición de la esclavitud en las colonias francesas, y murió pobre en 1880.",
+   "fuente": {
+    "nombre": "Linnean Society: Edmond Albius (2019)",
+    "url": "https://linnean.org/news/2019/10/16/edmond-albius"
+   },
+   "wiki": "Vanilla planifolia",
+   "claves": [
+    {
+     "nombre": "Reunión (Francia)",
+     "quien": "La isla francesa del océano Índico donde vivía Albius.",
+     "wiki": "Reunión (Francia)"
+    },
+    {
+     "nombre": "Polinización",
+     "quien": "El paso del polen que convierte la flor en fruto.",
+     "wiki": "Polinización"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué descubrió Edmond Albius en 1841?",
+    "respuesta": "Cómo polinizar la vainilla a mano, con una varita y el pulgar; así pudo cultivarse fuera de México."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "Don Quijote de la Mancha (selección)",
+  "autor": "Miguel de Cervantes",
+  "capitulo": {
+   "numero": 5,
+   "total": 6,
+   "titulo": "Los galeotes y el precio de la libertad"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Don_Quixote_and_Sancho_Panza_by_Gustave_Dore_(92687408).jpg?width=900",
+   "alt": "Grabado de Gustave Doré con don Quijote y Sancho Panza en el camino",
+   "pie": "Don Quijote y Sancho, según Gustave Doré (1863).",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "¿Liberarías a un grupo de presos que la justicia ya condenó, solo porque te parece injusto que vayan encadenados? Don Quijote lo hace en el capítulo XXII de la primera parte. Es uno de los episodios más incómodos del libro, porque tiene razón y se equivoca al mismo tiempo.\n\nEl título ya lo anuncia con ironía: «De la libertad que dio don Quijote a muchos desdichados que, mal de su grado, los llevaban donde no quisieran ir». Cervantes sabía de qué hablaba. Pasó cinco años cautivo en Argel y conoció las cárceles de Castilla por dentro."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Una cadena en el camino"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Caballero y escudero van por un camino de Sierra Morena. Ven venir a unos doce hombres a pie, ensartados por el cuello en una gran cadena de hierro, con esposas en las manos. Los custodian guardas a caballo con escopetas y otros a pie con dardos y espadas. Sancho entiende enseguida lo que son:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Ésta es cadena de galeotes, gente forzada del rey, que va a las galeras.",
+    "fuente": "Don Quijote, Primera parte, cap. XXII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Las [[galeras|Barcos de guerra movidos por remos. En la España del siglo XVI, los condenados remaban en ellas como castigo, a veces durante años.]] eran uno de los castigos más temidos. Remar encadenado en el Mediterráneo podía durar años y muchos no volvían.\n\nPara don Quijote basta una palabra: *forzada*. Si van por la fuerza, entonces van contra su voluntad. Y un caballero andante existe para «desfacer fuerzas y socorrer y acudir a los miserables». Sancho intenta explicarle que la justicia, que es el mismo rey, no hace fuerza a nadie: los castiga por sus delitos. Don Quijote no escucha."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El interrogatorio más cómico de la literatura"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Con mucha cortesía, don Quijote pide permiso al comisario para preguntarle a cada preso por qué va ahí. Y cada uno le responde con un juego de palabras que él no entiende.\n\nEl primero dice que va por enamorado. El caballero se extraña: si por enamorados mandaran a galeras, él mismo estaría remando. El galeote aclara qué clase de amor era:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "…que los míos fueron que quise tanto a una canasta de colar, atestada de ropa blanca, que la abracé conmigo tan fuertemente que, a no quitármela la justicia por fuerza, aún hasta agora no la hubiera dejado de mi voluntad.",
+    "fuente": "Don Quijote, Primera parte, cap. XXII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es decir: robó una canasta de ropa. El segundo va triste y callado. Otro responde por él que va «por canario», es decir, por músico y cantor. Don Quijote cree que cantar no es delito. El preso lo corrige: «no hay peor cosa que cantar en el ansia». Una guarda traduce la [[germanía|Jerga de ladrones y rufianes en la España de los siglos XVI y XVII.]]: «cantar en el ansia» es confesar bajo tortura.\n\nFíjate en la crueldad escondida en el chiste. Al músico no lo condenaron por las pruebas: lo condenaron porque, en el potro, dijo lo que querían oír. Y entre los propios presos, haber confesado lo vuelve despreciable."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Qué significa «cantar en el ansia» en la jerga de los galeotes?",
+    "opciones": [
+     "Cantar para olvidar las penas",
+     "Confesar un delito bajo tortura",
+     "Delatar a un compañero a cambio de dinero"
+    ],
+    "correcta": 1,
+    "explicacion": "Una de las guardas lo explica: «cantar en el ansia se dice, entre esta gente non santa, confesar en el tormento». Por eso el músico va a galeras."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Ginés de Pasamonte, el autor sin final"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El último de la fila va más cargado de hierro que nadie: una cadena al pie, otra al cuello y las manos sujetas. Es **Ginés de Pasamonte**, el más peligroso. Las guardas cuentan que tiene más delitos que todos los demás juntos.\n\nY tiene un orgullo extraño: ha escrito su vida. Dice que su libro es tan bueno que «mal año para *Lazarillo de Tormes*». Lo tiene empeñado en la cárcel por doscientos reales. Don Quijote le pregunta si ya está terminado:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "¿Cómo puede estar acabado, si aún no está acabada mi vida?",
+    "fuente": "Don Quijote, Primera parte, cap. XXII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Es una de las líneas más modernas del libro. Ginés se ve a sí mismo como el autor de su propia [[novela picaresca|Género español del Siglo de Oro: un pícaro pobre cuenta su vida en primera persona, de engaño en engaño. El modelo es el Lazarillo (1554).]]. Cervantes, que está escribiendo una novela sobre un hombre que se cree personaje de novela, mete aquí a otro que también se cree autor. Ginés volverá a aparecer en el libro con otro nombre, como titiritero."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Un buen discurso, una mala idea"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Terminado el interrogatorio, don Quijote da su veredicto. Reconoce que quizá merecen castigo. Pero cree que van mal defendidos, que a algunos los torturaron y a otros les faltó dinero para un buen abogado. Y pronuncia una de sus frases más bellas: que le parece duro «hacer esclavos a los que Dios y naturaleza hizo libres». Luego se dirige a las guardas:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Allá se lo haya cada uno con su pecado; Dios hay en el cielo, que no se descuida de castigar al malo ni de premiar al bueno, y no es bien que los hombres honrados sean verdugos de los otros hombres, no yéndoles nada en ello.",
+    "fuente": "Don Quijote, Primera parte, cap. XXII"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El comisario se ríe y le dice que se enderece la bacía que lleva por yelmo. Don Quijote lo derriba de una lanzada. Los galeotes aprovechan, rompen la cadena y las guardas huyen.\n\nEntonces llega la parte que deberías anticipar, porque ya conoces al personaje. Don Quijote reúne a los liberados y les pide un pago: que vayan, cargados con la cadena, al Toboso, a presentarse ante Dulcinea y contarle la hazaña. Ginés responde por todos. Eso, dice, es «pedir peras al olmo»: unos presos recién escapados no van a pasear por los caminos con una cadena al cuello, esperando a la Santa Hermandad."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Qué les pide don Quijote a los galeotes a cambio de su libertad?",
+    "opciones": [
+     "Que se unan a él como escuderos",
+     "Que le paguen con el dinero que traía el comisario",
+     "Que vayan encadenados al Toboso a presentarse ante Dulcinea"
+    ],
+    "correcta": 2,
+    "explicacion": "Quiere que lleven la cadena hasta Dulcinea y le cuenten la aventura. Ginés se niega en nombre de todos y lo apedrean."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Don Quijote se enfurece. Los galeotes responden con piedras. Llueven tantas que el caballero no alcanza a cubrirse con la rodela. Sancho se esconde detrás de su asno. Les quitan la ropa y los dejan tirados. El capítulo cierra con una imagen perfecta:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "…don Quijote, mohinísimo de verse tan malparado por los mismos a quien tanto bien había hecho.",
+    "fuente": "Don Quijote, Primera parte, cap. XXII"
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Cervantes y la cárcel",
+    "texto": "Cervantes estuvo preso en Sevilla en 1597 por problemas de cuentas como recaudador de impuestos. Una tradición dice que ahí empezó a imaginar el Quijote; en el prólogo habla de un libro «engendrado en una cárcel». No sabemos si se refería a Sevilla, pero conocía de primera mano a la gente que describe en este capítulo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "¿Tiene razón don Quijote?"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Cervantes no responde por nosotros, y esa es su grandeza. Las galeras de la Monarquía necesitaban remeros, y los jueces mandaban ahí a ladrones, rufianes y deudores. La pena servía al castigo y también a la flota. Un lector de 1605 sabía que entre esos hombres había culpables, pero también pobres sin defensa y confesiones sacadas en el potro.\n\nPor eso el capítulo incomoda. El caballero dice cosas que hoy suscribiría cualquier defensor de derechos humanos: nadie debería ser condenado por lo que confesó bajo tortura, y un castigo justo no necesita crueldad. Pero el mismo caballero no distingue entre el ladrón de una canasta y Ginés, que tiene más delitos que todos. Libera al inocente y al peligroso con el mismo gesto.\n\nY Sancho, como siempre, ve lo práctico. Le advierte a su amo que la [[Santa Hermandad|Cuerpo armado creado por los Reyes Católicos en 1476 para perseguir delitos en caminos y despoblados.]] los buscará por soltar a presos del rey. En el capítulo siguiente, los dos huyen a esconderse en la sierra. La justicia que don Quijote desafió no desaparece porque él la haya vencido en un camino."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Qué nos dice hoy"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Este capítulo enseña a separar dos preguntas que solemos mezclar. **¿El sistema es justo?** y **¿lo que voy a hacer lo arregla?** Don Quijote acierta en la primera: la tortura, la falta de defensa y el castigo desmedido eran reales. Falla en la segunda: libera a todos sin distinguir, no piensa en las consecuencias y espera gratitud.\n\nEs una lección para cualquier abogado, empresario o líder. Tener razón sobre un problema no te da derecho a cualquier solución. Y quien ayuda esperando un pago, sobre todo un pago en gloria, suele salir apedreado.\n\nAños después, en la segunda parte, el mismo don Quijote le dirá a Sancho que «la libertad, Sancho, es uno de los más preciosos dones que a los hombres dieron los cielos». Lo cree de verdad. Este capítulo muestra que defender la libertad exige algo más que valor: exige juicio."
+   }
+  ],
+  "paraLlevar": [
+   "Tener razón sobre una injusticia no garantiza que tu solución sea buena.",
+   "Una confesión arrancada con presión no prueba nada: el «cantar en el ansia» sigue existiendo.",
+   "Quien ayuda esperando aplausos suele recibir piedras."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Quién es Ginés de Pasamonte?",
+    "respuesta": "El galeote más peligroso de la cadena; escribió su propia vida y dice que no está acabada porque aún no acaba su vida."
+   },
+   {
+    "pregunta": "¿Cómo termina la aventura de los galeotes?",
+    "respuesta": "Los presos liberados se niegan a ir al Toboso y apedrean a don Quijote y a Sancho, y les quitan la ropa."
+   }
+  ],
+  "proximo": "Don Quijote de la Mancha · Capítulo 6: Alonso Quijano el Bueno recobra el juicio",
+  "fuentes": [
+   {
+    "nombre": "Proyecto Gutenberg: Don Quijote, de Miguel de Cervantes",
+    "url": "https://www.gutenberg.org/ebooks/2000"
+   },
+   {
+    "nombre": "Cibertextos (Duke University): Don Quijote, primera parte, edición bilingüe",
+    "url": "https://people.duke.edu/~garci/cibertextos/bilingues/CERVANTES-MD/DON-QUIJOTE-I-INGLES.HTM"
+   }
+  ],
+  "nota": "Citas tomadas del texto original de Cervantes (1605, dominio público), con ortografía modernizada, a partir de la edición de Cibertextos (Duke University), que reproduce el texto del Proyecto Gutenberg."
+ },
+ "palabra": {
+  "palabra": "Donaire",
+  "categoria": "Sustantivo",
+  "pronunciacion": "do-NAI-re",
+  "definicion": "Gracia y soltura al hablar, al moverse o al hacer algo; elegancia natural que no parece costar esfuerzo.",
+  "origen": "Pertenece a la familia de «don» y «donar»: la gracia entendida como un don, algo que se tiene y no se fabrica. Irónicamente, la temporada de París muestra que el donaire de una ciudad sí se fabrica.",
+  "ejemplo": "Los embajadores recorrían la Galería de los Espejos con donaire, sin sospechar que cada espejo era un anuncio de la industria francesa.",
+  "repaso": {
+   "pregunta": "¿Qué significa «donaire»?",
+   "respuesta": "Gracia y soltura natural al hablar, moverse o hacer algo."
+  }
+ },
+ "frances": {
+  "frase": "C'est du sur-mesure.",
+  "traduccion": "«Es hecho a la medida.»",
+  "pronunciacion": "sé du sür-me-SÜR",
+  "uso": "Cultura y negocios. Nació en la sastrería: lo *sur mesure* se corta para un cliente, frente al *prêt-à-porter*, que ya está hecho. Hoy se usa para cualquier cosa diseñada para alguien en particular: un viaje, un contrato o una propuesta comercial. Decirlo es un elogio.",
+  "variante": "Nous proposons une solution sur mesure pour chaque client. (Proponemos una solución a la medida para cada cliente.)",
+  "repaso": {
+   "pregunta": "¿Cómo se dice en francés «es hecho a la medida»?",
+   "respuesta": "« C'est du sur-mesure. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Qué empresa actual desciende de la fábrica de espejos que Colbert fundó en 1665?",
+   "opciones": [
+    "Baccarat",
+    "Saint-Gobain",
+    "Christofle"
+   ],
+   "correcta": 1,
+   "explicacion": "La Manufactura real de lunas de espejo se fusionó con una rival en 1695 y tomó el nombre de su planta en Saint-Gobain, en Picardía."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿A qué nivel llegó el peso el 25 de noviembre, según Excélsior?",
+   "opciones": [
+    "18.59 por dólar",
+    "19.27 por dólar",
+    "19.85 por dólar"
+   ],
+   "correcta": 2,
+   "explicacion": "Se negociaba en 19.8495, con una caída de 2.3% en el día y seis sesiones seguidas de pérdidas; su nivel más débil desde abril de 2025."
+  },
+  {
+   "origen": "hechos",
+   "pregunta": "¿Qué récord rompió Artemis II en abril de 2026?",
+   "opciones": [
+    "La mayor distancia de la Tierra alcanzada por humanos",
+    "El primer alunizaje desde 1972",
+    "La estancia más larga en órbita lunar"
+   ],
+   "correcta": 0,
+   "explicacion": "Superó la marca del Apolo 13 (1970) y llegó a unos 406,770 km de la Tierra rodeando la cara oculta de la Luna. No alunizó."
+  }
+ ],
+ "libro": null,
+ "proximo": "Siglo VI a. C.: el exilio en Babilonia y el nacimiento de la Biblia hebrea"
+}

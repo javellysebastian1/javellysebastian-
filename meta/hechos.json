@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25",
+ "actualizado": "2026-11-26",
  "materias": {
   "Arquitectura y diseño": [
    {
@@ -221,17 +221,6 @@
   ],
   "Ciencia y tecnología": [
    {
-    "materia": "Ciencia y tecnología",
-    "pilar": "futuro",
-    "epoca": "1973",
-    "titulo": "La primera llamada de celular fue para presumirle al rival",
-    "dato": "El 3 de abril de 1973, el ingeniero de Motorola Martin Cooper hizo la primera llamada pública con un teléfono celular en una calle de Nueva York. Llamó a Joel Engel, de Bell Labs, su competencia.",
-    "explicacion": "Bell Labs, de AT&T, quería teléfonos móviles en los autos. Motorola apostaba por algo más audaz: un teléfono para la persona, no para el coche. Cooper caminó por la Sexta Avenida con un prototipo de más de un kilo y le dijo a Engel, más o menos, que le hablaba desde un celular «de verdad», en la mano.\n\nAquel aparato daba unos 35 minutos de conversación y tardaba horas en cargarse. La versión comercial, el DynaTAC 8000X, salió hasta 1983 y costaba 3,995 dólares. El futuro llegó diez años después de la llamada, y caro.",
-    "fuente": {
-     "nombre": "ABC7: 1st cell phone call successfully made 50 years ago by Motorola engineer",
-     "url": "https://abc7.com/post/martin-cooper-first-cell-phone-call-motorola-april-3/13077296/"
-    },
-    "wiki": "Motorola DynaTAC",
     "claves": [
      {
       "nombre": "Historia del teléfono móvil",
@@ -244,17 +233,28 @@
       "wiki": "Teléfono móvil"
      }
     ],
+    "dato": "El 3 de abril de 1973, el ingeniero de Motorola Martin Cooper hizo la primera llamada pública con un teléfono celular en una calle de Nueva York. Llamó a Joel Engel, de Bell Labs, su competencia.",
+    "epoca": "1973",
+    "explicacion": "Bell Labs, de AT&T, quería teléfonos móviles en los autos. Motorola apostaba por algo más audaz: un teléfono para la persona, no para el coche. Cooper caminó por la Sexta Avenida con un prototipo de más de un kilo y le dijo a Engel, más o menos, que le hablaba desde un celular «de verdad», en la mano.\n\nAquel aparato daba unos 35 minutos de conversación y tardaba horas en cargarse. La versión comercial, el DynaTAC 8000X, salió hasta 1983 y costaba 3,995 dólares. El futuro llegó diez años después de la llamada, y caro.",
+    "fecha": "2026-11-25",
+    "fuente": {
+     "nombre": "ABC7: 1st cell phone call successfully made 50 years ago by Motorola engineer",
+     "url": "https://abc7.com/post/martin-cooper-first-cell-phone-call-motorola-april-3/13077296/"
+    },
+    "imagen": {
+     "alt": "Teléfono celular Motorola DynaTAC 8000X, grande y rectangular",
+     "credito": "Wikimedia Commons",
+     "pie": "El DynaTAC 8000X, la versión comercial de 1983 del teléfono que Cooper probó en 1973.",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DynaTAC8000X.jpg?width=900"
+    },
+    "materia": "Ciencia y tecnología",
+    "pilar": "futuro",
     "repaso": {
      "pregunta": "¿A quién llamó Martin Cooper en la primera llamada pública de celular, en 1973?",
      "respuesta": "A Joel Engel, de Bell Labs (AT&T), su principal rival en la carrera por la telefonía móvil."
     },
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DynaTAC8000X.jpg?width=900",
-     "alt": "Teléfono celular Motorola DynaTAC 8000X, grande y rectangular",
-     "pie": "El DynaTAC 8000X, la versión comercial de 1983 del teléfono que Cooper probó en 1973.",
-     "credito": "Wikimedia Commons"
-    },
-    "fecha": "2026-11-25"
+    "titulo": "La primera llamada de celular fue para presumirle al rival",
+    "wiki": "Motorola DynaTAC"
    },
    {
     "claves": [
@@ -397,36 +397,6 @@
     },
     "titulo": "El primer microondas pesaba como un piano",
     "wiki": "Horno de microondas"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Biomimética",
-      "quien": "Disciplina que copia diseños de la naturaleza para resolver problemas técnicos.",
-      "wiki": "Biomimética"
-     },
-     {
-      "nombre": "Arctium",
-      "quien": "La bardana, planta cuyos frutos con ganchos inspiraron el velcro.",
-      "wiki": "Arctium"
-     }
-    ],
-    "dato": "En 1941, el ingeniero suizo George de Mestral volvió de cazar en los Alpes con su perro lleno de abrojos. Los miró al microscopio y entendió cómo copiarlos.",
-    "epoca": "1941",
-    "explicacion": "Cada abrojo tiene cientos de ganchitos que se enganchan en cualquier rizo de tela o de pelo. De Mestral pasó años buscando cómo fabricar eso: una cinta con ganchos y otra con bucles. Lo logró con nailon y lo patentó en 1955. El nombre une dos palabras francesas: *velours* (terciopelo) y *crochet* (gancho).\n\nEs un caso clásico de [[biomímesis|Diseñar tecnología copiando soluciones que ya existen en la naturaleza.]]. La naturaleza lleva millones de años resolviendo problemas de ingeniería; a veces basta mirar con cuidado lo que nos molesta.",
-    "fecha": "2026-11-09",
-    "fuente": {
-     "nombre": "History.com: Velcro's Invention Was Inspired by a Dog",
-     "url": "https://www.history.com/articles/velcro-invention"
-    },
-    "materia": "Ciencia y tecnología",
-    "pilar": "futuro",
-    "repaso": {
-     "pregunta": "¿De qué palabras viene «velcro»?",
-     "respuesta": "Del francés velours (terciopelo) y crochet (gancho)."
-    },
-    "titulo": "El velcro lo inventó un perro con abrojos",
-    "wiki": "Cierre de gancho y bucle"
    }
   ],
   "Cine y fotografía": [
@@ -535,17 +505,6 @@
   ],
   "Ciudades del mundo": [
    {
-    "materia": "Ciudades del mundo",
-    "pilar": "mundo",
-    "epoca": "1673",
-    "titulo": "Nueva York se llamó Nueva Orange durante un año",
-    "dato": "En 1673 una flota neerlandesa recuperó Nueva York de los ingleses y la rebautizó Nueva Orange. La devolvieron por un tratado en 1674.",
-    "explicacion": "Los ingleses habían tomado Nueva Ámsterdam en 1664 y la llamaron Nueva York, por el duque de York. Durante la [[Tercera guerra anglo-neerlandesa|Guerra de 1672 a 1674 entre Inglaterra y las Provincias Unidas de los Países Bajos.]], en agosto de 1673, una flota al mando de Cornelis Evertsen y Jacob Binckes entró al puerto y la ciudad se rindió casi sin pelear. La rebautizaron en honor a Guillermo III de Orange.\n\nEl nombre duró poco. Por el Tratado de Westminster de 1674, los Países Bajos devolvieron la colonia a Inglaterra. Hoy el nombre de Nueva York parece eterno, pero fue el resultado de una mesa de negociación.",
-    "fuente": {
-     "nombre": "New Netherland Institute: The man who took back New Netherland, Cornelis Evertsen the Youngest",
-     "url": "https://newnetherlandinstitute.org/content/the-man-who-took-back-new-netherland-cornelis-evertsen-the-youngest-1642-1706/"
-    },
-    "wiki": "Nueva Ámsterdam",
     "claves": [
      {
       "nombre": "Nuevos Países Bajos",
@@ -558,11 +517,22 @@
       "wiki": "Tercera guerra anglo-neerlandesa"
      }
     ],
+    "dato": "En 1673 una flota neerlandesa recuperó Nueva York de los ingleses y la rebautizó Nueva Orange. La devolvieron por un tratado en 1674.",
+    "epoca": "1673",
+    "explicacion": "Los ingleses habían tomado Nueva Ámsterdam en 1664 y la llamaron Nueva York, por el duque de York. Durante la [[Tercera guerra anglo-neerlandesa|Guerra de 1672 a 1674 entre Inglaterra y las Provincias Unidas de los Países Bajos.]], en agosto de 1673, una flota al mando de Cornelis Evertsen y Jacob Binckes entró al puerto y la ciudad se rindió casi sin pelear. La rebautizaron en honor a Guillermo III de Orange.\n\nEl nombre duró poco. Por el Tratado de Westminster de 1674, los Países Bajos devolvieron la colonia a Inglaterra. Hoy el nombre de Nueva York parece eterno, pero fue el resultado de una mesa de negociación.",
+    "fecha": "2026-11-25",
+    "fuente": {
+     "nombre": "New Netherland Institute: The man who took back New Netherland, Cornelis Evertsen the Youngest",
+     "url": "https://newnetherlandinstitute.org/content/the-man-who-took-back-new-netherland-cornelis-evertsen-the-youngest-1642-1706/"
+    },
+    "materia": "Ciudades del mundo",
+    "pilar": "mundo",
     "repaso": {
      "pregunta": "¿Cómo se llamó Nueva York entre 1673 y 1674?",
      "respuesta": "Nueva Orange: los neerlandeses la recuperaron en 1673 y la devolvieron a Inglaterra por el Tratado de Westminster de 1674."
     },
-    "fecha": "2026-11-25"
+    "titulo": "Nueva York se llamó Nueva Orange durante un año",
+    "wiki": "Nueva Ámsterdam"
    },
    {
     "claves": [
@@ -705,56 +675,10 @@
     },
     "titulo": "Roma tiene un cerro hecho de basura",
     "wiki": "Testaccio (rione de Roma)"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Central Park",
-      "quien": "El gran parque de Manhattan, añadido en los años 1850 porque la cuadrícula no dejó espacio verde.",
-      "wiki": "Central Park"
-     },
-     {
-      "nombre": "Broadway",
-      "quien": "Avenida más antigua que la cuadrícula; su diagonal crea plazas al cruzar las avenidas.",
-      "wiki": "Broadway"
-     },
-     {
-      "nombre": "Manzana",
-      "quien": "La unidad básica de la cuadrícula: el bloque entre cuatro calles.",
-      "wiki": "Manzana (urbanismo)"
-     }
-    ],
-    "dato": "En 1811, Nueva York decidió el trazo de casi toda Manhattan: 12 avenidas y 155 calles en ángulo recto. La justificación fue económica: las casas rectas eran las más baratas.",
-    "epoca": "1811",
-    "explicacion": "La isla era casi toda campo. Los comisionados dibujaron una cuadrícula sobre colinas, arroyos y granjas, sin plazas grandes ni parques. Escribieron que las casas «de lados rectos y ángulos rectos son las más baratas de construir y las más cómodas para vivir».\n\nCentral Park no estaba en el plan; se agregó décadas después. Broadway tampoco: es un camino anterior que cruza la cuadrícula en diagonal, y por eso donde corta las avenidas nacen plazas como Times Square. Un trazo pensado para el negocio inmobiliario terminó dando su forma a una de las ciudades más reconocibles del mundo.",
-    "fecha": "2026-11-09",
-    "fuente": {
-     "nombre": "Museum of the City of New York: The Greatest Grid, the 1811 Plan",
-     "url": "https://thegreatestgrid.mcny.org/the-1811-plan"
-    },
-    "materia": "Ciudades del mundo",
-    "pilar": "mundo",
-    "repaso": {
-     "pregunta": "¿Por qué los comisionados de 1811 eligieron una cuadrícula para Manhattan?",
-     "respuesta": "Porque las casas de lados y ángulos rectos eran, según ellos, las más baratas de construir y las más cómodas."
-    },
-    "titulo": "Manhattan se trazó en cuadrícula porque era más barato",
-    "wiki": "Plan de los Comisionados de 1811"
    }
   ],
   "Deporte y aire libre": [
    {
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "epoca": "1895",
-    "titulo": "El voleibol se inventó para que los oficinistas no se lastimaran",
-    "dato": "En 1895, el instructor William G. Morgan creó en Holyoke, Massachusetts, un juego más suave que el basquetbol para hombres de negocios. Lo llamó «mintonette».",
-    "explicacion": "El basquetbol se había inventado cuatro años antes, a unos kilómetros de ahí, y era demasiado brusco para los socios mayores de la [[YMCA|Asociación Cristiana de Jóvenes, red de clubes deportivos y sociales nacida en Londres en 1844.]]. Morgan mezcló ideas del tenis, el basquetbol y el handball: una red alta y nada de contacto físico.\n\nEn una demostración de 1896, un observador notó que la pelota «volaba» de un lado a otro, y se propuso el nombre «volley ball». Un deporte pensado para cuidar a los cansados terminó en los Juegos Olímpicos de 1964 en Tokio.",
-    "fuente": {
-     "nombre": "International Volleyball Hall of Fame: History of volleyball",
-     "url": "https://www.volleyhall.org/history-of-volleyball.html"
-    },
-    "wiki": "Voleibol",
     "claves": [
      {
       "nombre": "William George Morgan",
@@ -767,17 +691,28 @@
       "wiki": "Holyoke (Massachusetts)"
      }
     ],
+    "dato": "En 1895, el instructor William G. Morgan creó en Holyoke, Massachusetts, un juego más suave que el basquetbol para hombres de negocios. Lo llamó «mintonette».",
+    "epoca": "1895",
+    "explicacion": "El basquetbol se había inventado cuatro años antes, a unos kilómetros de ahí, y era demasiado brusco para los socios mayores de la [[YMCA|Asociación Cristiana de Jóvenes, red de clubes deportivos y sociales nacida en Londres en 1844.]]. Morgan mezcló ideas del tenis, el basquetbol y el handball: una red alta y nada de contacto físico.\n\nEn una demostración de 1896, un observador notó que la pelota «volaba» de un lado a otro, y se propuso el nombre «volley ball». Un deporte pensado para cuidar a los cansados terminó en los Juegos Olímpicos de 1964 en Tokio.",
+    "fecha": "2026-11-25",
+    "fuente": {
+     "nombre": "International Volleyball Hall of Fame: History of volleyball",
+     "url": "https://www.volleyhall.org/history-of-volleyball.html"
+    },
+    "imagen": {
+     "alt": "Retrato de William G. Morgan",
+     "credito": "Wikimedia Commons",
+     "pie": "William G. Morgan, el inventor del voleibol.",
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/William_G._Morgan.jpg?width=900"
+    },
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
     "repaso": {
      "pregunta": "¿Para quién inventó William G. Morgan el voleibol en 1895?",
      "respuesta": "Para hombres de negocios de la YMCA a los que el basquetbol les resultaba demasiado brusco; lo llamó «mintonette»."
     },
-    "imagen": {
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/William_G._Morgan.jpg?width=900",
-     "alt": "Retrato de William G. Morgan",
-     "pie": "William G. Morgan, el inventor del voleibol.",
-     "credito": "Wikimedia Commons"
-    },
-    "fecha": "2026-11-25"
+    "titulo": "El voleibol se inventó para que los oficinistas no se lastimaran",
+    "wiki": "Voleibol"
    },
    {
     "claves": [
@@ -926,111 +861,43 @@
     },
     "titulo": "El tira y afloja fue olímpico, y lo ganaba la policía",
     "wiki": "Juego de la soga"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Estadio Centenario",
-      "quien": "El estadio de Montevideo construido para el Mundial de 1930.",
-      "wiki": "Estadio Centenario"
-     },
-     {
-      "nombre": "Selección de fútbol de Uruguay",
-      "quien": "La primera campeona del mundo.",
-      "wiki": "Selección de fútbol de Uruguay"
-     }
-    ],
-    "dato": "Se cuenta que en la primera final del Mundial, Uruguay contra Argentina, se jugó un tiempo con el balón de cada país. Según la revista When Saturday Comes, ninguna fuente de la época lo menciona y las fotos parecen mostrar el balón argentino todo el partido.",
-    "epoca": "1930",
-    "explicacion": "Lo seguro: la final se jugó el 30 de julio de 1930 en el Estadio Centenario de Montevideo. Argentina ganaba 2-1 al descanso y Uruguay ganó 4-2. Los dos equipos discutieron qué balón usar y el árbitro belga, John Langenus, lo resolvió con una moneda.\n\nLa versión de «un balón por tiempo» explica tan bien la remontada que se repite como hecho. Es un buen ejemplo de cómo una historia redonda le gana a una incierta. Hasta Wikipedia recoge las dos versiones.",
-    "fecha": "2026-11-14",
-    "fuente": {
-     "nombre": "When Saturday Comes: sobre los balones de la final de 1930",
-     "url": "https://wsc.co.uk/?p=8130"
-    },
-    "imagen": {
-     "alt": "Foto antigua de un gol en un estadio lleno",
-     "credito": "Wikimedia Commons",
-     "pie": "Un gol de Uruguay contra Argentina en la final del 30 de julio de 1930",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Uruguay_goal_v_argentina_1930.jpg?width=900"
-    },
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "repaso": {
-     "pregunta": "¿Qué es seguro y qué es dudoso sobre los balones de la final de 1930?",
-     "respuesta": "Es seguro que hubo disputa y que el árbitro la resolvió con una moneda; es dudoso que se usara un balón por tiempo."
-    },
-    "titulo": "Los dos balones de la final de 1930 quizá nunca existieron",
-    "wiki": "Copa Mundial de Fútbol de 1930"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Pierre de Coubertin",
-      "quien": "Pedagogo francés que fundó los Juegos Olímpicos modernos en 1896.",
-      "wiki": "Pierre de Coubertin"
-     },
-     {
-      "nombre": "Juegos Olímpicos de Estocolmo 1912",
-      "quien": "Los primeros Juegos con competencias de arte.",
-      "wiki": "Juegos Olímpicos de Estocolmo 1912"
-     }
-    ],
-    "dato": "Entre 1912 y 1948, los Juegos Olímpicos entregaron medallas en arquitectura, literatura, música, pintura y escultura.",
-    "epoca": "1912–1948",
-    "explicacion": "Pierre de Coubertin, fundador de los Juegos modernos, quería unir cuerpo y mente, como en la Grecia antigua. En Estocolmo 1912 él mismo ganó el oro de literatura con una *Oda al deporte*, firmada con seudónimo.\n\nLas obras debían tratar sobre el deporte. Las competencias se eliminaron después de 1948, en gran parte porque los artistas eran profesionales y los Juegos todavía exigían ser aficionado.",
-    "fecha": "2026-11-12",
-    "fuente": {
-     "nombre": "Olympics.com: When Olympic medals were awarded for architecture, music and literature",
-     "url": "https://www.olympics.com/en/news/look-to-the-past-when-olympic-medals-were-awarded-for-architecture-music-and-lit"
-    },
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "repaso": {
-     "pregunta": "¿En qué años hubo medallas olímpicas de arte?",
-     "respuesta": "De 1912 a 1948; Coubertin ganó el oro de literatura en 1912."
-    },
-    "titulo": "Los Juegos Olímpicos daban medallas de poesía",
-    "wiki": "Competiciones de arte en los Juegos Olímpicos"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "John Landy",
-      "quien": "Corredor australiano que bajó el récord de Bannister 46 días después.",
-      "wiki": "John Michael Landy"
-     },
-     {
-      "nombre": "Carrera de la milla",
-      "quien": "La prueba de 1,609 metros, clásica del atletismo británico.",
-      "wiki": "Carrera de la milla"
-     }
-    ],
-    "dato": "Roger Bannister corrió la milla en 3:59.4 el 6 de mayo de 1954. El 21 de junio, el australiano John Landy ya lo había superado: 3:58.0.",
-    "epoca": "1954",
-    "explicacion": "Bannister, estudiante de medicina, corrió en la pista de Iffley Road, en Oxford, con dos compañeros que le marcaban el ritmo. Se dice que después de él «todos» rompieron la barrera porque dejó de parecer imposible.\n\nHay algo de cierto, pero Landy ya había corrido varias veces cerca de 4:02: la barrera estaba a punto de caer. Lo que sí cambió fue la idea de límite. Hoy el récord es 3:43.13, de Hicham El Guerrouj, desde 1999.",
-    "fecha": "2026-11-10",
-    "fuente": {
-     "nombre": "Wikipedia: Carrera de la milla",
-     "url": "https://es.wikipedia.org/wiki/Carrera_de_la_milla"
-    },
-    "imagen": {
-     "alt": "Dos corredores de mediados del siglo XX",
-     "credito": "Wikimedia Commons",
-     "pie": "Roger Bannister y John Landy, los dos primeros hombres en bajar de cuatro minutos en la milla",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bannister_and_Landy.jpg?width=900"
-    },
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "repaso": {
-     "pregunta": "¿Cuánto duró el récord de Bannister en la milla?",
-     "respuesta": "46 días: John Landy corrió 3:58.0 el 21 de junio de 1954."
-    },
-    "titulo": "La barrera de los cuatro minutos duró 46 días",
-    "wiki": "Roger Bannister"
    }
   ],
   "Derecho y poder": [
+   {
+    "materia": "Derecho y poder",
+    "pilar": "mundo",
+    "epoca": "2026",
+    "titulo": "Una ley de emergencias de 1977 no alcanzaba para cobrar aranceles",
+    "dato": "El 20 de febrero de 2026, la Corte Suprema de Estados Unidos resolvió 6 a 3 que la ley de emergencias económicas, la IEEPA, no permite al presidente imponer aranceles.",
+    "explicacion": "En *Learning Resources contra Trump*, el presidente de la Corte, John Roberts, escribió que la frase «regular la importación» no incluye el poder de cobrar impuestos. Ese poder, dice la Constitución, es del Congreso. Disintieron Kavanaugh, Thomas y Alito. El caso lo llevaron empresas pequeñas, entre ellas una de juguetes educativos.\n\nEl fallo no tocó los aranceles basados en otras leyes, como los de la [[Sección 232|Norma de 1962 que permite aranceles por razones de seguridad nacional; es la base de los aranceles al acero, el aluminio y los autos.]]. En marzo, un tribunal de comercio ordenó devolver cerca de 165,000 millones de dólares cobrados, pero la devolución exige reclamarla. Para un abogado, la lección es vieja: quién tiene el poder importa tanto como lo que se decide.",
+    "fuente": {
+     "nombre": "SCOTUSblog: Learning Resources, Inc. v. Trump (expediente)",
+     "url": "https://www.scotusblog.com/cases/case-files/learning-resources-inc-v-trump"
+    },
+    "wiki": "Corte Suprema de los Estados Unidos",
+    "claves": [
+     {
+      "nombre": "John G. Roberts",
+      "quien": "Presidente de la Corte Suprema; redactó la opinión mayoritaria.",
+      "wiki": "John G. Roberts"
+     },
+     {
+      "nombre": "Ley de Poderes Económicos de Emergencia Internacional",
+      "quien": "La IEEPA, de 1977, pensada para sanciones y bloqueos.",
+      "wiki": "Ley de Poderes Económicos de Emergencia Internacional"
+     }
+    ],
+    "profundizar": {
+     "titulo": "Skadden: cómo funciona el mecanismo de reembolso de aranceles (2026, en inglés)",
+     "url": "https://www.skadden.com/insights/publications/2026/04/insights-april-2026/tariff-refund-mechanism-takes-shape"
+    },
+    "repaso": {
+     "pregunta": "¿Qué decidió la Corte Suprema de EE. UU. el 20 de febrero de 2026?",
+     "respuesta": "Que la IEEPA no autoriza al presidente a imponer aranceles (6 a 3); cobrar impuestos es poder del Congreso."
+    },
+    "fecha": "2026-11-26"
+   },
    {
     "claves": [
      {
@@ -1172,45 +1039,43 @@
     },
     "titulo": "El amparo nació en Yucatán",
     "wiki": "Juicio de amparo"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Juan sin Tierra",
-      "quien": "Rey de Inglaterra (1199–1216) que selló la carta y luego pidió anularla.",
-      "wiki": "Juan I de Inglaterra"
-     },
-     {
-      "nombre": "Inocencio III",
-      "quien": "Papa que la declaró nula el 24 de agosto de 1215.",
-      "wiki": "Inocencio III"
-     }
-    ],
-    "dato": "El documento más famoso de la historia del derecho fue anulado por el papa a las diez semanas de sellarse.",
-    "epoca": "1215",
-    "explicacion": "El rey Juan sin Tierra la selló el 15 de junio de 1215, en Runnymede, para calmar a los barones rebeldes. Juan pidió ayuda al papa Inocencio III, que el 24 de agosto la declaró nula. Siguió una guerra civil.\n\nSobrevivió porque, tras la muerte de Juan, sus sucesores la volvieron a emitir en 1216, 1217 y 1225, cada vez retocada. De sus 63 cláusulas originales, solo tres siguen vigentes en Inglaterra. Una es la que dice que nadie será encarcelado sino por [[juicio legal de sus pares|Ser juzgado por iguales y conforme a la ley del país; base de la idea del debido proceso.]] o por la ley del país.",
-    "fecha": "2026-11-10",
-    "fuente": {
-     "nombre": "Medievalists.net: 10 things you need to know about Magna Carta",
-     "url": "https://www.medievalists.net/2015/06/10-things-you-need-to-know-about-magna-carta/"
-    },
-    "imagen": {
-     "alt": "Pergamino medieval escrito en latín con letra apretada",
-     "credito": "Wikimedia Commons",
-     "pie": "Uno de los ejemplares de 1215 de la Carta Magna, en la Biblioteca Británica",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg?width=900"
-    },
-    "materia": "Derecho y poder",
-    "pilar": "mundo",
-    "repaso": {
-     "pregunta": "¿Cuánto duró vigente la Carta Magna de 1215 y por qué sobrevivió?",
-     "respuesta": "Unas diez semanas: Inocencio III la anuló el 24 de agosto de 1215. Sobrevivió porque se volvió a emitir en 1216, 1217 y 1225."
-    },
-    "titulo": "La Carta Magna duró diez semanas",
-    "wiki": "Carta Magna"
    }
   ],
   "Disciplina y hábitos": [
+   {
+    "materia": "Disciplina y hábitos",
+    "pilar": "caracter",
+    "epoca": "Siglo XIX",
+    "titulo": "Los 60 granos de café de Beethoven los contó un falsificador",
+    "dato": "La famosa costumbre de Beethoven de contar 60 granos por taza viene casi solo de Anton Schindler, su secretario. Es el mismo hombre que alteró los cuadernos de conversación del compositor.",
+    "explicacion": "Beethoven, ya sordo, conversaba por escrito en cuadernos. Schindler vendió 137 de ellos a la Biblioteca Real de Berlín en 1846, y tras la muerte del músico añadió frases que nunca se escribieron en vida. Lo demostró el musicólogo Peter Stadlen en 1977. La anécdota explícita de los «sesenta granos» aparece en la edición de 1860 de la biografía de Schindler.\n\nPuede que sea verdad: otros testigos describen su cafetera de vidrio y su gusto por el café. Pero nadie más contó los granos. Las rutinas de los genios nos llegan filtradas por quien las contó. Antes de copiar un hábito famoso, pregunta quién lo vio.",
+    "fuente": {
+     "nombre": "Beethoven-Haus Bonn: Konversationsheft (cuadernos de conversación)",
+     "url": "https://www.beethoven.de/en/glossar_archiv/view/5102229375680512/Konversationsheft"
+    },
+    "wiki": "Anton Felix Schindler",
+    "claves": [
+     {
+      "nombre": "Ludwig van Beethoven",
+      "quien": "El compositor (1770–1827); perdió el oído y siguió componiendo.",
+      "wiki": "Ludwig van Beethoven"
+     },
+     {
+      "nombre": "Anton Felix Schindler",
+      "quien": "Su secretario y biógrafo; fuente valiosa y poco fiable a la vez.",
+      "wiki": "Anton Felix Schindler"
+     }
+    ],
+    "profundizar": {
+     "titulo": "Barista Hustle: Beating the beat on Beethoven's coffee habits (en inglés)",
+     "url": "https://www.baristahustle.com/research-papers/beating-the-beat-on-beethovens-coffee-habits-part-2/"
+    },
+    "repaso": {
+     "pregunta": "¿Por qué dudar de los 60 granos de café de Beethoven?",
+     "respuesta": "Porque la fuente casi única es Schindler, que falsificó entradas en los cuadernos de conversación del compositor."
+    },
+    "fecha": "2026-11-26"
+   },
    {
     "claves": [
      {
@@ -1342,39 +1207,39 @@
     },
     "titulo": "Franklin nunca pudo con la virtud del orden",
     "wiki": "Benjamin Franklin"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Psico-Cibernética",
-      "quien": "El libro de Maxwell Maltz (1960) de donde salió el mito de los 21 días.",
-      "wiki": "Psico-Cibernética"
-     },
-     {
-      "nombre": "University College de Londres",
-      "quien": "La universidad donde Phillippa Lally hizo el estudio de los 66 días.",
-      "wiki": "University College de Londres"
-     }
-    ],
-    "dato": "En el estudio más citado sobre el tema, un hábito tardó en promedio 66 días en volverse automático. Para algunos fueron 18; para otros, 254.",
-    "epoca": "2009",
-    "explicacion": "Phillippa Lally y su equipo, en el University College de Londres, siguieron durante 12 semanas a 96 voluntarios que querían adoptar algo nuevo: beber agua, correr, comer fruta. La mediana fue de 66 días, y saltarse un día no arruinaba el proceso.\n\nEl famoso «21 días» viene del cirujano Maxwell Maltz, en *Psico-Cibernética* (1960). Él observó que sus pacientes tardaban un **mínimo** de unos 21 días en acostumbrarse a su nueva cara. Con los años, el mínimo se volvió promesa.",
-    "fecha": "2026-11-10",
-    "fuente": {
-     "nombre": "James Clear: How long does it actually take to form a new habit? (resume el estudio de Lally et al., 2009)",
-     "url": "https://jamesclear.com/new-habit"
-    },
-    "materia": "Disciplina y hábitos",
-    "pilar": "caracter",
-    "repaso": {
-     "pregunta": "¿Cuánto tardó en promedio un hábito en volverse automático en el estudio de Lally (2009)?",
-     "respuesta": "66 días de mediana, con un rango de 18 a 254. Los 21 días eran el mínimo que observó Maltz en sus pacientes."
-    },
-    "titulo": "Un hábito no tarda 21 días",
-    "wiki": "Hábito"
    }
   ],
   "Economía y mercados": [
+   {
+    "materia": "Economía y mercados",
+    "pilar": "patrimonio",
+    "epoca": "1954–1976",
+    "titulo": "El dólar costó 12.50 pesos durante 22 años",
+    "dato": "En 1954, el peso pasó de 8.65 a 12.50 por dólar. Ese precio se sostuvo hasta el 31 de agosto de 1976, cuando el gobierno dejó flotar la moneda.",
+    "explicacion": "Fueron los años del [[desarrollo estabilizador|Etapa de la economía mexicana (c. 1954–1970) con crecimiento alto, inflación baja y tipo de cambio fijo.]]. Un tipo de cambio fijo es una promesa: el banco central se compromete a vender dólares a ese precio. Mientras hubo reservas y finanzas sanas, la promesa se cumplió.\n\nEn los setenta el gasto y la inflación crecieron, y defender los 12.50 se volvió imposible. Al flotar, el peso cayó por debajo de 20 por dólar en la primera semana, según *Time*, y luego pasó de 22. Toda una generación aprendió ahí que un precio fijo dura lo que dura el dinero para defenderlo.",
+    "fuente": {
+     "nombre": "Banco de México: Historia (tomo XIX)",
+     "url": "https://www.banxico.org.mx/elib/hbm/19/2.html"
+    },
+    "wiki": "Tipos de cambio en México",
+    "claves": [
+     {
+      "nombre": "Milagro mexicano",
+      "quien": "El periodo de crecimiento sostenido en que vivió el peso de 12.50.",
+      "wiki": "Milagro mexicano"
+     },
+     {
+      "nombre": "Luis Echeverría Álvarez",
+      "quien": "Presidente cuando terminó el tipo de cambio fijo en 1976.",
+      "wiki": "Luis Echeverría Álvarez"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuánto duró el tipo de cambio de 12.50 pesos por dólar?",
+     "respuesta": "Unos 22 años: de 1954 al 31 de agosto de 1976, cuando el peso empezó a flotar."
+    },
+    "fecha": "2026-11-26"
+   },
    {
     "claves": [
      {
@@ -1503,6 +1368,36 @@
    }
   ],
   "El cosmos": [
+   {
+    "materia": "El cosmos",
+    "pilar": "futuro",
+    "epoca": "2026",
+    "titulo": "En abril de 2026, cuatro personas viajaron más lejos que nadie",
+    "dato": "El 6 de abril de 2026, la tripulación de Artemis II superó el récord de distancia del Apolo 13 y llegó a unos 406,770 kilómetros de la Tierra, rodeando la cara oculta de la Luna.",
+    "explicacion": "El récord anterior, de unos 400,171 km, lo había fijado el Apolo 13 el 14 de abril de 1970, también rodeando la Luna tras su accidente. Artemis II llevó a Reid Wiseman, Victor Glover, Christina Koch y el canadiense Jeremy Hansen en la nave Orión. Koch fue la primera mujer, Glover la primera persona de color y Hansen el primer no estadounidense en ir más allá de la [[órbita baja|La región del espacio a menos de unos 2,000 km de altura, donde está la Estación Espacial.]].\n\nNo alunizaron: la misión probaba la nave con personas a bordo. Según la NASA, la tripulación propuso nombrar dos cráteres «Integrity», como la nave, y «Carroll», por la esposa fallecida de Wiseman. Fue la primera vez en 54 años que humanos volvieron a ver de cerca la cara oculta.",
+    "fuente": {
+     "nombre": "NASA: Artemis II crew eclipses record for farthest human spaceflight",
+     "url": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight"
+    },
+    "wiki": "Artemis II",
+    "claves": [
+     {
+      "nombre": "Victor J. Glover",
+      "quien": "Piloto de Artemis II.",
+      "wiki": "Victor J. Glover"
+     },
+     {
+      "nombre": "Orión (nave espacial)",
+      "quien": "La cápsula de la NASA que llevó a la tripulación.",
+      "wiki": "Orión (nave espacial)"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué récord rompió Artemis II y qué misión lo tenía?",
+     "respuesta": "La mayor distancia de humanos a la Tierra (unos 406,770 km); lo tenía el Apolo 13 desde 1970."
+    },
+    "fecha": "2026-11-26"
+   },
    {
     "claves": [
      {
@@ -1640,51 +1535,10 @@
     },
     "titulo": "Hace 1,400 millones de años el día duraba 18 horas",
     "wiki": "Rotación de la Tierra"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Árbol",
-      "quien": "Unos 422 por cada persona del planeta, según el estudio de 2015.",
-      "wiki": "Árbol"
-     },
-     {
-      "nombre": "Estrella",
-      "quien": "Hay entre 100,000 y 400,000 millones solo en nuestra galaxia.",
-      "wiki": "Estrella"
-     }
-    ],
-    "dato": "En la Tierra hay unos 3 billones de árboles (3,000,000,000,000). En la Vía Láctea hay entre 100,000 y 400,000 millones de estrellas.",
-    "epoca": "2015",
-    "explicacion": "La cifra de árboles la calculó en 2015 un equipo dirigido por Thomas Crowther, en Yale, con imágenes de satélite y conteos en más de 400,000 parcelas. Antes se pensaba que había unos 400,000 millones: se quedaban cortos casi ocho veces.\n\nEl mismo estudio estimó que se talan unos 15,000 millones de árboles al año y que hoy hay cerca de 46% menos que al inicio de la agricultura. Contar galaxias es más fácil que contar bosques: las estrellas no se esconden bajo otras.",
-    "fecha": "2026-11-10",
-    "fuente": {
-     "nombre": "Yale School of the Environment: Yale study reveals there are 3 trillion trees on Earth",
-     "url": "https://environment.yale.edu/news/article/Yale-study-reveals-there-are-3-trillion-trees-on-earth"
-    },
-    "materia": "El cosmos",
-    "pilar": "futuro",
-    "repaso": {
-     "pregunta": "¿Cuántos árboles hay en la Tierra según Crowther (2015) y cuántas estrellas en la Vía Láctea?",
-     "respuesta": "Unos 3 billones de árboles, contra 100,000 a 400,000 millones de estrellas."
-    },
-    "titulo": "Hay más árboles en la Tierra que estrellas en la galaxia",
-    "wiki": "Vía Láctea"
    }
   ],
   "Etiqueta y protocolo": [
    {
-    "materia": "Etiqueta y protocolo",
-    "pilar": "gusto",
-    "epoca": "Siglo XVII",
-    "titulo": "«Tip» no significa «To Insure Promptness»",
-    "dato": "Circula que la palabra inglesa para propina viene de las siglas de «para asegurar la prontitud». Es falso: la palabra es siglos más antigua que esa explicación.",
-    "explicacion": "«Tip» como verbo, en el sentido de «dar» o «pasar algo con discreción», aparece en la jerga de los bajos fondos de Londres en el siglo XVII. Formar palabras con siglas, en cambio, casi no existía antes del siglo XX. La historia del letrero «T.I.P.» en las cafeterías inglesas es un invento posterior, un caso de [[falsa etimología|Explicación popular, pero equivocada, del origen de una palabra.]].\n\nEl español tiene su propio origen: «propina» viene del latín *propinare*, «dar de beber», o brindar a la salud de alguien. La costumbre de dejar algo extra para quien sirve es vieja; las siglas que la explican, no.",
-    "fuente": {
-     "nombre": "Barry Popik: «To Insure Promptness» (tip false etymology)",
-     "url": "https://barrypopik.com/blog/to_insure_promptness_tip_false_etymology"
-    },
-    "wiki": "Propina",
     "claves": [
      {
       "nombre": "Acrónimo",
@@ -1697,11 +1551,22 @@
       "wiki": "Etimología"
      }
     ],
+    "dato": "Circula que la palabra inglesa para propina viene de las siglas de «para asegurar la prontitud». Es falso: la palabra es siglos más antigua que esa explicación.",
+    "epoca": "Siglo XVII",
+    "explicacion": "«Tip» como verbo, en el sentido de «dar» o «pasar algo con discreción», aparece en la jerga de los bajos fondos de Londres en el siglo XVII. Formar palabras con siglas, en cambio, casi no existía antes del siglo XX. La historia del letrero «T.I.P.» en las cafeterías inglesas es un invento posterior, un caso de [[falsa etimología|Explicación popular, pero equivocada, del origen de una palabra.]].\n\nEl español tiene su propio origen: «propina» viene del latín *propinare*, «dar de beber», o brindar a la salud de alguien. La costumbre de dejar algo extra para quien sirve es vieja; las siglas que la explican, no.",
+    "fecha": "2026-11-25",
+    "fuente": {
+     "nombre": "Barry Popik: «To Insure Promptness» (tip false etymology)",
+     "url": "https://barrypopik.com/blog/to_insure_promptness_tip_false_etymology"
+    },
+    "materia": "Etiqueta y protocolo",
+    "pilar": "gusto",
     "repaso": {
      "pregunta": "¿Por qué es falso que «tip» venga de «To Insure Promptness»?",
      "respuesta": "Porque «tip» (dar algo con discreción) ya existía en la jerga londinense del siglo XVII, y las palabras formadas con siglas casi no existían antes del siglo XX."
     },
-    "fecha": "2026-11-25"
+    "titulo": "«Tip» no significa «To Insure Promptness»",
+    "wiki": "Propina"
    },
    {
     "claves": [
@@ -1838,41 +1703,6 @@
     },
     "titulo": "El tenedor llegó a Venecia como un escándalo",
     "wiki": "Tenedor"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Ministro plenipotenciario",
-      "quien": "Una de las clases de diplomáticos que fijó Viena, debajo de los embajadores.",
-      "wiki": "Ministro plenipotenciario"
-     },
-     {
-      "nombre": "Nuncio apostólico",
-      "quien": "Representante del papa; muchos países le dan el primer lugar entre los embajadores.",
-      "wiki": "Nuncio apostólico"
-     },
-     {
-      "nombre": "Samuel Pepys",
-      "quien": "Funcionario inglés cuyo diario narra el choque de carrozas de 1661.",
-      "wiki": "Samuel Pepys"
-     }
-    ],
-    "dato": "Durante siglos, los embajadores se pelearon por quién pasaba primero. En 1815, el Congreso de Viena lo resolvió con una regla simple: manda la fecha de llegada.",
-    "epoca": "1815",
-    "explicacion": "La [[precedencia|Orden de prioridad entre personas o cargos: quién entra, se sienta o habla primero.]] era cuestión de honor nacional. En 1661, en Londres, las carrozas de los embajadores de España y Francia chocaron por ir delante en un desfile; hubo muertos, y el diario de Samuel Pepys lo cuenta. Cada corte decía ser la más importante.\n\nEl reglamento de Viena del 19 de marzo de 1815 dividió a los diplomáticos en clases y ordenó cada clase según la fecha en que notificaban oficialmente su llegada. Ya no importaba qué rey era más poderoso, sino quién llegó antes. Una regla neutral y verificable evita más conflictos que cualquier negociación.",
-    "fecha": "2026-11-09",
-    "fuente": {
-     "nombre": "Office of the Historian (EE. UU.): Foreign Relations of the United States 1875, documento 229",
-     "url": "https://history.state.gov/historicaldocuments/frus1875v02/d229"
-    },
-    "materia": "Etiqueta y protocolo",
-    "pilar": "gusto",
-    "repaso": {
-     "pregunta": "¿Qué criterio fijó el Congreso de Viena para ordenar a los embajadores de una misma clase?",
-     "respuesta": "La fecha de notificación oficial de su llegada: quien llegó antes, va primero."
-    },
-    "titulo": "Viena acabó con las peleas de embajadores con un reloj",
-    "wiki": "Congreso de Viena"
    }
   ],
   "Filosofía para vivir": [
@@ -2064,6 +1894,36 @@
   ],
   "Gastronomía, vino y destilados": [
    {
+    "materia": "Gastronomía, vino y destilados",
+    "pilar": "gusto",
+    "epoca": "1841",
+    "titulo": "La vainilla mexicana conquistó el mundo gracias a un niño de 12 años",
+    "dato": "Durante siglos, la vainilla casi solo daba fruto en México. En 1841, Edmond Albius, un niño esclavizado de 12 años en la isla de Reunión, inventó la forma de polinizarla a mano que todavía se usa.",
+    "explicacion": "La vainilla es una orquídea nativa de México; los totonacas de la región de Papantla la cultivaban mucho antes de los españoles. Llevada a otras tierras, la planta florecía pero casi no daba vainas: faltaban sus [[polinizadores|Animales que llevan el polen de una flor a otra; en la vainilla mexicana, ciertas abejas.]] naturales.\n\nAlbius descubrió que, con una varita fina, se levanta la membrana que separa las partes de la flor y, con el pulgar, se unen. Gracias a eso, Reunión y luego Madagascar se volvieron grandes productores. Albius fue liberado en 1848, con la abolición de la esclavitud en las colonias francesas, y murió pobre en 1880.",
+    "fuente": {
+     "nombre": "Linnean Society: Edmond Albius (2019)",
+     "url": "https://linnean.org/news/2019/10/16/edmond-albius"
+    },
+    "wiki": "Vanilla planifolia",
+    "claves": [
+     {
+      "nombre": "Reunión (Francia)",
+      "quien": "La isla francesa del océano Índico donde vivía Albius.",
+      "wiki": "Reunión (Francia)"
+     },
+     {
+      "nombre": "Polinización",
+      "quien": "El paso del polen que convierte la flor en fruto.",
+      "wiki": "Polinización"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué descubrió Edmond Albius en 1841?",
+     "respuesta": "Cómo polinizar la vainilla a mano, con una varita y el pulgar; así pudo cultivarse fuera de México."
+    },
+    "fecha": "2026-11-26"
+   },
+   {
     "claves": [
      {
       "nombre": "Gruyer",
@@ -2204,36 +2064,6 @@
     },
     "titulo": "La primera máquina de espresso no servía tazas",
     "wiki": "Café expreso"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Kipferl",
-      "quien": "El pan austriaco en forma de media luna del que desciende el cruasán.",
-      "wiki": "Kipferl"
-     },
-     {
-      "nombre": "Batalla de Kahlenberg",
-      "quien": "La derrota otomana frente a Viena (1683), origen de la leyenda del cruasán.",
-      "wiki": "Batalla de Kahlenberg"
-     }
-    ],
-    "dato": "El cruasán no nació en Francia: su antepasado es el *kipferl* austriaco, que un panadero vienés empezó a vender en París hacia 1839.",
-    "epoca": "1839",
-    "explicacion": "August Zang, un oficial austriaco, abrió en la rue de Richelieu una «panadería vienesa». Los parisinos copiaron sus panes en forma de media luna. El cruasán de [[hojaldre|Masa de capas finas de harina y mantequilla que se separan al hornear.]] con mantequilla, el que conocemos, aparece en recetas francesas ya entrado el siglo XX.\n\nLa historia de que lo inventaron los panaderos de Viena en 1683, para celebrar la derrota de los otomanos, es una leyenda sin documentos de la época. La forma de luna era común en panes mucho antes.",
-    "fecha": "2026-11-10",
-    "fuente": {
-     "nombre": "Wikipedia: Cruasán",
-     "url": "https://es.wikipedia.org/wiki/Cruas%C3%A1n"
-    },
-    "materia": "Gastronomía, vino y destilados",
-    "pilar": "gusto",
-    "repaso": {
-     "pregunta": "¿De dónde viene el cruasán?",
-     "respuesta": "Del kipferl austriaco, que August Zang vendió en París hacia 1839. La leyenda del sitio de Viena de 1683 no tiene documentos."
-    },
-    "titulo": "El cruasán llegó a París desde Viena",
-    "wiki": "Cruasán"
    }
   ],
   "Historia y geopolítica": [
@@ -2750,17 +2580,6 @@
   ],
   "Liderazgo e influencia": [
    {
-    "materia": "Liderazgo e influencia",
-    "pilar": "caracter",
-    "epoca": "1995",
-    "titulo": "Mandela se puso el número 6 del capitán blanco",
-    "dato": "En la final del Mundial de Rugby de 1995, Nelson Mandela entró a la cancha con la camiseta verde de los Springboks y el número 6 del capitán, François Pienaar.",
-    "explicacion": "Para muchos sudafricanos negros, los Springboks eran un símbolo del [[apartheid|Sistema legal de segregación racial que gobernó Sudáfrica de 1948 a 1994.]]. Mandela llevaba solo un año como presidente. En lugar de cambiar el nombre y los colores del equipo, como pedían muchos, decidió adoptarlos.\n\nEl 24 de junio de 1995, en el estadio Ellis Park de Johannesburgo, Sudáfrica venció 15–12 a Nueva Zelanda. Al entregar la copa, Mandela le agradeció a Pienaar, y él respondió que el agradecimiento era para Mandela por lo que hacía por el país. El gesto enseñó algo poco común: a veces se lidera tomando el símbolo del otro bando.",
-    "fuente": {
-     "nombre": "World Rugby: The day Pienaar and Mandela had each other's backs",
-     "url": "https://www.world.rugby/news/568693/the-day-pienaar-and-mandela-had-each-others-backs"
-    },
-    "wiki": "Final de la Copa Mundial de Rugby de 1995",
     "claves": [
      {
       "nombre": "François Pienaar",
@@ -2778,11 +2597,22 @@
       "wiki": "Rugby y apartheid"
      }
     ],
+    "dato": "En la final del Mundial de Rugby de 1995, Nelson Mandela entró a la cancha con la camiseta verde de los Springboks y el número 6 del capitán, François Pienaar.",
+    "epoca": "1995",
+    "explicacion": "Para muchos sudafricanos negros, los Springboks eran un símbolo del [[apartheid|Sistema legal de segregación racial que gobernó Sudáfrica de 1948 a 1994.]]. Mandela llevaba solo un año como presidente. En lugar de cambiar el nombre y los colores del equipo, como pedían muchos, decidió adoptarlos.\n\nEl 24 de junio de 1995, en el estadio Ellis Park de Johannesburgo, Sudáfrica venció 15–12 a Nueva Zelanda. Al entregar la copa, Mandela le agradeció a Pienaar, y él respondió que el agradecimiento era para Mandela por lo que hacía por el país. El gesto enseñó algo poco común: a veces se lidera tomando el símbolo del otro bando.",
+    "fecha": "2026-11-25",
+    "fuente": {
+     "nombre": "World Rugby: The day Pienaar and Mandela had each other's backs",
+     "url": "https://www.world.rugby/news/568693/the-day-pienaar-and-mandela-had-each-others-backs"
+    },
+    "materia": "Liderazgo e influencia",
+    "pilar": "caracter",
     "repaso": {
      "pregunta": "¿Qué camiseta llevó Mandela en la final de 1995 y por qué importaba?",
      "respuesta": "La de los Springboks con el número 6 del capitán Pienaar; el equipo era un símbolo del apartheid y él lo adoptó para unir al país."
     },
-    "fecha": "2026-11-25"
+    "titulo": "Mandela se puso el número 6 del capitán blanco",
+    "wiki": "Final de la Copa Mundial de Rugby de 1995"
    },
    {
     "claves": [
@@ -2919,41 +2749,6 @@
     },
     "titulo": "Unos anteojos detuvieron un posible golpe militar",
     "wiki": "George Washington"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Ecuos",
-      "quien": "Pueblo de los montes al este de Roma, enemigo frecuente de la república temprana.",
-      "wiki": "Ecuos"
-     },
-     {
-      "nombre": "George Washington",
-      "quien": "Lo llamaron «el Cincinato de Occidente» por dejar el mando del ejército y, después, la presidencia.",
-      "wiki": "George Washington"
-     },
-     {
-      "nombre": "Cincinnati",
-      "quien": "Ciudad de Ohio nombrada por la sociedad que honraba a Cincinato.",
-      "wiki": "Cincinnati"
-     }
-    ],
-    "dato": "Roma le dio a Cincinato poder absoluto para salvar a un ejército rodeado. Ganó, renunció en unos quince días y regresó a su granja. Una ciudad de Estados Unidos lleva su nombre.",
-    "epoca": "458 a. C.",
-    "explicacion": "En el 458 a. C., los ecuos tenían atrapado a un ejército romano en el monte Álgido. El Senado nombró [[dictador|En la Roma republicana, magistrado con poder total por un plazo máximo de seis meses, nombrado solo en emergencias.]] a Cincinato, a quien encontraron arando su campo. Rescató al ejército y, según Tito Livio, renunció al decimosexto día, aunque podía quedarse seis meses.\n\nPor eso se volvió el modelo del líder que suelta el poder. Los oficiales de Washington fundaron en 1783 la Sociedad de los Cincinnati, y de ella tomó su nombre la ciudad de Cincinnati, Ohio. Renunciar a tiempo también es liderazgo.",
-    "fecha": "2026-11-09",
-    "fuente": {
-     "nombre": "George Washington's Mount Vernon: Cincinnatus",
-     "url": "https://www.mountvernon.org/digital-encyclopedia/article/cincinnatus"
-    },
-    "materia": "Liderazgo e influencia",
-    "pilar": "caracter",
-    "repaso": {
-     "pregunta": "¿Por qué Cincinato se volvió símbolo de liderazgo?",
-     "respuesta": "Porque recibió poder absoluto, resolvió la emergencia y renunció en unos quince días para volver a su granja."
-    },
-    "titulo": "El dictador que volvió a su arado",
-    "wiki": "Cincinato"
    }
   ],
   "Literatura y mitología": [
@@ -3082,6 +2877,40 @@
    }
   ],
   "Mente y decisiones": [
+   {
+    "materia": "Mente y decisiones",
+    "pilar": "mente",
+    "epoca": "Siglo XX",
+    "titulo": "Con 23 personas en una sala, ya es probable que dos cumplan años el mismo día",
+    "dato": "Basta reunir a 23 personas para que la probabilidad de que dos compartan cumpleaños sea de 50.7%. Con 70 personas sube a 99.9%.",
+    "explicacion": "La intuición falla porque pensamos en *nuestro* cumpleaños: que alguien coincida conmigo sí es raro. Pero la pregunta es si coinciden *dos cualesquiera*. Con 23 personas hay 253 parejas posibles, y cada una es una oportunidad de coincidencia. Lo fácil es calcular lo contrario: la probabilidad de que nadie coincida, que con 23 baja apenas de la mitad.\n\nSe le llama [[paradoja|Resultado verdadero que contradice la intuición; aquí no hay contradicción lógica, solo sorpresa.]] del cumpleaños, aunque no tiene nada de contradictorio. La lección sirve fuera de las fiestas: las «coincidencias increíbles» casi siempre son esperables cuando hay muchas combinaciones posibles. Antes de ver una conspiración en una casualidad, cuenta las parejas.",
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Birthday problem",
+     "url": "https://en.wikipedia.org/wiki/Birthday_problem"
+    },
+    "wiki": "Paradoja del cumpleaños",
+    "claves": [
+     {
+      "nombre": "Paradoja del cumpleaños",
+      "quien": "El problema clásico de probabilidad detrás de este dato.",
+      "wiki": "Paradoja del cumpleaños"
+     },
+     {
+      "nombre": "Principio del palomar",
+      "quien": "Con 367 personas la coincidencia es segura: hay más personas que días posibles.",
+      "wiki": "Principio del palomar"
+     }
+    ],
+    "profundizar": {
+     "titulo": "Harvey Mudd College, Math Fun Facts: The Birthday Problem (en inglés)",
+     "url": "https://math.hmc.edu/funfacts/?p=206"
+    },
+    "repaso": {
+     "pregunta": "¿Cuántas personas hacen falta para que sea más probable que no que dos cumplan años el mismo día?",
+     "respuesta": "23; la probabilidad es de 50.7% porque hay 253 parejas posibles."
+    },
+    "fecha": "2026-11-26"
+   },
    {
     "claves": [
      {
@@ -3219,39 +3048,39 @@
     },
     "titulo": "Una ruleta trucada movió las respuestas 20 puntos",
     "wiki": "Efecto de anclaje"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Blaise Pascal",
-      "quien": "Matemático y filósofo francés (1623–1662) que recibió la pregunta del jugador.",
-      "wiki": "Blaise Pascal"
-     },
-     {
-      "nombre": "Pierre de Fermat",
-      "quien": "Abogado y matemático de Toulouse; resolvió el problema con Pascal por carta.",
-      "wiki": "Pierre de Fermat"
-     }
-    ],
-    "dato": "La teoría de la probabilidad nació de una pregunta de un jugador: si un juego se interrumpe a la mitad, ¿cómo se reparte el dinero apostado?",
-    "epoca": "1654",
-    "explicacion": "El escritor Antoine Gombaud, conocido como el caballero de Méré, le planteó el problema a Blaise Pascal. En el verano de 1654, Pascal se lo escribió a Pierre de Fermat, y en unas cuantas cartas los dos lo resolvieron.\n\nSu idea: no repartir según lo que ya pasó, sino contando todos los finales posibles y cuántos gana cada jugador. Es el germen del [[valor esperado|Promedio de lo que puedes ganar o perder, ponderado por la probabilidad de cada resultado.]], que hoy usan seguros, bancos y cualquiera que evalúa un proyecto.",
-    "fecha": "2026-11-10",
-    "fuente": {
-     "nombre": "University of York: Pascal and Fermat on the problem of points (correspondencia de 1654)",
-     "url": "https://www.york.ac.uk/depts/maths/histstat/pascal.htm"
-    },
-    "materia": "Mente y decisiones",
-    "pilar": "mente",
-    "repaso": {
-     "pregunta": "¿Qué problema resolvieron Pascal y Fermat en 1654?",
-     "respuesta": "Cómo repartir lo apostado en un juego interrumpido: contando los finales posibles. De ahí nació la teoría de la probabilidad."
-    },
-    "titulo": "Una partida interrumpida inventó la probabilidad",
-    "wiki": "Problema de la partida interrumpida"
    }
   ],
   "Música": [
+   {
+    "materia": "Música",
+    "pilar": "cultura",
+    "epoca": "1859",
+    "titulo": "Francia fijó por decreto la nota La en 1859",
+    "dato": "Antes cada orquesta afinaba a su manera, y el tono subía año con año. En febrero de 1859, el gobierno francés fijó el La en 870 vibraciones simples, es decir, 435 hercios: el «diapasón normal».",
+    "explicacion": "El [[diapasón|Pieza de metal en forma de horquilla que, al golpearse, suena siempre en la misma nota; sirve para afinar.]] de la Ópera de París había subido tanto que los cantantes sufrían. En julio de 1858 se creó una comisión ligada a compositores como Auber, Berlioz, Meyerbeer y Rossini. Su informe salió en *Le Moniteur universel* en 1859 y la norma quedó fijada ese febrero.\n\nOtros países copiaron la idea. En 1939, una conferencia internacional en Londres acordó el La en 440 Hz, y la norma ISO 16 lo confirmó en 1955. Cuando hoy una orquesta afina con el oboe, repite un acuerdo nacido de una queja francesa.",
+    "fuente": {
+     "nombre": "Larousse, Dictionnaire de la musique: Diapason",
+     "url": "https://www.larousse.fr/encyclopedie/musdico/diapason/167216"
+    },
+    "wiki": "Tono de concierto",
+    "claves": [
+     {
+      "nombre": "La (nota)",
+      "quien": "La nota que sirve de referencia para afinar toda la orquesta.",
+      "wiki": "La (nota)"
+     },
+     {
+      "nombre": "Afinación",
+      "quien": "Ajustar un instrumento para que suene en la altura correcta.",
+      "wiki": "Afinación"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué fijó Francia en 1859 y qué se acordó en 1939?",
+     "respuesta": "El La en 435 Hz (diapasón normal); en 1939 se acordó internacionalmente el La en 440 Hz."
+    },
+    "fecha": "2026-11-26"
+   },
    {
     "claves": [
      {
@@ -3362,17 +3191,6 @@
   ],
   "Negocios y estrategia": [
    {
-    "materia": "Negocios y estrategia",
-    "pilar": "patrimonio",
-    "epoca": "1938",
-    "titulo": "El Nescafé nació para salvar las cosechas sobrantes de Brasil",
-    "dato": "En 1930 el Instituto Brasileño del Café le pidió a Nestlé una solución para los enormes excedentes de grano. Tras años de pruebas, el Nescafé salió a la venta en Suiza en 1938.",
-    "explicacion": "La Gran Depresión había hundido el precio del café y Brasil tenía montañas de grano que no podía vender. La idea era convertirlo en un polvo que durara y se preparara solo con agua. El químico de Nestlé Max Morgenthaler trabajó en ello durante años hasta lograr un polvo que conservara el sabor.\n\nEl lanzamiento llegó en 1938 y la Segunda Guerra Mundial lo volvió masivo: era ligero y no se echaba a perder. Un problema de excedente agrícola terminó en una de las marcas más vendidas del mundo. La estrategia: cuando sobra algo, pregunta qué forma nueva lo haría deseable.",
-    "fuente": {
-     "nombre": "Nescafé: The NESCAFÉ Story",
-     "url": "https://nescafe.com/about-us"
-    },
-    "wiki": "Café instantáneo",
     "claves": [
      {
       "nombre": "Café liofilizado",
@@ -3385,11 +3203,22 @@
       "wiki": "Producción de café en Brasil"
      }
     ],
+    "dato": "En 1930 el Instituto Brasileño del Café le pidió a Nestlé una solución para los enormes excedentes de grano. Tras años de pruebas, el Nescafé salió a la venta en Suiza en 1938.",
+    "epoca": "1938",
+    "explicacion": "La Gran Depresión había hundido el precio del café y Brasil tenía montañas de grano que no podía vender. La idea era convertirlo en un polvo que durara y se preparara solo con agua. El químico de Nestlé Max Morgenthaler trabajó en ello durante años hasta lograr un polvo que conservara el sabor.\n\nEl lanzamiento llegó en 1938 y la Segunda Guerra Mundial lo volvió masivo: era ligero y no se echaba a perder. Un problema de excedente agrícola terminó en una de las marcas más vendidas del mundo. La estrategia: cuando sobra algo, pregunta qué forma nueva lo haría deseable.",
+    "fecha": "2026-11-25",
+    "fuente": {
+     "nombre": "Nescafé: The NESCAFÉ Story",
+     "url": "https://nescafe.com/about-us"
+    },
+    "materia": "Negocios y estrategia",
+    "pilar": "patrimonio",
     "repaso": {
      "pregunta": "¿Qué problema buscaba resolver el Nescafé?",
      "respuesta": "Los excedentes de café de Brasil en la Gran Depresión; el Instituto Brasileño del Café se lo pidió a Nestlé en 1930 y salió en 1938."
     },
-    "fecha": "2026-11-25"
+    "titulo": "El Nescafé nació para salvar las cosechas sobrantes de Brasil",
+    "wiki": "Café instantáneo"
    },
    {
     "claves": [
@@ -3680,42 +3509,6 @@
     },
     "titulo": "«Swiss made» exige 60% del costo en Suiza",
     "wiki": "Relojería"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Charles Lewis Tiffany",
-      "quien": "Fundador de Tiffany & Co. (1812–1902); convirtió la caja en un símbolo.",
-      "wiki": "Charles Lewis Tiffany"
-     },
-     {
-      "nombre": "Pantone",
-      "quien": "Empresa que estandariza colores con números; fabrica el tono exclusivo de Tiffany.",
-      "wiki": "Pantone"
-     }
-    ],
-    "dato": "El azul de las cajas de Tiffany es un color registrado como marca. Pantone lo fabrica en exclusiva con el nombre «1837 Blue», por el año en que se fundó la casa.",
-    "epoca": "1845",
-    "explicacion": "Tiffany & Co. abrió en Nueva York en 1837. En 1845 usó ese tono en la portada de su *Blue Book*, el catálogo anual de joyas, y desde entonces lo volvió su firma: cajas, bolsas, anuncios. Una casa de lujo rara vez es dueña de un color. Tiffany lo es: lo registró como marca y Pantone no lo vende al público.\n\nDe Charles Lewis Tiffany, el fundador, se cuenta una regla: la caja no se vende sola; solo sale de la tienda con algo que se compró dentro. Así, la caja dejó de ser empaque y se volvió una señal. Para una marca premium es una lección clara: un elemento visual repetido por décadas puede valer tanto como el producto.",
-    "fecha": "2026-11-08",
-    "fuente": {
-     "nombre": "Wikipedia (en): Tiffany Blue",
-     "url": "https://en.wikipedia.org/wiki/Tiffany_Blue"
-    },
-    "imagen": {
-     "alt": "Caja azul turquesa con listón blanco",
-     "credito": "Wikimedia Commons",
-     "pie": "La caja azul de Tiffany",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tiffany_blue_box_2.jpg?width=900"
-    },
-    "materia": "Oficios del lujo y estilo",
-    "pilar": "gusto",
-    "repaso": {
-     "pregunta": "¿Por qué el color de Tiffany se llama «1837 Blue»?",
-     "respuesta": "Por el año en que se fundó la casa en Nueva York. Es un color registrado que Pantone fabrica en exclusiva."
-    },
-    "titulo": "El azul de Tiffany tiene año de nacimiento",
-    "wiki": "Tiffany & Co."
    }
   ],
   "Productos digitales escalables": [
@@ -4017,51 +3810,10 @@
     },
     "titulo": "Hablar con un extraño en el tren mejora el viaje",
     "wiki": "Psicología social"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Psicología social",
-      "quien": "Rama de la psicología que estudia cómo pensamos y actuamos frente a otras personas.",
-      "wiki": "Psicología social"
-     },
-     {
-      "nombre": "Sesgo cognitivo",
-      "quien": "Error sistemático del juicio; la brecha de agrado es uno sobre nosotros mismos.",
-      "wiki": "Sesgo cognitivo"
-     }
-    ],
-    "dato": "Después de conversar con un desconocido, la mayoría cree que cayó peor de lo que realmente cayó. Los psicólogos lo llamaron la «brecha de agrado».",
-    "epoca": "2018",
-    "explicacion": "En 2018, Erica Boothby, Gus Cooney, Gillian Sandstrom y Margaret Clark publicaron en *Psychological Science* varios experimentos. Pusieron a desconocidos a platicar y luego preguntaron a cada uno cuánto le había gustado el otro y cuánto creía haberle gustado. Una y otra vez, la gente subestimó cuánto agradó. En un estudio con compañeros de cuarto universitarios, la brecha duró meses.\n\nLa causa probable: al salir de una plática repasamos nuestros errores, lo que dijimos mal, los silencios. El otro casi no se fijó en eso. Saberlo sirve antes de una junta o un evento de *networking*: la impresión que dejaste suele ser mejor que la que te llevas.",
-    "fecha": "2026-11-08",
-    "fuente": {
-     "nombre": "Boothby, Cooney, Sandstrom y Clark (2018), The Liking Gap in Conversations, Psychological Science (PDF, Wharton)",
-     "url": "https://faculty.wharton.upenn.edu/wp-content/uploads/2020/05/The-Liking-Gap-in-Conversations.pdf"
-    },
-    "materia": "Relaciones y vida social",
-    "pilar": "caracter",
-    "repaso": {
-     "pregunta": "¿Qué es la «brecha de agrado»?",
-     "respuesta": "La tendencia a creer que le caímos peor a alguien de lo que en realidad le caímos después de conversar."
-    },
-    "titulo": "Le caes mejor de lo que crees",
-    "wiki": "Conversación"
    }
   ],
   "Religiones y grandes textos": [
    {
-    "materia": "Religiones y grandes textos",
-    "pilar": "cultura",
-    "epoca": "1551",
-    "titulo": "La Biblia no tuvo versículos numerados durante 1,500 años",
-    "dato": "Los capítulos de la Biblia se fijaron hacia el siglo XIII y la numeración de versículos del Nuevo Testamento que usamos la publicó un impresor de París en 1551.",
-    "explicacion": "La división en capítulos se atribuye a [[Stephen Langton|Teólogo inglés, luego arzobispo de Canterbury, que enseñaba en París a principios del siglo XIII.]], hacia 1227. Los versículos numerados del Nuevo Testamento llegaron con Robert Estienne, impresor parisino, en su edición de 1551.\n\nCircula una historia simpática: que Estienne numeró los versículos a caballo, en un viaje de París a Lyon, y que por eso algunos cortes son raros. Viene de su hijo Henri, y quizá solo quería decir que trabajó durante el viaje, en las posadas. Lo seguro es lo importante: un invento de imprenta cambió para siempre cómo se cita un texto sagrado.",
-    "fuente": {
-     "nombre": "Encyclopaedia Britannica: Robert I Estienne",
-     "url": "https://www.britannica.com/biography/Robert-I-Estienne"
-    },
-    "wiki": "Capítulos y versículos de la Biblia",
     "claves": [
      {
       "nombre": "Textus Receptus",
@@ -4074,11 +3826,22 @@
       "wiki": "Biblia de Ginebra"
      }
     ],
+    "dato": "Los capítulos de la Biblia se fijaron hacia el siglo XIII y la numeración de versículos del Nuevo Testamento que usamos la publicó un impresor de París en 1551.",
+    "epoca": "1551",
+    "explicacion": "La división en capítulos se atribuye a [[Stephen Langton|Teólogo inglés, luego arzobispo de Canterbury, que enseñaba en París a principios del siglo XIII.]], hacia 1227. Los versículos numerados del Nuevo Testamento llegaron con Robert Estienne, impresor parisino, en su edición de 1551.\n\nCircula una historia simpática: que Estienne numeró los versículos a caballo, en un viaje de París a Lyon, y que por eso algunos cortes son raros. Viene de su hijo Henri, y quizá solo quería decir que trabajó durante el viaje, en las posadas. Lo seguro es lo importante: un invento de imprenta cambió para siempre cómo se cita un texto sagrado.",
+    "fecha": "2026-11-25",
+    "fuente": {
+     "nombre": "Encyclopaedia Britannica: Robert I Estienne",
+     "url": "https://www.britannica.com/biography/Robert-I-Estienne"
+    },
+    "materia": "Religiones y grandes textos",
+    "pilar": "cultura",
     "repaso": {
      "pregunta": "¿Quién numeró los versículos del Nuevo Testamento y cuándo?",
      "respuesta": "El impresor parisino Robert Estienne, en su edición de 1551; los capítulos venían de Stephen Langton, hacia 1227."
     },
-    "fecha": "2026-11-25"
+    "titulo": "La Biblia no tuvo versículos numerados durante 1,500 años",
+    "wiki": "Capítulos y versículos de la Biblia"
    },
    {
     "claves": [
@@ -4155,17 +3918,6 @@
   ],
   "Retórica y oratoria": [
    {
-    "materia": "Retórica y oratoria",
-    "pilar": "mente",
-    "epoca": "47 a. C.",
-    "titulo": "«Veni, vidi, vici» no fue un discurso: fue un cartel",
-    "dato": "La frase más famosa de Julio César no la gritó ante sus tropas. Según Suetonio, se mostró escrita en un letrero durante su desfile de victoria en Roma.",
-    "explicacion": "En el verano del 47 a. C., César derrotó a [[Farnaces II|Rey del Bósforo, hijo de Mitrídates el Grande, que intentó recuperar el reino del Ponto.]] en Zela, en la actual Turquía, en una campaña relámpago. Plutarco cuenta que César lo resumió en una carta a un amigo de Roma con tres palabras: «Llegué, vi, vencí».\n\nSuetonio añade que, en el triunfo por esa guerra, uno de los carros llevaba la inscripción con esas tres palabras. No describía lo ocurrido: presumía la velocidad. Es una lección de oratoria escrita: tres verbos cortos, el mismo sonido inicial y ningún adjetivo.",
-    "fuente": {
-     "nombre": "Suetonio, Vida de Julio César, 37 (Lexundria)",
-     "url": "https://lexundria.com/suet_jul/37/r"
-    },
-    "wiki": "Batalla de Zela (47 a. C.)",
     "claves": [
      {
       "nombre": "Julio César",
@@ -4178,11 +3930,22 @@
       "wiki": "Farnaces II del Ponto"
      }
     ],
+    "dato": "La frase más famosa de Julio César no la gritó ante sus tropas. Según Suetonio, se mostró escrita en un letrero durante su desfile de victoria en Roma.",
+    "epoca": "47 a. C.",
+    "explicacion": "En el verano del 47 a. C., César derrotó a [[Farnaces II|Rey del Bósforo, hijo de Mitrídates el Grande, que intentó recuperar el reino del Ponto.]] en Zela, en la actual Turquía, en una campaña relámpago. Plutarco cuenta que César lo resumió en una carta a un amigo de Roma con tres palabras: «Llegué, vi, vencí».\n\nSuetonio añade que, en el triunfo por esa guerra, uno de los carros llevaba la inscripción con esas tres palabras. No describía lo ocurrido: presumía la velocidad. Es una lección de oratoria escrita: tres verbos cortos, el mismo sonido inicial y ningún adjetivo.",
+    "fecha": "2026-11-25",
+    "fuente": {
+     "nombre": "Suetonio, Vida de Julio César, 37 (Lexundria)",
+     "url": "https://lexundria.com/suet_jul/37/r"
+    },
+    "materia": "Retórica y oratoria",
+    "pilar": "mente",
     "repaso": {
      "pregunta": "¿Dónde apareció «Veni, vidi, vici» según Suetonio?",
      "respuesta": "Escrito en un letrero durante el triunfo de César por la guerra del Ponto; Plutarco dice que también lo usó en una carta."
     },
-    "fecha": "2026-11-25"
+    "titulo": "«Veni, vidi, vici» no fue un discurso: fue un cartel",
+    "wiki": "Batalla de Zela (47 a. C.)"
    },
    {
     "claves": [
@@ -4321,39 +4084,39 @@
     },
     "titulo": "El orador estrella habló dos horas; Lincoln, dos minutos",
     "wiki": "Discurso de Gettysburg"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Richmond",
-      "quien": "Ciudad de Virginia donde Henry habló, en la iglesia de San Juan.",
-      "wiki": "Richmond (Virginia)"
-     },
-     {
-      "nombre": "Padres fundadores",
-      "quien": "Los líderes de la independencia de EE. UU.; Henry fue uno de sus oradores más encendidos.",
-      "wiki": "Padres fundadores de los Estados Unidos"
-     }
-    ],
-    "dato": "Nadie anotó el discurso más famoso de la independencia estadounidense cuando Patrick Henry lo dijo, en 1775. El texto que conocemos lo publicó un biógrafo en 1817.",
-    "epoca": "1775",
-    "explicacion": "El 23 de marzo de 1775, en una iglesia de Richmond, Henry pidió a Virginia armarse contra Inglaterra. No hubo taquígrafo. En 1817, William Wirt reconstruyó el discurso para su biografía, sobre todo con los recuerdos del juez St. George Tucker, que estuvo presente.\n\nDurante siglo y medio el texto se aceptó como auténtico. Desde los años setenta, varios historiadores dudan de cuánto es de Henry y cuánto de Wirt, incluida la frase final. Lección: muchas frases célebres son, en parte, obra de quien las contó después.",
-    "fecha": "2026-11-09",
-    "fuente": {
-     "nombre": "World History Encyclopedia: Give Me Liberty or Give Me Death",
-     "url": "https://www.worldhistory.org/article/2350/give-me-liberty-or-give-me-death"
-    },
-    "materia": "Retórica y oratoria",
-    "pilar": "mente",
-    "repaso": {
-     "pregunta": "¿Quién publicó el texto del discurso «Dadme la libertad o dadme la muerte» y cuándo?",
-     "respuesta": "El biógrafo William Wirt, en 1817, 42 años después, con recuerdos de testigos."
-    },
-    "titulo": "«Dadme la libertad o dadme la muerte» se publicó 42 años después",
-    "wiki": "Patrick Henry"
    }
   ],
   "Salud y longevidad": [
+   {
+    "materia": "Salud y longevidad",
+    "pilar": "cuerpo",
+    "epoca": "2010",
+    "titulo": "Un placebo funcionó aunque los pacientes sabían que era placebo",
+    "dato": "En un ensayo de Harvard de 2010, pacientes con colon irritable recibieron pastillas en un frasco que decía «placebo». A las tres semanas, 59% reportó alivio adecuado, contra 35% del grupo sin tratamiento.",
+    "explicacion": "El estudio de Ted Kaptchuk y su equipo, publicado en *PLoS ONE*, incluyó a 80 pacientes. A 37 se les dijo claramente que las cápsulas no tenían ningún fármaco, pero que el [[efecto placebo|Mejoría que se produce por la expectativa y el ritual del tratamiento, no por una sustancia activa.]] puede ser poderoso. Tomaban dos, dos veces al día. Los otros 43 no recibieron nada.\n\nHay límites claros: fue pequeño, corto y midió síntomas que el paciente reporta. Un placebo no cura una infección ni un tumor. Lo que sugiere es que el ritual del cuidado, la atención y la expectativa también son parte del tratamiento, incluso sin engaño.",
+    "fuente": {
+     "nombre": "Kaptchuk et al. (2010), PLoS ONE: Placebos without Deception",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3008733"
+    },
+    "wiki": "Sustancia placebo",
+    "claves": [
+     {
+      "nombre": "Prueba controlada aleatorizada",
+      "quien": "El tipo de estudio que se usó: sortear quién recibe qué.",
+      "wiki": "Prueba controlada aleatorizada"
+     },
+     {
+      "nombre": "Grupo de control",
+      "quien": "Los pacientes que no reciben el tratamiento, para comparar.",
+      "wiki": "Grupo de control"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué mostró el estudio de placebo abierto de 2010?",
+     "respuesta": "Que pacientes con colon irritable mejoraron más con pastillas que sabían que eran placebo (59% vs 35% con alivio adecuado)."
+    },
+    "fecha": "2026-11-26"
+   },
    {
     "claves": [
      {
@@ -4497,158 +4260,6 @@
     },
     "titulo": "Quitar la manija de la bomba no detuvo la epidemia",
     "wiki": "Epidemia de cólera de Broad Street"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Frederick Banting",
-      "quien": "Médico canadiense; Nobel de Medicina 1923 por la insulina.",
-      "wiki": "Frederick Grant Banting"
-     },
-     {
-      "nombre": "John Macleod",
-      "quien": "Jefe del laboratorio en Toronto; compartió el Nobel con Banting.",
-      "wiki": "John Macleod"
-     },
-     {
-      "nombre": "Universidad de Toronto",
-      "quien": "La dueña de la patente desde 1923.",
-      "wiki": "Universidad de Toronto"
-     }
-    ],
-    "dato": "El 11 de enero de 1922, en Toronto, un niño de 14 años llamado Leonard Thompson recibió la primera inyección de insulina. Al año siguiente, sus descubridores vendieron la patente a la Universidad de Toronto por un dólar simbólico.",
-    "epoca": "1922",
-    "explicacion": "Antes de la insulina, la [[diabetes tipo 1|Enfermedad en que el páncreas deja de producir insulina; sin tratamiento era mortal en pocos meses o años.]] era una sentencia de muerte. La primera inyección a Thompson falló: el extracto era impuro y le causó un absceso. Doce días después, con un extracto purificado por James Collip, su azúcar bajó de forma drástica. Vivió 13 años más.\n\nLa patente estadounidense se concedió en enero de 1923. Frederick Banting no quiso poner su nombre en ella porque le parecía poco ético; Best y Collip la cedieron a la universidad por un dólar. A Banting se le atribuye la frase «la insulina no me pertenece, pertenece al mundo», muy citada aunque sin fuente primaria clara.",
-    "fecha": "2026-11-15",
-    "fuente": {
-     "nombre": "NobelPrize.org: The miracle discovery that reversed the diabetes death sentence",
-     "url": "https://nobelprize.org/the-miracle-discovery-that-reversed-the-diabetes-death-sentence"
-    },
-    "imagen": {
-     "alt": "Dos hombres con un perro en una azotea",
-     "credito": "Wikimedia Commons",
-     "pie": "Banting y Best con uno de sus perros de experimentación, Toronto",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Photograph_of_F.G._Banting_and_C.H._Best_with_a_dog_on_the_roof_of_the_Medical_Building_(12309019434).jpg?width=900"
-    },
-    "materia": "Salud y longevidad",
-    "pilar": "cuerpo",
-    "repaso": {
-     "pregunta": "¿Quién fue el primer paciente tratado con insulina y por cuánto se cedió la patente?",
-     "respuesta": "Leonard Thompson, de 14 años, en enero de 1922. La patente se cedió a la Universidad de Toronto por un dólar simbólico."
-    },
-    "titulo": "La insulina se vendió por un dólar",
-    "wiki": "Insulina"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Estreptomicina",
-      "quien": "Antibiótico de los años cuarenta, el primero eficaz contra la tuberculosis.",
-      "wiki": "Estreptomicina"
-     },
-     {
-      "nombre": "Tuberculosis",
-      "quien": "La enfermedad que estudiaba el ensayo.",
-      "wiki": "Tuberculosis"
-     },
-     {
-      "nombre": "Criterios de Bradford Hill",
-      "quien": "Las pautas de Bradford Hill para juzgar si algo causa una enfermedad.",
-      "wiki": "Criterios de Bradford Hill"
-     }
-    ],
-    "dato": "En 1948, un ensayo británico de estreptomicina contra la tuberculosis asignó a 107 pacientes con números al azar guardados en sobres sellados. Suele considerarse el primer ensayo aleatorizado moderno publicado.",
-    "epoca": "1948",
-    "explicacion": "Austin Bradford Hill diseñó el sistema para que ningún médico eligiera, ni sin querer, a los pacientes más sanos para el fármaco. A los seis meses, según el informe, murieron 4 de 55 con estreptomicina y 14 de 52 sin ella.\n\nHubo antecedentes, así que no fue tan nuevo como a veces se cuenta. Pero se volvió el modelo: el azar protege la prueba de nuestras propias expectativas.",
-    "fecha": "2026-11-13",
-    "fuente": {
-     "nombre": "James Lind Library: Why the 1948 MRC trial of streptomycin used treatment allocation based on random numbers",
-     "url": "https://www.jameslindlibrary.org/articles/why-the-1948-mrc-trial-of-streptomycin-used-treatment-allocation-based-on-random-numbers/"
-    },
-    "materia": "Salud y longevidad",
-    "pilar": "cuerpo",
-    "repaso": {
-     "pregunta": "¿Para qué sirvieron los sobres sellados del ensayo de estreptomicina de 1948?",
-     "respuesta": "Para asignar a los pacientes al azar, sin que los médicos eligieran; así nadie sesgaba quién recibía el fármaco."
-    },
-    "titulo": "Unos sobres cerrados decidieron quién recibía el fármaco",
-    "wiki": "Prueba controlada aleatorizada"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Sepsis puerperal",
-      "quien": "La infección después del parto que mataba a las madres en Viena.",
-      "wiki": "Sepsis puerperal"
-     },
-     {
-      "nombre": "Efecto Semmelweis",
-      "quien": "El reflejo de rechazar una verdad incómoda.",
-      "wiki": "Efecto Semmelweis"
-     },
-     {
-      "nombre": "Higiene de manos",
-      "quien": "La práctica que hoy la OMS considera básica para evitar infecciones.",
-      "wiki": "Higiene de manos"
-     }
-    ],
-    "dato": "En abril de 1847, en una clínica de maternidad de Viena, moría el 18.3% de las madres. Ignaz Semmelweis impuso lavarse las manos con cal clorada y en 1848 la cifra bajó a 1.3%.",
-    "epoca": "1847",
-    "explicacion": "Los médicos iban de las autopsias a atender partos sin lavarse. Semmelweis no conocía los gérmenes, pero vio que las madres atendidas por parteras morían mucho menos, y dedujo que algo pasaba de los cadáveres a las pacientes.\n\nSus colegas lo rechazaron: no había teoría que lo explicara y él los acusaba con dureza. Murió en 1865 en un manicomio, de una herida infectada. Hoy el [[efecto Semmelweis|Rechazo automático de evidencias nuevas que contradicen lo establecido.]] lleva su nombre.",
-    "fecha": "2026-11-11",
-    "fuente": {
-     "nombre": "European Journal of Epidemiology (2022), vía PMC: Semmelweis y la fiebre puerperal",
-     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9209376/"
-    },
-    "imagen": {
-     "alt": "Retrato antiguo de un hombre calvo con bigote",
-     "credito": "Wikimedia Commons",
-     "pie": "Ignaz Semmelweis en 1860",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ignaz_Semmelweis_1860.jpg?width=900"
-    },
-    "materia": "Salud y longevidad",
-    "pilar": "cuerpo",
-    "repaso": {
-     "pregunta": "¿Qué logró Semmelweis en 1847 y cómo?",
-     "respuesta": "Bajó la mortalidad materna de 18.3% a cerca de 1% haciendo que los médicos se lavaran con cal clorada."
-    },
-    "titulo": "Lavarse las manos bajó la muerte de 18% a 1%",
-    "wiki": "Ignaz Semmelweis"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Alexander Fleming",
-      "quien": "Médico escocés que descubrió la penicilina en 1928.",
-      "wiki": "Alexander Fleming"
-     },
-     {
-      "nombre": "Howard Walter Florey",
-      "quien": "Patólogo australiano que, en Oxford, convirtió la penicilina en tratamiento.",
-      "wiki": "Howard Walter Florey"
-     },
-     {
-      "nombre": "Ernst Boris Chain",
-      "quien": "Bioquímico que logró purificarla junto con Florey.",
-      "wiki": "Ernst Boris Chain"
-     }
-    ],
-    "dato": "El 3 de septiembre de 1928, Alexander Fleming regresó de vacaciones a su laboratorio de Londres y encontró un moho que mataba a las bacterias de una placa olvidada.",
-    "epoca": "1928",
-    "explicacion": "Fleming estudiaba estafilococos en el hospital St. Mary's. Al revisar las placas que había dejado, vio que alrededor de un moho, *Penicillium notatum*, las bacterias habían desaparecido. Llamó «penicilina» a la sustancia. El descuido fue útil porque él supo mirar.\n\nPero el hallazgo casi se queda en curiosidad: Fleming no logró purificarla en cantidad. Más de una década después, Howard Florey y Ernst Chain, en Oxford, la convirtieron en medicamento. Los tres compartieron el Nobel en 1945. Descubrir no basta; alguien tiene que volverlo útil.",
-    "fecha": "2026-11-09",
-    "fuente": {
-     "nombre": "American Chemical Society: Discovery and Development of Penicillin",
-     "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html"
-    },
-    "materia": "Salud y longevidad",
-    "pilar": "cuerpo",
-    "repaso": {
-     "pregunta": "¿Quiénes convirtieron la penicilina en medicamento?",
-     "respuesta": "Howard Florey y Ernst Chain, en Oxford, más de diez años después del hallazgo de Fleming."
-    },
-    "titulo": "La penicilina apareció al volver de vacaciones",
-    "wiki": "Penicilina"
    }
   ]
  }

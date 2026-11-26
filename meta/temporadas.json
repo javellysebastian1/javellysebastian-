@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25",
+ "actualizado": "2026-11-26",
  "lista": [
   {
    "episodios": [
@@ -181,22 +181,42 @@
      "titulo": "1947: el New Look de Dior devuelve el lujo a París"
     },
     {
-     "titulo": "El café de París: de Le Procope a Les Deux Magots",
-     "fecha": "2026-11-25"
+     "fecha": "2026-11-25",
+     "titulo": "El café de París: de Le Procope a Les Deux Magots"
     },
     {
-     "titulo": "Síntesis: cómo una ciudad se vuelve sinónimo de buen gusto"
+     "titulo": "Síntesis: cómo una ciudad se vuelve sinónimo de buen gusto",
+     "fecha": "2026-11-26"
     }
    ],
-   "estado": "en_curso",
+   "estado": "terminada",
    "id": "t06",
    "numero": 6,
    "para": "Moda, perfume, urbanismo y cultura francesa.",
    "titulo": "París: cómo se hizo la capital del gusto"
   },
   {
-   "episodios": [],
-   "estado": "pendiente",
+   "episodios": [
+    {
+     "titulo": "Siglo VI a. C.: el exilio en Babilonia y el nacimiento de la Biblia hebrea"
+    },
+    {
+     "titulo": "c. 500 a. C.: Siddhartha bajo el árbol y el camino medio"
+    },
+    {
+     "titulo": "313: el edicto de Milán, cuando Roma dejó de perseguir a los cristianos"
+    },
+    {
+     "titulo": "622: la Hégira, el viaje que inicia el calendario islámico"
+    },
+    {
+     "titulo": "1531: Guadalupe y el encuentro de dos mundos"
+    },
+    {
+     "titulo": "Síntesis: cómo las religiones moldearon el arte, la ley y la política"
+    }
+   ],
+   "estado": "en_curso",
    "id": "t07",
    "numero": 7,
    "para": "Sus textos, sus ideas y su huella en el arte y la política.",
