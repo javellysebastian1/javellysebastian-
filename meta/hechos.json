@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26",
+ "actualizado": "2026-11-27",
  "materias": {
   "Arquitectura y diseño": [
    {
@@ -679,6 +679,41 @@
   ],
   "Deporte y aire libre": [
    {
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
+    "epoca": "2026",
+    "titulo": "El Estadio Azteca es el único que ha inaugurado tres Mundiales",
+    "dato": "El 11 de junio de 2026, el estadio de la Ciudad de México abrió su tercera Copa del Mundo, después de 1970 y 1986. Ningún otro estadio lo ha hecho.",
+    "explicacion": "El récord es posible por una coincidencia de historia y de tamaño. México organizó el Mundial de 1970 y, en 1986, lo rescató cuando Colombia renunció a ser sede. En ambos casos el Azteca, inaugurado en 1966, era el estadio más grande del país. En 2026, el primer Mundial con tres anfitriones (México, Estados Unidos y Canadá) y con 48 selecciones, la FIFA volvió a darle el partido inaugural.\n\nGuadalajara también fue sede: el Estadio Akron, en Zapopan, recibió partidos de la fase de grupos. Para una ciudad, un Mundial es una prueba de infraestructura y de marca. El Azteca demuestra que un edificio puede acumular prestigio durante 60 años si se mantiene vigente.",
+    "fuente": {
+     "nombre": "TUDN: Estadio Banorte, el primero en recibir la inauguración de tres Mundiales",
+     "url": "https://www.tudn.com/mundial-2026/estadio-banorte-hara-historia-en-el-mundial-2026-con-su-tercera-inauguracion"
+    },
+    "wiki": "Estadio Azteca",
+    "claves": [
+     {
+      "nombre": "Copa Mundial de Fútbol de 2026",
+      "quien": "El primer Mundial con 48 selecciones y tres países anfitriones.",
+      "wiki": "Copa Mundial de Fútbol de 2026"
+     },
+     {
+      "nombre": "Copa Mundial de Fútbol de 1986",
+      "quien": "El Mundial que México organizó tras la renuncia de Colombia.",
+      "wiki": "Copa Mundial de Fútbol de 1986"
+     },
+     {
+      "nombre": "Estadio Akron",
+      "quien": "El estadio de Zapopan que fue sede en 2026.",
+      "wiki": "Estadio Akron"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué récord tiene el Estadio Azteca?",
+     "respuesta": "Es el único estadio que ha inaugurado tres Mundiales: 1970, 1986 y 2026."
+    },
+    "fecha": "2026-11-27"
+   },
+   {
     "claves": [
      {
       "nombre": "William George Morgan",
@@ -821,61 +856,10 @@
     },
     "titulo": "Las pelotas de tenis se volvieron amarillas por la televisión",
     "wiki": "Pelota de tenis"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Tira y afloja en Londres 1908",
-      "quien": "La competencia que barrieron los policías británicos.",
-      "wiki": "Anexo:Tira y afloja en los Juegos Olímpicos de Londres 1908"
-     },
-     {
-      "nombre": "Tira y afloja en París 1900",
-      "quien": "La primera vez que fue olímpico.",
-      "wiki": "Anexo:Tira y afloja en los Juegos Olímpicos de París 1900"
-     }
-    ],
-    "dato": "El tira y afloja fue deporte olímpico de 1900 a 1920. En Londres 1908, las tres medallas fueron para equipos de policías británicos: el oro, para la Policía de la City de Londres.",
-    "epoca": "1900–1920",
-    "explicacion": "En 1908, el equipo de Estados Unidos protestó porque los policías de Liverpool tiraban con sus botas de servicio. La protesta se rechazó y los estadounidenses se retiraron. La plata fue para Liverpool y el bronce para la División K de la Policía Metropolitana.\n\nEn aquellos primeros Juegos, el programa era un experimento y cambiaba en cada edición. Después de 1920, el tira y afloja salió del programa olímpico. Sigue siendo un deporte con campeonatos mundiales propios.",
-    "fecha": "2026-11-16",
-    "fuente": {
-     "nombre": "Wikipedia (inglés): Tug of war at the 1908 Summer Olympics",
-     "url": "https://en.wikipedia.org/wiki/Tug_of_war_at_the_1908_Summer_Olympics"
-    },
-    "imagen": {
-     "alt": "Fotografía antigua de un equipo de hombres fornidos posando",
-     "credito": "Wikimedia Commons",
-     "pie": "El equipo de la Policía de la City de Londres, campeón olímpico de tira y afloja en 1908",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/London_1908_CityofLondonPolice.jpg?width=900"
-    },
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "profundizar": {
-     "titulo": "Olympedia: Tug-of-War, Men (prueba descontinuada)",
-     "url": "https://www.olympedia.org/event_names/622"
-    },
-    "repaso": {
-     "pregunta": "¿Quién ganó el oro olímpico de tira y afloja en Londres 1908?",
-     "respuesta": "La Policía de la City de Londres. Las tres medallas fueron para equipos de policías británicos."
-    },
-    "titulo": "El tira y afloja fue olímpico, y lo ganaba la policía",
-    "wiki": "Juego de la soga"
    }
   ],
   "Derecho y poder": [
    {
-    "materia": "Derecho y poder",
-    "pilar": "mundo",
-    "epoca": "2026",
-    "titulo": "Una ley de emergencias de 1977 no alcanzaba para cobrar aranceles",
-    "dato": "El 20 de febrero de 2026, la Corte Suprema de Estados Unidos resolvió 6 a 3 que la ley de emergencias económicas, la IEEPA, no permite al presidente imponer aranceles.",
-    "explicacion": "En *Learning Resources contra Trump*, el presidente de la Corte, John Roberts, escribió que la frase «regular la importación» no incluye el poder de cobrar impuestos. Ese poder, dice la Constitución, es del Congreso. Disintieron Kavanaugh, Thomas y Alito. El caso lo llevaron empresas pequeñas, entre ellas una de juguetes educativos.\n\nEl fallo no tocó los aranceles basados en otras leyes, como los de la [[Sección 232|Norma de 1962 que permite aranceles por razones de seguridad nacional; es la base de los aranceles al acero, el aluminio y los autos.]]. En marzo, un tribunal de comercio ordenó devolver cerca de 165,000 millones de dólares cobrados, pero la devolución exige reclamarla. Para un abogado, la lección es vieja: quién tiene el poder importa tanto como lo que se decide.",
-    "fuente": {
-     "nombre": "SCOTUSblog: Learning Resources, Inc. v. Trump (expediente)",
-     "url": "https://www.scotusblog.com/cases/case-files/learning-resources-inc-v-trump"
-    },
-    "wiki": "Corte Suprema de los Estados Unidos",
     "claves": [
      {
       "nombre": "John G. Roberts",
@@ -888,6 +872,16 @@
       "wiki": "Ley de Poderes Económicos de Emergencia Internacional"
      }
     ],
+    "dato": "El 20 de febrero de 2026, la Corte Suprema de Estados Unidos resolvió 6 a 3 que la ley de emergencias económicas, la IEEPA, no permite al presidente imponer aranceles.",
+    "epoca": "2026",
+    "explicacion": "En *Learning Resources contra Trump*, el presidente de la Corte, John Roberts, escribió que la frase «regular la importación» no incluye el poder de cobrar impuestos. Ese poder, dice la Constitución, es del Congreso. Disintieron Kavanaugh, Thomas y Alito. El caso lo llevaron empresas pequeñas, entre ellas una de juguetes educativos.\n\nEl fallo no tocó los aranceles basados en otras leyes, como los de la [[Sección 232|Norma de 1962 que permite aranceles por razones de seguridad nacional; es la base de los aranceles al acero, el aluminio y los autos.]]. En marzo, un tribunal de comercio ordenó devolver cerca de 165,000 millones de dólares cobrados, pero la devolución exige reclamarla. Para un abogado, la lección es vieja: quién tiene el poder importa tanto como lo que se decide.",
+    "fecha": "2026-11-26",
+    "fuente": {
+     "nombre": "SCOTUSblog: Learning Resources, Inc. v. Trump (expediente)",
+     "url": "https://www.scotusblog.com/cases/case-files/learning-resources-inc-v-trump"
+    },
+    "materia": "Derecho y poder",
+    "pilar": "mundo",
     "profundizar": {
      "titulo": "Skadden: cómo funciona el mecanismo de reembolso de aranceles (2026, en inglés)",
      "url": "https://www.skadden.com/insights/publications/2026/04/insights-april-2026/tariff-refund-mechanism-takes-shape"
@@ -896,7 +890,8 @@
      "pregunta": "¿Qué decidió la Corte Suprema de EE. UU. el 20 de febrero de 2026?",
      "respuesta": "Que la IEEPA no autoriza al presidente a imponer aranceles (6 a 3); cobrar impuestos es poder del Congreso."
     },
-    "fecha": "2026-11-26"
+    "titulo": "Una ley de emergencias de 1977 no alcanzaba para cobrar aranceles",
+    "wiki": "Corte Suprema de los Estados Unidos"
    },
    {
     "claves": [
@@ -1043,17 +1038,6 @@
   ],
   "Disciplina y hábitos": [
    {
-    "materia": "Disciplina y hábitos",
-    "pilar": "caracter",
-    "epoca": "Siglo XIX",
-    "titulo": "Los 60 granos de café de Beethoven los contó un falsificador",
-    "dato": "La famosa costumbre de Beethoven de contar 60 granos por taza viene casi solo de Anton Schindler, su secretario. Es el mismo hombre que alteró los cuadernos de conversación del compositor.",
-    "explicacion": "Beethoven, ya sordo, conversaba por escrito en cuadernos. Schindler vendió 137 de ellos a la Biblioteca Real de Berlín en 1846, y tras la muerte del músico añadió frases que nunca se escribieron en vida. Lo demostró el musicólogo Peter Stadlen en 1977. La anécdota explícita de los «sesenta granos» aparece en la edición de 1860 de la biografía de Schindler.\n\nPuede que sea verdad: otros testigos describen su cafetera de vidrio y su gusto por el café. Pero nadie más contó los granos. Las rutinas de los genios nos llegan filtradas por quien las contó. Antes de copiar un hábito famoso, pregunta quién lo vio.",
-    "fuente": {
-     "nombre": "Beethoven-Haus Bonn: Konversationsheft (cuadernos de conversación)",
-     "url": "https://www.beethoven.de/en/glossar_archiv/view/5102229375680512/Konversationsheft"
-    },
-    "wiki": "Anton Felix Schindler",
     "claves": [
      {
       "nombre": "Ludwig van Beethoven",
@@ -1066,6 +1050,16 @@
       "wiki": "Anton Felix Schindler"
      }
     ],
+    "dato": "La famosa costumbre de Beethoven de contar 60 granos por taza viene casi solo de Anton Schindler, su secretario. Es el mismo hombre que alteró los cuadernos de conversación del compositor.",
+    "epoca": "Siglo XIX",
+    "explicacion": "Beethoven, ya sordo, conversaba por escrito en cuadernos. Schindler vendió 137 de ellos a la Biblioteca Real de Berlín en 1846, y tras la muerte del músico añadió frases que nunca se escribieron en vida. Lo demostró el musicólogo Peter Stadlen en 1977. La anécdota explícita de los «sesenta granos» aparece en la edición de 1860 de la biografía de Schindler.\n\nPuede que sea verdad: otros testigos describen su cafetera de vidrio y su gusto por el café. Pero nadie más contó los granos. Las rutinas de los genios nos llegan filtradas por quien las contó. Antes de copiar un hábito famoso, pregunta quién lo vio.",
+    "fecha": "2026-11-26",
+    "fuente": {
+     "nombre": "Beethoven-Haus Bonn: Konversationsheft (cuadernos de conversación)",
+     "url": "https://www.beethoven.de/en/glossar_archiv/view/5102229375680512/Konversationsheft"
+    },
+    "materia": "Disciplina y hábitos",
+    "pilar": "caracter",
     "profundizar": {
      "titulo": "Barista Hustle: Beating the beat on Beethoven's coffee habits (en inglés)",
      "url": "https://www.baristahustle.com/research-papers/beating-the-beat-on-beethovens-coffee-habits-part-2/"
@@ -1074,7 +1068,8 @@
      "pregunta": "¿Por qué dudar de los 60 granos de café de Beethoven?",
      "respuesta": "Porque la fuente casi única es Schindler, que falsificó entradas en los cuadernos de conversación del compositor."
     },
-    "fecha": "2026-11-26"
+    "titulo": "Los 60 granos de café de Beethoven los contó un falsificador",
+    "wiki": "Anton Felix Schindler"
    },
    {
     "claves": [
@@ -1211,17 +1206,6 @@
   ],
   "Economía y mercados": [
    {
-    "materia": "Economía y mercados",
-    "pilar": "patrimonio",
-    "epoca": "1954–1976",
-    "titulo": "El dólar costó 12.50 pesos durante 22 años",
-    "dato": "En 1954, el peso pasó de 8.65 a 12.50 por dólar. Ese precio se sostuvo hasta el 31 de agosto de 1976, cuando el gobierno dejó flotar la moneda.",
-    "explicacion": "Fueron los años del [[desarrollo estabilizador|Etapa de la economía mexicana (c. 1954–1970) con crecimiento alto, inflación baja y tipo de cambio fijo.]]. Un tipo de cambio fijo es una promesa: el banco central se compromete a vender dólares a ese precio. Mientras hubo reservas y finanzas sanas, la promesa se cumplió.\n\nEn los setenta el gasto y la inflación crecieron, y defender los 12.50 se volvió imposible. Al flotar, el peso cayó por debajo de 20 por dólar en la primera semana, según *Time*, y luego pasó de 22. Toda una generación aprendió ahí que un precio fijo dura lo que dura el dinero para defenderlo.",
-    "fuente": {
-     "nombre": "Banco de México: Historia (tomo XIX)",
-     "url": "https://www.banxico.org.mx/elib/hbm/19/2.html"
-    },
-    "wiki": "Tipos de cambio en México",
     "claves": [
      {
       "nombre": "Milagro mexicano",
@@ -1234,11 +1218,22 @@
       "wiki": "Luis Echeverría Álvarez"
      }
     ],
+    "dato": "En 1954, el peso pasó de 8.65 a 12.50 por dólar. Ese precio se sostuvo hasta el 31 de agosto de 1976, cuando el gobierno dejó flotar la moneda.",
+    "epoca": "1954–1976",
+    "explicacion": "Fueron los años del [[desarrollo estabilizador|Etapa de la economía mexicana (c. 1954–1970) con crecimiento alto, inflación baja y tipo de cambio fijo.]]. Un tipo de cambio fijo es una promesa: el banco central se compromete a vender dólares a ese precio. Mientras hubo reservas y finanzas sanas, la promesa se cumplió.\n\nEn los setenta el gasto y la inflación crecieron, y defender los 12.50 se volvió imposible. Al flotar, el peso cayó por debajo de 20 por dólar en la primera semana, según *Time*, y luego pasó de 22. Toda una generación aprendió ahí que un precio fijo dura lo que dura el dinero para defenderlo.",
+    "fecha": "2026-11-26",
+    "fuente": {
+     "nombre": "Banco de México: Historia (tomo XIX)",
+     "url": "https://www.banxico.org.mx/elib/hbm/19/2.html"
+    },
+    "materia": "Economía y mercados",
+    "pilar": "patrimonio",
     "repaso": {
      "pregunta": "¿Cuánto duró el tipo de cambio de 12.50 pesos por dólar?",
      "respuesta": "Unos 22 años: de 1954 al 31 de agosto de 1976, cuando el peso empezó a flotar."
     },
-    "fecha": "2026-11-26"
+    "titulo": "El dólar costó 12.50 pesos durante 22 años",
+    "wiki": "Tipos de cambio en México"
    },
    {
     "claves": [
@@ -1369,17 +1364,6 @@
   ],
   "El cosmos": [
    {
-    "materia": "El cosmos",
-    "pilar": "futuro",
-    "epoca": "2026",
-    "titulo": "En abril de 2026, cuatro personas viajaron más lejos que nadie",
-    "dato": "El 6 de abril de 2026, la tripulación de Artemis II superó el récord de distancia del Apolo 13 y llegó a unos 406,770 kilómetros de la Tierra, rodeando la cara oculta de la Luna.",
-    "explicacion": "El récord anterior, de unos 400,171 km, lo había fijado el Apolo 13 el 14 de abril de 1970, también rodeando la Luna tras su accidente. Artemis II llevó a Reid Wiseman, Victor Glover, Christina Koch y el canadiense Jeremy Hansen en la nave Orión. Koch fue la primera mujer, Glover la primera persona de color y Hansen el primer no estadounidense en ir más allá de la [[órbita baja|La región del espacio a menos de unos 2,000 km de altura, donde está la Estación Espacial.]].\n\nNo alunizaron: la misión probaba la nave con personas a bordo. Según la NASA, la tripulación propuso nombrar dos cráteres «Integrity», como la nave, y «Carroll», por la esposa fallecida de Wiseman. Fue la primera vez en 54 años que humanos volvieron a ver de cerca la cara oculta.",
-    "fuente": {
-     "nombre": "NASA: Artemis II crew eclipses record for farthest human spaceflight",
-     "url": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight"
-    },
-    "wiki": "Artemis II",
     "claves": [
      {
       "nombre": "Victor J. Glover",
@@ -1392,11 +1376,22 @@
       "wiki": "Orión (nave espacial)"
      }
     ],
+    "dato": "El 6 de abril de 2026, la tripulación de Artemis II superó el récord de distancia del Apolo 13 y llegó a unos 406,770 kilómetros de la Tierra, rodeando la cara oculta de la Luna.",
+    "epoca": "2026",
+    "explicacion": "El récord anterior, de unos 400,171 km, lo había fijado el Apolo 13 el 14 de abril de 1970, también rodeando la Luna tras su accidente. Artemis II llevó a Reid Wiseman, Victor Glover, Christina Koch y el canadiense Jeremy Hansen en la nave Orión. Koch fue la primera mujer, Glover la primera persona de color y Hansen el primer no estadounidense en ir más allá de la [[órbita baja|La región del espacio a menos de unos 2,000 km de altura, donde está la Estación Espacial.]].\n\nNo alunizaron: la misión probaba la nave con personas a bordo. Según la NASA, la tripulación propuso nombrar dos cráteres «Integrity», como la nave, y «Carroll», por la esposa fallecida de Wiseman. Fue la primera vez en 54 años que humanos volvieron a ver de cerca la cara oculta.",
+    "fecha": "2026-11-26",
+    "fuente": {
+     "nombre": "NASA: Artemis II crew eclipses record for farthest human spaceflight",
+     "url": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight"
+    },
+    "materia": "El cosmos",
+    "pilar": "futuro",
     "repaso": {
      "pregunta": "¿Qué récord rompió Artemis II y qué misión lo tenía?",
      "respuesta": "La mayor distancia de humanos a la Tierra (unos 406,770 km); lo tenía el Apolo 13 desde 1970."
     },
-    "fecha": "2026-11-26"
+    "titulo": "En abril de 2026, cuatro personas viajaron más lejos que nadie",
+    "wiki": "Artemis II"
    },
    {
     "claves": [
@@ -1707,6 +1702,36 @@
   ],
   "Filosofía para vivir": [
    {
+    "materia": "Filosofía para vivir",
+    "pilar": "mente",
+    "epoca": "1639",
+    "titulo": "La frase célebre de la navaja de Ockham no aparece en Ockham",
+    "dato": "«No hay que multiplicar los entes sin necesidad» es la versión clásica de la navaja de Ockham. Pero no se ha encontrado en las obras de Guillermo de Ockham: la popularizó un teólogo irlandés, John Punch, en un comentario publicado en 1639.",
+    "explicacion": "Ockham, un fraile inglés del siglo XIV, sí defendió la idea con otras palabras, como «no se debe suponer la pluralidad sin necesidad». Y no la inventó: Aristóteles y varios escolásticos ya la usaban. Punch la llamó un «axioma común», no una frase de Ockham. La etiqueta «navaja de Ockham» llegó después, porque Ockham la usó con tanto filo que la asociaron con él.\n\nLa lección es doble. El principio sigue siendo útil: entre dos explicaciones que funcionan igual, prefiere la que necesita menos supuestos. Y es un recordatorio de que muchas citas famosas son resúmenes posteriores. Antes de citar a alguien, vale la pena preguntar dónde lo dijo.",
+    "fuente": {
+     "nombre": "Wikipedia (inglés): John Punch (theologian)",
+     "url": "https://en.wikipedia.org/wiki/John_Punch_(theologian)"
+    },
+    "wiki": "Navaja de Ockham",
+    "claves": [
+     {
+      "nombre": "Guillermo de Ockham",
+      "quien": "Fraile franciscano y filósofo inglés (c. 1287–1347) al que se atribuye el principio.",
+      "wiki": "Guillermo de Ockham"
+     },
+     {
+      "nombre": "Escolástica",
+      "quien": "La filosofía de las universidades medievales donde circulaba el axioma.",
+      "wiki": "Escolástica"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Quién popularizó la fórmula «no hay que multiplicar los entes sin necesidad»?",
+     "respuesta": "El teólogo irlandés John Punch, en un comentario publicado en 1639; no aparece en las obras de Ockham."
+    },
+    "fecha": "2026-11-27"
+   },
+   {
     "claves": [
      {
       "nombre": "Premio Nobel de Literatura",
@@ -1854,57 +1879,10 @@
     },
     "titulo": "El primer filósofo ganó dinero para callar una burla",
     "wiki": "Tales de Mileto"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Trinity College",
-      "quien": "El colegio de Cambridge al que Wittgenstein volvió en 1929.",
-      "wiki": "Trinity College (Cambridge)"
-     },
-     {
-      "nombre": "Juego de lenguaje",
-      "quien": "La idea de su segunda etapa: el significado de una palabra está en su uso.",
-      "wiki": "Juego del lenguaje (filosofía)"
-     }
-    ],
-    "dato": "En 1919, Ludwig Wittgenstein cedió toda su herencia a sus hermanos. Su familia era la segunda más rica del Imperio austrohúngaro, después de los Rothschild.",
-    "epoca": "1919",
-    "explicacion": "Volvió de la Primera Guerra Mundial convencido de que su libro, el *Tractatus*, ya había resuelto los problemas de la filosofía. Quería una vida austera y exigió que no quedara nada a su nombre. Solo excluyó a su hermana Margarete, que ya era muy rica.\n\nEntre 1920 y 1926 fue maestro rural en pueblos de la Baja Austria. Lo dejó tras golpear a un alumno. Después volvió a Cambridge y cambió de opinión sobre su propio libro: la filosofía no estaba resuelta.",
-    "fecha": "2026-11-11",
-    "fuente": {
-     "nombre": "MacTutor, Universidad de St Andrews: Ludwig Wittgenstein",
-     "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Wittgenstein/"
-    },
-    "imagen": {
-     "alt": "Retrato en blanco y negro de un joven de mirada seria",
-     "credito": "Wikimedia Commons",
-     "pie": "Ludwig Wittgenstein hacia 1910",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_Wittgenstein_1910.jpg?width=900"
-    },
-    "materia": "Filosofía para vivir",
-    "pilar": "mente",
-    "repaso": {
-     "pregunta": "¿Qué hizo Wittgenstein con su herencia en 1919?",
-     "respuesta": "La cedió a sus hermanos (salvo a Margarete) y se hizo maestro rural en Austria."
-    },
-    "titulo": "El filósofo que regaló una fortuna",
-    "wiki": "Ludwig Wittgenstein"
    }
   ],
   "Gastronomía, vino y destilados": [
    {
-    "materia": "Gastronomía, vino y destilados",
-    "pilar": "gusto",
-    "epoca": "1841",
-    "titulo": "La vainilla mexicana conquistó el mundo gracias a un niño de 12 años",
-    "dato": "Durante siglos, la vainilla casi solo daba fruto en México. En 1841, Edmond Albius, un niño esclavizado de 12 años en la isla de Reunión, inventó la forma de polinizarla a mano que todavía se usa.",
-    "explicacion": "La vainilla es una orquídea nativa de México; los totonacas de la región de Papantla la cultivaban mucho antes de los españoles. Llevada a otras tierras, la planta florecía pero casi no daba vainas: faltaban sus [[polinizadores|Animales que llevan el polen de una flor a otra; en la vainilla mexicana, ciertas abejas.]] naturales.\n\nAlbius descubrió que, con una varita fina, se levanta la membrana que separa las partes de la flor y, con el pulgar, se unen. Gracias a eso, Reunión y luego Madagascar se volvieron grandes productores. Albius fue liberado en 1848, con la abolición de la esclavitud en las colonias francesas, y murió pobre en 1880.",
-    "fuente": {
-     "nombre": "Linnean Society: Edmond Albius (2019)",
-     "url": "https://linnean.org/news/2019/10/16/edmond-albius"
-    },
-    "wiki": "Vanilla planifolia",
     "claves": [
      {
       "nombre": "Reunión (Francia)",
@@ -1917,11 +1895,22 @@
       "wiki": "Polinización"
      }
     ],
+    "dato": "Durante siglos, la vainilla casi solo daba fruto en México. En 1841, Edmond Albius, un niño esclavizado de 12 años en la isla de Reunión, inventó la forma de polinizarla a mano que todavía se usa.",
+    "epoca": "1841",
+    "explicacion": "La vainilla es una orquídea nativa de México; los totonacas de la región de Papantla la cultivaban mucho antes de los españoles. Llevada a otras tierras, la planta florecía pero casi no daba vainas: faltaban sus [[polinizadores|Animales que llevan el polen de una flor a otra; en la vainilla mexicana, ciertas abejas.]] naturales.\n\nAlbius descubrió que, con una varita fina, se levanta la membrana que separa las partes de la flor y, con el pulgar, se unen. Gracias a eso, Reunión y luego Madagascar se volvieron grandes productores. Albius fue liberado en 1848, con la abolición de la esclavitud en las colonias francesas, y murió pobre en 1880.",
+    "fecha": "2026-11-26",
+    "fuente": {
+     "nombre": "Linnean Society: Edmond Albius (2019)",
+     "url": "https://linnean.org/news/2019/10/16/edmond-albius"
+    },
+    "materia": "Gastronomía, vino y destilados",
+    "pilar": "gusto",
     "repaso": {
      "pregunta": "¿Qué descubrió Edmond Albius en 1841?",
      "respuesta": "Cómo polinizar la vainilla a mano, con una varita y el pulgar; así pudo cultivarse fuera de México."
     },
-    "fecha": "2026-11-26"
+    "titulo": "La vainilla mexicana conquistó el mundo gracias a un niño de 12 años",
+    "wiki": "Vanilla planifolia"
    },
    {
     "claves": [
@@ -2068,6 +2057,36 @@
   ],
   "Historia y geopolítica": [
    {
+    "materia": "Historia y geopolítica",
+    "pilar": "mundo",
+    "epoca": "1337–1453",
+    "titulo": "La guerra de los Cien Años duró 116 años, y no fue una sola guerra",
+    "dato": "El conflicto entre Inglaterra y Francia que llamamos guerra de los Cien Años va de 1337 a 1453: 116 años, con largas treguas en medio.",
+    "explicacion": "El nombre se lo pusieron los historiadores del siglo XIX, no quienes la vivieron. Para ellos fueron varias guerras y paces sucesivas por una pregunta de fondo: si el rey de Inglaterra, que tenía tierras en Francia, podía ser también rey de Francia. Hubo batallas célebres (Crécy, Poitiers, Agincourt), años de peste negra y una campesina, Juana de Arco, que cambió el rumbo en 1429.\n\nEl resultado fue más grande que cualquier batalla. Inglaterra perdió casi todo lo que tenía en el continente y miró hacia el mar. Francia salió con un ejército permanente y un rey más fuerte. Muchos historiadores ven en esos 116 años el nacimiento de dos identidades nacionales. Los nombres redondos de la historia simplifican: conviene revisar las fechas.",
+    "fuente": {
+     "nombre": "Encyclopaedia Britannica: Hundred Years' War",
+     "url": "https://www.britannica.com/event/Hundred-Years-War"
+    },
+    "wiki": "Guerra de los Cien Años",
+    "claves": [
+     {
+      "nombre": "Juana de Arco",
+      "quien": "La joven francesa que levantó el sitio de Orleans en 1429.",
+      "wiki": "Juana de Arco"
+     },
+     {
+      "nombre": "Batalla de Crécy",
+      "quien": "La victoria inglesa de 1346 que mostró el poder del arco largo.",
+      "wiki": "Batalla de Crécy"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cuántos años duró la guerra de los Cien Años?",
+     "respuesta": "116, de 1337 a 1453, con treguas largas; el nombre se lo dieron historiadores del siglo XIX."
+    },
+    "fecha": "2026-11-27"
+   },
+   {
     "claves": [
      {
       "nombre": "Muerte de Cleopatra",
@@ -2204,45 +2223,48 @@
     },
     "titulo": "Alemania nació y fue humillada en la misma sala",
     "wiki": "Tratado de Versalles (1919)"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Emperador de los franceses",
-      "quien": "El título que Napoleón se dio en 1804.",
-      "wiki": "Emperador de los franceses"
-     },
-     {
-      "nombre": "Tratado de Amiens",
-      "quien": "La paz de 1802 con Gran Bretaña; al romperse, empezó la guerra de caricaturas.",
-      "wiki": "Tratado de Amiens (1802)"
-     }
-    ],
-    "dato": "Napoleón medía unos 1.68 metros, un poco más que el francés promedio de su época. El mito del emperador diminuto nació de una confusión de unidades y de la propaganda británica.",
-    "epoca": "Siglo XIX",
-    "explicacion": "Sus allegados dieron «5 pies 2 pulgadas», pero en medidas francesas, que eran más largas que las inglesas. Leídas como inglesas, salen unos 1.57 metros: de ahí el error.\n\nEl resto lo hizo el caricaturista [[James Gillray|Caricaturista británico (1756–1815) que dibujaba a Napoleón como un hombrecillo colérico, «Little Boney».]]. Desde 1803 lo dibujó diminuto y furioso. La imagen duró más que los hechos: es propaganda visual que todavía funciona dos siglos después.",
-    "fecha": "2026-11-11",
-    "fuente": {
-     "nombre": "History.com: Was Napoleon short?",
-     "url": "https://www.history.com/articles/napoleon-complex-short"
-    },
-    "imagen": {
-     "alt": "Caricatura antigua de un Napoleón pequeño horneando figuras",
-     "credito": "Wikimedia Commons",
-     "pie": "«Tiddy-Doll», caricatura de James Gillray (1806)",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gillray-Tiddy-Doll.png?width=900"
-    },
-    "materia": "Historia y geopolítica",
-    "pilar": "mundo",
-    "repaso": {
-     "pregunta": "¿Cuánto medía Napoleón y por qué se cree que era bajo?",
-     "respuesta": "Unos 1.68 m. El mito viene de leer medidas francesas como inglesas y de las caricaturas de Gillray."
-    },
-    "titulo": "Napoleón no era bajo",
-    "wiki": "Napoleón Bonaparte"
    }
   ],
   "IA y el futuro": [
+   {
+    "materia": "IA y el futuro",
+    "pilar": "futuro",
+    "epoca": "c. 820",
+    "titulo": "La palabra «algoritmo» es el nombre de un sabio de Bagdad",
+    "dato": "«Algoritmo» viene de *Algoritmi*, la forma latina del nombre de al-Juarismi, matemático que trabajó en la Casa de la Sabiduría de Bagdad hacia el siglo IX. De otro libro suyo viene la palabra «álgebra».",
+    "explicacion": "Al-Juarismi (c. 780–c. 850) escribió un tratado sobre cómo calcular con los numerales indios, los que hoy llamamos arábigos, con el cero incluido. En el siglo XII se tradujo al latín con un título que empezaba *Algoritmi de numero Indorum*: «Algoritmi, sobre los números de los indios». Su nombre se volvió sinónimo del método. Su otro libro, sobre *al-jabr* («restaurar» los términos de una ecuación), dio «álgebra».\n\nCada vez que se dice que un algoritmo decide qué ves en una red o qué crédito te dan, se repite el nombre de un hombre que vivió hace 1,200 años. Un [[algoritmo|Serie finita de pasos precisos para resolver un problema; puede seguirla una persona o una máquina.]] no es magia: es una receta paso a paso. Y la receta para calcular con decimales la llevó a Europa un libro de Bagdad.",
+    "fuente": {
+     "nombre": "Encyclopaedia Britannica: al-Khwarizmi",
+     "url": "https://www.britannica.com/biography/al-Khwarizmi"
+    },
+    "wiki": "Al-Juarismi",
+    "claves": [
+     {
+      "nombre": "Casa de la Sabiduría",
+      "quien": "El centro de traducción y ciencia de Bagdad donde trabajó.",
+      "wiki": "Casa de la Sabiduría"
+     },
+     {
+      "nombre": "Álgebra",
+      "quien": "La rama de las matemáticas que toma su nombre de su libro sobre al-jabr.",
+      "wiki": "Álgebra"
+     },
+     {
+      "nombre": "Sistema de numeración indo-arábigo",
+      "quien": "Los diez dígitos con cero que su obra difundió.",
+      "wiki": "Sistema de numeración indo-arábigo"
+     }
+    ],
+    "profundizar": {
+     "titulo": "University of Melbourne: Why are algorithms called algorithms? (en inglés)",
+     "url": "https://findanexpert.unimelb.edu.au/news/81898-why-are-algorithms-called-algorithms"
+    },
+    "repaso": {
+     "pregunta": "¿De dónde viene la palabra «algoritmo»?",
+     "respuesta": "De Algoritmi, el nombre latinizado de al-Juarismi, matemático de la Casa de la Sabiduría de Bagdad (siglo IX)."
+    },
+    "fecha": "2026-11-27"
+   },
    {
     "claves": [
      {
@@ -2394,42 +2416,6 @@
     },
     "titulo": "Una IA predijo en dos años lo que costaba décadas",
     "wiki": "Predicción de la estructura de las proteínas"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Go",
-      "quien": "El juego antiguo que fue el gran reto de la IA hasta 2016.",
-      "wiki": "Go"
-     },
-     {
-      "nombre": "David Silver",
-      "quien": "Investigador de DeepMind que dirigió el desarrollo de AlphaGo.",
-      "wiki": "David Silver (informático)"
-     }
-    ],
-    "dato": "En marzo de 2016, en la segunda partida contra Lee Sedol, AlphaGo hizo la «jugada 37». Según DeepMind, la probabilidad de que un humano la jugara era de 1 entre 10,000.",
-    "epoca": "2016",
-    "explicacion": "AlphaGo aprendió de partidas humanas y luego jugando millones contra sí mismo. Así encontró jugadas que la tradición del [[go|Juego de mesa chino de más de 2,500 años, con muchas más posiciones posibles que el ajedrez.]] descartaba. Los comentaristas creyeron que era un error; resultó decisiva.\n\nAlphaGo ganó 4 a 1. La única victoria de Lee fue en la cuarta partida, con su propia jugada de 1 entre 10,000. En 2019 se retiró y dijo: «Aunque llegue a ser el número uno, hay una entidad que no puede ser derrotada».",
-    "fecha": "2026-11-11",
-    "fuente": {
-     "nombre": "Google DeepMind: AlphaGo",
-     "url": "https://deepmind.google/research/projects/alphago/"
-    },
-    "imagen": {
-     "alt": "Retrato de un hombre joven con lentes",
-     "credito": "Wikimedia Commons",
-     "pie": "Lee Sedol en 2012",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lee_Se-dol_2012.jpg?width=900"
-    },
-    "materia": "IA y el futuro",
-    "pilar": "futuro",
-    "repaso": {
-     "pregunta": "¿Qué fue la «jugada 37» de AlphaGo?",
-     "respuesta": "Una jugada de la segunda partida contra Lee Sedol (2016) que un humano haría con probabilidad de 1 entre 10,000; ayudó a ganar."
-    },
-    "titulo": "La jugada que un humano no habría hecho",
-    "wiki": "Go por computadora"
    }
   ],
   "Inversión y finanzas personales": [
@@ -2753,6 +2739,41 @@
   ],
   "Literatura y mitología": [
    {
+    "materia": "Literatura y mitología",
+    "pilar": "cultura",
+    "epoca": "2026",
+    "titulo": "El Nobel de 2026 fue para una profesora de griego que descubrió a Safo a los 15 años",
+    "dato": "Anne Carson, canadiense, ganó el Nobel de Literatura 2026. Se enamoró del griego antiguo cuando, adolescente, encontró en una librería de Ontario un libro de Safo con el texto griego y la traducción inglesa enfrente.",
+    "explicacion": "La Academia Sueca premió una obra «audaz e inventiva» que, en «diálogo lúdico con la tradición clásica», creó formas nuevas. Carson enseñó latín y griego, tradujo a Safo y escribió *Autobiography of Red*, una novela en verso que convierte el mito de Heracles y el monstruo Gerión en una historia de amor moderna. En *Nox*, una elegía por su hermano, usó un poema de Catulo y un libro con forma de caja y páginas en acordeón.\n\nEl dato importa porque rompe un prejuicio: que los clásicos son museo. Una poeta del siglo VII a. C. le dio a una lectora del siglo XX el material para la literatura más nueva del XXI. Leer a los antiguos no es mirar atrás; puede ser la forma de inventar.",
+    "fuente": {
+     "nombre": "Nobel Prize Outreach: Text for students, Literature 2026",
+     "url": "https://www.nobelprize.org/educational/nobel-prize-lessons/text-for-students-literature-2026/"
+    },
+    "wiki": "Anne Carson",
+    "claves": [
+     {
+      "nombre": "Safo",
+      "quien": "Poeta griega de Lesbos (siglo VII a. C.) que Carson tradujo.",
+      "wiki": "Safo"
+     },
+     {
+      "nombre": "Gerión",
+      "quien": "El monstruo mítico que protagoniza Autobiography of Red.",
+      "wiki": "Gerión"
+     },
+     {
+      "nombre": "Premio Nobel de Literatura",
+      "quien": "El premio que la Academia Sueca otorga cada octubre.",
+      "wiki": "Premio Nobel de Literatura"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cómo descubrió Anne Carson el griego antiguo?",
+     "respuesta": "A los 15 años, con un libro de Safo bilingüe que encontró en una librería de Ontario."
+    },
+    "fecha": "2026-11-27"
+   },
+   {
     "claves": [
      {
       "nombre": "Los tres mosqueteros",
@@ -2878,17 +2899,6 @@
   ],
   "Mente y decisiones": [
    {
-    "materia": "Mente y decisiones",
-    "pilar": "mente",
-    "epoca": "Siglo XX",
-    "titulo": "Con 23 personas en una sala, ya es probable que dos cumplan años el mismo día",
-    "dato": "Basta reunir a 23 personas para que la probabilidad de que dos compartan cumpleaños sea de 50.7%. Con 70 personas sube a 99.9%.",
-    "explicacion": "La intuición falla porque pensamos en *nuestro* cumpleaños: que alguien coincida conmigo sí es raro. Pero la pregunta es si coinciden *dos cualesquiera*. Con 23 personas hay 253 parejas posibles, y cada una es una oportunidad de coincidencia. Lo fácil es calcular lo contrario: la probabilidad de que nadie coincida, que con 23 baja apenas de la mitad.\n\nSe le llama [[paradoja|Resultado verdadero que contradice la intuición; aquí no hay contradicción lógica, solo sorpresa.]] del cumpleaños, aunque no tiene nada de contradictorio. La lección sirve fuera de las fiestas: las «coincidencias increíbles» casi siempre son esperables cuando hay muchas combinaciones posibles. Antes de ver una conspiración en una casualidad, cuenta las parejas.",
-    "fuente": {
-     "nombre": "Wikipedia (inglés): Birthday problem",
-     "url": "https://en.wikipedia.org/wiki/Birthday_problem"
-    },
-    "wiki": "Paradoja del cumpleaños",
     "claves": [
      {
       "nombre": "Paradoja del cumpleaños",
@@ -2901,6 +2911,16 @@
       "wiki": "Principio del palomar"
      }
     ],
+    "dato": "Basta reunir a 23 personas para que la probabilidad de que dos compartan cumpleaños sea de 50.7%. Con 70 personas sube a 99.9%.",
+    "epoca": "Siglo XX",
+    "explicacion": "La intuición falla porque pensamos en *nuestro* cumpleaños: que alguien coincida conmigo sí es raro. Pero la pregunta es si coinciden *dos cualesquiera*. Con 23 personas hay 253 parejas posibles, y cada una es una oportunidad de coincidencia. Lo fácil es calcular lo contrario: la probabilidad de que nadie coincida, que con 23 baja apenas de la mitad.\n\nSe le llama [[paradoja|Resultado verdadero que contradice la intuición; aquí no hay contradicción lógica, solo sorpresa.]] del cumpleaños, aunque no tiene nada de contradictorio. La lección sirve fuera de las fiestas: las «coincidencias increíbles» casi siempre son esperables cuando hay muchas combinaciones posibles. Antes de ver una conspiración en una casualidad, cuenta las parejas.",
+    "fecha": "2026-11-26",
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Birthday problem",
+     "url": "https://en.wikipedia.org/wiki/Birthday_problem"
+    },
+    "materia": "Mente y decisiones",
+    "pilar": "mente",
     "profundizar": {
      "titulo": "Harvey Mudd College, Math Fun Facts: The Birthday Problem (en inglés)",
      "url": "https://math.hmc.edu/funfacts/?p=206"
@@ -2909,7 +2929,8 @@
      "pregunta": "¿Cuántas personas hacen falta para que sea más probable que no que dos cumplan años el mismo día?",
      "respuesta": "23; la probabilidad es de 50.7% porque hay 253 parejas posibles."
     },
-    "fecha": "2026-11-26"
+    "titulo": "Con 23 personas en una sala, ya es probable que dos cumplan años el mismo día",
+    "wiki": "Paradoja del cumpleaños"
    },
    {
     "claves": [
@@ -3052,17 +3073,6 @@
   ],
   "Música": [
    {
-    "materia": "Música",
-    "pilar": "cultura",
-    "epoca": "1859",
-    "titulo": "Francia fijó por decreto la nota La en 1859",
-    "dato": "Antes cada orquesta afinaba a su manera, y el tono subía año con año. En febrero de 1859, el gobierno francés fijó el La en 870 vibraciones simples, es decir, 435 hercios: el «diapasón normal».",
-    "explicacion": "El [[diapasón|Pieza de metal en forma de horquilla que, al golpearse, suena siempre en la misma nota; sirve para afinar.]] de la Ópera de París había subido tanto que los cantantes sufrían. En julio de 1858 se creó una comisión ligada a compositores como Auber, Berlioz, Meyerbeer y Rossini. Su informe salió en *Le Moniteur universel* en 1859 y la norma quedó fijada ese febrero.\n\nOtros países copiaron la idea. En 1939, una conferencia internacional en Londres acordó el La en 440 Hz, y la norma ISO 16 lo confirmó en 1955. Cuando hoy una orquesta afina con el oboe, repite un acuerdo nacido de una queja francesa.",
-    "fuente": {
-     "nombre": "Larousse, Dictionnaire de la musique: Diapason",
-     "url": "https://www.larousse.fr/encyclopedie/musdico/diapason/167216"
-    },
-    "wiki": "Tono de concierto",
     "claves": [
      {
       "nombre": "La (nota)",
@@ -3075,11 +3085,22 @@
       "wiki": "Afinación"
      }
     ],
+    "dato": "Antes cada orquesta afinaba a su manera, y el tono subía año con año. En febrero de 1859, el gobierno francés fijó el La en 870 vibraciones simples, es decir, 435 hercios: el «diapasón normal».",
+    "epoca": "1859",
+    "explicacion": "El [[diapasón|Pieza de metal en forma de horquilla que, al golpearse, suena siempre en la misma nota; sirve para afinar.]] de la Ópera de París había subido tanto que los cantantes sufrían. En julio de 1858 se creó una comisión ligada a compositores como Auber, Berlioz, Meyerbeer y Rossini. Su informe salió en *Le Moniteur universel* en 1859 y la norma quedó fijada ese febrero.\n\nOtros países copiaron la idea. En 1939, una conferencia internacional en Londres acordó el La en 440 Hz, y la norma ISO 16 lo confirmó en 1955. Cuando hoy una orquesta afina con el oboe, repite un acuerdo nacido de una queja francesa.",
+    "fecha": "2026-11-26",
+    "fuente": {
+     "nombre": "Larousse, Dictionnaire de la musique: Diapason",
+     "url": "https://www.larousse.fr/encyclopedie/musdico/diapason/167216"
+    },
+    "materia": "Música",
+    "pilar": "cultura",
     "repaso": {
      "pregunta": "¿Qué fijó Francia en 1859 y qué se acordó en 1939?",
      "respuesta": "El La en 435 Hz (diapasón normal); en 1939 se acordó internacionalmente el La en 440 Hz."
     },
-    "fecha": "2026-11-26"
+    "titulo": "Francia fijó por decreto la nota La en 1859",
+    "wiki": "Tono de concierto"
    },
    {
     "claves": [
@@ -3334,6 +3355,40 @@
   ],
   "Oficios del lujo y estilo": [
    {
+    "materia": "Oficios del lujo y estilo",
+    "pilar": "gusto",
+    "epoca": "1927",
+    "titulo": "Rolex probó su reloj impermeable en la muñeca de una nadadora",
+    "dato": "El 7 de octubre de 1927, la taquígrafa londinense Mercedes Gleitze se convirtió en la primera mujer británica en cruzar a nado el canal de la Mancha. Poco después, Rolex la usó para demostrar que su nuevo reloj Oyster no dejaba pasar el agua.",
+    "explicacion": "Hans Wilsdorf, fundador de Rolex, había patentado una caja hermética, la Oyster. Le faltaba una prueba que el público creyera. Cuando se dudó del récord de Gleitze, ella aceptó repetir el nado en agua mucho más fría, llevando un Oyster. No terminó el cruce, pero el reloj salió funcionando y Rolex lo convirtió en una campaña publicitaria en Gran Bretaña.\n\nFue uno de los primeros casos de lo que hoy llamamos un [[embajador de marca|Persona conocida que usa y promueve un producto; su historia presta credibilidad a lo que la marca promete.]]. La lección sigue vigente en el lujo: una afirmación técnica («es impermeable») convence más cuando viene con una historia humana y una prueba extrema que cuando viene en un folleto.",
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Mercedes Gleitze",
+     "url": "https://en.wikipedia.org/wiki/Mercedes_Gleitze"
+    },
+    "wiki": "Rolex",
+    "claves": [
+     {
+      "nombre": "Hans Wilsdorf",
+      "quien": "El fundador de Rolex (1881–1960), obsesionado con la precisión y la hermeticidad.",
+      "wiki": "Hans Wilsdorf"
+     },
+     {
+      "nombre": "Canal de la Mancha",
+      "quien": "El brazo de mar entre Inglaterra y Francia, prueba clásica de natación de resistencia.",
+      "wiki": "Canal de la Mancha"
+     }
+    ],
+    "profundizar": {
+     "titulo": "Country Life: el reloj de la primera mujer británica que cruzó el Canal (en inglés)",
+     "url": "https://www.countrylife.co.uk/luxury/this-watch-was-worn-by-the-first-woman-to-swim-the-english-channel-changing-the-horological-world-forever-now-its-going-under-the-hammer"
+    },
+    "repaso": {
+     "pregunta": "¿Qué demostró Rolex con Mercedes Gleitze en 1927?",
+     "respuesta": "Que su caja Oyster era hermética: el reloj resistió horas en el agua fría del canal de la Mancha."
+    },
+    "fecha": "2026-11-27"
+   },
+   {
     "claves": [
      {
       "nombre": "Renault FT-17",
@@ -3475,43 +3530,43 @@
     },
     "titulo": "Las semillas del quilate no pesaban todas igual",
     "wiki": "Quilate"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Reloj mecánico",
-      "quien": "El tipo de reloj cuyo movimiento debe ser suizo para llevar la etiqueta.",
-      "wiki": "Reloj mecánico"
-     },
-     {
-      "nombre": "Suiza",
-      "quien": "El país cuya ley de 2017, llamada «Swissness», protege su nombre en productos.",
-      "wiki": "Suiza"
-     }
-    ],
-    "dato": "Desde el 1 de enero de 2017, un reloj solo puede llevar «Swiss made» si al menos el 60% de sus costos de fabricación se generan en Suiza. Antes no había ningún umbral para el reloj completo.",
-    "epoca": "2017",
-    "explicacion": "La regla vieja, de 1971, se fijaba sobre todo en el [[movimiento|El mecanismo interior que mueve las manecillas; el «motor» del reloj.]]: bastaba que fuera suizo, con al menos 50% del valor de sus piezas. La caja, la carátula o el cristal podían venir de cualquier parte. La revisión aprobada en 2016 sumó el 60% para todo el reloj, y también exige desarrollo técnico, encajado e inspección final en Suiza.\n\nPor qué importa: dos palabras en una carátula valen dinero, y por eso se regulan como una denominación de origen. Es la misma lógica que el tequila: lo que se protege no es una marca, sino la promesa de un lugar.",
-    "fecha": "2026-11-11",
-    "fuente": {
-     "nombre": "Instituto Federal Suizo de la Propiedad Intelectual: revisión de la ordenanza «Swiss» para relojes",
-     "url": "https://www.ige.ch/en/law-and-policy/national-ip-law/indications-of-source/swiss-indications-of-source/industry-ordinances/revision-of-the-ordinance-on-the-use-of-swiss-for-watches"
-    },
-    "materia": "Oficios del lujo y estilo",
-    "pilar": "gusto",
-    "profundizar": {
-     "titulo": "Federación de la Industria Relojera Suiza: guía «Swiss made» (en inglés, PDF)",
-     "url": "https://www.fhs.swiss/file/8/Guide_FH_v.5_en.pdf"
-    },
-    "repaso": {
-     "pregunta": "¿Qué exige desde 2017 la etiqueta «Swiss made» en un reloj?",
-     "respuesta": "Al menos 60% de los costos de fabricación del reloj completo en Suiza, movimiento suizo, y desarrollo, encajado e inspección final en Suiza."
-    },
-    "titulo": "«Swiss made» exige 60% del costo en Suiza",
-    "wiki": "Relojería"
    }
   ],
   "Productos digitales escalables": [
+   {
+    "materia": "Productos digitales escalables",
+    "pilar": "patrimonio",
+    "epoca": "1984",
+    "titulo": "El creador de Tetris no cobró regalías durante más de una década",
+    "dato": "Alekséi Pázhitnov creó Tetris en Moscú a mediados de los años ochenta. El juego vendió millones de copias en todo el mundo, pero él no recibió regalías hasta que fundó The Tetris Company en 1996.",
+    "explicacion": "Pázhitnov trabajaba en un centro de computación de la Academia de Ciencias de la URSS. Como empleado del Estado soviético, lo que programaba no era suyo. Los derechos los gestionó **Elorg**, la empresa estatal que tenía el monopolio de exportar software. Durante años, distintas compañías occidentales, entre ellas Nintendo, se pelearon por las licencias mientras el autor seguía cobrando su sueldo.\n\nCon la caída de la URSS, los derechos volvieron a él. En 1996 fundó The Tetris Company con **Henk Rogers**, el empresario que había llevado el juego al Game Boy. La lección para cualquier creador: un producto digital puede copiarse infinitamente, pero el dinero sigue a quien es dueño de la propiedad intelectual. Antes de crear para otro, lee quién se queda con los derechos.",
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Alexey Pajitnov",
+     "url": "https://en.wikipedia.org/wiki/Alexey_Pajitnov"
+    },
+    "wiki": "Tetris",
+    "claves": [
+     {
+      "nombre": "Propiedad intelectual",
+      "quien": "Los derechos sobre una creación, que determinan quién cobra por ella.",
+      "wiki": "Propiedad intelectual"
+     },
+     {
+      "nombre": "Game Boy",
+      "quien": "La consola de Nintendo (1989) que convirtió a Tetris en un éxito mundial.",
+      "wiki": "Game Boy"
+     }
+    ],
+    "profundizar": {
+     "titulo": "Xataka: Pázhitnov tardó una década en recibir la fortuna de Tetris",
+     "url": "https://www.xataka.com/videojuegos/aleksei-pazhitnov-tardo-decada-recibir-fortuna-que-estaba-generando-videojuego-que-habia-creado-tetris/amp"
+    },
+    "repaso": {
+     "pregunta": "¿Por qué Pázhitnov no cobró regalías de Tetris durante años?",
+     "respuesta": "Era empleado de la Academia de Ciencias soviética; los derechos los gestionaba la empresa estatal Elorg. Cobró desde que fundó The Tetris Company en 1996."
+    },
+    "fecha": "2026-11-27"
+   },
    {
     "claves": [
      {
@@ -3645,6 +3700,40 @@
    }
   ],
   "Relaciones y vida social": [
+   {
+    "materia": "Relaciones y vida social",
+    "pilar": "caracter",
+    "epoca": "2018",
+    "titulo": "Una carta de agradecimiento alegra mucho más de lo que su autor cree",
+    "dato": "En cuatro experimentos publicados en 2018, quienes escribían cartas de agradecimiento subestimaron cuánto se alegraría y sorprendería quien las recibía, y sobreestimaron cuán incómodo se sentiría.",
+    "explicacion": "Los psicólogos **Amit Kumar** y **Nicholas Epley**, de la Universidad de Chicago, pidieron a los participantes escribir a alguien que los hubiera ayudado y predecir su reacción. Después midieron la reacción real. Los que escribían temían no saber expresarse. A los receptores eso casi no les importaba: los conmovía la calidez del gesto, no la redacción.\n\nEl error de cálculo tiene consecuencias. Si creemos que agradecer vale poco o resulta raro, lo hacemos menos de lo que convendría. El estudio sugiere una regla simple: cuando dudes si mandar ese mensaje de gracias, mándalo. Tu estimación de su efecto probablemente se queda corta.",
+    "fuente": {
+     "nombre": "University of Chicago News: People underestimate value of sending letters of appreciation",
+     "url": "https://news.uchicago.edu/story/people-underestimate-value-sending-letters-appreciation"
+    },
+    "wiki": "Gratitud",
+    "claves": [
+     {
+      "nombre": "Psicología social",
+      "quien": "La rama que estudia cómo pensamos y sentimos ante los demás.",
+      "wiki": "Psicología social"
+     },
+     {
+      "nombre": "Universidad de Chicago",
+      "quien": "Donde trabajaban los autores del estudio (Booth School of Business).",
+      "wiki": "Universidad de Chicago"
+     }
+    ],
+    "profundizar": {
+     "titulo": "Kumar y Epley (2018), Undervaluing Gratitude, en PubMed (en inglés)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29949445/"
+    },
+    "repaso": {
+     "pregunta": "¿Qué error cometían quienes escribían cartas de agradecimiento en el estudio de 2018?",
+     "respuesta": "Subestimaban la alegría y la sorpresa del receptor y sobreestimaban su incomodidad."
+    },
+    "fecha": "2026-11-27"
+   },
    {
     "claves": [
      {
@@ -3780,36 +3869,6 @@
     },
     "titulo": "Una sonrisa falsa se delata en los ojos",
     "wiki": "Sonrisa de Duchenne"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Relación interpersonal",
-      "quien": "El vínculo entre dos personas, que puede empezar con una charla de 14 minutos.",
-      "wiki": "Relación interpersonal"
-     },
-     {
-      "nombre": "Conversación de ascensor",
-      "quien": "La plática breve con desconocidos que solemos evitar.",
-      "wiki": "Conversación de ascensor"
-     }
-    ],
-    "dato": "En un experimento de 2014 en Chicago, los viajeros a quienes se pidió conversar con un desconocido disfrutaron más el trayecto. Otro grupo había predicho justo lo contrario.",
-    "epoca": "2014",
-    "explicacion": "Nicholas Epley y Juliana Schroeder, de la Universidad de Chicago, trabajaron con viajeros del tren suburbano. Las conversaciones duraron unos 14 minutos en promedio, y quienes hablaron no fueron menos productivos. El resultado se repitió en autobús.\n\nSubestimamos cuánto le interesa al otro conversar y exageramos el riesgo de rechazo. Como casi nadie se anima, casi nadie descubre que es agradable. Es una [[norma social|Regla no escrita que la mayoría sigue porque cree que los demás la siguen.]] que se sostiene sola.",
-    "fecha": "2026-11-11",
-    "fuente": {
-     "nombre": "Epley y Schroeder (2014), Journal of Experimental Psychology: General",
-     "url": "https://faculty.haas.berkeley.edu/jschroeder/Publications/Epley%26Schroeder2014.pdf"
-    },
-    "materia": "Relaciones y vida social",
-    "pilar": "caracter",
-    "repaso": {
-     "pregunta": "¿Qué encontraron Epley y Schroeder en 2014 con viajeros de tren?",
-     "respuesta": "Que conversar con un desconocido hizo el viaje más agradable, aunque la gente predecía lo contrario."
-    },
-    "titulo": "Hablar con un extraño en el tren mejora el viaje",
-    "wiki": "Psicología social"
    }
   ],
   "Religiones y grandes textos": [
@@ -4088,17 +4147,6 @@
   ],
   "Salud y longevidad": [
    {
-    "materia": "Salud y longevidad",
-    "pilar": "cuerpo",
-    "epoca": "2010",
-    "titulo": "Un placebo funcionó aunque los pacientes sabían que era placebo",
-    "dato": "En un ensayo de Harvard de 2010, pacientes con colon irritable recibieron pastillas en un frasco que decía «placebo». A las tres semanas, 59% reportó alivio adecuado, contra 35% del grupo sin tratamiento.",
-    "explicacion": "El estudio de Ted Kaptchuk y su equipo, publicado en *PLoS ONE*, incluyó a 80 pacientes. A 37 se les dijo claramente que las cápsulas no tenían ningún fármaco, pero que el [[efecto placebo|Mejoría que se produce por la expectativa y el ritual del tratamiento, no por una sustancia activa.]] puede ser poderoso. Tomaban dos, dos veces al día. Los otros 43 no recibieron nada.\n\nHay límites claros: fue pequeño, corto y midió síntomas que el paciente reporta. Un placebo no cura una infección ni un tumor. Lo que sugiere es que el ritual del cuidado, la atención y la expectativa también son parte del tratamiento, incluso sin engaño.",
-    "fuente": {
-     "nombre": "Kaptchuk et al. (2010), PLoS ONE: Placebos without Deception",
-     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3008733"
-    },
-    "wiki": "Sustancia placebo",
     "claves": [
      {
       "nombre": "Prueba controlada aleatorizada",
@@ -4111,11 +4159,22 @@
       "wiki": "Grupo de control"
      }
     ],
+    "dato": "En un ensayo de Harvard de 2010, pacientes con colon irritable recibieron pastillas en un frasco que decía «placebo». A las tres semanas, 59% reportó alivio adecuado, contra 35% del grupo sin tratamiento.",
+    "epoca": "2010",
+    "explicacion": "El estudio de Ted Kaptchuk y su equipo, publicado en *PLoS ONE*, incluyó a 80 pacientes. A 37 se les dijo claramente que las cápsulas no tenían ningún fármaco, pero que el [[efecto placebo|Mejoría que se produce por la expectativa y el ritual del tratamiento, no por una sustancia activa.]] puede ser poderoso. Tomaban dos, dos veces al día. Los otros 43 no recibieron nada.\n\nHay límites claros: fue pequeño, corto y midió síntomas que el paciente reporta. Un placebo no cura una infección ni un tumor. Lo que sugiere es que el ritual del cuidado, la atención y la expectativa también son parte del tratamiento, incluso sin engaño.",
+    "fecha": "2026-11-26",
+    "fuente": {
+     "nombre": "Kaptchuk et al. (2010), PLoS ONE: Placebos without Deception",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3008733"
+    },
+    "materia": "Salud y longevidad",
+    "pilar": "cuerpo",
     "repaso": {
      "pregunta": "¿Qué mostró el estudio de placebo abierto de 2010?",
      "respuesta": "Que pacientes con colon irritable mejoraron más con pastillas que sabían que eran placebo (59% vs 35% con alivio adecuado)."
     },
-    "fecha": "2026-11-26"
+    "titulo": "Un placebo funcionó aunque los pacientes sabían que era placebo",
+    "wiki": "Sustancia placebo"
    },
    {
     "claves": [

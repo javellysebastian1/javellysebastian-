@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26",
+ "actualizado": "2026-11-27",
  "lista": [
   {
    "episodios": [
@@ -185,8 +185,8 @@
      "titulo": "El café de París: de Le Procope a Les Deux Magots"
     },
     {
-     "titulo": "Síntesis: cómo una ciudad se vuelve sinónimo de buen gusto",
-     "fecha": "2026-11-26"
+     "fecha": "2026-11-26",
+     "titulo": "Síntesis: cómo una ciudad se vuelve sinónimo de buen gusto"
     }
    ],
    "estado": "terminada",
@@ -198,7 +198,8 @@
   {
    "episodios": [
     {
-     "titulo": "Siglo VI a. C.: el exilio en Babilonia y el nacimiento de la Biblia hebrea"
+     "titulo": "Siglo VI a. C.: el exilio en Babilonia y el nacimiento de la Biblia hebrea",
+     "fecha": "2026-11-27"
     },
     {
      "titulo": "c. 500 a. C.: Siddhartha bajo el árbol y el camino medio"

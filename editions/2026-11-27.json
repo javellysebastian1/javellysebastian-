@@ -1,0 +1,879 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-27",
+ "numero": 36,
+ "fecha": "2026-11-27",
+ "disponibleDesde": "2026-11-27T08:00:00-06:00",
+ "titulo": "Siglo VI a. C.: el exilio en Babilonia y el nacimiento de la Biblia hebrea",
+ "temporada": {
+  "id": "t07",
+  "numero": 7,
+  "titulo": "Las religiones que formaron el mundo",
+  "episodio": 1,
+  "totalEpisodios": 6
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eduard_Bendemann-_Die_trauernden_Juden_im_Exil_um_1832.jpg?width=900",
+  "alt": "Pintura de Eduard Bendemann: un grupo de exiliados judíos sentados, tristes, junto a un río, con arpas colgadas",
+  "pie": "«Los judíos afligidos en el exilio», de Eduard Bendemann (hacia 1832), inspirada en el Salmo 137.",
+  "credito": "Wikimedia Commons"
+ },
+ "calentamiento": [
+  {
+   "pregunta": "¿Qué empresa actual desciende de la fábrica de espejos que Colbert fundó en 1665?",
+   "respuesta": "Saint-Gobain, que tomó el nombre de su planta en Picardía tras fusionarse en 1695.",
+   "origen": "Edición #35"
+  },
+  {
+   "pregunta": "¿Por cuánto se ofreció Netflix a Blockbuster en 2000?",
+   "respuesta": "Por 50 millones de dólares; Blockbuster dijo que no.",
+   "origen": "Edición #35"
+  },
+  {
+   "pregunta": "¿Cuántas personas hacen falta para que sea más probable que no que dos cumplan años el mismo día?",
+   "respuesta": "23: con ellas hay 253 parejas posibles y la probabilidad llega a 50.7%.",
+   "origen": "Edición #35"
+  }
+ ],
+ "noticias": [
+  {
+   "id": "aranceles-301-nov27",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-11-25",
+   "historiaEnCurso": {
+    "id": "aranceles-eeuu-mexico",
+    "titulo": "Aranceles de EE. UU. a México y revisión del T-MEC",
+    "capitulo": 6,
+    "dondeIbamos": "El 18 de noviembre Sheinbaum y Trump se vieron unos 20 minutos en la cumbre APEC, en Shenzhen. No hubo acuerdo ni retiro de los aranceles al acero, el aluminio y los autos. Quedaron de verse en el G20 de Miami, en diciembre."
+   },
+   "titular": "Washington propone aranceles de 15 a 35% a 14 economías; México queda fuera, por ahora",
+   "quePaso": "El martes 25, la oficina comercial de Estados Unidos (USTR) propuso aranceles contra **14 de las 16 economías** que investigaba por «sobrecapacidad industrial». Usó la [[Sección 301|Parte de la Ley de Comercio de 1974 de EE. UU. que permite castigar prácticas comerciales de otros países que considera injustas.]] de la Ley de Comercio de 1974, tras una investigación de ocho meses (La Jornada).\n\nSegún El Financiero, las tasas van de **15 a 35% según el país**: Vietnam hasta 35%, India 25%, China y Singapur 20%; varios países del sudeste asiático hasta 18%; la Unión Europea, Japón, Corea del Sur, Suiza y Taiwán hasta 15%. **México y Noruega quedaron fuera.**\n\nNo es inmediato. La ley exige audiencias y consultas públicas, que según el representante comercial **Jamieson Greer** deberían terminar en unos dos meses.",
+   "aMiQue": "Dos efectos para quien vende o importa en México. Uno bueno: si tus competidores exportan a Estados Unidos desde Asia o Europa, en unos meses podrían pagar 15 a 35% más, y lo hecho en México gana precio relativo. Uno de riesgo: Washington dice que el caso mexicano sigue abierto y que ve «exceso de capacidad» aquí, sobre todo por insumos chinos que entran en lo que se exporta. Si tu producto usa componentes chinos, conviene saber cuántos y de dónde vienen antes de que alguien te lo pregunte.",
+   "contexto": "**Hecho:** Greer dijo a CNBC, según El Financiero: «Creo que el más importante de los países que quedaron fuera de esta lista es México», y añadió que siguen conversando «sobre cómo podemos controlar el superávit comercial con México». También: «Consideramos que también existe un problema de exceso de capacidad allí».\n\n**Hecho:** según La Jornada (con Reuters y AP), las medidas podrían cubrir cerca de tres quintas partes de lo que importa Estados Unidos. La tregua comercial con China vence el 10 de enero de 2027.\n\n**Hecho:** hay una discrepancia entre medios. La Silla Rota tituló «hasta 20%»; El Financiero y La Jornada dan el desglose de 15 a 35%. Aquí usamos el desglose.\n\n**Interpretación:** México no ganó; aplazó. Kenneth Smith, exjefe negociador del T-MEC, lo resumió en El Financiero: la exclusión es solo de esta medida de la 301.",
+   "queVigilar": "La reunión Sheinbaum–Trump en el G20 de Miami, en diciembre, y si el USTR pone fecha para cerrar la revisión del caso mexicano.",
+   "fuentes": [
+    {
+     "nombre": "El Financiero: México libra nueva ola de aranceles de Trump (26 nov 2026)",
+     "url": "https://www.elfinanciero.com.mx/economia/2026/11/26/mexico-libra-nueva-ola-de-aranceles-de-trump-hemos-tenido-buenas-conversaciones-dice-jamieson-greer/"
+    },
+    {
+     "nombre": "La Jornada: Castiga EU a 14 socios; México, aún en la mira (26 nov 2026)",
+     "url": "https://jornada.com.mx/2026/11/26/economia/018n1eco"
+    },
+    {
+     "nombre": "La Silla Rota: México queda fuera de nueva oleada de aranceles (25 nov 2026)",
+     "url": "https://lasillarota.com/negocios/2026/11/25/trump-va-por-aranceles-a-14-socios-mexico-excluido-por-ahora-538898.html"
+    }
+   ]
+  },
+  {
+   "id": "agua-pipas-nov27",
+   "ambito": "guadalajara",
+   "ambitoTexto": "Guadalajara",
+   "fecha": "2026-11-26",
+   "historiaEnCurso": {
+    "id": "agua-gdl",
+    "titulo": "Crisis del agua en Guadalajara",
+    "capitulo": 18,
+    "dondeIbamos": "El 22 de noviembre hubo la cuarta Megamarcha por el Agua Limpia. El SIAPA había dicho que operaban 2 de 3 bombeos y que el tercero entraría el 2 o 3 de diciembre."
+   },
+   "titular": "Un mes de pipas: 57 millones de litros a 694 colonias de la zona metropolitana",
+   "quePaso": "El jueves 26, la Comisión Estatal del Agua (CEA) y los ayuntamientos dieron el balance del operativo emergente de pipas. Del **24 de octubre al 22 de noviembre** repartieron cerca de **57 millones de litros** en **694 colonias**, con **4,546 cargas** registradas por GPS (Quadratín, Notisistema, Meganoticias).\n\nEmpezaron con 13 pipas; en la última semana hábil circularon entre 149 y 161 al día. Recibieron 29,712 reportes y atendieron con pipa 19,932, el 71% de los que pudieron ubicar. Hubo 322 entregas a 34 hospitales y clínicas.\n\nGuadalajara reportó 278 colonias atendidas y más de 30,000 familias con tinacos, filtros y cloración. Zapopan, unas 210 colonias en ocho polígonos.",
+   "aMiQue": "Para un negocio en la zona, la lección es de continuidad. Si tu operación depende del agua de la red (una cocina, un laboratorio, una planta de llenado), un mes de tandeos ya no es una hipótesis. Vale la pena calcular cuánta agua necesitas por día, cuántos días aguanta tu cisterna y con qué proveedor de pipas contarías. Y si vendes a hogares, el tinaco, el filtro y el agua embotellada son hoy gasto prioritario para miles de familias.",
+   "contexto": "**Hecho:** el director de la CEA, **Luis Enrique Barboza Niño**, dijo que la pipa «responde a una medida de necesidad inmediata» y que el objetivo es la «regularización del servicio a través de las redes de distribución» (Notisistema). No dio fecha.\n\n**Hecho:** las notas del balance no explican la causa técnica del desabasto; hablan de un «esquema de rotación».\n\n**Interpretación:** 57 millones de litros parece mucho, pero equivale a unos 22 litros por segundo durante un mes. El faltante que reconocía el SIAPA el 19 de noviembre era de unos 400 litros por segundo. Las pipas tapan urgencias; no sustituyen la red.",
+   "queVigilar": "Si el tercer bombeo entra el 2 o 3 de diciembre, como prometió el SIAPA, y si con eso se reduce el número de pipas diarias.",
+   "fuentes": [
+    {
+     "nombre": "Quadratín Jalisco: Distribuyen Gobierno y municipios cerca de 57 millones de litros de agua (26 nov 2026)",
+     "url": "https://jalisco.quadratin.com.mx/principal/distribuyen-gobierno-y-municipios-cerca-de-57-millones-de-litros-de-agua/"
+    },
+    {
+     "nombre": "Notisistema: CEA ha distribuido cincuenta y siete millones de litros de agua en pipas (26 nov 2026)",
+     "url": "https://www.notisistema.com/noticias/cea-ha-distribuido-cincuenta-y-siete-millones-de-litros-de-agua-en-pipas/"
+    },
+    {
+     "nombre": "Meganoticias: Distribuyen 57 millones de litros de agua en 694 colonias (26 nov 2026)",
+     "url": "https://www.meganoticias.mx/guadalajara/noticia/distribuyen-57-millones-de-litros-de-agua-en-694-colonias/792661"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "En 587 a. C. un pueblo perdió su templo, su rey y su tierra. En vez de desaparecer, escribió un libro que hoy se lee en todo el mundo.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eduard_Bendemann-_Die_trauernden_Juden_im_Exil_um_1832.jpg?width=900",
+     "alt": "Pintura de Eduard Bendemann: un grupo de exiliados judíos sentados, tristes, junto a un río, con arpas colgadas",
+     "pie": "«Los judíos afligidos en el exilio», de Eduard Bendemann (hacia 1832), inspirada en el Salmo 137.",
+     "credito": "Wikimedia Commons"
+    },
+    "contexto": "Jerusalén, verano de 587 o 586 a. C. El ejército de [[Nabucodonosor II|Rey de Babilonia (reinó c. 605–562 a. C.); convirtió a Babilonia en la gran potencia de Oriente Próximo.]] rompe las murallas después de un largo asedio. Quema el templo que, según la tradición, había construido Salomón. Al rey de Judá le sacan los ojos y se lo llevan encadenado.\n\nNo es la primera deportación. Diez años antes, hacia 598/597 a. C., Babilonia ya se había llevado a la élite: sacerdotes, escribas, artesanos. Ahora se lleva a otro grupo grande. Los dejan vivir en asentamientos cerca de los canales del Éufrates.\n\nPara un pueblo de la Antigüedad, eso solía ser el final. Su dios vivía en un templo, en una tierra concreta. Sin templo y sin tierra, lo normal era adoptar a los dioses del vencedor y desaparecer en dos o tres generaciones. Así se borraron muchos pueblos vecinos.\n\nEste pueblo no se borró.",
+    "pregunta": "Sin templo, sin rey y sin tierra, ¿qué hizo ese pueblo para no desaparecer?",
+    "opciones": [
+     "Construyó un templo nuevo en Babilonia para seguir con sus sacrificios",
+     "Reunió y fijó por escrito su historia y sus leyes, y convirtió sus costumbres en una identidad que podía llevar a cualquier parte",
+     "Se mezcló con los babilonios y adoptó a su dios Marduk"
+    ]
+   },
+   {
+    "tipo": "historia",
+    "titulo": "Junto a los ríos de Babilonia",
+    "texto": "Hay un poema que guarda el ánimo de esos años. Es el [[Salmo 137|Uno de los 150 salmos de la Biblia hebrea; recuerda el exilio y es de los pocos que se pueden fechar con cierta seguridad.]]: «Junto a los ríos de Babilonia, allí nos sentábamos y llorábamos, acordándonos de Sion». Los exiliados cuelgan sus arpas en los sauces. Sus captores les piden canciones. Ellos responden: «¿Cómo cantaremos el canto del Señor en tierra extraña?».\n\nLa pregunta no era solo poética. Era práctica. Si Dios habitaba en el templo de Jerusalén, ¿cómo se le adoraba a 900 kilómetros de distancia, sin altar ni sacrificios?\n\nEntre los deportados había un sacerdote llamado **Ezequiel**. Vivía junto al canal de Quebar y tuvo visiones que la Biblia conserva. En una de ellas, la «gloria» de Dios sale del templo y se va. El mensaje era radical para la época: Dios no estaba atado a un lugar. Podía estar con su pueblo en el destierro.\n\nLos exiliados no estaban en campos de prisioneros. Podían casarse, trabajar y comprar casas. El profeta Jeremías, desde Jerusalén, les escribió una carta que la Biblia también guarda: «Edifiquen casas y habítenlas; planten huertos». Es decir: esto va para largo.\n\nY fue largo. Casi 50 años después, en 539 a. C., el rey persa [[Ciro el Grande|Fundador del Imperio persa aqueménida (c. 600–530 a. C.); conquistó Babilonia sin una gran batalla en 539 a. C.]] entró en Babilonia. Al año siguiente, en 538 a. C., permitió volver a quienes quisieran. Muchos se quedaron. Los que regresaron reconstruyeron el templo, que se terminó hacia 516–515 a. C.\n\nPero ya no eran los mismos que habían salido."
+   },
+   {
+    "tipo": "giro",
+    "titulo": "El templo se volvió libro",
+    "texto": "La respuesta correcta es la segunda. En el exilio y en las décadas siguientes, este pueblo convirtió su identidad en algo **portátil**.\n\nPrimero, el texto. Para muchos historiadores de la Biblia, el exilio y la época persa fueron decisivos para reunir, editar y fijar por escrito tradiciones más antiguas: la [[Torá|Los cinco primeros libros de la Biblia hebrea (Génesis a Deuteronomio); en la tradición judía y cristiana se atribuyen a Moisés.]] y los libros que cuentan la historia de los reyes. La tradición religiosa atribuye la Torá a Moisés; la investigación académica discute cuánto se escribió antes y cuánto después del destierro. Pero casi nadie duda de que esos años le dieron su forma de colección.\n\nSegundo, las prácticas que no necesitan templo. El **sábado**, la circuncisión y las normas sobre los alimentos se volvieron marcas de quién eras. Se pueden cumplir en Babilonia, en Alejandría o en Guadalajara.\n\nTercero, la palabra **[[diáspora|Del griego «dispersión»; así se llamó primero a las comunidades judías que vivían fuera de la tierra de Israel.]]**. Muchos nunca volvieron. La comunidad judía de Babilonia duró unos 2,500 años: ahí se compiló, siglos después, el Talmud de Babilonia, y siguió viva en Irak hasta mediados del siglo XX.\n\nLo que sorprende es la inversión. El imperio que destruyó el templo, Babilonia, hoy es un sitio arqueológico. El pueblo que perdió el templo sigue leyendo el libro que fijó en su ausencia."
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "La identidad portátil",
+    "texto": "Los exiliados de Babilonia resolvieron un problema que tiene cualquier organización: ¿qué pasa con nosotros si perdemos el lugar? Su respuesta se puede convertir en tres preguntas.\n\n**1. ¿Qué es lo esencial que no depende de un lugar?** No el edificio, sino las ideas, los criterios y las historias que explican por qué existes.\n\n**2. ¿Está escrito?** Lo que solo vive en la memoria de dos o tres personas desaparece con ellas. Lo escrito se puede copiar, enseñar y discutir.\n\n**3. ¿Se practica con regularidad?** El sábado funcionaba porque se repetía cada siete días, en cualquier ciudad. Un valor que no tiene un ritual concreto se olvida.\n\nSi las tres respuestas son sí, tu identidad sobrevive a una mudanza, a una crisis o a un cambio de dueño. Si alguna es no, depende de un edificio."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "Marcas sin fábrica y familias sin fundador",
+    "texto": "**Una marca que maquila.** Muchas marcas premium no tienen planta propia: fabrican con terceros. Su «templo» no es la fábrica. Es su fórmula, su manual de marca y la forma fija en que atienden a un cliente. Si eso está escrito y se practica igual cada semana, la marca puede cambiar de proveedor sin perder lo que es.\n\n**Una empresa familiar mexicana.** Cuando muere el fundador, muchas se pelean o se venden. Las que sobreviven suelen tener un [[protocolo familiar|Documento que pactan los miembros de una familia empresaria para regular cómo se gobierna la empresa, quién entra y cómo se resuelven los conflictos.]]: un texto que fija valores y reglas, con reuniones periódicas para aplicarlo. Es una pequeña Torá para la empresa: lo que el fundador sabía, puesto por escrito antes de que falte."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "Si mañana perdieras tu oficina, tu ciudad o tu empresa, ¿qué parte de lo que eres podrías llevarte?",
+    "texto": "Piensa en algo que haces cada semana, sin falta, y que te recuerda quién quieres ser. Si no encuentras nada, ahí hay un hueco: lo que no tiene ritual depende de las circunstancias."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "Lo que está escrito y se practica cada semana sobrevive a la pérdida del lugar."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "The Met: Ciro y la diáspora judía (en español)",
+   "url": "https://www.metmuseum.org/es/perspectives/cyrus-and-the-judean-diaspora",
+   "minutos": 8
+  },
+  "repaso": [
+   {
+    "pregunta": "¿En qué años ocurrieron las deportaciones a Babilonia y el permiso de regreso?",
+    "respuesta": "Hacia 598/597 a. C. y 587/586 a. C. (destrucción del templo); Ciro permitió volver en 538 a. C."
+   },
+   {
+    "pregunta": "¿Qué tres elementos hicieron «portátil» la identidad de los exiliados?",
+    "respuesta": "Los textos fijados por escrito, prácticas sin templo (como el sábado) y la vida en diáspora organizada."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Encyclopaedia Britannica: Babylonian Exile",
+    "url": "https://www.britannica.com/event/Babylonian-Exile"
+   },
+   {
+    "nombre": "The Met: Cyrus and the Judean Diaspora",
+    "url": "https://www.metmuseum.org/es/perspectives/cyrus-and-the-judean-diaspora"
+   },
+   {
+    "nombre": "World History Encyclopedia: Cilindro de Ciro",
+    "url": "https://www.worldhistory.org/trans/es/2-166/cilindro-de-ciro/"
+   },
+   {
+    "nombre": "Jewish Virtual Library: The Babylonian Exile",
+    "url": "https://www.jewishvirtuallibrary.org/the-babylonian-exile"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Música",
+   "pilar": "cultura",
+   "formato": "diaQueCambio",
+   "titulo": "16 de diciembre de 1893: un checo estrena en Nueva York la sinfonía de América",
+   "contexto": "Nueva York, 1892. Una millonaria, **Jeannette Thurber**, quiere que Estados Unidos tenga una música propia, no copiada de Europa. Funda un conservatorio y contrata como director al compositor más famoso de Bohemia: **Antonín Dvořák**, hijo de un carnicero, que entonces tiene 51 años.\n\nDvořák vive en la calle 17 Este de Manhattan. Extraña su tierra y se escapa a ver locomotoras. En el conservatorio tiene un alumno afroamericano, el barítono **Harry T. Burleigh**, que le canta en su casa los [[espirituales|Cantos religiosos creados por los afroamericanos esclavizados en Estados Unidos; base del góspel y del blues.]] que aprendió de su abuelo.\n\nEl 16 de diciembre de 1893, la Filarmónica de Nueva York estrena en el Carnegie Hall su Sinfonía n.º 9, «Del Nuevo Mundo». El éxito es inmediato.",
+   "pregunta": "Meses antes del estreno, Dvořák declaró a un periódico de dónde debía salir la futura música estadounidense. ¿Qué dijo?",
+   "opciones": [
+    "De las melodías afroamericanas y de los cantos de los pueblos indígenas",
+    "De la ópera italiana, adaptada al inglés",
+    "De las marchas militares y los himnos patrióticos"
+   ],
+   "correcta": 0,
+   "revelacion": "En mayo de 1893, Dvořák dijo al *New York Herald* que el futuro de la música de Estados Unidos debía fundarse en las melodías afroamericanas. Para muchos blancos de la época fue un escándalo: el compositor más prestigiado del país decía que la gran música estadounidense saldría de los descendientes de esclavos.\n\nLa sinfonía no cita canciones concretas. Dvořák inventó sus temas con el aire de esa música: escalas de cinco notas, ritmos sincopados, una melancolía de canto lento. El famoso solo de **corno inglés** del segundo movimiento (Largo) suena tanto a espiritual que en 1922 un alumno suyo, William Arms Fisher, le puso letra: *Goin' Home*. Mucha gente cree hoy que es una canción tradicional.\n\nEl giro final: la «sinfonía de América» la escribió un extranjero con nostalgia de su casa. Escúchala buscando las dos cosas a la vez: el paisaje nuevo y la tierra que se extraña.",
+   "idea": "A veces quien llega de fuera ve antes que nadie el tesoro que los de casa desprecian.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dvorak_Antonin_rodina_USA.jpg?width=900",
+    "alt": "Fotografía de Antonín Dvořák con su familia durante su estancia en Estados Unidos",
+    "pie": "Dvořák con su familia en Estados Unidos (1893).",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Carnegie Hall: Carnegie Hall Premieres, Dvořák's Symphony No. 9",
+    "url": "https://carnegiehall.org/Explore/Articles/2020/09/21/Carnegie-Hall-Premieres-Dvoraks-New-World-Symphony"
+   },
+   "wiki": "Sinfonía n.º 9 (Dvořák)",
+   "claves": [
+    {
+     "nombre": "Antonín Dvořák",
+     "quien": "Compositor checo (1841–1904); dirigió el Conservatorio Nacional de Nueva York de 1892 a 1895.",
+     "wiki": "Antonín Dvořák"
+    },
+    {
+     "nombre": "Carnegie Hall",
+     "quien": "La sala de Nueva York, inaugurada en 1891, donde se estrenó la sinfonía.",
+     "wiki": "Carnegie Hall"
+    },
+    {
+     "nombre": "Corno inglés",
+     "quien": "El instrumento de viento que toca el tema más famoso del Largo.",
+     "wiki": "Corno inglés"
+    }
+   ],
+   "profundizar": {
+    "titulo": "Dvořák American Heritage Association: la cronología de Dvořák en América (en inglés)",
+    "url": "https://dvoraknyc.org/dvorak"
+   },
+   "repaso": {
+    "pregunta": "¿Dónde y cuándo se estrenó la Sinfonía «Del Nuevo Mundo»?",
+    "respuesta": "En el Carnegie Hall de Nueva York, el 16 de diciembre de 1893, con la Filarmónica de Nueva York."
+   }
+  },
+  {
+   "materia": "Etiqueta y protocolo",
+   "pilar": "gusto",
+   "formato": "mitoRealidad",
+   "titulo": "¿El anillo va en el anular izquierdo porque de ahí sale una vena al corazón?",
+   "contexto": "Es una de las explicaciones más repetidas en bodas y joyerías: el anillo se pone en el cuarto dedo de la mano izquierda porque de ahí sale una vena que llega directo al corazón. Hasta tiene nombre en latín: *vena amoris*, «la vena del amor».\n\nSuena antiguo, romántico y anatómico a la vez. Por eso nadie lo cuestiona.",
+   "pregunta": "¿Mito o realidad?",
+   "opciones": [
+    "Realidad: la anatomía lo confirma",
+    "Mito: esa vena no existe, aunque la idea sí es antigua"
+   ],
+   "correcta": 1,
+   "revelacion": "**Mito, con historia real.** La idea existe desde hace casi 2,000 años. El escritor romano [[Aulo Gelio|Autor latino del siglo II d. C.; sus «Noches áticas» reúnen curiosidades que oyó y leyó.]] cuenta en sus *Noches áticas* que los griegos y los romanos llevaban el anillo en el dedo junto al meñique de la mano izquierda. Cita a un autor egipcio, Apión, según el cual los egipcios, al disecar cuerpos, habían visto que de ese dedo salía un nervio fino que llegaba al corazón. Gelio no lo afirma: lo repite.\n\nLa anatomía moderna no encuentra nada parecido. Las venas de todos los dedos regresan al corazón por el mismo sistema; ninguna tiene una ruta especial. La *vena amoris* es una metáfora que se volvió dato.\n\nY la costumbre tampoco es universal. En España, Alemania, Rusia o Polonia la alianza de casados se lleva tradicionalmente en la **mano derecha**. En México y Estados Unidos suele ir en la izquierda. Si viajas o haces negocios fuera, no saques conclusiones del lado del anillo.",
+   "idea": "Una costumbre puede tener 2,000 años y una explicación falsa al mismo tiempo.",
+   "fuente": {
+    "nombre": "Aulo Gelio, Noches áticas, X, 10 (traducción de J. C. Rolfe, Perseus)",
+    "url": "https://fgh.perseids.org/read/latinLit/phi1254/phi001/perseus-eng1/10.9-10.10"
+   },
+   "wiki": "Alianza (anillo)",
+   "claves": [
+    {
+     "nombre": "Aulo Gelio",
+     "quien": "El autor romano que registró la explicación del nervio que va al corazón.",
+     "wiki": "Aulo Gelio"
+    },
+    {
+     "nombre": "Noches áticas",
+     "quien": "Su libro de misceláneas, escrito en el siglo II d. C.",
+     "wiki": "Noches áticas"
+    },
+    {
+     "nombre": "Dedo anular",
+     "quien": "El cuarto dedo de la mano, llamado así por llevar el anillo.",
+     "wiki": "Dedo anular"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Quién registró la idea de un nervio que va del anular al corazón, y a quién se la atribuyó?",
+    "respuesta": "Aulo Gelio, en las Noches áticas (siglo II d. C.); la atribuyó a Apión y a los anatomistas egipcios."
+   }
+  },
+  {
+   "materia": "El cosmos",
+   "pilar": "futuro",
+   "formato": "adivinaNumero",
+   "titulo": "Apophis, 13 de abril de 2029: el asteroide que pasará más cerca que los satélites de TV",
+   "contexto": "En junio de 2004, unos astrónomos en Arizona descubrieron un asteroide del tamaño de varios estadios juntos. En diciembre, los cálculos asustaron: había una probabilidad de choque con la Tierra en 2029 mayor que la de cualquier objeto vigilado hasta entonces. Lo bautizaron **Apophis**, como el dios egipcio del caos.\n\nCon más observaciones, el riesgo de 2029 se descartó. En 2021, radares de la NASA descartaron también cualquier impacto durante al menos 100 años. Pero el paso de 2029 sigue siendo histórico.",
+   "pregunta": "¿A qué distancia de la superficie de la Tierra pasará Apophis el viernes 13 de abril de 2029?",
+   "opciones": [
+    "A unos 32,000 kilómetros",
+    "A unos 380,000 kilómetros, como la Luna",
+    "A unos 3 millones de kilómetros"
+   ],
+   "correcta": 0,
+   "revelacion": "**A unos 32,000 kilómetros de la superficie**, según la NASA. Es menos de la décima parte de la distancia a la Luna, y más cerca que los satélites [[geoestacionarios|Satélites que giran a unos 36,000 km de altura, al mismo ritmo que la Tierra, y parecen fijos en el cielo; los usan la televisión y las comunicaciones.]], que están a unos 36,000 km.\n\nApophis mide unos 340 metros de diámetro medio. La NASA calcula que un objeto de ese tamaño pasa tan cerca solo cada pocos miles de años en promedio. Será visible a simple vista desde el hemisferio oriental (Europa, África, Asia occidental), si el clima lo permite, como un punto de luz que cruza el cielo. Desde México no se verá.\n\nPor eso irán a recibirlo. La nave de la NASA que trajo muestras del asteroide Bennu fue rebautizada **OSIRIS-APEX** y debe estudiar a Apophis después del encuentro. La Agencia Espacial Europea prepara la misión **Ramses**. La gravedad terrestre probablemente cambiará el giro del asteroide: veremos en vivo cómo un planeta deforma a una roca que pasa.",
+   "idea": "La ciencia convirtió un posible desastre en un experimento: el miedo de 2004 es la oportunidad de 2029.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PIA24168-Asteroid-99942Apophis-RadarImages-20210326.jpg?width=900",
+    "alt": "Imágenes de radar de baja resolución del asteroide Apophis",
+    "pie": "Apophis visto por radar en marzo de 2021, cuando se descartó cualquier impacto en el próximo siglo.",
+    "credito": "NASA/JPL-Caltech, vía Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "NASA Science: Apophis Facts",
+    "url": "https://science.nasa.gov/?p=490417"
+   },
+   "wiki": "(99942) Apofis",
+   "claves": [
+    {
+     "nombre": "OSIRIS-REx",
+     "quien": "La sonda de la NASA que trajo muestras de Bennu; hoy, como OSIRIS-APEX, va hacia Apophis.",
+     "wiki": "OSIRIS-REx"
+    },
+    {
+     "nombre": "Órbita geoestacionaria",
+     "quien": "La altura de los satélites de comunicaciones, que Apophis cruzará por dentro.",
+     "wiki": "Órbita geoestacionaria"
+    },
+    {
+     "nombre": "Asteroide cercano a la Tierra",
+     "quien": "La familia de rocas cuyas órbitas se acercan a la nuestra y que las agencias vigilan.",
+     "wiki": "Asteroide cercano a la Tierra"
+    }
+   ],
+   "profundizar": {
+    "titulo": "Space.com: por qué el paso de Apophis en 2029 vale un viaje (en inglés)",
+    "url": "https://www.space.com/astronomy/asteroids/god-of-chaos-asteroid-apophis-will-blaze-across-the-sky-on-april-13-2029-heres-why-this-once-in-a-lifetime-event-is-worth-traveling-for"
+   },
+   "repaso": {
+    "pregunta": "¿Qué pasará el 13 de abril de 2029?",
+    "respuesta": "El asteroide Apophis, de unos 340 m, pasará a unos 32,000 km de la superficie terrestre, más cerca que los satélites geoestacionarios."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "elCaso",
+   "titulo": "Atlassian: vender software sin un solo vendedor",
+   "contexto": "Sídney, 2002. Dos compañeros de universidad, **Mike Cannon-Brookes** y **Scott Farquhar**, tienen poco más de 20 años y ninguna gana de trabajar en una corporación. Arrancan una empresa de software financiada con una deuda de tarjeta de crédito de 10,000 dólares.\n\nSu producto, **Jira**, sirve para que los equipos de programadores registren tareas y errores. Sus rivales venden con ejércitos de vendedores, cenas, demostraciones y contratos negociados durante meses. Ellos no pueden pagar nada de eso.",
+   "pregunta": "¿Qué hicieron para vender sin vendedores?",
+   "opciones": [
+    "Precios bajos y públicos en su sitio web, con prueba gratis: el cliente compraba solo, con tarjeta",
+    "Contrataron distribuidores en cada país que se quedaban con la mitad",
+    "Regalaron el software y cobraron solo por la consultoría"
+   ],
+   "correcta": 0,
+   "revelacion": "En lugar de un equipo de ventas tradicional, construyeron una **compra de autoservicio**. Su principio era que el software «debe comprarse, no venderse». Precio publicado, prueba gratis, pago con tarjeta y descarga. El dinero que otros gastaban en vendedores lo pusieron en producto y en precios bajos.\n\nEso explica por qué el modelo escala. Vender una licencia más casi no cuesta nada: no hay comisión, ni viaje, ni negociación. Si el producto es bueno, un equipo lo prueba, lo recomienda a otro área y la empresa entera termina comprándolo. Es [[crecimiento guiado por el producto|Estrategia en la que el propio producto, y no un vendedor, consigue, convence y retiene a los clientes.]].\n\nEl 10 de diciembre de 2015, Atlassian salió a la bolsa Nasdaq con el símbolo TEAM y un valor de 4,370 millones de dólares. Después sumó Confluence y compró Trello por 425 millones de dólares en 2017. El modelo tiene un límite: funciona cuando el comprador es también quien usa el producto y el precio cabe en una tarjeta. Para contratos grandes, Atlassian terminó necesitando gente que negocie.",
+   "idea": "Cuando el producto se explica solo, cada vendedor que no contratas es margen que puedes devolver en precio.",
+   "fuente": {
+    "nombre": "Wikipedia (inglés): Atlassian",
+    "url": "https://en.wikipedia.org/wiki/Atlassian"
+   },
+   "wiki": "Atlassian",
+   "claves": [
+    {
+     "nombre": "Jira",
+     "quien": "El producto insignia de Atlassian, para gestionar tareas y errores de software.",
+     "wiki": "Jira (software)"
+    },
+    {
+     "nombre": "Trello",
+     "quien": "El tablero de tareas que Atlassian compró en 2017.",
+     "wiki": "Trello"
+    },
+    {
+     "nombre": "Software como servicio",
+     "quien": "El modelo de cobrar por usar el software en la nube, que Atlassian adoptó después.",
+     "wiki": "Software como servicio"
+    }
+   ],
+   "profundizar": {
+    "titulo": "Atlassian: 20 años, 20 lecciones de sus fundadores (en inglés)",
+    "url": "https://www.atlassian.com/blog/announcements/atlassian-founders-20-years-20-lessons"
+   },
+   "repaso": {
+    "pregunta": "¿Cuál era el principio de ventas de Atlassian?",
+    "respuesta": "Que el software «debe comprarse, no venderse»: precios públicos, prueba gratis y compra de autoservicio, sin equipo de ventas tradicional."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Filosofía para vivir",
+   "pilar": "mente",
+   "epoca": "1639",
+   "titulo": "La frase célebre de la navaja de Ockham no aparece en Ockham",
+   "dato": "«No hay que multiplicar los entes sin necesidad» es la versión clásica de la navaja de Ockham. Pero no se ha encontrado en las obras de Guillermo de Ockham: la popularizó un teólogo irlandés, John Punch, en un comentario publicado en 1639.",
+   "explicacion": "Ockham, un fraile inglés del siglo XIV, sí defendió la idea con otras palabras, como «no se debe suponer la pluralidad sin necesidad». Y no la inventó: Aristóteles y varios escolásticos ya la usaban. Punch la llamó un «axioma común», no una frase de Ockham. La etiqueta «navaja de Ockham» llegó después, porque Ockham la usó con tanto filo que la asociaron con él.\n\nLa lección es doble. El principio sigue siendo útil: entre dos explicaciones que funcionan igual, prefiere la que necesita menos supuestos. Y es un recordatorio de que muchas citas famosas son resúmenes posteriores. Antes de citar a alguien, vale la pena preguntar dónde lo dijo.",
+   "fuente": {
+    "nombre": "Wikipedia (inglés): John Punch (theologian)",
+    "url": "https://en.wikipedia.org/wiki/John_Punch_(theologian)"
+   },
+   "wiki": "Navaja de Ockham",
+   "claves": [
+    {
+     "nombre": "Guillermo de Ockham",
+     "quien": "Fraile franciscano y filósofo inglés (c. 1287–1347) al que se atribuye el principio.",
+     "wiki": "Guillermo de Ockham"
+    },
+    {
+     "nombre": "Escolástica",
+     "quien": "La filosofía de las universidades medievales donde circulaba el axioma.",
+     "wiki": "Escolástica"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Quién popularizó la fórmula «no hay que multiplicar los entes sin necesidad»?",
+    "respuesta": "El teólogo irlandés John Punch, en un comentario publicado en 1639; no aparece en las obras de Ockham."
+   }
+  },
+  {
+   "materia": "Relaciones y vida social",
+   "pilar": "caracter",
+   "epoca": "2018",
+   "titulo": "Una carta de agradecimiento alegra mucho más de lo que su autor cree",
+   "dato": "En cuatro experimentos publicados en 2018, quienes escribían cartas de agradecimiento subestimaron cuánto se alegraría y sorprendería quien las recibía, y sobreestimaron cuán incómodo se sentiría.",
+   "explicacion": "Los psicólogos **Amit Kumar** y **Nicholas Epley**, de la Universidad de Chicago, pidieron a los participantes escribir a alguien que los hubiera ayudado y predecir su reacción. Después midieron la reacción real. Los que escribían temían no saber expresarse. A los receptores eso casi no les importaba: los conmovía la calidez del gesto, no la redacción.\n\nEl error de cálculo tiene consecuencias. Si creemos que agradecer vale poco o resulta raro, lo hacemos menos de lo que convendría. El estudio sugiere una regla simple: cuando dudes si mandar ese mensaje de gracias, mándalo. Tu estimación de su efecto probablemente se queda corta.",
+   "fuente": {
+    "nombre": "University of Chicago News: People underestimate value of sending letters of appreciation",
+    "url": "https://news.uchicago.edu/story/people-underestimate-value-sending-letters-appreciation"
+   },
+   "wiki": "Gratitud",
+   "claves": [
+    {
+     "nombre": "Psicología social",
+     "quien": "La rama que estudia cómo pensamos y sentimos ante los demás.",
+     "wiki": "Psicología social"
+    },
+    {
+     "nombre": "Universidad de Chicago",
+     "quien": "Donde trabajaban los autores del estudio (Booth School of Business).",
+     "wiki": "Universidad de Chicago"
+    }
+   ],
+   "profundizar": {
+    "titulo": "Kumar y Epley (2018), Undervaluing Gratitude, en PubMed (en inglés)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29949445/"
+   },
+   "repaso": {
+    "pregunta": "¿Qué error cometían quienes escribían cartas de agradecimiento en el estudio de 2018?",
+    "respuesta": "Subestimaban la alegría y la sorpresa del receptor y sobreestimaban su incomodidad."
+   }
+  },
+  {
+   "materia": "Deporte y aire libre",
+   "pilar": "cuerpo",
+   "epoca": "2026",
+   "titulo": "El Estadio Azteca es el único que ha inaugurado tres Mundiales",
+   "dato": "El 11 de junio de 2026, el estadio de la Ciudad de México abrió su tercera Copa del Mundo, después de 1970 y 1986. Ningún otro estadio lo ha hecho.",
+   "explicacion": "El récord es posible por una coincidencia de historia y de tamaño. México organizó el Mundial de 1970 y, en 1986, lo rescató cuando Colombia renunció a ser sede. En ambos casos el Azteca, inaugurado en 1966, era el estadio más grande del país. En 2026, el primer Mundial con tres anfitriones (México, Estados Unidos y Canadá) y con 48 selecciones, la FIFA volvió a darle el partido inaugural.\n\nGuadalajara también fue sede: el Estadio Akron, en Zapopan, recibió partidos de la fase de grupos. Para una ciudad, un Mundial es una prueba de infraestructura y de marca. El Azteca demuestra que un edificio puede acumular prestigio durante 60 años si se mantiene vigente.",
+   "fuente": {
+    "nombre": "TUDN: Estadio Banorte, el primero en recibir la inauguración de tres Mundiales",
+    "url": "https://www.tudn.com/mundial-2026/estadio-banorte-hara-historia-en-el-mundial-2026-con-su-tercera-inauguracion"
+   },
+   "wiki": "Estadio Azteca",
+   "claves": [
+    {
+     "nombre": "Copa Mundial de Fútbol de 2026",
+     "quien": "El primer Mundial con 48 selecciones y tres países anfitriones.",
+     "wiki": "Copa Mundial de Fútbol de 2026"
+    },
+    {
+     "nombre": "Copa Mundial de Fútbol de 1986",
+     "quien": "El Mundial que México organizó tras la renuncia de Colombia.",
+     "wiki": "Copa Mundial de Fútbol de 1986"
+    },
+    {
+     "nombre": "Estadio Akron",
+     "quien": "El estadio de Zapopan que fue sede en 2026.",
+     "wiki": "Estadio Akron"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué récord tiene el Estadio Azteca?",
+    "respuesta": "Es el único estadio que ha inaugurado tres Mundiales: 1970, 1986 y 2026."
+   }
+  },
+  {
+   "materia": "Literatura y mitología",
+   "pilar": "cultura",
+   "epoca": "2026",
+   "titulo": "El Nobel de 2026 fue para una profesora de griego que descubrió a Safo a los 15 años",
+   "dato": "Anne Carson, canadiense, ganó el Nobel de Literatura 2026. Se enamoró del griego antiguo cuando, adolescente, encontró en una librería de Ontario un libro de Safo con el texto griego y la traducción inglesa enfrente.",
+   "explicacion": "La Academia Sueca premió una obra «audaz e inventiva» que, en «diálogo lúdico con la tradición clásica», creó formas nuevas. Carson enseñó latín y griego, tradujo a Safo y escribió *Autobiography of Red*, una novela en verso que convierte el mito de Heracles y el monstruo Gerión en una historia de amor moderna. En *Nox*, una elegía por su hermano, usó un poema de Catulo y un libro con forma de caja y páginas en acordeón.\n\nEl dato importa porque rompe un prejuicio: que los clásicos son museo. Una poeta del siglo VII a. C. le dio a una lectora del siglo XX el material para la literatura más nueva del XXI. Leer a los antiguos no es mirar atrás; puede ser la forma de inventar.",
+   "fuente": {
+    "nombre": "Nobel Prize Outreach: Text for students, Literature 2026",
+    "url": "https://www.nobelprize.org/educational/nobel-prize-lessons/text-for-students-literature-2026/"
+   },
+   "wiki": "Anne Carson",
+   "claves": [
+    {
+     "nombre": "Safo",
+     "quien": "Poeta griega de Lesbos (siglo VII a. C.) que Carson tradujo.",
+     "wiki": "Safo"
+    },
+    {
+     "nombre": "Gerión",
+     "quien": "El monstruo mítico que protagoniza Autobiography of Red.",
+     "wiki": "Gerión"
+    },
+    {
+     "nombre": "Premio Nobel de Literatura",
+     "quien": "El premio que la Academia Sueca otorga cada octubre.",
+     "wiki": "Premio Nobel de Literatura"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo descubrió Anne Carson el griego antiguo?",
+    "respuesta": "A los 15 años, con un libro de Safo bilingüe que encontró en una librería de Ontario."
+   }
+  },
+  {
+   "materia": "Historia y geopolítica",
+   "pilar": "mundo",
+   "epoca": "1337–1453",
+   "titulo": "La guerra de los Cien Años duró 116 años, y no fue una sola guerra",
+   "dato": "El conflicto entre Inglaterra y Francia que llamamos guerra de los Cien Años va de 1337 a 1453: 116 años, con largas treguas en medio.",
+   "explicacion": "El nombre se lo pusieron los historiadores del siglo XIX, no quienes la vivieron. Para ellos fueron varias guerras y paces sucesivas por una pregunta de fondo: si el rey de Inglaterra, que tenía tierras en Francia, podía ser también rey de Francia. Hubo batallas célebres (Crécy, Poitiers, Agincourt), años de peste negra y una campesina, Juana de Arco, que cambió el rumbo en 1429.\n\nEl resultado fue más grande que cualquier batalla. Inglaterra perdió casi todo lo que tenía en el continente y miró hacia el mar. Francia salió con un ejército permanente y un rey más fuerte. Muchos historiadores ven en esos 116 años el nacimiento de dos identidades nacionales. Los nombres redondos de la historia simplifican: conviene revisar las fechas.",
+   "fuente": {
+    "nombre": "Encyclopaedia Britannica: Hundred Years' War",
+    "url": "https://www.britannica.com/event/Hundred-Years-War"
+   },
+   "wiki": "Guerra de los Cien Años",
+   "claves": [
+    {
+     "nombre": "Juana de Arco",
+     "quien": "La joven francesa que levantó el sitio de Orleans en 1429.",
+     "wiki": "Juana de Arco"
+    },
+    {
+     "nombre": "Batalla de Crécy",
+     "quien": "La victoria inglesa de 1346 que mostró el poder del arco largo.",
+     "wiki": "Batalla de Crécy"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cuántos años duró la guerra de los Cien Años?",
+    "respuesta": "116, de 1337 a 1453, con treguas largas; el nombre se lo dieron historiadores del siglo XIX."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "epoca": "1984",
+   "titulo": "El creador de Tetris no cobró regalías durante más de una década",
+   "dato": "Alekséi Pázhitnov creó Tetris en Moscú a mediados de los años ochenta. El juego vendió millones de copias en todo el mundo, pero él no recibió regalías hasta que fundó The Tetris Company en 1996.",
+   "explicacion": "Pázhitnov trabajaba en un centro de computación de la Academia de Ciencias de la URSS. Como empleado del Estado soviético, lo que programaba no era suyo. Los derechos los gestionó **Elorg**, la empresa estatal que tenía el monopolio de exportar software. Durante años, distintas compañías occidentales, entre ellas Nintendo, se pelearon por las licencias mientras el autor seguía cobrando su sueldo.\n\nCon la caída de la URSS, los derechos volvieron a él. En 1996 fundó The Tetris Company con **Henk Rogers**, el empresario que había llevado el juego al Game Boy. La lección para cualquier creador: un producto digital puede copiarse infinitamente, pero el dinero sigue a quien es dueño de la propiedad intelectual. Antes de crear para otro, lee quién se queda con los derechos.",
+   "fuente": {
+    "nombre": "Wikipedia (inglés): Alexey Pajitnov",
+    "url": "https://en.wikipedia.org/wiki/Alexey_Pajitnov"
+   },
+   "wiki": "Tetris",
+   "claves": [
+    {
+     "nombre": "Propiedad intelectual",
+     "quien": "Los derechos sobre una creación, que determinan quién cobra por ella.",
+     "wiki": "Propiedad intelectual"
+    },
+    {
+     "nombre": "Game Boy",
+     "quien": "La consola de Nintendo (1989) que convirtió a Tetris en un éxito mundial.",
+     "wiki": "Game Boy"
+    }
+   ],
+   "profundizar": {
+    "titulo": "Xataka: Pázhitnov tardó una década en recibir la fortuna de Tetris",
+    "url": "https://www.xataka.com/videojuegos/aleksei-pazhitnov-tardo-decada-recibir-fortuna-que-estaba-generando-videojuego-que-habia-creado-tetris/amp"
+   },
+   "repaso": {
+    "pregunta": "¿Por qué Pázhitnov no cobró regalías de Tetris durante años?",
+    "respuesta": "Era empleado de la Academia de Ciencias soviética; los derechos los gestionaba la empresa estatal Elorg. Cobró desde que fundó The Tetris Company en 1996."
+   }
+  },
+  {
+   "materia": "Oficios del lujo y estilo",
+   "pilar": "gusto",
+   "epoca": "1927",
+   "titulo": "Rolex probó su reloj impermeable en la muñeca de una nadadora",
+   "dato": "El 7 de octubre de 1927, la taquígrafa londinense Mercedes Gleitze se convirtió en la primera mujer británica en cruzar a nado el canal de la Mancha. Poco después, Rolex la usó para demostrar que su nuevo reloj Oyster no dejaba pasar el agua.",
+   "explicacion": "Hans Wilsdorf, fundador de Rolex, había patentado una caja hermética, la Oyster. Le faltaba una prueba que el público creyera. Cuando se dudó del récord de Gleitze, ella aceptó repetir el nado en agua mucho más fría, llevando un Oyster. No terminó el cruce, pero el reloj salió funcionando y Rolex lo convirtió en una campaña publicitaria en Gran Bretaña.\n\nFue uno de los primeros casos de lo que hoy llamamos un [[embajador de marca|Persona conocida que usa y promueve un producto; su historia presta credibilidad a lo que la marca promete.]]. La lección sigue vigente en el lujo: una afirmación técnica («es impermeable») convence más cuando viene con una historia humana y una prueba extrema que cuando viene en un folleto.",
+   "fuente": {
+    "nombre": "Wikipedia (inglés): Mercedes Gleitze",
+    "url": "https://en.wikipedia.org/wiki/Mercedes_Gleitze"
+   },
+   "wiki": "Rolex",
+   "claves": [
+    {
+     "nombre": "Hans Wilsdorf",
+     "quien": "El fundador de Rolex (1881–1960), obsesionado con la precisión y la hermeticidad.",
+     "wiki": "Hans Wilsdorf"
+    },
+    {
+     "nombre": "Canal de la Mancha",
+     "quien": "El brazo de mar entre Inglaterra y Francia, prueba clásica de natación de resistencia.",
+     "wiki": "Canal de la Mancha"
+    }
+   ],
+   "profundizar": {
+    "titulo": "Country Life: el reloj de la primera mujer británica que cruzó el Canal (en inglés)",
+    "url": "https://www.countrylife.co.uk/luxury/this-watch-was-worn-by-the-first-woman-to-swim-the-english-channel-changing-the-horological-world-forever-now-its-going-under-the-hammer"
+   },
+   "repaso": {
+    "pregunta": "¿Qué demostró Rolex con Mercedes Gleitze en 1927?",
+    "respuesta": "Que su caja Oyster era hermética: el reloj resistió horas en el agua fría del canal de la Mancha."
+   }
+  },
+  {
+   "materia": "IA y el futuro",
+   "pilar": "futuro",
+   "epoca": "c. 820",
+   "titulo": "La palabra «algoritmo» es el nombre de un sabio de Bagdad",
+   "dato": "«Algoritmo» viene de *Algoritmi*, la forma latina del nombre de al-Juarismi, matemático que trabajó en la Casa de la Sabiduría de Bagdad hacia el siglo IX. De otro libro suyo viene la palabra «álgebra».",
+   "explicacion": "Al-Juarismi (c. 780–c. 850) escribió un tratado sobre cómo calcular con los numerales indios, los que hoy llamamos arábigos, con el cero incluido. En el siglo XII se tradujo al latín con un título que empezaba *Algoritmi de numero Indorum*: «Algoritmi, sobre los números de los indios». Su nombre se volvió sinónimo del método. Su otro libro, sobre *al-jabr* («restaurar» los términos de una ecuación), dio «álgebra».\n\nCada vez que se dice que un algoritmo decide qué ves en una red o qué crédito te dan, se repite el nombre de un hombre que vivió hace 1,200 años. Un [[algoritmo|Serie finita de pasos precisos para resolver un problema; puede seguirla una persona o una máquina.]] no es magia: es una receta paso a paso. Y la receta para calcular con decimales la llevó a Europa un libro de Bagdad.",
+   "fuente": {
+    "nombre": "Encyclopaedia Britannica: al-Khwarizmi",
+    "url": "https://www.britannica.com/biography/al-Khwarizmi"
+   },
+   "wiki": "Al-Juarismi",
+   "claves": [
+    {
+     "nombre": "Casa de la Sabiduría",
+     "quien": "El centro de traducción y ciencia de Bagdad donde trabajó.",
+     "wiki": "Casa de la Sabiduría"
+    },
+    {
+     "nombre": "Álgebra",
+     "quien": "La rama de las matemáticas que toma su nombre de su libro sobre al-jabr.",
+     "wiki": "Álgebra"
+    },
+    {
+     "nombre": "Sistema de numeración indo-arábigo",
+     "quien": "Los diez dígitos con cero que su obra difundió.",
+     "wiki": "Sistema de numeración indo-arábigo"
+    }
+   ],
+   "profundizar": {
+    "titulo": "University of Melbourne: Why are algorithms called algorithms? (en inglés)",
+    "url": "https://findanexpert.unimelb.edu.au/news/81898-why-are-algorithms-called-algorithms"
+   },
+   "repaso": {
+    "pregunta": "¿De dónde viene la palabra «algoritmo»?",
+    "respuesta": "De Algoritmi, el nombre latinizado de al-Juarismi, matemático de la Casa de la Sabiduría de Bagdad (siglo IX)."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "Don Quijote de la Mancha (selección)",
+  "autor": "Miguel de Cervantes",
+  "capitulo": {
+   "numero": 6,
+   "total": 6,
+   "titulo": "Alonso Quijano el Bueno recobra el juicio"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Don_Quixote_and_Sancho_Panza_by_Gustave_Dore_(92687408).jpg?width=900",
+   "alt": "Grabado de Gustave Doré con don Quijote y Sancho Panza en el camino",
+   "pie": "Don Quijote y Sancho, según Gustave Doré (1863).",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "¿Qué se hace con un personaje que el mundo entero ya ama, y que otros empiezan a robarte?\n\nEn 1614, un año antes de que Cervantes terminara su segunda parte, apareció en Tarragona un *Quijote* que no era suyo. Lo firmaba un tal [[Alonso Fernández de Avellaneda|Seudónimo del autor de una continuación apócrifa del Quijote (1614); su identidad real sigue sin conocerse con certeza.]], nombre que nadie ha logrado identificar con seguridad. En el prólogo, además, se burlaba de Cervantes: de su edad, de su mano herida en Lepanto, de su pobreza.\n\nCervantes contestó de la mejor forma posible: escribiendo mejor. Y en el último capítulo de su segunda parte, publicada en 1615, tomó una decisión que nadie esperaba. Hizo que su caballero recobrara el juicio y muriera en su cama. Así nadie más podría sacarlo a nuevas aventuras."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Una fiebre de seis días"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Don Quijote vuelve a su aldea derrotado. En Barcelona, el Caballero de la Blanca Luna, que en realidad es su vecino el bachiller **Sansón Carrasco** disfrazado, lo venció en duelo y le hizo prometer que se retiraría un año. El hidalgo cumple, pero la tristeza lo derrumba.\n\nLe da una fiebre que lo tiene en cama seis días. Sus amigos lo visitan: el cura, el barbero, el bachiller. Sancho no se separa de él. El médico le toma el pulso y dice algo que hoy reconoceríamos como diagnóstico moderno: lo que lo está matando son la [[melancolía|En la medicina antigua, exceso de «bilis negra»; hoy diríamos tristeza profunda o depresión.]] y los desabrimientos, no el cuerpo.\n\nDuerme seis horas seguidas. Cuando despierta, habla con una voz que nadie le había oído en todo el libro."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Yo tengo juicio ya, libre y claro, sin las sombras caliginosas de la ignorancia",
+    "fuente": "Don Quijote, Segunda parte, cap. LXXIV"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Esas «sombras» son los libros de caballerías que le secaron el seso en el primer capítulo de la novela. Ahora los llama «detestables» y pide perdón por haberlos creído. Quiere confesarse y hacer testamento. Sus amigos, al principio, creen que es otra locura: que se le ocurrió una nueva fantasía, la de ser cuerdo."
+   },
+   {
+    "tipo": "imagen",
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gustave_Doré_-_Miguel_de_Cervantes_-_Don_Quixote_-_Part_1_-_Chapter_1_-_Plate_1_%22A_world_of_disorderly_notions,_picked_out_of_his_books,_crowded_into_his_imagination%22.jpg?width=900",
+    "alt": "Grabado de Gustave Doré: don Quijote leyendo, rodeado de caballeros, monstruos y damas que salen de sus libros",
+    "pie": "El comienzo de la locura, según Doré (1863): los libros que en el último capítulo don Quijote llama «sombras».",
+    "credito": "Wikimedia Commons"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Alonso Quijano el Bueno"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Entonces viene la frase que cierra el círculo. Durante dos tomos, el hombre se llamó a sí mismo don Quijote de la Mancha. Ahora recupera su nombre de pila, y con un apodo que la novela nunca le había dado tan claro."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Yo fui loco, y ya soy cuerdo; fui don Quijote de la Mancha, y soy agora, como he dicho, Alonso Quijano el Bueno.",
+    "fuente": "Don Quijote, Segunda parte, cap. LXXIV"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Fíjate en el orden. No dice «fui un tonto». Dice «fui loco» y, enseguida, «el Bueno». Cervantes deja claro que la locura y la bondad convivieron en él. Lo que se va con la fiebre son las fantasías; lo que se queda es el carácter.\n\nTambién usa un refrán para explicar el cambio: «ya en los nidos de antaño no hay pájaros hogaño». Antaño es «el año pasado» y hogaño, «este año». Los nidos del año anterior ya no tienen los mismos pájaros. Lo que fuiste no tiene por qué ser lo que eres."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Qué quiere decir don Quijote con «en los nidos de antaño no hay pájaros hogaño»?",
+    "opciones": [
+     "Que extraña los tiempos pasados, que fueron mejores",
+     "Que ya no es el mismo de antes: lo que fue el año pasado no es lo que es ahora",
+     "Que sus amigos lo han abandonado"
+    ],
+    "correcta": 1,
+    "explicacion": "Antaño significa «el año pasado» y hogaño, «este año». El refrán dice que los nidos viejos ya no tienen los mismos pájaros: él ya no es el loco que fue."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Sancho no quiere que se rinda"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La escena más conmovedora la tiene Sancho. El escudero que tantas veces dudó de su amo ahora le ruega que no se deje morir. Y le propone, nada menos, seguir con el juego: salir al campo vestidos de pastores, como habían planeado. Si lo vencieron, que le eche la culpa a él, por haber cinchado mal a Rocinante."
+   },
+   {
+    "tipo": "cita",
+    "texto": "¡Ay! –respondió Sancho, llorando–: no se muera vuestra merced, señor mío, sino tome mi consejo y viva muchos años",
+    "fuente": "Don Quijote, Segunda parte, cap. LXXIV"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Sancho sigue con una idea que resume la novela entera: que la mayor locura que puede hacer un hombre es dejarse morir sin más, de pura tristeza. Es un giro precioso. El que era cuerdo al principio ahora defiende la imaginación, porque entendió que le daba vida a su amo. Los dos personajes se han contagiado uno del otro a lo largo de mil páginas: el caballero se volvió más realista y el escudero más soñador. Los críticos llaman a esto la [[quijotización de Sancho|Idea de la crítica cervantina: a lo largo de la novela, Sancho adopta parte del idealismo de don Quijote, y este parte del realismo de Sancho.]]."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "Un testamento con humor",
+    "texto": "Incluso aquí Cervantes no pierde la ironía. En el testamento, Alonso Quijano deja todo a su sobrina Antonia con una condición: que, si se casa, no sea con un hombre que lea libros de caballerías. Si lo hace, pierde la herencia. Y le pide a sus albaceas que se disculpen en su nombre con el autor de la segunda parte falsa, por haberle dado ocasión de escribir tantos disparates. Es la última pulla contra Avellaneda."
+   },
+   {
+    "tipo": "texto",
+    "texto": "El testamento guarda también la despedida de Sancho. Alonso Quijano ordena que su escudero se quede con el dinero que le había confiado, sin pedirle cuentas. Y añade una frase que mide la amistad de los dos: si estando loco fue parte de darle el gobierno de una ínsula, estando cuerdo, si pudiera, le daría un reino, porque la sencillez de su condición y la fidelidad de su trato lo merecen.\n\nEs una manera de decir que la lealtad de Sancho no fue parte de la locura. Fue lo más real de toda la aventura. Aun así, en los días de la agonía, anota el narrador con su humor de siempre, la sobrina comía, el ama brindaba y Sancho se alegraba: heredar algo templa la pena. Cervantes no deja que ni siquiera el final se vuelva solemne del todo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "La pluma se cuelga"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Alonso Quijano muere en su cama, «entre compasiones y lágrimas», dice el texto. El escribano que estaba presente da fe de la muerte: pide que conste por escrito que murió de muerte natural, para que ningún otro autor lo resucite.\n\nLuego viene un final muy moderno. El narrador ficticio de la novela, el historiador moro **Cide Hamete Benengeli**, cuelga su pluma en un espetero y le da voz. La pluma habla y reclama la autoría para siempre."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Para mí sola nació don Quijote, y yo para él; él supo obrar y yo escribir",
+    "fuente": "Don Quijote, Segunda parte, cap. LXXIV"
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Por qué Cervantes hizo que don Quijote muriera y que un escribano diera fe de su muerte?",
+    "opciones": [
+     "Porque estaba enfermo y no podía seguir escribiendo",
+     "Porque la Inquisición le prohibió continuar la historia",
+     "Para que nadie más, como Avellaneda, pudiera publicar nuevas aventuras del personaje"
+    ],
+    "correcta": 2,
+    "explicacion": "Tras el Quijote apócrifo de Avellaneda (1614), Cervantes cerró la historia de forma definitiva: el escribano da fe de la muerte natural para que ningún otro autor lo «resucite»."
+   },
+   {
+    "tipo": "texto",
+    "texto": "El bachiller Sansón Carrasco, el mismo que lo derrotó disfrazado, le escribe el epitafio. Es casi un elogio de la locura:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Yace aquí el Hidalgo fuerte / que a tanto estremo llegó / de valiente, que se advierte / que la muerte no triunfó",
+    "fuente": "Don Quijote, Segunda parte, cap. LXXIV"
+   },
+   {
+    "tipo": "texto",
+    "texto": "El epitafio termina diciendo que su suerte fue «morir cuerdo y vivir loco». Ahí está la paradoja que ha hecho pensar a lectores durante cuatro siglos. ¿Qué vida fue más valiosa: la del hidalgo cuerdo y gris que leía en su casa, o la del loco que salió a defender a quien no podía defenderse, aunque lo apalearan?"
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Lo que nos deja"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La última frase del libro vuelve al propósito que Cervantes anunció en el prólogo de 1605: acabar con los libros de caballerías. Dice que, gracias a su verdadero don Quijote, esos libros «van ya tropezando, y han de caer del todo, sin duda alguna».\n\nTenía razón y no la tenía. Los libros de caballerías desaparecieron, sí. Pero Cervantes creó algo mucho más grande que una parodia: la primera novela moderna, donde los personajes cambian, discuten, se contagian y dudan de la realidad. Por eso este final no es solo una muerte. Es el momento en que un hombre ve con claridad quién fue y quién quiere ser."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Con este capítulo terminamos el Quijote. Mañana empieza otro viaje, mucho más antiguo: el de un hombre que tarda diez años en volver a casa. La *Odisea* de Homero."
+   }
+  ],
+  "paraLlevar": [
+   "Lo que fuiste no te condena: «en los nidos de antaño no hay pájaros hogaño».",
+   "La mejor respuesta a quien te copia o se burla es hacer mejor tu propio trabajo.",
+   "La sensatez y la imaginación se necesitan: don Quijote y Sancho terminaron pareciéndose."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Cómo se llama a sí mismo don Quijote al recobrar el juicio?",
+    "respuesta": "Alonso Quijano el Bueno: «Yo fui loco, y ya soy cuerdo»."
+   },
+   {
+    "pregunta": "¿Qué propone Sancho a su amo moribundo?",
+    "respuesta": "Que no se deje morir de tristeza y que salgan al campo vestidos de pastores, como habían planeado."
+   }
+  ],
+  "proximo": "La Odisea (Homero) · Capítulo 1: Telémaco sale a buscar a su padre",
+  "fuentes": [
+   {
+    "nombre": "Proyecto Gutenberg: Don Quijote, de Miguel de Cervantes",
+    "url": "https://www.gutenberg.org/ebooks/2000"
+   },
+   {
+    "nombre": "Periódico Oficial del Estado de Jalisco: Don Quijote de la Mancha, Segunda parte (edición digital)",
+    "url": "https://apiperiodico.jalisco.gob.mx/api/sites/periodicooficial.jalisco.gob.mx/files/quijote2.pdf"
+   }
+  ],
+  "nota": "Citas tomadas del texto original de Cervantes (1615, dominio público), con ortografía modernizada, a partir de la edición digital del Periódico Oficial del Estado de Jalisco, cotejada con el Proyecto Gutenberg."
+ },
+ "palabra": {
+  "palabra": "Diáspora",
+  "categoria": "Sustantivo femenino",
+  "pronunciacion": "di-ÁS-po-ra",
+  "definicion": "Dispersión de un grupo humano que deja su lugar de origen y se reparte por el mundo; también, el conjunto de esas comunidades dispersas.",
+  "origen": "Del griego *diasporá*, «dispersión», de *diaspeírein*, «esparcir semillas». Los traductores judíos de la Biblia al griego (la Septuaginta, siglo III a. C.) la usaron para la dispersión de su pueblo. Por eso el primer sentido de la RAE todavía menciona a los judíos exiliados. Hoy se habla de la diáspora mexicana, libanesa o armenia.",
+  "ejemplo": "La diáspora que nació en Babilonia demostró que un pueblo puede seguir siéndolo lejos de su tierra.",
+  "repaso": {
+   "pregunta": "¿Qué significa literalmente «diáspora» en griego?",
+   "respuesta": "«Dispersión», como cuando se esparcen semillas."
+  }
+ },
+ "frances": {
+  "frase": "Petit à petit, l'oiseau fait son nid.",
+  "traduccion": "«Poco a poco, el pájaro hace su nido.»",
+  "pronunciacion": "pe-TÍ a pe-TÍ, lua-SÓ fe son NÍ",
+  "uso": "Cultura y negocios. Un refrán muy usado en Francia para defender la paciencia: un nido se hace brizna por brizna. Se dice ante un proyecto que avanza lento, una empresa que crece paso a paso o un idioma que se aprende un día a la vez. Funciona como ánimo, no como queja.",
+  "variante": "Notre marque grandit petit à petit, et c'est très bien comme ça. (Nuestra marca crece poco a poco, y así está muy bien.)",
+  "repaso": {
+   "pregunta": "¿Cómo se dice en francés «poco a poco, el pájaro hace su nido»?",
+   "respuesta": "« Petit à petit, l'oiseau fait son nid. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Qué rey permitió en 538 a. C. que los exiliados de Babilonia volvieran a Jerusalén?",
+   "opciones": [
+    "Nabucodonosor II",
+    "Alejandro Magno",
+    "Ciro el Grande"
+   ],
+   "correcta": 2,
+   "explicacion": "Ciro, fundador del Imperio persa, conquistó Babilonia en 539 a. C. y al año siguiente autorizó el regreso. Nabucodonosor II fue quien destruyó el templo."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Qué mecanismo legal usó Estados Unidos para proponer aranceles a 14 economías por «sobrecapacidad»?",
+   "opciones": [
+    "La Sección 301 de la Ley de Comercio de 1974",
+    "El capítulo de solución de controversias del T-MEC",
+    "Una resolución de la Organización Mundial del Comercio"
+   ],
+   "correcta": 0,
+   "explicacion": "La USTR usó la Sección 301 tras ocho meses de investigación. México quedó fuera por ahora, pero su caso sigue abierto."
+  },
+  {
+   "origen": "hechos",
+   "pregunta": "¿De dónde viene la palabra «algoritmo»?",
+   "opciones": [
+    "Del griego «arithmós», número",
+    "Del nombre latinizado de al-Juarismi, matemático de Bagdad",
+    "De un programa de computadora de los años cincuenta"
+   ],
+   "correcta": 1,
+   "explicacion": "Su tratado sobre los numerales indios se tradujo al latín como «Algoritmi de numero Indorum»; su nombre se volvió sinónimo de método."
+  }
+ ],
+ "libro": null,
+ "proximo": "c. 500 a. C.: Siddhartha bajo el árbol y el camino medio"
+}
