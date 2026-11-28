@@ -1,0 +1,879 @@
+{
+ "schemaVersion": 6,
+ "id": "auxo-2026-11-28",
+ "numero": 37,
+ "fecha": "2026-11-28",
+ "disponibleDesde": "2026-11-28T08:00:00-06:00",
+ "titulo": "c. 500 a. C.: Siddhartha bajo el árbol y el camino medio",
+ "temporada": {
+  "id": "t07",
+  "numero": 7,
+  "titulo": "Las religiones que formaron el mundo",
+  "episodio": 2,
+  "totalEpisodios": 6
+ },
+ "calentamiento": [
+  {
+   "pregunta": "¿Qué rey permitió en 538 a. C. que los exiliados de Babilonia volvieran a Jerusalén?",
+   "respuesta": "Ciro el Grande, fundador del Imperio persa, tras conquistar Babilonia en 539 a. C.",
+   "origen": "Edición #36"
+  },
+  {
+   "pregunta": "¿Dónde y cuándo se estrenó la Sinfonía «Del Nuevo Mundo» de Dvořák?",
+   "respuesta": "En el Carnegie Hall de Nueva York, el 16 de diciembre de 1893.",
+   "origen": "Edición #36"
+  },
+  {
+   "pregunta": "¿Qué récord tiene el Estadio Azteca?",
+   "respuesta": "Es el único estadio que ha inaugurado tres Mundiales: 1970, 1986 y 2026.",
+   "origen": "Edición #36"
+  }
+ ],
+ "noticias": [
+  {
+   "id": "agua-condonacion-nov28",
+   "ambito": "jalisco",
+   "ambitoTexto": "Guadalajara",
+   "fecha": "2026-11-27",
+   "historiaEnCurso": {
+    "id": "agua-gdl",
+    "titulo": "Crisis del agua en Guadalajara",
+    "capitulo": 19,
+    "dondeIbamos": "El 26 de noviembre, el gobierno y los municipios dieron su balance: cerca de 57 millones de litros repartidos en pipas a 694 colonias en un mes, sin fecha para regularizar el servicio. El tercer bombeo del SIAPA debía entrar el 2 o 3 de diciembre."
+   },
+   "titular": "Agua sin cobro en 627 colonias: el Congreso vota el lunes la condonación de noviembre y diciembre",
+   "quePaso": "El viernes 27 de noviembre, la Comisión de Hacienda del Congreso de Jalisco aprobó por unanimidad un dictamen para condonar el cobro del agua en 627 colonias de Guadalajara, Zapopan, Tlaquepaque y Tonalá. Votaron los 10 diputados presentes de 13.\n\nLa condonación es de 100% sobre los primeros 25 metros cúbicos al mes de uso habitacional, en noviembre y diciembre de 2026. Quien gaste más pagará solo lo que pase de 25 m³. Los comercios entran si su consumo total no supera 25 m³. El descuento se aplica directo en el recibo, sin trámite, incluso a usuarios con adeudos.\n\nEl gobernador Pablo Lemus anunció que el Pleno lo votará el lunes 30 de noviembre.",
+   "aMiQue": "Si tu casa o un local de tu marca está en una de esas colonias, diciembre puede salir sin recibo de agua, pero solo hasta 25 m³: un negocio que use más no entra, y una casa grande paga el excedente. Para un comercio, revisa tu consumo de octubre antes de hacer cuentas.\n\nEl otro efecto es de fondo: condonar no arregla el abasto. El dinero que el SIAPA deja de cobrar es el que necesita para obras, y la propia ley prevé extender el apoyo a enero y febrero si los problemas siguen.",
+   "contexto": "**Hecho:** según La Crónica, un artículo transitorio permite ajustes en enero y febrero de 2027 si continúan los problemas de abasto. Las colonias que no estén en el decreto pueden pedirlo al SIAPA si prueban fallas generalizadas de suministro o de calidad; los cortes aislados por mantenimiento no cuentan.\n\n**Hecho:** octubre ya se facturó; según La Crónica, para ese mes se mantiene el descuento de 80% anunciado antes. Meganoticias reporta que la exención cubre octubre, noviembre y diciembre. Las fuentes no coinciden en este punto.\n\n**Hecho:** según Meganoticias, Lemus dijo que los primeros ajustes al esquema de tandeos empezarán el 15 de diciembre, según avancen las obras.\n\n**Interpretación:** la condonación es un alivio y un reconocimiento político de que el servicio falló. No es todavía una solución.",
+   "queVigilar": "La votación del Pleno el lunes 30, la lista oficial de las 627 colonias, la entrada del tercer bombeo del SIAPA el 2 o 3 de diciembre y si el 15 de diciembre de verdad cambian los tandeos.",
+   "fuentes": [
+    {
+     "nombre": "La Crónica de Hoy Jalisco: Avalan diputados el descuento de 100% en tarifa del agua",
+     "url": "https://www.cronica.com.mx/jalisco/guadalajara/2026/11/27/avalan-diputados-el-descuento-de-100-en-tarifa-del-agua-por-los-meses-de-noviembre-y-diciembre/"
+    },
+    {
+     "nombre": "El Informador: Congreso votará el lunes condonación del Siapa para 627 colonias",
+     "url": "https://www.informador.mx/jalisco/congreso-votara-el-lunes-condonacion-del-siapa-para-627-colonias-anuncia-lemus-20261127-0115.html"
+    },
+    {
+     "nombre": "Meganoticias: Condonarán recibos del agua en 627 colonias",
+     "url": "https://www.meganoticias.mx/guadalajara/noticia/condonar%C3%A1n-recibos-del-agua-en-627-colonias-por-problemas-de-abastecimiento/793016"
+    }
+   ]
+  },
+  {
+   "id": "peso-semana-nov28",
+   "ambito": "mexico",
+   "ambitoTexto": "México",
+   "fecha": "2026-11-27",
+   "historiaEnCurso": {
+    "id": "tasas-banxico",
+    "titulo": "Tasas de Banxico y el peso",
+    "capitulo": 12,
+    "dondeIbamos": "El 25 de noviembre el peso llegó a 19.85 por dólar hacia el mediodía, en su sexta sesión de pérdidas y en su nivel más débil desde abril de 2025, por datos fuertes de Estados Unidos y la expectativa de alzas de la Fed."
+   },
+   "titular": "El peso cierra su peor semana en meses: pierde 51 centavos y termina en 19.67 por dólar",
+   "quePaso": "El viernes 27 de noviembre el peso cerró en 19.67 por dólar, según datos de Banxico citados por El Financiero. Ese día ganó 0.25% y cortó una racha de siete caídas.\n\nPero la semana fue mala: el 20 de noviembre había cerrado en 19.16. Perdió 51 centavos, 2.7%. En dos semanas, el dólar subió 1.14 pesos. En ventanilla de Banamex, el dólar se vendía en 20.15.",
+   "aMiQue": "Si tu marca importa algo, ingredientes, botellas, etiquetas o maquinaria, el mismo pedido en dólares te cuesta hoy cerca de 6% más que hace dos semanas. Es el peor momento para fijar precios de enero sin colchón: conviene revisar cuánto de tu costo está en dólares y si tus proveedores ya avisaron ajustes.\n\nPara quien exporta o cobra en dólares, el efecto es el contrario: cada dólar rinde más pesos.",
+   "contexto": "**Hecho:** según El Financiero, Yanneth Quiroz, de Monex, atribuyó el fortalecimiento del dólar en la semana a la reapertura de los mercados de Estados Unidos tras el Día de Acción de Gracias, y la ganancia del viernes a «señales de agotamiento técnico». Felipe Mendoza, de IMB Capital Quants, habló de un mayor apetito por riesgo al cierre.\n\n**Hecho:** el bono a 10 años de Estados Unidos rendía 4.94% y el mexicano, 9.279%.\n\n**Interpretación:** mientras la Fed parezca más dura que Banxico, la diferencia de tasas que sostenía al peso se achica, y el peso queda más expuesto.",
+   "queVigilar": "Si el peso vuelve a acercarse a 20 por dólar, las próximas cifras de inflación de Estados Unidos y lo que diga Banxico sobre su siguiente decisión.",
+   "fuentes": [
+    {
+     "nombre": "El Financiero: ‘Black Friday’ para el peso: pierde 51 centavos ante el dólar en la semana",
+     "url": "https://www.elfinanciero.com.mx/mercados/2026/11/27/peso-dolar-tipo-de-cambio-precio-hoy-27-de-noviembre-de-2026/"
+    }
+   ]
+  },
+  {
+   "id": "opep-2027-nov28",
+   "ambito": "mundo",
+   "ambitoTexto": "Mundo",
+   "fecha": "2026-11-27",
+   "historiaEnCurso": {
+    "id": "golfo-petroleo",
+    "titulo": "Tensión en el Golfo y precio del petróleo",
+    "capitulo": 32,
+    "dondeIbamos": "El 25 de noviembre el Brent subió 3.5% a 94.61 dólares tras ataques con drones en Arabia Saudita y buques alcanzados en el Golfo. La OPEP+ tenía pendiente decidir su producción de 2027 el 29 de noviembre."
+   },
+   "titular": "La OPEP+ decide este domingo cuánto petróleo producirá en 2027, por primera vez con una auditoría de capacidad",
+   "quePaso": "El domingo 29 de noviembre la OPEP+ celebra su reunión ministerial para fijar las cuotas de producción de 2027. Los niveles actuales vencen el 31 de diciembre y todas las decisiones de 2027 se aplazaron a esta reunión.\n\nSegún fuentes citadas por Reuters, lo más probable es que el grupo mantenga sin cambios sus objetivos al menos durante el primer trimestre de 2027. Bloomberg reportó que se estudia extender las cuotas a enero. No hay decisión confirmada.",
+   "aMiQue": "El petróleo llega a tu negocio por tres vías: la gasolina y el diésel de tu distribución, el costo de los fletes y el plástico de tus envases. Si el domingo la OPEP+ no sorprende, el precio seguirá dependiendo sobre todo de la tensión en el Golfo. Para planear 2027, las previsiones serias rondan los 86 a 88 dólares por barril de Brent, por debajo de los 94 de esta semana.",
+   "contexto": "**Hecho:** según Admirals, cerca de 2 millones de barriles diarios de recortes vencen al cierre de 2026, y la reunión revisará por primera vez auditorías de capacidad de los miembros. Irak disputa una evaluación que pone su capacidad por debajo de 5 millones de barriles diarios; dice que puede producir 5.2 millones. Kazajistán también objeta.\n\n**Hecho:** los Emiratos Árabes Unidos salieron de la OPEP+ el 1 de mayo de 2026, tras años de desacuerdos por sus cuotas. Quedan 21 países.\n\n**Hecho:** previsiones citadas por Admirals: Goldman Sachs espera un Brent promedio de 88 dólares en 2027; la EIA, 86. La Agencia Internacional de Energía calcula un excedente de cerca de 3.8 millones de barriles diarios en 2027.\n\n**Interpretación:** el riesgo para el cártel es un 2027 con demasiado petróleo. Las auditorías deciden quién tiene derecho a producir más, y ahí están las peleas.",
+   "queVigilar": "El comunicado del domingo, si Irak y Kazajistán aceptan sus nuevas bases y cómo abre el Brent el lunes 30.",
+   "fuentes": [
+    {
+     "nombre": "Admirals: OPEC+ Meeting 29 November 2026 — what to expect",
+     "url": "https://admiralmarkets.com/analytics/traders-blog/opec-meeting-november-29-2026-preview"
+    },
+    {
+     "nombre": "El Oriente: OPEP+ definirá el 29 de noviembre las cuotas petroleras para 2027",
+     "url": "https://www.eloriente.com/articulo/opep-definira-el-29-de-noviembre-las-cuotas-petroleras-para-2027/60354"
+    }
+   ]
+  }
+ ],
+ "historia": {
+  "tarjetas": [
+   {
+    "tipo": "adivina",
+    "gancho": "Un príncipe pasó seis años casi sin comer para encontrar la verdad. La encontró el día que aceptó un plato de arroz con leche.",
+    "contexto": "Norte de la India, hace unos 2,400 o 2,500 años. Un hombre de unos treinta y tantos años está sentado bajo un árbol, en los huesos. Los relatos antiguos dicen que se le podían contar las vértebras como cuentas de un collar.\n\nSe llama **Siddhartha Gautama**. Nació príncipe, en [[Lumbini|Lugar del actual sur de Nepal donde la tradición sitúa el nacimiento del Buda; hoy es Patrimonio de la Humanidad.]], cerca de la ciudad de Kapilavastu. Lo dejó todo para entender por qué sufrimos.\n\nLleva seis años practicando el [[ascetismo|Disciplina que busca la perfección espiritual negándose placeres y comodidades: ayunos, dolor, privación.]] más duro que conoce su época: ayunos, frío, inmovilidad. Cinco compañeros lo admiran porque nadie se castiga como él.\n\nY sin embargo no ha encontrado lo que busca.",
+    "pregunta": "Casi muerto de hambre, Siddhartha toma una decisión que, según la tradición, lo lleva al despertar. ¿Cuál?",
+    "opciones": [
+     "Ayunar todavía más, hasta el límite de su cuerpo",
+     "Aceptar un plato de arroz con leche y dejar el castigo extremo",
+     "Volver al palacio de su padre a pensar con calma"
+    ],
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bust_of_an_emaciated_Buddha,_Eskenazi_Museum_of_Art.jpg?width=900",
+     "alt": "Escultura antigua de un Buda extremadamente delgado, con las costillas marcadas",
+     "pie": "Busto de un Buda demacrado, del estilo de Gandhara (Eskenazi Museum of Art). Así imaginaron los escultores sus años de ayuno.",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "historia",
+    "titulo": "El príncipe que salió por la puerta de atrás",
+    "texto": "Primero, una advertencia: casi todo lo que sabemos de Siddhartha viene de textos escritos siglos después de su muerte. Ni siquiera hay acuerdo sobre las fechas. La tradición lo ubica en el siglo VI a. C.; muchos historiadores del siglo XX pusieron su muerte hacia 480 a. C., y otros, hasta un siglo después.\n\nLo que cuentan los relatos es esto. Su padre gobernaba el clan de los **Shakya** y quería un heredero, no un filósofo. Lo crió entre jardines y comodidades, lejos de cualquier dolor.\n\nPero el joven salió del palacio y vio cuatro cosas que nadie le había mostrado: un anciano, un enfermo, un cadáver y un monje errante que parecía en paz. Las tres primeras le dijeron que todo lo que amaba iba a envejecer y morir. La cuarta le dijo que quizá había una salida.\n\nSegún la tradición, tenía 29 años cuando dejó a su esposa, a su hijo recién nacido y el trono. Se cortó el pelo, cambió sus ropas por las de un mendigo y se fue a buscar maestros.\n\nAprendió de dos de ellos todo lo que sabían sobre meditación, y no le bastó. Entonces probó el camino que su época consideraba más serio: castigar al cuerpo para liberar la mente. Durante seis años comió casi nada. Cinco [[ascetas|Personas que practican el ascetismo; en la India antigua vivían en los bosques, mendigando y meditando.]] lo siguieron, convencidos de que él llegaría primero.\n\nLo que estaba en juego no era solo su salud. Era una pregunta que todavía nos hacemos: ¿la disciplina, llevada al extremo, te hace mejor, o solo te destruye con buena conciencia?"
+   },
+   {
+    "tipo": "giro",
+    "titulo": "El arroz con leche y el camino medio",
+    "texto": "La respuesta correcta es la segunda. Los relatos cuentan que una joven del pueblo, **Sujata**, le ofreció un tazón de arroz cocido en leche, y él lo aceptó. Comió, se bañó en el río y recuperó fuerzas.\n\nSus cinco compañeros se escandalizaron. Para ellos, había traicionado la disciplina: se había ablandado. Lo abandonaron.\n\nSiddhartha se sentó bajo una higuera, en el lugar que hoy se llama [[Bodh Gaya|Ciudad del estado de Bihar, India; el árbol y el templo de Mahabodhi son el lugar más sagrado del budismo.]], decidido a no levantarse hasta entender. La tradición dice que esa noche despertó: desde entonces lo llamaron **el Buda**, «el despierto».\n\nLo sorprendente es *qué* entendió. No que hubiera que esforzarse más, sino que los dos extremos fallaban. El placer sin freno de su juventud lo dejaba vacío. El castigo sin freno de sus años en el bosque lo dejaba débil y obsesionado consigo mismo.\n\nLuego caminó hasta un parque de ciervos en [[Sarnath|Lugar cerca de Varanasi, India, donde la tradición sitúa el primer sermón del Buda.]], cerca de Varanasi. Ahí encontró a los mismos cinco que lo habían despreciado. Les habló de un **camino medio** entre la autocomplacencia y la mortificación, y de las [[Cuatro Nobles Verdades|El núcleo de la enseñanza budista: el sufrimiento existe, tiene una causa, puede cesar y hay un camino para lograrlo.]]. Los cinco se convirtieron en sus primeros discípulos.\n\nEnseñó durante unos 45 años más y murió a los 80, en Kushinagar.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dhamek_Stupta_and_the_Ancient_Buddhist_Site_at_Sarnath.jpg?width=900",
+     "alt": "La estupa de Dhamek, un gran monumento cilíndrico de piedra y ladrillo en Sarnath",
+     "pie": "La estupa de Dhamek, en Sarnath, se levanta donde la tradición sitúa el primer sermón.",
+     "credito": "Wikimedia Commons"
+    }
+   },
+   {
+    "tipo": "herramienta",
+    "nombre": "La cuerda del laúd",
+    "texto": "Los textos budistas guardan una imagen para este problema. Un discípulo llamado **Sona** se esforzaba tanto en meditar que se le llagaban los pies, y estaba a punto de rendirse. El Buda, que sabía que había sido músico, le preguntó: si las cuerdas de tu laúd están demasiado tensas, ¿suenan bien? No. ¿Y si están demasiado flojas? Tampoco. Suenan cuando están afinadas.\n\nConviértelo en tres preguntas para cualquier esfuerzo:\n\n**1. ¿Estoy apretando o soltando?** Pon nombre al extremo hacia el que tiendes. Hay quien vive en la cuerda floja y hay quien vive a punto de romperla.\n\n**2. ¿Qué señal me dice que ya me pasé?** El cansancio que no se va con una noche de sueño, la irritación con todos, la sensación de que el esfuerzo se volvió identidad. Esa es la cuerda a punto de reventar.\n\n**3. ¿Cuál es el ajuste más pequeño que me devuelve el tono?** No se trata de pasar al otro extremo. Una vuelta de clavija: una hora menos, un día libre, una regla menos estricta. El camino medio no es tibieza: es precisión."
+   },
+   {
+    "tipo": "dondeMas",
+    "titulo": "La cuerda afinada en un negocio",
+    "texto": "**El precio de una marca premium.** Si vives de promociones, la cuerda está floja: el cliente aprende a esperar el descuento y la marca deja de sonar a lujo. Si nunca cedes en nada, ni en el servicio, la cuerda se tensa hasta que el cliente se va. Las marcas que duran ajustan poco y seguido: una edición limitada, un detalle de atención, no una rebaja permanente.\n\n**El emprendedor que no duerme.** En la cultura emprendedora se presume la jornada de 16 horas como el asceta presumía su ayuno. Sirve unas semanas, en un lanzamiento. Como sistema, rompe la cuerda: decisiones peores, equipo agotado. La pregunta útil no es «¿cuánto aguanto?», sino «¿a qué ritmo decido mejor?».\n\n**El gimnasio.** Lo mismo pasa con el cuerpo: entrenar sin descanso no te hace más fuerte, porque el músculo se reconstruye en la recuperación. La disciplina madura incluye el día de no hacer nada."
+   },
+   {
+    "tipo": "llevaloATuVida",
+    "pregunta": "¿En qué parte de tu vida estás apretando tanto la cuerda que ya no suena, y en cuál la tienes tan floja que tampoco?",
+    "texto": "Elige una sola. Piensa en el ajuste más pequeño, una vuelta de clavija, que podrías hacer esta semana."
+   },
+   {
+    "tipo": "paraRecordar",
+    "frase": "La cuerda que mejor suena no es la más tensa ni la más floja: es la afinada."
+   }
+  ],
+  "paraProfundizar": {
+   "titulo": "Encyclopaedia Britannica: la vida del Buda (en inglés)",
+   "url": "https://www.britannica.com/biography/Buddha-founder-of-Buddhism",
+   "minutos": 12
+  },
+  "repaso": [
+   {
+    "pregunta": "¿Por qué lo abandonaron sus cinco compañeros ascetas?",
+    "respuesta": "Porque dejó el ayuno extremo y aceptó comida (según la tradición, el arroz con leche de Sujata); creyeron que había renunciado a la disciplina."
+   },
+   {
+    "pregunta": "¿Qué enseñó el Buda en su primer sermón, en Sarnath?",
+    "respuesta": "El camino medio entre la autocomplacencia y la mortificación, y las Cuatro Nobles Verdades."
+   }
+  ],
+  "fuentes": [
+   {
+    "nombre": "Encyclopaedia Britannica: Buddha, founder of Buddhism",
+    "url": "https://www.britannica.com/biography/Buddha-founder-of-Buddhism"
+   },
+   {
+    "nombre": "Encyclopaedia Britannica: Buddha — The first disciples",
+    "url": "https://www.britannica.com/biography/Buddha-founder-of-Buddhism/The-first-disciples"
+   }
+  ]
+ },
+ "materias": [
+  {
+   "materia": "Disciplina y hábitos",
+   "pilar": "caracter",
+   "formato": "elCaso",
+   "titulo": "El plan «si pasa X, haré Y»: lo que encontraron 94 estudios",
+   "contexto": "Todos conocemos la brecha: queremos ir al gimnasio, leer más o hacer esa llamada difícil, y no lo hacemos. Un análisis de Paschal Sheeran, de 2002, calculó que solo alrededor de 53% de las buenas intenciones se convierte en acción.\n\nEl psicólogo alemán **Peter Gollwitzer** propuso desde los años noventa una herramienta muy simple: las [[intenciones de implementación|Planes que conectan una situación concreta con una acción concreta: «si pasa X, entonces haré Y».]]. No basta con decir «voy a hacer ejercicio». Hay que escribir: «*si* son las 7 de la mañana del lunes, *entonces* me pongo los tenis y salgo».\n\nEn 2006, Gollwitzer y Sheeran reunieron 94 estudios que comparaban a personas con solo una meta contra personas con la meta más un plan si-entonces.",
+   "pregunta": "¿Qué encontró ese análisis de 94 estudios?",
+   "opciones": [
+    "Que no había diferencia: la motivación es lo que importa",
+    "Un efecto medio-grande a favor del plan si-entonces",
+    "Que el plan ayudaba a empezar, pero no a sostener el hábito"
+   ],
+   "correcta": 1,
+   "revelacion": "El efecto fue de d = 0.65, que en psicología se considera de medio a grande. Para que te des una idea: es la diferencia entre una herramienta curiosa y una que de verdad cambia resultados.\n\nY ayudaba en las dos fases. Para arrancar, el efecto fue de 0.61; para no descarrilarse ante tentaciones o distracciones, de 0.77, todavía mayor. La explicación es que el plan le quita trabajo a la fuerza de voluntad: cuando llega la situación (las 7 de la mañana del lunes), la decisión ya está tomada y la acción sale casi en automático.\n\nLa trampa es hacerlo vago. «Si tengo tiempo, leeré» no funciona, porque el tiempo nunca «se tiene». Funciona lo concreto: un momento, un lugar y una acción visible.",
+   "idea": "La voluntad se cansa; una decisión tomada de antemano, no.",
+   "fuente": {
+    "nombre": "National Cancer Institute (EE. UU.): Implementation Intentions",
+    "url": "https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions"
+   },
+   "wiki": "Autocontrol",
+   "claves": [
+    {
+     "nombre": "Metaanálisis",
+     "quien": "Método que combina los resultados de muchos estudios para obtener una conclusión más sólida; así se obtuvo el 0.65.",
+     "wiki": "Metaanálisis"
+    },
+    {
+     "nombre": "Hábito",
+     "quien": "Conducta que se repite casi en automático ante una señal; el plan si-entonces imita ese mecanismo.",
+     "wiki": "Hábito"
+    },
+    {
+     "nombre": "Procrastinación",
+     "quien": "Aplazar lo que sabemos que conviene hacer: el problema que estas herramientas intentan resolver.",
+     "wiki": "Procrastinación"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué es una intención de implementación y qué tan fuerte fue su efecto en el metaanálisis de 2006?",
+    "respuesta": "Un plan «si pasa X, haré Y»; en 94 estudios tuvo un efecto de d = 0.65 (medio-grande), y aún mayor (0.77) para no desviarse."
+   }
+  },
+  {
+   "materia": "Literatura y mitología",
+   "pilar": "cultura",
+   "formato": "diaQueCambio",
+   "titulo": "1925: Max Brod desobedece a Kafka y publica «El proceso»",
+   "contexto": "Praga, verano de 1924. **Franz Kafka** muere el 3 de junio, a los 40 años, de tuberculosis. En vida publicó poco y a regañadientes: algunos relatos como *La metamorfosis* o *La condena*. Era un abogado de una aseguradora que escribía de noche.\n\nEntre sus papeles, su mejor amigo, el escritor **Max Brod**, encuentra dos notas. Kafka le pide que destruya todos sus manuscritos sin publicar: novelas inacabadas, diarios, cartas.\n\nBrod es su [[albacea literario|Persona encargada de administrar la obra y los papeles de un escritor tras su muerte.]]. Tiene en las manos tres novelas sin terminar. Una de ellas cuenta la historia de un hombre detenido una mañana sin saber de qué se le acusa.",
+   "pregunta": "¿Qué hizo Max Brod con los manuscritos?",
+   "opciones": [
+    "Desobedeció: publicó «El proceso», «El castillo» y «América» en 1925, 1926 y 1927",
+    "Obedeció y los quemó todos en la chimenea de Kafka",
+    "Los guardó en secreto y no los publicó hasta los años setenta"
+   ],
+   "correcta": 0,
+   "revelacion": "Brod ignoró las instrucciones. En 1925 publicó *El proceso*; en 1926, *El castillo*; en 1927, *América*. Después siguieron relatos, diarios y cartas.\n\nSin esa desobediencia no existiría la palabra «kafkiano», que hoy usamos para cualquier trámite absurdo y laberíntico. Uno de los autores más influyentes del siglo XX habría sido una nota a pie de página.\n\nEl dilema sigue abierto: ¿traicionó Brod a su amigo o lo salvó? Algunos creen que Kafka, si de verdad quería destruirlo todo, lo habría hecho él mismo, y que eligió a la única persona que no le iba a obedecer. Es una interpretación, no un hecho: nunca sabremos qué quería en el fondo.",
+   "idea": "A veces la lealtad más grande a una obra es desobedecer a su autor.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Kafka,_1923.jpg?width=900",
+    "alt": "Retrato fotográfico de Franz Kafka, con traje oscuro y mirada fija",
+    "pie": "Franz Kafka en 1923, un año antes de morir.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Encyclopaedia Britannica: Franz Kafka — Works",
+    "url": "https://www.britannica.com/biography/Franz-Kafka/Works"
+   },
+   "wiki": "Max Brod",
+   "claves": [
+    {
+     "nombre": "Franz Kafka",
+     "quien": "Escritor de Praga en lengua alemana (1883–1924), autor de «La metamorfosis».",
+     "wiki": "Franz Kafka"
+    },
+    {
+     "nombre": "El proceso",
+     "quien": "La novela de Josef K., detenido sin saber por qué; Brod la publicó en 1925.",
+     "wiki": "El proceso"
+    },
+    {
+     "nombre": "La metamorfosis",
+     "quien": "El relato más famoso que Kafka sí publicó en vida (1915).",
+     "wiki": "La metamorfosis"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué obras publicó Max Brod contra la voluntad de Kafka, y en qué años?",
+    "respuesta": "El proceso (1925), El castillo (1926) y América (1927)."
+   }
+  },
+  {
+   "materia": "Ciudades del mundo",
+   "pilar": "mundo",
+   "formato": "comoFunciona",
+   "titulo": "Londres, 1858: el verano del Gran Hedor y la ciudad que se construyó debajo",
+   "contexto": "Londres, julio de 1858. Hace un calor raro. El Támesis, que recibe los desechos de más de dos millones de personas, fermenta al sol. El olor es tan fuerte que en el Parlamento, a la orilla del río, cuelgan cortinas empapadas en cal para poder trabajar.\n\nLa prensa lo llama el **Gran Hedor**. Los diputados, que llevaban años posponiendo el problema, aprueban en semanas una ley con el dinero para resolverlo.\n\nEl encargado es **Joseph Bazalgette**, ingeniero jefe de la Junta Metropolitana de Obras. El reto: el río era a la vez el drenaje y una de las fuentes de agua de la ciudad.",
+   "pregunta": "¿Cómo logró Bazalgette que los desechos dejaran de llegar al Támesis frente al centro de Londres?",
+   "opciones": [
+    "Con grandes colectores paralelos al río que interceptaban los drenajes y llevaban todo hacia el este, río abajo",
+    "Con plantas químicas en cada barrio que limpiaban el agua antes del río",
+    "Prohibiendo los inodoros con agua en el centro de la ciudad"
+   ],
+   "correcta": 0,
+   "revelacion": "Construyó unas 82 millas (132 km) de grandes túneles de ladrillo, alimentados por más de 1,100 millas de drenajes de calle. Esos túneles corren a lo largo del río, atrapan lo que antes caía en él y lo llevan, por gravedad y con estaciones de bombeo como Crossness y Abbey Mills, lejos del centro. Hicieron falta 318 millones de ladrillos. Se inauguró en 1865 y se terminó en 1875. Parte de los túneles va bajo los nuevos malecones, que le ganaron al río unas 22 hectáreas.\n\nLa decisión más genial fue la más cara: Bazalgette construyó túneles mucho más grandes de lo necesario, pensando en que la ciudad crecería. Gracias a eso, buena parte del sistema sigue funcionando hoy. Hoy se le suma el Tideway, un nuevo «supercolector» de 25 km bajo el río.\n\nHay una ironía: casi todos creían que el cólera se contagiaba por el mal olor, el [[miasma|Teoría antigua según la cual las enfermedades venían del «aire malo» de la materia en descomposición.]]. Estaban equivocados sobre la causa, pero al sacar los desechos del agua acertaron en la solución.",
+   "idea": "Las ciudades que duran se construyen para la población que todavía no llega.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/FaradayFatherThames.jpg?width=900",
+    "alt": "Caricatura de Punch: el científico Michael Faraday entrega su tarjeta a una figura sucia que sale del río Támesis",
+    "pie": "«Faraday entrega su tarjeta al Padre Támesis», caricatura de la revista Punch (1855) sobre la suciedad del río.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "London Museum: How Bazalgette built London's first super-sewer",
+    "url": "https://londonmuseum.org.uk/collections/london-stories/how-bazalgette-built-londons-first-super-sewer"
+   },
+   "profundizar": {
+    "titulo": "Thames Water: historia del sistema de drenaje de Londres (en inglés)",
+    "url": "https://www.thameswater.co.uk/about-us/community/days-out/riverside-spaces/history-of-london-sewer-system"
+   },
+   "wiki": "Gran Hedor",
+   "claves": [
+    {
+     "nombre": "Joseph Bazalgette",
+     "quien": "Ingeniero (1819–1891) que diseñó el sistema de colectores de Londres.",
+     "wiki": "Joseph Bazalgette"
+    },
+    {
+     "nombre": "Támesis",
+     "quien": "El río de Londres, que en 1858 era a la vez drenaje y fuente de agua.",
+     "wiki": "Támesis"
+    },
+    {
+     "nombre": "Cólera",
+     "quien": "La enfermedad que el sistema ayudó a frenar, transmitida por agua contaminada.",
+     "wiki": "Cólera"
+    },
+    {
+     "nombre": "Michael Faraday",
+     "quien": "Científico que en 1855 denunció en una carta al Times lo sucio que estaba el río.",
+     "wiki": "Michael Faraday"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué decisión de Bazalgette explica que sus túneles sigan en uso?",
+    "respuesta": "Los hizo mucho más grandes de lo que la ciudad necesitaba entonces, pensando en su crecimiento."
+   }
+  },
+  {
+   "materia": "Productos digitales escalables",
+   "pilar": "patrimonio",
+   "formato": "sigueDinero",
+   "titulo": "Bandcamp: la tienda de música donde el artista se queda con 82 de cada 100",
+   "contexto": "En las plataformas de streaming, un músico independiente necesita miles de reproducciones para ganar lo que cuesta una cena. **Bandcamp**, fundada en 2008, propuso otro modelo: vender música directamente a los fans, como antes se vendía un disco, pero en archivo.\n\nEl artista pone el precio. Puede fijar un mínimo y dejar que el fan pague más si quiere. Bandcamp cobra una comisión por cada venta y cubre el cobro con tarjeta.",
+   "pregunta": "De cada 10 dólares que un fan paga por un álbum digital en Bandcamp, ¿cuánto recibe en promedio el artista o su sello?",
+   "opciones": [
+    "Unos 5 dólares",
+    "Unos 8.20 dólares",
+    "Unos 9.90 dólares"
+   ],
+   "correcta": 1,
+   "revelacion": "Bandcamp se queda con 15% de la música digital y 10% de la mercancía física. Después de las comisiones de pago, el artista recibe en promedio 82%. Según la propia plataforma, cuando dejan que el fan pague más del mínimo, lo hace la mitad de las veces.\n\nLo escalable está en el archivo: vender un álbum o diez mil cuesta casi lo mismo. La plataforma solo gana si el artista vende, así que sus intereses están alineados. En marzo de 2020, en plena pandemia, inventó los **Bandcamp Fridays**: algunos viernes renuncia a su comisión. Hasta diciembre de 2025 esos días habían pagado 154 millones de dólares, 19 millones solo en 2025. En total, artistas y sellos han recibido más de 1,500 millones.\n\nNo todo fue fácil: Epic Games la compró en 2022 y la vendió en 2023 a Songtradr, que despidió a parte del personal. El modelo funciona; la propiedad ha sido inestable.",
+   "idea": "Cuando la plataforma solo gana si el creador vende, el creador confía y trae a sus fans.",
+   "fuente": {
+    "nombre": "Music Business Worldwide: Bandcamp Fridays hit $154m in payouts since 2020",
+    "url": "https://www.musicbusinessworldwide.com/bandcamp-fridays-hit-154m-in-payouts-since-2020-with-19m-paid-in-2025-alone"
+   },
+   "profundizar": {
+    "titulo": "Bandcamp para artistas: comisiones y herramientas (en inglés)",
+    "url": "https://bandcamp.com/artists"
+   },
+   "wiki": "Bandcamp",
+   "claves": [
+    {
+     "nombre": "Epic Games",
+     "quien": "La empresa de Fortnite, que compró Bandcamp en 2022 y la vendió en 2023.",
+     "wiki": "Epic Games"
+    },
+    {
+     "nombre": "Música independiente",
+     "quien": "La que se produce fuera de las grandes disqueras: el público natural de Bandcamp.",
+     "wiki": "Música independiente"
+    },
+    {
+     "nombre": "Paga lo que quieras",
+     "quien": "Modelo de precio en el que el comprador decide cuánto pagar, a veces con un mínimo.",
+     "wiki": "Paga lo que quieras"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué comisión cobra Bandcamp y cuánto recibe en promedio el artista?",
+    "respuesta": "15% en música digital y 10% en mercancía; el artista recibe en promedio 82% de cada venta."
+   }
+  }
+ ],
+ "hechos": [
+  {
+   "materia": "Retórica y oratoria",
+   "pilar": "mente",
+   "epoca": "1941",
+   "titulo": "«Infamia» fue una corrección de última hora",
+   "dato": "El primer borrador del discurso de Roosevelt tras Pearl Harbor decía que el 7 de diciembre de 1941 era «una fecha que vivirá en la historia mundial». Él mismo tachó «historia mundial» y escribió a mano «infamia».",
+   "explicacion": "Roosevelt dictó el texto a su secretaria, Grace Tully, al anochecer del 7 de diciembre, y luego lo corrigió a lápiz. También cambió «simultáneamente» por «de repente». El discurso, de poco más de 500 palabras, duró unos seis minutos ante el Congreso, al día siguiente.\n\nLa corrección muestra una regla de oro de la retórica: «historia mundial» describe; «infamia» juzga. Una palabra con carga moral convierte un dato en una emoción compartida. Por eso hoy nadie recuerda el borrador y todos recuerdan «el día de la infamia».",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fdr_delivers_speech.jpg?width=900",
+    "alt": "Franklin D. Roosevelt de pie ante un atril con micrófonos, frente al Congreso",
+    "pie": "Roosevelt pronuncia el discurso ante el Congreso, el 8 de diciembre de 1941.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "National Archives (EE. UU.), Prologue: Crafting the «Day of Infamy» speech",
+    "url": "https://www.archives.gov/publications/prologue/2001/winter/crafting-day-of-infamy-speech.html"
+   },
+   "wiki": "Ataque a Pearl Harbor",
+   "claves": [
+    {
+     "nombre": "Franklin D. Roosevelt",
+     "quien": "Presidente de Estados Unidos (1933–1945); pidió al Congreso declarar la guerra a Japón.",
+     "wiki": "Franklin D. Roosevelt"
+    },
+    {
+     "nombre": "Ataque a Pearl Harbor",
+     "quien": "El ataque japonés del 7 de diciembre de 1941 a la base de Hawái.",
+     "wiki": "Ataque a Pearl Harbor"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué decía el borrador antes de «infamia»?",
+    "respuesta": "«Una fecha que vivirá en la historia mundial»; Roosevelt lo corrigió a mano."
+   }
+  },
+  {
+   "materia": "Liderazgo e influencia",
+   "pilar": "caracter",
+   "epoca": "2009",
+   "titulo": "El «milagro del Hudson» fue también un trabajo de equipo",
+   "dato": "El 15 de enero de 2009, un Airbus A320 de US Airways perdió casi todo el empuje de sus dos motores al chocar con aves y acuatizó en el río Hudson. Sobrevivieron los 155 a bordo, y la autoridad investigadora no lo atribuyó solo al piloto.",
+   "explicacion": "El capitán Chesley «Sully» Sullenberger se volvió héroe nacional. Pero la Junta Nacional de Seguridad del Transporte (NTSB) señaló entre los factores de supervivencia «la toma de decisiones de los tripulantes y su gestión de los recursos de la cabina»: copiloto y sobrecargos trabajaron como equipo, con listas de procedimiento y roles claros. Iban 150 pasajeros, entre ellos un bebé en brazos, y 5 tripulantes.\n\nEs una lección de liderazgo: en una crisis, el líder no lo hace todo. Decide lo esencial y confía en un equipo entrenado para ejecutar. El mismo informe pidió mejorar el diseño de las listas de emergencia, porque estaban pensadas para fallas a gran altura.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/US_Airways_Flight_1549_(N106US)_after_crashing_into_the_Hudson_River_(crop_2).jpg?width=900",
+    "alt": "Un avión flotando en el río Hudson con pasajeros de pie sobre las alas y lanchas alrededor",
+    "pie": "El vuelo 1549 en el Hudson, con los pasajeros sobre las alas.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "NTSB: Loss of Thrust in Both Engines… Ditching on the Hudson River",
+    "url": "https://www.ntsb.gov/investigations/Pages/DCA09MA026.aspx"
+   },
+   "wiki": "Vuelo 1549 de US Airways",
+   "claves": [
+    {
+     "nombre": "Chesley Sullenberger",
+     "quien": "El capitán del vuelo 1549, piloto con décadas de experiencia.",
+     "wiki": "Chesley Sullenberger"
+    },
+    {
+     "nombre": "Airbus A320",
+     "quien": "El modelo de avión, uno de los más usados del mundo para vuelos cortos.",
+     "wiki": "Airbus A320"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿A qué atribuyó la NTSB, además del piloto, la supervivencia del vuelo 1549?",
+    "respuesta": "A las decisiones de toda la tripulación y su gestión de los recursos de la cabina (trabajo en equipo)."
+   }
+  },
+  {
+   "materia": "Salud y longevidad",
+   "pilar": "cuerpo",
+   "epoca": "1858",
+   "titulo": "Florence Nightingale salvó vidas con una gráfica",
+   "dato": "La enfermera más famosa del siglo XIX fue también una pionera de la estadística. En 1858 diseñó un diagrama en forma de rosa que mostraba que, en la guerra de Crimea, morían muchos más soldados por enfermedades evitables que por heridas de batalla.",
+   "explicacion": "En algunos hospitales militares, la mortalidad llegó a superar 40%. Nightingale reunió los datos mes por mes y los pintó por colores: azul para las enfermedades prevenibles, rojo para las heridas, negro para otras causas. Comparó dos «rosas»: el año antes y el año después de las reformas sanitarias. El azul se encogía de forma evidente.\n\nLos generales no leían tablas, pero entendían un dibujo. La gráfica ayudó a convencer al gobierno británico de que la higiene, el agua limpia y la ventilación salvaban más vidas que los cirujanos. Hoy es un clásico de la visualización de datos.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nightingale-mortality.jpg?width=900",
+    "alt": "Diagrama circular de Florence Nightingale con cuñas de colores que muestran las causas de muerte por mes",
+    "pie": "El «diagrama de las causas de mortalidad en el ejército de Oriente», de Nightingale.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "McGill University, Office for Science and Society: How Florence Nightingale used data visualization to save lives",
+    "url": "https://www.mcgill.ca/oss/article/how-florence-nightingale-used-data-visualization-save-lives"
+   },
+   "wiki": "Florence Nightingale",
+   "claves": [
+    {
+     "nombre": "Guerra de Crimea",
+     "quien": "Conflicto de 1853 a 1856 entre Rusia y una alianza de Reino Unido, Francia y el Imperio otomano.",
+     "wiki": "Guerra de Crimea"
+    },
+    {
+     "nombre": "Estadística",
+     "quien": "La ciencia de reunir y analizar datos, que Nightingale usó como arma política.",
+     "wiki": "Estadística"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué mostraba la «rosa» de Florence Nightingale?",
+    "respuesta": "Que en la guerra de Crimea morían más soldados por enfermedades evitables que por heridas, y cómo bajaron tras las reformas sanitarias."
+   }
+  },
+  {
+   "materia": "Cine y fotografía",
+   "pilar": "cultura",
+   "epoca": "1861",
+   "titulo": "La primera foto en color no la hizo un fotógrafo, sino un físico",
+   "dato": "El 17 de mayo de 1861, James Clerk Maxwell, el físico del electromagnetismo, proyectó en Londres la primera fotografía en color: un listón de tela escocesa, compuesto con tres fotos tomadas con filtros rojo, verde y azul.",
+   "explicacion": "Maxwell quería probar una teoría: que el ojo ve todos los colores mezclando solo tres. El fotógrafo Thomas Sutton tomó las tres placas y Maxwell las proyectó encimadas, cada una con su filtro. Es el mismo principio de las pantallas actuales, que forman cada píxel con rojo, verde y azul.\n\nEl misterio vino después: las placas de la época casi no captaban el rojo. Un siglo más tarde se propuso que el experimento salió por suerte, porque los tintes rojos reflejaban luz ultravioleta. Un estudio de 2023 de Susanne Klein y Paul Elter cuestiona esa explicación. El primer color de la historia todavía tiene preguntas abiertas.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tartan_Ribbon.jpg?width=900",
+    "alt": "Fotografía antigua y algo borrosa de un listón de tela escocesa con colores rojo, verde y azul",
+    "pie": "El listón escocés de Maxwell y Sutton (1861), la primera fotografía en color.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Heritage (MDPI), 2023: The Tartan Ribbon or Further Experiments of Maxwell's Disappointment/Sutton's Accident",
+    "url": "https://www.mdpi.com/2571-9408/6/2/54"
+   },
+   "wiki": "Fotografía en color",
+   "claves": [
+    {
+     "nombre": "James Clerk Maxwell",
+     "quien": "Físico escocés (1831–1879) que unificó electricidad, magnetismo y luz.",
+     "wiki": "James Clerk Maxwell"
+    },
+    {
+     "nombre": "RGB",
+     "quien": "El modelo rojo-verde-azul con que hoy se forman los colores en las pantallas.",
+     "wiki": "RGB"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Cómo se hizo la primera fotografía en color en 1861?",
+    "respuesta": "Con tres fotos de un listón escocés tomadas con filtros rojo, verde y azul y proyectadas encimadas (Maxwell y Sutton)."
+   }
+  },
+  {
+   "materia": "Ciudades del mundo",
+   "pilar": "mundo",
+   "epoca": "1755",
+   "titulo": "Lisboa se reconstruyó con una jaula de madera dentro de cada muro",
+   "dato": "Después del terremoto del 1 de noviembre de 1755, Lisboa reconstruyó su centro, la Baixa, con edificios que esconden un esqueleto de madera en forma de cruces dentro de la mampostería: la «gaiola pombalina», uno de los primeros sistemas antisísmicos de Europa.",
+   "explicacion": "El ministro Sebastião José de Carvalho e Melo, futuro marqués de Pombal, impuso el método. La idea: la piedra resiste el peso pero se rompe al sacudirse; la madera trabada en diagonales se flexiona y mantiene el edificio en pie mientras los muros se agrietan. Un palacio con el mismo principio en Filogaso, en Calabria, sobrevivió al terremoto de 1783 que destruyó el resto del pueblo.\n\nLa Baixa también se trazó en cuadrícula, con calles anchas y fachadas iguales, algo nuevo para una ciudad medieval. Fue una de las primeras veces que una catástrofe se convirtió en un proyecto de ingeniería y urbanismo pensado para la siguiente.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1755_Lisbon_earthquake.jpg?width=900",
+    "alt": "Grabado antiguo que muestra Lisboa en ruinas y en llamas, con barcos en el río sacudidos por olas",
+    "pie": "Grabado de la época del terremoto, el incendio y el tsunami de Lisboa en 1755.",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (inglés): Gaiola (construction)",
+    "url": "https://en.wikipedia.org/wiki/Gaiola_(construction)"
+   },
+   "wiki": "Terremoto de Lisboa de 1755",
+   "claves": [
+    {
+     "nombre": "Marqués de Pombal",
+     "quien": "Ministro de Portugal (1699–1782) que dirigió la reconstrucción de Lisboa.",
+     "wiki": "Sebastião José de Carvalho e Melo"
+    },
+    {
+     "nombre": "Lisboa",
+     "quien": "La capital de Portugal, cuyo centro reconstruido se conserva hoy.",
+     "wiki": "Lisboa"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué es la «gaiola pombalina»?",
+    "respuesta": "Un esqueleto de madera en cruces dentro de los muros, usado para reconstruir Lisboa tras el terremoto de 1755 y resistir sismos."
+   }
+  },
+  {
+   "materia": "Inversión y finanzas personales",
+   "pilar": "patrimonio",
+   "epoca": "2027",
+   "titulo": "Desde octubre de 2027, una acción en Europa se pagará en un día",
+   "dato": "El 11 de octubre de 2027, la Unión Europea pasará a liquidar las compraventas de acciones y bonos en un día hábil (T+1) en lugar de dos. El 16 de octubre de 2026 la autoridad europea de valores anunció que el marco legal ya está completo.",
+   "explicacion": "Cuando compras una acción, la operación se pacta al instante, pero el intercambio real del dinero y el título, la [[liquidación|Momento en que el comprador recibe los valores y el vendedor el dinero; antes de eso, la operación está pactada pero no cumplida.]], tarda. «T+2» significa dos días después de la operación. Mientras tanto, ambas partes corren el riesgo de que la otra no cumpla.\n\nAcortar el plazo reduce ese riesgo y el dinero que los intermediarios deben tener inmovilizado como garantía. Pero exige que todo funcione más rápido: la autoridad europea fijó desde el 7 de diciembre de 2026 los primeros plazos para que los participantes confirmen sus operaciones. Estados Unidos ya hizo ese cambio antes.",
+   "fuente": {
+    "nombre": "ESMA: One year to go for T+1 settlement (16 de octubre de 2026)",
+    "url": "https://esma.europa.eu/press-news/esma-news/one-year-go-t1-settlement-regulatory-framework-complete-now-lets-make-it"
+   },
+   "wiki": "Autoridad Europea de Valores y Mercados",
+   "claves": [
+    {
+     "nombre": "Autoridad Europea de Valores y Mercados",
+     "quien": "La ESMA, el regulador de los mercados de valores de la Unión Europea.",
+     "wiki": "Autoridad Europea de Valores y Mercados"
+    },
+    {
+     "nombre": "Bolsa de valores",
+     "quien": "El mercado donde se compran y venden acciones y bonos.",
+     "wiki": "Bolsa de valores"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué significa que Europa pase a T+1 el 11 de octubre de 2027?",
+    "respuesta": "Que las compraventas de valores se liquidarán (dinero y títulos cambiarán de manos) un día hábil después de la operación, no dos."
+   }
+  },
+  {
+   "materia": "Ciencia y tecnología",
+   "pilar": "futuro",
+   "epoca": "2035",
+   "titulo": "Los relojes del mundo dejarán de añadir segundos en 2035",
+   "dato": "Desde 1972 se han agregado de vez en cuando «segundos intercalares» para que la hora atómica no se separe de la rotación de la Tierra. En 2022, la Conferencia General de Pesas y Medidas decidió dejar de hacerlo a más tardar en 2035.",
+   "explicacion": "Los relojes atómicos son perfectamente regulares; la Tierra no: su giro varía un poco. La regla actual permite que la diferencia entre ambas horas llegue hasta casi 0.9 segundos; por eso, cada tanto, se añade un segundo. Para las computadoras, las redes y los mercados, ese segundo extra es un dolor de cabeza: puede hacer fallar sistemas que no lo esperan.\n\nLa solución votada no elimina la diferencia, la deja crecer: se ampliará el margen permitido para que la hora oficial pueda seguir sin saltos durante al menos un siglo. El 28.º encuentro de la Conferencia, previsto para 2026, debía recibir la propuesta del nuevo límite.",
+   "fuente": {
+    "nombre": "BIPM: Resolución 4 de la 27.ª CGPM (2022)",
+    "url": "https://www.bipm.org/en/-/resolution-cgpm-27-4"
+   },
+   "wiki": "Segundo intercalar",
+   "claves": [
+    {
+     "nombre": "Tiempo universal coordinado",
+     "quien": "La hora de referencia mundial (UTC), basada en relojes atómicos.",
+     "wiki": "Tiempo universal coordinado"
+    },
+    {
+     "nombre": "Reloj atómico",
+     "quien": "Reloj que mide el tiempo por las oscilaciones de los átomos; el más preciso que existe.",
+     "wiki": "Reloj atómico"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Qué se decidió en 2022 sobre el segundo intercalar?",
+    "respuesta": "Dejar de añadirlo a más tardar en 2035, ampliando el margen entre la hora atómica y la rotación terrestre."
+   }
+  },
+  {
+   "materia": "Etiqueta y protocolo",
+   "pilar": "gusto",
+   "epoca": "1530",
+   "titulo": "Uno de los primeros éxitos editoriales de buenos modales lo escribió Erasmo para un niño",
+   "dato": "En 1530, el humanista Erasmo de Róterdam publicó «De la urbanidad en las maneras de los niños», un librito escrito para Enrique de Borgoña, de once años. Se tradujo a muchos idiomas y se reimprimió tanto que una tipografía francesa acabó llamándose «civilité».",
+   "explicacion": "Erasmo era el intelectual más famoso de Europa, y aun así dedicó un tratado a cómo comportarse en la mesa, cómo vestirse o cómo mirar a los demás. Su idea era moderna: los modales no son un lujo de la nobleza, sino algo que se aprende y que expresa respeto por los otros.\n\nCuatro siglos después, el sociólogo Norbert Elias usó este libro como pieza clave de *El proceso de la civilización*. Mostró cómo lo que hoy nos parece «natural», como no comer con las manos del plato común, fue una conquista lenta, escrita en manuales como este.",
+   "imagen": {
+    "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Holbein_d._J._-_Erasmus_-_Louvre.jpg?width=900",
+    "alt": "Retrato de perfil de Erasmo de Róterdam escribiendo, con gorro negro",
+    "pie": "Erasmo de Róterdam, retratado por Hans Holbein el Joven (Louvre).",
+    "credito": "Wikimedia Commons"
+   },
+   "fuente": {
+    "nombre": "Wikipedia (inglés): On Civility in Children",
+    "url": "https://en.wikipedia.org/wiki/On_Civility_in_Children"
+   },
+   "wiki": "Erasmo de Róterdam",
+   "claves": [
+    {
+     "nombre": "Norbert Elias",
+     "quien": "Sociólogo alemán (1897–1990), autor de «El proceso de la civilización».",
+     "wiki": "Norbert Elias"
+    },
+    {
+     "nombre": "Renacimiento",
+     "quien": "La época en que Erasmo escribió, cuando los manuales de conducta se multiplicaron gracias a la imprenta.",
+     "wiki": "Renacimiento"
+    }
+   ],
+   "repaso": {
+    "pregunta": "¿Para quién escribió Erasmo su manual de urbanidad de 1530?",
+    "respuesta": "Para Enrique de Borgoña, un niño de once años; el libro se tradujo a muchos idiomas."
+   }
+  }
+ ],
+ "lectura": {
+  "libro": "La Odisea",
+  "autor": "Homero",
+  "capitulo": {
+   "numero": 1,
+   "total": 6,
+   "titulo": "Telémaco sale a buscar a su padre"
+  },
+  "minutos": 9,
+  "imagen": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/JohnWilliamWaterhouse-PenelopeandtheSuitors(1912).jpg?width=900",
+   "alt": "Pintura de Penélope tejiendo en su telar mientras varios pretendientes la observan desde una ventana",
+   "pie": "«Penélope y los pretendientes», de John William Waterhouse (1912).",
+   "credito": "Wikimedia Commons"
+  },
+  "secciones": [
+   {
+    "tipo": "texto",
+    "texto": "¿Qué haces cuando la persona que debería protegerte lleva veinte años fuera, y tu casa se llenó de extraños que se comen tu herencia?\n\nAsí empieza una de las historias más antiguas de Occidente. No empieza con su héroe. Empieza con su hijo.\n\nLa *Odisea* es un poema de unos 12,000 versos atribuido a [[Homero|Poeta griego al que la tradición atribuye la Ilíada y la Odisea; no sabemos con certeza si existió como una sola persona.]], fijado por escrito probablemente en el siglo VIII o VII a. C. Cuenta el regreso de **Odiseo** (Ulises, para los romanos), rey de la isla de [[Ítaca|Pequeña isla del mar Jónico, al oeste de Grecia; en el poema es el reino de Odiseo.]], después de la guerra de Troya. Diez años duró la guerra; casi diez más, el viaje de vuelta."
+   },
+   {
+    "tipo": "cita",
+    "texto": "Háblame, Musa, del hombre de muchos recursos que anduvo errante largo tiempo, después de arrasar la sagrada ciudadela de Troya.",
+    "fuente": "Odisea, canto I, versos 1–2"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Fíjate en la palabra clave: *polýtropos*, «de muchos giros». Odiseo no es el más fuerte de los griegos; es el más astuto. Fue él quien ideó el caballo de madera. Toda la *Odisea* es un elogio de la inteligencia práctica: saber cuándo hablar, cuándo callar, cuándo disfrazarse."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Hay un detalle de construcción que conviene notar desde ya. El poema no empieza por el principio, con la caída de Troya, sino casi al final: en el décimo año del regreso. Los romanos llamaron a esta técnica [[in medias res|«En mitad del asunto»: empezar una narración en un momento avanzado y contar lo anterior después, con recuerdos o relatos.]]. Lo que pasó antes, el cíclope, las sirenas, la bajada al mundo de los muertos, lo contará el propio Odiseo más adelante, en un banquete.\n\nEs la misma técnica que usan hoy las series y las películas que abren con la escena de mayor tensión y luego retroceden. Homero la usó hace casi tres mil años, y por la misma razón: atrapar al público antes de explicarle nada."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Los dioses discuten"
+   },
+   {
+    "tipo": "texto",
+    "texto": "La acción empieza en el Olimpo. Odiseo está atrapado en la isla de la ninfa **Calipso**, que lo retiene desde hace años porque quiere casarse con él. Poseidón, dios del mar, lo odia porque Odiseo dejó ciego a su hijo, el cíclope Polifemo.\n\nZeus aprovecha la reunión de los dioses para quejarse de los humanos. Es una de las frases más sorprendentes del poema, porque suena a filosofía moderna:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "¡Ay, cómo culpan los mortales a los dioses! Dicen que de nosotros les vienen los males, y son ellos quienes, por su propia insensatez, sufren más dolores de los que les tocaban.",
+    "fuente": "Odisea, canto I, versos 32–34"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Zeus pone un ejemplo: **Egisto**, que mató a Agamenón al volver de Troya, aunque los dioses le habían advertido. La idea es incómoda: no todo es destino. Buena parte de lo que nos pasa lo provocamos nosotros. Esa tensión, entre lo que viene de fuera y lo que es responsabilidad propia, recorre todo el poema.\n\nAtenea, diosa de la sabiduría y protectora de Odiseo, convence a Zeus de liberarlo. Y decide ir ella misma a Ítaca, a despertar al hijo."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Una casa tomada"
+   },
+   {
+    "tipo": "texto",
+    "texto": "En Ítaca, el palacio está invadido. Más de cien [[pretendientes|Jóvenes nobles de Ítaca y de las islas vecinas que quieren casarse con Penélope y quedarse con el trono.]] se han instalado ahí. Quieren casarse con **Penélope**, la esposa de Odiseo, y como ella no elige, se quedan: matan el ganado, beben el vino, mandan a los sirvientes. Es un saqueo lento y legal, porque nadie se atreve a echarlos.\n\nEl hijo, **Telémaco**, tiene unos veinte años. Nació cuando su padre se fue a la guerra. No lo conoce. Se pasa los días sentado entre los invasores, soñando con que su padre aparezca y los eche a todos.\n\nAtenea llega disfrazada de **Mentes**, un viejo amigo de la familia. Telémaco es el único que se levanta a recibir al forastero, le da asiento y comida. La hospitalidad, en el mundo griego, era casi sagrada: la manera de tratar al extranjero decía quién eras. Los pretendientes, que ni lo miran, ya han mostrado quiénes son."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Por qué es importante que Telémaco sea el único que atiende al forastero?",
+    "opciones": [
+     "Porque necesitaba vender algo al visitante",
+     "Porque en el mundo griego la hospitalidad revelaba el carácter: él la cumple y los pretendientes no",
+     "Porque reconoció de inmediato que era la diosa Atenea"
+    ],
+    "correcta": 1,
+    "explicacion": "La hospitalidad (xenía) era una obligación protegida por Zeus. Homero usa la escena para mostrar, sin decirlo, que Telémaco es noble y que los pretendientes violan las reglas más básicas."
+   },
+   {
+    "tipo": "texto",
+    "texto": "La diosa le pregunta si de verdad es hijo de Odiseo. La respuesta de Telémaco es de una tristeza enorme:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "Mi madre dice que soy hijo suyo; yo no lo sé, porque nadie sabe por sí mismo quién es su padre.",
+    "fuente": "Odisea, canto I, versos 215–216"
+   },
+   {
+    "tipo": "texto",
+    "texto": "No es una duda sobre su madre. Es la duda de un joven que nunca ha visto a su padre y no sabe si está a su altura. Atenea le contesta que se le parece mucho, en la cabeza y en los ojos, y luego le da un consejo que es, en realidad, una orden:"
+   },
+   {
+    "tipo": "cita",
+    "texto": "No debes seguir con niñerías, que ya no tienes edad para ello.",
+    "fuente": "Odisea, canto I, versos 296–297"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Le dice que convoque a la asamblea, que exija a los pretendientes que se vayan y que se embarque a buscar noticias de su padre en Pilos y en Esparta. Y se va volando como un pájaro. Telémaco entiende que ha hablado con un dios, y algo en él cambia."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "El primer acto de un hombre"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Esa misma noche, Penélope baja de sus habitaciones y le pide al cantor del palacio que no cante el regreso de los héroes de Troya, porque le duele. Telémaco, por primera vez, la contradice delante de todos y la manda a su telar: que la palabra, en esa casa, le toca ahora a él. Los pretendientes se quedan sorprendidos.\n\nAl día siguiente, en la asamblea, uno de ellos, **Antínoo**, culpa a Penélope de todo. Cuenta su famoso engaño: ella prometió elegir marido cuando terminara de tejer un sudario para su suegro, el viejo Laertes. Tejía de día y, de noche, a la luz de las antorchas, deshacía lo tejido. Así los entretuvo tres años, hasta que una criada la delató.\n\nPenélope es tan astuta como su marido. El *telar de Penélope* quedó como imagen de un trabajo que se deshace a propósito para ganar tiempo."
+   },
+   {
+    "tipo": "pregunta",
+    "pregunta": "¿Qué hacía Penélope con el sudario que tejía para Laertes?",
+    "opciones": [
+     "Lo vendía para pagar las deudas del palacio",
+     "Lo terminó en un mes para elegir pronto marido",
+     "Lo tejía de día y lo deshacía de noche para no tener que elegir"
+    ],
+    "correcta": 2,
+    "explicacion": "Era su forma de ganar tiempo sin romper su promesa. Lo logró durante tres años, hasta que una criada reveló el engaño."
+   },
+   {
+    "tipo": "subtitulo",
+    "texto": "Un mentor de verdad"
+   },
+   {
+    "tipo": "texto",
+    "texto": "Telémaco sale de noche en un barco. Lo acompaña Atenea, ahora disfrazada de **Mentor**, un viejo amigo de Odiseo. En Pilos, el anciano rey **Néstor** lo recibe con un banquete, pero no sabe dónde está Odiseo. En Esparta, **Menelao** y **Helena**, ya reconciliados después de Troya, le dan la primera pista: el dios marino Proteo le contó a Menelao que Odiseo vive, retenido en la isla de Calipso.\n\nMientras tanto, en Ítaca, los pretendientes preparan una emboscada para matar a Telémaco a su regreso. Ya no lo ven como un muchacho: lo ven como un rival."
+   },
+   {
+    "tipo": "nota",
+    "titulo": "De Homero a tu oficina",
+    "texto": "La palabra «mentor» viene de este canto. Su uso moderno, el de un consejero que forma a alguien más joven, se popularizó con *Las aventuras de Telémaco* (1699), una novela en francés de **Fénelon**, el arzobispo que educaba al nieto de Luis XIV. Fue uno de los libros más leídos del siglo XVIII."
+   },
+   {
+    "tipo": "texto",
+    "texto": "Estos primeros cuatro cantos se llaman la *Telemaquia*. Odiseo casi no aparece, y sin embargo son esenciales. Antes de contar cómo regresa el padre, Homero cuenta cómo se hace hombre el hijo: deja de esperar a que alguien lo rescate, toma la palabra y sale a buscar lo que le falta.\n\nHay algo más en esa elección. El público de Homero sabía cómo terminaba la historia: Odiseo vuelve y castiga a los pretendientes. El suspenso no está en el qué, sino en el cómo, y en quién estará listo cuando llegue el momento. Telémaco tenía que estarlo.\n\nEn el próximo capítulo, por fin, conoceremos a Odiseo: llorando en una playa, frente al mar, con todo lo que quiere al otro lado."
+   }
+  ],
+  "paraLlevar": [
+   "Buena parte de lo que nos pasa no viene de los dioses, sino de nuestra propia insensatez.",
+   "Crecer empieza el día que dejas de esperar a que alguien venga a rescatarte.",
+   "La astucia, como el telar de Penélope, a veces consiste en ganar tiempo."
+  ],
+  "repaso": [
+   {
+    "pregunta": "¿Bajo qué disfraces ayuda Atenea a Telémaco en los primeros cantos?",
+    "respuesta": "Primero como Mentes, un amigo de la familia; después como Mentor, el viejo amigo de Odiseo que lo acompaña en el viaje."
+   },
+   {
+    "pregunta": "¿Qué noticia recibe Telémaco en Esparta?",
+    "respuesta": "Menelao le cuenta que, según el dios Proteo, Odiseo vive retenido en la isla de la ninfa Calipso."
+   }
+  ],
+  "proximo": "La Odisea (Homero) · Capítulo 2: Odiseo deja a Calipso y llega a la tierra de los feacios",
+  "fuentes": [
+   {
+    "nombre": "Proyecto Gutenberg: The Odyssey, trad. de Samuel Butler (1900)",
+    "url": "https://www.gutenberg.org/ebooks/1727"
+   }
+  ],
+  "nota": "Citas traducidas por AUXO a partir del texto griego de la Odisea (dominio público), con la traducción inglesa de Samuel Butler (1900, Proyecto Gutenberg) como referencia."
+ },
+ "portada": {
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahabodhi_Temple_-_Bodh_Gaya.jpg?width=900",
+  "alt": "El templo de Mahabodhi, una alta torre de piedra en Bodh Gaya, India",
+  "pie": "El templo de Mahabodhi, en Bodh Gaya, marca el lugar donde, según la tradición, Siddhartha despertó bajo un árbol.",
+  "credito": "Wikimedia Commons"
+ },
+ "palabra": {
+  "palabra": "Ecuanimidad",
+  "categoria": "Sustantivo femenino",
+  "pronunciacion": "e-cua-ni-mi-DAD",
+  "definicion": "Igualdad y constancia de ánimo; capacidad de mantener la calma y el juicio tanto en lo bueno como en lo malo. También, imparcialidad al juzgar.",
+  "origen": "Del latín *aequanimitas*, de *aequus*, «igual, parejo», y *animus*, «ánimo». Literalmente, «ánimo parejo». En el budismo traduce a menudo la palabra pali *upekkhā*, una de las virtudes que se cultivan con la meditación.",
+  "ejemplo": "Recibió la mala noticia del peso con ecuanimidad: revisó sus costos, ajustó dos precios y siguió con su día.",
+  "repaso": {
+   "pregunta": "¿Qué significa literalmente «ecuanimidad»?",
+   "respuesta": "«Ánimo parejo», del latín aequus (igual) y animus (ánimo)."
+  }
+ },
+ "frances": {
+  "frase": "Il faut trouver le juste milieu.",
+  "traduccion": "«Hay que encontrar el justo medio.»",
+  "pronunciacion": "il fo tru-VÉ le yust mi-LIÉ",
+  "uso": "Cultura y conversación. Se dice cuando alguien exagera hacia un lado y conviene equilibrar: en una negociación, en una dieta, en el trabajo. «Le juste milieu» tiene historia: en la década de 1830 fue el lema del rey Luis Felipe, que quería gobernar entre los revolucionarios y los monárquicos absolutistas.",
+  "variante": "« Ni trop, ni trop peu. » («Ni mucho, ni muy poco.»)",
+  "repaso": {
+   "pregunta": "¿Cómo se dice en francés «hay que encontrar el justo medio»?",
+   "respuesta": "« Il faut trouver le juste milieu. »"
+  }
+ },
+ "microexamen": [
+  {
+   "origen": "historia",
+   "pregunta": "¿Qué propuso el Buda en su primer sermón, en Sarnath?",
+   "opciones": [
+    "Ayunar hasta dominar por completo el cuerpo",
+    "Volver a la vida de placeres del palacio",
+    "Un camino medio entre la autocomplacencia y la mortificación"
+   ],
+   "correcta": 2,
+   "explicacion": "Después de probar ambos extremos, enseñó que ninguno llevaba a la liberación. Ese es el camino medio, junto con las Cuatro Nobles Verdades."
+  },
+  {
+   "origen": "noticias",
+   "pregunta": "¿Cuánto consumo cubre la condonación del agua aprobada en comisión para 627 colonias del área metropolitana de Guadalajara?",
+   "opciones": [
+    "El 100% de los primeros 25 m³ al mes de uso habitacional",
+    "Todo el consumo, sin límite, durante un año",
+    "El 50% del recibo de enero"
+   ],
+   "correcta": 0,
+   "explicacion": "El dictamen condona 100% de los primeros 25 m³ mensuales en noviembre y diciembre; quien gaste más paga el excedente. El Pleno lo vota el 30 de noviembre."
+  },
+  {
+   "origen": "hechos",
+   "pregunta": "¿Qué cambiará en la Unión Europea el 11 de octubre de 2027?",
+   "opciones": [
+    "Se eliminará el segundo intercalar",
+    "Las compraventas de valores se liquidarán en un día hábil (T+1)",
+    "Las bolsas abrirán también en fin de semana"
+   ],
+   "correcta": 1,
+   "explicacion": "Europa pasa de T+2 a T+1: el dinero y los títulos cambiarán de manos un día después de la operación, lo que reduce el riesgo de incumplimiento."
+  }
+ ],
+ "libro": null,
+ "proximo": "313: el edicto de Milán, cuando Roma dejó de perseguir a los cristianos"
+}

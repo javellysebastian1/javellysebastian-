@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27",
+ "actualizado": "2026-11-28",
  "materias": {
   "Arquitectura y diseño": [
    {
@@ -221,6 +221,36 @@
   ],
   "Ciencia y tecnología": [
    {
+    "materia": "Ciencia y tecnología",
+    "pilar": "futuro",
+    "epoca": "2035",
+    "titulo": "Los relojes del mundo dejarán de añadir segundos en 2035",
+    "dato": "Desde 1972 se han agregado de vez en cuando «segundos intercalares» para que la hora atómica no se separe de la rotación de la Tierra. En 2022, la Conferencia General de Pesas y Medidas decidió dejar de hacerlo a más tardar en 2035.",
+    "explicacion": "Los relojes atómicos son perfectamente regulares; la Tierra no: su giro varía un poco. La regla actual permite que la diferencia entre ambas horas llegue hasta casi 0.9 segundos; por eso, cada tanto, se añade un segundo. Para las computadoras, las redes y los mercados, ese segundo extra es un dolor de cabeza: puede hacer fallar sistemas que no lo esperan.\n\nLa solución votada no elimina la diferencia, la deja crecer: se ampliará el margen permitido para que la hora oficial pueda seguir sin saltos durante al menos un siglo. El 28.º encuentro de la Conferencia, previsto para 2026, debía recibir la propuesta del nuevo límite.",
+    "fuente": {
+     "nombre": "BIPM: Resolución 4 de la 27.ª CGPM (2022)",
+     "url": "https://www.bipm.org/en/-/resolution-cgpm-27-4"
+    },
+    "wiki": "Segundo intercalar",
+    "claves": [
+     {
+      "nombre": "Tiempo universal coordinado",
+      "quien": "La hora de referencia mundial (UTC), basada en relojes atómicos.",
+      "wiki": "Tiempo universal coordinado"
+     },
+     {
+      "nombre": "Reloj atómico",
+      "quien": "Reloj que mide el tiempo por las oscilaciones de los átomos; el más preciso que existe.",
+      "wiki": "Reloj atómico"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué se decidió en 2022 sobre el segundo intercalar?",
+     "respuesta": "Dejar de añadirlo a más tardar en 2035, ampliando el margen entre la hora atómica y la rotación terrestre."
+    },
+    "fecha": "2026-11-28"
+   },
+   {
     "claves": [
      {
       "nombre": "Historia del teléfono móvil",
@@ -367,39 +397,45 @@
     },
     "titulo": "El láser nació sin saber para qué servía",
     "wiki": "Láser"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Percy Spencer",
-      "quien": "Ingeniero estadounidense sin título universitario que inventó el microondas.",
-      "wiki": "Percy Spencer"
-     },
-     {
-      "nombre": "Magnetrón",
-      "quien": "El tubo que genera las microondas en radares y hornos.",
-      "wiki": "Magnetrón"
-     }
-    ],
-    "dato": "El primer horno de microondas comercial, el Radarange de 1947, medía casi 1.8 metros y pesaba unos 340 kilos.",
-    "epoca": "1947",
-    "explicacion": "El ingeniero Percy Spencer, de Raytheon, trabajaba con magnetrones para radares. Notó que una barra de chocolate se derretía en su bolsillo y probó con palomitas. Raytheon patentó la idea en 1945.\n\nEl Radarange costaba miles de dólares y lo compraban restaurantes, barcos y trenes. El modelo doméstico de mesa no llegó hasta 1967, y tardó décadas más en volverse común en las casas.",
-    "fecha": "2026-11-12",
-    "fuente": {
-     "nombre": "Smithsonian Magazine: Hot Food, Fast: The Home Microwave Oven",
-     "url": "https://www.smithsonianmag.com/innovation/hot-food-fast-home-microwave-oven-turns-50-180962545/"
-    },
-    "materia": "Ciencia y tecnología",
-    "pilar": "futuro",
-    "repaso": {
-     "pregunta": "¿Cómo descubrió Percy Spencer el horno de microondas?",
-     "respuesta": "Una barra de chocolate se derritió en su bolsillo mientras trabajaba con un magnetrón de radar."
-    },
-    "titulo": "El primer microondas pesaba como un piano",
-    "wiki": "Horno de microondas"
    }
   ],
   "Cine y fotografía": [
+   {
+    "materia": "Cine y fotografía",
+    "pilar": "cultura",
+    "epoca": "1861",
+    "titulo": "La primera foto en color no la hizo un fotógrafo, sino un físico",
+    "dato": "El 17 de mayo de 1861, James Clerk Maxwell, el físico del electromagnetismo, proyectó en Londres la primera fotografía en color: un listón de tela escocesa, compuesto con tres fotos tomadas con filtros rojo, verde y azul.",
+    "explicacion": "Maxwell quería probar una teoría: que el ojo ve todos los colores mezclando solo tres. El fotógrafo Thomas Sutton tomó las tres placas y Maxwell las proyectó encimadas, cada una con su filtro. Es el mismo principio de las pantallas actuales, que forman cada píxel con rojo, verde y azul.\n\nEl misterio vino después: las placas de la época casi no captaban el rojo. Un siglo más tarde se propuso que el experimento salió por suerte, porque los tintes rojos reflejaban luz ultravioleta. Un estudio de 2023 de Susanne Klein y Paul Elter cuestiona esa explicación. El primer color de la historia todavía tiene preguntas abiertas.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tartan_Ribbon.jpg?width=900",
+     "alt": "Fotografía antigua y algo borrosa de un listón de tela escocesa con colores rojo, verde y azul",
+     "pie": "El listón escocés de Maxwell y Sutton (1861), la primera fotografía en color.",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Heritage (MDPI), 2023: The Tartan Ribbon or Further Experiments of Maxwell's Disappointment/Sutton's Accident",
+     "url": "https://www.mdpi.com/2571-9408/6/2/54"
+    },
+    "wiki": "Fotografía en color",
+    "claves": [
+     {
+      "nombre": "James Clerk Maxwell",
+      "quien": "Físico escocés (1831–1879) que unificó electricidad, magnetismo y luz.",
+      "wiki": "James Clerk Maxwell"
+     },
+     {
+      "nombre": "RGB",
+      "quien": "El modelo rojo-verde-azul con que hoy se forman los colores en las pantallas.",
+      "wiki": "RGB"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Cómo se hizo la primera fotografía en color en 1861?",
+     "respuesta": "Con tres fotos de un listón escocés tomadas con filtros rojo, verde y azul y proyectadas encimadas (Maxwell y Sutton)."
+    },
+    "fecha": "2026-11-28"
+   },
    {
     "claves": [
      {
@@ -504,6 +540,42 @@
    }
   ],
   "Ciudades del mundo": [
+   {
+    "materia": "Ciudades del mundo",
+    "pilar": "mundo",
+    "epoca": "1755",
+    "titulo": "Lisboa se reconstruyó con una jaula de madera dentro de cada muro",
+    "dato": "Después del terremoto del 1 de noviembre de 1755, Lisboa reconstruyó su centro, la Baixa, con edificios que esconden un esqueleto de madera en forma de cruces dentro de la mampostería: la «gaiola pombalina», uno de los primeros sistemas antisísmicos de Europa.",
+    "explicacion": "El ministro Sebastião José de Carvalho e Melo, futuro marqués de Pombal, impuso el método. La idea: la piedra resiste el peso pero se rompe al sacudirse; la madera trabada en diagonales se flexiona y mantiene el edificio en pie mientras los muros se agrietan. Un palacio con el mismo principio en Filogaso, en Calabria, sobrevivió al terremoto de 1783 que destruyó el resto del pueblo.\n\nLa Baixa también se trazó en cuadrícula, con calles anchas y fachadas iguales, algo nuevo para una ciudad medieval. Fue una de las primeras veces que una catástrofe se convirtió en un proyecto de ingeniería y urbanismo pensado para la siguiente.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1755_Lisbon_earthquake.jpg?width=900",
+     "alt": "Grabado antiguo que muestra Lisboa en ruinas y en llamas, con barcos en el río sacudidos por olas",
+     "pie": "Grabado de la época del terremoto, el incendio y el tsunami de Lisboa en 1755.",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Gaiola (construction)",
+     "url": "https://en.wikipedia.org/wiki/Gaiola_(construction)"
+    },
+    "wiki": "Terremoto de Lisboa de 1755",
+    "claves": [
+     {
+      "nombre": "Marqués de Pombal",
+      "quien": "Ministro de Portugal (1699–1782) que dirigió la reconstrucción de Lisboa.",
+      "wiki": "Sebastião José de Carvalho e Melo"
+     },
+     {
+      "nombre": "Lisboa",
+      "quien": "La capital de Portugal, cuyo centro reconstruido se conserva hoy.",
+      "wiki": "Lisboa"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué es la «gaiola pombalina»?",
+     "respuesta": "Un esqueleto de madera en cruces dentro de los muros, usado para reconstruir Lisboa tras el terremoto de 1755 y resistir sismos."
+    },
+    "fecha": "2026-11-28"
+   },
    {
     "claves": [
      {
@@ -645,51 +717,10 @@
     },
     "titulo": "La capital de Australia la diseñó una pareja de Chicago",
     "wiki": "Camberra"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Ánfora",
-      "quien": "Vasija de barro con dos asas para transportar aceite o vino.",
-      "wiki": "Ánfora"
-     },
-     {
-      "nombre": "Bética",
-      "quien": "Provincia romana del sur de Hispania, gran exportadora de aceite.",
-      "wiki": "Bética"
-     }
-    ],
-    "dato": "El Monte Testaccio, en Roma, es una colina artificial de unos 35 metros formada por pedazos de ánforas rotas: se calcula que unos 50 millones.",
-    "epoca": "Siglos I–III",
-    "explicacion": "Casi todas eran ánforas de aceite de oliva traídas de la Bética, el sur de Hispania. El barro poroso absorbía el aceite y se ponía rancio, así que no se podían reutilizar. Los romanos las rompían y las apilaban con orden, cubriéndolas de cal.\n\nHoy es un archivo económico: muchas piezas tienen sellos y fechas, y permiten reconstruir cuánto aceite comía Roma y quién lo vendía.",
-    "fecha": "2026-11-12",
-    "fuente": {
-     "nombre": "Turismo Roma: El Monte dei Cocci",
-     "url": "https://www.turismoroma.it/es/places/el-monte-dei-cocci"
-    },
-    "materia": "Ciudades del mundo",
-    "pilar": "mundo",
-    "repaso": {
-     "pregunta": "¿De qué está hecho el Monte Testaccio?",
-     "respuesta": "De fragmentos de unos 50 millones de ánforas de aceite, sobre todo de Hispania."
-    },
-    "titulo": "Roma tiene un cerro hecho de basura",
-    "wiki": "Testaccio (rione de Roma)"
    }
   ],
   "Deporte y aire libre": [
    {
-    "materia": "Deporte y aire libre",
-    "pilar": "cuerpo",
-    "epoca": "2026",
-    "titulo": "El Estadio Azteca es el único que ha inaugurado tres Mundiales",
-    "dato": "El 11 de junio de 2026, el estadio de la Ciudad de México abrió su tercera Copa del Mundo, después de 1970 y 1986. Ningún otro estadio lo ha hecho.",
-    "explicacion": "El récord es posible por una coincidencia de historia y de tamaño. México organizó el Mundial de 1970 y, en 1986, lo rescató cuando Colombia renunció a ser sede. En ambos casos el Azteca, inaugurado en 1966, era el estadio más grande del país. En 2026, el primer Mundial con tres anfitriones (México, Estados Unidos y Canadá) y con 48 selecciones, la FIFA volvió a darle el partido inaugural.\n\nGuadalajara también fue sede: el Estadio Akron, en Zapopan, recibió partidos de la fase de grupos. Para una ciudad, un Mundial es una prueba de infraestructura y de marca. El Azteca demuestra que un edificio puede acumular prestigio durante 60 años si se mantiene vigente.",
-    "fuente": {
-     "nombre": "TUDN: Estadio Banorte, el primero en recibir la inauguración de tres Mundiales",
-     "url": "https://www.tudn.com/mundial-2026/estadio-banorte-hara-historia-en-el-mundial-2026-con-su-tercera-inauguracion"
-    },
-    "wiki": "Estadio Azteca",
     "claves": [
      {
       "nombre": "Copa Mundial de Fútbol de 2026",
@@ -707,11 +738,22 @@
       "wiki": "Estadio Akron"
      }
     ],
+    "dato": "El 11 de junio de 2026, el estadio de la Ciudad de México abrió su tercera Copa del Mundo, después de 1970 y 1986. Ningún otro estadio lo ha hecho.",
+    "epoca": "2026",
+    "explicacion": "El récord es posible por una coincidencia de historia y de tamaño. México organizó el Mundial de 1970 y, en 1986, lo rescató cuando Colombia renunció a ser sede. En ambos casos el Azteca, inaugurado en 1966, era el estadio más grande del país. En 2026, el primer Mundial con tres anfitriones (México, Estados Unidos y Canadá) y con 48 selecciones, la FIFA volvió a darle el partido inaugural.\n\nGuadalajara también fue sede: el Estadio Akron, en Zapopan, recibió partidos de la fase de grupos. Para una ciudad, un Mundial es una prueba de infraestructura y de marca. El Azteca demuestra que un edificio puede acumular prestigio durante 60 años si se mantiene vigente.",
+    "fecha": "2026-11-27",
+    "fuente": {
+     "nombre": "TUDN: Estadio Banorte, el primero en recibir la inauguración de tres Mundiales",
+     "url": "https://www.tudn.com/mundial-2026/estadio-banorte-hara-historia-en-el-mundial-2026-con-su-tercera-inauguracion"
+    },
+    "materia": "Deporte y aire libre",
+    "pilar": "cuerpo",
     "repaso": {
      "pregunta": "¿Qué récord tiene el Estadio Azteca?",
      "respuesta": "Es el único estadio que ha inaugurado tres Mundiales: 1970, 1986 y 2026."
     },
-    "fecha": "2026-11-27"
+    "titulo": "El Estadio Azteca es el único que ha inaugurado tres Mundiales",
+    "wiki": "Estadio Azteca"
    },
    {
     "claves": [
@@ -1534,6 +1576,42 @@
   ],
   "Etiqueta y protocolo": [
    {
+    "materia": "Etiqueta y protocolo",
+    "pilar": "gusto",
+    "epoca": "1530",
+    "titulo": "Uno de los primeros éxitos editoriales de buenos modales lo escribió Erasmo para un niño",
+    "dato": "En 1530, el humanista Erasmo de Róterdam publicó «De la urbanidad en las maneras de los niños», un librito escrito para Enrique de Borgoña, de once años. Se tradujo a muchos idiomas y se reimprimió tanto que una tipografía francesa acabó llamándose «civilité».",
+    "explicacion": "Erasmo era el intelectual más famoso de Europa, y aun así dedicó un tratado a cómo comportarse en la mesa, cómo vestirse o cómo mirar a los demás. Su idea era moderna: los modales no son un lujo de la nobleza, sino algo que se aprende y que expresa respeto por los otros.\n\nCuatro siglos después, el sociólogo Norbert Elias usó este libro como pieza clave de *El proceso de la civilización*. Mostró cómo lo que hoy nos parece «natural», como no comer con las manos del plato común, fue una conquista lenta, escrita en manuales como este.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Holbein_d._J._-_Erasmus_-_Louvre.jpg?width=900",
+     "alt": "Retrato de perfil de Erasmo de Róterdam escribiendo, con gorro negro",
+     "pie": "Erasmo de Róterdam, retratado por Hans Holbein el Joven (Louvre).",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "Wikipedia (inglés): On Civility in Children",
+     "url": "https://en.wikipedia.org/wiki/On_Civility_in_Children"
+    },
+    "wiki": "Erasmo de Róterdam",
+    "claves": [
+     {
+      "nombre": "Norbert Elias",
+      "quien": "Sociólogo alemán (1897–1990), autor de «El proceso de la civilización».",
+      "wiki": "Norbert Elias"
+     },
+     {
+      "nombre": "Renacimiento",
+      "quien": "La época en que Erasmo escribió, cuando los manuales de conducta se multiplicaron gracias a la imprenta.",
+      "wiki": "Renacimiento"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Para quién escribió Erasmo su manual de urbanidad de 1530?",
+     "respuesta": "Para Enrique de Borgoña, un niño de once años; el libro se tradujo a muchos idiomas."
+    },
+    "fecha": "2026-11-28"
+   },
+   {
     "claves": [
      {
       "nombre": "Acrónimo",
@@ -1668,51 +1746,10 @@
     },
     "titulo": "Luis XIV cenaba con público",
     "wiki": "Usos y costumbres en la corte de Versalles"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Pedro Damián",
-      "quien": "Monje y cardenal italiano del siglo XI, crítico del lujo.",
-      "wiki": "Pedro Damián"
-     },
-     {
-      "nombre": "Imperio bizantino",
-      "quien": "El Imperio romano de Oriente, con capital en Constantinopla.",
-      "wiki": "Imperio bizantino"
-     }
-    ],
-    "dato": "Hacia el año 1004, una princesa bizantina casada con el hijo del dux de Venecia comía con un tenedor de oro. Un santo lo llamó vanidad.",
-    "epoca": "c. 1004",
-    "explicacion": "En Constantinopla el tenedor ya era común en la mesa de la corte. En Italia se comía con cuchillo y con los dedos. San Pedro Damián criticó el lujo de la princesa, y cuando ella murió de una peste lo presentó como castigo divino. Las fuentes discuten su nombre exacto.\n\nEl tenedor tardó siglos en extenderse: Italia lo adoptó primero, y en Inglaterra se seguía viendo como afectado en el siglo XVII.",
-    "fecha": "2026-11-12",
-    "fuente": {
-     "nombre": "Smithsonian Magazine: A History of Western Eating Utensils",
-     "url": "https://www.smithsonianmag.com/arts-culture/a-history-of-western-eating-utensils-from-the-scandalous-fork-to-the-incredible-spork-64593179/"
-    },
-    "materia": "Etiqueta y protocolo",
-    "pilar": "gusto",
-    "repaso": {
-     "pregunta": "¿Por qué escandalizó el tenedor en Venecia hacia el año 1004?",
-     "respuesta": "Porque una princesa bizantina lo usaba en vez de los dedos, y el clero lo vio como lujo y vanidad."
-    },
-    "titulo": "El tenedor llegó a Venecia como un escándalo",
-    "wiki": "Tenedor"
    }
   ],
   "Filosofía para vivir": [
    {
-    "materia": "Filosofía para vivir",
-    "pilar": "mente",
-    "epoca": "1639",
-    "titulo": "La frase célebre de la navaja de Ockham no aparece en Ockham",
-    "dato": "«No hay que multiplicar los entes sin necesidad» es la versión clásica de la navaja de Ockham. Pero no se ha encontrado en las obras de Guillermo de Ockham: la popularizó un teólogo irlandés, John Punch, en un comentario publicado en 1639.",
-    "explicacion": "Ockham, un fraile inglés del siglo XIV, sí defendió la idea con otras palabras, como «no se debe suponer la pluralidad sin necesidad». Y no la inventó: Aristóteles y varios escolásticos ya la usaban. Punch la llamó un «axioma común», no una frase de Ockham. La etiqueta «navaja de Ockham» llegó después, porque Ockham la usó con tanto filo que la asociaron con él.\n\nLa lección es doble. El principio sigue siendo útil: entre dos explicaciones que funcionan igual, prefiere la que necesita menos supuestos. Y es un recordatorio de que muchas citas famosas son resúmenes posteriores. Antes de citar a alguien, vale la pena preguntar dónde lo dijo.",
-    "fuente": {
-     "nombre": "Wikipedia (inglés): John Punch (theologian)",
-     "url": "https://en.wikipedia.org/wiki/John_Punch_(theologian)"
-    },
-    "wiki": "Navaja de Ockham",
     "claves": [
      {
       "nombre": "Guillermo de Ockham",
@@ -1725,11 +1762,22 @@
       "wiki": "Escolástica"
      }
     ],
+    "dato": "«No hay que multiplicar los entes sin necesidad» es la versión clásica de la navaja de Ockham. Pero no se ha encontrado en las obras de Guillermo de Ockham: la popularizó un teólogo irlandés, John Punch, en un comentario publicado en 1639.",
+    "epoca": "1639",
+    "explicacion": "Ockham, un fraile inglés del siglo XIV, sí defendió la idea con otras palabras, como «no se debe suponer la pluralidad sin necesidad». Y no la inventó: Aristóteles y varios escolásticos ya la usaban. Punch la llamó un «axioma común», no una frase de Ockham. La etiqueta «navaja de Ockham» llegó después, porque Ockham la usó con tanto filo que la asociaron con él.\n\nLa lección es doble. El principio sigue siendo útil: entre dos explicaciones que funcionan igual, prefiere la que necesita menos supuestos. Y es un recordatorio de que muchas citas famosas son resúmenes posteriores. Antes de citar a alguien, vale la pena preguntar dónde lo dijo.",
+    "fecha": "2026-11-27",
+    "fuente": {
+     "nombre": "Wikipedia (inglés): John Punch (theologian)",
+     "url": "https://en.wikipedia.org/wiki/John_Punch_(theologian)"
+    },
+    "materia": "Filosofía para vivir",
+    "pilar": "mente",
     "repaso": {
      "pregunta": "¿Quién popularizó la fórmula «no hay que multiplicar los entes sin necesidad»?",
      "respuesta": "El teólogo irlandés John Punch, en un comentario publicado en 1639; no aparece en las obras de Ockham."
     },
-    "fecha": "2026-11-27"
+    "titulo": "La frase célebre de la navaja de Ockham no aparece en Ockham",
+    "wiki": "Navaja de Ockham"
    },
    {
     "claves": [
@@ -2057,17 +2105,6 @@
   ],
   "Historia y geopolítica": [
    {
-    "materia": "Historia y geopolítica",
-    "pilar": "mundo",
-    "epoca": "1337–1453",
-    "titulo": "La guerra de los Cien Años duró 116 años, y no fue una sola guerra",
-    "dato": "El conflicto entre Inglaterra y Francia que llamamos guerra de los Cien Años va de 1337 a 1453: 116 años, con largas treguas en medio.",
-    "explicacion": "El nombre se lo pusieron los historiadores del siglo XIX, no quienes la vivieron. Para ellos fueron varias guerras y paces sucesivas por una pregunta de fondo: si el rey de Inglaterra, que tenía tierras en Francia, podía ser también rey de Francia. Hubo batallas célebres (Crécy, Poitiers, Agincourt), años de peste negra y una campesina, Juana de Arco, que cambió el rumbo en 1429.\n\nEl resultado fue más grande que cualquier batalla. Inglaterra perdió casi todo lo que tenía en el continente y miró hacia el mar. Francia salió con un ejército permanente y un rey más fuerte. Muchos historiadores ven en esos 116 años el nacimiento de dos identidades nacionales. Los nombres redondos de la historia simplifican: conviene revisar las fechas.",
-    "fuente": {
-     "nombre": "Encyclopaedia Britannica: Hundred Years' War",
-     "url": "https://www.britannica.com/event/Hundred-Years-War"
-    },
-    "wiki": "Guerra de los Cien Años",
     "claves": [
      {
       "nombre": "Juana de Arco",
@@ -2080,11 +2117,22 @@
       "wiki": "Batalla de Crécy"
      }
     ],
+    "dato": "El conflicto entre Inglaterra y Francia que llamamos guerra de los Cien Años va de 1337 a 1453: 116 años, con largas treguas en medio.",
+    "epoca": "1337–1453",
+    "explicacion": "El nombre se lo pusieron los historiadores del siglo XIX, no quienes la vivieron. Para ellos fueron varias guerras y paces sucesivas por una pregunta de fondo: si el rey de Inglaterra, que tenía tierras en Francia, podía ser también rey de Francia. Hubo batallas célebres (Crécy, Poitiers, Agincourt), años de peste negra y una campesina, Juana de Arco, que cambió el rumbo en 1429.\n\nEl resultado fue más grande que cualquier batalla. Inglaterra perdió casi todo lo que tenía en el continente y miró hacia el mar. Francia salió con un ejército permanente y un rey más fuerte. Muchos historiadores ven en esos 116 años el nacimiento de dos identidades nacionales. Los nombres redondos de la historia simplifican: conviene revisar las fechas.",
+    "fecha": "2026-11-27",
+    "fuente": {
+     "nombre": "Encyclopaedia Britannica: Hundred Years' War",
+     "url": "https://www.britannica.com/event/Hundred-Years-War"
+    },
+    "materia": "Historia y geopolítica",
+    "pilar": "mundo",
     "repaso": {
      "pregunta": "¿Cuántos años duró la guerra de los Cien Años?",
      "respuesta": "116, de 1337 a 1453, con treguas largas; el nombre se lo dieron historiadores del siglo XIX."
     },
-    "fecha": "2026-11-27"
+    "titulo": "La guerra de los Cien Años duró 116 años, y no fue una sola guerra",
+    "wiki": "Guerra de los Cien Años"
    },
    {
     "claves": [
@@ -2227,17 +2275,6 @@
   ],
   "IA y el futuro": [
    {
-    "materia": "IA y el futuro",
-    "pilar": "futuro",
-    "epoca": "c. 820",
-    "titulo": "La palabra «algoritmo» es el nombre de un sabio de Bagdad",
-    "dato": "«Algoritmo» viene de *Algoritmi*, la forma latina del nombre de al-Juarismi, matemático que trabajó en la Casa de la Sabiduría de Bagdad hacia el siglo IX. De otro libro suyo viene la palabra «álgebra».",
-    "explicacion": "Al-Juarismi (c. 780–c. 850) escribió un tratado sobre cómo calcular con los numerales indios, los que hoy llamamos arábigos, con el cero incluido. En el siglo XII se tradujo al latín con un título que empezaba *Algoritmi de numero Indorum*: «Algoritmi, sobre los números de los indios». Su nombre se volvió sinónimo del método. Su otro libro, sobre *al-jabr* («restaurar» los términos de una ecuación), dio «álgebra».\n\nCada vez que se dice que un algoritmo decide qué ves en una red o qué crédito te dan, se repite el nombre de un hombre que vivió hace 1,200 años. Un [[algoritmo|Serie finita de pasos precisos para resolver un problema; puede seguirla una persona o una máquina.]] no es magia: es una receta paso a paso. Y la receta para calcular con decimales la llevó a Europa un libro de Bagdad.",
-    "fuente": {
-     "nombre": "Encyclopaedia Britannica: al-Khwarizmi",
-     "url": "https://www.britannica.com/biography/al-Khwarizmi"
-    },
-    "wiki": "Al-Juarismi",
     "claves": [
      {
       "nombre": "Casa de la Sabiduría",
@@ -2255,6 +2292,16 @@
       "wiki": "Sistema de numeración indo-arábigo"
      }
     ],
+    "dato": "«Algoritmo» viene de *Algoritmi*, la forma latina del nombre de al-Juarismi, matemático que trabajó en la Casa de la Sabiduría de Bagdad hacia el siglo IX. De otro libro suyo viene la palabra «álgebra».",
+    "epoca": "c. 820",
+    "explicacion": "Al-Juarismi (c. 780–c. 850) escribió un tratado sobre cómo calcular con los numerales indios, los que hoy llamamos arábigos, con el cero incluido. En el siglo XII se tradujo al latín con un título que empezaba *Algoritmi de numero Indorum*: «Algoritmi, sobre los números de los indios». Su nombre se volvió sinónimo del método. Su otro libro, sobre *al-jabr* («restaurar» los términos de una ecuación), dio «álgebra».\n\nCada vez que se dice que un algoritmo decide qué ves en una red o qué crédito te dan, se repite el nombre de un hombre que vivió hace 1,200 años. Un [[algoritmo|Serie finita de pasos precisos para resolver un problema; puede seguirla una persona o una máquina.]] no es magia: es una receta paso a paso. Y la receta para calcular con decimales la llevó a Europa un libro de Bagdad.",
+    "fecha": "2026-11-27",
+    "fuente": {
+     "nombre": "Encyclopaedia Britannica: al-Khwarizmi",
+     "url": "https://www.britannica.com/biography/al-Khwarizmi"
+    },
+    "materia": "IA y el futuro",
+    "pilar": "futuro",
     "profundizar": {
      "titulo": "University of Melbourne: Why are algorithms called algorithms? (en inglés)",
      "url": "https://findanexpert.unimelb.edu.au/news/81898-why-are-algorithms-called-algorithms"
@@ -2263,7 +2310,8 @@
      "pregunta": "¿De dónde viene la palabra «algoritmo»?",
      "respuesta": "De Algoritmi, el nombre latinizado de al-Juarismi, matemático de la Casa de la Sabiduría de Bagdad (siglo IX)."
     },
-    "fecha": "2026-11-27"
+    "titulo": "La palabra «algoritmo» es el nombre de un sabio de Bagdad",
+    "wiki": "Al-Juarismi"
    },
    {
     "claves": [
@@ -2420,6 +2468,36 @@
   ],
   "Inversión y finanzas personales": [
    {
+    "materia": "Inversión y finanzas personales",
+    "pilar": "patrimonio",
+    "epoca": "2027",
+    "titulo": "Desde octubre de 2027, una acción en Europa se pagará en un día",
+    "dato": "El 11 de octubre de 2027, la Unión Europea pasará a liquidar las compraventas de acciones y bonos en un día hábil (T+1) en lugar de dos. El 16 de octubre de 2026 la autoridad europea de valores anunció que el marco legal ya está completo.",
+    "explicacion": "Cuando compras una acción, la operación se pacta al instante, pero el intercambio real del dinero y el título, la [[liquidación|Momento en que el comprador recibe los valores y el vendedor el dinero; antes de eso, la operación está pactada pero no cumplida.]], tarda. «T+2» significa dos días después de la operación. Mientras tanto, ambas partes corren el riesgo de que la otra no cumpla.\n\nAcortar el plazo reduce ese riesgo y el dinero que los intermediarios deben tener inmovilizado como garantía. Pero exige que todo funcione más rápido: la autoridad europea fijó desde el 7 de diciembre de 2026 los primeros plazos para que los participantes confirmen sus operaciones. Estados Unidos ya hizo ese cambio antes.",
+    "fuente": {
+     "nombre": "ESMA: One year to go for T+1 settlement (16 de octubre de 2026)",
+     "url": "https://esma.europa.eu/press-news/esma-news/one-year-go-t1-settlement-regulatory-framework-complete-now-lets-make-it"
+    },
+    "wiki": "Autoridad Europea de Valores y Mercados",
+    "claves": [
+     {
+      "nombre": "Autoridad Europea de Valores y Mercados",
+      "quien": "La ESMA, el regulador de los mercados de valores de la Unión Europea.",
+      "wiki": "Autoridad Europea de Valores y Mercados"
+     },
+     {
+      "nombre": "Bolsa de valores",
+      "quien": "El mercado donde se compran y venden acciones y bonos.",
+      "wiki": "Bolsa de valores"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué significa que Europa pase a T+1 el 11 de octubre de 2027?",
+     "respuesta": "Que las compraventas de valores se liquidarán (dinero y títulos cambiarán de manos) un día hábil después de la operación, no dos."
+    },
+    "fecha": "2026-11-28"
+   },
+   {
     "claves": [
      {
       "nombre": "Charles Henry Dow",
@@ -2566,6 +2644,42 @@
   ],
   "Liderazgo e influencia": [
    {
+    "materia": "Liderazgo e influencia",
+    "pilar": "caracter",
+    "epoca": "2009",
+    "titulo": "El «milagro del Hudson» fue también un trabajo de equipo",
+    "dato": "El 15 de enero de 2009, un Airbus A320 de US Airways perdió casi todo el empuje de sus dos motores al chocar con aves y acuatizó en el río Hudson. Sobrevivieron los 155 a bordo, y la autoridad investigadora no lo atribuyó solo al piloto.",
+    "explicacion": "El capitán Chesley «Sully» Sullenberger se volvió héroe nacional. Pero la Junta Nacional de Seguridad del Transporte (NTSB) señaló entre los factores de supervivencia «la toma de decisiones de los tripulantes y su gestión de los recursos de la cabina»: copiloto y sobrecargos trabajaron como equipo, con listas de procedimiento y roles claros. Iban 150 pasajeros, entre ellos un bebé en brazos, y 5 tripulantes.\n\nEs una lección de liderazgo: en una crisis, el líder no lo hace todo. Decide lo esencial y confía en un equipo entrenado para ejecutar. El mismo informe pidió mejorar el diseño de las listas de emergencia, porque estaban pensadas para fallas a gran altura.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/US_Airways_Flight_1549_(N106US)_after_crashing_into_the_Hudson_River_(crop_2).jpg?width=900",
+     "alt": "Un avión flotando en el río Hudson con pasajeros de pie sobre las alas y lanchas alrededor",
+     "pie": "El vuelo 1549 en el Hudson, con los pasajeros sobre las alas.",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "NTSB: Loss of Thrust in Both Engines… Ditching on the Hudson River",
+     "url": "https://www.ntsb.gov/investigations/Pages/DCA09MA026.aspx"
+    },
+    "wiki": "Vuelo 1549 de US Airways",
+    "claves": [
+     {
+      "nombre": "Chesley Sullenberger",
+      "quien": "El capitán del vuelo 1549, piloto con décadas de experiencia.",
+      "wiki": "Chesley Sullenberger"
+     },
+     {
+      "nombre": "Airbus A320",
+      "quien": "El modelo de avión, uno de los más usados del mundo para vuelos cortos.",
+      "wiki": "Airbus A320"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿A qué atribuyó la NTSB, además del piloto, la supervivencia del vuelo 1549?",
+     "respuesta": "A las decisiones de toda la tripulación y su gestión de los recursos de la cabina (trabajo en equipo)."
+    },
+    "fecha": "2026-11-28"
+   },
+   {
     "claves": [
      {
       "nombre": "François Pienaar",
@@ -2705,51 +2819,10 @@
     },
     "titulo": "Alejandro tiró al suelo el único casco de agua",
     "wiki": "Alejandro Magno"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Ejército Continental",
-      "quien": "El ejército de las Trece Colonias en la guerra de independencia.",
-      "wiki": "Ejército Continental"
-     },
-     {
-      "nombre": "Congreso de la Confederación",
-      "quien": "El gobierno central de EE. UU. que no podía pagar a sus soldados.",
-      "wiki": "Congreso de la Confederación"
-     }
-    ],
-    "dato": "En marzo de 1783, oficiales sin paga amenazaban con desafiar al Congreso. Washington los calmó con un gesto: se puso los anteojos.",
-    "epoca": "1783",
-    "explicacion": "El 15 de marzo de 1783, en Newburgh (Nueva York), Washington leyó un discurso a los oficiales. Para leer una carta sacó unos anteojos que casi nadie le había visto y dijo: «Señores, permítanme ponerme los anteojos, pues no solo he encanecido, sino que casi he quedado ciego al servicio de mi país».\n\nVarios oficiales lloraron. La conspiración se disolvió. Washington no ganó con argumentos, sino recordando cuánto había sacrificado él mismo: la autoridad moral pesa más que el rango.",
-    "fecha": "2026-11-12",
-    "fuente": {
-     "nombre": "Mount Vernon: «Gentlemen, you will permit me to put on my spectacles…»",
-     "url": "https://www.mountvernon.org/library/digitalhistory/past-projects/quotes/article/gentlemen-you-will-permit-me-to-put-on-my-spectacles-for-i-have-grown-not-only-gray-but-almost-blind-in-the-service-of-my-country"
-    },
-    "materia": "Liderazgo e influencia",
-    "pilar": "caracter",
-    "repaso": {
-     "pregunta": "¿Qué hizo Washington en Newburgh en 1783 para calmar a los oficiales?",
-     "respuesta": "Se puso los anteojos y dijo que había encanecido y casi quedado ciego al servicio del país; la conspiración se disolvió."
-    },
-    "titulo": "Unos anteojos detuvieron un posible golpe militar",
-    "wiki": "George Washington"
    }
   ],
   "Literatura y mitología": [
    {
-    "materia": "Literatura y mitología",
-    "pilar": "cultura",
-    "epoca": "2026",
-    "titulo": "El Nobel de 2026 fue para una profesora de griego que descubrió a Safo a los 15 años",
-    "dato": "Anne Carson, canadiense, ganó el Nobel de Literatura 2026. Se enamoró del griego antiguo cuando, adolescente, encontró en una librería de Ontario un libro de Safo con el texto griego y la traducción inglesa enfrente.",
-    "explicacion": "La Academia Sueca premió una obra «audaz e inventiva» que, en «diálogo lúdico con la tradición clásica», creó formas nuevas. Carson enseñó latín y griego, tradujo a Safo y escribió *Autobiography of Red*, una novela en verso que convierte el mito de Heracles y el monstruo Gerión en una historia de amor moderna. En *Nox*, una elegía por su hermano, usó un poema de Catulo y un libro con forma de caja y páginas en acordeón.\n\nEl dato importa porque rompe un prejuicio: que los clásicos son museo. Una poeta del siglo VII a. C. le dio a una lectora del siglo XX el material para la literatura más nueva del XXI. Leer a los antiguos no es mirar atrás; puede ser la forma de inventar.",
-    "fuente": {
-     "nombre": "Nobel Prize Outreach: Text for students, Literature 2026",
-     "url": "https://www.nobelprize.org/educational/nobel-prize-lessons/text-for-students-literature-2026/"
-    },
-    "wiki": "Anne Carson",
     "claves": [
      {
       "nombre": "Safo",
@@ -2767,11 +2840,22 @@
       "wiki": "Premio Nobel de Literatura"
      }
     ],
+    "dato": "Anne Carson, canadiense, ganó el Nobel de Literatura 2026. Se enamoró del griego antiguo cuando, adolescente, encontró en una librería de Ontario un libro de Safo con el texto griego y la traducción inglesa enfrente.",
+    "epoca": "2026",
+    "explicacion": "La Academia Sueca premió una obra «audaz e inventiva» que, en «diálogo lúdico con la tradición clásica», creó formas nuevas. Carson enseñó latín y griego, tradujo a Safo y escribió *Autobiography of Red*, una novela en verso que convierte el mito de Heracles y el monstruo Gerión en una historia de amor moderna. En *Nox*, una elegía por su hermano, usó un poema de Catulo y un libro con forma de caja y páginas en acordeón.\n\nEl dato importa porque rompe un prejuicio: que los clásicos son museo. Una poeta del siglo VII a. C. le dio a una lectora del siglo XX el material para la literatura más nueva del XXI. Leer a los antiguos no es mirar atrás; puede ser la forma de inventar.",
+    "fecha": "2026-11-27",
+    "fuente": {
+     "nombre": "Nobel Prize Outreach: Text for students, Literature 2026",
+     "url": "https://www.nobelprize.org/educational/nobel-prize-lessons/text-for-students-literature-2026/"
+    },
+    "materia": "Literatura y mitología",
+    "pilar": "cultura",
     "repaso": {
      "pregunta": "¿Cómo descubrió Anne Carson el griego antiguo?",
      "respuesta": "A los 15 años, con un libro de Safo bilingüe que encontró en una librería de Ontario."
     },
-    "fecha": "2026-11-27"
+    "titulo": "El Nobel de 2026 fue para una profesora de griego que descubrió a Safo a los 15 años",
+    "wiki": "Anne Carson"
    },
    {
     "claves": [
@@ -3355,17 +3439,6 @@
   ],
   "Oficios del lujo y estilo": [
    {
-    "materia": "Oficios del lujo y estilo",
-    "pilar": "gusto",
-    "epoca": "1927",
-    "titulo": "Rolex probó su reloj impermeable en la muñeca de una nadadora",
-    "dato": "El 7 de octubre de 1927, la taquígrafa londinense Mercedes Gleitze se convirtió en la primera mujer británica en cruzar a nado el canal de la Mancha. Poco después, Rolex la usó para demostrar que su nuevo reloj Oyster no dejaba pasar el agua.",
-    "explicacion": "Hans Wilsdorf, fundador de Rolex, había patentado una caja hermética, la Oyster. Le faltaba una prueba que el público creyera. Cuando se dudó del récord de Gleitze, ella aceptó repetir el nado en agua mucho más fría, llevando un Oyster. No terminó el cruce, pero el reloj salió funcionando y Rolex lo convirtió en una campaña publicitaria en Gran Bretaña.\n\nFue uno de los primeros casos de lo que hoy llamamos un [[embajador de marca|Persona conocida que usa y promueve un producto; su historia presta credibilidad a lo que la marca promete.]]. La lección sigue vigente en el lujo: una afirmación técnica («es impermeable») convence más cuando viene con una historia humana y una prueba extrema que cuando viene en un folleto.",
-    "fuente": {
-     "nombre": "Wikipedia (inglés): Mercedes Gleitze",
-     "url": "https://en.wikipedia.org/wiki/Mercedes_Gleitze"
-    },
-    "wiki": "Rolex",
     "claves": [
      {
       "nombre": "Hans Wilsdorf",
@@ -3378,6 +3451,16 @@
       "wiki": "Canal de la Mancha"
      }
     ],
+    "dato": "El 7 de octubre de 1927, la taquígrafa londinense Mercedes Gleitze se convirtió en la primera mujer británica en cruzar a nado el canal de la Mancha. Poco después, Rolex la usó para demostrar que su nuevo reloj Oyster no dejaba pasar el agua.",
+    "epoca": "1927",
+    "explicacion": "Hans Wilsdorf, fundador de Rolex, había patentado una caja hermética, la Oyster. Le faltaba una prueba que el público creyera. Cuando se dudó del récord de Gleitze, ella aceptó repetir el nado en agua mucho más fría, llevando un Oyster. No terminó el cruce, pero el reloj salió funcionando y Rolex lo convirtió en una campaña publicitaria en Gran Bretaña.\n\nFue uno de los primeros casos de lo que hoy llamamos un [[embajador de marca|Persona conocida que usa y promueve un producto; su historia presta credibilidad a lo que la marca promete.]]. La lección sigue vigente en el lujo: una afirmación técnica («es impermeable») convence más cuando viene con una historia humana y una prueba extrema que cuando viene en un folleto.",
+    "fecha": "2026-11-27",
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Mercedes Gleitze",
+     "url": "https://en.wikipedia.org/wiki/Mercedes_Gleitze"
+    },
+    "materia": "Oficios del lujo y estilo",
+    "pilar": "gusto",
     "profundizar": {
      "titulo": "Country Life: el reloj de la primera mujer británica que cruzó el Canal (en inglés)",
      "url": "https://www.countrylife.co.uk/luxury/this-watch-was-worn-by-the-first-woman-to-swim-the-english-channel-changing-the-horological-world-forever-now-its-going-under-the-hammer"
@@ -3386,7 +3469,8 @@
      "pregunta": "¿Qué demostró Rolex con Mercedes Gleitze en 1927?",
      "respuesta": "Que su caja Oyster era hermética: el reloj resistió horas en el agua fría del canal de la Mancha."
     },
-    "fecha": "2026-11-27"
+    "titulo": "Rolex probó su reloj impermeable en la muñeca de una nadadora",
+    "wiki": "Rolex"
    },
    {
     "claves": [
@@ -3534,17 +3618,6 @@
   ],
   "Productos digitales escalables": [
    {
-    "materia": "Productos digitales escalables",
-    "pilar": "patrimonio",
-    "epoca": "1984",
-    "titulo": "El creador de Tetris no cobró regalías durante más de una década",
-    "dato": "Alekséi Pázhitnov creó Tetris en Moscú a mediados de los años ochenta. El juego vendió millones de copias en todo el mundo, pero él no recibió regalías hasta que fundó The Tetris Company en 1996.",
-    "explicacion": "Pázhitnov trabajaba en un centro de computación de la Academia de Ciencias de la URSS. Como empleado del Estado soviético, lo que programaba no era suyo. Los derechos los gestionó **Elorg**, la empresa estatal que tenía el monopolio de exportar software. Durante años, distintas compañías occidentales, entre ellas Nintendo, se pelearon por las licencias mientras el autor seguía cobrando su sueldo.\n\nCon la caída de la URSS, los derechos volvieron a él. En 1996 fundó The Tetris Company con **Henk Rogers**, el empresario que había llevado el juego al Game Boy. La lección para cualquier creador: un producto digital puede copiarse infinitamente, pero el dinero sigue a quien es dueño de la propiedad intelectual. Antes de crear para otro, lee quién se queda con los derechos.",
-    "fuente": {
-     "nombre": "Wikipedia (inglés): Alexey Pajitnov",
-     "url": "https://en.wikipedia.org/wiki/Alexey_Pajitnov"
-    },
-    "wiki": "Tetris",
     "claves": [
      {
       "nombre": "Propiedad intelectual",
@@ -3557,6 +3630,16 @@
       "wiki": "Game Boy"
      }
     ],
+    "dato": "Alekséi Pázhitnov creó Tetris en Moscú a mediados de los años ochenta. El juego vendió millones de copias en todo el mundo, pero él no recibió regalías hasta que fundó The Tetris Company en 1996.",
+    "epoca": "1984",
+    "explicacion": "Pázhitnov trabajaba en un centro de computación de la Academia de Ciencias de la URSS. Como empleado del Estado soviético, lo que programaba no era suyo. Los derechos los gestionó **Elorg**, la empresa estatal que tenía el monopolio de exportar software. Durante años, distintas compañías occidentales, entre ellas Nintendo, se pelearon por las licencias mientras el autor seguía cobrando su sueldo.\n\nCon la caída de la URSS, los derechos volvieron a él. En 1996 fundó The Tetris Company con **Henk Rogers**, el empresario que había llevado el juego al Game Boy. La lección para cualquier creador: un producto digital puede copiarse infinitamente, pero el dinero sigue a quien es dueño de la propiedad intelectual. Antes de crear para otro, lee quién se queda con los derechos.",
+    "fecha": "2026-11-27",
+    "fuente": {
+     "nombre": "Wikipedia (inglés): Alexey Pajitnov",
+     "url": "https://en.wikipedia.org/wiki/Alexey_Pajitnov"
+    },
+    "materia": "Productos digitales escalables",
+    "pilar": "patrimonio",
     "profundizar": {
      "titulo": "Xataka: Pázhitnov tardó una década en recibir la fortuna de Tetris",
      "url": "https://www.xataka.com/videojuegos/aleksei-pazhitnov-tardo-decada-recibir-fortuna-que-estaba-generando-videojuego-que-habia-creado-tetris/amp"
@@ -3565,7 +3648,8 @@
      "pregunta": "¿Por qué Pázhitnov no cobró regalías de Tetris durante años?",
      "respuesta": "Era empleado de la Academia de Ciencias soviética; los derechos los gestionaba la empresa estatal Elorg. Cobró desde que fundó The Tetris Company en 1996."
     },
-    "fecha": "2026-11-27"
+    "titulo": "El creador de Tetris no cobró regalías durante más de una década",
+    "wiki": "Tetris"
    },
    {
     "claves": [
@@ -3701,17 +3785,6 @@
   ],
   "Relaciones y vida social": [
    {
-    "materia": "Relaciones y vida social",
-    "pilar": "caracter",
-    "epoca": "2018",
-    "titulo": "Una carta de agradecimiento alegra mucho más de lo que su autor cree",
-    "dato": "En cuatro experimentos publicados en 2018, quienes escribían cartas de agradecimiento subestimaron cuánto se alegraría y sorprendería quien las recibía, y sobreestimaron cuán incómodo se sentiría.",
-    "explicacion": "Los psicólogos **Amit Kumar** y **Nicholas Epley**, de la Universidad de Chicago, pidieron a los participantes escribir a alguien que los hubiera ayudado y predecir su reacción. Después midieron la reacción real. Los que escribían temían no saber expresarse. A los receptores eso casi no les importaba: los conmovía la calidez del gesto, no la redacción.\n\nEl error de cálculo tiene consecuencias. Si creemos que agradecer vale poco o resulta raro, lo hacemos menos de lo que convendría. El estudio sugiere una regla simple: cuando dudes si mandar ese mensaje de gracias, mándalo. Tu estimación de su efecto probablemente se queda corta.",
-    "fuente": {
-     "nombre": "University of Chicago News: People underestimate value of sending letters of appreciation",
-     "url": "https://news.uchicago.edu/story/people-underestimate-value-sending-letters-appreciation"
-    },
-    "wiki": "Gratitud",
     "claves": [
      {
       "nombre": "Psicología social",
@@ -3724,6 +3797,16 @@
       "wiki": "Universidad de Chicago"
      }
     ],
+    "dato": "En cuatro experimentos publicados en 2018, quienes escribían cartas de agradecimiento subestimaron cuánto se alegraría y sorprendería quien las recibía, y sobreestimaron cuán incómodo se sentiría.",
+    "epoca": "2018",
+    "explicacion": "Los psicólogos **Amit Kumar** y **Nicholas Epley**, de la Universidad de Chicago, pidieron a los participantes escribir a alguien que los hubiera ayudado y predecir su reacción. Después midieron la reacción real. Los que escribían temían no saber expresarse. A los receptores eso casi no les importaba: los conmovía la calidez del gesto, no la redacción.\n\nEl error de cálculo tiene consecuencias. Si creemos que agradecer vale poco o resulta raro, lo hacemos menos de lo que convendría. El estudio sugiere una regla simple: cuando dudes si mandar ese mensaje de gracias, mándalo. Tu estimación de su efecto probablemente se queda corta.",
+    "fecha": "2026-11-27",
+    "fuente": {
+     "nombre": "University of Chicago News: People underestimate value of sending letters of appreciation",
+     "url": "https://news.uchicago.edu/story/people-underestimate-value-sending-letters-appreciation"
+    },
+    "materia": "Relaciones y vida social",
+    "pilar": "caracter",
     "profundizar": {
      "titulo": "Kumar y Epley (2018), Undervaluing Gratitude, en PubMed (en inglés)",
      "url": "https://pubmed.ncbi.nlm.nih.gov/29949445/"
@@ -3732,7 +3815,8 @@
      "pregunta": "¿Qué error cometían quienes escribían cartas de agradecimiento en el estudio de 2018?",
      "respuesta": "Subestimaban la alegría y la sorpresa del receptor y sobreestimaban su incomodidad."
     },
-    "fecha": "2026-11-27"
+    "titulo": "Una carta de agradecimiento alegra mucho más de lo que su autor cree",
+    "wiki": "Gratitud"
    },
    {
     "claves": [
@@ -3977,6 +4061,42 @@
   ],
   "Retórica y oratoria": [
    {
+    "materia": "Retórica y oratoria",
+    "pilar": "mente",
+    "epoca": "1941",
+    "titulo": "«Infamia» fue una corrección de última hora",
+    "dato": "El primer borrador del discurso de Roosevelt tras Pearl Harbor decía que el 7 de diciembre de 1941 era «una fecha que vivirá en la historia mundial». Él mismo tachó «historia mundial» y escribió a mano «infamia».",
+    "explicacion": "Roosevelt dictó el texto a su secretaria, Grace Tully, al anochecer del 7 de diciembre, y luego lo corrigió a lápiz. También cambió «simultáneamente» por «de repente». El discurso, de poco más de 500 palabras, duró unos seis minutos ante el Congreso, al día siguiente.\n\nLa corrección muestra una regla de oro de la retórica: «historia mundial» describe; «infamia» juzga. Una palabra con carga moral convierte un dato en una emoción compartida. Por eso hoy nadie recuerda el borrador y todos recuerdan «el día de la infamia».",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fdr_delivers_speech.jpg?width=900",
+     "alt": "Franklin D. Roosevelt de pie ante un atril con micrófonos, frente al Congreso",
+     "pie": "Roosevelt pronuncia el discurso ante el Congreso, el 8 de diciembre de 1941.",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "National Archives (EE. UU.), Prologue: Crafting the «Day of Infamy» speech",
+     "url": "https://www.archives.gov/publications/prologue/2001/winter/crafting-day-of-infamy-speech.html"
+    },
+    "wiki": "Ataque a Pearl Harbor",
+    "claves": [
+     {
+      "nombre": "Franklin D. Roosevelt",
+      "quien": "Presidente de Estados Unidos (1933–1945); pidió al Congreso declarar la guerra a Japón.",
+      "wiki": "Franklin D. Roosevelt"
+     },
+     {
+      "nombre": "Ataque a Pearl Harbor",
+      "quien": "El ataque japonés del 7 de diciembre de 1941 a la base de Hawái.",
+      "wiki": "Ataque a Pearl Harbor"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué decía el borrador antes de «infamia»?",
+     "respuesta": "«Una fecha que vivirá en la historia mundial»; Roosevelt lo corrigió a mano."
+    },
+    "fecha": "2026-11-28"
+   },
+   {
     "claves": [
      {
       "nombre": "Julio César",
@@ -4113,39 +4233,45 @@
     },
     "titulo": "Kennedy no dijo «soy una dona»",
     "wiki": "John F. Kennedy"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Edward Everett",
-      "quien": "Político y orador de Massachusetts; dio el discurso principal en Gettysburg.",
-      "wiki": "Edward Everett"
-     },
-     {
-      "nombre": "Abraham Lincoln",
-      "quien": "Presidente de EE. UU. durante la Guerra Civil.",
-      "wiki": "Abraham Lincoln"
-     }
-    ],
-    "dato": "En Gettysburg, el discurso principal no era el de Lincoln. Edward Everett habló unas dos horas; Lincoln, después, dijo 272 palabras.",
-    "epoca": "1863",
-    "explicacion": "Everett era el orador más famoso de Estados Unidos y lo invitaron para el discurso central del 19 de noviembre de 1863. Lincoln solo debía decir «unas palabras» de dedicación.\n\nAl día siguiente, Everett le escribió que le gustaría pensar que se había acercado a la idea central de la ocasión en dos horas tanto como Lincoln en dos minutos. La brevedad no fue un accidente: cada frase del texto estaba trabajada para ser recordada.",
-    "fecha": "2026-11-12",
-    "fuente": {
-     "nombre": "Abraham Lincoln Online: carta de Lincoln a Edward Everett (20 nov 1863)",
-     "url": "https://www.abrahamlincolnonline.org/lincoln/speeches/everett.htm"
-    },
-    "materia": "Retórica y oratoria",
-    "pilar": "mente",
-    "repaso": {
-     "pregunta": "¿Cuánto habló Edward Everett en Gettysburg y cuánto Lincoln?",
-     "respuesta": "Everett, unas dos horas; Lincoln, unos dos minutos (272 palabras)."
-    },
-    "titulo": "El orador estrella habló dos horas; Lincoln, dos minutos",
-    "wiki": "Discurso de Gettysburg"
    }
   ],
   "Salud y longevidad": [
+   {
+    "materia": "Salud y longevidad",
+    "pilar": "cuerpo",
+    "epoca": "1858",
+    "titulo": "Florence Nightingale salvó vidas con una gráfica",
+    "dato": "La enfermera más famosa del siglo XIX fue también una pionera de la estadística. En 1858 diseñó un diagrama en forma de rosa que mostraba que, en la guerra de Crimea, morían muchos más soldados por enfermedades evitables que por heridas de batalla.",
+    "explicacion": "En algunos hospitales militares, la mortalidad llegó a superar 40%. Nightingale reunió los datos mes por mes y los pintó por colores: azul para las enfermedades prevenibles, rojo para las heridas, negro para otras causas. Comparó dos «rosas»: el año antes y el año después de las reformas sanitarias. El azul se encogía de forma evidente.\n\nLos generales no leían tablas, pero entendían un dibujo. La gráfica ayudó a convencer al gobierno británico de que la higiene, el agua limpia y la ventilación salvaban más vidas que los cirujanos. Hoy es un clásico de la visualización de datos.",
+    "imagen": {
+     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nightingale-mortality.jpg?width=900",
+     "alt": "Diagrama circular de Florence Nightingale con cuñas de colores que muestran las causas de muerte por mes",
+     "pie": "El «diagrama de las causas de mortalidad en el ejército de Oriente», de Nightingale.",
+     "credito": "Wikimedia Commons"
+    },
+    "fuente": {
+     "nombre": "McGill University, Office for Science and Society: How Florence Nightingale used data visualization to save lives",
+     "url": "https://www.mcgill.ca/oss/article/how-florence-nightingale-used-data-visualization-save-lives"
+    },
+    "wiki": "Florence Nightingale",
+    "claves": [
+     {
+      "nombre": "Guerra de Crimea",
+      "quien": "Conflicto de 1853 a 1856 entre Rusia y una alianza de Reino Unido, Francia y el Imperio otomano.",
+      "wiki": "Guerra de Crimea"
+     },
+     {
+      "nombre": "Estadística",
+      "quien": "La ciencia de reunir y analizar datos, que Nightingale usó como arma política.",
+      "wiki": "Estadística"
+     }
+    ],
+    "repaso": {
+     "pregunta": "¿Qué mostraba la «rosa» de Florence Nightingale?",
+     "respuesta": "Que en la guerra de Crimea morían más soldados por enfermedades evitables que por heridas, y cómo bajaron tras las reformas sanitarias."
+    },
+    "fecha": "2026-11-28"
+   },
    {
     "claves": [
      {
@@ -4283,42 +4409,6 @@
     },
     "titulo": "A George Washington le sacaron cerca de 40% de su sangre",
     "wiki": "Sangría (tratamiento médico)"
-   },
-   {
-    "claves": [
-     {
-      "nombre": "Teoría microbiana de la enfermedad",
-      "quien": "La idea de que los microbios causan enfermedades; reemplazó a la del «mal aire».",
-      "wiki": "Teoría microbiana de la enfermedad"
-     },
-     {
-      "nombre": "Epidemiología",
-      "quien": "La ciencia que estudia cómo se distribuyen las enfermedades; Snow es uno de sus fundadores.",
-      "wiki": "Epidemiología"
-     }
-    ],
-    "dato": "La historia dice que John Snow frenó el cólera de Londres en 1854 al quitar la manija de una bomba de agua en Broad Street. Cuando la quitaron, el 8 de septiembre, la epidemia ya iba en descenso. El propio Snow lo reconoció.",
-    "epoca": "1854",
-    "explicacion": "Muchos vecinos habían huido y los casos ya bajaban. Lo que hizo grande a Snow no fue el gesto, sino la evidencia: contó muertes casa por casa, las puso en un mapa y mostró que se agrupaban alrededor de esa bomba. En una época en que se creía que el cólera venía del «mal aire», demostró que viajaba en el agua.\n\nLa manija sí pudo evitar un rebrote. Después, el pastor Henry Whitehead encontró el origen: un pozo negro con pañales de una bebé enferma, a menos de un metro de la bomba.",
-    "fecha": "2026-11-17",
-    "fuente": {
-     "nombre": "UCLA Fielding School of Public Health: The Broad Street pump outbreak",
-     "url": "https://epi-snow.ph.ucla.edu/Stream2_BSPoutbreak_e.html"
-    },
-    "imagen": {
-     "alt": "Réplica de una bomba de agua antigua en una calle de Londres, junto a un pub",
-     "credito": "Wikimedia Commons",
-     "pie": "La réplica de la bomba en Broadwick Street, Londres, junto al pub que lleva el nombre de John Snow.",
-     "url": "https://commons.wikimedia.org/wiki/Special:FilePath/John_Snow_memorial_and_pub.jpg?width=900"
-    },
-    "materia": "Salud y longevidad",
-    "pilar": "cuerpo",
-    "repaso": {
-     "pregunta": "¿Por qué la manija de la bomba de Broad Street no fue lo que detuvo la epidemia de 1854?",
-     "respuesta": "Porque cuando la quitaron, el 8 de septiembre, los casos ya iban en descenso. El aporte de Snow fue probar con datos que el cólera viajaba en el agua."
-    },
-    "titulo": "Quitar la manija de la bomba no detuvo la epidemia",
-    "wiki": "Epidemia de cólera de Broad Street"
    }
   ]
  }
